@@ -84,3 +84,10 @@ test('the default term budget bounds a large corpus',()=>{
  const out=agentPages(manifest,content);
  assert.ok([...out.files].filter(([p])=>p.includes('/terms/')).length<=5000);
 });
+
+test('article discovery metadata uses release-pinned canonical routes',()=>{
+ const {manifest,content,doc,prefix}=fixture(1);doc.provisions[0].provision_type='article';content.set(prefix+'mx/test/instrument.json',Buffer.from(JSON.stringify(doc)));const generated=agentPages(manifest,content,{publicOrigin:'https://example.org'});
+ const article=[...generated.files].find(([path])=>path.endsWith('/'+sha('urn:test:article:1')+'.html'))[1].toString();
+ assert.ok(article.includes(`rel="canonical" href="https://example.org/lex-mex/r/${manifest.release_id}/mx/test/article/1"`));
+ assert.match(article,/name="description"/);
+});

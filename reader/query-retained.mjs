@@ -5,7 +5,7 @@ import {hash} from './query-contract.mjs';
 import {memoryAdapter} from './query-memory.mjs';
 import {releaseId,safeRelative} from './reader-core.mjs';
 
-export async function retainedAdapter(directory){
+export async function retainedData(directory){
   const root=await realpath(resolve(directory));
   const latest=JSON.parse(await readFile(join(root,'latest.json'),'utf8'));
   const id=releaseId(latest.release_id),base=await realpath(join(root,'releases',id));
@@ -41,7 +41,11 @@ export async function retainedAdapter(directory){
     if(!data.references[edge.source_provision_id])data.references[edge.source_provision_id]=[];
     data.references[edge.source_provision_id].push({target_id:edge.target_provision_id,target:target&&edge.resolution_status==='resolved'?{slug:target.instrument.slug,provision_type:target.provision_type,number:target.number}:null,source_span:edge.source_span,resolution_status:edge.resolution_status,resolution_rule:edge.resolution_rule??null,qualifiers:(edge.qualifiers??[]).map(q=>({type:q.type,text:q.text}))});
   }}
-  const adapter=memoryAdapter(data);
+  memoryAdapter(data); // Validate the complete public DTO projection before export.
+  return data;
+}
+export async function retainedAdapter(directory){
+  const adapter=memoryAdapter(await retainedData(directory));
   adapter.notice='PREVIEW LOCAL · Publicación retenida de 4 instrumentos. No consulta el corpus federal actual ni el DB en desarrollo.';
   return adapter;
 }

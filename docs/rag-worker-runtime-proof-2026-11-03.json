@@ -1,0 +1,25 @@
+{
+  "runtime": "local Miniflare/workerd",
+  "bundle_bytes": 3387172,
+  "results": [
+    {
+      "path": "/lex-mex/agents/",
+      "status": 200,
+      "bytes": 1902,
+      "wall_ms": 656.493792
+    },
+    {
+      "path": "/lex-mex/api/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/search?q=segregados",
+      "status": 200,
+      "bytes": 1752,
+      "wall_ms": 6.46875
+    },
+    {
+      "path": "/lex-mex/api/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/article/46",
+      "status": 200,
+      "bytes": 3613,
+      "wall_ms": 1.6656249999999773
+    }
+  ],
+  "limits": "Local wall time only; no production CPU or memory claim"
+}

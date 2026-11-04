@@ -1,0 +1,563 @@
+{
+  "provisions": 870,
+  "differences": [
+    {
+      "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:1",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:43.156573Z",
+        "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+        "recorded_reform_date": null
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%201%20IFPES.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:45.488627Z",
+        "source_sha256": "668abe9abe85bff137d6b6fa01ccf3e2a6f43c6f09e63ca23b88f6260d28c1f9",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:2",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:43.156573Z",
+        "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+        "recorded_reform_date": null
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%202%20IFPES.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:46.366653Z",
+        "source_sha256": "b741cb02e8d890e609ccd45f357f07653383a29cae9118b2fa8e01f230e5ef1d",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:3",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:43.156573Z",
+        "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+        "recorded_reform_date": null
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%203%20IFPES.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:47.737542Z",
+        "source_sha256": "3ea5c47dfaae47232d202ddc5cc4fee5f4091fecc7f2d74b5a6d1e1e5cb9af7e",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:4",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:43.156573Z",
+        "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+        "recorded_reform_date": null
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%204%20IFPES.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:48.658237Z",
+        "source_sha256": "9baefef4739409f9bcb7b9130d253824c492e4ed20631a944709bf65c77b28e4",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:5",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:43.156573Z",
+        "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+        "recorded_reform_date": null
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%205%20IFPES.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:49.865952Z",
+        "source_sha256": "7e4d63c664d335ae6cb3e78212eb9b049079b96c3f2dcd0c15b45af0dd8e1e5d",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:6",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:43.156573Z",
+        "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+        "recorded_reform_date": null
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%206%20IFPES.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:51.208088Z",
+        "source_sha256": "9d12f997bb551dc744fbfe39b08ec89aefa574976b00c46354246be9b50005e4",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:7",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:43.156573Z",
+        "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+        "recorded_reform_date": null
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%207%20IFPES.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:52.338381Z",
+        "source_sha256": "3b23ad521016d3f88b6d9186da8a3a146112638f21d56f2d3968ac2e97a7a193",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:annex:8",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:43.156573Z",
+        "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+        "recorded_reform_date": null
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%208%20IFPES.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:55:53.235778Z",
+        "source_sha256": "e3192868da20743674c82da1685992c8a8c8202132bba35366cb20ce327e49b8",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:1",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%201%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:01.049489Z",
+        "source_sha256": "e89fa429d4383b417d4bc19dfd2c172d482ecb4692075ada8cd4f3268a720000",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:2",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%202%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:01.793981Z",
+        "source_sha256": "ddc6f1a2d900acc6ebfef59c50c2fb3f4004e0b1eae0f0696bd0120b0e782222",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:3",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%203%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:02.522273Z",
+        "source_sha256": "0e0990ba205a8f72ceb82a9a26108bea0d96a621cac20b078fd7f743171e161d",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:4",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%204%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:03.266896Z",
+        "source_sha256": "09e635eaa58617b34088bfd43fbf3ad549bf8def5ec77525e6b3c668067eb8ba",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:5",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%205%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:04.171977Z",
+        "source_sha256": "5277a5b6380ec35f1265fd30c16af7566283eb4afe47337723cd5092e1276272",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:6",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%206%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:05.357602Z",
+        "source_sha256": "a93bba70c7f5095ac3a67f8c1f3722f88b4a830be437f6940d69336f1ef9a560",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:7",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%207%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:06.512030Z",
+        "source_sha256": "85e23ecfc970c19d11b284f7e32a50b042e3b1ea716dd70f0324401149a894ca",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:8",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%208%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:07.341866Z",
+        "source_sha256": "2ece1ff508c65cb43f1f53db988361846719ca7f6ddf53c3ca49aac13c9ed17e",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:9",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%209%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:08.163002Z",
+        "source_sha256": "1f9c5e4d5d11d7bbb328ebb88ff43f07eea1e3dd76af3a523d1211132e597396",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:10",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2010%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:08.719046Z",
+        "source_sha256": "8d6a84548021f4133e957c213f4d62ad0a00c764d3e64d7d200f51aa08656b16",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:11",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2011%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:09.520821Z",
+        "source_sha256": "15179eb51bd5b2aa626522c4c36208da18c415d4d77848e07d98f4d82b371728",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:12",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2012%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:10.303478Z",
+        "source_sha256": "96733a30801b157f145b3569e7eae3c91bab4ca43f751227cfbb6bf460b8a337",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:13",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2013%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:11.119718Z",
+        "source_sha256": "5d3dfa6fea489716035461a6ba9dd551202eb54652b311fe243f1bfbdac001c4",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:14",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2014%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:12.041355Z",
+        "source_sha256": "9e148494d894f5d1fdd4896cd8c5b83df634252767582c5b99278d1f459ca903",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:15",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2015%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:12.873382Z",
+        "source_sha256": "4d94a1cd409ff37711aaefddc2e2c8eb970cbd1661989cae2dd3144fdcf33a25",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:16",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2016%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:13.813708Z",
+        "source_sha256": "9e22ff49a70bcdcfed4cb71f3c8add671556098128ff7174cf9167f9cc2b5ab8",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:17",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2017%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:14.672411Z",
+        "source_sha256": "9c2ecdbbb2dbabcd6f8b264a8ee1222e6ffdc9b4e6fa4147a38092213c8b93cf",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:18",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2018%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:15.816506Z",
+        "source_sha256": "07369b5809101ffe91cd6a952ff48d11ce279a9649b0ca97caafc7a1ceedab71",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:19",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2019%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:16.882615Z",
+        "source_sha256": "e884bb666a166a11492b39bb60d797b19a538cb161b3311efb6cc46ea826ed04",
+        "recorded_reform_date": null
+      }
+    },
+    {
+      "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:annex:20",
+      "kind": "source",
+      "sqlite": {
+        "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:00.440428Z",
+        "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+        "recorded_reform_date": "2026-07-06"
+      },
+      "projection": {
+        "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2020%20Fintech.pdf",
+        "publisher": "Comisión Nacional Bancaria y de Valores",
+        "retrieved_at": "2026-07-12T06:56:17.718319Z",
+        "source_sha256": "70acbe1ec5c595de72dfe44100fd35391c7cd78aa2ed6e2de360ccc84f8d1b07",
+        "recorded_reform_date": null
+      }
+    }
+  ],
+  "searches": [
+    {
+      "query": "segregados",
+      "projection": [
+        "urn:lex-mx:federal:statute:lritf:article:46"
+      ],
+      "sqlite": [
+        "urn:lex-mx:federal:statute:lritf:article:46"
+      ]
+    },
+    {
+      "query": "autorización",
+      "projection": [
+        "urn:lex-mx:federal:statute:lritf:article:80",
+        "urn:lex-mx:federal:statute:lritf:article:83",
+        "urn:lex-mx:federal:statute:lritf:article:89",
+        "urn:lex-mx:federal:statute:lritf:article:86",
+        "urn:lex-mx:federal:statute:lritf:article:124"
+      ],
+      "sqlite": [
+        "urn:lex-mx:federal:statute:lritf:article:80",
+        "urn:lex-mx:federal:statute:lritf:article:89",
+        "urn:lex-mx:federal:statute:lritf:article:124",
+        "urn:lex-mx:federal:statute:lritf:article:67",
+        "urn:lex-mx:federal:statute:lritf:article:81"
+      ]
+    },
+    {
+      "query": "capital mínimo",
+      "projection": [
+        "urn:lex-mx:federal:statute:lritf:article:36",
+        "urn:lex-mx:federal:statute:lritf:article:40",
+        "urn:lex-mx:federal:statute:lritf:article:13",
+        "urn:lex-mx:federal:statute:lritf:article:69"
+      ],
+      "sqlite": [
+        "urn:lex-mx:federal:statute:lritf:article:36",
+        "urn:lex-mx:federal:statute:lritf:article:40",
+        "urn:lex-mx:federal:statute:lritf:article:13",
+        "urn:lex-mx:federal:statute:lritf:article:69"
+      ]
+    },
+    {
+      "query": "cuentas de fondos",
+      "projection": [
+        "urn:lex-mx:federal:statute:lritf:article:22"
+      ],
+      "sqlite": [
+        "urn:lex-mx:federal:statute:lritf:article:22"
+      ]
+    }
+  ],
+  "bundle_bytes": 3387172,
+  "gzip_bytes": 573367
+}

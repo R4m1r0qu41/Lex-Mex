@@ -1,0 +1,214 @@
+{
+  "schema_version": "lex-mex-runtime-evaluation-v1",
+  "created": "2026-10-28",
+  "reference_commit": "f0f8a868fd78ce1cf0ed939ab82511daf5659725",
+  "reference_database_release": "d82f53c073a53960d18f56c323d720ebce84dddcc2f70da949fa0ba25687539d",
+  "reference_database_path": "/Users/jr/Dev/lex-mex-parser-repair/derived/db/repair-a/d82f53c073a53960d18f56c323d720ebce84dddcc2f70da949fa0ba25687539d/corpus.sqlite",
+  "public_pin_prior_observation": {
+    "schema_version": "reader-publication-v1",
+    "release_id": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+    "publication_id": "0d142a9a88b049dcf6623e599783a862fdb839c01e2221a56e62997b39b4e3f0",
+    "corpus_commit": "d2ab64d61ecfe103cc2a2980c5d04ed63c20bb7a",
+    "manifest_sha256": "e3c8b096b41e5cdb231172def8cc6cd3f7d2b9a84613456d06933b28b969dec9"
+  },
+  "notice": "Evaluator only; oracle snapshot, not canonical corpus or proof of current legal freshness. Do not give answer key to subjects.",
+  "counts": {
+    "lritf": 156,
+    "lic": 511,
+    "itf-dcg-2018": 132,
+    "ifpe-dcg-2021": 71
+  },
+  "ids_and_text_match_main": {
+    "lritf": true,
+    "lic": true,
+    "itf-dcg-2018": true,
+    "ifpe-dcg-2021": true
+  },
+  "evidence": {
+    "urn:lex-mx:federal:statute:lritf:article:11": {
+      "slug": "lritf",
+      "article": "11",
+      "text": "Para organizarse y operar como ITF se requiere obtener una autorización que será otorgada por la CNBV, previo acuerdo del Comité Interinstitucional, en términos del Capítulo I del Título III de la presente Ley.\n\nLas ITF, además de cumplir con las obligaciones establecidas en esta Ley y en las disposiciones que de ella emanen, deberán tomar medidas para evitar que se difunda información falsa o engañosa a través de ellas. Adicionalmente, las ITF deberán difundir la información que permita a sus Clientes identificar los riesgos de las Operaciones que celebren con o a través de ellas, conforme a lo previsto en esta Ley.\n\nNi el Gobierno Federal ni las entidades de la administración pública paraestatal podrán responsabilizarse o garantizar los recursos de los Clientes que sean utilizados en las Operaciones que celebren con las ITF o frente a otros, así como tampoco asumir alguna responsabilidad por las obligaciones contraídas por las ITF o por algún Cliente frente a otro, en virtud de las Operaciones que celebren. Las ITF deberán señalar expresamente lo mencionado en este párrafo en sus respectivas páginas de internet, en los mensajes que muestren a través de las aplicaciones informáticas o transmitan por medios de comunicación electrónica o digital que utilicen para el ofrecimiento y realización de sus Operaciones, así como en la publicidad y los contratos que celebren con sus Clientes.",
+      "text_sha256": "2938ef4cde12e200b1791b603bca229b354effa6a5996e9dd19323c950760332",
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+      "source_sha256": "d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491",
+      "retrieved_at": "2026-07-12T06:57:26.609663Z",
+      "recorded_reform_date": "2025-11-14"
+    },
+    "urn:lex-mx:federal:statute:lritf:article:22": {
+      "slug": "lritf",
+      "article": "22",
+      "text": "Los servicios realizados con el público de manera habitual y profesional, consistentes en la emisión, administración, redención y transmisión de fondos de pago electrónico, por medio de los actos que a continuación se señalan, a través de aplicaciones informáticas, interfaces, páginas de internet o cualquier otro medio de comunicación electrónica o digital, solo podrán prestarse por las personas morales autorizadas por la CNBV, previo acuerdo del Comité Interinstitucional, como instituciones de fondos de pago electrónico:\n\nI. Abrir y llevar una o más cuentas de fondos de pago electrónico por cada Cliente, en las que se realicen registros de abonos equivalentes a la cantidad de fondos de pago electrónico emitidos contra la recepción de una cantidad de dinero, en moneda nacional o extranjera, o de activos virtuales determinados;\n\nII. Realizar transferencias de fondos de pago electrónico entre sus Clientes mediante los respectivos abonos y cargos en las correspondientes cuentas a que se refiere la fracción I de este artículo; III. Realizar transferencias de determinadas cantidades de dinero en moneda nacional o, sujeto a la previa autorización del Banco de México, en moneda extranjera o de activos virtuales, mediante los respectivos abonos y cargos en las correspondientes cuentas a que se refiere la fracción I de este artículo, entre sus Clientes y aquellos de otra institución de fondos de pago electrónico, así como cuentahabientes o usuarios de otras Entidades Financieras o de entidades extranjeras facultadas para realizar Operaciones similares a las que se refiere este artículo;\n\nIV. Entregar una cantidad de dinero o activos virtuales equivalente a la misma cantidad de fondos de pago electrónico en una cuenta de fondos de pago electrónico, mediante el respectivo cargo en dicha cuenta, y\n\nV. Mantener actualizado el registro de cuentas a que se refiere la fracción I de este artículo, así como modificarlo en relación con el ingreso, transferencia y retiro de fondos de pago electrónico, de acuerdo con lo señalado en las fracciones I, II, III y IV del presente artículo, según corresponda.",
+      "text_sha256": "efdc508e280697793aab149f4402c973af8266b83533caaad6007eb8ab17b6e6",
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+      "source_sha256": "d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491",
+      "retrieved_at": "2026-07-12T06:57:26.609663Z",
+      "recorded_reform_date": "2025-11-14"
+    },
+    "urn:lex-mx:federal:statute:lritf:article:46": {
+      "slug": "lritf",
+      "article": "46",
+      "text": "Las ITF, respecto de las cantidades de dinero que reciban de sus Clientes para la realización de las Operaciones contratadas, estarán obligadas a mantener los recursos propios segregados de los de sus Clientes, así como mantener estos últimos identificados por cada Cliente. En todo caso, mientras las ITF mantengan dichas cantidades bajo su disposición sin que las hayan entregado al beneficiario o destinatario, o bien, transferido a otra entidad facultada para participar en servicios de pago a que haya lugar, deberán depositar dichas cantidades, a más tardar al final del día en que las hayan recibido, en cuentas de depósito de dinero a la vista abiertas a nombre de la institución de que se trate en una Entidad Financiera autorizada para recibir depósitos de dinero, las cuales deberán ser distintas a aquellas donde se mantengan los recursos propios de la operación de la ITF, o emplearse en operaciones de reporto solo con Valores emitidos por el Gobierno Federal o el Banco de México celebradas con instituciones de crédito a plazo de un día renovable conforme a lo que convengan al efecto, o bien afectarse en un fideicomiso de administración constituido para tal fin, que únicamente lleve a cabo las referidas operaciones de reporto.\n\nTratándose de instituciones de fondos de pago electrónico, el monto total que cada una de ellas pueda mantener en una o más cuentas de depósito de dinero a la vista, respecto del dinero que reciban de sus Clientes, en ningún momento podrá superar el equivalente al máximo entre un millón de UDIS y el equivalente al doble de la cantidad más alta de fondos de pago electrónico que dicha institución haya redimido a sus Clientes en plazos de 24 horas consecutivas comprendidos en los últimos trescientos sesenta y cinco días. Los recursos que los Clientes de las instituciones de financiamiento colectivo les entreguen para celebrar o dar cumplimiento a las Operaciones respectivas, en ningún momento podrán considerarse como un pasivo directo o contingente para dichas instituciones y no podrán disponerse hasta en tanto se cumplan con las condiciones pactadas para liberarlos.\n\nTratándose de las operaciones con divisas, las ITF quedarán sujetas a lo establecido en el artículo 32 de la Ley del Banco de México y este, a su vez, quedará sujeto a lo dispuesto en el artículo 22, fracción II de dicha Ley.\n\nLas ITF así como las demás personas que realicen operaciones con las Entidades Financieras, no serán objeto de discriminación en términos de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.",
+      "text_sha256": "c0b36e49c9209e36e2a969d73bacac3d2d544144e6ca55af4fde0a69bd7b7fc9",
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+      "source_sha256": "d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491",
+      "retrieved_at": "2026-07-12T06:57:26.609663Z",
+      "recorded_reform_date": "2025-11-14"
+    },
+    "urn:lex-mx:federal:statute:lic:article:2": {
+      "slug": "lic",
+      "article": "2",
+      "text": "El servicio de banca y crédito sólo podrá prestarse por instituciones de crédito, que podrán ser:\n\nI. Instituciones de banca múltiple, y\n\nII. Instituciones de banca de desarrollo.\n\nPara efectos de lo dispuesto en la presente Ley, se considera servicio de banca y crédito la captación de recursos del público en el mercado nacional para su colocación en el público, mediante actos causantes de pasivo directo o contingente, quedando el intermediario obligado a cubrir el principal y, en su caso, los accesorios financieros de los recursos captados.\n\nNo se consideran operaciones de banca y crédito aquellas que, en el ejercicio de las actividades que les sean propias, celebren intermediarios financieros distintos a instituciones de crédito que se encuentren debidamente autorizados conforme a los ordenamientos legales aplicables. Dichos intermediarios en ningún caso podrán recibir depósitos irregulares de dinero en cuenta de cheques.\n\nTampoco se considerarán operaciones de banca y crédito la captación de recursos del público mediante la emisión de instrumentos inscritos en el Registro Nacional de Valores, colocados mediante oferta pública incluso cuando dichos recursos se utilicen para el otorgamiento de financiamientos de cualquier naturaleza. Párrafo derogado DOF 30-04-1996. Adicionado DOF 30-11-2005\n\nPara efectos de este artículo y del artículo 103 se entenderá que existe captación de recursos del público cuando: a) se solicite, ofrezca o promueva la obtención de fondos o recursos de persona indeterminada o mediante medios masivos de comunicación, o b) se obtengan o soliciten fondos o recursos de forma habitual o profesional. Párrafo adicionado DOF 30-11-2005",
+      "text_sha256": "25b7136086e7039d8b38c377505053d22b6631c4a4d5e4bf181ab6838e6f946e",
+      "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
+      "source_sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d",
+      "retrieved_at": "2026-07-12T08:06:03.378039Z",
+      "recorded_reform_date": "2025-11-14"
+    },
+    "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:2": {
+      "slug": "ifpe-dcg-2021",
+      "article": "2",
+      "text": "Las instituciones de fondos de pago electrónico, al pactar la celebración de Operaciones y la prestación de servicios a través de Canales de Instrucción, deberán requerir el consentimiento expreso de sus Clientes para dichos efectos, el cual se podrá obtener a través del proceso de Autenticación referido en el artículo 7 de las presentes Disposiciones. Adicionalmente, las instituciones de fondos de pago electrónico deberán:\n\nI. En la contratación respectiva, establecer de manera clara y precisa, lo siguiente:\n\na) Las Operaciones y servicios que podrán realizar y proporcionar a través de dichos Canales de Instrucción.\n\nb) Los mecanismos y procedimientos para la Autenticación del Cliente, así como las responsabilidades de este y de la institución de fondos de pago electrónico respecto de la celebración de Operaciones y la prestación de servicios a través del Canal de Instrucción respectivo.\n\nc) Los mecanismos y procedimientos para la notificación al Cliente de las Operaciones realizadas y servicios prestados por las instituciones de fondos de pago electrónico a través de los Canales de Instrucción.\n\nd) Los mecanismos y procedimientos de cancelación de la contratación de servicios, los cuales deberán ser similares a los de la propia contratación, considerando los canales de atención al Cliente, Mecanismos de Identificación del Cliente y procedimientos para su Autenticación.\n\ne) Las restricciones operativas aplicables de acuerdo con el Canal de Instrucción de que se trate, de conformidad con lo previsto en este Capítulo.\n\nII. Informar a sus Clientes, previamente a la contratación, los términos y condiciones para el uso de los Canales de Instrucción, debiendo mantener dicha información disponible para su consulta en cualquier momento.\n\nIII. Informar a sus Clientes los riesgos inherentes a la utilización de los Canales de Instrucción respectivos, así como hacer de su conocimiento sugerencias para prevenir la realización de actos no autorizados por ellos o cualesquier otros irregulares o ilegales, por los que se puedan llevar a cabo Operaciones referidas a las Cuentas de las que estos sean titulares.",
+      "text_sha256": "a367afa278975f8045fac431192695e6fbc4922908feaa088f8c27b71465dba5",
+      "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+      "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+      "retrieved_at": "2026-07-12T06:55:43.156573Z",
+      "recorded_reform_date": null
+    },
+    "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:7": {
+      "slug": "ifpe-dcg-2021",
+      "article": "7",
+      "text": "Las instituciones de fondos de pago electrónico, a efecto de permitir el acceso a los Canales de Instrucción, deberán llevar a cabo la Autenticación del Cliente. Para realizar dicha Autenticación, las instituciones de fondos de pago electrónico deberán recabar y validar, al menos, lo siguiente:\n\nI. El Identificador de Cliente El Identificador de Cliente y\n\nII. Un Factor de Autenticación.\n\nEl Identificador de Cliente deberá ser único para cada Cliente y deberá asociarse a todas las Operaciones realizadas por este último.\n\nAsimismo, las instituciones de fondos de pago electrónico deberán guardar evidencia de la Autenticación, conforme a lo establecido en el artículo 29, fracción IV de las presentes Disposiciones.",
+      "text_sha256": "fdfb5473fa5aeb96977bc1d91bf705591cf31242637ffc1d7a224de236e15f02",
+      "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+      "source_sha256": "493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0",
+      "retrieved_at": "2026-07-12T06:55:43.156573Z",
+      "recorded_reform_date": null
+    },
+    "urn:lex-mx:federal:regulation:itf-dcg-2018:article:1": {
+      "slug": "itf-dcg-2018",
+      "article": "1",
+      "text": "Las presentes disposiciones tienen por objeto establecer el marco normativo aplicable a la organización de las ITF y la operación de las instituciones de financiamiento colectivo.",
+      "text_sha256": "ef795817c210a7d849f1aff4747fcdbeb1d3744b2558ac3ae209cf3ae584bc88",
+      "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+      "source_sha256": "71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2",
+      "retrieved_at": "2026-07-12T06:56:00.440428Z",
+      "recorded_reform_date": "2026-07-06"
+    }
+  },
+  "cases": [
+    {
+      "id": "Q01",
+      "question": "¿Qué instrumentos puedo consultar aquí y qué queda fuera de esta colección?",
+      "expected_evidence": [],
+      "acceptance": [
+        "Nombra exactamente LRITF, LIC, DCG ITF 2018 y DCG IFPE 2021.",
+        "Cobertura parcial: ausencia del paquete no significa inexistencia jurídica."
+      ]
+    },
+    {
+      "id": "Q02",
+      "question": "¿Quién autoriza a una empresa para organizarse y operar como ITF? ¿El Gobierno garantiza el dinero de sus clientes?",
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lritf:article:11"
+      ],
+      "acceptance": [
+        "CNBV, previo acuerdo del Comité Interinstitucional.",
+        "No atribuye garantía estatal; explica la prohibición del artículo 11."
+      ]
+    },
+    {
+      "id": "Q03",
+      "question": "Muéstrame el primer párrafo exacto del artículo 2 de las DCG IFPE 2021. ¿Qué consentimiento exige?",
+      "expected_evidence": [
+        "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:2"
+      ],
+      "acceptance": [
+        "Primer párrafo literal, sin corregir ni truncar.",
+        "Consentimiento expreso; puede obtenerse mediante autenticación del artículo 7."
+      ]
+    },
+    {
+      "id": "Q04",
+      "question": "¿Dónde exige la LRITF separar el dinero de los clientes de los recursos propios de la ITF?",
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lritf:article:46"
+      ],
+      "acceptance": [
+        "Artículo 46: segregación de recursos propios y clientes, e identificación por cada cliente.",
+        "No confunde segregación con una cuenta bancaria individual por cliente."
+      ]
+    },
+    {
+      "id": "Q05",
+      "question": "Soy una IFPE. ¿Debo abrir una cuenta bancaria distinta por cada cliente, o puedo concentrar recursos? Explícame qué permite concluir este corpus y qué no.",
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lritf:article:22",
+        "urn:lex-mx:federal:statute:lritf:article:46"
+      ],
+      "acceptance": [
+        "Distingue cuenta de fondos de pago electrónico por cliente (artículo22) de cuenta de depósito bancario de la ITF (46).",
+        "Identificación por cliente y segregación frente a recursos propios; no afirma obligación universal de cuenta bancaria individual.",
+        "El46 contempla una o más cuentas y un límite específico; no declara concentración irrestricta ni cumplimiento integral.",
+        "Distingue conclusión textual de asesoría operativa; otras reglas Banxico/CNBV fuera del paquete pueden importar."
+      ]
+    },
+    {
+      "id": "Q06",
+      "question": "El artículo 2 de las DCG IFPE 2021 remite al 7 para la autenticación. Sigue esa referencia: ¿qué debe recabarse y qué evidencia debe conservarse?",
+      "expected_evidence": [
+        "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:2",
+        "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:7"
+      ],
+      "acceptance": [
+        "Identificador de Cliente y un Factor de Autenticación.",
+        "Identificador único asociado a todas las operaciones; evidencia de autenticación, remisión al29fracciónIV.",
+        "Consulta el7, no deduce su contenido sólo de la referencia del2."
+      ]
+    },
+    {
+      "id": "Q07",
+      "question": "¿Las DCG ITF 2018 y las DCG IFPE 2021 tienen el mismo objeto? Dame una diferencia concreta.",
+      "expected_evidence": [
+        "urn:lex-mx:federal:regulation:itf-dcg-2018:article:1",
+        "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:2"
+      ],
+      "acceptance": [
+        "ITF2018art1: organización de ITF y operación de instituciones de financiamiento colectivo.",
+        "IFPE2021art2: canales de instrucción de IFPE; no intercambia los instrumentos ni presenta IFC como IFPE."
+      ]
+    },
+    {
+      "id": "Q08",
+      "question": "Según el artículo 2 de la LIC, ¿qué dos tipos de instituciones de crédito hay y qué se entiende por servicio de banca y crédito?",
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lic:article:2"
+      ],
+      "acceptance": [
+        "Banca múltiple y banca de desarrollo.",
+        "Captación del público en mercado nacional para colocación en público, pasivo directo o contingente, obligación de cubrir principal y accesorios en su caso."
+      ]
+    },
+    {
+      "id": "Q09",
+      "question": "¿Qué fuente y versión respaldan el artículo 11 de la LRITF que acabas de consultar? ¿Eso prueba que se verificaron reformas hasta hoy?",
+      "expected_evidence": [
+        "urn:lex-mx:federal:statute:lritf:article:11"
+      ],
+      "acceptance": [
+        "Da fuente oficial y versión/release observada; hash puede darse si lo expone la superficie.",
+        "Distingue fecha de reforma registrada/retrieval de verificación actual; no inventa revisión DOF hasta hoy.",
+        "No afirma inexistencia de reformas posteriores sólo porque no consten."
+      ]
+    },
+    {
+      "id": "Q10",
+      "question": "Consulta el artículo 27 de la Ley para Regular las Sociedades de Información Crediticia en esta colección. Si no está, dime qué puedes concluir.",
+      "expected_evidence": [],
+      "acceptance": [
+        "Fuera del paquete de cuatro; no adivina texto ni importa conocimiento de memoria.",
+        "No confunde mención/enlace con texto disponible; informa cobertura limitada, no derogación/inexistencia."
+      ]
+    }
+  ]
+}

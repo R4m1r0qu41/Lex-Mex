@@ -51,6 +51,18 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/agent-first-delivery-and-change-tolerant-releases.md`](docs/plans/agent-first-delivery-and-change-tolerant-releases.md)
+  — Prioritize the four-instrument agent/human workflow, tolerate explicit
+  unresolved references, and design proportional releases and DOF change intake.
+
+- [`docs/plans/duckdb-bounded-analytics-spike.md`](docs/plans/duckdb-bounded-analytics-spike.md)
+  — Opt-in isolated-worktree analytics benchmark; fixed queries, result parity,
+  bounded workers and measurements. No production database migration.
+
+- [`docs/plans/post-split-corpus-and-query-repair.md`](docs/plans/post-split-corpus-and-query-repair.md)
+  — Recover exact parse inputs, triage baseline failures, repair four structural
+  debt clusters and independently accept the isolated query surface.
+
 - [`docs/plans/parser-reader-integration.md`](docs/plans/parser-reader-integration.md)
   — Prepare normal-merge parser/main and published-reader sync candidates; keep
   R7 separate, verify native/DB/export/package parity, then operator promotion.

@@ -74,3 +74,37 @@ release files, preserves earlier pinned releases, locks concurrent staging, and
 advances `latest.json` last. Individual root files are atomically replaced; this
 is not a transaction across all UI files, so run locally before deployment.
 The host verifies its committed package pin before every build.
+
+
+Experimental agent publication opt-in (new publication identity; canonical release
+bytes remain unchanged): run `node reader/package.mjs --release INPUT --output NEW_DIR
+--include-agent-pages`, then `node reader/stage.mjs --publication NEW_DIR
+--destination DEST --include-agent-pages`. Both commands require the flag; default
+R7 publications still exclude agent pages. The host verifier must explicitly
+support these presentation artifacts before promotion. This does not connect the
+query API or provide an answer model. Agent HTML is navigable at
+`/lex-mex/agents/index.html` with a link to the hashed catalogue.
+
+Add `--public-origin https://www.leg4ll4bs.com` with the opt-in packaging flag to generate `agents/sitemap.xml` for full-provision HTML. The host must link this sitemap from its own sitemap or robots configuration. No freshness dates are invented.
+
+The bounded Worker integration is `projectionWorker(bytes, expectedSha256)` from
+`query-worker.mjs`. It retains only the immutable verified adapter and returns a
+`fetch(request, ragOptions)` handler. Route `/lex-mex/agents/`,
+`/lex-mex/current.json`, `/lex-mex/r/*` and `/lex-mex/api/*` to this handler in the
+host before framework fallback, and include them in `assets.run_worker_first`.
+Keep static `/lex-mex/agents/index.html`, hashed HTML, sitemap and source/PDF
+routes on the existing asset path. The answer route remains unavailable until
+`ragOptions` supplies a real generator, bearer token and budget authorizer. Do
+not expose tokens in the public projection or bundle. Host bindings and secrets
+must be passed per request, not captured as mutable global state.
+
+Reproduce the local workerd proof using installed tooling (no remote deploy):
+
+```
+node reader/worker-runtime-proof.mjs PROJECTION_JSON TOOL_NODE_MODULES NEW_OUTPUT_DIR
+```
+
+The output records projection digest, compressed bundle size and actual local
+HTTP response observations. Production CPU, memory and account limits require
+separate verification. The in-memory pilot uses literal accent-insensitive search
+and does not claim SQLite FTS5 ranking parity.

@@ -1,0 +1,38 @@
+--- a/worker/index.ts
++++ b/worker/index.ts
+@@ -2,0 +3,3 @@
++import { Buffer } from "node:buffer";
++import { projectionWorker } from "./lex-mex/query-worker.mjs";
++import projection from "./lex-mex/projection.json";
+@@ -15,0 +19 @@
++const retrieval = projectionWorker(Buffer.from(JSON.stringify(projection)), "8d2dd5aece532d0bf13240d09b3496a3f4c29d0b2f90c73545b96c9e138390a6");
+@@ -18,0 +23,11 @@
++    if (url.pathname === "/lex-mex/mcp" || url.pathname === "/lex-mex/agents/" || url.pathname === "/lex-mex/current.json" || url.pathname.startsWith("/lex-mex/r/") || url.pathname.startsWith("/lex-mex/api/")) {
++      // Anonymous pilot: shared per-location budget, not a global billing cap.
++      if (!env.LEX_MEX_LIMITER) return new Response("Retrieval temporarily unavailable", { status: 503 });
++      try {
++        const { success } = await env.LEX_MEX_LIMITER.limit({ key: "lex-mex-public-pilot" });
++        if (!success) return new Response("Please retry shortly", { status: 429, headers: { "Retry-After": "60", "Cache-Control": "no-store" } });
++      } catch {
++        return new Response("Retrieval temporarily unavailable", { status: 503, headers: { "Cache-Control": "no-store" } });
++      }
++      return retrieval.fetch(request);
++    }
+--- a/wrangler.jsonc
++++ b/wrangler.jsonc
+@@ -20 +20 @@
+-    "run_worker_first": ["/", "/en", "/en/", "/.rsc", "/en.rsc", "/es", "/es/", "/lex-mex", "/lex-mex/", "/lex-mex/releases/*/sources/*.pdf"]
++    "run_worker_first": ["/", "/en", "/en/", "/.rsc", "/en.rsc", "/es", "/es/", "/lex-mex", "/lex-mex/", "/lex-mex/mcp", "/lex-mex/agents/", "/lex-mex/current.json", "/lex-mex/r/*", "/lex-mex/api/*", "/lex-mex/releases/*/sources/*.pdf"]
+@@ -21,0 +22 @@
++  "ratelimits": [{ "name": "LEX_MEX_LIMITER", "namespace_id": "2026110301", "simple": { "limit": 600, "period": 60 } }],
+--- a/lex-mex-release.json
++++ b/lex-mex-release.json
+@@ -4 +4 @@
+-  "publication_id": "0d142a9a88b049dcf6623e599783a862fdb839c01e2221a56e62997b39b4e3f0",
++  "publication_id": "a3a0d276af9e2ab6fc2d4a5c39097e4a585d4c5df89d9c0ef885c886a5ff435d",
+--- a/package.json
++++ b/package.json
+@@ -24 +24,2 @@
+-    "react-dom": "19.2.6"
++    "react-dom": "19.2.6",
++    "@modelcontextprotocol/sdk": "1.32.2"

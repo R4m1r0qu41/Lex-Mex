@@ -1,0 +1,12 @@
+{
+  "runtime": "workerd",
+  "client": "official MCP SDK 1.32.2",
+  "initialized": true,
+  "tools": [
+    "search",
+    "get_provision",
+    "get_references",
+    "get_coverage"
+  ],
+  "article46_retrieved": true
+}

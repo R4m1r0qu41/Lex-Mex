@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-27",
+  "head": "f0f8a868fd78ce1cf0ed939ab82511daf5659725",
+  "work_kind": "planning and public frontend inspection; no implementation",
+  "selected_instruments": [
+    "lritf",
+    "lic",
+    "itf-dcg-2018",
+    "ifpe-dcg-2021"
+  ],
+  "mley": {
+    "sources": [
+      {
+        "url": "https://mley.mx/",
+        "retained_path": "/private/tmp/lex-mley-benchmark-20261027/index.html",
+        "sha256": "3a114978ce6229e8c44eb49ffa217fc8047162f98d0cd2c6869e16cdd0dfafb2",
+        "bytes": 127914
+      },
+      {
+        "url": "https://mley.mx/llms.txt",
+        "retained_path": "/private/tmp/lex-mley-benchmark-20261027/llms.txt",
+        "sha256": "94eaafd48484fdbe679f8a374a37443a1c374985faabdf259c08dbd5544a1876",
+        "bytes": 4264
+      }
+    ],
+    "assets": [
+      {
+        "url": "https://mley.mx/static/ley/js/ley/readerWorkspace.a433a5fe1a0b.js?v=20261016-reader-header",
+        "file": "readerWorkspace.a433a5fe1a0b.js",
+        "bytes": 7068,
+        "sha256": "b44c588f7629289d938e55726396ebe30d2ca1733c0a15f216b1a8807217ae8a"
+      },
+      {
+        "url": "https://mley.mx/static/ley/js/ley/homeAllSearch.4c1fe3d75ff6.js?v=20261009-stable-search",
+        "file": "homeAllSearch.4c1fe3d75ff6.js",
+        "bytes": 4301,
+        "sha256": "b228cf2043d55715c92bd4b49ee0c058bf9975702940188d93a05c37f0b45acd"
+      },
+      {
+        "url": "https://mley.mx/static/ley/js/ley/readerReferences.f55b24482010.js",
+        "file": "readerReferences.f55b24482010.js",
+        "bytes": 1628,
+        "sha256": "623e041bb9513c11b15e5879cf39c425058fa5b4096e457e563a1f4219c5809a"
+      },
+      {
+        "url": "https://mley.mx/static/ley/js/ley/dofReader.6fdeaf7588fb.js?v=20261016-dof-heading-footer",
+        "file": "dofReader.6fdeaf7588fb.js",
+        "bytes": 18231,
+        "sha256": "c20447281cdd126fc03af63710607db6a15ddacf4dc68cd03c5e22b982cc1c2c"
+      },
+      {
+        "url": "https://mley.mx/static/ley/js/ley/viewArticlePdf20260921.ae79d9af44b6.js?v=20261012-toasts",
+        "file": "viewArticlePdf20260921.ae79d9af44b6.js",
+        "bytes": 13048,
+        "sha256": "998f10717e162103b1be3000d77df4b11da0745e63555b7d23394a3c264c66b4"
+      },
+      {
+        "url": "https://mley.mx/static/ley/js/ley/pdfReadersModel.795d7c7726ea.js",
+        "file": "pdfReadersModel.795d7c7726ea.js",
+        "bytes": 5532,
+        "sha256": "53027fd4e51a2d888bea0829737cc2ff1f01bb5b069dc3564867735f915ba24f"
+      },
+      {
+        "url": "https://mley.mx/static/ley/js/ley/pendingReferences.ab65fb237ea5.js?v=20261016-integration-focus",
+        "file": "pendingReferences.ab65fb237ea5.js",
+        "bytes": 3891,
+        "sha256": "6012b4b54ba5157bd2bda571da8a012a2a15237251d69750fc4fd1f306dd626f"
+      },
+      {
+        "url": "https://mley.mx/static/ley/js/ley/siteNavigation.4c24dbfece17.js?v=20261016-explorar-buscador",
+        "file": "siteNavigation.4c24dbfece17.js",
+        "bytes": 3299,
+        "sha256": "3ec371c48f0ce435e7c1f90827d545c2495323130c632ae73d02961e86f6ac75"
+      }
+    ],
+    "public_backend_repository_located": false,
+    "browser_interactions_tested": false,
+    "one_article_fetch": "web tool429; no repeated retries",
+    "claim_boundary": "public HTML, discovery and delivered JS only; do not infer backend DB or global repinning policy"
+  },
+  "platform_sources": [
+    "https://developers.cloudflare.com/workers/runtime-apis/nodejs/",
+    "https://developers.cloudflare.com/d1/sql-api/sql-statements/",
+    "https://developers.cloudflare.com/d1/platform/limits/"
+  ],
+  "findings": {
+    "node_sqlite_runtime": "Cloudflare documents a stub; current Node adapter is not plug-and-play on Workers",
+    "missing_links": "coverage states; falsely resolved edges remain integrity errors",
+    "release_change_policy": "reuse accepted data for compatible reader/query changes; actual data updates create new release",
+    "daily_updates": "event-scoped idempotent patch proposals and immutable publication; no raw model overwrite of audited decisions"
+  },
+  "files_changed": [
+    "docs/plans/agent-first-delivery-and-change-tolerant-releases.md",
+    "docs/mley-surface-benchmark-2026-10-27.md",
+    "docs/agent-first-delivery-research-2026-10-27-evidence.json",
+    "PLANS.md"
+  ],
+  "tests_run": [],
+  "not_done": [
+    "No database or schema changes",
+    "No external resource provisioning/deployment",
+    "No fresh legal rulings",
+    "No mley backend access or source code vendoring",
+    "No code commit or push"
+  ],
+  "frozen_reference_database": "/Users/jr/Dev/lex-mex-parser-repair/derived/db/repair-a/d82f53c073a53960d18f56c323d720ebce84dddcc2f70da949fa0ba25687539d/corpus.sqlite",
+  "public_pin_checked": {
+    "schema_version": "reader-publication-v1",
+    "release_id": "c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969",
+    "publication_id": "0d142a9a88b049dcf6623e599783a862fdb839c01e2221a56e62997b39b4e3f0",
+    "corpus_commit": "d2ab64d61ecfe103cc2a2980c5d04ed63c20bb7a",
+    "manifest_sha256": "e3c8b096b41e5cdb231172def8cc6cd3f7d2b9a84613456d06933b28b969dec9"
+  },
+  "four_instrument_text_parity": {
+    "ifpe-dcg-2021": {
+      "public_provisions": 71,
+      "sqlite_provisions": 71,
+      "only_public": [],
+      "only_sqlite": [],
+      "text_differences": []
+    },
+    "itf-dcg-2018": {
+      "public_provisions": 132,
+      "sqlite_provisions": 132,
+      "only_public": [],
+      "only_sqlite": [],
+      "text_differences": []
+    },
+    "lic": {
+      "public_provisions": 511,
+      "sqlite_provisions": 511,
+      "only_public": [],
+      "only_sqlite": [],
+      "text_differences": []
+    },
+    "lritf": {
+      "public_provisions": 156,
+      "sqlite_provisions": 156,
+      "only_public": [],
+      "only_sqlite": [],
+      "text_differences": []
+    }
+  },
+  "read_only_checks": [
+    "870public/SQLite provision IDs and texts equal across4 instruments",
+    "JSON/relative-link/asset-hash/whitespace validation"
+  ],
+  "artifact_sha256": {
+    "docs/plans/agent-first-delivery-and-change-tolerant-releases.md": "34209667491ce276c45cac7923096dc3d5985a7cdd2058473a850c26b7d6d1b7",
+    "docs/mley-surface-benchmark-2026-10-27.md": "e86d56760e40f7a438a16767c1561462f97ccdeb23a7ef5b6290c6a2c7340afb"
+  }
+}

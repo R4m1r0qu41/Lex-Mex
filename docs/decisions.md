@@ -1,5 +1,29 @@
 # Architecture decisions
 
+## 2026-10-28 — Operator confirms force; LFPA articles 28 and 29; runtime priority
+
+Decision (JRH, explicit instruction in the Codex conversation): `lbogm`, `lfea`,
+`reg-lgeepa-maaa`, `lfdc` and `reg-lfpc-art122` are in force given the elapsed
+publication dates, irrespective of the unresolved exact business-day count.
+This is a reviewed legal premise about these five instruments, not a generic
+`2N + 30` deterministic rule. All five already have instrument `status: in_force`
+on main `f0f8a868f`; no instrument-status mutation is necessary.
+
+JRH directs article28 LFPA for business-day counting and article29 for month/year
+periods. Article29 supplies calendar-month/year rules and non-business-day
+adjustments; this decision does not assert any exact historical commencement date
+or establish complete historical vacation/suspension inputs. [Official LFPA text](https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf).
+Preserve provision-specific amendment, partial repeal, repeal and audited human
+review state; instrument force is not blanket article-level effectiveness or a
+freshness check through today. No blanket change to the earlier241article proposal
+is made by this entry.
+
+The bounded commencement milestone is closed for delivery purposes. Exact-date
+work and wider temporal-rule hardening are deferred; proceed with the frozen
+four-instrument runtime test in `docs/runtime-proof-test-pack-2026-10-28.md`.
+This new decision changes a future database input digest; do not rebuild or
+relabel the accepted database merely to start runtime tests.
+
 ## 2026-10-25 — Post-split corpus repair: DCG heading separator, 14 debt rows retired, four of five editions, lrascap, temporal derivation
 
 Operator instruction of 2026-10-25: commit the R0 parser repairs, reparse the R1 instruments

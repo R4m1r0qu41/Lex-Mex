@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-27",
+  "reviewed_tip": "bc7e2bad5d141485486149fe336d129d419c15fa",
+  "baseline": "dbc88a314",
+  "disposition": "review complete; branch deferred/unmerged; runtime proof unblocked",
+  "findings": [
+    "B-001/P1 unsupported guaranteed business-day bound",
+    "B-002/P1 conditional/negated clauses accepted via substring"
+  ],
+  "conditional_probes": [
+    {
+      "commencement": "Some(Bounded { latest: 2020-06-18, pattern: \"business_days_bounded\", matched_text: \"entrará en vigor a los treinta días hábiles siguientes de su publicación\" })",
+      "determinations": [
+        {
+          "basis": "DeterministicRule",
+          "effective_from": null,
+          "review_required": false,
+          "status": "Effective",
+          "support": [
+            "instrument's own commencement clause (business_days_bounded) takes effect no later than 2020-06-18; the exact date is not computed"
+          ]
+        }
+      ],
+      "name": "plain-business",
+      "synthetic_clause": "La presente Ley entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación."
+    },
+    {
+      "commencement": "Some(Bounded { latest: 2020-06-18, pattern: \"business_days_bounded\", matched_text: \"entrará en vigor a los treinta días hábiles siguientes de su publicación\" })",
+      "determinations": [
+        {
+          "basis": "DeterministicRule",
+          "effective_from": null,
+          "review_required": false,
+          "status": "Effective",
+          "support": [
+            "instrument's own commencement clause (business_days_bounded) takes effect no later than 2020-06-18; the exact date is not computed"
+          ]
+        }
+      ],
+      "name": "conditional-business",
+      "synthetic_clause": "La presente Ley entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de la Federación, siempre que el Consejo haya emitido la autorización correspondiente."
+    },
+    {
+      "commencement": "Some(Bounded { latest: 2020-05-20, pattern: \"month_bounded\", matched_text: \"entrará en vigor un mes después de su publicación\" })",
+      "determinations": [
+        {
+          "basis": "DeterministicRule",
+          "effective_from": null,
+          "review_required": false,
+          "status": "Effective",
+          "support": [
+            "instrument's own commencement clause (month_bounded) takes effect no later than 2020-05-20; the exact date is not computed"
+          ]
+        }
+      ],
+      "name": "conditional-month",
+      "synthetic_clause": "La presente Ley entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación, siempre y cuando se haya expedido el reglamento correspondiente."
+    },
+    {
+      "commencement": "Some(Bounded { latest: 2020-05-20, pattern: \"month_bounded\", matched_text: \"entrará en vigor un mes después de su publicación\" })",
+      "determinations": [
+        {
+          "basis": "DeterministicRule",
+          "effective_from": null,
+          "review_required": false,
+          "status": "Effective",
+          "support": [
+            "instrument's own commencement clause (month_bounded) takes effect no later than 2020-05-20; the exact date is not computed"
+          ]
+        }
+      ],
+      "name": "negated-month",
+      "synthetic_clause": "La presente Ley no entrará en vigor un mes después de su publicación en el Diario Oficial de la Federación."
+    }
+  ],
+  "synthetic_calendar": {
+    "synthetic_calendar": true,
+    "publication": "2020-03-20",
+    "N": 30,
+    "claimed_upper_bound": "2020-06-18",
+    "assumed_weekday_closure": [
+      "2020-03-23",
+      "2020-06-30"
+    ],
+    "thirtieth_business_day": "2020-08-11",
+    "counterexample_exceeds_bound": true,
+    "no_claim_about_applicability_to_five_real_instruments": true
+  },
+  "corpus_diff": {
+    "instruments": [
+      {
+        "slug": "lbogm",
+        "changed": 124
+      },
+      {
+        "slug": "lfdc",
+        "changed": 24
+      },
+      {
+        "slug": "lfea",
+        "changed": 31
+      },
+      {
+        "slug": "reg-lfpc-art122",
+        "changed": 14
+      },
+      {
+        "slug": "reg-lgeepa-maaa",
+        "changed": 48
+      }
+    ],
+    "provisions_changed": 241,
+    "fields": {
+      "temporal_confidence": 241,
+      "temporal_status": 241,
+      "review_status": 241,
+      "temporal_basis": 241
+    },
+    "other_nonmarkdown": [],
+    "id_or_text_changes": 0,
+    "protected_changes": 0
+  },
+  "changed_row_prior_basis": {
+    "None": 241
+  },
+  "targeted_checks": {
+    "fmt_exit": 0,
+    "lex_analysis_temporal_tests_exit": 0,
+    "passed": 25,
+    "filtered": 8,
+    "library_build_exit": 0
+  },
+  "production_database_work_performed": false,
+  "four_pilot_instruments_affected": false,
+  "refactor": "read-only inspected as extraction of unchanged match; no separate mutation compilation",
+  "primary_source": "https://sidof.segob.gob.mx/notas/docFuente/5608192",
+  "source_limit": "administrative calendar evidence; no assertion that this notice governs commencement of the five laws",
+  "artifacts": {
+    "/private/tmp/lex-bounded-commencement-review-20261027/logs/temporal-derive.log": "93120116c8cf921fd1dc7e0e1bcd5f41f9e6213e919d971bc0a511023c45491e",
+    "/private/tmp/lex-bounded-commencement-review-20261027/logs/fmt.log": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "/private/tmp/lex-bounded-commencement-review-20261027/logs/lex-analysis-build.log": "81cf021825a70405c80d7baa11bc7e2ce61274ee61e03fcdea8784c917b74cc9",
+    "/private/tmp/lex-bounded-commencement-review-20261027/logs/identity.log": "e2a455c6e2731c9a16edc1ceec72269b06d398e90195af3fcb15ad8fbc167c4c",
+    "/private/tmp/lex-bounded-commencement-review-20261027/probe.rs": "4dcc56d1161b440e6d4461185cf11e413786f0bd30eb835ba37a1609b5746f88",
+    "/private/tmp/lex-bounded-commencement-review-20261027/conditional-probes.json": "88534209539c6039d46ad1ca12436ed204d1c567d2bc139f50b1a69216489370",
+    "/private/tmp/lex-bounded-commencement-review-20261027/calendar-counterexample.json": "a57f19ef36bb9246075c37c8ef12f46e463cfb9a5e7b6924f140382c85070355",
+    "/private/tmp/lex-bounded-commencement-review-20261027/corpus-diff.json": "06f1a8cdd46177dbdb3d50734bcfd825db8f3a62c4e73b97a217cb08805eb8f5"
+  },
+  "not_run": [
+    "full450workspace suite",
+    "DBproject/rebuild",
+    "fullDBverify",
+    "Node71campaign"
+  ],
+  "preserved": "all active branches/corpus/legal decisions; unrelated main drafts; experimental branch"
+}

@@ -104,3 +104,11 @@ test('R-004 on the real database: search for an unknown instrument with a null c
   const r=await handlePublicQuery(new Request(`https://t.invalid${real}search?q=ley&instrument=no-such-instrument&cursor=bnVsbA`),adapter);
   assert.equal(r.status,400);adapter.close();
 });
+
+test('separate annex sources cannot silently inherit the parent PDF without a binding',async()=>{
+ const path=miniProjection({matches:1}),db=new DatabaseSync(path);
+ db.prepare("UPDATE provisions SET extras=json_set(extras,'$.provision_type','annex'),id=? WHERE id=?").run('urn:lex-mx:federal:statute:alfa:annex:1','urn:lex-mx:federal:statute:alfa:article:1');
+ db.prepare('INSERT INTO source_manifests VALUES(?,?,?,?,?,?)').run('annex.json','/0','urn:lex-mx:federal:statute:alfa','annex-source-manifests.json',0,JSON.stringify({official_url:'https://example.org/annex.pdf'}));db.close();
+ const a=sqliteAdapter(path);await assert.rejects(a.lookup({slug:'alfa',type:'annex',number:'1'}),/Separate annex source mapping unavailable/);
+ assert.ok(await a.lookup({slug:'beta',type:'article',number:'1'}));
+});

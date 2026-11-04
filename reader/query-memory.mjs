@@ -1,3 +1,4 @@
+import {Buffer} from 'node:buffer';
 // Bounded response adapter for explicit local in-memory datasets, not federal-scale serving.
 import {hash,normalize,checkArticle,checkInstrument,checkRelease,checkEdge} from './query-contract.mjs';
 export function memoryAdapter(input){

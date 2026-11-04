@@ -44,6 +44,7 @@ export function sqliteAdapter(path,{notice,maxDepth=MAX_DEPTH}={}){
     byId:db.prepare("SELECT slug FROM instruments WHERE id=?"),
     provision:db.prepare("SELECT p.id,p.instrument_id,p.text,p.label,p.provision_type,json_extract(p.extras,'$.temporal_status') AS temporal_status,json_extract(p.extras,'$.review_status') AS review_status FROM provisions p WHERE p.id=?"),
     index:db.prepare(`SELECT p.id,p.instrument_id,p.text,p.label,p.provision_type FROM provisions p WHERE p.instrument_id=? AND ${SERVABLE} ORDER BY p.ordinal LIMIT ? OFFSET ?`),
+    separateAnnexSources:db.prepare("SELECT count(*) AS n FROM source_manifests WHERE instrument_id=? AND role='annex-source-manifests.json'"),
     source:db.prepare("SELECT json_extract(i.extras,'$.source_url') AS official_url,json_extract(i.extras,'$.source_sha256') AS source_sha256,json_extract(i.extras,'$.retrieved_at') AS retrieved_at,json_extract(i.extras,'$.latest_reform_date') AS recorded_reform_date,(SELECT json_extract(m.extras,'$.publisher') FROM source_manifests m WHERE m.instrument_id=i.id AND m.role='source-manifest.json') AS publisher FROM instruments i WHERE i.id=?"),
     edges:db.prepare("SELECT id,target_provision_id,target_instrument_id,resolution_status,json_extract(extras,'$.source_span') AS source_span,json_extract(extras,'$.resolution_rule') AS resolution_rule FROM reference_edges WHERE source_provision_id=? ORDER BY ordinal LIMIT ? OFFSET ?"),
     qualifiers:db.prepare("SELECT json_extract(payload,'$.qualifier_type') AS type,json_extract(payload,'$.text') AS text FROM reference_qualifiers WHERE edge_id=? ORDER BY ordinal"),
@@ -83,6 +84,9 @@ export function sqliteAdapter(path,{notice,maxDepth=MAX_DEPTH}={}){
     async lookup({slug,type,number}){
       const inst=q.bySlug.get(slug);if(!inst)return null;
       const row=q.provision.get(`${inst.id}:${type}:${number}`);if(!row)return null;
+      // The accepted schema does not bind an annex provision to a specific annex manifest.
+      // Never guess from ordinal/URL or silently cite the parent PDF.
+      if(type==='annex'&&q.separateAnnexSources.get(inst.id).n)bad('Separate annex source mapping unavailable');
       const s=q.source.get(inst.id);
       return {id:row.id,instrument:instrument(inst),provision_type:row.provision_type,number,label:row.label,text:row.text,
         text_sha256:hash(Buffer.from(row.text)),

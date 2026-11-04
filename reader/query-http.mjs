@@ -1,3 +1,4 @@
+import {Buffer} from 'node:buffer';
 import {VERSION,MAX_RESULTS,normalize,checkRelease,checkResponse} from './query-contract.mjs';
 const escape=s=>String(s).replace(/[&<>"'\r]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;','\r':'&#13;'}[c]));
 const link=(href,label)=>`<a href="${escape(href)}">${escape(label)}</a>`;

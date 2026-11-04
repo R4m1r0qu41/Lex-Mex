@@ -195,3 +195,17 @@ or clone; no destructive rollback or mutation of accepted releases.
 ## Outcome
 
 Planning only. I0–I3 have not run; no branch or deployment changed.
+
+## Verified current state — 2026-10-24 Codex HEAD review
+
+The earlier checkpoint and outcome statements above are historical. At main
+`e3ad94ee3bf6e5a5ec34274ad77af10ce88bcf1d`, tested parser C `1250889ce` and
+reviewed R7 `0661d5ef0` are ancestors. Production matches reviewed R7; parser
+dependency boundaries conform to the split plan. Integration and R7 deployment
+have occurred; the separate P/R post-promotion audit remains recorded as pending.
+See [the current review](../parser-split-head-review-and-didactic-report-2026-10-24.md)
+for tests, coverage limits, database state and historical status reconciliation.
+The original immutable baselines and gate results remain unchanged.
+
+Exactly one next action: repair and independently review the agreed public-query
+work on current main before its integration or publication.

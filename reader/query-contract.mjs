@@ -1,3 +1,4 @@
+import {Buffer} from 'node:buffer';
 // Public transport DTOs only. Never pass database extras/raw records to this layer.
 import {createHash} from 'node:crypto';
 export const hash=b=>createHash('sha256').update(b).digest('hex');
