@@ -1,7 +1,9 @@
 # Lex-Mex agent access — candidate connection guide
 
-Status: local candidate verified; production promotion and external-client acceptance
-remain pending. These proposed URLs are not a claim that MCP is already deployed.
+Status: deployed to production at 100% on 2026-11-04 (Worker version aca7ddf1; see
+docs/production-rollout-draft-2026-11-03.md). Production remote SDK proof passed
+(four tools, article 46). External AI-client acceptance and organic-discovery tests
+have NOT been run; MCP working here is not evidence that any provider's client does.
 
 ## Use your own agent
 

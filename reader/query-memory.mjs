@@ -1,6 +1,22 @@
 import {Buffer} from 'node:buffer';
 // Bounded response adapter for explicit local in-memory datasets, not federal-scale serving.
 import {hash,normalize,checkArticle,checkInstrument,checkRelease,checkEdge} from './query-contract.mjs';
+// Whole-word occurrence test, equal to /(?<![\p{L}\p{N}_])NEEDLE(?![\p{L}\p{N}_])/u without scanning every position
+// with a Unicode lookbehind. Neighbours are whole code points, so astral letters and digits still count as word characters.
+const wordChar=/[\p{L}\p{N}_]/u;
+const isWord=cp=>cp!==undefined&&wordChar.test(String.fromCodePoint(cp));
+function codePointBefore(s,i){
+  if(i===0)return undefined;
+  const lo=s.charCodeAt(i-1);
+  if(i>1&&lo>=0xDC00&&lo<=0xDFFF){const hi=s.charCodeAt(i-2);if(hi>=0xD800&&hi<=0xDBFF)return s.codePointAt(i-2);}
+  return lo;
+}
+function wordMatch(haystack,needle){
+  for(let i=haystack.indexOf(needle);i>=0;i=haystack.indexOf(needle,i+1)){
+    if(!isWord(codePointBefore(haystack,i))&&!isWord(haystack.codePointAt(i+needle.length)))return true;
+  }
+  return false;
+}
 export function memoryAdapter(input){
   const data=structuredClone(input);checkRelease(data.release);data.instruments.forEach(checkInstrument);data.provisions.forEach(checkArticle);
   for(const [id,edges] of Object.entries(data.references)){if(!data.provisions.some(p=>p.id===id)&&!data.instruments.some(i=>i.id===id))throw Error('Unknown reference source');edges.forEach(checkEdge);}
@@ -20,10 +36,12 @@ export function memoryAdapter(input){
     async search({query,instrument,limit,cursor}){
       if(!normalize(query).trim())throw Error('Invalid search');
       const needle=normalize(query);
-      const pattern=new RegExp('(?<![\\p{L}\\p{N}_])'+needle.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'(?![\\p{L}\\p{N}_])','u');
       const rank=p=>(norm.get(p.id).text.split(needle).length-1)/Math.sqrt(Math.max(1,p.text.length));
       const order={article:0,transitory:1,annex:2};
-      const matches=data.provisions.filter(p=>(!instrument||p.instrument.slug===instrument)&&pattern.test(norm.get(p.id).both)).sort((a,b)=>order[a.provision_type]-order[b.provision_type]||rank(b)-rank(a)||a.id.localeCompare(b.id,'en'));
+      // Rank is computed once per match, not inside the sort comparator; the comparator order is unchanged.
+      const scored=data.provisions.filter(p=>(!instrument||p.instrument.slug===instrument)&&wordMatch(norm.get(p.id).both,needle)).map(p=>({p,r:rank(p)}));
+      scored.sort((a,b)=>order[a.p.provision_type]-order[b.p.provision_type]||b.r-a.r||a.p.id.localeCompare(b.p.id,'en'));
+      const matches=scored.map(x=>x.p);
       return {...paginate(matches,limit,cursor,JSON.stringify([data.release.id,'search',query,instrument]),p=>hit(p,query)),query};
     },
     async index({slug,limit,cursor}){return {...paginate(data.provisions.filter(p=>p.instrument.slug===slug).map(p=>hit(p)),limit,cursor,JSON.stringify([data.release.id,'index',slug])),query:`Índice de ${slug}`};},
