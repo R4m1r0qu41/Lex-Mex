@@ -1,0 +1,16 @@
+{
+  "url": "https://www.leg4ll4bs.com/lex-mex/releases/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/sources/493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0.pdf",
+  "results": [
+    {
+      "user_agent": "LexMexReadiness/1.0",
+      "status": 206,
+      "bytes_read": 1024,
+      "pdf_magic": true,
+      "content_range": "bytes 0-1023/396666"
+    },
+    {
+      "user_agent": "Python-urllib/3.9",
+      "status": 403
+    }
+  ]
+}

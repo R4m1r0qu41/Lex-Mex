@@ -1,0 +1,68 @@
+[
+  {
+    "url_effective": "https://www.leg4ll4bs.com/lex-mex/index.html",
+    "http_code": 200,
+    "num_redirects": 2,
+    "size_download": 7827,
+    "time_total": 0.514214,
+    "time_starttransfer": 0.505934,
+    "site": "Lex-Mex",
+    "sample": 0,
+    "exit_code": 0
+  },
+  {
+    "url_effective": "https://www.leg4ll4bs.com/lex-mex/index.html",
+    "http_code": 200,
+    "num_redirects": 2,
+    "size_download": 7827,
+    "time_total": 1.0016,
+    "time_starttransfer": 0.996994,
+    "site": "Lex-Mex",
+    "sample": 1,
+    "exit_code": 0
+  },
+  {
+    "url_effective": "https://www.leg4ll4bs.com/lex-mex/index.html",
+    "http_code": 200,
+    "num_redirects": 2,
+    "size_download": 7827,
+    "time_total": 0.510947,
+    "time_starttransfer": 0.501629,
+    "site": "Lex-Mex",
+    "sample": 2,
+    "exit_code": 0
+  },
+  {
+    "url_effective": "https://mley.mx/",
+    "http_code": 200,
+    "num_redirects": 0,
+    "size_download": 133423,
+    "time_total": 0.771133,
+    "time_starttransfer": 0.527342,
+    "site": "mLey",
+    "sample": 0,
+    "exit_code": 0
+  },
+  {
+    "url_effective": "https://mley.mx/",
+    "http_code": 200,
+    "num_redirects": 0,
+    "size_download": 133423,
+    "time_total": 0.796545,
+    "time_starttransfer": 0.527727,
+    "site": "mLey",
+    "sample": 1,
+    "exit_code": 0
+  },
+  {
+    "url_effective": "https://mley.mx/",
+    "http_code": 200,
+    "num_redirects": 0,
+    "size_download": 133423,
+    "time_total": 0.861314,
+    "time_starttransfer": 0.607236,
+    "site": "mLey",
+    "sample": 2,
+    "exit_code": 0
+  }
+]

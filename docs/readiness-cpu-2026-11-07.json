@@ -1,0 +1,158 @@
+{
+  "source": "wrangler tail, actual invocation CPU; incidental traffic may be included",
+  "events": [
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/current.json",
+      "method": "GET",
+      "cpu_ms": 29,
+      "wall_ms": 30,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/",
+      "method": "GET",
+      "cpu_ms": 48,
+      "wall_ms": 70,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/",
+      "method": "GET",
+      "cpu_ms": 2,
+      "wall_ms": 22,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/current.json",
+      "method": "GET",
+      "cpu_ms": 1,
+      "wall_ms": 1,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/agents/",
+      "method": "GET",
+      "cpu_ms": 1,
+      "wall_ms": 2,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/r/REDACTED/search?q=cuentas",
+      "method": "GET",
+      "cpu_ms": 63,
+      "wall_ms": 64,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/r/REDACTED/mx/lritf/article/46",
+      "method": "GET",
+      "cpu_ms": 56,
+      "wall_ms": 57,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/",
+      "method": "GET",
+      "cpu_ms": 0,
+      "wall_ms": 19,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/current.json",
+      "method": "GET",
+      "cpu_ms": 37,
+      "wall_ms": 37,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/agents/",
+      "method": "GET",
+      "cpu_ms": 26,
+      "wall_ms": 26,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/r/REDACTED/search?q=cuentas",
+      "method": "GET",
+      "cpu_ms": 14,
+      "wall_ms": 14,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/r/REDACTED/mx/lritf/article/46",
+      "method": "GET",
+      "cpu_ms": 1,
+      "wall_ms": 1,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/",
+      "method": "GET",
+      "cpu_ms": 0,
+      "wall_ms": 14,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/current.json",
+      "method": "GET",
+      "cpu_ms": 0,
+      "wall_ms": 1,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/agents/",
+      "method": "GET",
+      "cpu_ms": 0,
+      "wall_ms": 1,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/r/REDACTED/search?q=cuentas",
+      "method": "GET",
+      "cpu_ms": 17,
+      "wall_ms": 18,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    },
+    {
+      "url": "https://www.leg4ll4bs.com/lex-mex/r/REDACTED/mx/lritf/article/46",
+      "method": "GET",
+      "cpu_ms": 2,
+      "wall_ms": 3,
+      "outcome": "ok",
+      "version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+      "exceptions": 0
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "origin": "https://www.leg4ll4bs.com",
+  "publication_id": "a3a0d276af9e2ab6fc2d4a5c39097e4a585d4c5df89d9c0ef885c886a5ff435d",
+  "tools": [
+    "search",
+    "get_provision",
+    "get_references",
+    "get_coverage"
+  ],
+  "article46_retrieved": true,
+  "hostile_origin_status": 403,
+  "results": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 47052,
+      "elapsed_ms": 130
+    },
+    {
+      "path": "/en",
+      "status": 200,
+      "bytes": 45122,
+      "elapsed_ms": 208
+    },
+    {
+      "path": "/lex-mex/",
+      "status": 200,
+      "bytes": 7827,
+      "elapsed_ms": 309
+    },
+    {
+      "path": "/lex-mex/current.json",
+      "status": 200,
+      "bytes": 440,
+      "elapsed_ms": 85
+    },
+    {
+      "path": "/lex-mex/agents/index.html",
+      "status": 200,
+      "bytes": 251,
+      "elapsed_ms": 158
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "bytes": 127204,
+      "elapsed_ms": 126
+    },
+    {
+      "path": "/lex-mex/agents/sitemap.xml",
+      "status": 200,
+      "bytes": 125846,
+      "elapsed_ms": 160
+    },
+    {
+      "path": "/lex-mex/r/c305db4a3cfb408b76c13431e26beda72d5ce665046c95783fab36507354c969/mx/lritf/article/46",
+      "status": 200,
+      "bytes": 4419,
+      "elapsed_ms": 182
+    }
+  ],
+  "harness_hardcoded_version": "834b5d37-284d-4550-8b52-90be61a980ed",
+  "observed_deployed_version": "9031ec9e-d03b-4d68-933c-ca1dc638722d",
+  "version_evidence": "wrangler deployments list plus invocation scriptVersion"
+}

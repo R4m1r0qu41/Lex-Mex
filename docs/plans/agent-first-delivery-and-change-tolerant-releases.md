@@ -1091,3 +1091,21 @@ no canonical corpus changes, credentials or Wrangler cache included.
 Integration patch uses zero context (apply with git apply --unidiff-zero).
 Next action after local commit: assess CPU/quota headroom before any separately
 authorized production rollout; external-provider and organic acceptance remain.
+
+
+### 2026-11-07 — Production readiness review and fresh-agent mLey baseline
+
+Live production9031ec9e verified, superseding stale capsule205 navigation.
+Read-only official SDK/eightHTTP paths pass. Actual tail CPU0–63ms with
+search63/14/17ms, no exception/outcome failure in17events. Free10ms headroom
+not established; subscription read403, current quota unavailable. Both limiter
+bindings live. Fresh no-context agent45URL attempts against both public sites;
+Lex8complete/2partial outcomes versus frozen key. mLey offers broader law coverage
+but DCG tasks not located; no universal correctness/speed ranking. Matched
+curl entry timings and client-specific transport failures recorded. Python
+PDF access403 reproduced while alternate user-agent206; official source remains
+available to that client. Host MCP405 guard absent in producer; no code edited.
+Report docs/production-readiness-review-2026-11-07.md and linked evidence.
+No deploy/commit/push, no canonical data edits.
+Next action: profile/reduce CPU and verify quota, synchronize producer405 guard,
+and improve compact source discovery before repeating partial fresh-agent tasks.
