@@ -399,13 +399,24 @@ the 113 restored instruments~~ 110 adopted in `b9f4d319f`, see "batch of 112"; (
   validation as recorded. On the repository afterwards: `link --all` exit 0, relinked 0,
   unchanged 466, rejected exactly the 2 accepted gaps, references 36,105 → 36,105, no file
   changed. `verify-fidelity --all` (now covers 465 inputs; 1 missing, `socap-sofipo-dcg-2006`;
-  2 source-hash mismatches, the changed `cpeum` and `cub-dcg-2005`): 66,495 of 66,977
+  2 retained-text hash mismatches, `cub-dcg-2005` and `lfiiedb`, both known since the initial
+  baseline): 66,495 of 66,977
   provisions pass (54,458 exact, 12,037 modulo classified gaps; 364 unclassified gap, 84 not
   located, 32 diverged, 2 text not in source), 382 of 468 instruments fully pass.
   `audit-qualifiers --all`: 11,068 labels, 9,769 at paragraph start, 620 mid-paragraph, 679
   absent, 20 qualifiers without labels. Corpus totals by script at `b9f4d319f`: 64,861 articles
   / 3,506 transitories / 30 annexes (unchanged), 36,105 references (−6), temporal status
   `effective` 32,334 (+81), `unknown` 30,510 (−81), `repealed` 5,551, `partially_repealed` 2.
+- **Correction to the batch entry above** (recount from `b112-class.json` restricted to the 110
+  adopted; the entry's figures mixed in the 2 held). Token changes: 341 spans in 57
+  instruments, every one a deletion: running titles 232, leaked headings 56, promulgation and
+  signature blocks 51, elided decree-article runs 2. Edges: 38 lost, all the CPEUM art. 89
+  citation inside deleted promulgation blocks; 31 gained, all `same_article` fraction
+  citations ("fracción I de este artículo", "… del presente artículo") in provisions whose
+  text did not change, so produced by the current reference extractor, not by a deletion.
+  Net −7, which with `laassp`'s +1 at P2 accounts for 36,111 → 36,105.
+  `verify-fidelity` cannot detect an over-deletion (a shorter text still passes the
+  subsequence test), so for these spans the class tally is the only check.
 - **Held now 7:** `lic`, `lfpccs`, `lfvv`, `lieps` (parse guards, JRH); `cue-dcg-2003`,
   `scap-dcg-2012` (operator); `lftr` (accepted closure gap, operator).
 - **Next actions, in order:** (1) re-ingest the 3 changed sources (`cpeum`, `cub-dcg-2005`,

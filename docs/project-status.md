@@ -25,8 +25,10 @@ missing from the earlier corpus. New read-only commands: `verify-fidelity`, `aud
 instruments; 64,861 articles / 3,506 transitories / 30 annexes; 36,105 references (sum of
 `validation.json` counts); temporal status `effective` 32,334, `unknown` 30,510, `repealed`
 5,551, `partially_repealed` 2. `verify-fidelity --all`: 66,495 of 66,977 provisions pass, 382
-of 468 instruments fully (1 input missing, `socap-sofipo-dcg-2006`; 2 sources changed at
-origin, `cpeum`, `cub-dcg-2005`). No
+of 468 instruments fully (input missing: `socap-sofipo-dcg-2006`; retained text not matching
+its manifest hash: `cub-dcg-2005`, `lfiiedb`). Separately, `monitor-sources` finds three
+official files changed at origin (`cpeum`, `cub-dcg-2005`, `socap-sofipo-dcg-2006`), not yet
+re-ingested. No
 push, deploy or legal review. Live state and next actions:
 [four-goal plan](plans/four-goal-system-upgrade.md).
 
