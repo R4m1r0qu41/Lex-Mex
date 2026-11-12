@@ -471,6 +471,63 @@ edge carries one of them. The operator chooses among a recorded migration
 accepted gap; the full record is in that branch's copy of this plan. This branch stays at the
 clean closure (relinked 0, the 2 accepted gaps).
 
+## JRH replies 2026-11-12 (operator and legal reviewer are the same person)
+
+JRH's statements, verbatim except for typos fixed:
+
+1. "lgmime and lgpp were both declared invalid by the Supreme Court in 2023 (the court invalidated
+   the decree), which in turn returned the vigencia to the previously abrogated law … In this
+   case it is worth looking for that ruling in the DOF and checking it"
+   (DOF 24-11-2023, nota 5709440).
+2. "CPEUM is a temporal issue. It should have a small note (like the ones from SCJN) saying
+   artículo vigente a partir del proceso electoral 2028."
+3. "cub-dcg-2005 and socap-sofipo-dcg-2006 were included in the Fintech package but should have
+   their own parsers for DCG, same for cue-dcg-2003, scap-dcg-2012."
+4. "Happy to merge the side branch." The `lgmime` approved-edge option (a/b/c) is not yet chosen.
+
+**Ruling check (read-only).** The source is the DOF page for nota 5709440. The copy is kept in
+the session scratchpad at `dof-5709440/nota.html`, sha256
+`12ebece74f64ac0a9380c71657edb1ece1b0508bc95386e031b985d1c5836a82`.
+
+- The case is AI 71/2023 and its joined cases (acumuladas) 75, 89, 90, 91, 92 and 93/2023.
+- Resolutivo SEGUNDO invalidates the whole decree of DOF 02-03-2023, which reformed the LGIPE,
+  the LGPP and the LOPJF and issued the LGMIME. The invalidity takes effect when the resolutivos
+  are notified to Congress; the source text gives that date as 23-06-2023.
+- Efectos: "recuperan vigencia las disposiciones legales que regían antes de la entrada en
+  vigor del decreto impugnado."
+
+The corpus is inconsistent with the ruling on three points. None was changed; each is a JRH
+temporal decision.
+
+- `lgmime` is the invalidated 2023 law, not the revived one. It is recorded `status: in_force`.
+  All 70 articles are `effective` from 2023-03-03 by `deterministic_rule`, with
+  `machine_accepted` and no `effective_to`. Its own source header already prints the
+  invalidity declaration.
+- `lgsmime` (1996) is the law that regains force. It is recorded `in_force`, with its latest
+  reform on 2025-11-14, which is consistent.
+- `lgpp` has `latest_reform_date` 2023-03-02, an invalidated reform. Of its 97 articles, 53
+  print the "declarado inválido y recupera su vigencia" notes and are `effective`. Whether the
+  dates reflect the restored text still has to be checked.
+- `lgipe` carries 242 `unknown` provisions that mention invalidity. Those were left as they are.
+
+The `lgmime` edge whose qualifier the repair removes sits in a law that is no longer in force.
+That may change how JRH weighs options (a), (b) and (c).
+
+**Held four: what the guards protect.** The four were reparsed in a scratch copy with the
+guards removed (scratchpad `held4/`).
+
+- In all four, every text change is whitespace only: lic 39 provisions, lfpccs 8, lfvv 5,
+  lieps 4. No provision id was added or removed.
+- The change is that the new parse separates a fraction that had been run into the previous
+  one. Examples: lfpccs art. 3 "…semillas; XIII. Normas Mexicanas" becomes two lines; lieps
+  art. 3 "…se entiende por: I. Bebidas…" likewise.
+- This moves the hash of the glossary article that JRH reviewed (`lfpccs` 3, `lfvv` 2,
+  `lieps` 3). In `lic` it changes the text hash of art. 194, which holds the approved stale
+  citation of LFCE 31 Bis; the span and offsets (4292–4298) are unchanged. Art. 187, LRAF
+  28 Bis, is untouched.
+- Adopting them means JRH re-confirms the same definitions and the same two stale citations
+  against the re-spaced text, and the recorded hashes and offsets are refreshed.
+
 ### Added milestone
 
 - **P2. Reform-decree omission lines** ("Artículo(s) Segundo a … .- ……" / "……….." between the
