@@ -19,4 +19,6 @@ source_sha256: b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531
 
 La pena del retado será la misma que la señalada en la ley respecto del retador:
 
-I.- Cuando aquél, a juicio del tribunal que conozca del proceso, haya dado causa a que se le desafíe, con el manifiesto propósito de ser desafiado o infiriendo un grave ultraje al retador, en su honra como caballero o militar, y II.- cuando no haya querido dar una explicación decorosa en su ofensa.
+I.- Cuando aquél, a juicio del tribunal que conozca del proceso, haya dado causa a que se le desafíe, con el manifiesto propósito de ser desafiado o infiriendo un grave ultraje al retador, en su honra como caballero o militar, y
+
+II.- cuando no haya querido dar una explicación decorosa en su ofensa.

@@ -31,7 +31,9 @@ IV.- Por superior:
 
 1o.- Al que ejerza autoridad, mando o jurisdicción por empleo o comisión conferidos por autoridad competente, o por sucesión de mando con arreglo a la Ordenanza o leyes que la sustituyan en asuntos de su autoridad, mando o jurisdicción, y
 
-2o.- Al de mayor categoría en los demás casos; V.- Por aeronave todo aparato capaz de remontarse o circular por los aires;
+2o.- Al de mayor categoría en los demás casos;
+
+V.- Por aeronave todo aparato capaz de remontarse o circular por los aires;
 
 VI.- Por tropa formada la reunión de cualquier número de militares colocados ordenadamente para todo acto del servicio;
 
@@ -65,7 +67,9 @@ XIV.- Por cabo, la persona militar con tal jerarquía y su equivalente en la Arm
 
 XV.- Por clases, las personas militares con la jerarquía de cabo hasta la de sargento primero, en el Ejército, Fuerza Aérea y Guardia Nacional y sus equivalentes en la Armada;
 
-XVI.- Por soldado, a la persona militar con tal jerarquía y su equivalente en la Armada; XVII.- Órgano jurisdiccional militar, el Tribunal Superior Militar, Tribunales Militares de Juicio Oral, Juzgados Militares de Control y de Ejecución de Sentencias;
+XVI.- Por soldado, a la persona militar con tal jerarquía y su equivalente en la Armada;
+
+XVII.- Órgano jurisdiccional militar, el Tribunal Superior Militar, Tribunales Militares de Juicio Oral, Juzgados Militares de Control y de Ejecución de Sentencias;
 
 XVIII.- Campamento, tipo de estacionamiento de las tropas bajo tiendas de campaña o barracas, área con instalaciones diversas para el alojamiento, el adiestramiento y la atención de las necesidades de las tropas;
 

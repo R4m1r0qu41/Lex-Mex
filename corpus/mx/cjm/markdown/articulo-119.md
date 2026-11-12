@@ -19,7 +19,9 @@ source_sha256: b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531
 
 Son excluyentes:
 
-I.- Hallarse la persona militar acusada en estado de enajenación mental al cometer la infracción; II.- Hallarse la persona militar acusada, al cometer la infracción, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o enervantes, o por un estado toxinfeccioso agudo o por un trastorno mental involuntario de carácter patológico y transitorio;
+I.- Hallarse la persona militar acusada en estado de enajenación mental al cometer la infracción;
+
+II.- Hallarse la persona militar acusada, al cometer la infracción, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o enervantes, o por un estado toxinfeccioso agudo o por un trastorno mental involuntario de carácter patológico y transitorio;
 
 III.- Obrar la persona militar acusada en defensa de su persona o de su honor, salvo lo dispuesto en el artículo [292](articulo-292.md), repeliendo una agresión, actual, violenta, sin derecho y de la cual resulte un peligro inminente, a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
 

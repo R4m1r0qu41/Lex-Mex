@@ -19,6 +19,8 @@ source_sha256: b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531
 
 A la persona militar que realice el servicio de centinela, vigilante, serviola o tope que no dé aviso de las novedades que advierta o no cumpla o ejecute exactamente la consigna que se le haya dado, o que fuera del caso previsto en la fracción XI del artículo [203](articulo-203.md), la revele, será sancionada: Párrafo reformado DOF 16-07-2025
 
-I.- Con la pena de seis años de prisión, si estuviere frente al enemigo; II.- Con la de cuatro años de prisión, si estuviere en campaña; pero no frente al enemigo, y Fracción reformada DOF 16-07-2025
+I.- Con la pena de seis años de prisión, si estuviere frente al enemigo;
+
+II.- Con la de cuatro años de prisión, si estuviere en campaña; pero no frente al enemigo, y Fracción reformada DOF 16-07-2025
 
 III.- Con prisión de cinco meses, en los demás casos del servicio ordinario. Fracción reformada DOF 16-07-2025

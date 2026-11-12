@@ -8,7 +8,7 @@ number: "457"
 aliases: ["CJM — Artículo 457"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf
 source_sha256: b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531
 ---
