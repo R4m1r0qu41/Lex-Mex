@@ -133,12 +133,6 @@
         "text": "fracción I",
         "start_char": 200,
         "end_char": 210
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 279,
-        "end_char": 296
       }
     ],
     "basis": "express_cross_reference",

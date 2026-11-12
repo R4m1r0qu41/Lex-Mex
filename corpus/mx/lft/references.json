@@ -4441,14 +4441,7 @@
     "end_char": 72,
     "target_instrument_id": "urn:lex-mx:federal:statute:lft",
     "target_provision_id": "urn:lex-mx:federal:statute:lft:article:434",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 89,
-        "end_char": 100
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -7760,30 +7753,6 @@
         "text": "fracción III",
         "start_char": 139,
         "end_char": 151
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 157,
-        "end_char": 169
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IX",
-        "start_char": 198,
-        "end_char": 209
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 216,
-        "end_char": 226
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y III",
-        "start_char": 238,
-        "end_char": 257
       }
     ],
     "basis": "express_cross_reference",
@@ -9932,14 +9901,7 @@
     "end_char": 33,
     "target_instrument_id": "urn:lex-mx:federal:statute:lft",
     "target_provision_id": "urn:lex-mx:federal:statute:lft:article:159",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XV",
-        "start_char": 59,
-        "end_char": 70
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

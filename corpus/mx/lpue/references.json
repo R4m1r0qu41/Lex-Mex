@@ -498,18 +498,6 @@
         "text": "incisos f",
         "start_char": 149,
         "end_char": 158
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 202,
-        "end_char": 214
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones III, IV y VIII",
-        "start_char": 230,
-        "end_char": 255
       }
     ],
     "basis": "express_cross_reference",

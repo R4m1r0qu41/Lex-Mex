@@ -599,12 +599,6 @@
         "text": "fracción V",
         "start_char": 50,
         "end_char": 60
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 269,
-        "end_char": 279
       }
     ],
     "basis": "express_cross_reference",

@@ -230,14 +230,7 @@
     "end_char": 320,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfafe",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfafe:article:35",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso h",
-        "start_char": 375,
-        "end_char": 383
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -463,12 +456,6 @@
         "text": "fracción III",
         "start_char": 93,
         "end_char": 105
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos b",
-        "start_char": 252,
-        "end_char": 261
       }
     ],
     "basis": "express_cross_reference",

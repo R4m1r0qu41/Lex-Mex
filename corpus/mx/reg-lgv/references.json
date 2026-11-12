@@ -1404,20 +1404,7 @@
     "end_char": 80,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgv:article:37",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 122,
-        "end_char": 131
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 144,
-        "end_char": 154
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

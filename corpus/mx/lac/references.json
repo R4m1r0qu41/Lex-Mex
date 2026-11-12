@@ -834,36 +834,6 @@
         "text": "fracción VIII",
         "start_char": 30,
         "end_char": 43
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y VI",
-        "start_char": 50,
-        "end_char": 68
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 99,
-        "end_char": 109
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 111,
-        "end_char": 120
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y III",
-        "start_char": 128,
-        "end_char": 147
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 165,
-        "end_char": 179
       }
     ],
     "basis": "express_cross_reference",

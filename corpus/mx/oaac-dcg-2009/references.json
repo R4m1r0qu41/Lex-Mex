@@ -481,12 +481,6 @@
         "text": "fracción V",
         "start_char": 2229,
         "end_char": 2239
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos e",
-        "start_char": 2324,
-        "end_char": 2333
       }
     ],
     "basis": "express_cross_reference",
@@ -1761,14 +1755,7 @@
     "end_char": 1984,
     "target_instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "target_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:141-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 2076,
-        "end_char": 2088
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2200,14 +2187,7 @@
     "end_char": 599,
     "target_instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "target_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:156",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 617,
-        "end_char": 631
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2873,14 +2853,7 @@
     "end_char": 662,
     "target_instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "target_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:21-bis-2",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 680,
-        "end_char": 694
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3983,12 +3956,6 @@
         "text": "último párrafo",
         "start_char": 229,
         "end_char": 243
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 264,
-        "end_char": 279
       }
     ],
     "basis": "express_cross_reference",
@@ -4677,20 +4644,7 @@
     "end_char": 5048,
     "target_instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "target_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:85",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 5317,
-        "end_char": 5327
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos b",
-        "start_char": 5329,
-        "end_char": 5338
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5362,14 +5316,7 @@
     "end_char": 2090,
     "target_instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "target_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:9-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 2213,
-        "end_char": 2225
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5735,14 +5682,7 @@
     "end_char": 4612,
     "target_instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
     "target_provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:97",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 4671,
-        "end_char": 4688
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5987,14 +5927,7 @@
     "end_char": 1630,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:87-d",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1727,
-        "end_char": 1738
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

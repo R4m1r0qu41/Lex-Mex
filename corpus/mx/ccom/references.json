@@ -3176,18 +3176,6 @@
         "text": "fracción I",
         "start_char": 682,
         "end_char": 692
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 716,
-        "end_char": 724
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 732,
-        "end_char": 743
       }
     ],
     "basis": "express_cross_reference",
@@ -4285,12 +4273,6 @@
         "text": "segundo párrafo",
         "start_char": 69,
         "end_char": 84
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XX",
-        "start_char": 192,
-        "end_char": 203
       }
     ],
     "basis": "express_cross_reference",

@@ -207,18 +207,6 @@
         "text": "incisos j",
         "start_char": 11861,
         "end_char": 11870
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 12074,
-        "end_char": 12082
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 12084,
-        "end_char": 12094
       }
     ],
     "basis": "express_cross_reference",
@@ -706,12 +694,6 @@
         "text": "incisos a",
         "start_char": 9256,
         "end_char": 9265
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo séptimo",
-        "start_char": 9468,
-        "end_char": 9483
       }
     ],
     "basis": "express_cross_reference",
@@ -1098,12 +1080,6 @@
         "text": "fracción IV",
         "start_char": 4395,
         "end_char": 4406
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos primero y segundo",
-        "start_char": 4847,
-        "end_char": 4873
       }
     ],
     "basis": "express_cross_reference",
@@ -2278,12 +2254,6 @@
         "text": "fracción I",
         "start_char": 1669,
         "end_char": 1679
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1742,
-        "end_char": 1756
       }
     ],
     "basis": "express_cross_reference",

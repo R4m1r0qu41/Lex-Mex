@@ -205,14 +205,7 @@
     "end_char": 233,
     "target_instrument_id": "urn:lex-mx:federal:statute:lnep",
     "target_provision_id": "urn:lex-mx:federal:statute:lnep:article:18",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 239,
-        "end_char": 254
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -409,14 +402,7 @@
     "end_char": 82,
     "target_instrument_id": "urn:lex-mx:federal:statute:lnep",
     "target_provision_id": "urn:lex-mx:federal:statute:lnep:article:27",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 84,
-        "end_char": 95
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -438,12 +424,6 @@
         "text": "fracción II",
         "start_char": 84,
         "end_char": 95
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 113,
-        "end_char": 125
       }
     ],
     "basis": "express_cross_reference",

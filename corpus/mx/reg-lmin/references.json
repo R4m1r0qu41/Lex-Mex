@@ -333,14 +333,7 @@
     "end_char": 621,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:20",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 687,
-        "end_char": 698
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1178,14 +1171,7 @@
     "end_char": 219,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:34",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 317,
-        "end_char": 332
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1599,14 +1585,7 @@
     "end_char": 151,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:4",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 160,
-        "end_char": 170
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1693,14 +1672,7 @@
     "end_char": 147,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lmin",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lmin:article:4",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 156,
-        "end_char": 166
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2222,12 +2194,6 @@
         "text": "fracción II",
         "start_char": 147,
         "end_char": 158
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 235,
-        "end_char": 246
       }
     ],
     "basis": "express_cross_reference",

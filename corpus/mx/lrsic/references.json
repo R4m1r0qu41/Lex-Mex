@@ -1280,12 +1280,6 @@
         "text": "cuarto y quinto párrafos",
         "start_char": 308,
         "end_char": 332
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo cuarto",
-        "start_char": 420,
-        "end_char": 434
       }
     ],
     "basis": "express_cross_reference",
@@ -2263,12 +2257,6 @@
         "text": "último párrafos",
         "start_char": 1117,
         "end_char": 1132
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo y último párrafos",
-        "start_char": 1138,
-        "end_char": 1163
       }
     ],
     "basis": "express_cross_reference",

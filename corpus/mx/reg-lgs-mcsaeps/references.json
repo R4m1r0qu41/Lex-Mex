@@ -486,14 +486,7 @@
     "end_char": 49,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:380",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XI",
-        "start_char": 96,
-        "end_char": 107
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -573,14 +566,7 @@
     "end_char": 1608,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:421",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 1638,
-        "end_char": 1646
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

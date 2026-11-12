@@ -134,14 +134,7 @@
     "end_char": 82,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmtr",
     "target_provision_id": "urn:lex-mx:federal:statute:lmtr:article:112",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 199,
-        "end_char": 211
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -189,14 +182,7 @@
     "end_char": 874,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmtr",
     "target_provision_id": "urn:lex-mx:federal:statute:lmtr:article:10",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 955,
-        "end_char": 965
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -590,20 +576,7 @@
     "end_char": 3177,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmtr",
     "target_provision_id": "urn:lex-mx:federal:statute:lmtr:article:182",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 3274,
-        "end_char": 3289
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 3291,
-        "end_char": 3301
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

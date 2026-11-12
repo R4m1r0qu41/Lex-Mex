@@ -477,20 +477,7 @@
     "end_char": 3417,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
     "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:116",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "sexto párrafo",
-        "start_char": 3423,
-        "end_char": 3436
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 3443,
-        "end_char": 3454
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1294,14 +1281,7 @@
     "end_char": 3218,
     "target_instrument_id": "urn:lex-mx:federal:statute:lotfja",
     "target_provision_id": "urn:lex-mx:federal:statute:lotfja:article:37",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XI",
-        "start_char": 3366,
-        "end_char": 3377
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

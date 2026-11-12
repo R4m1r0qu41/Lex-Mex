@@ -2207,24 +2207,6 @@
         "text": "inciso r",
         "start_char": 45,
         "end_char": 53
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 68,
-        "end_char": 80
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos c",
-        "start_char": 82,
-        "end_char": 91
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones IV, V, VI y X",
-        "start_char": 130,
-        "end_char": 154
       }
     ],
     "basis": "express_cross_reference",

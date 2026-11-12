@@ -30,12 +30,6 @@
         "text": "fracción I",
         "start_char": 9401,
         "end_char": 9411
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 9419,
-        "end_char": 9430
       }
     ],
     "basis": "express_cross_reference",
@@ -59,12 +53,6 @@
         "text": "fracción I",
         "start_char": 9532,
         "end_char": 9542
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 9550,
-        "end_char": 9562
       }
     ],
     "basis": "express_cross_reference",

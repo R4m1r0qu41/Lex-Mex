@@ -281,14 +281,7 @@
     "end_char": 1232,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopgjdf",
     "target_provision_id": "urn:lex-mx:federal:statute:lopgjdf:article:47",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 1412,
-        "end_char": 1423
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

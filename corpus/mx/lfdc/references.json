@@ -202,12 +202,6 @@
         "text": "fracción I",
         "start_char": 122,
         "end_char": 132
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XIV",
-        "start_char": 282,
-        "end_char": 294
       }
     ],
     "basis": "express_cross_reference",

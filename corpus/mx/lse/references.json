@@ -123,14 +123,7 @@
     "end_char": 411,
     "target_instrument_id": "urn:lex-mx:federal:statute:lse",
     "target_provision_id": "urn:lex-mx:federal:statute:lse:article:94",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 484,
-        "end_char": 495
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -606,20 +599,7 @@
     "end_char": 6548,
     "target_instrument_id": "urn:lex-mx:federal:statute:lse",
     "target_provision_id": "urn:lex-mx:federal:statute:lse:article:120",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso d",
-        "start_char": 6680,
-        "end_char": 6688
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 6696,
-        "end_char": 6707
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1288,14 +1268,7 @@
     "end_char": 1024,
     "target_instrument_id": "urn:lex-mx:federal:statute:lse",
     "target_provision_id": "urn:lex-mx:federal:statute:lse:article:94",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones V",
-        "start_char": 1084,
-        "end_char": 1096
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

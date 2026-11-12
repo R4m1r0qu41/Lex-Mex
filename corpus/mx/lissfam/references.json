@@ -359,20 +359,7 @@
     "end_char": 369,
     "target_instrument_id": "urn:lex-mx:federal:statute:lissfam",
     "target_provision_id": "urn:lex-mx:federal:statute:lissfam:article:143",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 421,
-        "end_char": 430
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 443,
-        "end_char": 454
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -773,12 +760,6 @@
         "text": "fracción V",
         "start_char": 639,
         "end_char": 649
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 731,
-        "end_char": 742
       }
     ],
     "basis": "express_cross_reference",

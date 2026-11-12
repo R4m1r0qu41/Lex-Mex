@@ -1310,18 +1310,6 @@
         "text": "fracciones I y II",
         "start_char": 4643,
         "end_char": 4660
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 4683,
-        "end_char": 4692
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 4705,
-        "end_char": 4715
       }
     ],
     "basis": "express_cross_reference",
@@ -1471,12 +1459,6 @@
         "text": "párrafo tercero",
         "start_char": 1489,
         "end_char": 1504
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 2182,
-        "end_char": 2197
       }
     ],
     "basis": "express_cross_reference",

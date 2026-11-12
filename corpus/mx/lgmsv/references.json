@@ -8,14 +8,7 @@
     "end_char": 181,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:4",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXIX",
-        "start_char": 190,
-        "end_char": 203
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -223,14 +223,7 @@
     "end_char": 722,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:9",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo 1",
-        "start_char": 805,
-        "end_char": 814
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -310,14 +303,7 @@
     "end_char": 132,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:17",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo 1",
-        "start_char": 198,
-        "end_char": 207
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -413,14 +399,7 @@
     "end_char": 555,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:9",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo 1",
-        "start_char": 634,
-        "end_char": 643
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -843,14 +822,7 @@
     "end_char": 72,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:9",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso f",
-        "start_char": 133,
-        "end_char": 141
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1250,14 +1222,7 @@
     "end_char": 373,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsmime",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsmime:article:18",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo 1",
-        "start_char": 490,
-        "end_char": 499
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

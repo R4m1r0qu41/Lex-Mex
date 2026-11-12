@@ -1572,24 +1572,6 @@
         "end_char": 81
       },
       {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 172,
-        "end_char": 184
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 194,
-        "end_char": 209
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 216,
-        "end_char": 225
-      },
-      {
         "qualifier_type": "paragraph",
         "text": "párrafo tercero",
         "start_char": 237,
@@ -2638,14 +2620,7 @@
     "end_char": 27,
     "target_instrument_id": "urn:lex-mx:federal:statute:lapp",
     "target_provision_id": "urn:lex-mx:federal:statute:lapp:article:22",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 74,
-        "end_char": 89
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

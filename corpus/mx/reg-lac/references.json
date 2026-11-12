@@ -647,18 +647,6 @@
         "text": "fracción II",
         "start_char": 880,
         "end_char": 891
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 1009,
-        "end_char": 1024
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1031,
-        "end_char": 1041
       }
     ],
     "basis": "express_cross_reference",
@@ -1044,14 +1032,7 @@
     "end_char": 904,
     "target_instrument_id": "urn:lex-mx:federal:statute:lac",
     "target_provision_id": "urn:lex-mx:federal:statute:lac:article:10",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 962,
-        "end_char": 973
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1168,20 +1149,7 @@
     "end_char": 2494,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 2539,
-        "end_char": 2550
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 2552,
-        "end_char": 2560
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1213,14 +1181,7 @@
     "end_char": 216,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:20",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 262,
-        "end_char": 272
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

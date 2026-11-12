@@ -219,20 +219,7 @@
     "end_char": 271,
     "target_instrument_id": "urn:lex-mx:federal:statute:lbm",
     "target_provision_id": "urn:lex-mx:federal:statute:lbm:article:21",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 393,
-        "end_char": 408
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 415,
-        "end_char": 426
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -294,14 +281,7 @@
     "end_char": 815,
     "target_instrument_id": "urn:lex-mx:federal:statute:lbm",
     "target_provision_id": "urn:lex-mx:federal:statute:lbm:article:36-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1180,
-        "end_char": 1194
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -766,12 +746,6 @@
         "text": "fracción IX",
         "start_char": 461,
         "end_char": 472
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones X, XI, XII, XVI y XVII",
-        "start_char": 536,
-        "end_char": 569
       }
     ],
     "basis": "express_cross_reference",
@@ -1224,12 +1198,6 @@
         "text": "fracciones IV, V y XII",
         "start_char": 338,
         "end_char": 360
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 386,
-        "end_char": 396
       }
     ],
     "basis": "express_cross_reference",
@@ -1374,18 +1342,6 @@
         "text": "fracción IV",
         "start_char": 104,
         "end_char": 115
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos primero y segundo",
-        "start_char": 177,
-        "end_char": 203
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo y décimo",
-        "start_char": 261,
-        "end_char": 285
       }
     ],
     "basis": "express_cross_reference",

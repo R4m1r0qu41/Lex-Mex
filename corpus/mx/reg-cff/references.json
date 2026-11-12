@@ -888,20 +888,7 @@
     "end_char": 444,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:14",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 449,
-        "end_char": 459
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 461,
-        "end_char": 469
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2540,12 +2527,6 @@
         "text": "último párrafo",
         "start_char": 647,
         "end_char": 661
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 723,
-        "end_char": 733
       }
     ],
     "basis": "express_cross_reference",
@@ -4522,14 +4503,7 @@
     "end_char": 30,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-cff",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VIII",
-        "start_char": 122,
-        "end_char": 135
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4629,12 +4603,6 @@
         "text": "fracción I",
         "start_char": 60,
         "end_char": 70
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 206,
-        "end_char": 218
       }
     ],
     "basis": "express_cross_reference",

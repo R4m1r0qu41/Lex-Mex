@@ -37,12 +37,6 @@
         "text": "párrafo primero",
         "start_char": 2027,
         "end_char": 2042
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 2262,
-        "end_char": 2277
       }
     ],
     "basis": "express_cross_reference",
@@ -128,12 +122,6 @@
         "text": "párrafo tercero",
         "start_char": 1047,
         "end_char": 1062
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1259,
-        "end_char": 1269
       }
     ],
     "basis": "express_cross_reference",
@@ -835,14 +823,7 @@
     "end_char": 4703,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:57",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 4764,
-        "end_char": 4776
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1009,14 +990,7 @@
     "end_char": 3387,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:55",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 3524,
-        "end_char": 3535
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1311,12 +1285,6 @@
         "text": "párrafo segundo",
         "start_char": 2311,
         "end_char": 2326
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 2358,
-        "end_char": 2373
       }
     ],
     "basis": "express_cross_reference",
@@ -1340,12 +1308,6 @@
         "text": "párrafo primero",
         "start_char": 2358,
         "end_char": 2373
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 2683,
-        "end_char": 2698
       }
     ],
     "basis": "express_cross_reference",
@@ -1577,12 +1539,6 @@
         "text": "párrafo cuarto",
         "start_char": 2283,
         "end_char": 2297
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 2420,
-        "end_char": 2431
       }
     ],
     "basis": "express_cross_reference",
@@ -1838,12 +1794,6 @@
         "text": "párrafo primero",
         "start_char": 115,
         "end_char": 130
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 527,
-        "end_char": 541
       }
     ],
     "basis": "express_cross_reference",
@@ -2054,14 +2004,7 @@
     "end_char": 1529,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:74",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 1567,
-        "end_char": 1582
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2083,12 +2026,6 @@
         "text": "fracción III",
         "start_char": 343,
         "end_char": 355
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 439,
-        "end_char": 451
       }
     ],
     "basis": "express_cross_reference",
@@ -2407,14 +2344,7 @@
     "end_char": 61,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:86",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 244,
-        "end_char": 256
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2709,12 +2639,6 @@
         "text": "fracción VII",
         "start_char": 276,
         "end_char": 288
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 339,
-        "end_char": 354
       }
     ],
     "basis": "express_cross_reference",
@@ -3438,20 +3362,7 @@
     "end_char": 863,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 888,
-        "end_char": 903
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 911,
-        "end_char": 926
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3467,20 +3378,7 @@
     "end_char": 1677,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 1702,
-        "end_char": 1717
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 1725,
-        "end_char": 1740
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3496,20 +3394,7 @@
     "end_char": 2722,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 2747,
-        "end_char": 2762
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 2770,
-        "end_char": 2785
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4061,12 +3946,6 @@
         "text": "párrafo primero",
         "start_char": 33,
         "end_char": 48
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 351,
-        "end_char": 365
       }
     ],
     "basis": "express_cross_reference",
@@ -4483,14 +4362,7 @@
     "end_char": 1293,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:55",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones IX, X y XI",
-        "start_char": 1405,
-        "end_char": 1426
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4730,12 +4602,6 @@
         "text": "fracción II",
         "start_char": 142,
         "end_char": 153
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 399,
-        "end_char": 413
       }
     ],
     "basis": "express_cross_reference",
@@ -4956,24 +4822,6 @@
         "text": "párrafo segundo",
         "start_char": 1563,
         "end_char": 1578
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II, IV, V, VI, VII, IX",
-        "start_char": 1729,
-        "end_char": 1762
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 1764,
-        "end_char": 1779
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2044,
-        "end_char": 2054
       }
     ],
     "basis": "express_cross_reference",
@@ -5417,12 +5265,6 @@
         "text": "fracción III",
         "start_char": 1201,
         "end_char": 1213
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 1598,
-        "end_char": 1610
       }
     ],
     "basis": "express_cross_reference",
@@ -5511,14 +5353,7 @@
     "end_char": 635,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos segundo y tercero",
-        "start_char": 980,
-        "end_char": 1006
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5573,14 +5408,7 @@
     "end_char": 2693,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:55",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XII",
-        "start_char": 2893,
-        "end_char": 2905
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5816,14 +5644,7 @@
     "end_char": 9384,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:90",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 10010,
-        "end_char": 10022
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6061,24 +5882,6 @@
         "text": "fracción XI",
         "start_char": 211,
         "end_char": 222
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 248,
-        "end_char": 258
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 284,
-        "end_char": 294
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo sexto",
-        "start_char": 299,
-        "end_char": 312
       }
     ],
     "basis": "express_cross_reference",
@@ -6096,14 +5899,7 @@
     "end_char": 560,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:10",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo cuarto",
-        "start_char": 644,
-        "end_char": 658
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6463,12 +6259,6 @@
         "text": "inciso b)",
         "start_char": 1489,
         "end_char": 1498
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos primero y segundo",
-        "start_char": 1563,
-        "end_char": 1589
       }
     ],
     "basis": "express_cross_reference",
@@ -6515,12 +6305,6 @@
         "text": "fracción XIV",
         "start_char": 3024,
         "end_char": 3036
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 3095,
-        "end_char": 3110
       }
     ],
     "basis": "express_cross_reference",

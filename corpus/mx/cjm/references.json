@@ -369,12 +369,6 @@
         "text": "fracciones II y III",
         "start_char": 579,
         "end_char": 598
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones VI",
-        "start_char": 664,
-        "end_char": 677
       }
     ],
     "basis": "express_cross_reference",
@@ -415,14 +409,7 @@
     "end_char": 720,
     "target_instrument_id": "urn:lex-mx:federal:code:cjm",
     "target_provision_id": "urn:lex-mx:federal:code:cjm:article:321",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 788,
-        "end_char": 800
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

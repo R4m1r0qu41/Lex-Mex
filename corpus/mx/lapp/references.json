@@ -427,14 +427,7 @@
     "end_char": 1404,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
     "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "quinto párrafo",
-        "start_char": 1787,
-        "end_char": 1801
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

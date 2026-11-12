@@ -1518,26 +1518,7 @@
     "end_char": 11224,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:144-a",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 11369,
-        "end_char": 11383
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II, III, IV, V y VI",
-        "start_char": 11393,
-        "end_char": 11423
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones VII y VIII",
-        "start_char": 11449,
-        "end_char": 11470
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3366,12 +3347,6 @@
         "text": "primer párrafo",
         "start_char": 7070,
         "end_char": 7084
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 7133,
-        "end_char": 7147
       }
     ],
     "basis": "express_cross_reference",
@@ -3693,12 +3668,6 @@
         "text": "fracción VI",
         "start_char": 577,
         "end_char": 588
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 628,
-        "end_char": 639
       }
     ],
     "basis": "express_cross_reference",
@@ -4442,14 +4411,7 @@
     "end_char": 3964,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:59",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 4007,
-        "end_char": 4017
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5442,12 +5404,6 @@
         "text": "inciso e",
         "start_char": 1562,
         "end_char": 1570
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1586,
-        "end_char": 1596
       }
     ],
     "basis": "express_cross_reference",
@@ -5641,12 +5597,6 @@
         "text": "primer párrafo",
         "start_char": 3530,
         "end_char": 3544
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 3569,
-        "end_char": 3581
       }
     ],
     "basis": "express_cross_reference",
@@ -6024,20 +5974,7 @@
     "end_char": 117,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:16-a",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 144,
-        "end_char": 158
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 164,
-        "end_char": 175
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -8793,12 +8730,6 @@
         "text": "fracción IX",
         "start_char": 1358,
         "end_char": 1369
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1491,
-        "end_char": 1505
       }
     ],
     "basis": "express_cross_reference",
@@ -8838,12 +8769,6 @@
         "text": "fracción VI",
         "start_char": 2153,
         "end_char": 2164
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 2248,
-        "end_char": 2262
       }
     ],
     "basis": "express_cross_reference",

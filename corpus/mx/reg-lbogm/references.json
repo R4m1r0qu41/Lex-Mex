@@ -1276,14 +1276,7 @@
     "end_char": 412,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:57",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 479,
-        "end_char": 489
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1821,12 +1814,6 @@
         "text": "inciso b",
         "start_char": 76,
         "end_char": 84
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 92,
-        "end_char": 104
       }
     ],
     "basis": "express_cross_reference",

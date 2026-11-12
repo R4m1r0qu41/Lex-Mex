@@ -230,14 +230,7 @@
     "end_char": 364,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsc",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsc:article:43-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IX",
-        "start_char": 413,
-        "end_char": 424
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -276,14 +269,7 @@
     "end_char": 913,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsc",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsc:article:43-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 945,
-        "end_char": 956
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

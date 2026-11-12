@@ -183,12 +183,6 @@
         "text": "fracciones II, IV, V, VI y VII",
         "start_char": 1719,
         "end_char": 1749
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2025,
-        "end_char": 2035
       }
     ],
     "basis": "express_cross_reference",
@@ -788,12 +782,6 @@
         "text": "párrafo tercero",
         "start_char": 282,
         "end_char": 297
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 438,
-        "end_char": 452
       }
     ],
     "basis": "express_cross_reference",
@@ -1210,14 +1198,7 @@
     "end_char": 516,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopsrm",
     "target_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:66",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 706,
-        "end_char": 720
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2655,14 +2636,7 @@
     "end_char": 562,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopsrm",
     "target_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:46",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 603,
-        "end_char": 618
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2988,14 +2962,7 @@
     "end_char": 41,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopsrm",
     "target_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:77",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 188,
-        "end_char": 203
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3251,12 +3218,6 @@
         "text": "fracción I",
         "start_char": 62,
         "end_char": 72
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 156,
-        "end_char": 170
       }
     ],
     "basis": "express_cross_reference",
@@ -3342,12 +3303,6 @@
         "text": "fracción XIII",
         "start_char": 757,
         "end_char": 770
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 920,
-        "end_char": 934
       }
     ],
     "basis": "express_cross_reference",
@@ -4079,14 +4034,7 @@
     "end_char": 64,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopsrm",
     "target_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:74-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 243,
-        "end_char": 255
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4464,12 +4412,6 @@
         "text": "sexto párrafo",
         "start_char": 35,
         "end_char": 48
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 222,
-        "end_char": 237
       }
     ],
     "basis": "express_cross_reference",
@@ -4863,12 +4805,6 @@
         "text": "fracción III",
         "start_char": 217,
         "end_char": 229
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 287,
-        "end_char": 302
       }
     ],
     "basis": "express_cross_reference",
@@ -5434,12 +5370,6 @@
         "text": "segundo párrafo",
         "start_char": 2515,
         "end_char": 2530
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2629,
-        "end_char": 2639
       }
     ],
     "basis": "express_cross_reference",
@@ -5548,12 +5478,6 @@
         "text": "fracción XIII",
         "start_char": 933,
         "end_char": 946
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos cuarto y octavo",
-        "start_char": 1069,
-        "end_char": 1093
       }
     ],
     "basis": "express_cross_reference",
@@ -6231,14 +6155,7 @@
     "end_char": 573,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lopsrm",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:184",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 830,
-        "end_char": 844
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6283,12 +6200,6 @@
         "text": "segundo párrafo",
         "start_char": 984,
         "end_char": 999
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1031,
-        "end_char": 1045
       }
     ],
     "basis": "express_cross_reference",
@@ -6312,12 +6223,6 @@
         "text": "primer párrafo",
         "start_char": 1031,
         "end_char": 1045
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 1354,
-        "end_char": 1369
       }
     ],
     "basis": "express_cross_reference",
@@ -6341,12 +6246,6 @@
         "text": "segundo párrafo",
         "start_char": 1354,
         "end_char": 1369
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 1436,
-        "end_char": 1451
       }
     ],
     "basis": "express_cross_reference",
@@ -6449,20 +6348,7 @@
     "end_char": 1500,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopsrm",
     "target_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:47",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos primero y segundo",
-        "start_char": 1583,
-        "end_char": 1609
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 1616,
-        "end_char": 1626
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6725,12 +6611,6 @@
         "text": "primer párrafo",
         "start_char": 2348,
         "end_char": 2362
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos primero y segundo",
-        "start_char": 2544,
-        "end_char": 2570
       }
     ],
     "basis": "express_cross_reference",

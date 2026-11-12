@@ -412,12 +412,6 @@
         "text": "párrafo tercero",
         "start_char": 1489,
         "end_char": 1504
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 2182,
-        "end_char": 2197
       }
     ],
     "basis": "express_cross_reference",

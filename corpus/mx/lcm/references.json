@@ -667,24 +667,6 @@
         "text": "fracción II",
         "start_char": 629,
         "end_char": 640
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 763,
-        "end_char": 780
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 1051,
-        "end_char": 1068
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1191,
-        "end_char": 1202
       }
     ],
     "basis": "express_cross_reference",
@@ -915,12 +897,6 @@
         "text": "fracción II",
         "start_char": 1598,
         "end_char": 1609
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1757,
-        "end_char": 1771
       }
     ],
     "basis": "express_cross_reference",
@@ -2085,14 +2061,7 @@
     "end_char": 420,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcm",
     "target_provision_id": "urn:lex-mx:federal:statute:lcm:article:219",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 522,
-        "end_char": 536
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2710,14 +2679,7 @@
     "end_char": 194,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcm",
     "target_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 400,
-        "end_char": 412
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3051,14 +3013,7 @@
     "end_char": 1269,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcm",
     "target_provision_id": "urn:lex-mx:federal:statute:lcm:article:270-bis-2",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1375,
-        "end_char": 1389
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3119,12 +3074,6 @@
         "text": "segundo párrafo",
         "start_char": 60,
         "end_char": 75
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 188,
-        "end_char": 198
       }
     ],
     "basis": "express_cross_reference",
@@ -3148,12 +3097,6 @@
         "text": "fracción I",
         "start_char": 188,
         "end_char": 198
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 304,
-        "end_char": 315
       }
     ],
     "basis": "express_cross_reference",
@@ -3351,12 +3294,6 @@
         "text": "tercer párrafo",
         "start_char": 83,
         "end_char": 97
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 177,
-        "end_char": 192
       }
     ],
     "basis": "express_cross_reference",
@@ -3500,14 +3437,7 @@
     "end_char": 75,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcm",
     "target_provision_id": "urn:lex-mx:federal:statute:lcm:article:300",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 148,
-        "end_char": 162
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3827,14 +3757,7 @@
     "end_char": 1312,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcm",
     "target_provision_id": "urn:lex-mx:federal:statute:lcm:article:298",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 1355,
-        "end_char": 1370
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

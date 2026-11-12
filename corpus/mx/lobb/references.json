@@ -14,18 +14,6 @@
         "text": "penúltimo párrafo",
         "start_char": 32,
         "end_char": 49
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 160,
-        "end_char": 168
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XIX",
-        "start_char": 176,
-        "end_char": 188
       }
     ],
     "basis": "express_cross_reference",
@@ -481,14 +469,7 @@
     "end_char": 95,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XIII",
-        "start_char": 109,
-        "end_char": 122
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

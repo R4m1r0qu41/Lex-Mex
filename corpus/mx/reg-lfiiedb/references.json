@@ -660,14 +660,7 @@
     "end_char": 230,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfiiedb",
     "target_provision_id": "urn:lex-mx:federal:statute:lfiiedb:article:85",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 409,
-        "end_char": 420
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -1372,14 +1372,7 @@
     "end_char": 33,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:99",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 219,
-        "end_char": 230
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1434,20 +1427,7 @@
     "end_char": 52,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:41",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos segundo y tercero",
-        "start_char": 67,
-        "end_char": 93
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo cuarto",
-        "start_char": 100,
-        "end_char": 114
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1486,14 +1466,7 @@
     "end_char": 3885,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopjf",
     "target_provision_id": "urn:lex-mx:federal:statute:lopjf:article:41",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo octavo",
-        "start_char": 3888,
-        "end_char": 3902
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1859,14 +1832,7 @@
     "end_char": 143,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopjf",
     "target_provision_id": "urn:lex-mx:federal:statute:lopjf:article:229",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 216,
-        "end_char": 231
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2015,14 +1981,7 @@
     "end_char": 49,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:99",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IX",
-        "start_char": 115,
-        "end_char": 126
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2571,14 +2530,7 @@
     "end_char": 2335,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:107",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "noveno párrafo",
-        "start_char": 2641,
-        "end_char": 2655
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2876,38 +2828,7 @@
     "end_char": 227,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopjf",
     "target_provision_id": "urn:lex-mx:federal:statute:lopjf:article:100",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 257,
-        "end_char": 267
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 269,
-        "end_char": 284
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 287,
-        "end_char": 298
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 307,
-        "end_char": 318
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 320,
-        "end_char": 335
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3010,14 +2931,7 @@
     "end_char": 2001,
     "target_instrument_id": "urn:lex-mx:federal:code:cpf",
     "target_provision_id": "urn:lex-mx:federal:code:cpf:article:389",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 2305,
-        "end_char": 2316
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3126,12 +3040,6 @@
         "text": "fracción XXI",
         "start_char": 410,
         "end_char": 422
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXI",
-        "start_char": 773,
-        "end_char": 785
       }
     ],
     "basis": "express_cross_reference",

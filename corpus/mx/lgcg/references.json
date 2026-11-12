@@ -8,14 +8,7 @@
     "end_char": 624,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgcg",
     "target_provision_id": "urn:lex-mx:federal:statute:lgcg:article:8",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 690,
-        "end_char": 701
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -577,14 +570,7 @@
     "end_char": 62,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
     "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:110",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 135,
-        "end_char": 145
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

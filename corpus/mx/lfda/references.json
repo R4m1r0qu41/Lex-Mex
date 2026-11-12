@@ -1005,14 +1005,7 @@
     "end_char": 462,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfda",
     "target_provision_id": "urn:lex-mx:federal:statute:lfda:article:87",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 478,
-        "end_char": 490
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

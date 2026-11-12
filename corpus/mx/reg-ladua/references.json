@@ -1949,18 +1949,6 @@
         "text": "fracción ll",
         "start_char": 622,
         "end_char": 633
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 719,
-        "end_char": 730
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 784,
-        "end_char": 796
       }
     ],
     "basis": "express_cross_reference",
@@ -2702,12 +2690,6 @@
         "text": "primer párrafo",
         "start_char": 696,
         "end_char": 710
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 760,
-        "end_char": 774
       }
     ],
     "basis": "express_cross_reference",
@@ -3867,12 +3849,6 @@
         "text": "inciso a",
         "start_char": 42,
         "end_char": 50
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones VI, IX y XI",
-        "start_char": 99,
-        "end_char": 121
       }
     ],
     "basis": "express_cross_reference",
@@ -4244,12 +4220,6 @@
         "text": "fracción I",
         "start_char": 51,
         "end_char": 61
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 237,
-        "end_char": 251
       }
     ],
     "basis": "express_cross_reference",
@@ -5005,18 +4975,6 @@
         "text": "fracción V",
         "start_char": 51,
         "end_char": 61
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 92,
-        "end_char": 103
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 105,
-        "end_char": 113
       }
     ],
     "basis": "express_cross_reference",
@@ -5052,12 +5010,6 @@
         "text": "fracción III",
         "start_char": 93,
         "end_char": 105
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 543,
-        "end_char": 557
       }
     ],
     "basis": "express_cross_reference",
@@ -5262,12 +5214,6 @@
         "text": "fracción III",
         "start_char": 538,
         "end_char": 550
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 590,
-        "end_char": 602
       }
     ],
     "basis": "express_cross_reference",
@@ -6823,14 +6769,7 @@
     "end_char": 347,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ladua",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:72",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 369,
-        "end_char": 379
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -7694,12 +7633,6 @@
         "text": "inciso e",
         "start_char": 60,
         "end_char": 68
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 77,
-        "end_char": 89
       }
     ],
     "basis": "express_cross_reference",

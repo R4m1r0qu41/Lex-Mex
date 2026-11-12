@@ -257,18 +257,6 @@
         "text": "fracción I",
         "start_char": 1088,
         "end_char": 1098
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1219,
-        "end_char": 1229
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso c",
-        "start_char": 1231,
-        "end_char": 1239
       }
     ],
     "basis": "express_cross_reference",
@@ -2292,20 +2280,7 @@
     "end_char": 3207,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfprh",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:210",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 3375,
-        "end_char": 3386
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 3560,
-        "end_char": 3571
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4001,24 +3976,6 @@
         "text": "fracción II",
         "start_char": 1549,
         "end_char": 1560
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos c",
-        "start_char": 1562,
-        "end_char": 1571
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1584,
-        "end_char": 1598
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 1607,
-        "end_char": 1624
       }
     ],
     "basis": "express_cross_reference",
@@ -4268,12 +4225,6 @@
         "text": "fracción IV",
         "start_char": 323,
         "end_char": 334
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso c",
-        "start_char": 336,
-        "end_char": 344
       }
     ],
     "basis": "express_cross_reference",
@@ -5102,18 +5053,6 @@
         "text": "inciso f",
         "start_char": 246,
         "end_char": 254
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 261,
-        "end_char": 272
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 278,
-        "end_char": 292
       }
     ],
     "basis": "express_cross_reference",
@@ -5998,12 +5937,6 @@
         "text": "fracción I",
         "start_char": 1534,
         "end_char": 1544
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1609,
-        "end_char": 1623
       }
     ],
     "basis": "express_cross_reference",

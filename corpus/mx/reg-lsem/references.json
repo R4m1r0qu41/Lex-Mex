@@ -946,14 +946,7 @@
     "end_char": 696,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
     "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:58-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 747,
-        "end_char": 759
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2326,14 +2319,7 @@
     "end_char": 1506,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
     "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XIII",
-        "start_char": 1510,
-        "end_char": 1523
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2388,14 +2374,7 @@
     "end_char": 648,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lsem",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lsem:article:57",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VIII",
-        "start_char": 665,
-        "end_char": 678
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

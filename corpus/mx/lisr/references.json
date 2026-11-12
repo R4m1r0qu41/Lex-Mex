@@ -551,12 +551,6 @@
         "text": "inciso e",
         "start_char": 3398,
         "end_char": 3406
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 3480,
-        "end_char": 3492
       }
     ],
     "basis": "express_cross_reference",
@@ -955,14 +949,7 @@
     "end_char": 3615,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:113-a",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 3999,
-        "end_char": 4011
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -984,12 +971,6 @@
         "text": "fracción III",
         "start_char": 3999,
         "end_char": 4011
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 4119,
-        "end_char": 4133
       }
     ],
     "basis": "express_cross_reference",
@@ -1075,12 +1056,6 @@
         "text": "fracción III",
         "start_char": 1139,
         "end_char": 1151
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 1249,
-        "end_char": 1263
       }
     ],
     "basis": "express_cross_reference",
@@ -1316,14 +1291,7 @@
     "end_char": 902,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:18-h-quintus",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1041,
-        "end_char": 1055
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1880,14 +1848,7 @@
     "end_char": 1078,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:152",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II y III",
-        "start_char": 1283,
-        "end_char": 1305
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3240,20 +3201,7 @@
     "end_char": 4680,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:12",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 4752,
-        "end_char": 4766
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 4773,
-        "end_char": 4783
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3634,20 +3582,7 @@
     "end_char": 4030,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:133",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 4224,
-        "end_char": 4239
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXI",
-        "start_char": 4246,
-        "end_char": 4258
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4102,12 +4037,6 @@
         "text": "fracción XI",
         "start_char": 3711,
         "end_char": 3722
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XI",
-        "start_char": 3885,
-        "end_char": 3896
       }
     ],
     "basis": "express_cross_reference",
@@ -4517,14 +4446,7 @@
     "end_char": 4167,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:76",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones V y VIII",
-        "start_char": 4186,
-        "end_char": 4205
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5105,14 +5027,7 @@
     "end_char": 1786,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:156",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2019,
-        "end_char": 2029
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5183,14 +5098,7 @@
     "end_char": 2875,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:170",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 3125,
-        "end_char": 3139
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5254,14 +5162,7 @@
     "end_char": 2418,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:170",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 2667,
-        "end_char": 2681
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5325,14 +5226,7 @@
     "end_char": 2484,
     "target_instrument_id": "urn:lex-mx:federal:statute:lih",
     "target_provision_id": "urn:lex-mx:federal:statute:lih:article:6",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 2503,
-        "end_char": 2514
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5387,14 +5281,7 @@
     "end_char": 1074,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:152",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 1246,
-        "end_char": 1260
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5478,14 +5365,7 @@
     "end_char": 2495,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:152",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 2669,
-        "end_char": 2683
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5592,14 +5472,7 @@
     "end_char": 7212,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:152",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 7385,
-        "end_char": 7399
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5853,12 +5726,6 @@
         "text": "fracciones I y II",
         "start_char": 1521,
         "end_char": 1538
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos décimo y décimo",
-        "start_char": 1625,
-        "end_char": 1649
       }
     ],
     "basis": "express_cross_reference",
@@ -6201,14 +6068,7 @@
     "end_char": 3041,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:77",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 3477,
-        "end_char": 3489
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6247,14 +6107,7 @@
     "end_char": 3951,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:77",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 3981,
-        "end_char": 3996
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6511,14 +6364,7 @@
     "end_char": 7556,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:8",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 8204,
-        "end_char": 8219
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -7730,18 +7576,6 @@
         "text": "segundo párrafo",
         "start_char": 1134,
         "end_char": 1149
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 1177,
-        "end_char": 1192
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 1199,
-        "end_char": 1209
       }
     ],
     "basis": "express_cross_reference",
@@ -7910,14 +7744,7 @@
     "end_char": 2430,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:176",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 2556,
-        "end_char": 2573
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -7979,14 +7806,7 @@
     "end_char": 2796,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:176",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 2921,
-        "end_char": 2938
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -9441,14 +9261,7 @@
     "end_char": 1868,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:182",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1907,
-        "end_char": 1917
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -10019,12 +9832,6 @@
         "text": "fracción VI",
         "start_char": 3770,
         "end_char": 3781
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 4146,
-        "end_char": 4157
       }
     ],
     "basis": "express_cross_reference",
@@ -10094,12 +9901,6 @@
         "text": "fracciones IV y V",
         "start_char": 5751,
         "end_char": 5768
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 5868,
-        "end_char": 5882
       }
     ],
     "basis": "express_cross_reference",
@@ -10708,12 +10509,6 @@
         "text": "inciso e",
         "start_char": 564,
         "end_char": 572
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 647,
-        "end_char": 659
       }
     ],
     "basis": "express_cross_reference",
@@ -11003,12 +10798,6 @@
         "text": "segundo párrafo",
         "start_char": 48942,
         "end_char": 48957
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y IV",
-        "start_char": 48982,
-        "end_char": 48999
       }
     ],
     "basis": "express_cross_reference",
@@ -11071,12 +10860,6 @@
         "text": "párrafo tercero",
         "start_char": 50047,
         "end_char": 50062
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo noveno",
-        "start_char": 50086,
-        "end_char": 50100
       }
     ],
     "basis": "express_cross_reference",
@@ -11100,12 +10883,6 @@
         "text": "párrafo noveno",
         "start_char": 50086,
         "end_char": 50100
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 50961,
-        "end_char": 50972
       }
     ],
     "basis": "express_cross_reference",
@@ -11129,18 +10906,6 @@
         "text": "fracción II",
         "start_char": 50961,
         "end_char": 50972
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 51317,
-        "end_char": 51325
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 51331,
-        "end_char": 51346
       }
     ],
     "basis": "express_cross_reference",
@@ -11187,12 +10952,6 @@
         "text": "párrafo tercero",
         "start_char": 52568,
         "end_char": 52583
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo décimo",
-        "start_char": 52606,
-        "end_char": 52620
       }
     ],
     "basis": "express_cross_reference",
@@ -11210,14 +10969,7 @@
     "end_char": 52645,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:151",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 52975,
-        "end_char": 52990
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -11356,24 +11108,6 @@
         "text": "quinto párrafo",
         "start_char": 5083,
         "end_char": 5097
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 5194,
-        "end_char": 5202
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 5204,
-        "end_char": 5215
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 5391,
-        "end_char": 5405
       }
     ],
     "basis": "express_cross_reference",
@@ -11590,12 +11324,6 @@
         "text": "quinto párrafo",
         "start_char": 12592,
         "end_char": 12606
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 12675,
-        "end_char": 12683
       }
     ],
     "basis": "express_cross_reference",
@@ -12199,20 +11927,7 @@
     "end_char": 10001,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:196",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 10093,
-        "end_char": 10107
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 10114,
-        "end_char": 10124
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -12359,14 +12074,7 @@
     "end_char": 22527,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:76",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones V y VIII",
-        "start_char": 22547,
-        "end_char": 22566
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -12421,14 +12129,7 @@
     "end_char": 23879,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:76",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 23994,
-        "end_char": 24008
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -12659,20 +12360,7 @@
     "end_char": 12205,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:180",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 12264,
-        "end_char": 12272
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 12280,
-        "end_char": 12290
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -13024,12 +12712,6 @@
         "text": "fracción I",
         "start_char": 31982,
         "end_char": 31992
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 32094,
-        "end_char": 32109
       }
     ],
     "basis": "express_cross_reference",
@@ -13772,14 +13454,7 @@
     "end_char": 799,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:179",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II y III",
-        "start_char": 874,
-        "end_char": 896
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -13983,14 +13658,7 @@
     "end_char": 32,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:44",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IX",
-        "start_char": 255,
-        "end_char": 266
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -14035,18 +13703,6 @@
         "text": "fracciones I, VIII y IX",
         "start_char": 866,
         "end_char": 889
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 993,
-        "end_char": 1007
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXVII",
-        "start_char": 1014,
-        "end_char": 1028
       },
       {
         "qualifier_type": "fraction",
@@ -14873,18 +14529,6 @@
         "text": "primer párrafo",
         "start_char": 1290,
         "end_char": 1304
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos b",
-        "start_char": 1487,
-        "end_char": 1496
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1509,
-        "end_char": 1519
       }
     ],
     "basis": "express_cross_reference",
@@ -14925,20 +14569,7 @@
     "end_char": 1612,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:64",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso c",
-        "start_char": 1801,
-        "end_char": 1809
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1817,
-        "end_char": 1827
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -15044,12 +14675,6 @@
         "text": "inciso b",
         "start_char": 1007,
         "end_char": 1015
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer y segundo párrafos",
-        "start_char": 1261,
-        "end_char": 1286
       }
     ],
     "basis": "express_cross_reference",
@@ -15079,12 +14704,6 @@
         "text": "inciso b",
         "start_char": 1839,
         "end_char": 1847
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer y segundo párrafos",
-        "start_char": 1947,
-        "end_char": 1972
       }
     ],
     "basis": "express_cross_reference",
@@ -15965,14 +15584,7 @@
     "end_char": 6054,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:85",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 6149,
-        "end_char": 6163
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -16583,14 +16195,7 @@
     "end_char": 4085,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:9",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones VIII y IX",
-        "start_char": 4197,
-        "end_char": 4217
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -16612,12 +16217,6 @@
         "text": "fracciones VIII y IX",
         "start_char": 4197,
         "end_char": 4217
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 4338,
-        "end_char": 4348
       }
     ],
     "basis": "express_cross_reference",
@@ -18473,14 +18072,7 @@
     "end_char": 6454,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:88",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "quinto párrafo",
-        "start_char": 6575,
-        "end_char": 6589
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -18878,12 +18470,6 @@
         "text": "fracción I",
         "start_char": 12002,
         "end_char": 12012
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XI",
-        "start_char": 12095,
-        "end_char": 12106
       }
     ],
     "basis": "express_cross_reference",
@@ -19170,14 +18756,7 @@
     "end_char": 1690,
     "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
     "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:152",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 1831,
-        "end_char": 1846
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

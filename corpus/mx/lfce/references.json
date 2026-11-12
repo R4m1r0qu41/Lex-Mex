@@ -686,14 +686,7 @@
     "end_char": 2277,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
     "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:94",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones XVII, XXII, XXXII y XXXIII",
-        "start_char": 2321,
-        "end_char": 2358
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1818,20 +1811,7 @@
     "end_char": 1447,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
     "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:65",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1532,
-        "end_char": 1542
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1628,
-        "end_char": 1639
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

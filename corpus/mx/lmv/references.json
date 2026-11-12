@@ -164,14 +164,7 @@
     "end_char": 1620,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:172",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 1741,
-        "end_char": 1752
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1064,14 +1057,7 @@
     "end_char": 764,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:124",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 808,
-        "end_char": 820
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1093,12 +1079,6 @@
         "text": "fracción III",
         "start_char": 808,
         "end_char": 820
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 905,
-        "end_char": 919
       }
     ],
     "basis": "express_cross_reference",
@@ -1720,14 +1700,7 @@
     "end_char": 1522,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:128",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 1577,
-        "end_char": 1588
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2039,12 +2012,6 @@
         "text": "fracciones I y III",
         "start_char": 1466,
         "end_char": 1484
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 1540,
-        "end_char": 1551
       }
     ],
     "basis": "express_cross_reference",
@@ -2130,12 +2097,6 @@
         "text": "fracción II",
         "start_char": 903,
         "end_char": 914
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1162,
-        "end_char": 1173
       }
     ],
     "basis": "express_cross_reference",
@@ -2993,12 +2954,6 @@
         "text": "fracciones I",
         "start_char": 6057,
         "end_char": 6069
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "cuarto y quinto párrafos",
-        "start_char": 6086,
-        "end_char": 6110
       }
     ],
     "basis": "express_cross_reference",
@@ -3272,20 +3227,7 @@
     "end_char": 6044,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:391",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 6757,
-        "end_char": 6766
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 6787,
-        "end_char": 6799
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3977,26 +3919,7 @@
     "end_char": 2114,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:191",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 2124,
-        "end_char": 2138
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y VIII",
-        "start_char": 2150,
-        "end_char": 2170
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 2172,
-        "end_char": 2187
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4168,14 +4091,7 @@
     "end_char": 3780,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:391",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II, V o VI",
-        "start_char": 4154,
-        "end_char": 4178
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4459,14 +4375,7 @@
     "end_char": 1523,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:193",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 1531,
-        "end_char": 1542
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4809,18 +4718,6 @@
         "text": "último párrafos",
         "start_char": 104,
         "end_char": 119
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 131,
-        "end_char": 146
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 208,
-        "end_char": 223
       }
     ],
     "basis": "express_cross_reference",
@@ -5327,30 +5224,6 @@
         "text": "último párrafos",
         "start_char": 128,
         "end_char": 143
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 155,
-        "end_char": 170
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 232,
-        "end_char": 247
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 296,
-        "end_char": 310
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 318,
-        "end_char": 333
       }
     ],
     "basis": "express_cross_reference",
@@ -6233,36 +6106,6 @@
         "text": "último párrafos",
         "start_char": 120,
         "end_char": 135
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 147,
-        "end_char": 162
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 224,
-        "end_char": 239
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 283,
-        "end_char": 298
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 310,
-        "end_char": 324
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 332,
-        "end_char": 347
       }
     ],
     "basis": "express_cross_reference",
@@ -7140,12 +6983,6 @@
         "text": "párrafo primero",
         "start_char": 403,
         "end_char": 418
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 426,
-        "end_char": 441
       }
     ],
     "basis": "express_cross_reference",
@@ -7343,14 +7180,7 @@
     "end_char": 2022,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:40",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 2116,
-        "end_char": 2130
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -8467,14 +8297,7 @@
     "end_char": 5768,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:252",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 5776,
-        "end_char": 5791
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -8590,12 +8413,6 @@
         "text": "último párrafo",
         "start_char": 7389,
         "end_char": 7403
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 7412,
-        "end_char": 7426
       }
     ],
     "basis": "express_cross_reference",
@@ -8804,12 +8621,6 @@
         "text": "incisos b",
         "start_char": 10190,
         "end_char": 10199
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II, VI y XI",
-        "start_char": 10221,
-        "end_char": 10243
       }
     ],
     "basis": "express_cross_reference",
@@ -8989,12 +8800,6 @@
         "text": "último párrafo",
         "start_char": 12359,
         "end_char": 12373
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 12382,
-        "end_char": 12396
       }
     ],
     "basis": "express_cross_reference",
@@ -9832,14 +9637,7 @@
     "end_char": 17413,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:36",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II",
-        "start_char": 17420,
-        "end_char": 17433
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -11611,68 +11409,7 @@
     "end_char": 35430,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:190-bis-1",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 35486,
-        "end_char": 35498
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "cuarto párrafo",
-        "start_char": 35500,
-        "end_char": 35514
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 35522,
-        "end_char": 35536
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 35626,
-        "end_char": 35638
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 35821,
-        "end_char": 35829
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 35871,
-        "end_char": 35883
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos e",
-        "start_char": 35885,
-        "end_char": 35894
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 35907,
-        "end_char": 35921
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 35968,
-        "end_char": 35982
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 35989,
-        "end_char": 36003
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -11704,20 +11441,7 @@
     "end_char": 2384,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:193",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2510,
-        "end_char": 2520
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 2522,
-        "end_char": 2531
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -12216,14 +11940,7 @@
     "end_char": 345,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:177",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 492,
-        "end_char": 506
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

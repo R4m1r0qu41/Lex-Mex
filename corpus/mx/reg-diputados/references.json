@@ -40,14 +40,7 @@
     "end_char": 757,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:78",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones IX",
-        "start_char": 821,
-        "end_char": 834
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

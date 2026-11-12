@@ -429,14 +429,7 @@
     "end_char": 1051,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
     "target_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1100,
-        "end_char": 1111
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

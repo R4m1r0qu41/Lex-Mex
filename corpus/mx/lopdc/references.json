@@ -83,12 +83,6 @@
         "text": "fracción III",
         "start_char": 62,
         "end_char": 74
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 280,
-        "end_char": 291
       }
     ],
     "basis": "express_cross_reference",

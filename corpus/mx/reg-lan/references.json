@@ -271,14 +271,7 @@
     "end_char": 573,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lan",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:97",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 676,
-        "end_char": 687
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -333,14 +326,7 @@
     "end_char": 47,
     "target_instrument_id": "urn:lex-mx:federal:statute:lan",
     "target_provision_id": "urn:lex-mx:federal:statute:lan:article:73",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 166,
-        "end_char": 178
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3033,14 +3019,7 @@
     "end_char": 28,
     "target_instrument_id": "urn:lex-mx:federal:statute:lan",
     "target_provision_id": "urn:lex-mx:federal:statute:lan:article:52",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 162,
-        "end_char": 173
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3088,14 +3067,7 @@
     "end_char": 28,
     "target_instrument_id": "urn:lex-mx:federal:statute:lan",
     "target_provision_id": "urn:lex-mx:federal:statute:lan:article:56",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 331,
-        "end_char": 345
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

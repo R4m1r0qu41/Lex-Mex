@@ -345,14 +345,7 @@
     "end_char": 410,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfd",
     "target_provision_id": "urn:lex-mx:federal:statute:lfd:article:174-b",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y III",
-        "start_char": 463,
-        "end_char": 482
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2287,14 +2280,7 @@
     "end_char": 757,
     "target_instrument_id": "urn:lex-mx:federal:statute:lan",
     "target_provision_id": "urn:lex-mx:federal:statute:lan:article:114",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones IV y V",
-        "start_char": 823,
-        "end_char": 840
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2655,12 +2641,6 @@
         "text": "fracción IX",
         "start_char": 1758,
         "end_char": 1769
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXXIV",
-        "start_char": 1863,
-        "end_char": 1877
       }
     ],
     "basis": "express_cross_reference",
@@ -5159,14 +5139,7 @@
     "end_char": 143,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfd",
     "target_provision_id": "urn:lex-mx:federal:statute:lfd:article:29-h",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones IX y X",
-        "start_char": 213,
-        "end_char": 230
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5753,12 +5726,6 @@
         "text": "fracción I",
         "start_char": 1338,
         "end_char": 1348
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y III",
-        "start_char": 1629,
-        "end_char": 1648
       }
     ],
     "basis": "express_cross_reference",
@@ -5805,12 +5772,6 @@
         "text": "fracciones II y III",
         "start_char": 3534,
         "end_char": 3553
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 3980,
-        "end_char": 3990
       }
     ],
     "basis": "express_cross_reference",
@@ -5857,12 +5818,6 @@
         "text": "fracciones I",
         "start_char": 4400,
         "end_char": 4412
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 4539,
-        "end_char": 4549
       }
     ],
     "basis": "express_cross_reference",
@@ -5909,12 +5864,6 @@
         "text": "fracciones I",
         "start_char": 4714,
         "end_char": 4726
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y III",
-        "start_char": 4854,
-        "end_char": 4873
       }
     ],
     "basis": "express_cross_reference",
@@ -5961,12 +5910,6 @@
         "text": "fracciones II y III",
         "start_char": 5170,
         "end_char": 5189
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 5288,
-        "end_char": 5298
       }
     ],
     "basis": "express_cross_reference",

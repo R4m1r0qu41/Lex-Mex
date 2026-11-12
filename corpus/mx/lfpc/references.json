@@ -2276,14 +2276,7 @@
     "end_char": 2492,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfpc",
     "target_provision_id": "urn:lex-mx:federal:statute:lfpc:article:128",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 2514,
-        "end_char": 2525
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
