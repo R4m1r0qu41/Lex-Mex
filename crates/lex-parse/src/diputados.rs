@@ -1018,6 +1018,20 @@ fn normalized_blocks(
             flush_block(&mut current, &mut blocks);
             crossed_page_furniture = false;
         }
+        // A fraction that opens the next page is a new paragraph, not the
+        // continuation of the one the page break interrupted (lritf art. 22:
+        // `…de este artículo;` + page furniture + `III. Realizar…`). The
+        // blank line that would have separated them is lost among the
+        // furniture, so the enumeration itself is the evidence: the open
+        // block is a fraction or ends a clause, and the line starts with a
+        // Roman fraction marker.
+        if crossed_page_furniture
+            && is_fraction_start(line)
+            && (is_fraction_start(&current) || ends_enumeration_clause(&current))
+        {
+            flush_block(&mut current, &mut blocks);
+            crossed_page_furniture = false;
+        }
         if pending_blank && !crossed_page_furniture {
             flush_block(&mut current, &mut blocks);
         }
@@ -1072,6 +1086,56 @@ fn normalized_blocks(
     }
     flush_block(&mut current, &mut blocks);
     blocks
+}
+
+/// A paragraph opening with a Roman fraction marker: `III. `, `IV.- `,
+/// `II Bis. `. Lone `C`, `L`, `D` and `M` are excluded: at the start of a
+/// line they are initials and abbreviations (`C. Presidente`), not numerals.
+fn is_fraction_start(block: &str) -> bool {
+    let block = block.trim_start();
+    let numeral = block
+        .bytes()
+        .take_while(|byte| matches!(byte, b'I' | b'V' | b'X' | b'L' | b'C'))
+        .count();
+    if numeral == 0 || matches!(&block[..numeral], "C" | "L") {
+        return false;
+    }
+    let mut rest = &block[numeral..];
+    for suffix in [
+        " Bis",
+        " Ter",
+        " Quáter",
+        " Quater",
+        " Quinquies",
+        " Sexies",
+    ] {
+        if let Some(after) = rest.strip_prefix(suffix) {
+            rest = after;
+            break;
+        }
+    }
+    let Some(rest) = rest.strip_prefix('.') else {
+        return false;
+    };
+    let rest = rest
+        .strip_prefix('-')
+        .or_else(|| rest.strip_prefix('–'))
+        .unwrap_or(rest);
+    rest.starts_with(char::is_whitespace)
+}
+
+/// The open block closes a clause of an enumeration: it ends with `;`, `:`
+/// or `.`, optionally followed by the conjunction that introduces the last
+/// item (`; y`, `, o`).
+fn ends_enumeration_clause(block: &str) -> bool {
+    let block = block.trim_end();
+    if block.ends_with([';', ':', '.']) {
+        return true;
+    }
+    [" y", " o", " e", " u"]
+        .iter()
+        .filter_map(|conjunction| block.strip_suffix(conjunction))
+        .any(|before| before.ends_with([';', ',']))
 }
 
 fn flush_block(current: &mut String, blocks: &mut Vec<String>) {
@@ -2425,6 +2489,8 @@ mod tests {
     const REFORM_LEY_HEADING_ACROSS_PAGE_FURNITURE_FIXTURE: &str = include_str!(
         "../../../fixtures/diputados/reform-ley-heading-across-page-furniture-sample.txt"
     );
+    const FRACTION_AFTER_PAGE_BREAK_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/fraction-after-page-break-sample.txt");
     const REFORM_DECRETO_DE_REFORMAS_HEADING_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-decreto-de-reformas-heading-sample.txt");
     const REFORM_BARE_LEY_TITLE_FIXTURE: &str =
@@ -3266,6 +3332,61 @@ mod tests {
                 .text
                 .contains("publicación en el Diario Oficial de la Federación")
         );
+    }
+
+    #[test]
+    fn a_fraction_opening_a_page_starts_its_own_paragraph() {
+        // lritf art. 22: fraction III opens a page and was joined to II.
+        let document = parse_diputados(
+            FRACTION_AFTER_PAGE_BREAK_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(2018, 3, 9).expect("valid date"),
+        )
+        .expect("fraction page-break fixture parses");
+        let first = &document.provisions[0].text;
+        let paragraphs: Vec<&str> = first.split("\n\n").collect();
+        assert_eq!(paragraphs.len(), 5, "{first}");
+        assert!(paragraphs[2].starts_with("II. Realizar transferencias de fondos"));
+        assert!(paragraphs[2].ends_with("de este artículo;"));
+        assert!(paragraphs[3].starts_with("III. Realizar transferencias de determinadas"));
+        // A sentence the page break interrupts is still one paragraph.
+        assert!(
+            paragraphs[4].ends_with(
+                "en términos de la fracción anterior y de las disposiciones aplicables."
+            )
+        );
+        // A numeral that continues an unfinished sentence is not a fraction.
+        assert_eq!(
+            document.provisions[1].text,
+            "Las operaciones del artículo anterior se sujetarán a lo previsto en la fracción II. del artículo 1 de esta Ley."
+        );
+        assert!(
+            !document
+                .provisions
+                .iter()
+                .any(|p| p.text.contains("DIPUTADOS"))
+        );
+    }
+
+    #[test]
+    fn fraction_markers_are_recognized_narrowly() {
+        for marker in ["I. Uno", "IV.- Cuatro", "II Bis. Dos", "XXXVIII. Treinta"] {
+            assert!(super::is_fraction_start(marker), "{marker}");
+        }
+        for other in [
+            "C. Presidente",
+            "L. Texto",
+            "IV del artículo",
+            "Inciso",
+            "II.Texto",
+            "",
+        ] {
+            assert!(!super::is_fraction_start(other), "{other}");
+        }
+        assert!(super::ends_enumeration_clause("de este artículo;"));
+        assert!(super::ends_enumeration_clause("en moneda nacional, y"));
+        assert!(!super::ends_enumeration_clause("previsto en la fracción"));
+        assert!(!super::ends_enumeration_clause("la autoridad y"));
     }
 
     #[test]

@@ -1,5 +1,6 @@
 pub mod dcg;
 pub mod diputados;
+pub mod fidelity;
 pub mod furniture_audit;
 pub mod html;
 pub mod itf;

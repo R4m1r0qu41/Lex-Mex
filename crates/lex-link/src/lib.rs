@@ -2,6 +2,7 @@
 //! records, terms and context. Nothing here reads files, parses source
 //! documents or depends on parser options.
 
+pub mod qualifier_audit;
 pub mod references;
 pub mod usages;
 

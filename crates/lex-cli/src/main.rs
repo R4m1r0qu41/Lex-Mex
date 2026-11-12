@@ -49,7 +49,9 @@ use regex::Regex;
 
 mod bundle;
 mod db;
+mod fidelity;
 mod public_release;
+mod qualifier_audit;
 mod review_packets;
 mod standards;
 
@@ -116,6 +118,12 @@ enum Command {
         #[command(subcommand)]
         command: standards::StandardsCommand,
     },
+    /// Prove committed provision text appears in order in the retained source
+    /// extraction and classify every gap. Evidence only: writes `.work/` reports.
+    VerifyFidelity(fidelity::VerifyFidelityArgs),
+    /// Check each fraction cited by a resolved reference edge against its target
+    /// provision text. Evidence only: writes `.work/` reports, never edits edges.
+    AuditQualifiers(qualifier_audit::AuditQualifiersArgs),
     /// Read one PDF positionally and report recurring header/footer bands.
     /// This is audit evidence only: it never changes extracted or canonical text.
     AuditFurniture {
@@ -423,6 +431,7 @@ fn dispatch_link(
     run_link_with(root, &context, migrate_protected)
 }
 
+#[allow(clippy::too_many_lines)]
 fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Result<()> {
     match command {
         command @ (Command::Instruments { .. } | Command::Path { .. } | Command::Search { .. }) => {
@@ -432,6 +441,8 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
         Command::Db { command } => db::run(root, command)?,
         Command::PublicRelease { command } => public_release::run(root, command)?,
         Command::Standards { command } => standards::run_standards_command(root, command)?,
+        Command::VerifyFidelity(args) => fidelity::run(root, args)?,
+        Command::AuditQualifiers(args) => qualifier_audit::run(root, args)?,
         Command::AuditFurniture { pdf, json } => run_audit_furniture(root, &pdf, json)?,
         Command::Discover { source } => run_discover(root, &source)?,
         Command::Fetch { instrument } => {

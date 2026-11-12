@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:fixture-fidelity",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Synthetic fixture",
+  "official_url": "https://example.invalid/fixture-fidelity.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-01-01T00:00:00Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": null,
+  "etag": null,
+  "last_modified": null,
+  "source_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "extracted_text_sha256": "EXTRACTION_SHA256_PLACEHOLDER",
+  "extraction_tool": "pdftotext (synthetic fixture)",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": null
+}

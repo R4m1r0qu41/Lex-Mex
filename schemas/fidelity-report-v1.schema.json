@@ -1,0 +1,179 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.local/schemas/fidelity-report-v1.schema.json",
+  "title": "Lex-Mex source fidelity report v1",
+  "description": "Read-only evidence that committed provision text appears in order in the retained source extraction. Not canonical corpus data; written under .work/<slug>/fidelity-report.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "instrument_id",
+    "input_status",
+    "source_file_present",
+    "annex_extraction_hash_checked",
+    "source_sha256",
+    "extracted_text_sha256",
+    "extraction_tool",
+    "provision_count",
+    "status_counts",
+    "gap_class_counts",
+    "all_provisions_pass",
+    "provisions"
+  ],
+  "properties": {
+    "schema_version": { "const": "1.0.0" },
+    "instrument_id": { "type": "string", "minLength": 1 },
+    "input_status": { "$ref": "#/$defs/input_status" },
+    "input_detail": { "type": "string", "minLength": 1 },
+    "source_file_present": { "type": "boolean" },
+    "annex_extraction_hash_checked": {
+      "description": "True only when at least one annex text was used and every used annex text was checked against annex-source-manifests.json.",
+      "type": "boolean"
+    },
+    "source_sha256": { "$ref": "#/$defs/sha256" },
+    "extracted_text_sha256": {
+      "oneOf": [{ "$ref": "#/$defs/sha256" }, { "type": "null" }]
+    },
+    "extraction_tool": { "type": ["string", "null"] },
+    "provision_count": { "type": "integer", "minimum": 0 },
+    "status_counts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "exact",
+        "exact_modulo_classified_gaps",
+        "unclassified_gap",
+        "text_not_in_source",
+        "diverged",
+        "not_located",
+        "empty"
+      ],
+      "properties": {
+        "exact": { "type": "integer", "minimum": 0 },
+        "exact_modulo_classified_gaps": { "type": "integer", "minimum": 0 },
+        "unclassified_gap": { "type": "integer", "minimum": 0 },
+        "text_not_in_source": { "type": "integer", "minimum": 0 },
+        "diverged": { "type": "integer", "minimum": 0 },
+        "not_located": { "type": "integer", "minimum": 0 },
+        "empty": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "gap_class_counts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "page_furniture",
+        "editorial_reform_note",
+        "amendment_mark",
+        "unclassified"
+      ],
+      "properties": {
+        "page_furniture": { "type": "integer", "minimum": 0 },
+        "editorial_reform_note": { "type": "integer", "minimum": 0 },
+        "amendment_mark": { "type": "integer", "minimum": 0 },
+        "unclassified": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "all_provisions_pass": {
+      "description": "True only when inputs were usable and every non-empty provision is exact or exact_modulo_classified_gaps.",
+      "type": "boolean"
+    },
+    "provisions": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/provision" }
+    }
+  },
+  "$defs": {
+    "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "input_status": {
+      "enum": [
+        "ok",
+        "inputs_missing",
+        "source_hash_mismatch",
+        "extraction_hash_mismatch",
+        "annex_extraction_hash_mismatch",
+        "corpus_unreadable"
+      ]
+    },
+    "provision_status": {
+      "enum": [
+        "exact",
+        "exact_modulo_classified_gaps",
+        "unclassified_gap",
+        "text_not_in_source",
+        "diverged",
+        "not_located",
+        "empty"
+      ]
+    },
+    "gap_class": {
+      "enum": [
+        "page_furniture",
+        "editorial_reform_note",
+        "amendment_mark",
+        "unclassified"
+      ]
+    },
+    "provision": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "provision_id",
+        "status",
+        "source_document",
+        "provision_token_count",
+        "gaps",
+        "insertions"
+      ],
+      "properties": {
+        "provision_id": { "type": "string", "minLength": 1 },
+        "status": { "$ref": "#/$defs/provision_status" },
+        "source_document": { "type": "string", "pattern": "^(main|annex-[0-9]+)$" },
+        "source_token_start": { "type": "integer", "minimum": 0 },
+        "source_token_end": { "type": "integer", "minimum": 0 },
+        "provision_token_count": { "type": "integer", "minimum": 0 },
+        "gaps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["class", "source_token_offset", "token_count", "text"],
+            "properties": {
+              "class": { "$ref": "#/$defs/gap_class" },
+              "source_token_offset": { "type": "integer", "minimum": 0 },
+              "token_count": { "type": "integer", "minimum": 1 },
+              "text": { "type": "string", "maxLength": 300 }
+            }
+          }
+        },
+        "insertions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["provision_token_offset", "token_count", "text"],
+            "properties": {
+              "provision_token_offset": { "type": "integer", "minimum": 0 },
+              "token_count": { "type": "integer", "minimum": 1 },
+              "text": { "type": "string", "maxLength": 300 }
+            }
+          }
+        },
+        "divergence": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "provision_token_offset",
+            "provision_context",
+            "source_context"
+          ],
+          "properties": {
+            "provision_token_offset": { "type": "integer", "minimum": 0 },
+            "provision_context": { "type": "string", "maxLength": 300 },
+            "source_context": { "type": "string", "maxLength": 300 }
+          }
+        }
+      }
+    }
+  }
+}
