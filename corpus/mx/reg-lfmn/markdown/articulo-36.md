@@ -28,7 +28,9 @@ ll. Actividad en la que se utilizarán los materiales, equipos, procesos, métod
 
 lll. Descripción de los materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativos y en caso de que la dependencia lo requiera, el personal responsable de su aplicación;
 
-lV. Cuadro comparativo de los resultados de las pruebas realizadas con los materiales, equipos, procesos, métodos de pruebas, mecanismos, procedimientos o tecnologías alternativos en relación con aquellos previstos en las normas oficiales mexicanas; V. Metodología para la aplicación de materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativos, y
+lV. Cuadro comparativo de los resultados de las pruebas realizadas con los materiales, equipos, procesos, métodos de pruebas, mecanismos, procedimientos o tecnologías alternativos en relación con aquellos previstos en las normas oficiales mexicanas;
+
+V. Metodología para la aplicación de materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativos, y
 
 VI. Copia del comprobante de pago de derechos por la evaluación de la solicitud.
 

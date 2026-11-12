@@ -23,7 +23,9 @@ I. El nombre o denominación o razón social y domicilio del propietario o posee
 
 II. Número de oficio de otorgamiento de constancia o de autorización y [Código de identificación](articulo-2.md) otorgado;
 
-III. Especies que serán utilizadas, las que deberán identificarse por medio de su nombre científico y común, así como la justificación técnica para su selección, y IV. En caso de que las especies a plantar sean exóticas, las actividades para evitar su propagación no controlada en las áreas con Vegetación forestal.
+III. Especies que serán utilizadas, las que deberán identificarse por medio de su nombre científico y común, así como la justificación técnica para su selección, y
+
+IV. En caso de que las especies a plantar sean exóticas, las actividades para evitar su propagación no controlada en las áreas con Vegetación forestal.
 
 Asimismo, con el aviso a que se refiere este artículo se adjuntarán los documentos en los que se demuestren las modificaciones propuestas y, en su caso, el [Plano georeferenciado](articulo-2.md) que represente gráficamente las modificaciones.
 

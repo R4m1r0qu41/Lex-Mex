@@ -17,7 +17,9 @@ source_sha256: b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca
 
 # Artículo 7
 
-La Junta de Gobierno de la Agencia Espacial Mexicana estará integrada por 15 miembros, que serán: I. El titular de la Secretaría de Comunicaciones y Transportes, quien la presidirá;
+La Junta de Gobierno de la Agencia Espacial Mexicana estará integrada por 15 miembros, que serán:
+
+I. El titular de la Secretaría de Comunicaciones y Transportes, quien la presidirá;
 
 II. Un representante de la Secretaría de Gobernación que deberá tener nivel de subsecretario;
 

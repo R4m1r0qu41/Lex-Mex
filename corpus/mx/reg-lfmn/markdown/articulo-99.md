@@ -24,7 +24,9 @@ Los productos y servicios que no cumplan con las normas oficiales mexicanas, que
 
 Siempre con cargo al interesado y en los términos que determine la autoridad competente, dichos productos o servicios podrán:
 
-I. Acondicionarse; II. Repararse;
+I. Acondicionarse;
+
+II. Repararse;
 
 III. Reprocesarse, o
 

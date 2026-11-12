@@ -10,12 +10,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3:term-usage:2245-2253",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3:term-usage:2246-2254",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:servicio",
     "span": "Servicio",
-    "start_char": 2245,
-    "end_char": 2253
+    "start_char": 2246,
+    "end_char": 2254
   },
   {
     "schema_version": "0.1.0",

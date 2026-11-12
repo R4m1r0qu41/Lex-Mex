@@ -23,7 +23,9 @@ I. Cuestionario debidamente requisitado en original y una copia simple, que cont
 
 II. Escritura, acta, certificado o cualquier otro instrumento de constitución, así como estatutos sociales por los cuales se rige la sociedad financiera internacional para el desarrollo;
 
-III. Estados financieros de la sociedad financiera internacional para el desarrollo correspondientes al último ejercicio fiscal, en caso de que dicha sociedad cuente con más de un año de estar constituida, y IV. Estados financieros proyectados a tres años, en caso de que la sociedad financiera internacional para el desarrollo cuente con un año o menos de estar constituida.
+III. Estados financieros de la sociedad financiera internacional para el desarrollo correspondientes al último ejercicio fiscal, en caso de que dicha sociedad cuente con más de un año de estar constituida, y
+
+IV. Estados financieros proyectados a tres años, en caso de que la sociedad financiera internacional para el desarrollo cuente con un año o menos de estar constituida.
 
 Los documentos que provengan del exterior deberán estar legalizados ante cónsul mexicano o, cuando resulte aplicable, apostillados de conformidad con el Decreto de Promulgación de la Convención por la que se suprime el requisito de Legalización de los Documentos Públicos Extranjeros.
 

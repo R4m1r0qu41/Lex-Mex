@@ -35,7 +35,9 @@ VII. Gestionar los recursos necesarios para el mejor logro de los objetivos univ
 
 VIII. Coordinar las actividades de los órganos de gobierno y el funcionamiento general de la Universidad;
 
-IX. Presentar ante el H. Consejo Universitario, para su sanción, los planes, programas y presupuestos necesarios para el logro de los objetivos universitarios en los términos que establezca el Estatuto y los reglamentos; X. Otorgar, delegar, sustituir y revocar poderes generales y especiales conforme a las leyes vigentes;
+IX. Presentar ante el H. Consejo Universitario, para su sanción, los planes, programas y presupuestos necesarios para el logro de los objetivos universitarios en los términos que establezca el Estatuto y los reglamentos;
+
+X. Otorgar, delegar, sustituir y revocar poderes generales y especiales conforme a las leyes vigentes;
 
 XI. Celebrar todo tipo de convenios para el cumplimiento de los fines de la Universidad, con las limitaciones que se deriven de esta Ley Orgánica y sus reglamentos; y
 

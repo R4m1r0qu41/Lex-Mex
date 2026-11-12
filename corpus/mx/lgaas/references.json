@@ -42,19 +42,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgaas:article:102:reference:709-712:104:direct",
+    "id": "urn:lex-mx:federal:statute:lgaas:article:102:reference:710-713:104:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgaas:article:102",
     "source_span": "104",
-    "start_char": 709,
-    "end_char": 712,
+    "start_char": 710,
+    "end_char": 713,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "target_provision_id": "urn:lex-mx:federal:statute:lgaas:article:104",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",
-        "start_char": 684,
-        "end_char": 695
+        "start_char": 685,
+        "end_char": 696
       }
     ],
     "basis": "express_cross_reference",
@@ -303,19 +303,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgaas:article:4:reference:2355-2356:4:direct",
+    "id": "urn:lex-mx:federal:statute:lgaas:article:4:reference:2356-2357:4:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgaas:article:4",
     "source_span": "4",
-    "start_char": 2355,
-    "end_char": 2356,
+    "start_char": 2356,
+    "end_char": 2357,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:4",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo sexto",
-        "start_char": 2328,
-        "end_char": 2341
+        "start_char": 2329,
+        "end_char": 2342
       }
     ],
     "basis": "express_cross_reference",

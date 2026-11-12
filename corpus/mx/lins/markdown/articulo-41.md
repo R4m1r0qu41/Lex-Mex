@@ -25,7 +25,9 @@ II. Los proyectos serán evaluados por el Instituto respectivo en cualquier tiem
 
 III. La investigación se llevará a cabo de acuerdo con los lineamientos generales que al respecto establezca cada Instituto;
 
-IV. Los investigadores podrán presentar los proyectos para la autorización del Instituto en cualquier tiempo; V. Los recursos en ningún caso formarán parte del patrimonio del [Instituto Nacional de Salud](articulo-2.md) donde se desarrolle la investigación, y sólo estarán bajo la administración del Instituto de que se trate para el fin convenido;
+IV. Los investigadores podrán presentar los proyectos para la autorización del Instituto en cualquier tiempo;
+
+V. Los recursos en ningún caso formarán parte del patrimonio del [Instituto Nacional de Salud](articulo-2.md) donde se desarrolle la investigación, y sólo estarán bajo la administración del Instituto de que se trate para el fin convenido;
 
 VI. Los términos y condiciones para la distribución de los recursos en cuanto a los apoyos y estímulos económicos al personal que participe en el proyecto, adquisición de equipo y otros insumos que se requieran, podrán fijarse por el investigador y el aportante de los recursos, con base en los lineamientos y políticas generales que determine la Junta de Gobierno del Instituto de que se trate, en los que deberá fijarse, entre otros, el porcentaje que deberá destinarse a favor del Instituto;
 

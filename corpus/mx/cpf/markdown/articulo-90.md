@@ -41,7 +41,9 @@ d).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefaciente
 
 e).- Reparar el daño causado.
 
-Cuando por sus circunstancias personales no pueda reparar desde luego el daño causado, dará caución o se sujetará a las medidas que a juicio del juez o tribunal sean bastantes para asegurar que cumplirá, en el plazo que se le fije esta obligación. III.- La suspensión comprenderá la pena de prisión y la multa, y en cuanto a las demás sanciones impuestas, el juez o tribunal resolverán discrecionalmente según las circunstancias del caso.
+Cuando por sus circunstancias personales no pueda reparar desde luego el daño causado, dará caución o se sujetará a las medidas que a juicio del juez o tribunal sean bastantes para asegurar que cumplirá, en el plazo que se le fije esta obligación.
+
+III.- La suspensión comprenderá la pena de prisión y la multa, y en cuanto a las demás sanciones impuestas, el juez o tribunal resolverán discrecionalmente según las circunstancias del caso.
 
 IV.- A los delincuentes a quienes se haya suspendido la ejecución de la sentencia, se les hará saber lo dispuesto en este artículo, lo que se asentará en diligencia formal, sin que la falta de esta impida, en su caso, la aplicación de lo prevenido en el mismo.
 

@@ -43,7 +43,9 @@ A. La lista nacional de substancias, materiales, métodos, ingredientes e insumo
 
 B. Las Disposiciones aplicables para la producción, cosecha, captura, recolección, acarreo, elaboración, preparación, procesamiento, acondicionamiento, identificación, empaque, almacenamiento, transporte, distribución, pesca y acuacultura; la comercialización, etiquetado, condiciones de uso permitido de las substancias, materiales o insumos; y demás que formen parte del [Sistema de control](articulo-3.md) y Certificación de productos derivados de actividades agropecuarias que lleven un etiquetado descriptivo relativo a su obtención bajo métodos orgánicos.
 
-C. Las especificaciones para el uso del término orgánico en el etiquetado de los productos. XI. Coordinarse en su caso con la Secretaría de Economía para gestionar y mantener la equivalencia internacional para el reconocimiento del Sistema de control nacional, a fin de facilitar el comercio internacional de los productos orgánicos, así como evaluar los sistemas de control aplicados en los países que soliciten acuerdos de equivalencia en la materia;
+C. Las especificaciones para el uso del término orgánico en el etiquetado de los productos.
+
+XI. Coordinarse en su caso con la Secretaría de Economía para gestionar y mantener la equivalencia internacional para el reconocimiento del Sistema de control nacional, a fin de facilitar el comercio internacional de los productos orgánicos, así como evaluar los sistemas de control aplicados en los países que soliciten acuerdos de equivalencia en la materia;
 
 XII. Promover la apertura en las fracciones arancelarias existentes para productos provenientes de sistemas orgánicos, a fin de facilitar la comercialización diferenciada y coadyuvar al mantenimiento de la integridad orgánica en las exportaciones e importaciones de las mercancías, y
 

@@ -19,7 +19,9 @@ source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 
 Los contenidos de los planes y programas de estudio de la educación que impartan el [Estado](articulo-4.md), sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, de acuerdo al tipo y nivel educativo, serán, entre otros, los siguientes:
 
-I. El aprendizaje de las matemáticas; II. El conocimiento de la lecto-escritura y la literacidad, para un mejor aprovechamiento de la cultura escrita;
+I. El aprendizaje de las matemáticas;
+
+II. El conocimiento de la lecto-escritura y la literacidad, para un mejor aprovechamiento de la cultura escrita;
 
 III. El aprendizaje de la historia, la geografía, el civismo y la filosofía;
 
@@ -49,7 +51,9 @@ XV. El fomento de la cultura de la transparencia, la rendición de cuenta, la in
 
 XVI. La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental;
 
-XVII. El aprendizaje y fomento de la cultura de protección civil, integrando los elementos básicos de prevención, autoprotección y resiliencia, así como la mitigación y adaptación ante los efectos que representa el cambio climático y los riesgos inherentes a otros fenómenos naturales; XVIII. El fomento de los valores y principios del cooperativismo que propicien la construcción de relaciones, solidarias y fraternas;
+XVII. El aprendizaje y fomento de la cultura de protección civil, integrando los elementos básicos de prevención, autoprotección y resiliencia, así como la mitigación y adaptación ante los efectos que representa el cambio climático y los riesgos inherentes a otros fenómenos naturales;
+
+XVIII. El fomento de los valores y principios del cooperativismo que propicien la construcción de relaciones, solidarias y fraternas;
 
 XIX. La promoción de actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
 

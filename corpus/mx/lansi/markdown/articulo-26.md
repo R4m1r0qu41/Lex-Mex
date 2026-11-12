@@ -25,6 +25,8 @@ II. Las condiciones económicas del infractor;
 
 III. La reincidencia, si la hubiere;
 
-IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción, y V. El beneficio directamente obtenido por el infractor por los actos relacionados con la imposición de sanciones.
+IV. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción, y
+
+V. El beneficio directamente obtenido por el infractor por los actos relacionados con la imposición de sanciones.
 
 En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la [Agencia](articulo-3o.md) imponga una sanción, dicha autoridad podrá considerar tal situación como atenuante de la infracción cometida.

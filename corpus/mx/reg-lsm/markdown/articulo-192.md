@@ -19,7 +19,9 @@ source_sha256: e05548ce5210162f6613eab2a8d8e53b7eed65ffe4a909d4665277fe1726e369
 
 Las Juntas Municipales de Reclutamiento estarán constituidos por:
 
-I.- El Presidente Municipal; II.- Un Regidor;
+I.- El Presidente Municipal;
+
+II.- Un Regidor;
 
 III.- Tres vecinos caracterizados, nombrados por el Jefe del Sector correspondiente.
 

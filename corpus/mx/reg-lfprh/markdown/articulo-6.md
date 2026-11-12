@@ -17,7 +17,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 6
 
-Las dependencias coordinadoras de sector, para la orientación y coordinación de la planeación, programación, presupuesto, ejercicio, control y evaluación del gasto público de las entidades ubicadas bajo su coordinación, deberán: I. Establecer procedimientos técnicos administrativos, acordes con las necesidades y características del respectivo sector, atendiendo a lo dispuesto por la [Ley](articulo-2.md), el presente Reglamento y las disposiciones generales que expidan la Secretaría y la Función Pública en el ámbito de sus respectivas competencias;
+Las dependencias coordinadoras de sector, para la orientación y coordinación de la planeación, programación, presupuesto, ejercicio, control y evaluación del gasto público de las entidades ubicadas bajo su coordinación, deberán:
+
+I. Establecer procedimientos técnicos administrativos, acordes con las necesidades y características del respectivo sector, atendiendo a lo dispuesto por la [Ley](articulo-2.md), el presente Reglamento y las disposiciones generales que expidan la Secretaría y la Función Pública en el ámbito de sus respectivas competencias;
 
 II. Vigilar que las entidades cumplan con lo dispuesto en la Ley, este Reglamento y las disposiciones generales que establezcan la Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, así como las que expida en su carácter de coordinadora de sector, y
 

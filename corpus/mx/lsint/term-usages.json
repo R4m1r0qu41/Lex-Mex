@@ -37,84 +37,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:63-81",
-    "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 63,
-    "end_char": 81
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:147-162",
+    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:148-163",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:fuerzas-armadas",
     "span": "Fuerzas Armadas",
-    "start_char": 147,
-    "end_char": 162
+    "start_char": 148,
+    "end_char": 163
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:479-497",
+    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:480-498",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-nacional",
     "span": "Seguridad Nacional",
-    "start_char": 479,
-    "end_char": 497
+    "start_char": 480,
+    "end_char": 498
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:907-938",
+    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:908-939",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:amenazas-a-la-seguridad-interior",
     "span": "Amenaza a la Seguridad Interior",
-    "start_char": 907,
-    "end_char": 938
+    "start_char": 908,
+    "end_char": 939
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1079-1094",
+    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1080-1095",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:fuerzas-armadas",
     "span": "Fuerzas Armadas",
-    "start_char": 1079,
-    "end_char": 1094
+    "start_char": 1080,
+    "end_char": 1095
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1174-1192",
+    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1175-1193",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
     "span": "Seguridad Interior",
-    "start_char": 1174,
-    "end_char": 1192
+    "start_char": 1175,
+    "end_char": 1193
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1217-1249",
+    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1218-1250",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:amenazas-a-la-seguridad-interior",
     "span": "Amenazas a la Seguridad Interior",
-    "start_char": 1217,
-    "end_char": 1249
+    "start_char": 1218,
+    "end_char": 1250
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1907-1924",
+    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1908-1925",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:fuerzas-federales",
     "span": "Fuerzas Federales",
-    "start_char": 1907,
-    "end_char": 1924
+    "start_char": 1908,
+    "end_char": 1925
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1944-1959",
+    "id": "urn:lex-mx:federal:statute:lsint:article:4:term-usage:1945-1960",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:4",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:fuerzas-armadas",
     "span": "Fuerzas Armadas",
-    "start_char": 1944,
-    "end_char": 1959
+    "start_char": 1945,
+    "end_char": 1960
   },
   {
     "schema_version": "0.1.0",
@@ -163,11 +154,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:6:term-usage:554-572",
+    "id": "urn:lex-mx:federal:statute:lsint:article:6:term-usage:542-572",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:6",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 554,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 542,
     "end_char": 572
   },
   {
@@ -244,11 +235,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:11:term-usage:471-489",
+    "id": "urn:lex-mx:federal:statute:lsint:article:11:term-usage:459-489",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:11",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 471,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 459,
     "end_char": 489
   },
   {
@@ -370,11 +361,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:14:term-usage:327-345",
+    "id": "urn:lex-mx:federal:statute:lsint:article:14:term-usage:315-345",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 327,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 315,
     "end_char": 345
   },
   {
@@ -406,11 +397,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:14:term-usage:727-745",
+    "id": "urn:lex-mx:federal:statute:lsint:article:14:term-usage:715-745",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 727,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 715,
     "end_char": 745
   },
   {
@@ -424,11 +415,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:14:term-usage:928-946",
+    "id": "urn:lex-mx:federal:statute:lsint:article:14:term-usage:916-946",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 928,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 916,
     "end_char": 946
   },
   {
@@ -442,11 +433,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:15:term-usage:225-243",
+    "id": "urn:lex-mx:federal:statute:lsint:article:15:term-usage:213-243",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 225,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 213,
     "end_char": 243
   },
   {
@@ -469,11 +460,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:15:term-usage:535-553",
+    "id": "urn:lex-mx:federal:statute:lsint:article:15:term-usage:523-553",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 535,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 523,
     "end_char": 553
   },
   {
@@ -523,29 +514,29 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:17:term-usage:202-220",
+    "id": "urn:lex-mx:federal:statute:lsint:article:17:term-usage:190-220",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:17",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 202,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 190,
     "end_char": 220
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:18:term-usage:32-50",
+    "id": "urn:lex-mx:federal:statute:lsint:article:18:term-usage:20-50",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 32,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 20,
     "end_char": 50
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:18:term-usage:342-360",
+    "id": "urn:lex-mx:federal:statute:lsint:article:18:term-usage:330-360",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:18",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 342,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 330,
     "end_char": 360
   },
   {
@@ -604,29 +595,29 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:20:term-usage:1151-1166",
+    "id": "urn:lex-mx:federal:statute:lsint:article:20:term-usage:1152-1167",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:20",
     "term_id": "urn:lex-mx:federal:statute:lsint:term:fuerzas-armadas",
     "span": "Fuerzas Armadas",
-    "start_char": 1151,
-    "end_char": 1166
+    "start_char": 1152,
+    "end_char": 1167
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:20:term-usage:1203-1221",
+    "id": "urn:lex-mx:federal:statute:lsint:article:20:term-usage:1192-1222",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:20",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 1203,
-    "end_char": 1221
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 1192,
+    "end_char": 1222
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:21:term-usage:214-232",
+    "id": "urn:lex-mx:federal:statute:lsint:article:21:term-usage:202-232",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:21",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 214,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 202,
     "end_char": 232
   },
   {
@@ -685,11 +676,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:24:term-usage:152-170",
+    "id": "urn:lex-mx:federal:statute:lsint:article:24:term-usage:140-170",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:24",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 152,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 140,
     "end_char": 170
   },
   {
@@ -712,11 +703,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:26:term-usage:178-196",
+    "id": "urn:lex-mx:federal:statute:lsint:article:26:term-usage:166-196",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:26",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 178,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 166,
     "end_char": 196
   },
   {
@@ -757,11 +748,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:27:term-usage:48-66",
+    "id": "urn:lex-mx:federal:statute:lsint:article:27:term-usage:36-66",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:27",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 48,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 36,
     "end_char": 66
   },
   {
@@ -784,20 +775,20 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:28:term-usage:47-65",
+    "id": "urn:lex-mx:federal:statute:lsint:article:28:term-usage:35-65",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:28",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 47,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 35,
     "end_char": 65
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:29:term-usage:16-34",
+    "id": "urn:lex-mx:federal:statute:lsint:article:29:term-usage:4-34",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:29",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 16,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 4,
     "end_char": 34
   },
   {
@@ -838,11 +829,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsint:article:32:term-usage:59-77",
+    "id": "urn:lex-mx:federal:statute:lsint:article:32:term-usage:47-77",
     "provision_id": "urn:lex-mx:federal:statute:lsint:article:32",
-    "term_id": "urn:lex-mx:federal:statute:lsint:term:seguridad-interior",
-    "span": "Seguridad Interior",
-    "start_char": 59,
+    "term_id": "urn:lex-mx:federal:statute:lsint:term:acciones-de-seguridad-interior",
+    "span": "Acciones de Seguridad Interior",
+    "start_char": 47,
     "end_char": 77
   },
   {

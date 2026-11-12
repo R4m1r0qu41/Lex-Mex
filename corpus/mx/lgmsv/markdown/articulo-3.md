@@ -63,7 +63,9 @@ XXI. Examen de valoración integral: Conjunto de valoraciones físicas, médicas
 
 XXII. Externalidades: Factores que inciden, afectan y son derivados de efectos secundarios que causa la actividad de la movilidad de una persona, en función del medio de transporte por el que se desplace, como emisiones, congestión, siniestros y uso de espacio público;
 
-XXIII. Factor de riesgo: Todo hecho o acción que dificulte la prevención de un siniestro de tránsito, así como la implementación de medidas comprobadas para mitigar dichos riesgos; XXIV. Gestión de la demanda de movilidad: Conjunto de medidas, programas y estrategias que inciden en la conducta de las personas usuarias a fin de reducir viajes o cambiar el modo de transporte; con el fin de optimizar tiempos en los desplazamientos;
+XXIII. Factor de riesgo: Todo hecho o acción que dificulte la prevención de un siniestro de tránsito, así como la implementación de medidas comprobadas para mitigar dichos riesgos;
+
+XXIV. Gestión de la demanda de movilidad: Conjunto de medidas, programas y estrategias que inciden en la conducta de las personas usuarias a fin de reducir viajes o cambiar el modo de transporte; con el fin de optimizar tiempos en los desplazamientos;
 
 XXV. Gestión de la velocidad: Conjunto de medidas integradas que llevan a las personas conductoras a circular a una velocidad segura y, en consecuencia, reducir el número de siniestros de tránsito y las lesiones graves o muertes;
 
@@ -85,7 +87,9 @@ XXXIII. Movilidad activa o no motorizada: Desplazamiento de personas y bienes qu
 
 XXXIV. Movilidad del cuidado: Viajes realizados en la consecución de actividades relacionadas con el trabajo no remunerado, de cuidados y el cuidado de las personas que requieren de otra persona para su traslado, dependientes o con necesidades específicas;
 
-XXXV. Observatorios: Los Observatorios de Movilidad y Seguridad Vial; XXXVI. Perro de asistencia: Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+XXXV. Observatorios: Los Observatorios de Movilidad y Seguridad Vial;
+
+XXXVI. Perro de asistencia: Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
 XXXVII. Persona peatona: Persona que transita por la vía a pie o que por su condición de discapacidad o de movilidad limitada utilizan ayudas técnicas para desplazarse; incluye menores de doce años a bordo de un vehículo no motorizado;
 
@@ -131,7 +135,9 @@ LVIII. Sistemas seguros: Prácticas efectivas, eficientes y prioritarias, que re
 
 LIX. Transporte público de pasajeros: Es el medio de traslado que se ofrece a una persona o para el público en general de forma continua, uniforme, regular, permanente e ininterrumpida y sujeta a horarios establecidos o criterios de optimización mediante algoritmos tecnológicos que otorga la autoridad competente a través de entidades, concesionarios o mediante permisos;
 
-LX. Transporte: Es el medio físico a través del cual se realiza el traslado de personas, bienes y mercancías; LXI. Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
+LX. Transporte: Es el medio físico a través del cual se realiza el traslado de personas, bienes y mercancías;
+
+LXI. Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población, basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
 
 LXII. Vehículo: Modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
 

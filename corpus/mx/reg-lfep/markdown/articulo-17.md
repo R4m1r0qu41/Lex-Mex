@@ -19,7 +19,9 @@ source_sha256: fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873
 
 Serán miembros del órgano de gobierno:
 
-I. El presidente del mismo; II. Los representantes de las Secretarías de Hacienda y Crédito Público y de Programación y Presupuesto;
+I. El presidente del mismo;
+
+II. Los representantes de las Secretarías de Hacienda y Crédito Público y de Programación y Presupuesto;
 
 III. Los representantes de las dependencias o entidades cuyo ámbito de competencia o funciones se relacione con el objeto de la entidad, y
 

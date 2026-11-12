@@ -100,624 +100,624 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1641-1646",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1642-1647",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:salud",
     "span": "SALUD",
-    "start_char": 1641,
-    "end_char": 1646
+    "start_char": 1642,
+    "end_char": 1647
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1721-1734",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1722-1735",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:materia-prima",
     "span": "Materia Prima",
-    "start_char": 1721,
-    "end_char": 1734
+    "start_char": 1722,
+    "end_char": 1735
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1736-1760",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1737-1761",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 1736,
-    "end_char": 1760
+    "start_char": 1737,
+    "end_char": 1761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1763-1775",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1764-1776",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 1763,
-    "end_char": 1775
+    "start_char": 1764,
+    "end_char": 1776
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1779-1787",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1780-1788",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 1779,
-    "end_char": 1787
+    "start_char": 1780,
+    "end_char": 1788
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1810-1834",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1811-1835",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 1810,
-    "end_char": 1834
+    "start_char": 1811,
+    "end_char": 1835
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1837-1849",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1838-1850",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 1837,
-    "end_char": 1849
+    "start_char": 1838,
+    "end_char": 1850
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1853-1861",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1854-1862",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 1853,
-    "end_char": 1861
+    "start_char": 1854,
+    "end_char": 1862
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1959-1967",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:1960-1968",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 1959,
-    "end_char": 1967
+    "start_char": 1960,
+    "end_char": 1968
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2078-2102",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2079-2103",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 2078,
-    "end_char": 2102
+    "start_char": 2079,
+    "end_char": 2103
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2105-2117",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2106-2118",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 2105,
-    "end_char": 2117
+    "start_char": 2106,
+    "end_char": 2118
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2300-2308",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2301-2309",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 2300,
-    "end_char": 2308
+    "start_char": 2301,
+    "end_char": 2309
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2677-2688",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2678-2689",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamento",
-    "start_char": 2677,
-    "end_char": 2688
+    "start_char": 2678,
+    "end_char": 2689
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2767-2791",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2768-2792",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 2767,
-    "end_char": 2791
+    "start_char": 2768,
+    "end_char": 2792
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2794-2806",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2795-2807",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 2794,
-    "end_char": 2806
+    "start_char": 2795,
+    "end_char": 2807
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2810-2818",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2811-2819",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 2810,
-    "end_char": 2818
+    "start_char": 2811,
+    "end_char": 2819
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2852-2865",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2853-2866",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:materia-prima",
     "span": "Materia Prima",
-    "start_char": 2852,
-    "end_char": 2865
+    "start_char": 2853,
+    "end_char": 2866
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2867-2891",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2868-2892",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 2867,
-    "end_char": 2891
+    "start_char": 2868,
+    "end_char": 2892
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2894-2906",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2895-2907",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 2894,
-    "end_char": 2906
+    "start_char": 2895,
+    "end_char": 2907
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2910-2918",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2911-2919",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 2910,
-    "end_char": 2918
+    "start_char": 2911,
+    "end_char": 2919
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2984-2987",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:2985-2988",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
     "span": "Ley",
-    "start_char": 2984,
-    "end_char": 2987
+    "start_char": 2985,
+    "end_char": 2988
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3018-3042",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3019-3043",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 3018,
-    "end_char": 3042
+    "start_char": 3019,
+    "end_char": 3043
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3045-3057",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3046-3058",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 3045,
-    "end_char": 3057
+    "start_char": 3046,
+    "end_char": 3058
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3061-3069",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3062-3070",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 3061,
-    "end_char": 3069
+    "start_char": 3062,
+    "end_char": 3070
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3627-3640",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3628-3641",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:materia-prima",
     "span": "Materia Prima",
-    "start_char": 3627,
-    "end_char": 3640
+    "start_char": 3628,
+    "end_char": 3641
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3642-3666",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3643-3667",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 3642,
-    "end_char": 3666
+    "start_char": 3643,
+    "end_char": 3667
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3669-3681",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3670-3682",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 3669,
-    "end_char": 3681
+    "start_char": 3670,
+    "end_char": 3682
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3685-3693",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3686-3694",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 3685,
-    "end_char": 3693
+    "start_char": 3686,
+    "end_char": 3694
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3872-3880",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3873-3881",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 3872,
-    "end_char": 3880
+    "start_char": 3873,
+    "end_char": 3881
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3888-3912",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3889-3913",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 3888,
-    "end_char": 3912
+    "start_char": 3889,
+    "end_char": 3913
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3921-3933",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3922-3934",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 3921,
-    "end_char": 3933
+    "start_char": 3922,
+    "end_char": 3934
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3937-3945",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:3938-3946",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 3937,
-    "end_char": 3945
+    "start_char": 3938,
+    "end_char": 3946
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4067-4072",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4068-4073",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:salud",
     "span": "SALUD",
-    "start_char": 4067,
-    "end_char": 4072
+    "start_char": 4068,
+    "end_char": 4073
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4146-4158",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4147-4159",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 4146,
-    "end_char": 4158
+    "start_char": 4147,
+    "end_char": 4159
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4420-4428",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4421-4429",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cofepris",
     "span": "COFEPRIS",
-    "start_char": 4420,
-    "end_char": 4428
+    "start_char": 4421,
+    "end_char": 4429
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4566-4574",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4567-4575",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 4566,
-    "end_char": 4574
+    "start_char": 4567,
+    "end_char": 4575
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4585-4596",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4586-4597",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:importacion",
     "span": "Importación",
-    "start_char": 4585,
-    "end_char": 4596
+    "start_char": 4586,
+    "end_char": 4597
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4853-4866",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4854-4867",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:materia-prima",
     "span": "Materia Prima",
-    "start_char": 4853,
-    "end_char": 4866
+    "start_char": 4854,
+    "end_char": 4867
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4868-4892",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4869-4893",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 4868,
-    "end_char": 4892
+    "start_char": 4869,
+    "end_char": 4893
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4895-4907",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4896-4908",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 4895,
-    "end_char": 4907
+    "start_char": 4896,
+    "end_char": 4908
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4911-4919",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:4912-4920",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 4911,
-    "end_char": 4919
+    "start_char": 4912,
+    "end_char": 4920
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5168-5176",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5169-5177",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 5168,
-    "end_char": 5176
+    "start_char": 5169,
+    "end_char": 5177
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5212-5236",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5213-5237",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 5212,
-    "end_char": 5236
+    "start_char": 5213,
+    "end_char": 5237
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5239-5251",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5240-5252",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 5239,
-    "end_char": 5251
+    "start_char": 5240,
+    "end_char": 5252
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5359-5362",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5360-5363",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
     "span": "Ley",
-    "start_char": 5359,
-    "end_char": 5362
+    "start_char": 5360,
+    "end_char": 5363
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5488-5491",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5489-5492",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:ley",
     "span": "Ley",
-    "start_char": 5488,
-    "end_char": 5491
+    "start_char": 5489,
+    "end_char": 5492
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5536-5560",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5537-5561",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 5536,
-    "end_char": 5560
+    "start_char": 5537,
+    "end_char": 5561
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5563-5575",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5564-5576",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 5563,
-    "end_char": 5575
+    "start_char": 5564,
+    "end_char": 5576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5579-5587",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5580-5588",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 5579,
-    "end_char": 5587
+    "start_char": 5580,
+    "end_char": 5588
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5672-5680",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5673-5681",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 5672,
-    "end_char": 5680
+    "start_char": 5673,
+    "end_char": 5681
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5703-5727",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5704-5728",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 5703,
-    "end_char": 5727
+    "start_char": 5704,
+    "end_char": 5728
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5730-5742",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5731-5743",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 5730,
-    "end_char": 5742
+    "start_char": 5731,
+    "end_char": 5743
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5785-5793",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:5786-5794",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 5785,
-    "end_char": 5793
+    "start_char": 5786,
+    "end_char": 5794
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6022-6030",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6023-6031",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 6022,
-    "end_char": 6030
+    "start_char": 6023,
+    "end_char": 6031
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6057-6081",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6058-6082",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 6057,
-    "end_char": 6081
+    "start_char": 6058,
+    "end_char": 6082
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6107-6130",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6108-6131",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:produccion-farmaceutica",
     "span": "Producción Farmacéutica",
-    "start_char": 6107,
-    "end_char": 6130
+    "start_char": 6108,
+    "end_char": 6131
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6445-6450",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6446-6451",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sader",
     "span": "SADER",
-    "start_char": 6445,
-    "end_char": 6450
+    "start_char": 6446,
+    "end_char": 6451
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6523-6556",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6524-6557",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:laboratorio-de-control-de-calidad",
     "span": "Laboratorio de Control de Calidad",
-    "start_char": 6523,
-    "end_char": 6556
+    "start_char": 6524,
+    "end_char": 6557
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6775-6794",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6777-6796",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:produccion-primaria",
     "span": "Producción Primaria",
-    "start_char": 6775,
-    "end_char": 6794
+    "start_char": 6777,
+    "end_char": 6796
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6798-6806",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:6800-6808",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 6798,
-    "end_char": 6806
+    "start_char": 6800,
+    "end_char": 6808
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7124-7129",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7126-7131",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sader",
     "span": "SADER",
-    "start_char": 7124,
-    "end_char": 7129
+    "start_char": 7126,
+    "end_char": 7131
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7180-7188",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7182-7190",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 7180,
-    "end_char": 7188
+    "start_char": 7182,
+    "end_char": 7190
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7195-7219",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7197-7221",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 7195,
-    "end_char": 7219
+    "start_char": 7197,
+    "end_char": 7221
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7554-7567",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7556-7569",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:materia-prima",
     "span": "Materia Prima",
-    "start_char": 7554,
-    "end_char": 7567
+    "start_char": 7556,
+    "end_char": 7569
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7569-7593",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7571-7595",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 7569,
-    "end_char": 7593
+    "start_char": 7571,
+    "end_char": 7595
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7596-7608",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7598-7610",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 7596,
-    "end_char": 7608
+    "start_char": 7598,
+    "end_char": 7610
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7615-7623",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7617-7625",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 7615,
-    "end_char": 7623
+    "start_char": 7617,
+    "end_char": 7625
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7976-7984",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:7978-7986",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 7976,
-    "end_char": 7984
+    "start_char": 7978,
+    "end_char": 7986
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:8500-8508",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3:term-usage:8502-8510",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cofepris",
     "span": "COFEPRIS",
-    "start_char": 8500,
-    "end_char": 8508
+    "start_char": 8502,
+    "end_char": 8510
   },
   {
     "schema_version": "0.1.0",
@@ -1009,102 +1009,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:730-759",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:731-760",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sistema-de-gestion-de-calidad",
     "span": "Sistema de Gestión de Calidad",
-    "start_char": 730,
-    "end_char": 759
+    "start_char": 731,
+    "end_char": 760
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:1301-1312",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:1302-1313",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamento",
-    "start_char": 1301,
-    "end_char": 1312
+    "start_char": 1302,
+    "end_char": 1313
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:1427-1442",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:1428-1443",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:materia-prima",
     "span": "Materias Primas",
-    "start_char": 1427,
-    "end_char": 1442
+    "start_char": 1428,
+    "end_char": 1443
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:2016-2027",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:2017-2028",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamento",
-    "start_char": 2016,
-    "end_char": 2027
+    "start_char": 2017,
+    "end_char": 2028
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:2250-2261",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:2251-2262",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamento",
-    "start_char": 2250,
-    "end_char": 2261
+    "start_char": 2251,
+    "end_char": 2262
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:3084-3099",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:3086-3101",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:materia-prima",
     "span": "Materias Primas",
-    "start_char": 3084,
-    "end_char": 3099
+    "start_char": 3086,
+    "end_char": 3101
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:3564-3593",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:3566-3595",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sistema-de-gestion-de-calidad",
     "span": "Sistema de Gestión de Calidad",
-    "start_char": 3564,
-    "end_char": 3593
+    "start_char": 3566,
+    "end_char": 3595
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:4702-4735",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:4704-4737",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:laboratorio-de-control-de-calidad",
     "span": "Laboratorio de Control de Calidad",
-    "start_char": 4702,
-    "end_char": 4735
+    "start_char": 4704,
+    "end_char": 4737
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:4777-4810",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:4779-4812",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:laboratorio-de-control-de-calidad",
     "span": "Laboratorio de Control de Calidad",
-    "start_char": 4777,
-    "end_char": 4810
+    "start_char": 4779,
+    "end_char": 4812
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:5129-5158",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:5131-5160",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sistema-de-gestion-de-calidad",
     "span": "Sistema de Gestión de Calidad",
-    "start_char": 5129,
-    "end_char": 5158
+    "start_char": 5131,
+    "end_char": 5160
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:5865-5894",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9:term-usage:5867-5896",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sistema-de-gestion-de-calidad",
     "span": "Sistema de Gestión de Calidad",
-    "start_char": 5865,
-    "end_char": 5894
+    "start_char": 5867,
+    "end_char": 5896
   },
   {
     "schema_version": "0.1.0",
@@ -1234,12 +1234,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:11:term-usage:833-859",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:11:term-usage:834-860",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:protocolo-de-investigacion",
     "span": "Protocolo de Investigación",
-    "start_char": 833,
-    "end_char": 859
+    "start_char": 834,
+    "end_char": 860
   },
   {
     "schema_version": "0.1.0",
@@ -1792,174 +1792,174 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6202-6210",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6203-6211",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 6202,
-    "end_char": 6210
+    "start_char": 6203,
+    "end_char": 6211
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6298-6323",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6299-6324",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sitio-confinado-permitido",
     "span": "Sitio Confinado Permitido",
-    "start_char": 6298,
-    "end_char": 6323
+    "start_char": 6299,
+    "end_char": 6324
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6397-6402",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6398-6403",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sader",
     "span": "SADER",
-    "start_char": 6397,
-    "end_char": 6402
+    "start_char": 6398,
+    "end_char": 6403
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6443-6451",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6444-6452",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cofepris",
     "span": "COFEPRIS",
-    "start_char": 6443,
-    "end_char": 6451
+    "start_char": 6444,
+    "end_char": 6452
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6494-6502",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6495-6503",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 6494,
-    "end_char": 6502
+    "start_char": 6495,
+    "end_char": 6503
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6513-6528",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6514-6529",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:establecimientos",
     "span": "Establecimiento",
-    "start_char": 6513,
-    "end_char": 6528
+    "start_char": 6514,
+    "end_char": 6529
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6596-6620",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6597-6621",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:derivado-farmacologico",
     "span": "Derivados Farmacológicos",
-    "start_char": 6596,
-    "end_char": 6620
+    "start_char": 6597,
+    "end_char": 6621
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6623-6635",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6624-6636",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 6623,
-    "end_char": 6635
+    "start_char": 6624,
+    "end_char": 6636
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6639-6647",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6640-6648",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 6639,
-    "end_char": 6647
+    "start_char": 6640,
+    "end_char": 6648
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6807-6832",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:6808-6833",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sitio-confinado-permitido",
     "span": "Sitio Confinado Permitido",
-    "start_char": 6807,
-    "end_char": 6832
+    "start_char": 6808,
+    "end_char": 6833
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7031-7039",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7032-7040",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:senasica",
     "span": "SENASICA",
-    "start_char": 7031,
-    "end_char": 7039
+    "start_char": 7032,
+    "end_char": 7040
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7097-7105",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7098-7106",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 7097,
-    "end_char": 7105
+    "start_char": 7098,
+    "end_char": 7106
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7222-7230",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7223-7231",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cannabis",
     "span": "Cannabis",
-    "start_char": 7222,
-    "end_char": 7230
+    "start_char": 7223,
+    "end_char": 7231
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7406-7425",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7407-7426",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:produccion-primaria",
     "span": "Producción Primaria",
-    "start_char": 7406,
-    "end_char": 7425
+    "start_char": 7407,
+    "end_char": 7426
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7558-7566",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7559-7567",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:senasica",
     "span": "SENASICA",
-    "start_char": 7558,
-    "end_char": 7566
+    "start_char": 7559,
+    "end_char": 7567
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7687-7692",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7688-7693",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:sader",
     "span": "SADER",
-    "start_char": 7687,
-    "end_char": 7692
+    "start_char": 7688,
+    "end_char": 7693
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7697-7705",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7698-7706",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:senasica",
     "span": "SENASICA",
-    "start_char": 7697,
-    "end_char": 7705
+    "start_char": 7698,
+    "end_char": 7706
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7711-7716",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7712-7717",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:snics",
     "span": "SNICS",
-    "start_char": 7711,
-    "end_char": 7716
+    "start_char": 7712,
+    "end_char": 7717
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7843-7862",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21:term-usage:7844-7863",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:produccion-primaria",
     "span": "Producción Primaria",
-    "start_char": 7843,
-    "end_char": 7862
+    "start_char": 7844,
+    "end_char": 7863
   },
   {
     "schema_version": "0.1.0",
@@ -2152,12 +2152,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:27:term-usage:694-702",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:27:term-usage:695-703",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:27",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cofepris",
     "span": "COFEPRIS",
-    "start_char": 694,
-    "end_char": 702
+    "start_char": 695,
+    "end_char": 703
   },
   {
     "schema_version": "0.1.0",
@@ -2530,21 +2530,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:36:term-usage:649-657",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:36:term-usage:650-658",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cofepris",
     "span": "COFEPRIS",
-    "start_char": 649,
-    "end_char": 657
+    "start_char": 650,
+    "end_char": 658
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:36:term-usage:748-764",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:36:term-usage:749-765",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:libros-de-control",
     "span": "Libro de Control",
-    "start_char": 748,
-    "end_char": 764
+    "start_char": 749,
+    "end_char": 765
   },
   {
     "schema_version": "0.1.0",
@@ -3610,66 +3610,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:263-280",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:264-281",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:libros-de-control",
     "span": "Libros de Control",
-    "start_char": 263,
-    "end_char": 280
+    "start_char": 264,
+    "end_char": 281
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:344-370",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:345-371",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:protocolo-de-investigacion",
     "span": "Protocolo de Investigación",
-    "start_char": 344,
-    "end_char": 370
+    "start_char": 345,
+    "end_char": 371
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:389-397",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:390-398",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cofepris",
     "span": "COFEPRIS",
-    "start_char": 389,
-    "end_char": 397
+    "start_char": 390,
+    "end_char": 398
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:409-420",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:410-421",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:importacion",
     "span": "Importación",
-    "start_char": 409,
-    "end_char": 420
+    "start_char": 410,
+    "end_char": 421
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:513-521",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:514-522",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:cofepris",
     "span": "COFEPRIS",
-    "start_char": 513,
-    "end_char": 521
+    "start_char": 514,
+    "end_char": 522
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:533-544",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:534-545",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:importacion",
     "span": "Importación",
-    "start_char": 533,
-    "end_char": 544
+    "start_char": 534,
+    "end_char": 545
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:578-590",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60:term-usage:579-591",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mcspiumc:term:medicamentos",
     "span": "Medicamentos",
-    "start_char": 578,
-    "end_char": 590
+    "start_char": 579,
+    "end_char": 591
   },
   {
     "schema_version": "0.1.0",

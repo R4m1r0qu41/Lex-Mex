@@ -25,4 +25,6 @@ II. Fármaco: Toda substancia natural, sintética o biotecnológica que tenga al
 
 III. Materia prima: substancia de cualquier origen que se use para la elaboración de medicamentos o fármacos naturales o sintéticos;
 
-IV. Aditivo: toda substancia que se incluya en la formulación de los medicamentos y que actúe como vehículo, conservador o modificador de alguna de sus características para favorecer su eficacia, seguridad, estabilidad, apariencia o aceptabilidad, y V. Materiales: los insumos necesarios para el envase y empaque de los medicamentos.
+IV. Aditivo: toda substancia que se incluya en la formulación de los medicamentos y que actúe como vehículo, conservador o modificador de alguna de sus características para favorecer su eficacia, seguridad, estabilidad, apariencia o aceptabilidad, y
+
+V. Materiales: los insumos necesarios para el envase y empaque de los medicamentos.

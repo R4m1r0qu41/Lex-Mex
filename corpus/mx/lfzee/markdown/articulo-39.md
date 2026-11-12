@@ -35,6 +35,8 @@ VII. Establecer mecanismos de coordinación para agilizar la ejecución de polí
 
 VIII. Proponer al Titular del Ejecutivo Federal, por conducto de la Presidencia de la Comisión Intersecretarial, los mecanismos para la coordinación de acciones y esfuerzos de los sectores público, privado y social en materia de información, inversiones, producción y demás factores que promuevan el desarrollo de las Zonas;
 
-IX. Solicitar, cuando lo considere pertinente, la opinión·de académicos, especialistas o representantes de organismos de los sectores privado y social; X. Solicitar a las dependencias y entidades paraestatales la información que sea necesaria para el ejercicio de sus funciones, y
+IX. Solicitar, cuando lo considere pertinente, la opinión·de académicos, especialistas o representantes de organismos de los sectores privado y social;
+
+X. Solicitar a las dependencias y entidades paraestatales la información que sea necesaria para el ejercicio de sus funciones, y
 
 XI. Las demás que establezcan las disposiciones jurídicas aplicables.

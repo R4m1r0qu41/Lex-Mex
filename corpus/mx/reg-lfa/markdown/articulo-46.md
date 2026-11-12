@@ -29,6 +29,8 @@ IV. Convocar, previo acuerdo del Presidente, a las sesiones plenarias y sectoria
 
 V. Apoyar y dar seguimiento al cumplimiento de los acuerdos del Comité en el ejercicio de sus funciones;
 
-VI. Coordinar y dar seguimiento a las actividades de las comisiones o grupos de trabajo que se integren por acuerdo del Comité; VII. Designar, dentro de los integrantes de las comisiones o grupos de trabajo a que se refiere la fracción anterior, un auxiliar para que lo apoye en las funciones establecidas en la fracción anterior, y
+VI. Coordinar y dar seguimiento a las actividades de las comisiones o grupos de trabajo que se integren por acuerdo del Comité;
+
+VII. Designar, dentro de los integrantes de las comisiones o grupos de trabajo a que se refiere la fracción anterior, un auxiliar para que lo apoye en las funciones establecidas en la fracción anterior, y
 
 VIII. Las demás que en el ámbito de sus funciones le sean expresamente encomendadas por el Presidente del Comité.

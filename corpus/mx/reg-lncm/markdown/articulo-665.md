@@ -21,7 +21,9 @@ Los permisos terminarán por:
 
 I. Expiración del plazo de vigencia establecido en el permiso;
 
-II. Cuando la vigencia del permiso esté sujeta a una condición o término suspensivo y éste no se realice dentro del plazo señalado en el propio permiso; III. Acaecimiento de una condición resolutoria, prevista en el permiso;
+II. Cuando la vigencia del permiso esté sujeta a una condición o término suspensivo y éste no se realice dentro del plazo señalado en el propio permiso;
+
+III. Acaecimiento de una condición resolutoria, prevista en el permiso;
 
 IV. Desaparición del objeto o de la finalidad del permiso;
 

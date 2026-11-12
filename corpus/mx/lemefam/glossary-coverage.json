@@ -8,17 +8,18 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lemefam:article:2",
-      "provision_text_sha256": "d2083648b7675404569208c31c436ed78f62bd6671734b50968d336717994675",
+      "provision_text_sha256": "24ca1ffaf076899e64f6040a7e4c45a6c74183819d5dbfd8c635f0fad17ef235",
       "method": "established_pass",
       "fractions": [
         "I",
-        "II"
+        "II",
+        "III"
       ],
       "unread_fractions": [],
-      "term_count": 2
+      "term_count": 3
     }
   ],
   "imports": [],
-  "term_count": 2,
-  "usage_count": 31
+  "term_count": 3,
+  "usage_count": 43
 }

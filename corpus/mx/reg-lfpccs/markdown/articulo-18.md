@@ -25,7 +25,9 @@ II. Fomentar y facilitar el acceso a mejores semillas, en condiciones de certeza
 
 III. Coadyuvar, con los Consejos Estatales para el Desarrollo Rural, en la promoción de la creación y operación de los Comités Consultivos Regionales o Estatales de Semillas;
 
-IV. Promover el establecimiento de un marco normativo integral en semillas, variedades vegetales y recursos fitogenéticos, que favorezca su aplicación eficaz; V. Contribuir para la implementación de mecanismos de coordinación entre sectores de investigación, producción, comercialización y diferentes instancias y órganos de gobierno;
+IV. Promover el establecimiento de un marco normativo integral en semillas, variedades vegetales y recursos fitogenéticos, que favorezca su aplicación eficaz;
+
+V. Contribuir para la implementación de mecanismos de coordinación entre sectores de investigación, producción, comercialización y diferentes instancias y órganos de gobierno;
 
 VI. Coordinar campañas o programas de difusión sobre el uso de semillas de calidad como instrumento de competitividad agropecuaria;
 

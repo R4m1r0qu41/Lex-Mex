@@ -62,19 +62,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:3:reference:4372-4373:2:direct",
+    "id": "urn:lex-mx:federal:statute:lfppcpcia:article:3:reference:4373-4374:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
     "source_span": "2",
-    "start_char": 4372,
-    "end_char": 4373,
+    "start_char": 4373,
+    "end_char": 4374,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:2",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafos segundo, tercero y cuarto",
-        "start_char": 4324,
-        "end_char": 4358
+        "start_char": 4325,
+        "end_char": 4359
       }
     ],
     "basis": "express_cross_reference",

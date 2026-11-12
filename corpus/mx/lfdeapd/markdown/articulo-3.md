@@ -33,6 +33,8 @@ VI. Fiscalía Especializada: a la Fiscalía Especializada de la Fiscalía Genera
 
 VII. Mecanismo de Apoyo Exterior: el Mecanismo de Apoyo Exterior de Búsqueda e Investigación es el conjunto de acciones y medidas tendientes a facilitar el acceso a la justicia y el ejercicio de acciones para la reparación del daño, en el ámbito de su competencia, a personas migrantes o sus familias que estén en otro país y requieran acceder directamente a las instituciones previstas en el sistema jurídico mexicano establecidas en esta Ley, así como coadyuvar en la búsqueda y localización de personas migrantes desaparecidas con la [Comisión Nacional de Búsqueda](articulo-3.md) y en la investigación y persecución de los delitos que realicen las [Fiscalías Especializadas](articulo-3.md), en coordinación con la Unidad de Investigación de Delitos para Personas Migrantes, así como para garantizar los derechos reconocidos por el orden jurídico nacional en favor de las Víctimas y ofendidos del delito. El Mecanismo de Apoyo Exterior funciona a través del personal que labora en los Consulados, Embajadas y Agregadurías de México en otros países;
 
-VIII. Órgano Jurisdiccional: al órgano jurisdiccional competente del fuero federal en materia civil; IX. Persona Desaparecida: a la persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito, y
+VIII. Órgano Jurisdiccional: al órgano jurisdiccional competente del fuero federal en materia civil;
+
+IX. Persona Desaparecida: a la persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito, y
 
 X. Reporte: a la comunicación mediante la cual la autoridad competente conoce de la desaparición de una persona.

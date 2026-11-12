@@ -33,7 +33,9 @@ VI. Establecer los lineamientos y acuerdos necesarios para dar cumplimiento a lo
 
 VII. Diseñar los mecanismos de funcionamiento, operación y monitoreo del sistema agroalimentario, mismos que se establecerán en el Reglamento que para tal efecto se expida;
 
-VIII. Establecer las bases y mecanismos para la concurrencia, vinculación y congruencia de los programas, acciones e inversiones del gobierno federal, de las entidades federativas, de los municipios y demarcaciones territoriales, en función de la Estrategia Nacional de Alimentación y el Programa Especial del Sistema Agroalimentario; IX. Generar planes y protocolos de acción, en coordinación con el Sistema Nacional de Protección Civil, en caso de Declaratoria de actuación en situaciones de emergencia que afecte a más de una entidad federativa;
+VIII. Establecer las bases y mecanismos para la concurrencia, vinculación y congruencia de los programas, acciones e inversiones del gobierno federal, de las entidades federativas, de los municipios y demarcaciones territoriales, en función de la Estrategia Nacional de Alimentación y el Programa Especial del Sistema Agroalimentario;
+
+IX. Generar planes y protocolos de acción, en coordinación con el Sistema Nacional de Protección Civil, en caso de Declaratoria de actuación en situaciones de emergencia que afecte a más de una entidad federativa;
 
 X. Promover el apoyo técnico de calidad a los gobiernos locales, municipales y de las demarcaciones territoriales, así como a la población en general que se encuentre interesada en participar en la cadena productiva de alimentos, especialmente de aquellos constitutivos de las canastas normativas, así como de cualquier otro alimento adecuado que no contradiga la canasta normativa y esté sustentado en la canasta regional;
 

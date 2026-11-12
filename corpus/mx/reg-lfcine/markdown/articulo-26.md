@@ -21,4 +21,6 @@ En cumplimiento de la [Ley](articulo-3.md) y este [Reglamento](articulo-3.md), l
 
 I. El número de copias que se explotaron para exhibición pública;
 
-II. El número de copias en su versión original o dobladas al español, en los casos en que la Ley lo permita, y III. En el caso de películas mexicanas de estreno, ubicación y nombre de las salas donde se exhibieron, para los efectos del segundo párrafo del artículo 19 de la Ley.
+II. El número de copias en su versión original o dobladas al español, en los casos en que la Ley lo permita, y
+
+III. En el caso de películas mexicanas de estreno, ubicación y nombre de las salas donde se exhibieron, para los efectos del segundo párrafo del artículo 19 de la Ley.

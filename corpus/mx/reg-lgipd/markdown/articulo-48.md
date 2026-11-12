@@ -19,7 +19,9 @@ source_sha256: 7e1c33029ca423d65491911d15e2f1b436ed269540148af1e4787570441ac0b6
 
 Con el propósito de facilitar la accesibilidad de las personas con discapacidad, las dependencias y entidades de la Administración Pública Federal, en términos de las disposiciones aplicables, deberán considerar los siguientes principios y acciones:
 
-I. Diseño universal y accesibilidad en el entorno físico; II. Progresividad en la implementación de ajustes razonables al entorno físico;
+I. Diseño universal y accesibilidad en el entorno físico;
+
+II. Progresividad en la implementación de ajustes razonables al entorno físico;
 
 III. Desarrollo tecnológico de productos, aplicaciones y ayudas técnicas derivadas de investigaciones y estudios sobre medidas antropométricas de personas con discapacidad en el país, que favorezcan la accesibilidad y su calidad de vida, y
 

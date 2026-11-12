@@ -25,7 +25,9 @@ II. Interponer juicios de amparo, realizar promociones, concurrir a las audienci
 
 III. Formular y ratificar a nombre de la Institución las denuncias y querellas que legalmente procedan, intervenir en averiguaciones previas y procesos penales en su representación y, en su caso, otorgar el perdón correspondiente;
 
-IV. Presentar demandas, desistirse o formular su contestación, reconvenir a la contraparte, ejercitar acciones y oponer excepciones; así como ofrecer, exhibir y desahogar pruebas, articular y desahogar posiciones, formular alegatos, interponer toda clase de recursos, y en general vigilar y atender la tramitación de los juicios y procedimientos jurisdiccionales, administrativos o contenciosos, y en aquellos asuntos en los que la Institución tenga interés jurídico; V. Presentar demandas y contestarlas, reconvenir a la contraparte, ejercitar acciones y oponer excepciones; así como ofrecer, exhibir y desahogar pruebas, articular y desahogar posiciones, formular alegatos, interponer toda clase de recursos, y en general vigilar y atender la tramitación de los juicios contenciosos administrativo en línea;
+IV. Presentar demandas, desistirse o formular su contestación, reconvenir a la contraparte, ejercitar acciones y oponer excepciones; así como ofrecer, exhibir y desahogar pruebas, articular y desahogar posiciones, formular alegatos, interponer toda clase de recursos, y en general vigilar y atender la tramitación de los juicios y procedimientos jurisdiccionales, administrativos o contenciosos, y en aquellos asuntos en los que la Institución tenga interés jurídico;
+
+V. Presentar demandas y contestarlas, reconvenir a la contraparte, ejercitar acciones y oponer excepciones; así como ofrecer, exhibir y desahogar pruebas, articular y desahogar posiciones, formular alegatos, interponer toda clase de recursos, y en general vigilar y atender la tramitación de los juicios contenciosos administrativo en línea;
 
 VI. Obtener la firma electrónica avanzada, la clave de acceso y contraseña a través del [Sistema](articulo-2.md) de Justicia en Línea del Tribunal Federal de Justicia Fiscal y Administrativa;
 
@@ -47,7 +49,9 @@ XIV. Participar en los procesos de actualización y adecuación del orden juríd
 
 XV. Elaborar, bajo las instrucciones y supervisión de la Unidad de Asuntos Jurídicos de la [Secretaría](articulo-2.md), anteproyectos de acuerdos de colaboración técnica con gobiernos extranjeros en el ámbito de su competencia;
 
-XVI. Realizar las funciones de enlace en los asuntos jurídicos competencia de la Institución, con la autorización de la Unidad de Asuntos Jurídicos de la Secretaría, con otras dependencias y entidades de la Administración Pública Federal, así como con los gobiernos locales y municipales; XVII. Elaborar y proponer los informes previos y justificados que en materia de amparo deban rendir el Comisionado General, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables; verificar que las demás Unidades y Coordinaciones cumplan con las resoluciones que en ellos se pronuncien, prestando la asesoría que se requiera e informando al superior jerárquico de aquéllas en caso de incumplimiento;
+XVI. Realizar las funciones de enlace en los asuntos jurídicos competencia de la Institución, con la autorización de la Unidad de Asuntos Jurídicos de la Secretaría, con otras dependencias y entidades de la Administración Pública Federal, así como con los gobiernos locales y municipales;
+
+XVII. Elaborar y proponer los informes previos y justificados que en materia de amparo deban rendir el Comisionado General, así como los relativos a los demás servidores públicos que sean señalados como autoridades responsables; verificar que las demás Unidades y Coordinaciones cumplan con las resoluciones que en ellos se pronuncien, prestando la asesoría que se requiera e informando al superior jerárquico de aquéllas en caso de incumplimiento;
 
 XVIII. Elaborar estudios comparados sobre la normatividad de las entidades federativas y la de otros países en materia de seguridad pública;
 

@@ -17,7 +17,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 # Artículo 489
 
-No libera al patrón de responsabilidad: I. Que el trabajador explícita o implícitamente hubiese asumido los riesgos de trabajo;
+No libera al patrón de responsabilidad:
+
+I. Que el trabajador explícita o implícitamente hubiese asumido los riesgos de trabajo;
 
 II. Que el accidente ocurra por torpeza o negligencia del trabajador; y
 

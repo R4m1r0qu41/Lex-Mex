@@ -33,6 +33,8 @@ VI. SALUD: La Secretaría de Salud;
 
 VII. Secretaría competente: SEMARNAT y SAGARPA en el ámbito de sus competencias conforme a la Ley;
 
-VIII. Secretaría Ejecutiva: La Secretaría Ejecutiva de la CIBIOGEM; IX. Solicitud integrada: Los datos y los documentos anexos, a que se refiere el artículo [5](articulo-5.md) de este Reglamento, y
+VIII. Secretaría Ejecutiva: La Secretaría Ejecutiva de la CIBIOGEM;
+
+IX. Solicitud integrada: Los datos y los documentos anexos, a que se refiere el artículo [5](articulo-5.md) de este Reglamento, y
 
 X. UTM: Proyección Transversal Universal de Mercator, sistema utilizado para convertir coordenadas geográficas esféricas en coordenadas cartesianas planas.

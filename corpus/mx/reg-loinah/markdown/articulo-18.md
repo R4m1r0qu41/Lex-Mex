@@ -31,7 +31,9 @@ V. Proponer a su superior jerárquico el anteproyecto de presupuesto anual, aten
 
 VI. Proporcionar la información solicitada por el Consejo General Consultivo, los consejos de área y demás órganos colegiados del Instituto;
 
-VII. Gestionar que los programas y proyectos autorizados de las unidades administrativas a su cargo cuenten con el presupuesto que les ha sido aprobado, así como con los apoyos administrativos, de personal, infraestructura, servicios y jurídicos que requieran para su realización; VIII. Propiciar la coordinación de acciones entre unidades administrativas a su cargo, así como con otras coordinaciones nacionales, a fin de garantizar la integralidad en el cumplimiento de las atribuciones del Instituto;
+VII. Gestionar que los programas y proyectos autorizados de las unidades administrativas a su cargo cuenten con el presupuesto que les ha sido aprobado, así como con los apoyos administrativos, de personal, infraestructura, servicios y jurídicos que requieran para su realización;
+
+VIII. Propiciar la coordinación de acciones entre unidades administrativas a su cargo, así como con otras coordinaciones nacionales, a fin de garantizar la integralidad en el cumplimiento de las atribuciones del Instituto;
 
 IX. Coordinar con los Centros [INAH](articulo-2.md) la implementación, validación e impulso de programas, proyectos, actividades y servicios de su competencia;
 

@@ -39,6 +39,8 @@ IX. Uso de aparatos de telecomunicación prohibidos;
 
 X. Las conductas dolosas que afecten el funcionamiento de los servicios o la provisión de suministros en el Centro Penitenciario;
 
-XI. Las acciones que tengan por objeto controlar algún espacio o servicio dentro del Centro Penitenciario, ejercer alguna función exclusiva de la autoridad o propiciar la subordinación entre personas privadas de la libertad, y XII. Evadirse o incumplir con las medidas de vigilancia, supervisión o monitoreo establecidas durante el goce de un permiso extraordinario por razones humanitarias.
+XI. Las acciones que tengan por objeto controlar algún espacio o servicio dentro del Centro Penitenciario, ejercer alguna función exclusiva de la autoridad o propiciar la subordinación entre personas privadas de la libertad, y
+
+XII. Evadirse o incumplir con las medidas de vigilancia, supervisión o monitoreo establecidas durante el goce de un permiso extraordinario por razones humanitarias.
 
 Si alguna de las conductas previstas en el presente artículo llegase a constituir delito, tales hechos se harán del conocimiento del Ministerio Público para los efectos legales conducentes.

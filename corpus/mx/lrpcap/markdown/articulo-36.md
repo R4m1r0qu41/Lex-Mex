@@ -29,6 +29,6 @@ III. La petición del extranjero para aportar elementos, o
 
 IV. Cualquier otra circunstancia derivada del caso fortuito o fuerza mayor que imposibilite a la Secretaría el adecuado desarrollo del procedimiento.
 
-El reglamento de esta Ley establecerá los términos, condiciones y requisitos bajo los cuales se podrá tramitar dicha ampliación.
+El reglamento de esta [Ley](articulo-2.md) establecerá los términos, condiciones y requisitos bajo los cuales se podrá tramitar dicha ampliación.
 
 Los procedimientos de cesación, revocación o cancelación del reconocimiento de la condición de refugiado serán gratuitos.

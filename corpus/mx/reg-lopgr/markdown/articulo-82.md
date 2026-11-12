@@ -19,7 +19,9 @@ source_sha256: 05173ee7243159eadc0ab705431d038e1381731df1799208978dfdc945663afc
 
 Al frente de la Dirección General de Asuntos Policiales Internacionales e INTERPOL habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Establecer con la Coordinación de Asuntos Internacionales y Agregadurías, canales de comunicación para el ejercicio de sus atribuciones en la búsqueda y localización de fugitivos; II. Proponer al Titular de la [Policía](articulo-2.md) para su autorización, los procedimientos de intercambio de información policial, entre la Policía y las agencias policiales extranjeras, con base en los instrumentos internacionales cuya materia sea competencia de la Procuraduría;
+I. Establecer con la Coordinación de Asuntos Internacionales y Agregadurías, canales de comunicación para el ejercicio de sus atribuciones en la búsqueda y localización de fugitivos;
+
+II. Proponer al Titular de la [Policía](articulo-2.md) para su autorización, los procedimientos de intercambio de información policial, entre la Policía y las agencias policiales extranjeras, con base en los instrumentos internacionales cuya materia sea competencia de la Procuraduría;
 
 III. Procesar la información policial internacional que permita la ubicación y aseguramiento en el territorio nacional de personas que cuenten con órdenes de detención con fines de extradición;
 
@@ -43,7 +45,9 @@ XII. Coordinar la actuación de los elementos de la Policía adscritos a las Agr
 
 XIII. Asumir las funciones de la Oficina Central Nacional INTERPOL-México y representar a la misma ante la Organización Internacional de Policía Criminal y las Oficinas Centrales Nacionales de otros países;
 
-XIV. Atender las solicitudes de asistencia recíproca de Policía Criminal y demás compromisos contraídos con la Organización Internacional de Policía Criminal, de conformidad con las disposiciones legales aplicables; XV. Realizar acciones de coordinación y colaboración con las instituciones policiales de la Federación, de los Estados, del Distrito Federal y de los Municipios, respecto del cumplimiento de los compromisos de carácter internacional en materia de asuntos policiales internacionales;
+XIV. Atender las solicitudes de asistencia recíproca de Policía Criminal y demás compromisos contraídos con la Organización Internacional de Policía Criminal, de conformidad con las disposiciones legales aplicables;
+
+XV. Realizar acciones de coordinación y colaboración con las instituciones policiales de la Federación, de los Estados, del Distrito Federal y de los Municipios, respecto del cumplimiento de los compromisos de carácter internacional en materia de asuntos policiales internacionales;
 
 XVI. Operar el sistema de comunicación que la Organización Internacional de Policía Criminal asigne a la Oficina Central Nacional INTERPOL-México en las sedes y oficinas;
 

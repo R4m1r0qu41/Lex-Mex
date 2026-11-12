@@ -21,4 +21,6 @@ Los médicos veterinarios responsables autorizados están obligados a:
 
 I. Atender a los establecimientos en los días y horarios acordados con el mismo;
 
-II. Asistir al establecimiento durante el período que se determine entre el médico veterinario responsable autorizado y dicho establecimiento, y III. Cumplir y vigilar la normatividad aplicable para los establecimientos de los cuales son responsables.
+II. Asistir al establecimiento durante el período que se determine entre el médico veterinario responsable autorizado y dicho establecimiento, y
+
+III. Cumplir y vigilar la normatividad aplicable para los establecimientos de los cuales son responsables.

@@ -19,7 +19,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 La Unidad de Órganos Especializados por Competencia tiene las atribuciones siguientes:
 
-I. Acordar con el [Comandante](articulo-2.md) el despacho de los asuntos de su competencia; II. Implementar y mantener actualizados los sistemas de registro de información de la [Institución](articulo-2.md);
+I. Acordar con el [Comandante](articulo-2.md) el despacho de los asuntos de su competencia;
+
+II. Implementar y mantener actualizados los sistemas de registro de información de la [Institución](articulo-2.md);
 
 III. Suministrar e integrar a las bases de datos de la Institución y de la [Secretaría](articulo-2.md) la información que obtenga con motivo del ejercicio de sus atribuciones;
 
@@ -49,7 +51,9 @@ XV. Atender, en el ámbito de su competencia, los requerimientos de la Unidad de
 
 XVI. Coordinar con la Subjefatura de Doctrina y el [Consejo de Carrera](articulo-2.md), los programas, planes de estudio, capacitación y adiestramiento de las unidades operativas que tenga adscritas;
 
-XVII. Implementar los programas de capacitación y actualización de los integrantes, en coordinación con las unidades competentes de la Institución; XVIII. Proponer al Comandante la adquisición del equipo adecuado para el desarrollo de los servicios que realizan las unidades que tenga adscritas;
+XVII. Implementar los programas de capacitación y actualización de los integrantes, en coordinación con las unidades competentes de la Institución;
+
+XVIII. Proponer al Comandante la adquisición del equipo adecuado para el desarrollo de los servicios que realizan las unidades que tenga adscritas;
 
 XIX. Elaborar y analizar las estadísticas de los asuntos a su cargo;
 

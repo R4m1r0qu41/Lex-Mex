@@ -21,6 +21,8 @@ Las mercancías reguladas podrán ser importadas únicamente de establecimientos
 
 I. Inspección y certificación en punto de ingreso;
 
-II. Verificación en origen y certificación en punto de ingreso; y III. Importación de planta a establecimiento TIF con fines de procesamiento con verificación en origen y certificación en punto de ingreso.
+II. Verificación en origen y certificación en punto de ingreso; y
+
+III. Importación de planta a establecimiento TIF con fines de procesamiento con verificación en origen y certificación en punto de ingreso.
 
 La inspección y certificación en punto de ingreso al país se realizará en los términos de las disposiciones de sanidad animal aplicables.

@@ -31,6 +31,8 @@ V.- La ubicación del establecimiento, en su caso;
 
 VI.- Las fechas de presentación de la solicitud; de prioridad reconocida, y de primer uso, en su caso, así como la de expedición;
 
-VII.- Su vigencia, y VIII.- La circunstancia de que la marca se otorgó por distintividad adquirida, en su caso.
+VII.- Su vigencia, y
+
+VIII.- La circunstancia de que la marca se otorgó por distintividad adquirida, en su caso.
 
 Solo podrán permitirse cambios en el título de una marca para corregir errores evidentes o de forma. Los cambios autorizados deberán ser publicados en la [Gaceta](articulo-4.md).

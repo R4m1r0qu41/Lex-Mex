@@ -7,8 +7,8 @@ provision_type: article
 number: "6"
 aliases: ["LGV — Artículo 6"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 6
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de esta [Ley](articulo-6.md), se entenderá por:
 
 I. Asesor Jurídico: Asesor Jurídico Federal de Atención a [Víctimas](articulo-6.md) adscritos a la [Comisión Ejecutiva](articulo-6.md) y sus equivalentes en las entidades federativas; Fracción reformada DOF 03-05-2013, 03-01-2017
 
@@ -37,7 +37,9 @@ VIII. Se deroga. Fracción derogada DOF 06-11-2020
 
 IX. Fondo estatal: El fondo de ayuda, asistencia y reparación integral en cada entidad federativa; Fracción reformada DOF 03-05-2013, 03-01-2017
 
-X. Hecho victimizante: Actos u omisiones que dañan, menoscaban o ponen en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Estos pueden estar tipificados como delitos o constituir una violación a los derechos humanos reconocidos por la Constitución y los Tratados Internacionales de los que México forme parte; Fracción reformada DOF 03-05-2013, 03-01-2017 XI. Ley: Ley General de Víctimas; Fracción reformada DOF 03-05-2013, 03-01-2017
+X. Hecho victimizante: Actos u omisiones que dañan, menoscaban o ponen en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Estos pueden estar tipificados como delitos o constituir una violación a los derechos humanos reconocidos por la Constitución y los Tratados Internacionales de los que México forme parte; Fracción reformada DOF 03-05-2013, 03-01-2017
+
+XI. Ley: Ley General de Víctimas; Fracción reformada DOF 03-05-2013, 03-01-2017
 
 XII. Plan: Plan Anual Integral de Atención a Víctimas; Fracción reformada DOF 03-05-2013, 03-01-2017
 

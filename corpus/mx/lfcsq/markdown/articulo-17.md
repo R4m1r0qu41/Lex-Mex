@@ -17,4 +17,4 @@ source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 
 # Artículo 17
 
-La [Secretaría](articulo-2.md) integrará y administrará el [Registro](articulo-2.md), en donde obrarán los datos relativos a las Actividades Reguladas y obligaciones previstas en la presente Ley. La integración y funcionamiento del Registro, así como las reglas de procedimiento para los trámites ante la Secretaría, se regirá por las disposiciones administrativas que al efecto se expidan.
+La [Secretaría](articulo-2.md) integrará y administrará el [Registro](articulo-2.md), en donde obrarán los datos relativos a las [Actividades Reguladas](articulo-2.md) y obligaciones previstas en la presente Ley. La integración y funcionamiento del Registro, así como las reglas de procedimiento para los trámites ante la Secretaría, se regirá por las disposiciones administrativas que al efecto se expidan.

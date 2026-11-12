@@ -17,7 +17,9 @@ source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 
 # Artículo 15
 
-Corresponden a las autoridades educativas de las entidades federativas, en el ámbito de la educación básica, las siguientes atribuciones: I. Registrar en el [Sistema](articulo-7.md) Abierto y Transparente de Asignación de Plazas las vacantes, así como el centro de trabajo respectivo, del personal con funciones docente, técnico docente, de asesoría técnica pedagógica, de dirección y supervisión, bajo los términos que determine la [Secretaría](articulo-7.md);
+Corresponden a las autoridades educativas de las entidades federativas, en el ámbito de la educación básica, las siguientes atribuciones:
+
+I. Registrar en el [Sistema](articulo-7.md) Abierto y Transparente de Asignación de Plazas las vacantes, así como el centro de trabajo respectivo, del personal con funciones docente, técnico docente, de asesoría técnica pedagógica, de dirección y supervisión, bajo los términos que determine la [Secretaría](articulo-7.md);
 
 II. Instrumentar la oferta de programas de desarrollo profesional de conformidad con los criterios que determine la Secretaría;
 
@@ -41,4 +43,6 @@ XI. Informar a la Secretaría, en los plazos que ésta determine, respecto a la 
 
 XII. Operar y, en su caso, diseñar programas locales o regionales de reconocimiento para el personal docente, técnico docente, de asesoría técnica pedagógica y el personal con funciones de dirección o de supervisión que se encuentren en servicio, conforme a los criterios que al efecto emita la Secretaría;
 
-XIII. Organizar y operar el Servicio de Asesoría y Acompañamiento a las [Escuelas](articulo-7.md) de conformidad con los Lineamientos Generales que la Secretaría determine, y XIV. Las demás que le correspondan conforme a esta Ley y otras disposiciones aplicables.
+XIII. Organizar y operar el Servicio de Asesoría y Acompañamiento a las [Escuelas](articulo-7.md) de conformidad con los Lineamientos Generales que la Secretaría determine, y
+
+XIV. Las demás que le correspondan conforme a esta Ley y otras disposiciones aplicables.

@@ -19,7 +19,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 Las autorizaciones y las constancias de recepción de los avisos para el aprovechamiento de Recursos forestales no maderables, contendrán lo siguiente:
 
-I. Nombre o denominación o razón social y domicilio del titular; II. Denominación y ubicación del predio o [Conjunto de predios](articulo-2.md);
+I. Nombre o denominación o razón social y domicilio del titular;
+
+II. Denominación y ubicación del predio o [Conjunto de predios](articulo-2.md);
 
 III. Ubicación georeferenciada del predio o Conjunto de predios;
 

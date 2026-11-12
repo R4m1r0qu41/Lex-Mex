@@ -31,7 +31,9 @@ V. Coordinar la formulación de los anteproyectos de programas y presupuesto del
 
 VI. Denunciar ante las autoridades competentes los hechos de que tenga conocimiento y puedan ser constitutivos de delitos, e instar al área jurídica de la CONADE a formular cuando así se requiera, las querellas a que hubiere lugar;
 
-VII. Requerir a las unidades administrativas de la CONADE, la información necesaria para cumplir con sus atribuciones, y brindar la asesoría que les requieran en el ámbito de sus competencias; VIII. Instrumentar los sistemas de control establecidos por la Dirección General de la CONADE para alcanzar las metas u objetivos propuestos;
+VII. Requerir a las unidades administrativas de la CONADE, la información necesaria para cumplir con sus atribuciones, y brindar la asesoría que les requieran en el ámbito de sus competencias;
+
+VIII. Instrumentar los sistemas de control establecidos por la Dirección General de la CONADE para alcanzar las metas u objetivos propuestos;
 
 IX. Apoyar la función directiva y promover el mejoramiento de gestión de la CONADE;
 

@@ -29,4 +29,6 @@ IV. Cuando la persona facilitadora constate que alguna de las partes mantiene ar
 
 V. Incurrir, cualquiera de las partes en un comportamiento irrespetuoso, agresivo o con intención notoriamente dilatoria;
 
-VI. Por la muerte de alguna de las partes, y VII. En los demás casos en que proceda dar por concluido el trámite del mecanismo de conformidad con esta [Ley](articulo-5.md) o las correspondientes del ámbito federal o local.
+VI. Por la muerte de alguna de las partes, y
+
+VII. En los demás casos en que proceda dar por concluido el trámite del mecanismo de conformidad con esta [Ley](articulo-5.md) o las correspondientes del ámbito federal o local.

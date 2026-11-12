@@ -7,8 +7,8 @@ provision_type: article
 number: "61"
 aliases: ["LAREFAM — Artículo 61"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf
 source_sha256: 9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975
 ---
@@ -25,7 +25,9 @@ I. Por haber gozado de licencias ordinarias para asuntos ajenos al servicio que 
 
 II. Por gozar o haber gozado de licencia ilimitada o especial;
 
-III. Por gozar o haber gozado de licencia para desempeñar puestos de elección popular; IV. Por haberse dictado en su contra sentencia condenatoria de carácter penal o haberse retirado la acción penal ya estando sujeto a proceso;
+III. Por gozar o haber gozado de licencia para desempeñar puestos de elección popular;
+
+IV. Por haberse dictado en su contra sentencia condenatoria de carácter penal o haberse retirado la acción penal ya estando sujeto a proceso;
 
 V. Por haber estado sujeto a proceso en el que se pronuncie sentencia que declare extinguida la acción penal por prescripción o extinguida la pena por el mismo motivo, y
 

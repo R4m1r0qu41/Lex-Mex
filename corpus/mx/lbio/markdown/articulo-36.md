@@ -35,7 +35,9 @@ VII. No cumplir con las Normas Oficiales Mexicanas;
 
 VIII. Incumplir de forma continua el pago de contribuciones y aprovechamientos por los servicios de supervisión de los permisos.
 
-Para efectos de esta fracción se considera que el incumplimiento es continuo cuando la persona permisionaria omita el pago por más de un ejercicio fiscal; IX. No acatar las resoluciones que, en el ámbito de su competencia, expida la dependencia encargada de formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país;
+Para efectos de esta fracción se considera que el incumplimiento es continuo cuando la persona permisionaria omita el pago por más de un ejercicio fiscal;
+
+IX. No acatar las resoluciones que, en el ámbito de su competencia, expida la dependencia encargada de formular y conducir las políticas generales de industria, comercio exterior, interior, abasto y precios del país;
 
 X. Cuando se ponga en riesgo la seguridad alimentaria del país;
 

@@ -41,7 +41,9 @@ II. La información y documentación que las ITF deban recabar para la celebraci
 
 III. La forma en que las ITF deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus Clientes o quienes lo hayan sido, así como la de aquellos actos, Operaciones y servicios reportados conforme al presente artículo;
 
-IV. Los términos para proporcionar capacitación al interior de las ITF sobre la materia objeto de este artículo; V. El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las disposiciones de carácter general a que se refiere este artículo;
+IV. Los términos para proporcionar capacitación al interior de las ITF sobre la materia objeto de este artículo;
+
+V. El uso de sistemas automatizados que coadyuven al cumplimiento de las medidas y procedimientos que se establezcan en las disposiciones de carácter general a que se refiere este artículo;
 
 VI. El establecimiento de un comité de comunicación y control, así como la designación de un oficial de cumplimiento con funciones y obligaciones en la materia a que se refiere este artículo al interior de cada ITF, y
 

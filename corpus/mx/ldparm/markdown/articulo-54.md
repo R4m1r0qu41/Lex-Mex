@@ -19,7 +19,9 @@ source_sha256: e3cb7668dc68cdc73e7597def326cf185c392a77c7c9674772134831f4659179
 
 Tienen facultad para graduar los arrestos:
 
-I. El Mando Supremo y el Alto Mando; II. El Subsecretario, Oficial Mayor, Inspector y Contralor General de la Secretaría de Marina, y el Jefe del Estado Mayor General de la Armada;
+I. El Mando Supremo y el Alto Mando;
+
+II. El Subsecretario, Oficial Mayor, Inspector y Contralor General de la Secretaría de Marina, y el Jefe del Estado Mayor General de la Armada;
 
 III. Los mandos superiores en jefe, mandos superiores y mandos subordinados;
 

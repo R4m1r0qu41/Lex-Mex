@@ -35,7 +35,9 @@ V. Establecer medidas que fomenten una movilidad sustentable y que satisfagan la
 
 VI. Priorizar la planeación de los sistemas de transporte público, de la estructura vial y de la movilidad no motorizada y tracción humana;
 
-VII. Establecer acciones afirmativas y ajustes razonables en materia de accesibilidad y diseño universal, en los sistemas de movilidad y en la estructura vial, con especial atención a los requerimientos de personas con discapacidad y movilidad limitada, y otros grupos en situación de vulnerabilidad que así lo requieran; VIII. Promover la capacitación de las personas que operan los servicios de transporte público y servicios de emergencia en [Lengua de Señas Mexicana](articulo-3.md);
+VII. Establecer acciones afirmativas y ajustes razonables en materia de accesibilidad y diseño universal, en los sistemas de movilidad y en la estructura vial, con especial atención a los requerimientos de personas con discapacidad y movilidad limitada, y otros grupos en situación de vulnerabilidad que así lo requieran;
+
+VIII. Promover la capacitación de las personas que operan los servicios de transporte público y servicios de emergencia en [Lengua de Señas Mexicana](articulo-3.md);
 
 IX. Promover acciones para hacer más eficiente la distribución de bienes y mercancías, con objeto de aumentar la productividad en los centros de población y minimizar los impactos negativos de los vehículos de carga en los sistemas de movilidad; así como evitar gravar y sobre regular los servicios de autotransporte federal, transporte privado y sus servicios auxiliares regulados por la [Secretaría](articulo-3.md) de Infraestructura, Comunicaciones y [Transportes](articulo-3.md);
 

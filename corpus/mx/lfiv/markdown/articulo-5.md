@@ -19,7 +19,9 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 Serán líneas estratégicas de acción para el cumplimiento del objeto de esta [Ley](articulo-3.md):
 
-I. Fomentar el respeto del territorio considerado como apto para el cultivo de la [Vid](articulo-3.md) en territorio nacional; II. Estimular el crecimiento económico de la actividad vitivinícola en territorio nacional, generando las condiciones favorables para el impulso de inversión y acceso a fuentes de financiamiento y apoyos para la iniciativa privada;
+I. Fomentar el respeto del territorio considerado como apto para el cultivo de la [Vid](articulo-3.md) en territorio nacional;
+
+II. Estimular el crecimiento económico de la actividad vitivinícola en territorio nacional, generando las condiciones favorables para el impulso de inversión y acceso a fuentes de financiamiento y apoyos para la iniciativa privada;
 
 III. Fomentar el cumplimiento de las normas oficiales mexicanas y normas mexicanas aplicables al [Sector](articulo-3.md), así como su evaluación de la conformidad para garantizar la disponibilidad y correcta información al consumidor sobre la calidad del [Vino Mexicano](articulo-3.md) y su correcta clasificación;
 

@@ -23,7 +23,9 @@ I. Actos del Servicio, los que realizan los [Integrantes](articulo-2.md) de la [
 
 II. Carrera Policial, al Servicio Profesional de Carrera Policial de la Policía Federal;
 
-III. Consejo Federal, al Consejo Federal de Desarrollo Policial; IV. Institución, a la Policía Federal;
+III. Consejo Federal, al Consejo Federal de Desarrollo Policial;
+
+IV. Institución, a la Policía Federal;
 
 V. Integrantes, a los miembros de la Policía Federal;
 

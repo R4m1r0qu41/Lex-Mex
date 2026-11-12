@@ -21,6 +21,8 @@ El patrimonio de la Universidad estará constituido por:
 
 I.- Los bienes que asigne el Gobierno Federal y que se encuentren al servicio de la Escuela Nacional de Agricultura. Fracción reformada DOF 30-12-1977
 
-II.- Los subsidios que le otorguen los gobiernos de la Federación, de los Estados y de los Municipios; III.- Los ingresos que obtenga por los servicios que preste, y
+II.- Los subsidios que le otorguen los gobiernos de la Federación, de los Estados y de los Municipios;
+
+III.- Los ingresos que obtenga por los servicios que preste, y
 
 IV.- Los bienes, derechos y demás ingresos que adquiera por cualquier título legal.

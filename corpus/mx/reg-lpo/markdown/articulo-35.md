@@ -23,7 +23,9 @@ I. Realice actividades de certificación que no estén comprendidas dentro de lo
 
 II. Incumpla de manera reiterada con el proceso de certificación orgánica o en el control y evaluación de las operaciones orgánicas;
 
-III. Presente documentación o informes falsos; IV. Ejecute acciones u omisiones que afecten el sistema de control y no resulten subsanables;
+III. Presente documentación o informes falsos;
+
+IV. Ejecute acciones u omisiones que afecten el sistema de control y no resulten subsanables;
 
 V. Renuncie de manera expresa, o
 

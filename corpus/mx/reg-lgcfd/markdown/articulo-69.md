@@ -7,8 +7,8 @@ provision_type: article
 number: "69"
 aliases: ["REG-LGCFD — Artículo 69"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -17,7 +17,9 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 69
 
-La CONADE en los convenios de coordinación que celebre con las dependencias y entidades de los Estados, el Distrito Federal y los municipios, promoverá: I. La elaboración del censo de instalaciones deportivas con el apoyo de los Órganos Estatales, del Distrito Federal y municipales de Cultura Física y Deporte;
+La CONADE en los convenios de coordinación que celebre con las dependencias y entidades de los Estados, el Distrito Federal y los municipios, promoverá:
+
+I. La elaboración del censo de instalaciones deportivas con el apoyo de los Órganos Estatales, del Distrito Federal y municipales de Cultura Física y Deporte;
 
 II. La elaboración de un programa de detección de necesidades y de mantenimiento de las instalaciones deportivas que se ubiquen dentro de su ámbito de competencia y llevar a cabo, cuando sea necesario, los trabajos para que dichas instalaciones puedan operar correctamente, y
 

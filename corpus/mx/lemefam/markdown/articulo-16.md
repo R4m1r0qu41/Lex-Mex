@@ -25,6 +25,8 @@ II. De Capacitación;
 
 III. De Aplicación;
 
-IV. De Perfeccionamiento; V. De Actualización, y
+IV. De Perfeccionamiento;
+
+V. De Actualización, y
 
 VI. De Especialización.

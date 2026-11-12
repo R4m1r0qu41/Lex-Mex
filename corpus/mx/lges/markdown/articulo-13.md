@@ -25,4 +25,6 @@ II. En línea o virtual;
 
 III. Abierta y a distancia;
 
-IV. Certificación por examen, y V. Las demás que se determinen por las autoridades educativas e instituciones de educación superior, a través de las disposiciones que se deriven de la presente Ley.
+IV. Certificación por examen, y
+
+V. Las demás que se determinen por las autoridades educativas e instituciones de educación superior, a través de las disposiciones que se deriven de la presente Ley.

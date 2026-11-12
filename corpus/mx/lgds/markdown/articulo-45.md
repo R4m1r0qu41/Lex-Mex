@@ -7,8 +7,8 @@ provision_type: article
 number: "45"
 aliases: ["LGDS — Artículo 45"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
 source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 ---
@@ -29,7 +29,9 @@ IV. Coordinar acciones de desarrollo social con municipios de otras entidades fe
 
 V. Ejercer los fondos y recursos federales descentralizados o convenidos en materia social en los términos de las leyes respectivas; así como informar a la [Secretaría](articulo-5.md), a través de los gobiernos estatales, sobre el avance y resultados de esas acciones;
 
-VI. Concertar acciones con los sectores social y privado en materia de desarrollo social; VII. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
+VI. Concertar acciones con los sectores social y privado en materia de desarrollo social;
+
+VII. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
 
 VIII. Informar a la sociedad sobre las acciones en torno al desarrollo social, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "9o"
 aliases: ["LEBHN — Artículo 9o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf
 source_sha256: e117a1f2c91d31d7c478c7cf823501fb07f58e52d62ac53fdb43c888d8d4ac78
 ---

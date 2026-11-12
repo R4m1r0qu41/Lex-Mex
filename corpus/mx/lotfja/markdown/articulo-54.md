@@ -29,7 +29,9 @@ IV. Convocar a sesiones al Pleno General y Jurisdiccional de la Sala Superior y 
 
 V. Someter al conocimiento del Pleno General y Jurisdiccional de la Sala Superior los asuntos de la competencia del mismo, así como aquéllos que considere necesarios;
 
-VI. Autorizar, junto con el Secretario General de Acuerdos, las actas en que se hagan constar las deliberaciones y acuerdos del Pleno General y Jurisdiccional de la Sala Superior y firmar el engrose de las resoluciones; VII. Ejercer la facultad de atracción de los juicios con características especiales, en términos de las disposiciones aplicables, a efecto de someterlos al Pleno para su resolución;
+VI. Autorizar, junto con el Secretario General de Acuerdos, las actas en que se hagan constar las deliberaciones y acuerdos del Pleno General y Jurisdiccional de la Sala Superior y firmar el engrose de las resoluciones;
+
+VII. Ejercer la facultad de atracción de los juicios con características especiales, en términos de las disposiciones aplicables, a efecto de someterlos al Pleno para su resolución;
 
 VIII. Dictar los acuerdos y providencias de trámite necesarios, cuando se beneficie la rapidez del proceso;
 
@@ -55,7 +57,9 @@ XVIII. Rendir un informe anual al Senado de la República basado en indicadores 
 
 XIX. Dirigir la Revista del Tribunal Federal de Justicia Administrativa y proponer, compilar, editar y distribuir el material impreso que el Tribunal determine para divulgarlo entre las dependencias y entidades, las instituciones de educación superior, las agrupaciones profesionales y el público en general para el mejor conocimiento de los temas de índole fiscal y administrativa;
 
-XX. Conducir la planeación estratégica del Tribunal, de conformidad con los lineamientos que determine la Sala Superior; XXI. Dirigir la política de comunicación social y de relaciones públicas del Tribunal, informando a la Sala Superior y a la Junta;
+XX. Conducir la planeación estratégica del Tribunal, de conformidad con los lineamientos que determine la Sala Superior;
+
+XXI. Dirigir la política de comunicación social y de relaciones públicas del Tribunal, informando a la Sala Superior y a la Junta;
 
 XXII. Designar a servidores públicos del Tribunal para que lo representen en eventos académicos o de cualquier otra naturaleza, vinculados con el conocimiento y divulgación de materias relacionadas con su competencia, en el entendido de que el cumplimiento de esta encomienda por parte de los servidores públicos designados, se entenderá como parte de las labores a su cargo en la residencia del órgano del Tribunal a que esté adscrito, en cuyo caso no requerirá licencia;
 

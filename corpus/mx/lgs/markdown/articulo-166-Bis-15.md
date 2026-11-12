@@ -21,7 +21,9 @@ Los médicos especialistas en las instituciones de segundo y tercer nivel, tendr
 
 I. Proporcionar toda la información que el paciente requiera, así como la que el médico considere necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
 
-II. Pedir el consentimiento informado del enfermo en situación terminal, por escrito ante dos testigos, para los tratamientos o medidas a tomar respecto de la enfermedad terminal; III. Informar oportunamente al enfermo en situación terminal, cuando el tratamiento curativo no dé resultados;
+II. Pedir el consentimiento informado del enfermo en situación terminal, por escrito ante dos testigos, para los tratamientos o medidas a tomar respecto de la enfermedad terminal;
+
+III. Informar oportunamente al enfermo en situación terminal, cuando el tratamiento curativo no dé resultados;
 
 IV. Informar al enfermo en situación terminal, sobre las opciones que existan de cuidados paliativos;
 

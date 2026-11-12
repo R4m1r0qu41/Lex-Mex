@@ -27,7 +27,9 @@ III. La prohibición de intimidar o molestar a la víctima en su entorno social,
 
 IV. El auxilio policiaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima al momento de solicitar el auxilio;
 
-V. El inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima; VI. Informar a las autoridades o instituciones competentes sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas;
+V. El inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+
+VI. Informar a las autoridades o instituciones competentes sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas;
 
 VII. El uso y goce de los bienes que se encuentren en el inmueble que sirva de domicilio a la víctima;
 

@@ -21,7 +21,9 @@ Los puntos de Inspección internacional en Sanidad Vegetal deberán cumplir como
 
 I. Área de las oficinas administrativas;
 
-II. Ventanilla de atención al público; III. Área de maniobras;
+II. Ventanilla de atención al público;
+
+III. Área de maniobras;
 
 IV. Área de desconsolidación;
 

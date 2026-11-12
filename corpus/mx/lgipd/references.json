@@ -33,19 +33,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:49:reference:608-610:19:direct",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:49:reference:609-611:19:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgipd:article:49",
     "source_span": "19",
-    "start_char": 608,
-    "end_char": 610,
+    "start_char": 609,
+    "end_char": 611,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfep",
     "target_provision_id": "urn:lex-mx:federal:statute:lfep:article:19",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones II, III, IV y V",
-        "start_char": 568,
-        "end_char": 594
+        "start_char": 569,
+        "end_char": 595
       }
     ],
     "basis": "express_cross_reference",

@@ -23,7 +23,9 @@ I. Proporcionalidad y Necesidad: Las [Medidas de Protección](articulo-2.md) que
 
 II. Secrecía: Los servidores públicos y las personas sujetas a protección, así como cualquier persona relacionada con la aplicación de la presente Ley, mantendrán el sigilo de todas las actuaciones relacionadas con las Medidas de Protección adoptadas por el [Centro](articulo-2.md), así como lo referente a los aspectos operativos del [Programa](articulo-2.md). Fracción reformada DOF 17-06-2016
 
-III. Voluntariedad: La persona expresará por escrito su voluntad de acogerse y recibir las medidas de protección y en su caso los beneficios que la ley en la materia prevé, además de obligarse a cumplir con todas las disposiciones establecidas en el mismo. Asimismo, en cualquier momento podrá solicitar su retiro, sin perjuicio de los casos en que proceda su separación del Programa por las causales establecidas en esta Ley y en las demás disposiciones reglamentarias del Programa. IV. Temporalidad: La permanencia de la persona en el Programa estará sujeta a un periodo determinado o a la evaluación periódica que realice el Centro, el cual determinará si continúan los factores o circunstancias que motivaron el acceso de la persona al Programa.
+III. Voluntariedad: La persona expresará por escrito su voluntad de acogerse y recibir las medidas de protección y en su caso los beneficios que la ley en la materia prevé, además de obligarse a cumplir con todas las disposiciones establecidas en el mismo. Asimismo, en cualquier momento podrá solicitar su retiro, sin perjuicio de los casos en que proceda su separación del Programa por las causales establecidas en esta Ley y en las demás disposiciones reglamentarias del Programa.
+
+IV. Temporalidad: La permanencia de la persona en el Programa estará sujeta a un periodo determinado o a la evaluación periódica que realice el Centro, el cual determinará si continúan los factores o circunstancias que motivaron el acceso de la persona al Programa.
 
 V. Autonomía: El [Director](articulo-2.md) gozará de las más amplias facultades para dictar las medidas oportunas que sujeten y garanticen la exacta aplicación de la presente Ley.
 

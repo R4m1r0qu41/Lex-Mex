@@ -61,7 +61,9 @@ c) En situación de explotación, incluyendo la sexual.
 
 III. Indígenas migrantes, desplazados o en situación vulnerable;
 
-IV. Migrantes; V. Personas adultas mayores:
+IV. Migrantes;
+
+V. Personas adultas mayores:
 
 a) En desamparo, marginación o sujetos a maltrato;
 

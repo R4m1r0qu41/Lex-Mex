@@ -17,7 +17,9 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 62
 
-El Sistema de Control Nacional se integra con la siguiente información: I. El informe anual de los Organismos de Certificación Orgánica;
+El Sistema de Control Nacional se integra con la siguiente información:
+
+I. El informe anual de los Organismos de Certificación Orgánica;
 
 II. El padrón;
 

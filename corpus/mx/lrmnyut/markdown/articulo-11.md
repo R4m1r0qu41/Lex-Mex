@@ -7,8 +7,8 @@ provision_type: article
 number: "11"
 aliases: ["LRMNYUT — Artículo 11"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf
 source_sha256: 6e3f13a2ca4c875228dcbd57a62c04bd991e1540b851c56f320c8aaf2016d7c0
 ---

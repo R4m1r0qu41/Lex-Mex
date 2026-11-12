@@ -29,7 +29,9 @@ IV. Cantidad promedio anual de semilla de los cultivos con que opera frecuenteme
 
 V. Domicilio del solicitante y en su caso el de sucursales;
 
-VI. Domicilio, en su caso, del almacén anexando datos técnicos de infraestructura y capacidad instalada, y VII. Domicilio, en su caso, de la planta de acondicionamiento o beneficio, anexando datos técnicos de infraestructura y capacidad instalada.
+VI. Domicilio, en su caso, del almacén anexando datos técnicos de infraestructura y capacidad instalada, y
+
+VII. Domicilio, en su caso, de la planta de acondicionamiento o beneficio, anexando datos técnicos de infraestructura y capacidad instalada.
 
 Al formato descrito en el párrafo anterior, se deberá adjuntar la documentación siguiente:
 

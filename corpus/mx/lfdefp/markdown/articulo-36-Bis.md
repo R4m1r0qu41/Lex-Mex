@@ -25,7 +25,9 @@ II. Aprobar los lineamientos para la selección, ingreso y promoción de los def
 
 III. Llevar a cabo el proceso de selección y oposición para el ingreso al servicio de carrera;
 
-IV. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de las y los defensores públicos y las y los asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera; V. Promover la realización de estudios tendientes a perfeccionar el servicio de defensoría pública;
+IV. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de las y los defensores públicos y las y los asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera;
+
+V. Promover la realización de estudios tendientes a perfeccionar el servicio de defensoría pública;
 
 VI. Aprobar y ejecutar el Plan Anual de Capacitación del Instituto Federal de Defensoría Pública, en los términos de esta Ley y demás disposiciones aplicables;
 

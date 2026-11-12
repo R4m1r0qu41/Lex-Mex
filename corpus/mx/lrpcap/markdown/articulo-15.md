@@ -19,7 +19,7 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 En materia de refugiados, le compete a la [Secretaría](articulo-2.md) lo siguiente:
 
-I. Efectuar el reconocimiento de la condición de refugiado a los extranjeros que, encontrándose en territorio nacional, así lo soliciten de conformidad con los supuestos previstos en la presente Ley. En todos los casos a que se refiere esta fracción la Secretaría recabará previamente la opinión de la Secretaría de Relaciones Exteriores;
+I. Efectuar el reconocimiento de la condición de refugiado a los extranjeros que, encontrándose en territorio nacional, así lo soliciten de conformidad con los supuestos previstos en la presente [Ley](articulo-2.md). En todos los casos a que se refiere esta fracción la Secretaría recabará previamente la opinión de la Secretaría de Relaciones Exteriores;
 
 II. Promover y coordinar acciones públicas, estrategias y programas orientados a la protección y asistencia de refugiados y solicitantes conforme al artículo [20](articulo-20.md) de esta Ley;
 
@@ -45,4 +45,6 @@ XII. Organizar y participar en actividades de difusión sobre los derechos y las
 
 XIII. Promover la difusión y promoción del derecho internacional de refugiados, y brindar capacitación a los funcionarios migratorios y servidores públicos involucrados en la materia;
 
-XIV. Dictar las medidas necesarias durante los procedimientos de reconocimiento, cesación, revocación y cancelación de la condición de refugiado, y XV. Las demás atribuciones que le confieran el reglamento de esta Ley y demás ordenamientos aplicables.
+XIV. Dictar las medidas necesarias durante los procedimientos de reconocimiento, cesación, revocación y cancelación de la condición de refugiado, y
+
+XV. Las demás atribuciones que le confieran el reglamento de esta Ley y demás ordenamientos aplicables.

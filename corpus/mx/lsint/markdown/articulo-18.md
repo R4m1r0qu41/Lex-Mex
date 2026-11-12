@@ -17,6 +17,6 @@ source_sha256: d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89
 
 # Artículo 18
 
-En ningún caso, las Acciones de [Seguridad Interior](articulo-4.md) que lleven a cabo las autoridades federales conforme a lo previsto en la presente Ley, tendrán por objeto sustituir a las autoridades de otros órdenes de gobierno en el cumplimiento de sus competencias o eximir a dichas autoridades de sus responsabilidades.
+En ningún caso, las [Acciones de Seguridad Interior](articulo-4.md) que lleven a cabo las autoridades federales conforme a lo previsto en la presente Ley, tendrán por objeto sustituir a las autoridades de otros órdenes de gobierno en el cumplimiento de sus competencias o eximir a dichas autoridades de sus responsabilidades.
 
 En ningún caso, las Acciones de Seguridad Interior que lleven a cabo las [Fuerzas Armadas](articulo-4.md) se considerarán o tendrán la condición de seguridad pública.

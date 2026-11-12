@@ -23,7 +23,9 @@ I. Usar o tomar en arrendamiento los espacios o lotes industriales y recibir los
 
 II. Construir edificaciones e instalar maquinaria y equipo para realizar actividades económicas productivas en los espacios o lotes industriales que le correspondan en la Zona;
 
-III. Realizar las [Actividades Económicas Productivas](articulo-4.md) autorizadas en la Zona; IV. Obtener las autorizaciones, licencias y permisos que, en su caso, sean necesarios para la realización de Actividades Económicas Productivas de la Zona;
+III. Realizar las [Actividades Económicas Productivas](articulo-4.md) autorizadas en la Zona;
+
+IV. Obtener las autorizaciones, licencias y permisos que, en su caso, sean necesarios para la realización de Actividades Económicas Productivas de la Zona;
 
 V. Recibir los beneficios fiscales y sujetarse al régimen aduanero de la Zona, así como los demás incentivos y facilidades administrativas que se otorguen en la misma por los tres órdenes de gobierno;
 

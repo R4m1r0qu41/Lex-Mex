@@ -27,7 +27,9 @@ III. Participar en la formulación, aprobación, actualización, ejecución y ev
 
 IV. Participar en la elaboración de los proyectos de presupuesto local en la materia, así como en las evaluaciones de la eficacia y eficiencia del gasto local correspondiente, sin perjuicio de lo establecido en la legislación local;
 
-V. Evaluar los resultados de la política municipal o de la demarcación en la materia, conforme a los fines, principios y bases establecidos en la presente Ley; VI. Promover instancias de colaboración, cooperación y articulación metropolitana y regional para el mejor diseño e instrumentación de sus políticas, estrategias, acciones y proyectos en la materia;
+V. Evaluar los resultados de la política municipal o de la demarcación en la materia, conforme a los fines, principios y bases establecidos en la presente Ley;
+
+VI. Promover instancias de colaboración, cooperación y articulación metropolitana y regional para el mejor diseño e instrumentación de sus políticas, estrategias, acciones y proyectos en la materia;
 
 VII. Colaborar en la integración del [Sistema Nacional de Información](articulo-4.md), a través de su participación en los sistemas locales;
 

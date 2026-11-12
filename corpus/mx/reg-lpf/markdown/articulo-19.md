@@ -39,7 +39,9 @@ IX. Participar con las autoridades competentes en el seguimiento y vigilancia de
 
 X. Solicitar información y documentación a las áreas de la Institución y demás autoridades que auxilien en la investigación de que se trate, para el cumplimiento de sus fines, así como levantar las actas administrativas a que haya lugar;
 
-XI. Dar vista al Órgano Interno de Control de los hechos en que se desprendan presuntas infracciones administrativas cometidas dentro del servicio cuando así proceda, en los términos de la [Ley](articulo-2.md) Federal de Responsabilidades Administrativas de los Servidores Públicos; XII. Citar a los Integrantes sometidos a una investigación o, en su caso, a aquéllos que puedan aportar datos para la misma;
+XI. Dar vista al Órgano Interno de Control de los hechos en que se desprendan presuntas infracciones administrativas cometidas dentro del servicio cuando así proceda, en los términos de la [Ley](articulo-2.md) Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+XII. Citar a los Integrantes sometidos a una investigación o, en su caso, a aquéllos que puedan aportar datos para la misma;
 
 XIII. Mantener actualizados los métodos y procedimientos de investigación de faltas a los deberes de los Integrantes y de inspección que deban establecerse en la Institución;
 
@@ -65,7 +67,9 @@ XXIII. Formular las denuncias cuando de las investigaciones practicadas se deriv
 
 XXIV. Solicitar al Secretario General la dotación de presupuesto suficiente para el desarrollo de sus funciones, ejercerlo bajo su responsabilidad en términos de las disposiciones legales aplicables, así como informar oportunamente sobre el particular al Secretario;
 
-XXV. Ordenar las inspecciones que permitan verificar el cumplimiento a los programas en materia de seguridad pública y política criminal; XXVI. Coordinar y realizar acciones específicas, así como de usuarios simulados, que aseguren la obtención y el análisis de información en el desarrollo de las investigaciones sobre las faltas a los deberes denunciados;
+XXV. Ordenar las inspecciones que permitan verificar el cumplimiento a los programas en materia de seguridad pública y política criminal;
+
+XXVI. Coordinar y realizar acciones específicas, así como de usuarios simulados, que aseguren la obtención y el análisis de información en el desarrollo de las investigaciones sobre las faltas a los deberes denunciados;
 
 XXVII. Establecer en el manual correspondiente, las normas, políticas y procedimientos para el desarrollo e instrumentación de programas de visitas ordinarias y extraordinarias, e inspecciones a la Institución, así como para la investigación con motivo de quejas y denuncias por probables irregularidades operativo-administrativas detectadas en la misma y de aquellas que puedan ser causales de responsabilidad, y dar cuenta de ello a las instancias correspondientes;
 

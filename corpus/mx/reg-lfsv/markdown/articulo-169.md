@@ -19,7 +19,9 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 Para solicitar la autorización para instalar y operar un Punto de Verificación Interna, los interesados deberán presentar la solicitud correspondiente, adjuntando la documentación siguiente:
 
-I. El convenio de coordinación suscrito entre el gobierno de la entidad federativa y la Secretaría, para que servidores públicos estatales ejecuten actos de autoridad en los Puntos de Verificación Interna; II. La justificación técnica para instalar el Punto de Verificación Interna;
+I. El convenio de coordinación suscrito entre el gobierno de la entidad federativa y la Secretaría, para que servidores públicos estatales ejecuten actos de autoridad en los Puntos de Verificación Interna;
+
+II. La justificación técnica para instalar el Punto de Verificación Interna;
 
 III. El mapa carretero estatal en el que se ilustre la ubicación geográfica del Punto de Verificación Interna;
 

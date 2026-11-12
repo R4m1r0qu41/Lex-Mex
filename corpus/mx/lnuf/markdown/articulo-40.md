@@ -33,7 +33,9 @@ VI. Adiestramiento en el empleo de armas menos letales;
 
 VII. Código de conducta de los servidores públicos;
 
-VIII. Ética y doctrina policial; IX. Responsabilidades jurídicas derivadas del uso de la fuerza;
+VIII. Ética y doctrina policial;
+
+IX. Responsabilidades jurídicas derivadas del uso de la fuerza;
 
 X. Actuaciones previas, durante y posteriores al uso de la fuerza;
 

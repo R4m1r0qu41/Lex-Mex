@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 41
 
-La [Secretaría](articulo-2.md) solicitará a la Asamblea General que, conforme a sus Estatutos, tome los acuerdos necesarios para corregir cualquiera de las condiciones de los integrantes del Consejo Directivo y demás directivos de una Cámara o [Confederación](articulo-2.md), cuando éstas:
+La [Secretaría](articulo-2.md) solicitará a la Asamblea General que, conforme a sus Estatutos, tome los acuerdos necesarios para corregir cualquiera de las condiciones de los integrantes del Consejo Directivo y demás directivos de una [Cámara](articulo-2.md) o [Confederación](articulo-2.md), cuando éstas:
 
 I. Reincidan en cualquiera de las conductas a que se refiere el [artículo anterior](articulo-40.md), y se les hubiere sancionado conforme al mismo;
 

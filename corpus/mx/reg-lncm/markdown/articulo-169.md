@@ -23,7 +23,9 @@ I. Original del certificado vencido o por vencerse;
 
 II. Constancia de haber realizado un período de embarque aprobado, desempeñando funciones propias de su título, al menos un año calendario anterior a su solicitud;
 
-III. [Constancia de Aptitud Psicofísica](articulo-10.md) vigente; IV. Constancia vigente de capacitación básica en materia de seguridad de acuerdo al sector, expedida por el [FIDENA](articulo-10.md);
+III. [Constancia de Aptitud Psicofísica](articulo-10.md) vigente;
+
+IV. Constancia vigente de capacitación básica en materia de seguridad de acuerdo al sector, expedida por el [FIDENA](articulo-10.md);
 
 V. Constancia de participación en el curso actualizado de la categoría que pretende renovar, expedida por el FIDENA, y
 

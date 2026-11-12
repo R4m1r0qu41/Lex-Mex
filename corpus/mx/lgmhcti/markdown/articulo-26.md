@@ -23,7 +23,9 @@ I. Auxiliar a las autoridades en el cumplimiento de sus atribuciones de asesorí
 
 II. Funcionar a partir de grupos de trabajo, que se integrarán sobre la base de criterios de pluralidad, inclusión, renovación periódica, paridad de género y representatividad institucional y regional.
 
-Dichos grupos podrán ser temáticos, sectoriales, institucionales, especializados o la modalidad que permita cumplir de manera óptima con el objeto del órgano consultivo; III. Formular sus opiniones y propuestas de manera autónoma y sin efectos vinculantes, a partir de las recomendaciones que realicen los grupos de trabajo y, en su caso, tomando en cuenta la opinión de la comunidad;
+Dichos grupos podrán ser temáticos, sectoriales, institucionales, especializados o la modalidad que permita cumplir de manera óptima con el objeto del órgano consultivo;
+
+III. Formular sus opiniones y propuestas de manera autónoma y sin efectos vinculantes, a partir de las recomendaciones que realicen los grupos de trabajo y, en su caso, tomando en cuenta la opinión de la comunidad;
 
 IV. Contar con un grupo permanente de trabajo enfocado a opinar y proponer sobre lineamientos y políticas de género en materia de humanidades, ciencias, tecnologías e innovación;
 

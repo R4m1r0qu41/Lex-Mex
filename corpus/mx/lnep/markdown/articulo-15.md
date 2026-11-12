@@ -33,7 +33,9 @@ VI. Autorizar el acceso a particulares y autoridades a los Centros Penitenciario
 
 VII. Imponer y ejecutar las medidas disciplinarias a las personas privadas de la libertad por violación al régimen de disciplina, sin que con ellas se menoscabe su dignidad ni se vulneren sus derechos humanos;
 
-VIII. Ejecutar el traslado de las personas privadas de la libertad y notificar al órgano jurisdiccional correspondiente de tal circunstancia inmediatamente y por escrito, anexando copia certificada de la autorización del traslado; IX. Realizar propuestas o hacer llegar solicitudes de otorgamiento de beneficios que supongan una modificación a las condiciones de cumplimiento de la pena o una reducción de la misma a favor de las personas sentenciadas;
+VIII. Ejecutar el traslado de las personas privadas de la libertad y notificar al órgano jurisdiccional correspondiente de tal circunstancia inmediatamente y por escrito, anexando copia certificada de la autorización del traslado;
+
+IX. Realizar propuestas o hacer llegar solicitudes de otorgamiento de beneficios que supongan una modificación a las condiciones de cumplimiento de la pena o una reducción de la misma a favor de las personas sentenciadas;
 
 X. Presentar al Juez de Ejecución el diagnóstico médico especializado en el que se determine el padecimiento físico o mental, crónico, continuo, irreversible y con tratamiento asilar que presente la persona privada de la libertad, con el propósito de abrir la vía incidental tendiente a la modificación de la ejecución de la pena por la causal que corresponda y en los términos previstos por la legislación aplicable;
 

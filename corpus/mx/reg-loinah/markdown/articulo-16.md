@@ -17,7 +17,9 @@ source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 
 # Artículo 16
 
-El titular de la Secretaría Técnica tiene las facultades siguientes: I. Acordar con el titular de la Dirección General y con las unidades administrativas de su adscripción, el despacho de los asuntos de su competencia;
+El titular de la Secretaría Técnica tiene las facultades siguientes:
+
+I. Acordar con el titular de la Dirección General y con las unidades administrativas de su adscripción, el despacho de los asuntos de su competencia;
 
 II. Planear, coordinar y evaluar el funcionamiento de las unidades administrativas que tenga adscritas, así como fomentar la vinculación entre ellas para que realicen sus funciones y actividades de manera eficiente, integral, oportuna y, en su caso, en coordinación con los Centros [INAH](articulo-2.md);
 
@@ -43,7 +45,9 @@ XII. Coordinar los proyectos nacionales e internacionales que lleven a cabo las 
 
 XIII. Autorizar las investigaciones arqueológicas y de Bienes de Interés Paleontológico, a instituciones nacionales y extranjeras, cuyos proyectos hayan sido aprobados por los órganos colegiados del Instituto y tramitados por la Coordinación Nacional de Asuntos Jurídicos;
 
-XIV. Autorizar los reconocimientos de asociaciones civiles, juntas vecinales o uniones de campesinos como órganos coadyuvantes del Instituto, a propuesta de la Coordinación Nacional de Asuntos Jurídicos; XV. Propiciar relaciones de coordinación y colaboración con dependencias y entidades de la Administración Pública Federal, autoridades de las entidades federativas y municipales, así como organizaciones públicas o privadas e instituciones académicas nacionales y extranjeras, cuyo objetivo sea el fomento de la Conservación, protección, investigación, difusión y divulgación del Patrimonio Cultural;
+XIV. Autorizar los reconocimientos de asociaciones civiles, juntas vecinales o uniones de campesinos como órganos coadyuvantes del Instituto, a propuesta de la Coordinación Nacional de Asuntos Jurídicos;
+
+XV. Propiciar relaciones de coordinación y colaboración con dependencias y entidades de la Administración Pública Federal, autoridades de las entidades federativas y municipales, así como organizaciones públicas o privadas e instituciones académicas nacionales y extranjeras, cuyo objetivo sea el fomento de la Conservación, protección, investigación, difusión y divulgación del Patrimonio Cultural;
 
 XVI. Participar y facilitar, en el ámbito de su competencia, la suscripción de instrumentos jurídicos de carácter internacional ante las autoridades federales competentes, para fortalecer la protección y Conservación del Patrimonio Cultural;
 

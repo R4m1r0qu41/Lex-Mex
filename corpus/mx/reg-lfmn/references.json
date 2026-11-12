@@ -40,19 +40,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfmn:article:31:reference:1434-1435:31:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfmn:article:31:reference:1435-1436:31:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfmn:article:31",
     "source_span": "I",
-    "start_char": 1434,
-    "end_char": 1435,
+    "start_char": 1435,
+    "end_char": 1436,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfmn",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfmn:article:31",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 1434,
-        "end_char": 1435
+        "start_char": 1435,
+        "end_char": 1436
       }
     ],
     "basis": "express_cross_reference",

@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 5
 
-Las instituciones constituidas y organizadas de acuerdo con esta Ley deberán usar en sus denominaciones los términos "Cámara" o "[Confederación](articulo-2.md)", seguidos de los vocablos que conforme a lo establecido en la misma, permitan identificar su circunscripción, actividad o giro según corresponda.
+Las instituciones constituidas y organizadas de acuerdo con esta Ley deberán usar en sus denominaciones los términos "[Cámara](articulo-2.md)" o "[Confederación](articulo-2.md)", seguidos de los vocablos que conforme a lo establecido en la misma, permitan identificar su circunscripción, actividad o giro según corresponda.
 
 Ninguna persona moral distinta a las señaladas en el [artículo anterior](articulo-4.md) podrá usar el término "Cámara" o "Confederación". La institución que así lo haga será sancionada conforme a la Ley.
 

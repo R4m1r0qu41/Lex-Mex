@@ -43,7 +43,9 @@ XI. Número de Lote;
 
 XII. Uso de la mercancía;
 
-XIII. Nombre completo del destinatario; XIV. Domicilio del destino final de la mercancía y puntos de verificación e inspección por donde deberá circular;
+XIII. Nombre completo del destinatario;
+
+XIV. Domicilio del destino final de la mercancía y puntos de verificación e inspección por donde deberá circular;
 
 XV. Número telefónico del importador;
 

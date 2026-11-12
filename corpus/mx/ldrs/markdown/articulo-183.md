@@ -27,7 +27,9 @@ III. La definición de acciones de capacitación y asistencia técnica, y el imp
 
 IV. El impulso de acciones para mejorar y certificar la calidad de los alimentos y desarrollar su promoción comercial;
 
-V. El establecimiento de compromisos de productividad y calidad por parte de los productores, dependiendo del tipo de productos de que se trate, sean los de la dieta básica o los destinados para el mercado internacional; VI. La elaboración y difusión de guías sobre prácticas sustentables en las diferentes etapas de las cadenas agroalimentarias;
+V. El establecimiento de compromisos de productividad y calidad por parte de los productores, dependiendo del tipo de productos de que se trate, sean los de la dieta básica o los destinados para el mercado internacional;
+
+VI. La elaboración y difusión de guías sobre prácticas sustentables en las diferentes etapas de las cadenas agroalimentarias;
 
 VII. La instrumentación de programas y acciones de protección del medio ambiente para la evaluación de los costos ambientales derivados de las actividades productivas del sector; y
 

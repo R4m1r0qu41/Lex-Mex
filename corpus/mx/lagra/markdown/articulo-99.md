@@ -21,6 +21,8 @@ Los efectos jurídicos del reconocimiento de la comunidad son:
 
 I. La personalidad jurídica del núcleo de población y su propiedad sobre la tierra;
 
-II. La existencia del Comisariado de Bienes Comunales como órgano de representación y gestión administrativa de la asamblea de comuneros en los términos que establezca el estatuto comunal y la costumbre; III. La protección especial a las tierras comunales que las hace inalienables, imprescriptibles e inembargables, salvo que se aporten a una sociedad en los términos del artículo [100](articulo-100.md) de esta ley; y
+II. La existencia del Comisariado de Bienes Comunales como órgano de representación y gestión administrativa de la asamblea de comuneros en los términos que establezca el estatuto comunal y la costumbre;
+
+III. La protección especial a las tierras comunales que las hace inalienables, imprescriptibles e inembargables, salvo que se aporten a una sociedad en los términos del artículo [100](articulo-100.md) de esta ley; y
 
 IV. Los derechos y las obligaciones de los comuneros conforme a la ley y el estatuto comunal.

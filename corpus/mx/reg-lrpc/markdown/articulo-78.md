@@ -19,7 +19,9 @@ source_sha256: 2cc9cde30f6f8852a47752353db06a6b1d946b94d0e5c0e49633cb8f54776320
 
 Para la elaboración y ejecución del plan de asistencia referido en el [artículo anterior](articulo-77.md), la [Coordinación](articulo-2.md) realizará las siguientes acciones:
 
-I. Realizar entrevistas entre el extranjero que reciba protección complementaria y un servidor público al que le será asignado a su caso, a fin de identificar y atender sus necesidades; II. Establecer requisitos que el extranjero que reciba protección complementaria debe satisfacer oportunamente con objeto de gestionar los apoyos o trámite que solicite, los cuales deberán constar en el plan de asistencia o bien le serán informados al momento de solicitar la entrevista;
+I. Realizar entrevistas entre el extranjero que reciba protección complementaria y un servidor público al que le será asignado a su caso, a fin de identificar y atender sus necesidades;
+
+II. Establecer requisitos que el extranjero que reciba protección complementaria debe satisfacer oportunamente con objeto de gestionar los apoyos o trámite que solicite, los cuales deberán constar en el plan de asistencia o bien le serán informados al momento de solicitar la entrevista;
 
 III. Proceder a cancelar la solicitud de apoyo, en caso que el extranjero que reciba protección complementaria no se presente oportunamente a las entrevistas previamente programadas o bien no cumpla con los requisitos que le hayan sido fijados. En este supuesto, el extranjero deberá formular una nueva solicitud;
 

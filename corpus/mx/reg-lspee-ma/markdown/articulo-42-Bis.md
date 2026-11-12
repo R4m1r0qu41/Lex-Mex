@@ -7,8 +7,8 @@ provision_type: article
 number: "42 Bis"
 aliases: ["REG-LSPEE-MA — Artículo 42 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPEE_MA.pdf
 source_sha256: 21f5fb89e9734e1e27efae30d14611253f29dda506024e431a063b8ec93741b2
 ---
@@ -21,7 +21,9 @@ La bonificación que debe entregarse al solicitante por parte del suministrador,
 
 I. La bonificación se entregará en energía eléctrica;
 
-II. La bonificación deberá entregarse a partir de que se inicie el suministro; III. La cantidad de bonificación corresponderá al equivalente al uno por ciento del cargo unitario del kilovolt-ampere del servicio solicitado, por cada semana en la que el suministrador se excedió para cumplir con su obligación correspondiente;
+II. La bonificación deberá entregarse a partir de que se inicie el suministro;
+
+III. La cantidad de bonificación corresponderá al equivalente al uno por ciento del cargo unitario del kilovolt-ampere del servicio solicitado, por cada semana en la que el suministrador se excedió para cumplir con su obligación correspondiente;
 
 IV. La semana no transcurrida totalmente se considerará completa;
 

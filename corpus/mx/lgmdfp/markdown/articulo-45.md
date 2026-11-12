@@ -31,7 +31,9 @@ IV. La persona titular de la [Comisión Nacional de Búsqueda](articulo-4.md); q
 
 V. La persona titular del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
-VI. Tres personas del [Consejo Ciudadano](articulo-4.md) que representen a cada uno de los sectores que lo integran; VII. La persona titular de la Guardia Nacional; Fracción reformada DOF 16-07-2025
+VI. Tres personas del [Consejo Ciudadano](articulo-4.md) que representen a cada uno de los sectores que lo integran;
+
+VII. La persona titular de la Guardia Nacional; Fracción reformada DOF 16-07-2025
 
 VIII. Las personas titulares de las [Comisiones Locales de Búsqueda](articulo-4.md); Fracción reformada DOF 16-07-2025
 

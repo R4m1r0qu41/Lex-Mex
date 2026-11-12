@@ -23,7 +23,9 @@ I. Original y copia del documento de acreditación, otorgado por una entidad de 
 
 II. Domicilio, croquis de ubicación y horario de atención a usuarios de las oficinas centrales y de los centros de certificación zoosanitaria;
 
-III. Procedimiento de expedición del certificado a productos, procesos, establecimientos y servicios según corresponda; IV. Relación de los nombres completos y horarios laborales de los terceros especialistas adscritos al organismo de certificación;
+III. Procedimiento de expedición del certificado a productos, procesos, establecimientos y servicios según corresponda;
+
+IV. Relación de los nombres completos y horarios laborales de los terceros especialistas adscritos al organismo de certificación;
 
 V. La relación y expedientes de los centros de certificación zoosanitaria, que apoyarán al organismo de certificación;
 

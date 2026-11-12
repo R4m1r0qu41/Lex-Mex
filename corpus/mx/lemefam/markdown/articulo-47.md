@@ -17,6 +17,6 @@ source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 
 # Artículo 47
 
-La Dirección y Rectoría establecerá los procedimientos por medio de los cuales expedirá certificados y dictámenes técnicos a quienes acrediten conocimientos adquiridos de manera autodidacta o por experiencia laboral, en relación con los empleos y especialidades del Ejército, Fuerza Aérea y Guardia Nacional.
+La [Dirección y Rectoría](articulo-2.md) establecerá los procedimientos por medio de los cuales expedirá certificados y dictámenes técnicos a quienes acrediten conocimientos adquiridos de manera autodidacta o por experiencia laboral, en relación con los empleos y especialidades del Ejército, Fuerza Aérea y Guardia Nacional.
 
 Artículo reformado DOF 16-07-2025

@@ -25,7 +25,9 @@ II. Planear, programar y, en su caso, presupuestar las actividades a su cargo, a
 
 III. Mantener informado a su superior sobre las acciones realizadas por el personal bajo su mando;
 
-IV. Ejercer las facultades que les sean delegadas y aquéllas que les correspondan por suplencia, así como realizar los actos que les instruya su superior; V. Aplicar los procedimientos sistemáticos operativos contenidos en los manuales correspondientes;
+IV. Ejercer las facultades que les sean delegadas y aquéllas que les correspondan por suplencia, así como realizar los actos que les instruya su superior;
+
+V. Aplicar los procedimientos sistemáticos operativos contenidos en los manuales correspondientes;
 
 VI. Formular dictámenes, opiniones e informes, en el ámbito de su competencia, así como los que les sean solicitados por su superior jerárquico;
 

@@ -17,7 +17,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 35
 
-Corresponde a la Coordinación de Operaciones Especiales: I. Garantizar el cumplimiento de las órdenes emanadas del superior jerárquico, tendientes a salvaguardar la integridad de las personas y restablecer la paz y el orden públicos, en apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a las garantías individuales y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos;
+Corresponde a la Coordinación de Operaciones Especiales:
+
+I. Garantizar el cumplimiento de las órdenes emanadas del superior jerárquico, tendientes a salvaguardar la integridad de las personas y restablecer la paz y el orden públicos, en apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a las garantías individuales y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Supervisar el cumplimiento de las órdenes de aprehensión y demás mandatos ministeriales o jurisdiccionales que se soliciten;
 
@@ -41,4 +43,6 @@ XI. Asegurar que el personal bajo su mando, que participe en operativos o accion
 
 XII. Mantener informado al Jefe de su División sobre las acciones realizadas por el personal bajo su mando;
 
-XIII. Proponer al Jefe de su División la suscripción de convenios de coordinación y colaboración con autoridades federales, de las entidades federativas o municipales, para el ejercicio de sus funciones, y XIV. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
+XIII. Proponer al Jefe de su División la suscripción de convenios de coordinación y colaboración con autoridades federales, de las entidades federativas o municipales, para el ejercicio de sus funciones, y
+
+XIV. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

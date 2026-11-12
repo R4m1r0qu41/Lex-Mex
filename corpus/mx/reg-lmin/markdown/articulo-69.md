@@ -33,6 +33,8 @@ Asimismo, deberán entregar a la Secretaría el informe técnico a que hace refe
 
 I. Nombre del titular de la concesión o de quien lleve a cabo estas obras y trabajos mediante contrato;
 
-II. Nombre del lote y número de título o listado de los lotes pertenecientes a un agrupamiento; III. Situación del lote antes de iniciar las obras y trabajos mineros, y
+II. Nombre del lote y número de título o listado de los lotes pertenecientes a un agrupamiento;
+
+III. Situación del lote antes de iniciar las obras y trabajos mineros, y
 
 IV. Descripción genérica de las obras y trabajos ejecutados.

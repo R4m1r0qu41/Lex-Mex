@@ -208,21 +208,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:48-bis:term-usage:3107-3129",
+    "id": "urn:lex-mx:federal:statute:lft:article:48-bis:term-usage:3108-3130",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:48-bis",
     "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
     "span": "Centro de Conciliación",
-    "start_char": 3107,
-    "end_char": 3129
+    "start_char": 3108,
+    "end_char": 3130
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:48-bis:term-usage:3135-3143",
+    "id": "urn:lex-mx:federal:statute:lft:article:48-bis:term-usage:3136-3144",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:48-bis",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 3135,
-    "end_char": 3143
+    "start_char": 3136,
+    "end_char": 3144
   },
   {
     "schema_version": "0.1.0",
@@ -343,12 +343,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:132:term-usage:2435-2447",
+    "id": "urn:lex-mx:federal:statute:lft:article:132:term-usage:2436-2448",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:132",
     "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
     "span": "Constitución",
-    "start_char": 2435,
-    "end_char": 2447
+    "start_char": 2436,
+    "end_char": 2448
   },
   {
     "schema_version": "0.1.0",
@@ -415,12 +415,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:176:term-usage:3096-3108",
+    "id": "urn:lex-mx:federal:statute:lft:article:176:term-usage:3097-3109",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:176",
     "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
     "span": "Constitución",
-    "start_char": 3096,
-    "end_char": 3108
+    "start_char": 3097,
+    "end_char": 3109
   },
   {
     "schema_version": "0.1.0",
@@ -496,12 +496,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:331-ter:term-usage:1727-1739",
+    "id": "urn:lex-mx:federal:statute:lft:article:331-ter:term-usage:1728-1740",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:331-ter",
     "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
     "span": "Constitución",
-    "start_char": 1727,
-    "end_char": 1739
+    "start_char": 1728,
+    "end_char": 1740
   },
   {
     "schema_version": "0.1.0",
@@ -829,12 +829,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:424:term-usage:602-612",
+    "id": "urn:lex-mx:federal:statute:lft:article:424:term-usage:603-613",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:424",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunales",
-    "start_char": 602,
-    "end_char": 612
+    "start_char": 603,
+    "end_char": 613
   },
   {
     "schema_version": "0.1.0",
@@ -946,12 +946,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:435:term-usage:788-796",
+    "id": "urn:lex-mx:federal:statute:lft:article:435:term-usage:789-797",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:435",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 788,
-    "end_char": 796
+    "start_char": 789,
+    "end_char": 797
   },
   {
     "schema_version": "0.1.0",
@@ -1531,102 +1531,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:3374-3396",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:3375-3397",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
     "span": "Autoridad Conciliadora",
-    "start_char": 3374,
-    "end_char": 3396
+    "start_char": 3375,
+    "end_char": 3397
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:4123-4145",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:4124-4146",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
     "span": "Autoridad Conciliadora",
-    "start_char": 4123,
-    "end_char": 4145
+    "start_char": 4124,
+    "end_char": 4146
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:5445-5467",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:5446-5468",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
     "span": "Autoridad Conciliadora",
-    "start_char": 5445,
-    "end_char": 5467
+    "start_char": 5446,
+    "end_char": 5468
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:5614-5622",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:5615-5623",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 5614,
-    "end_char": 5622
+    "start_char": 5615,
+    "end_char": 5623
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6312-6335",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6313-6336",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
     "span": "Centros de Conciliación",
-    "start_char": 6312,
-    "end_char": 6335
+    "start_char": 6313,
+    "end_char": 6336
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6614-6622",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6615-6623",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 6614,
-    "end_char": 6622
+    "start_char": 6615,
+    "end_char": 6623
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6669-6694",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6670-6695",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
     "span": "Autoridades Conciliadoras",
-    "start_char": 6669,
-    "end_char": 6694
+    "start_char": 6670,
+    "end_char": 6695
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6944-6966",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6945-6967",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
     "span": "Centro de Conciliación",
-    "start_char": 6944,
-    "end_char": 6966
+    "start_char": 6945,
+    "end_char": 6967
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:7897-7919",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:7898-7920",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
     "span": "Centro de Conciliación",
-    "start_char": 7897,
-    "end_char": 7919
+    "start_char": 7898,
+    "end_char": 7920
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:8045-8067",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:8046-8068",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
     "span": "Centro de Conciliación",
-    "start_char": 8045,
-    "end_char": 8067
+    "start_char": 8046,
+    "end_char": 8068
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:8176-8198",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:8177-8199",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
     "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
     "span": "Autoridad Conciliadora",
-    "start_char": 8176,
-    "end_char": 8198
+    "start_char": 8177,
+    "end_char": 8199
   },
   {
     "schema_version": "0.1.0",
@@ -1684,12 +1684,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:684-o:term-usage:477-499",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-o:term-usage:478-500",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:684-o",
     "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
     "span": "Centro de Conciliación",
-    "start_char": 477,
-    "end_char": 499
+    "start_char": 478,
+    "end_char": 500
   },
   {
     "schema_version": "0.1.0",
@@ -1846,12 +1846,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:692:term-usage:401-409",
+    "id": "urn:lex-mx:federal:statute:lft:article:692:term-usage:402-410",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:692",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 401,
-    "end_char": 409
+    "start_char": 402,
+    "end_char": 410
   },
   {
     "schema_version": "0.1.0",
@@ -2116,21 +2116,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:707-bis:term-usage:1708-1716",
+    "id": "urn:lex-mx:federal:statute:lft:article:707-bis:term-usage:1709-1717",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:707-bis",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 1708,
-    "end_char": 1716
+    "start_char": 1709,
+    "end_char": 1717
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:707-bis:term-usage:2899-2907",
+    "id": "urn:lex-mx:federal:statute:lft:article:707-bis:term-usage:2900-2908",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:707-bis",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 2899,
-    "end_char": 2907
+    "start_char": 2900,
+    "end_char": 2908
   },
   {
     "schema_version": "0.1.0",
@@ -4654,39 +4654,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:1742-1750",
+    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:1743-1751",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:931",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 1742,
-    "end_char": 1750
+    "start_char": 1743,
+    "end_char": 1751
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:2362-2370",
+    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:2363-2371",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:931",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 2362,
-    "end_char": 2370
+    "start_char": 2363,
+    "end_char": 2371
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:2607-2615",
+    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:2608-2616",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:931",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 2607,
-    "end_char": 2615
+    "start_char": 2608,
+    "end_char": 2616
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:2998-3006",
+    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:2999-3007",
     "provision_id": "urn:lex-mx:federal:statute:lft:article:931",
     "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
     "span": "Tribunal",
-    "start_char": 2998,
-    "end_char": 3006
+    "start_char": 2999,
+    "end_char": 3007
   },
   {
     "schema_version": "0.1.0",

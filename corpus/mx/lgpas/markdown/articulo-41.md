@@ -45,4 +45,6 @@ XII. La recolección del medio natural de reproductores;
 
 XIII. La introducción y la repoblación de especies vivas en cuerpos de agua de jurisdicción federal;
 
-XIV. La descarga en puertos extranjeros o el trasbordo de especies capturadas por embarcaciones pesqueras de bandera mexicana, y XV. El desembarque de productos pesqueros comerciales en cualquier presentación en puertos mexicanos, por embarcaciones pesqueras extranjeras.
+XIV. La descarga en puertos extranjeros o el trasbordo de especies capturadas por embarcaciones pesqueras de bandera mexicana, y
+
+XV. El desembarque de productos pesqueros comerciales en cualquier presentación en puertos mexicanos, por embarcaciones pesqueras extranjeras.

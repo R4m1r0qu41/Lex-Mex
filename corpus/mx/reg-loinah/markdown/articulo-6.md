@@ -21,7 +21,9 @@ A la Secretaría Administrativa están adscritas:
 
 I. La Coordinación Nacional de Desarrollo Institucional;
 
-II. La Coordinación Nacional de Recursos Financieros; III. La Coordinación Nacional de Recursos Humanos;
+II. La Coordinación Nacional de Recursos Financieros;
+
+III. La Coordinación Nacional de Recursos Humanos;
 
 IV. La Coordinación Nacional de Recursos Materiales y Servicios, y
 

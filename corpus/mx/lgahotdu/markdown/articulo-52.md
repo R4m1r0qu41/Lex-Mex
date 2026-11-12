@@ -27,7 +27,9 @@ III. La celebración de convenios y acuerdos de coordinación con las dependenci
 
 IV. La adquisición, asignación o destino de inmuebles por parte del sector público;
 
-V. La construcción de vivienda adecuada, infraestructura y equipamiento de los Centros de Población; VI. La regularización de la tenencia de la tierra urbana y de las construcciones;
+V. La construcción de vivienda adecuada, infraestructura y equipamiento de los Centros de Población;
+
+VI. La regularización de la tenencia de la tierra urbana y de las construcciones;
 
 VII. La compatibilidad de los servicios públicos y la infraestructura de telecomunicaciones y de radiodifusión, en cualquier uso de suelo, para zonas urbanizables y no urbanizables;
 

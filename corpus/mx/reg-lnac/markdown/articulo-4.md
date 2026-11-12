@@ -23,6 +23,8 @@ I.- Copia certificada expedida por la oficina del registro civil mexicano del ac
 
 II.- Copia certificada expedida por la oficina del registro civil mexicano del acta de nacimiento de un hermano mayor, si nació en territorio nacional y fue registrado dentro del primer año de edad;
 
-III.- Copia certificada expedida por la oficina del registro civil mexicano del acta de nacimiento del padre o madre mexicano, si fueron registrados durante el primer año de edad; IV.- Constancia expedida por la autoridad migratoria, de la fecha de internación al país del padre o de la madre extranjeros, si esto ocurrió antes de la fecha de nacimiento del interesado, o
+III.- Copia certificada expedida por la oficina del registro civil mexicano del acta de nacimiento del padre o madre mexicano, si fueron registrados durante el primer año de edad;
+
+IV.- Constancia expedida por la autoridad migratoria, de la fecha de internación al país del padre o de la madre extranjeros, si esto ocurrió antes de la fecha de nacimiento del interesado, o
 
 V.- Cotejo notarial de la partida religiosa, si dicho acto se realizó durante el primer año de edad y en territorio nacional.

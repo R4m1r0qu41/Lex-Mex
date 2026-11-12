@@ -31,7 +31,9 @@ V. Llevar el registro de licencias, exámenes médicos, capacidades del personal
 
 VI. Llevar el control y asignación de las tripulaciones, personal de tierra y aeronaves;
 
-VII. Proponer el programa de adquisición de equipamiento y soporte terrestre que permitan la operación continua de las aeronaves; VIII. Realizar la planeación, despacho, control y seguimiento de las operaciones aéreas;
+VII. Proponer el programa de adquisición de equipamiento y soporte terrestre que permitan la operación continua de las aeronaves;
+
+VIII. Realizar la planeación, despacho, control y seguimiento de las operaciones aéreas;
 
 IX. Garantizar el cumplimiento de los procedimientos sistemáticos de operación aérea;
 

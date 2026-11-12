@@ -29,4 +29,6 @@ IV. Publicación: la reproducción en medios electrónicos o impresos de informa
 
 V. Recomendaciones: las opiniones, propuestas, sugerencias, comentarios, y otros actos que emite el Instituto;
 
-VI. Recursos públicos: los recursos humanos, financieros y materiales con que cuenta una dependencia, entidad o cualquier otro órgano federal, y que utiliza para alcanzar sus objetivos y producir los bienes o prestar los servicios que son de su competencia, y VII. Servidores públicos habilitados: los servidores públicos que pueden recibir y dar trámite a las solicitudes de acceso a la información, a los datos personales y a la corrección de éstos, en unidades administrativas distintas a la Unidad de Enlace de una dependencia o entidad.
+VI. Recursos públicos: los recursos humanos, financieros y materiales con que cuenta una dependencia, entidad o cualquier otro órgano federal, y que utiliza para alcanzar sus objetivos y producir los bienes o prestar los servicios que son de su competencia, y
+
+VII. Servidores públicos habilitados: los servidores públicos que pueden recibir y dar trámite a las solicitudes de acceso a la información, a los datos personales y a la corrección de éstos, en unidades administrativas distintas a la Unidad de Enlace de una dependencia o entidad.

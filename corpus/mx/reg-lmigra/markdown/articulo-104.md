@@ -35,7 +35,9 @@ b) Cuando se requiera su intervención para reconocimiento o recuperación de ca
 
 c) Cuando peligre la vida de la persona extranjera por violencia o por desastre natural y el hecho se compruebe fehacientemente, o
 
-d) Que tenga invitación de una dependencia o entidad de la Administración Pública Federal, estatal o municipal emitida por interés público para apoyar en acciones de auxilio o rescate en situaciones de emergencia o desastre en el territorio nacional. VI. Que forme parte de un proyecto de investigación científica o recolección de muestras en el territorio nacional o aguas jurisdiccionales del país, previa obtención de las autorizaciones de las autoridades nacionales competentes;
+d) Que tenga invitación de una dependencia o entidad de la Administración Pública Federal, estatal o municipal emitida por interés público para apoyar en acciones de auxilio o rescate en situaciones de emergencia o desastre en el territorio nacional.
+
+VI. Que forme parte de un proyecto de investigación científica o recolección de muestras en el territorio nacional o aguas jurisdiccionales del país, previa obtención de las autorizaciones de las autoridades nacionales competentes;
 
 VII. Que sea cónyuge, concubina o concubinario o figura equivalente, niña, niño o adolescente que esté bajo su representación legal o mayor de edad que se encuentre en estado de interdicción y esté bajo representación legal, hijo de persona extranjera titular de una visa de visitante sin permiso para realizar actividades remuneradas o de visitante con permiso para realizar actividades remuneradas;
 

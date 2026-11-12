@@ -43,7 +43,9 @@ VII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras q
 
 VIII. No padecer alcoholismo;
 
-IX. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; X. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
+IX. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+
+X. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público;
 
 XI. Cumplir con los deberes establecidos en esta ley, y demás disposiciones que deriven de ésta;
 
@@ -83,6 +85,8 @@ XII. No estar suspendido o inhabilitado, ni haber sido destituido por resolució
 
 XIII. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días;
 
-XIV. Abstenerse de incurrir en cualquier acto u omisión que afecte la prestación del servicio; XV. No incurrir en actos u omisiones que causen la pérdida de confianza, y
+XIV. Abstenerse de incurrir en cualquier acto u omisión que afecte la prestación del servicio;
+
+XV. No incurrir en actos u omisiones que causen la pérdida de confianza, y
 
 XVI. Las demás que establezcan las disposiciones legales aplicables.

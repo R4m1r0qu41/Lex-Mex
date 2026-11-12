@@ -27,7 +27,9 @@ III. Proporcionar orientación jurídica a los miembros de la comunidad para el 
 
 IV. Establecer mecanismos de coordinación y concertación con los sectores público, social y privado, en relación con las acciones de la Procuraduría en beneficio de la comunidad;
 
-V. Promover e impulsar acciones institucionales a efecto de facilitar a la comunidad el acceso a los servicios de la Procuraduría; VI. Coordinar, supervisar y evaluar el Sistema de Servicio Social, con el apoyo de las unidades administrativas de la Procuraduría;
+V. Promover e impulsar acciones institucionales a efecto de facilitar a la comunidad el acceso a los servicios de la Procuraduría;
+
+VI. Coordinar, supervisar y evaluar el Sistema de Servicio Social, con el apoyo de las unidades administrativas de la Procuraduría;
 
 VII. Brindar información general sobre las atribuciones y servicios de la Procuraduría, así como recoger las opiniones de la población en torno a la procuración de justicia;
 

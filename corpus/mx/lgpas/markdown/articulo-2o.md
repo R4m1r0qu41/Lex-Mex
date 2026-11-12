@@ -21,7 +21,9 @@ Son objetivos de esta Ley:
 
 I. Establecer y definir los principios para ordenar, fomentar y regular el manejo integral y el aprovechamiento sustentable de la pesca y la acuacultura, considerando los aspectos sociales, tecnológicos, productivos, biológicos y ambientales;
 
-II. Promover el mejoramiento de la calidad de vida de los pescadores y acuicultores del país a través de los programas que se instrumenten para el sector pesquero y acuícola; III. Establecer las bases para la ordenación, conservación, la protección, la repoblación y el aprovechamiento sustentable de los recursos pesqueros y acuícolas, así como la protección y rehabilitación de los ecosistemas en que se encuentran dichos recursos;
+II. Promover el mejoramiento de la calidad de vida de los pescadores y acuicultores del país a través de los programas que se instrumenten para el sector pesquero y acuícola;
+
+III. Establecer las bases para la ordenación, conservación, la protección, la repoblación y el aprovechamiento sustentable de los recursos pesqueros y acuícolas, así como la protección y rehabilitación de los ecosistemas en que se encuentran dichos recursos;
 
 IV. Fijar las normas básicas para planear y regular el aprovechamiento de los recursos pesqueros y acuícolas, en medios o ambientes seleccionados, controlados, naturales, acondicionados o artificiales, ya sea que realicen el ciclo biológico parcial o completo, en aguas marinas, continentales o salobres, así como en terrenos del dominio público o de propiedad privada;
 

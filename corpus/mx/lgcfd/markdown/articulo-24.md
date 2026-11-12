@@ -23,7 +23,9 @@ I. Vigilar el cumplimiento de las disposiciones legales, así como de las reglam
 
 II. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al sistema de control y evaluación gubernamental;
 
-III. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuesto de la [CONADE](articulo-4.md); IV. Vigilar que la CONADE conduzca sus actividades conforme al Programa Sectorial correspondiente, así como que cumpla con lo previsto en el programa institucional;
+III. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuesto de la [CONADE](articulo-4.md);
+
+IV. Vigilar que la CONADE conduzca sus actividades conforme al Programa Sectorial correspondiente, así como que cumpla con lo previsto en el programa institucional;
 
 V. Promover y vigilar que la CONADE establezca indicadores básicos de gestión en materia de operación, productividad, financieros y de impacto social, que permitan medir y evaluar su desempeño;
 
@@ -57,4 +59,6 @@ XVIII. Solicitar a la Junta Directiva o al Director General la información que 
 
 XIX. Solicitar información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Función Pública le asigne específicamente;
 
-XX. Rendir anualmente a la Junta Directiva un informe sobre los estados financieros, con base en el dictamen de los auditores externos, y XXI. Las demás inherentes a su función y las que le señale expresamente la Secretaría de la Función Pública, en el ámbito de su competencia.
+XX. Rendir anualmente a la Junta Directiva un informe sobre los estados financieros, con base en el dictamen de los auditores externos, y
+
+XXI. Las demás inherentes a su función y las que le señale expresamente la Secretaría de la Función Pública, en el ámbito de su competencia.

@@ -29,6 +29,8 @@ III. Que la persona a proteger no esté motivado por interés distinto que el de
 
 IV. Que las [Medidas de Protección](articulo-2.md) sean las idóneas para garantizar la seguridad de la persona.
 
-V. Las obligaciones legales que tenga la persona con terceros. VI. Los antecedentes penales que tuviere.
+V. Las obligaciones legales que tenga la persona con terceros.
+
+VI. Los antecedentes penales que tuviere.
 
 VII. Que la admisión de la persona, no sea un factor que afecte la seguridad del Programa, del [Centro](articulo-2.md) o de la [Fiscalía General](articulo-2.md). Fracción reformada DOF 20-05-2021

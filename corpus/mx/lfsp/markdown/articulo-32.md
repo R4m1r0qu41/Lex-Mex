@@ -77,7 +77,9 @@ XX. Instruir e inspeccionar que el personal operativo utilice obligatoriamente l
 
 XXI. Reportar por escrito a la Dirección General, dentro de los tres días hábiles siguientes, el robo, pérdida o destrucción de documentación propia de la empresa o de identificación de su personal, anexando copia de las constancias que acrediten los hechos;
 
-XXII. Mantener en estricta confidencialidad, la información relacionada con el servicio; XXIII. Comunicar por escrito a la Dirección General, dentro de los tres días hábiles siguientes a que ocurra, cualquier suspensión de actividades y las causas de ésta;
+XXII. Mantener en estricta confidencialidad, la información relacionada con el servicio;
+
+XXIII. Comunicar por escrito a la Dirección General, dentro de los tres días hábiles siguientes a que ocurra, cualquier suspensión de actividades y las causas de ésta;
 
 XXIV. Comunicar por escrito a la Dirección General, todo mandamiento de autoridad que impida la libre disposición de sus bienes, en los cinco días hábiles siguientes a su notificación;
 

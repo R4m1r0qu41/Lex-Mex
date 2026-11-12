@@ -7,8 +7,8 @@ provision_type: article
 number: "126"
 aliases: ["LGV — Artículo 126"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -31,6 +31,6 @@ VI. Dar seguimiento a las solicitudes que plantee ante la autoridad ejecutiva o 
 
 VII. Utilizar todos los mecanismos nacionales e internacionales para que de manera eficaz y oportuna, se busque fincar las responsabilidades administrativas, civiles o penales por graves violaciones a derechos humanos, y
 
-VIII. Recomendar las reparaciones a favor de las víctimas de violaciones a los derechos humanos con base en los estándares y elementos establecidos en la presente Ley.
+VIII. Recomendar las reparaciones a favor de las víctimas de violaciones a los derechos humanos con base en los estándares y elementos establecidos en la presente [Ley](articulo-6.md).
 
 Artículo reformado DOF 03-05-2013

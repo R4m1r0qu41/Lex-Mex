@@ -27,7 +27,9 @@ III. Recibir, entregar y prestar las tareas, servicios, obras o trabajos aceptad
 
 IV. Atender y utilizar los mecanismos y sistemas de las plataformas digitales para el seguimiento de la conexión y de las horas laboradas, así como en su caso para la comunicación con la plataforma;
 
-V. En su caso, aportar los instrumentos necesarios para la correcta entrega de las tareas, servicios, obras o trabajos instruidos por el patrón; VI. Atender las políticas y mecanismos de protección de datos utilizados en el desempeño de sus actividades, así como las restricciones sobre su uso, y
+V. En su caso, aportar los instrumentos necesarios para la correcta entrega de las tareas, servicios, obras o trabajos instruidos por el patrón;
+
+VI. Atender las políticas y mecanismos de protección de datos utilizados en el desempeño de sus actividades, así como las restricciones sobre su uso, y
 
 VII. Conducirse con probidad, honradez y abstenerse de realizar prácticas de discriminación, violencia laboral, hostigamiento y acoso sexual u otros análogos, durante y con motivo del trabajo.
 

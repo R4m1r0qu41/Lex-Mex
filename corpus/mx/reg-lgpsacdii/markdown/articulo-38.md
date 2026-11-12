@@ -21,7 +21,9 @@ Medidas de seguridad en los diferentes espacios del Centro de Atención:
 
 Apartado A. En su entorno:
 
-a) Tipo 1, Tipo 2, Tipo 3 y Tipo 4: I. Revisar al menos una vez al año las paredes divisorias, si existieran, para detectar la aparición de fisuras, grietas, hundimientos, desplomes respecto a la vertical y desprendimientos de elementos fijados a ellas.
+a) Tipo 1, Tipo 2, Tipo 3 y Tipo 4:
+
+I. Revisar al menos una vez al año las paredes divisorias, si existieran, para detectar la aparición de fisuras, grietas, hundimientos, desplomes respecto a la vertical y desprendimientos de elementos fijados a ellas.
 
 Apartado B. En los espacios exteriores del Centro de Atención:
 
@@ -89,7 +91,9 @@ II. El diseño de las barandillas debe ser muy robusto, con pasamanos sin interr
 
 III. Se recomienda usar pisos de terrazo, grano pequeño, pulido y abrillantado, en aulas y pasillos; pisos antideslizantes en aseos, vestuarios y cocinas.
 
-d) Tipo 4: I. El acristalamiento será como mínimo de luna de 6 mm;
+d) Tipo 4:
+
+I. El acristalamiento será como mínimo de luna de 6 mm;
 
 II. Las puertas de las cabinas de los inodoros, de existir, deben permitir una discreta vigilancia desde el exterior y, sin dejar de tener cierre por el interior, permitir el desbloqueo desde fuera en casos de necesidad. Las hojas estarán separadas 18 cm del suelo;
 

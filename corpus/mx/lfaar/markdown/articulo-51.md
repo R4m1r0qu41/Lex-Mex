@@ -19,7 +19,9 @@ source_sha256: c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e
 
 Los Fondos de Aseguramiento, en su relación con los [Organismos Integradores](articulo-2o.md), tendrán las obligaciones siguientes:
 
-I. Aportar las cuotas periódicas que fije la Asamblea General de afiliados del Organismo Integrador para su sostenimiento, el costo de la prestación del servicio de Asesoría Técnica y Seguimiento de sus Operaciones y las aportaciones para el [Fondo de Protección](articulo-2o.md) y el [Fondo de Retención Común de Riesgos](articulo-2o.md), en los términos de esta Ley y de las disposiciones que de ella emanen; II. Proporcionar al Organismo Integrador la información y documentación que le requiera para efectos del cumplimiento de sus funciones establecidas en esta Ley;
+I. Aportar las cuotas periódicas que fije la Asamblea General de afiliados del Organismo Integrador para su sostenimiento, el costo de la prestación del servicio de Asesoría Técnica y Seguimiento de sus Operaciones y las aportaciones para el [Fondo de Protección](articulo-2o.md) y el [Fondo de Retención Común de Riesgos](articulo-2o.md), en los términos de esta Ley y de las disposiciones que de ella emanen;
+
+II. Proporcionar al Organismo Integrador la información y documentación que le requiera para efectos del cumplimiento de sus funciones establecidas en esta Ley;
 
 III. Cumplir con las estipulaciones contenidas en el contrato de afiliación o de prestación de servicios de Asesoría Técnica y Seguimiento de Operaciones, según se trate;
 

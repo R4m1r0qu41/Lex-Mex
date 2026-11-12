@@ -19,7 +19,9 @@ source_sha256: 7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe
 
 La Secretaría Ejecutiva estará presidida por la persona titular de la Secretaría de Cultura y coordinará los trabajos de la Comisión Intersecretarial del Sistema de Protección. Tendrá a su cargo:
 
-I. Organizar y fomentar la cooperación entre las dependencias y las entidades de la Administración Pública Federal que integran el Sistema de Protección; II. Llevar a cabo el seguimiento de las actividades desarrolladas por cada dependencia y entidad que participa en el Sistema de Protección;
+I. Organizar y fomentar la cooperación entre las dependencias y las entidades de la Administración Pública Federal que integran el Sistema de Protección;
+
+II. Llevar a cabo el seguimiento de las actividades desarrolladas por cada dependencia y entidad que participa en el Sistema de Protección;
 
 III. Elaborar y proponer modificaciones al Estatuto del Sistema de Protección y someterlo a la aprobación de las dependencias y entidades que participan en el mismo, que establezcan los procedimientos y protocolos de protección, defensa jurídica, registro y operación del Sistema;
 

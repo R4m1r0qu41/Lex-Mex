@@ -31,6 +31,8 @@ V. Detección de irregularidades y medidas de seguridad y alternativas para movi
 
 VI. Sellado del certificado zoosanitario, consignando el nombre del Punto de Verificación e Inspección Interna, la fecha, hora y nombre del personal oficial estatal;
 
-VII. Medidas zoosanitarias para el vehículo de transporte turístico, de pasajeros y privado; VIII. Servicios y tratamientos cuarentenarios en su caso, y
+VII. Medidas zoosanitarias para el vehículo de transporte turístico, de pasajeros y privado;
+
+VIII. Servicios y tratamientos cuarentenarios en su caso, y
 
 IX. Centro de lavado y desinfección zoosanitaria y requisitos y especificaciones en su caso.

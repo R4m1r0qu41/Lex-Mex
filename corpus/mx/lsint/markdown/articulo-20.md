@@ -21,6 +21,8 @@ Las [Fuerzas Armadas](articulo-4.md) sin perjuicio de las misiones que tienen as
 
 I. El Presidente de la República, a propuesta de los Secretarios de la Defensa Nacional y Marina, designará a un Comandante de las Fuerzas Armadas participantes, quien dirigirá los grupos interinstitucionales que se integren en términos del artículo [21](articulo-21.md);
 
-II. El Comandante designado en términos de la fracción anterior elaborará el protocolo de actuación para establecer responsabilidades, canales de comunicación y coordinación de las autoridades militares y civiles participantes; III. El protocolo contemplará la integración de grupos interinstitucionales, a fin de que cada uno lleve a cabo la misión que se les asigne con base en las atribuciones y responsabilidades que les correspondan, coordinadas por el Comandante, y
+II. El Comandante designado en términos de la fracción anterior elaborará el protocolo de actuación para establecer responsabilidades, canales de comunicación y coordinación de las autoridades militares y civiles participantes;
 
-IV. Las Fuerzas Armadas actuarán realizando las Acciones de [Seguridad Interior](articulo-4.md) previstas en la Declaratoria respectiva.
+III. El protocolo contemplará la integración de grupos interinstitucionales, a fin de que cada uno lleve a cabo la misión que se les asigne con base en las atribuciones y responsabilidades que les correspondan, coordinadas por el Comandante, y
+
+IV. Las Fuerzas Armadas actuarán realizando las [Acciones de Seguridad Interior](articulo-4.md) previstas en la Declaratoria respectiva.

@@ -7,8 +7,8 @@ provision_type: article
 number: "45"
 aliases: ["LGAMVLV — Artículo 45"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -37,7 +37,9 @@ VIII. Formular y aplicar programas que permitan la detección temprana de los pr
 
 IX. Establecer como un requisito de contratación a todo el personal de no contar con algún antecedente de violencia contra las mujeres;
 
-X. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres; XI. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las niñas y las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+X. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
+
+XI. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las niñas y las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 XII. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres.
 

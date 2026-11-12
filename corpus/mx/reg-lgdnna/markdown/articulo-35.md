@@ -23,7 +23,9 @@ I. La situación sociodemográfica de los derechos de niñas, niños y adolescen
 
 II. La situación de vulnerabilidad de las niñas, niños y adolescentes en términos de los artículos [10](../../lgdnna/markdown/articulo-10.md), [47](../../lgdnna/markdown/articulo-47.md) y demás disposiciones aplicables de la [Ley](articulo-2.md);
 
-III. La discapacidad de las niñas, niños y adolescentes en términos del artículo [55](../../lgdnna/markdown/articulo-55.md) de la Ley; IV. Los datos que permitan evaluar y monitorear la implementación y el cumplimiento de los mecanismos establecidos en la Ley y los indicadores que establezca el Programa Nacional;
+III. La discapacidad de las niñas, niños y adolescentes en términos del artículo [55](../../lgdnna/markdown/articulo-55.md) de la Ley;
+
+IV. Los datos que permitan evaluar y monitorear la implementación y el cumplimiento de los mecanismos establecidos en la Ley y los indicadores que establezca el Programa Nacional;
 
 V. La información que permita evaluar el cumplimiento de los derechos de niñas, niños y adolescentes contemplados en los Tratados Internacionales, la Ley y demás disposiciones jurídicas aplicables;
 

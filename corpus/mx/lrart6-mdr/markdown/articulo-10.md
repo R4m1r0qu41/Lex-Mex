@@ -29,6 +29,8 @@ III. Nombre, día y hora de la emisión o la página de publicación de la infor
 
 IV. Hechos que desea aclarar;
 
-V. Firma autógrafa original del promovente o de su representante legal, y VI. El texto con las aclaraciones respectivas por el que se rectifica la información replicada.
+V. Firma autógrafa original del promovente o de su representante legal, y
+
+VI. El texto con las aclaraciones respectivas por el que se rectifica la información replicada.
 
 El escrito deberá ir acompañado de copia de identificación oficial del promovente y, en su caso, del documento que acredite la personalidad jurídica del representante legal o el parentesco del afectado fallecido, o que se encuentre imposibilitado para ejercerlo por sí mismo.

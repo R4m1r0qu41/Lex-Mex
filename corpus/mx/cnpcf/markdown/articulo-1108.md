@@ -19,7 +19,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 Cuando conforme a lo previsto en este [Código Nacional](articulo-2.md), la persona acreedora hubiere optado por la administración de las fincas embargadas, se observará lo siguiente:
 
-I. La autoridad jurisdiccional mandará que se le haga entrega de ellas bajo el correspondiente inventario, y que se le dé a reconocer a las personas que el mismo acreedor designe; II. La persona acreedora y la persona deudora podrán establecer por acuerdos particulares las condiciones y término de la administración, forma y época de rendir las cuentas. Si así no lo hicieren se entenderá que las fincas han de ser administradas según la costumbre del lugar, debiendo el acreedor rendir cuentas cada seis meses;
+I. La autoridad jurisdiccional mandará que se le haga entrega de ellas bajo el correspondiente inventario, y que se le dé a reconocer a las personas que el mismo acreedor designe;
+
+II. La persona acreedora y la persona deudora podrán establecer por acuerdos particulares las condiciones y término de la administración, forma y época de rendir las cuentas. Si así no lo hicieren se entenderá que las fincas han de ser administradas según la costumbre del lugar, debiendo el acreedor rendir cuentas cada seis meses;
 
 III. Si las fincas fueren rústicas podrá la persona deudora intervenir las operaciones de la recolección;
 

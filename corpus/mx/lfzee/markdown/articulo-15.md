@@ -41,7 +41,9 @@ e) Promover que la autoridad competente participante en la Ventanilla Única res
 
 f) Ejercer, en los términos del acuerdo a que se refiere este artículo, las funciones anteriores respecto a las personas interesadas en instalar u operar empresas en las Áreas de Influencia;
 
-III. La adscripción o comisión en la Ventanilla Única, de servidores públicos de las autoridades competentes, con las atribuciones necesarias para resolver los trámites a que se refiere este artículo; IV. La prioridad en la resolución de trámites solicitados por Administradores Integrales, Inversionistas y empresarios en el Área de Influencia.
+III. La adscripción o comisión en la Ventanilla Única, de servidores públicos de las autoridades competentes, con las atribuciones necesarias para resolver los trámites a que se refiere este artículo;
+
+IV. La prioridad en la resolución de trámites solicitados por Administradores Integrales, Inversionistas y empresarios en el Área de Influencia.
 
 Esta preferencia de gestión no resultará en detrimento de los plazos de resolución de trámites de aquellos particulares distintos a los señalados en esta fracción, y
 

@@ -17,7 +17,7 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 16
 
-El Presidente y Secretario Ejecutivo de la Comisión tendrán las siguientes facultades:
+El Presidente y Secretario Ejecutivo de la [Comisión](articulo-3.md) tendrán las siguientes facultades:
 
 I. Formular y presentar a la Comisión el Programa Anual de Trabajo y los programas de acción;
 

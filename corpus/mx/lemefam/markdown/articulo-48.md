@@ -25,7 +25,7 @@ II. Suspender las actividades académicas sin motivo justificado;
 
 III. Difundir antes de su aplicación los exámenes o cualquier otro instrumento de evaluación;
 
-IV. Expedir certificados, constancias, diplomas, grados o títulos de estudios sin la autorización de la Dirección y Rectoría;
+IV. Expedir certificados, constancias, diplomas, grados o títulos de estudios sin la autorización de la [Dirección y Rectoría](articulo-2.md);
 
 V. Permitir o realizar actividades de publicidad o comercialización dentro de las Instituciones de Educación Militar de bienes o servicios notoriamente ajenos al proceso educativo, e
 

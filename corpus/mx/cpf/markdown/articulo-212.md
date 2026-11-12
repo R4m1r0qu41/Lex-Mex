@@ -33,7 +33,9 @@ Cuando el responsable tenga el carácter de particular, el juez deberá imponer 
 
 I.- Los daños y perjuicios patrimoniales causados por los actos u omisiones;
 
-II.- Las circunstancias socioeconómicas del responsable; III.- Las condiciones exteriores y los medios de ejecución, y
+II.- Las circunstancias socioeconómicas del responsable;
+
+III.- Las condiciones exteriores y los medios de ejecución, y
 
 IV.- El monto del beneficio que haya obtenido el responsable. Párrafo con fracciones adicionado DOF 18-07-2016
 

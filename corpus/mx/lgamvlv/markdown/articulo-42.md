@@ -7,8 +7,8 @@ provision_type: article
 number: "42"
 aliases: ["LGAMVLV — Artículo 42"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -23,7 +23,9 @@ I. Fungir como Secretaria Ejecutiva del [Sistema Nacional](articulo-5.md);
 
 II. Declarar la Alerta de Violencia de Género contra las Mujeres;
 
-III. Impulsar la incorporación de la perspectiva de género en la política nacional; IV. Elaborar el [Programa](articulo-5.md) en coordinación con las demás autoridades integrantes del Sistema Nacional;
+III. Impulsar la incorporación de la perspectiva de género en la política nacional;
+
+IV. Elaborar el [Programa](articulo-5.md) en coordinación con las demás autoridades integrantes del Sistema Nacional;
 
 V. Formular las bases para la coordinación entre las autoridades federales, locales, municipales y de las demarcaciones territoriales de la Ciudad de México para la prevención, atención, sanción y erradicación de las violencias hacia las mujeres;
 
@@ -51,7 +53,9 @@ XVI. Certificar a los Centros de Justicia para las Mujeres;
 
 XVII. Promover la elaboración de estudios complementarios sobre la violencia contra las mujeres, las adolescentes y las niñas;
 
-XVIII. Promover e instalar Unidades de Atención a víctimas de violencias de género contra las mujeres, adolescentes y niñas en cualquier parte del territorio nacional; XIX. Auxiliar a la persona titular del Ejecutivo Federal en la supervisión del Sistema Nacional y someter a su consideración el proyecto de informe a que se refiere el artículo [41](articulo-41.md), fracción XVII;
+XVIII. Promover e instalar Unidades de Atención a víctimas de violencias de género contra las mujeres, adolescentes y niñas en cualquier parte del territorio nacional;
+
+XIX. Auxiliar a la persona titular del Ejecutivo Federal en la supervisión del Sistema Nacional y someter a su consideración el proyecto de informe a que se refiere el artículo [41](articulo-41.md), fracción XVII;
 
 XX. Coordinarse con las autoridades competentes para atender los asuntos de carácter internacional relacionados con la política en materia del derecho a una vida libre de violencias de las mujeres, adolescentes y niñas;
 
@@ -73,7 +77,9 @@ XXVIII. Instrumentar un mecanismo de alerta temprana en casos de violencias cont
 
 XXIX. Establecer y coordinar el modelo de atención que se implementará en los Centros de Justicia para las Mujeres;
 
-XXX. Integrar, en el marco del Sistema Nacional, las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de las violencias en contra de las mujeres adolescentes y niñas, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes para la erradicación de las violencias; XXXI. Proponer a las autoridades encargadas de la aplicación de la presente [Ley](articulo-5.md), los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar las violencias contra las mujeres, las adolescentes y las niñas;
+XXX. Integrar, en el marco del Sistema Nacional, las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de las violencias en contra de las mujeres adolescentes y niñas, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes para la erradicación de las violencias;
+
+XXXI. Proponer a las autoridades encargadas de la aplicación de la presente [Ley](articulo-5.md), los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar las violencias contra las mujeres, las adolescentes y las niñas;
 
 XXXII. Coordinar con las instituciones del Sistema Nacional en el diseño y evaluación del modelo de atención a víctimas en los refugios;
 

@@ -39,7 +39,9 @@ IX. Velar por la vida e integridad física de las personas detenidas;
 
 X. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
 
-XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por su corporación; XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+XI. Utilizar los protocolos de investigación y de cadena de custodia adoptados por su corporación;
+
+XII. Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
 XIII. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
@@ -67,7 +69,9 @@ XXIV. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotróp
 
 XXV. Abstenerse de consumir en las instalaciones de sus instituciones o en actos del servicio, bebidas embriagantes;
 
-XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio; XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
+XXVI. Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
+
+XXVII. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
 
 XXVIII. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que el consumo de los medicamentos controlados, sea autorizado mediante prescripción médica, avalada y certificada por los servicios médicos de la Policía Federal;
 

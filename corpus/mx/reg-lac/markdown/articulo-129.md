@@ -21,7 +21,9 @@ La aeronave dedicada al transporte al público de personas pasajeras debe contar
 
 I. Los suministros médicos, situados en un lugar accesible, de acuerdo a lo señalado en las normas oficiales mexicanas correspondientes;
 
-II. Los extintores portátiles, en número, ubicación y con las características que establezcan las normas oficiales mexicanas correspondientes; III. El asiento o litera para cada persona mayor de dos años de edad, equipado cada uno con cinturón de seguridad y suministro de oxígeno, si el modelo de la aeronave así lo requiere, de conformidad con las normas oficiales mexicanas correspondientes o, a falta de éstas, con las disposiciones técnico-administrativas emitidas por la Agencia Federal de Aviación Civil; Fracción reformada DOF 21-01-2022, 31-05-2023
+II. Los extintores portátiles, en número, ubicación y con las características que establezcan las normas oficiales mexicanas correspondientes;
+
+III. El asiento o litera para cada persona mayor de dos años de edad, equipado cada uno con cinturón de seguridad y suministro de oxígeno, si el modelo de la aeronave así lo requiere, de conformidad con las normas oficiales mexicanas correspondientes o, a falta de éstas, con las disposiciones técnico-administrativas emitidas por la Agencia Federal de Aviación Civil; Fracción reformada DOF 21-01-2022, 31-05-2023
 
 IV. El arnés de seguridad para cada asiento del personal que integra a la tripulación, el cual debe incluir un dispositivo que sujete el torso de la persona; Fracción reformada DOF 31-05-2023
 

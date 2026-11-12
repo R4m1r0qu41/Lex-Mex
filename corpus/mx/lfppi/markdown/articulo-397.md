@@ -21,7 +21,9 @@ Una vez que el [Instituto](articulo-4.md) haya declarado una infracción adminis
 
 Para determinar el monto de la indemnización se tomará en cuenta la fecha en que se haya acreditado la infracción al derecho y, a elección de la persona titular afectada, cualquier indicador de valor legítimo presentado por ésta, incluyendo: Párrafo reformado DOF 03-04-2026
 
-I.- El valor de los productos o servicios infringidos calculados por el precio del mercado, o el precio sugerido para la venta al por menor; II.- Las utilidades que la persona titular hubiera dejado de percibir como consecuencia de la infracción; Fracción reformada DOF 03-04-2026
+I.- El valor de los productos o servicios infringidos calculados por el precio del mercado, o el precio sugerido para la venta al por menor;
+
+II.- Las utilidades que la persona titular hubiera dejado de percibir como consecuencia de la infracción; Fracción reformada DOF 03-04-2026
 
 III.- Las utilidades que haya obtenido la persona infractora como consecuencia de la infracción, o Fracción reformada DOF 03-04-2026
 

@@ -21,7 +21,9 @@ El servicio de transporte aéreo nacional no regular bajo la modalidad de fletam
 
 I. De paquete turístico o de excursión, cuando se comercializa al público con tarifas grupales o individuales, se realiza en viaje redondo y con tiempo predeterminado de estancia, incluye además los servicios turísticos a la persona pasajera de hospedaje y de transporte terrestre del aeropuerto al hotel y del hotel al aeropuerto;
 
-II. De traslado de un grupo de personas para eventos especiales, en viaje redondo y con estancia predeterminada, y III. De traslado de un grupo en viaje sencillo de ida, y con retorno sin personas pasajeras, o bien, redondo el mismo día.
+II. De traslado de un grupo de personas para eventos especiales, en viaje redondo y con estancia predeterminada, y
+
+III. De traslado de un grupo en viaje sencillo de ida, y con retorno sin personas pasajeras, o bien, redondo el mismo día.
 
 El servicio de transporte aéreo en grupo a que hacen referencia las fracciones II y III anteriores no pueden comercializarse a una sola persona pasajera y se pueden omitir los servicios turísticos a que se refiere la fracción I de este artículo, lo cual debe especificarse en el contrato respectivo.
 

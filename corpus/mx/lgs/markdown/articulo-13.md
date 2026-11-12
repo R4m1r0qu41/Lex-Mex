@@ -31,7 +31,9 @@ III Bis. La coordinación de las acciones de planeación de la creación, la sus
 
 IV. Promover, orientar, fomentar y apoyar las acciones en materia de salubridad general a cargo de los gobiernos de las entidades federativas, con sujeción a las políticas nacionales en la materia;
 
-V. Ejercer la acción extraordinaria en materia de salubridad general; VI. Promover y programar el alcance y las modalidades del Sistema Nacional de Salud y desarrollar las acciones necesarias para su consolidación y funcionamiento;
+V. Ejercer la acción extraordinaria en materia de salubridad general;
+
+VI. Promover y programar el alcance y las modalidades del Sistema Nacional de Salud y desarrollar las acciones necesarias para su consolidación y funcionamiento;
 
 VII. Coordinar el Sistema Nacional de Salud;
 

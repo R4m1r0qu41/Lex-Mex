@@ -31,7 +31,9 @@ V. Brindar información sobre sus atribuciones y servicios así como recoger las
 
 VI. Proporcionar orientación jurídica en el ámbito de su competencia;
 
-VII. Promover el intercambio y concertar acciones con las entidades federativas e instituciones locales, nacionales e internacionales de carácter público o privado para la cooperación y el fortalecimiento de acciones en materia de prevención y atención a ofendidos y víctimas del delito; VIII. Aprobar lineamientos y políticas victimológicas de atención multidisciplinaria e integral a los ofendidos y víctimas del delito con un enfoque de derechos humanos, protección a la infancia y perspectiva de género;
+VII. Promover el intercambio y concertar acciones con las entidades federativas e instituciones locales, nacionales e internacionales de carácter público o privado para la cooperación y el fortalecimiento de acciones en materia de prevención y atención a ofendidos y víctimas del delito;
+
+VIII. Aprobar lineamientos y políticas victimológicas de atención multidisciplinaria e integral a los ofendidos y víctimas del delito con un enfoque de derechos humanos, protección a la infancia y perspectiva de género;
 
 IX. Promover que se garantice y haga efectiva la reparación del daño en los procesos penales, de justicia para adolescentes y procedimiento de Extinción de Dominio, en el ámbito de su competencia;
 

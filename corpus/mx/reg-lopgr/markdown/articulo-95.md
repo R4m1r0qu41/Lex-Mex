@@ -25,7 +25,9 @@ II. Recibir y analizar las solicitudes de incorporación de una persona al Progr
 
 III. Ordenar la práctica de estudios psicológicos, clínicos y en general de todos aquellos que sean necesarios para garantizar la idoneidad de la incorporación de la persona al Programa Federal de Protección a Personas, así como para su permanencia;
 
-IV. En caso de ser procedente, autorizar la incorporación de la Persona propuesta al Programa Federal de Protección a Personas; V. Proponer al Procurador la celebración de actos, convenios, contratos y bases de colaboración inherentes al objeto del Programa Federal de Protección a Personas;
+IV. En caso de ser procedente, autorizar la incorporación de la Persona propuesta al Programa Federal de Protección a Personas;
+
+V. Proponer al Procurador la celebración de actos, convenios, contratos y bases de colaboración inherentes al objeto del Programa Federal de Protección a Personas;
 
 VI. Llevar el registro y expediente de las Personas incorporadas al Programa;
 

@@ -31,4 +31,6 @@ a) Las dimensiones establecidas en el Programa Nacional de Certificación;
 
 b) El equipamiento acorde a sus planes y programas de estudio y a los avances pedagógicos y tecnológicos, y
 
-c) Lo señalado en las fracciones III y IV del artículo [35](articulo-35.md) del presente Reglamento. III. Sustentable. Se otorgará a la INFE que además de cumplir con los aspectos señalados para los Certificados esencial y funcional, incorpore en la operación de su infraestructura, lo señalado en la fracción VI del artículo [35](articulo-35.md) del presente Reglamento.
+c) Lo señalado en las fracciones III y IV del artículo [35](articulo-35.md) del presente Reglamento.
+
+III. Sustentable. Se otorgará a la INFE que además de cumplir con los aspectos señalados para los Certificados esencial y funcional, incorpore en la operación de su infraestructura, lo señalado en la fracción VI del artículo [35](articulo-35.md) del presente Reglamento.

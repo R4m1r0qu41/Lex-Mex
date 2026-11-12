@@ -7,8 +7,8 @@ provision_type: article
 number: "19"
 aliases: ["LGDS — Artículo 19"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
 source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 ---
@@ -21,7 +21,9 @@ La [Política de Desarrollo Social](articulo-5.md) está conformada por: Párraf
 
 I. Los programas de educación obligatoria;
 
-II. Las campañas de prevención y control de enfermedades transmisibles y los programas de atención médica; III. Los programas dirigidos a las personas en condiciones de pobreza, marginación o en situación de vulnerabilidad;
+II. Las campañas de prevención y control de enfermedades transmisibles y los programas de atención médica;
+
+III. Los programas dirigidos a las personas en condiciones de pobreza, marginación o en situación de vulnerabilidad;
 
 IV. Los programas dirigidos a zonas de atención prioritaria;
 

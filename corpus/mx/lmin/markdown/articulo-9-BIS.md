@@ -7,8 +7,8 @@ provision_type: article
 number: "9 BIS"
 aliases: ["LMIN — Artículo 9 BIS"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf
 source_sha256: 22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746
 ---
@@ -35,7 +35,9 @@ VII. Dar a la pequeña y mediana minería, y al sector social, asesoría técnic
 
 VIII. Proporcionar el servicio de laboratorio y el estudio e interpretación de análisis químicos, físico- químicos, metalúrgicos y geológicos de muestras en estado sólido, líquido o gaseoso;
 
-IX. Aportar elementos de juicio a la Secretaría, con relación a la determinación de los minerales y sustancias materia de la concesión y la declaración o supresión de zonas de reserva minera; X. Coordinarse con otras entidades e instituciones públicas o privadas, nacionales o extranjeras, que realicen investigaciones geocientíficas;
+IX. Aportar elementos de juicio a la Secretaría, con relación a la determinación de los minerales y sustancias materia de la concesión y la declaración o supresión de zonas de reserva minera;
+
+X. Coordinarse con otras entidades e instituciones públicas o privadas, nacionales o extranjeras, que realicen investigaciones geocientíficas;
 
 XI. Prestar los servicios descritos en este artículo, dentro o fuera del territorio nacional, a personas físicas o morales, instituciones públicas o privadas, nacionales o extranjeras;
 

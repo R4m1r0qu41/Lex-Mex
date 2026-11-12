@@ -17,7 +17,9 @@ source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 
 # Artículo 5
 
-Los sujetos obligados deberán: I. Solicitar a la [Secretaría](articulo-2.md) su inscripción en el [Registro](articulo-2.md), previo al inicio de cualquiera de las Actividades Reguladas a que se refiere el artículo [2](articulo-2.md), fracción I, inciso a) de esta Ley;
+Los sujetos obligados deberán:
+
+I. Solicitar a la [Secretaría](articulo-2.md) su inscripción en el [Registro](articulo-2.md), previo al inicio de cualquiera de las [Actividades Reguladas](articulo-2.md) a que se refiere el artículo [2](articulo-2.md), fracción I, inciso a) de esta Ley;
 
 II. Una vez inscrito en el Registro, presentar, dentro de los plazos establecidos en la presente Ley, la declaración inicial y las declaraciones anuales ante la Secretaría;
 
@@ -39,7 +41,9 @@ X. Instalar y cerciorarse de que los vehículos, semirremolques, contenedores, c
 
 XI. Solicitar a la Secretaría la autorización de la [Instalación Única en Pequeña Escala](articulo-2.md) y de las instalaciones alternas a que se refiere la fracción IV del artículo [7](articulo-7.md) de la presente Ley;
 
-XII. Tramitar ante la autoridad competente, los permisos o autorizaciones de importación o exportación de las sustancias químicas del Listado Nacional, de conformidad con lo dispuesto en las disposiciones administrativas que para tal efecto emitan dichas autoridades, así como en los ordenamientos aplicables; XIII. Realizar las Actividades Reguladas, únicamente para fines no prohibidos por la [Convención](articulo-2.md) y la presente Ley;
+XII. Tramitar ante la autoridad competente, los permisos o autorizaciones de importación o exportación de las sustancias químicas del Listado Nacional, de conformidad con lo dispuesto en las disposiciones administrativas que para tal efecto emitan dichas autoridades, así como en los ordenamientos aplicables;
+
+XIII. Realizar las Actividades Reguladas, únicamente para fines no prohibidos por la [Convención](articulo-2.md) y la presente Ley;
 
 XIV. Informar a las autoridades competentes para autorizar, regular y controlar la entrada y salida de sustancias químicas del Listado Nacional del territorio de la República o de áreas bajo la jurisdicción del Estado mexicano, los datos relativos al Destino, Usuario y Uso Final de dichas sustancias, y
 

@@ -27,7 +27,9 @@ III. Incorporar a los niños y niñas en programas de medicina preventiva y/o ac
 
 IV. Proponer la celebración de los convenios de colaboración con las instancias públicas y privadas de diversa índole, con el propósito de garantizar la atención a los niños y niñas bajo la atención del Centro;
 
-V. Realizar los trámites administrativos necesarios con la Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes, a efecto de tener los antecedentes de cada niño y niña cuyo ingreso al Centro haya sido solicitado; VI. Practicar los estudios psicosociales a las personas que solicitan la adopción de un infante, a fin de someter la solicitud al Consejo Técnico del Centro;
+V. Realizar los trámites administrativos necesarios con la Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes, a efecto de tener los antecedentes de cada niño y niña cuyo ingreso al Centro haya sido solicitado;
+
+VI. Practicar los estudios psicosociales a las personas que solicitan la adopción de un infante, a fin de someter la solicitud al Consejo Técnico del Centro;
 
 VII. Coordinar con la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos de los servidores públicos adscritos a este Centro, así como en la presentación de las promociones y los recursos que deban interponerse;
 

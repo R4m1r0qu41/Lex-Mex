@@ -23,7 +23,9 @@ I. Personas armadas;
 
 II. Personas que porten distintivos gremiales o partidarios;
 
-III. Personas que porten objetos peligrosos o prohibidos; IV. Personas que no observen las disposiciones de orden o seguridad física o informática que se establezcan;
+III. Personas que porten objetos peligrosos o prohibidos;
+
+IV. Personas que no observen las disposiciones de orden o seguridad física o informática que se establezcan;
 
 V. Personas que puedan afectar la integridad de alguna de las partes, o de alguna persona citada para participar en la audiencia, y
 

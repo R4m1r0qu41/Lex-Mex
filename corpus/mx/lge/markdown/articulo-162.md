@@ -25,7 +25,9 @@ II. Nombre, denominación o razón social del titular de la autorización o del 
 
 III. El domicilio que señala para oír y recibir notificaciones y documentos y, en su caso, la designación de la persona o personas autorizadas para el mismo efecto;
 
-IV. Fecha en que se realizó la visita, así como el número de oficio de la orden de visita; V. Relación detallada de la documentación e información a exhibir que haga referencia a los términos que se revisaron durante la diligencia, indicando si la documentación se presenta en original, copia certificada o copia simple, asimismo, podrá realizar las manifestaciones o aclaraciones que considere pertinentes, y
+IV. Fecha en que se realizó la visita, así como el número de oficio de la orden de visita;
+
+V. Relación detallada de la documentación e información a exhibir que haga referencia a los términos que se revisaron durante la diligencia, indicando si la documentación se presenta en original, copia certificada o copia simple, asimismo, podrá realizar las manifestaciones o aclaraciones que considere pertinentes, y
 
 VI. El lugar, fecha y la firma autógrafa del titular de la autorización o del reconocimiento de validez oficial de estudios; tratándose de una persona moral, la de su representante legal. En caso de que el mismo, sea suscrito por una persona distinta, deberá agregar los documentos que acrediten su personalidad.
 

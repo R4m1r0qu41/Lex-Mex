@@ -7,8 +7,8 @@ provision_type: article
 number: "74"
 aliases: ["LGV — Artículo 74"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,9 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 74
 
-Las medidas de no repetición son aquéllas que se adoptan con el fin de evitar que las víctimas vuelvan a ser objeto de violaciones a sus derechos y para contribuir a prevenir o evitar la repetición de actos de la misma naturaleza. Estas consistirán en las siguientes: I. El ejercicio de un control efectivo por las autoridades civiles de las fuerzas armadas y de seguridad;
+Las medidas de no repetición son aquéllas que se adoptan con el fin de evitar que las víctimas vuelvan a ser objeto de violaciones a sus derechos y para contribuir a prevenir o evitar la repetición de actos de la misma naturaleza. Estas consistirán en las siguientes:
+
+I. El ejercicio de un control efectivo por las autoridades civiles de las fuerzas armadas y de seguridad;
 
 II. La garantía de que todos los procedimientos penales y administrativos se ajusten a las normas nacionales e internacionales relativas a la competencia, independencia e imparcialidad de las autoridades judiciales y a las garantías del debido proceso;
 

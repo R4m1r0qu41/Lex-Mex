@@ -17,7 +17,9 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 268
 
-Los gobiernos de las entidades federativas o los Organismos Auxiliares de Sanidad Animal, interesados en instalar y operar un punto de verificación e inspección interna, deberán cumplir con lo establecido en el presente Reglamento y las disposiciones de sanidad animal específicas. Para gestionar la autorización del punto se deberá presentar la siguiente documentación: I. Convenio o Acuerdo suscrito entre el gobierno de la entidad federativa y la Secretaría, en materia de movilización, con el cual la Secretaría autoriza al personal oficial estatal para realizar los actos de inspección y de autoridad, así como ordenar la aplicación de medidas cuarentenarias en los Puntos de Verificación e Inspección Interna;
+Los gobiernos de las entidades federativas o los Organismos Auxiliares de Sanidad Animal, interesados en instalar y operar un punto de verificación e inspección interna, deberán cumplir con lo establecido en el presente Reglamento y las disposiciones de sanidad animal específicas. Para gestionar la autorización del punto se deberá presentar la siguiente documentación:
+
+I. Convenio o Acuerdo suscrito entre el gobierno de la entidad federativa y la Secretaría, en materia de movilización, con el cual la Secretaría autoriza al personal oficial estatal para realizar los actos de inspección y de autoridad, así como ordenar la aplicación de medidas cuarentenarias en los Puntos de Verificación e Inspección Interna;
 
 II. Estatus zoosanitario publicado por la Secretaría de la entidad federativa, zona o región a proteger y la justificación técnica para instalar el Punto de Verificación e Inspección Interna;
 

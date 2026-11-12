@@ -29,7 +29,9 @@ IV. Las comisiones conferidas, incluidas las que no sean de las que normalmente 
 
 Cuando el militar desempeñe alguna comisión a las órdenes de algún Comandante, Director o Jefe diferente al de su adscripción, éste expedirá un certificado de la actuación de aquél y se anotará en la Hoja de Actuación un extracto del certificado, documento que se agregará al expediente;
 
-V. Los estudios acreditados por instituciones oficiales y los reconocidos por autoridades educativas, conforme a lo establecido en el Reglamento de esta Ley; VI. Los hechos meritorios en que el militar se distinga en alguna forma de la generalidad del personal, tales como participación en escritura y publicación de libros y artículos de relevancia, en la elaboración de proyectos de leyes o reglamentos o de reformas a éstos y en estudios sobre la milicia, así como los hechos distinguidos que haya ejecutado en campaña o acción de guerra, específicamente aquéllos que sean de los señalados en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos y su Reglamento o puedan equipararse a ellos;
+V. Los estudios acreditados por instituciones oficiales y los reconocidos por autoridades educativas, conforme a lo establecido en el Reglamento de esta Ley;
+
+VI. Los hechos meritorios en que el militar se distinga en alguna forma de la generalidad del personal, tales como participación en escritura y publicación de libros y artículos de relevancia, en la elaboración de proyectos de leyes o reglamentos o de reformas a éstos y en estudios sobre la milicia, así como los hechos distinguidos que haya ejecutado en campaña o acción de guerra, específicamente aquéllos que sean de los señalados en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos y su Reglamento o puedan equipararse a ellos;
 
 VII. Las campañas y acciones de guerra a que concurrió, expresando su duración y fijando las fechas en que tuvieron lugar, y los hechos de armas en que tomó parte, detallando su importancia militar, duración, intensidad y el mando que llevó o la comisión que desempeñó durante la acción;
 

@@ -19,7 +19,9 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 Para la atención de las solicitudes de regularización de situación migratoria que presenten las personas extranjeras titulares de un oficio de salida de la estación migratoria se observará el siguiente procedimiento:
 
-I. La solicitud deberá presentarse mediante el formato correspondiente ante la oficina de atención a trámites del Instituto que corresponda al domicilio de la persona extranjera; II. La persona extranjera deberá adjuntar al formato de solicitud, el oficio de salida de la estación migratoria y su pasaporte, documento de identidad y viaje o documento oficial expedido por autoridad de su país de origen;
+I. La solicitud deberá presentarse mediante el formato correspondiente ante la oficina de atención a trámites del Instituto que corresponda al domicilio de la persona extranjera;
+
+II. La persona extranjera deberá adjuntar al formato de solicitud, el oficio de salida de la estación migratoria y su pasaporte, documento de identidad y viaje o documento oficial expedido por autoridad de su país de origen;
 
 III. La oficina de atención a trámites no requerirá entrevistar a la persona extranjera o solicitar requisitos incluida la multa, puesto que dichos elementos se acreditaron en la estación migratoria.
 

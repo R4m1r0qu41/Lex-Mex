@@ -17,4 +17,4 @@ source_sha256: d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89
 
 # Artículo 32
 
-El titular de la autoridad coordinadora de las Acciones de [Seguridad Interior](articulo-4.md), mantendrá informado al Presidente de la República de las acciones realizadas, por conducto del titular de la Secretaría de Gobernación.
+El titular de la autoridad coordinadora de las [Acciones de Seguridad Interior](articulo-4.md), mantendrá informado al Presidente de la República de las acciones realizadas, por conducto del titular de la Secretaría de Gobernación.

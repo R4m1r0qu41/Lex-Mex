@@ -17,7 +17,9 @@ source_sha256: 3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d
 
 # Artículo 32
 
-La Reunión Nacional de Cultura se efectuará una vez al año, en la sede que designe la Secretaría de Cultura, para: I. Proponer directrices de política pública nacional sobre el objeto de la presente Ley;
+La Reunión Nacional de Cultura se efectuará una vez al año, en la sede que designe la Secretaría de Cultura, para:
+
+I. Proponer directrices de política pública nacional sobre el objeto de la presente Ley;
 
 II. Presentar propuestas de proyectos de trabajo entre las instituciones federales y las entidades federativas;
 

@@ -19,7 +19,9 @@ source_sha256: 1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291
 
 El fiduciario deberá publicar por medios electrónicos y por lo menos dentro de los treinta días naturales posteriores al cierre de cada trimestre calendario, previa aprobación del [Comité](articulo-2.md), un informe que contenga como mínimo lo siguiente:
 
-I. Un reporte sobre las actividades realizadas en el trimestre anterior y los principales resultados financieros. Dicho reporte deberá emplear indicadores o parámetros para la correcta y puntual medición de los resultados y estar vinculado a los objetivos y metas del [Fondo Mexicano del Petróleo](articulo-2.md); II. Los estados que muestren la situación financiera del Fondo Mexicano del Petróleo durante y a la fecha de cierre del ejercicio, sus cambios y resultados, así como la demás información que sea necesaria para completar o aclarar los datos suministrados con dichos estados;
+I. Un reporte sobre las actividades realizadas en el trimestre anterior y los principales resultados financieros. Dicho reporte deberá emplear indicadores o parámetros para la correcta y puntual medición de los resultados y estar vinculado a los objetivos y metas del [Fondo Mexicano del Petróleo](articulo-2.md);
+
+II. Los estados que muestren la situación financiera del Fondo Mexicano del Petróleo durante y a la fecha de cierre del ejercicio, sus cambios y resultados, así como la demás información que sea necesaria para completar o aclarar los datos suministrados con dichos estados;
 
 III. Los montos de las transferencias realizadas a la Tesorería de la Federación y a los fondos señalados en el Capítulo III de esta Ley;
 

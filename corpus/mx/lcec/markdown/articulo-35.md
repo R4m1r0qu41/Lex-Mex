@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 35
 
-Las Cámaras se disolverán:
+Las [Cámaras](articulo-2.md) se disolverán:
 
 I. Por acuerdo de la Asamblea General, que deberá ser convocada especialmente para este efecto;
 

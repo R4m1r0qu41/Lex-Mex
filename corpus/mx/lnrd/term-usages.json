@@ -28,21 +28,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:1222-1230",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:1223-1231",
     "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
     "span": "Registro",
-    "start_char": 1222,
-    "end_char": 1230
+    "start_char": 1223,
+    "end_char": 1231
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:1466-1474",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:2:term-usage:1467-1475",
     "provision_id": "urn:lex-mx:federal:statute:lnrd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lnrd:term:registro",
     "span": "Registro",
-    "start_char": 1466,
-    "end_char": 1474
+    "start_char": 1467,
+    "end_char": 1475
   },
   {
     "schema_version": "0.1.0",
@@ -523,21 +523,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnrd:article:23:term-usage:1546-1576",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:23:term-usage:1547-1577",
     "provision_id": "urn:lex-mx:federal:statute:lnrd:article:23",
     "term_id": "urn:lex-mx:federal:statute:lnrd:term:centro-nacional-de-informacion",
     "span": "Centro Nacional de Información",
-    "start_char": 1546,
-    "end_char": 1576
+    "start_char": 1547,
+    "end_char": 1577
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lnrd:article:23:term-usage:1652-1655",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:23:term-usage:1653-1656",
     "provision_id": "urn:lex-mx:federal:statute:lnrd:article:23",
     "term_id": "urn:lex-mx:federal:statute:lnrd:term:ley",
     "span": "Ley",
-    "start_char": 1652,
-    "end_char": 1655
+    "start_char": 1653,
+    "end_char": 1656
   },
   {
     "schema_version": "0.1.0",

@@ -21,6 +21,8 @@ La cuarta sección se llamará partición y contendrá:
 
 I. El proyecto de partición de los bienes, en el juicio testamentario de acuerdo a la voluntad del testador y en el caso del intestamentario, en términos de la declaratoria de herederos;
 
-II. Los incidentes que se promuevan respecto del proyecto a que se refiere la fracción anterior y su resolución; III. Los arreglos relativos, y
+II. Los incidentes que se promuevan respecto del proyecto a que se refiere la fracción anterior y su resolución;
+
+III. Los arreglos relativos, y
 
 IV. La resolución respecto a la aplicación de los bienes del proyecto de partición.

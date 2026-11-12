@@ -31,7 +31,9 @@ IV. Los estudios acreditados por instituciones oficiales y los reconocidos por a
 
 V. Las campañas y acciones de guerra en que haya tomado parte y los hechos de armas a que haya concurrido, señalando sus fechas de inicio y conclusión;
 
-VI. Los cargos desempeñados; VII. Las comisiones conferidas que no hayan sido de las que normalmente debió desempeñar el interesado conforme a su jerarquía;
+VI. Los cargos desempeñados;
+
+VII. Las comisiones conferidas que no hayan sido de las que normalmente debió desempeñar el interesado conforme a su jerarquía;
 
 VIII. Los hechos meritorios que consten en las Hojas de Actuación de los interesados;
 

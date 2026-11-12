@@ -19,7 +19,9 @@ source_sha256: ef712663724737ddfd8542c8104eeb983303f651b7cf8a76bba9d30539a7e6fa
 
 La [Tesorería](articulo-2.md), para el ejercicio de la función de vigilancia a que se refiere el [artículo anterior](articulo-52.md), tendrá las atribuciones siguientes:
 
-I. Efectuar auditorías, revisiones, reconocimientos de existencias y otros actos de vigilancia en los términos que establezca el [Reglamento](articulo-2.md); II. Realizar actos de vigilancia que tengan por objeto la revisión de los procesos, procedimientos y sistemas de control relativos a la recaudación, manejo, ejercicio, administración, inversión, pago, reintegro, y custodia de los recursos o valores de la propiedad o al cuidado del Gobierno Federal y, en general, de las [Funciones de tesorería](articulo-2.md), así como participar, en su caso, en los actos relativos al manejo de formas numeradas y valoradas conforme al Reglamento;
+I. Efectuar auditorías, revisiones, reconocimientos de existencias y otros actos de vigilancia en los términos que establezca el [Reglamento](articulo-2.md);
+
+II. Realizar actos de vigilancia que tengan por objeto la revisión de los procesos, procedimientos y sistemas de control relativos a la recaudación, manejo, ejercicio, administración, inversión, pago, reintegro, y custodia de los recursos o valores de la propiedad o al cuidado del Gobierno Federal y, en general, de las [Funciones de tesorería](articulo-2.md), así como participar, en su caso, en los actos relativos al manejo de formas numeradas y valoradas conforme al Reglamento;
 
 III. Solicitar y requerir la información y documentación que estime necesaria a los servidores públicos, a los [Auxiliares](articulo-2.md), a los particulares y demás sujetos relacionados con la recaudación, manejo, ejercicio, administración, inversión, pago, reintegro o custodia de recursos y valores de la propiedad o al cuidado del Gobierno Federal o, en general, con las Funciones de tesorería.
 

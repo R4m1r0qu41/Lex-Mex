@@ -39,7 +39,9 @@ IX. Presidente de la Cámara Nacional de Comercio;
 
 X. Presidente del Consejo Ciudadano de Seguridad Pública y Procuración de Justicia del Distrito Federal;
 
-XI. Académicos y representantes de instituciones públicas de educación superior; XII. Especialistas e Investigadores vinculados con el estudio de las áreas de procuración e impartición de justicia;
+XI. Académicos y representantes de instituciones públicas de educación superior;
+
+XII. Especialistas e Investigadores vinculados con el estudio de las áreas de procuración e impartición de justicia;
 
 XIII. Coordinador General del Instituto de Formación Profesional;
 

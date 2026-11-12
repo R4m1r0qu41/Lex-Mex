@@ -8,7 +8,7 @@ number: "2o"
 aliases: ["LCNP — Artículo 2o"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf
 source_sha256: b1de107a982a73c02c12c952586d16063c9fc51c8e1e29594924f24d0107395a
 ---

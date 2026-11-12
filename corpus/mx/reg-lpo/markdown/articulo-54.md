@@ -23,7 +23,9 @@ I. Señalar la congruencia de los programas y acciones relativas a la producció
 
 II. Precisar los programas, proyectos, acciones, obras y, en su caso, servicios de producción orgánica que deban ser ejecutados durante el ejercicio fiscal;
 
-III. Indicar las metas cuantitativas y cualitativas de los programas de producción orgánica, que deban ser ejecutados de manera coordinada; IV. En su caso, determinar los recursos que las partes deban aportar, señalando:
+III. Indicar las metas cuantitativas y cualitativas de los programas de producción orgánica, que deban ser ejecutados de manera coordinada;
+
+IV. En su caso, determinar los recursos que las partes deban aportar, señalando:
 
 a. La ubicación geográfica y, en su caso, las zonas de atención prioritaria donde serán utilizados;
 

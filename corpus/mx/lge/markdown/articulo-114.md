@@ -41,7 +41,9 @@ Las autoridades educativas locales participarán en la actualización e integrac
 
 X. Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar;
 
-XI. Vigilar y, en su caso, sancionar a las instituciones ubicadas en su entidad federativa que, sin estar incorporadas al Sistema Educativo Nacional, deban cumplir con las disposiciones de la presente Ley; XII. Garantizar la distribución oportuna, completa, amplia y eficiente, de los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría les proporcione;
+XI. Vigilar y, en su caso, sancionar a las instituciones ubicadas en su entidad federativa que, sin estar incorporadas al Sistema Educativo Nacional, deban cumplir con las disposiciones de la presente Ley;
+
+XII. Garantizar la distribución oportuna, completa, amplia y eficiente, de los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría les proporcione;
 
 XIII. Supervisar las condiciones de seguridad estructural y protección civil de los planteles educativos de sus entidades;
 

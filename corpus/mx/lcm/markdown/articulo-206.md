@@ -23,7 +23,9 @@ Durante este plazo podrán manifestar al juez por escrito su desacuerdo con la p
 
 I. El Comerciante;
 
-II. La quinta parte de los Acreedores Reconocidos; III. Los Acreedores Reconocidos que representen, en su conjunto, al menos el 20 por ciento del monto total de los créditos reconocidos, o
+II. La quinta parte de los Acreedores Reconocidos;
+
+III. Los Acreedores Reconocidos que representen, en su conjunto, al menos el 20 por ciento del monto total de los créditos reconocidos, o
 
 IV. Los Interventores que hayan sido designados por Acreedores Reconocidos que representen, en su conjunto, al menos el 20 por ciento del monto total de créditos reconocidos.
 

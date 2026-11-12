@@ -19,6 +19,8 @@ source_sha256: c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e
 
 Para formalizar el contrato de afiliación deberá cumplirse cuando menos con lo siguiente:
 
-I. Contar con el registro de la [Secretaría](articulo-2o.md), para operar como [Fondo de Aseguramiento](articulo-2o.md), y II. Exhibir acta de Asamblea del Fondo de Aseguramiento en la que se haya acordado la afiliación correspondiente.
+I. Contar con el registro de la [Secretaría](articulo-2o.md), para operar como [Fondo de Aseguramiento](articulo-2o.md), y
+
+II. Exhibir acta de Asamblea del Fondo de Aseguramiento en la que se haya acordado la afiliación correspondiente.
 
 La formalización de dicho contrato deberá efectuarse a más tardar dentro de los treinta días hábiles siguientes a la fecha en que se les haya notificado el registro para operar como Fondo de Aseguramiento.

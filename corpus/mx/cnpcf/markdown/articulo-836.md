@@ -27,4 +27,6 @@ III. Copia de sus estatutos vigentes, en caso de que haya habido modificaciones;
 
 IV. Certificación de las hojas de sus libros o equivalente, que identifique a sus socios y miembros integrantes del órgano de administración. En caso de no contar con libros, una certificación del órgano de administración con esa información;
 
-V. Resolución de la asamblea general de socios de la persona deudora o equivalente, en el sentido de iniciar el procedimiento, y VI. La persona deudora deberá acompañar un avalúo o una opinión de experto sobre el valor de los bienes muebles e inmuebles enlistados que puedan ser comercializados.
+V. Resolución de la asamblea general de socios de la persona deudora o equivalente, en el sentido de iniciar el procedimiento, y
+
+VI. La persona deudora deberá acompañar un avalúo o una opinión de experto sobre el valor de los bienes muebles e inmuebles enlistados que puedan ser comercializados.

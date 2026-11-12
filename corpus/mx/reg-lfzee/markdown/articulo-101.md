@@ -41,4 +41,6 @@ IX. Contratar al personal necesario que requiera para sus funciones, incluyendo 
 
 X. Obtener fondos, créditos, garantías y otros recursos financieros en el país o en el extranjero, para el desarrollo y operación de la Zona;
 
-XI. Convenir con los Inversionistas que para la solución de controversias, preferentemente, podrán someterse al arbitraje privado nacional o internacional, o a otros medios alternativos, en términos de las disposiciones jurídicas aplicables, y XII. Los demás que establezcan las disposiciones jurídicas aplicables.
+XI. Convenir con los Inversionistas que para la solución de controversias, preferentemente, podrán someterse al arbitraje privado nacional o internacional, o a otros medios alternativos, en términos de las disposiciones jurídicas aplicables, y
+
+XII. Los demás que establezcan las disposiciones jurídicas aplicables.

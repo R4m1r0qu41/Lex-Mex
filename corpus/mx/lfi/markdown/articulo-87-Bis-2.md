@@ -27,7 +27,9 @@ b) En el domicilio del interesado o de su representante, en términos de lo prev
 
 c) En cualquier lugar en el que se encuentre el interesado o su representante, en los supuestos establecidos en el artículo [87 Bis 7](articulo-87-Bis-7.md) de esta Ley;
 
-II. Mediante oficio entregado por mensajero o por correo certificado, ambos con acuse de recibo; III. Por edictos, en los supuestos señalados en el artículo [87 Bis 10](articulo-87-Bis-10.md) de esta Ley, y
+II. Mediante oficio entregado por mensajero o por correo certificado, ambos con acuse de recibo;
+
+III. Por edictos, en los supuestos señalados en el artículo [87 Bis 10](articulo-87-Bis-10.md) de esta Ley, y
 
 IV. Por medio electrónico, en el supuesto previsto en el artículo [87 Bis 11](articulo-87-Bis-11.md) de esta Ley.
 

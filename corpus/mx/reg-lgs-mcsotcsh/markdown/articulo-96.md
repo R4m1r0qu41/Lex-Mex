@@ -7,8 +7,8 @@ provision_type: article
 number: "96"
 aliases: ["REG-LGS-MCSOTCSH — Artículo 96"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf
 source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 ---
@@ -17,7 +17,9 @@ source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 
 # Artículo 96
 
-Los vehículos mencionados en la fracción VI del artículo [90](articulo-90.md) de este Reglamento, deberán reunir los siguientes requisitos: I.- Que su uso sea exclusivo para el traslado de cadáveres o sus partes;
+Los vehículos mencionados en la fracción VI del artículo [90](articulo-90.md) de este Reglamento, deberán reunir los siguientes requisitos:
+
+I.- Que su uso sea exclusivo para el traslado de cadáveres o sus partes;
 
 II.- Estar premanentemente (sic DOF 20-02-1985) aseados y desinfectados;
 

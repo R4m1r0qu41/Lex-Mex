@@ -7,8 +7,8 @@ provision_type: article
 number: "64"
 aliases: ["LGV — Artículo 64"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 64
 
-La compensación se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de la comisión de los delitos a los que se refiere el artículo [68](articulo-68.md) de este ordenamiento o de la violación de derechos humanos, incluyendo el error judicial, de conformidad con lo que establece esta Ley y su [Reglamento](articulo-6.md). Estos perjuicios, sufrimientos y pérdidas incluirán, entre otros y como mínimo:
+La compensación se otorgará por todos los perjuicios, sufrimientos y pérdidas económicamente evaluables que sean consecuencia de la comisión de los delitos a los que se refiere el artículo [68](articulo-68.md) de este ordenamiento o de la violación de derechos humanos, incluyendo el error judicial, de conformidad con lo que establece esta [Ley](articulo-6.md) y su [Reglamento](articulo-6.md). Estos perjuicios, sufrimientos y pérdidas incluirán, entre otros y como mínimo:
 
 I. La reparación del daño sufrido en la integridad física de la víctima;
 
@@ -29,7 +29,9 @@ IV. La pérdida de oportunidades, en particular las de educación y prestaciones
 
 V. Los daños patrimoniales generados como consecuencia de delitos o violaciones a derechos humanos;
 
-VI. El pago de los gastos y costas judiciales del [Asesor Jurídico](articulo-6.md) cuando éste sea privado; VII. El pago de los tratamientos médicos o terapéuticos que, como consecuencia del delito o de la violación a los derechos humanos, sean necesarios para la recuperación de la salud psíquica y física de la víctima, y
+VI. El pago de los gastos y costas judiciales del [Asesor Jurídico](articulo-6.md) cuando éste sea privado;
+
+VII. El pago de los tratamientos médicos o terapéuticos que, como consecuencia del delito o de la violación a los derechos humanos, sean necesarios para la recuperación de la salud psíquica y física de la víctima, y
 
 VIII. Los gastos comprobables de transporte, alojamiento, comunicación o alimentación que le ocasione trasladarse al lugar del juicio o para asistir a su tratamiento, si la víctima reside en municipio o delegación distintos al del enjuiciamiento o donde recibe la atención.
 

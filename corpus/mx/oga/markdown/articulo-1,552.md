@@ -30,7 +30,9 @@ IV.- La entrada al rancho de Aspirantes, será de $45. 00 por una sola vez y con
 
 V.- La entrada al rancho de Maquinistas y la cuota mensual, serán las mismas que quedan establecidas para los Aspirantes.
 
-VI.- En caso de desembarco o transbordo de un Jefe, Oficial, Aspirante o Maquinista, se le entregará en metálico lo que le corresponda de víveres, conforme a la existencia que arroje el libro respectivo en el día del desembarco o transbordo. VII.- Los vinos, licores, etc., del rancho de Oficiales, serán por cuenta de cada uno de ellos y nunca se embarcarán sin previo permiso y conocimiento del Comandante del buque.
+VI.- En caso de desembarco o transbordo de un Jefe, Oficial, Aspirante o Maquinista, se le entregará en metálico lo que le corresponda de víveres, conforme a la existencia que arroje el libro respectivo en el día del desembarco o transbordo.
+
+VII.- Los vinos, licores, etc., del rancho de Oficiales, serán por cuenta de cada uno de ellos y nunca se embarcarán sin previo permiso y conocimiento del Comandante del buque.
 
 VIII.- Los Cabos de rancho o los encargados de la vigilancia de los víveres en pañol, llevarán bajo su responsabilidad, un libro de entrada y salida diaria de efectos, el que será firmado de conformidad cada mes por todos los individuos del rancho respectivo.
 

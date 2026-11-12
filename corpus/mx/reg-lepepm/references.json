@@ -856,19 +856,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:53:reference:525-527:45:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lepepm:article:53:reference:526-528:45:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:53",
     "source_span": "45",
-    "start_char": 525,
-    "end_char": 527,
+    "start_char": 526,
+    "end_char": 528,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lepepm",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lepepm:article:45",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 529,
-        "end_char": 541
+        "start_char": 530,
+        "end_char": 542
       }
     ],
     "basis": "express_cross_reference",

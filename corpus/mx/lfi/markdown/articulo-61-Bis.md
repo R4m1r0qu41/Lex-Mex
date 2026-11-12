@@ -17,7 +17,9 @@ source_sha256: 77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d
 
 # Artículo 61 Bis
 
-Los estados de cuenta que envíen las sociedades o entidades que presten los servicios de distribución de acciones de fondos de inversión a sus clientes, deberán contener lo siguiente: I. La posición de las acciones de las cuales sea titular, valuada al último día del corte del período que corresponda y la del corte del período anterior;
+Los estados de cuenta que envíen las sociedades o entidades que presten los servicios de distribución de acciones de fondos de inversión a sus clientes, deberán contener lo siguiente:
+
+I. La posición de las acciones de las cuales sea titular, valuada al último día del corte del período que corresponda y la del corte del período anterior;
 
 II. Los movimientos del período que corresponda;
 

@@ -23,7 +23,9 @@ Cualquier interesado podrá solicitar información respecto de la cartografía m
 
 I. Se presentará la solicitud por escrito, señalando los datos específicos del lote o lotes respecto de los cuales se requiera información;
 
-II. La [Secretaría](articulo-1o.md) pondrá a disposición del interesado la información requerida, a partir de los quince días hábiles siguientes; III. Si se solicitan planos con información de la cartografía minera se deberá mencionar número y nombre de la carta topográfica [INEGI](articulo-1o.md) correspondiente, y
+II. La [Secretaría](articulo-1o.md) pondrá a disposición del interesado la información requerida, a partir de los quince días hábiles siguientes;
+
+III. Si se solicitan planos con información de la cartografía minera se deberá mencionar número y nombre de la carta topográfica [INEGI](articulo-1o.md) correspondiente, y
 
 IV. Los planos se entregarán al solicitante, dentro del plazo establecido en la fracción II de este artículo, contado a partir de la exhibición de la constancia del pago de derechos respectiva.
 

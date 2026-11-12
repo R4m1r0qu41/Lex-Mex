@@ -23,7 +23,9 @@ I. Determinar si el asunto que le corresponde conocer es susceptible de ser resu
 
 II. Conducir el mecanismo alternativo de solución de controversias conforme los principios y disposiciones de esta Ley y las demás disposiciones que expida el [Consejo](articulo-5.md) Nacional y a través de acuerdos generales los Consejos de la Judicatura Federal y locales;
 
-III. Verificar la identidad y personalidad de las partes y terceros relacionados; IV. Cumplir con los principios establecidos en esta Ley, en todos los asuntos que participen;
+III. Verificar la identidad y personalidad de las partes y terceros relacionados;
+
+IV. Cumplir con los principios establecidos en esta Ley, en todos los asuntos que participen;
 
 V. Verificar que los convenios reúnen los requisitos de existencia y validez;
 

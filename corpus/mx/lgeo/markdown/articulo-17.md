@@ -19,7 +19,9 @@ source_sha256: 67309bf186af42de0f9e98010d38c89598676faea7f2b558ac9c9e6736d64d35
 
 Las personas titulares de los Permisos de [Exploración](articulo-2.md) tienen los derechos siguientes:
 
-I. Realizar obras y trabajos de Exploración dentro del área potencial para determinar la existencia del [Recurso Geotérmico](articulo-2.md) y delimitar el [Área Geotérmica](articulo-2.md) que ampare el Permiso; II. Realizar las actividades señaladas en la fracción anterior únicamente en la forma, términos y para los fines que señale el Permiso correspondiente;
+I. Realizar obras y trabajos de Exploración dentro del área potencial para determinar la existencia del [Recurso Geotérmico](articulo-2.md) y delimitar el [Área Geotérmica](articulo-2.md) que ampare el Permiso;
+
+II. Realizar las actividades señaladas en la fracción anterior únicamente en la forma, términos y para los fines que señale el Permiso correspondiente;
 
 III. Desistirse del [Permiso de Exploración](articulo-2.md) y de los derechos que de él deriven;
 

@@ -25,7 +25,9 @@ I. Guardar confidencialidad respecto a la información que conozcan y manejen co
 
 II. Poner en conocimiento de la Sociedad Hipotecaria Federal S.N.C., oportunamente, cualquier acto o situación que, en el ejercicio de la función valuatoria, pudiera traducirse en beneficio, daño o perjuicio para ésta, o para cualquiera de las personas involucradas en los avalúos que certifiquen;
 
-III. Permitir a la Sociedad Hipotecaria Federal S.N.C. realizar la supervisión y las auditorías relacionadas en materia de avalúos; así como los aspectos técnicos, contables, corporativos, formativos, metodológicos, informáticos y operativos de dichas unidades de valuación; IV. Remover o, en su caso, sustituir a los Valuadores Profesionales y controladores cuando así lo indique la Sociedad Hipotecaria Federal S.N.C. o cualquier otra autoridad competente;
+III. Permitir a la Sociedad Hipotecaria Federal S.N.C. realizar la supervisión y las auditorías relacionadas en materia de avalúos; así como los aspectos técnicos, contables, corporativos, formativos, metodológicos, informáticos y operativos de dichas unidades de valuación;
+
+IV. Remover o, en su caso, sustituir a los Valuadores Profesionales y controladores cuando así lo indique la Sociedad Hipotecaria Federal S.N.C. o cualquier otra autoridad competente;
 
 V. Asumir la responsabilidad de los Valuadores Profesionales y controladores a su servicio, derivada de los actos respectivos en materia valuatoria;
 

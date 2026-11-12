@@ -23,7 +23,9 @@ I. Dirigir las acciones que permitan proporcionar apoyos en la instalación y ma
 
 II. Determinar la operación del personal de las unidades estatales de Servicios Técnicos en coordinación con los titulares de las Coordinaciones Estatales de la [Institución](articulo-2.md);
 
-III. Conducir la investigación de nuevas tecnologías en materia de desarrollo tecnológico y estudiar la factibilidad de utilizarlas para resolver necesidades de la Institución; IV. Proporcionar el soporte técnico en materia de ministración, capacitación, instalación y mantenimiento de equipos de cómputo, telefonía, audio y video a las unidades administrativas de la Institución;
+III. Conducir la investigación de nuevas tecnologías en materia de desarrollo tecnológico y estudiar la factibilidad de utilizarlas para resolver necesidades de la Institución;
+
+IV. Proporcionar el soporte técnico en materia de ministración, capacitación, instalación y mantenimiento de equipos de cómputo, telefonía, audio y video a las unidades administrativas de la Institución;
 
 V. Supervisar la elaboración de los programas de mantenimiento preventivo y correctivo de los equipos de cómputo, audio, y video, así como su ejecución oportuna, y
 

@@ -274,19 +274,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopgjdf:article:67:reference:1229-1231:47:direct",
+    "id": "urn:lex-mx:federal:statute:lopgjdf:article:67:reference:1230-1232:47:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lopgjdf:article:67",
     "source_span": "47",
-    "start_char": 1229,
-    "end_char": 1231,
+    "start_char": 1230,
+    "end_char": 1232,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopgjdf",
     "target_provision_id": "urn:lex-mx:federal:statute:lopgjdf:article:47",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",
-        "start_char": 1411,
-        "end_char": 1422
+        "start_char": 1412,
+        "end_char": 1423
       }
     ],
     "basis": "express_cross_reference",
@@ -313,11 +313,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopgjdf:article:74:reference:753-754:1:direct",
+    "id": "urn:lex-mx:federal:statute:lopgjdf:article:74:reference:754-755:1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lopgjdf:article:74",
     "source_span": "1",
-    "start_char": 753,
-    "end_char": 754,
+    "start_char": 754,
+    "end_char": 755,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopgjdf",
     "target_provision_id": "urn:lex-mx:federal:statute:lopgjdf:article:1",
     "qualifiers": [],
@@ -329,11 +329,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lopgjdf:article:75:reference:1242-1243:1:direct",
+    "id": "urn:lex-mx:federal:statute:lopgjdf:article:75:reference:1243-1244:1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lopgjdf:article:75",
     "source_span": "1",
-    "start_char": 1242,
-    "end_char": 1243,
+    "start_char": 1243,
+    "end_char": 1244,
     "target_instrument_id": "urn:lex-mx:federal:statute:lopgjdf",
     "target_provision_id": "urn:lex-mx:federal:statute:lopgjdf:article:1",
     "qualifiers": [],

@@ -25,7 +25,9 @@ II. Expedir la regulación y disposiciones administrativas de carácter general 
 
 III. Emitir resoluciones, acuerdos, criterios de interpretación, directivas, bases y demás actos administrativos necesarios para el cumplimiento de sus atribuciones;
 
-IV. Imponer y ejecutar las sanciones respecto de los actos u omisiones que den lugar a ello, de conformidad con las disposiciones aplicables; V. Otorgar, modificar, actualizar, revocar y extinguir los permisos, autorizaciones y los demás actos administrativos sobre las Actividades en materia energética, así como vigilar y supervisar su cumplimiento;
+IV. Imponer y ejecutar las sanciones respecto de los actos u omisiones que den lugar a ello, de conformidad con las disposiciones aplicables;
+
+V. Otorgar, modificar, actualizar, revocar y extinguir los permisos, autorizaciones y los demás actos administrativos sobre las Actividades en materia energética, así como vigilar y supervisar su cumplimiento;
 
 VI. Solicitar a los [Sujetos Regulados](articulo-6.md) la información y la documentación necesaria, así como la exhibición de dictámenes, reportes técnicos, informes de pruebas, contratos con terceros, estudios, certificados, documentos de evaluación de la conformidad o cualquier otro documento que se requiera para el ejercicio de sus atribuciones;
 
@@ -51,7 +53,9 @@ XVI. Coadyuvar en las mediaciones o arbitrajes que realice o intervenga la Secre
 
 XVII. Aportar elementos técnicos a la Secretaría para la formulación y seguimiento del Programa Sectorial de Energía y demás instrumentos de política pública en la materia;
 
-XVIII. Prestar asesoría técnica a la Secretaría, así como a otras dependencias y entidades de la Administración Pública Federal previa autorización de la Secretaría, y realizar estudios técnicos; XIX. Aprobar la contratación de servicios de consultoría, capacitación, asesoría, estudios e investigaciones que sean requeridos para sus actividades y aquellos que tengan por objeto apoyar el ejercicio de sus facultades de supervisión y de administración técnica de permisos, contratos y asignaciones, de conformidad con las leyes aplicables y presupuesto asignado;
+XVIII. Prestar asesoría técnica a la Secretaría, así como a otras dependencias y entidades de la Administración Pública Federal previa autorización de la Secretaría, y realizar estudios técnicos;
+
+XIX. Aprobar la contratación de servicios de consultoría, capacitación, asesoría, estudios e investigaciones que sean requeridos para sus actividades y aquellos que tengan por objeto apoyar el ejercicio de sus facultades de supervisión y de administración técnica de permisos, contratos y asignaciones, de conformidad con las leyes aplicables y presupuesto asignado;
 
 XX. Iniciar, tramitar y resolver los procedimientos administrativos que con motivo de sus atribuciones se promuevan, con base en las disposiciones aplicables;
 

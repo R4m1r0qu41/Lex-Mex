@@ -43,4 +43,6 @@ XI. Intervenir y apoyar a los agentes del Ministerio Público de la Federación 
 
 XII. Establecer, instruir, difundir y coordinar, en el ámbito de su competencia, las acciones que resulten procedentes para la capacitación, actualización y especialización del personal adscrito a la Subprocuraduría Especializada en Investigación de Delincuencia Organizada, en coordinación con las áreas de la Institución y órganos desconcentrados competentes;
 
-XIII. Atender y dar seguimiento a los requerimientos realizados para el cumplimiento de las medidas de arraigo, cateo e intervención de comunicaciones, que soliciten las unidades especializadas adscritas a la Subprocuraduría Especializada en Investigación de Delincuencia Organizada, a través de los medios electrónicos correspondientes ante el Poder Judicial de la Federación, y XIV. Promover, diseñar e implantar sistemas de mejora, en apoyo al desempeño de las funciones de la Subprocuraduría Especializada en Investigación de Delincuencia Organizada.
+XIII. Atender y dar seguimiento a los requerimientos realizados para el cumplimiento de las medidas de arraigo, cateo e intervención de comunicaciones, que soliciten las unidades especializadas adscritas a la Subprocuraduría Especializada en Investigación de Delincuencia Organizada, a través de los medios electrónicos correspondientes ante el Poder Judicial de la Federación, y
+
+XIV. Promover, diseñar e implantar sistemas de mejora, en apoyo al desempeño de las funciones de la Subprocuraduría Especializada en Investigación de Delincuencia Organizada.

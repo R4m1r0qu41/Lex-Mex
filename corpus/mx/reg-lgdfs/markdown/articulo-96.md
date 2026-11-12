@@ -17,7 +17,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 96
 
-Cuando los titulares de las autorizaciones a que se refiere el artículo [81](articulo-81.md) del presente Reglamento, requieran modificar alguno de los datos previstos en los artículos [83](articulo-83.md) u 85 del presente Reglamento, presentarán ante la Secretaría la solicitud respectiva en escrito libre, con al menos veinte días hábiles de anticipación a la fecha en que pretenda realizar la modificación correspondiente, señalando lo siguiente: I. El número de autorización originalmente otorgada;
+Cuando los titulares de las autorizaciones a que se refiere el artículo [81](articulo-81.md) del presente Reglamento, requieran modificar alguno de los datos previstos en los artículos [83](articulo-83.md) u 85 del presente Reglamento, presentarán ante la Secretaría la solicitud respectiva en escrito libre, con al menos veinte días hábiles de anticipación a la fecha en que pretenda realizar la modificación correspondiente, señalando lo siguiente:
+
+I. El número de autorización originalmente otorgada;
 
 II. La modificación solicitada, y
 

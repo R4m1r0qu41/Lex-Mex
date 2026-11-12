@@ -31,6 +31,8 @@ IV. El correo electrónico, en aquellos casos en que los interesados autoricen o
 
 V. La clave del registro federal de contribuyentes;
 
-VI. La clave única de registro de población, en caso de personas físicas, y VII. El lugar, la fecha y la firma.
+VI. La clave única de registro de población, en caso de personas físicas, y
+
+VII. El lugar, la fecha y la firma.
 
 Además de lo señalado en este artículo, el interesado deberá cumplir con los requisitos establecidos en la Ley, el presente Reglamento y demás Disposiciones Legales Aplicables. Una vez transcurridos los plazos respectivos, sin que el interesado haya obtenido respuesta por parte de la Secretaría, se entenderá que la resolución es en sentido negativo, para lo cual se deberá expedir constancia de tal circunstancia dentro de los cinco días hábiles siguientes a la fecha en que se debió de emitir dicha resolución, de conformidad con la Ley Federal de Procedimiento Administrativo.

@@ -21,6 +21,8 @@ La denuncia a que se refiere la fracción VIII del artículo [5](articulo-5o.md)
 
 I. El nombre o razón social, domicilio, teléfono si lo tiene, del denunciante y en su caso, de su representante legal;
 
-II. Los actos, hechos u omisiones denunciados; III. Los datos que permitan identificar a la presunta autoridad infractora, y
+II. Los actos, hechos u omisiones denunciados;
+
+III. Los datos que permitan identificar a la presunta autoridad infractora, y
 
 IV. Las pruebas que en su caso ofrezca el denunciante.

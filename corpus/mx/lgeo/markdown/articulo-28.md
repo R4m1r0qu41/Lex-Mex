@@ -27,7 +27,9 @@ III. Datos geográficos, ubicación y delimitación del [Área Geotérmica](arti
 
 IV. Descripción general del proyecto;
 
-V. Cronogramas de inversiones y de los trabajos a realizarse durante la vigencia del Permiso o Concesión correspondiente; VI. La naturaleza y el monto de las garantías que, en su caso, debe otorgar la persona permisionaria o concesionaria para el cumplimiento de las obligaciones contenidas en el título correspondiente o en las disposiciones jurídicas aplicables, así como aquellas que garanticen la afectación al medio ambiente o a derechos de terceros;
+V. Cronogramas de inversiones y de los trabajos a realizarse durante la vigencia del Permiso o Concesión correspondiente;
+
+VI. La naturaleza y el monto de las garantías que, en su caso, debe otorgar la persona permisionaria o concesionaria para el cumplimiento de las obligaciones contenidas en el título correspondiente o en las disposiciones jurídicas aplicables, así como aquellas que garanticen la afectación al medio ambiente o a derechos de terceros;
 
 VII. Causales de caducidad, revocación y terminación del [Permiso de Exploración](articulo-2.md) o Concesión;
 

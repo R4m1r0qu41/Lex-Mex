@@ -39,7 +39,9 @@ III. Presentar a la aprobación del Consejo los proyectos de Estatuto Orgánico,
 
 IV. Someter a la autorización del Consejo el establecimiento, reubicación y cierre de oficinas en el territorio nacional;
 
-V. Presentar anualmente al Consejo los proyectos de los programas operativo y financiero, de las estimaciones de ingresos anuales y del presupuesto de gastos e inversión para el ejercicio siguiente; VI. Ejercer el presupuesto del organismo con sujeción a las disposiciones jurídicas aplicables;
+V. Presentar anualmente al Consejo los proyectos de los programas operativo y financiero, de las estimaciones de ingresos anuales y del presupuesto de gastos e inversión para el ejercicio siguiente;
+
+VI. Ejercer el presupuesto del organismo con sujeción a las disposiciones jurídicas aplicables;
 
 VII. Nombrar y remover a los servidores públicos del Instituto, distintos de los dos primeros niveles;
 

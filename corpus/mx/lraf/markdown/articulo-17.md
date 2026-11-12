@@ -41,7 +41,9 @@ b) La situación patrimonial en caso de personas físicas o estados financieros 
 
 c) Aquella que permita verificar que cuentan con honorabilidad e historial crediticio y de negocios satisfactorio.
 
-VIII. Relación de los probables consejeros, director general y principales directivos de la Sociedad Controladora o de la entidad financiera que resulte de la fusión, acompañando la información que acredite que dichas personas cumplen con los requisitos que esta ley establece para dichos cargos; IX. Programa financiero estratégico para la organización, administración y control interno de la sociedad que resulte de la fusión, y
+VIII. Relación de los probables consejeros, director general y principales directivos de la Sociedad Controladora o de la entidad financiera que resulte de la fusión, acompañando la información que acredite que dichas personas cumplen con los requisitos que esta ley establece para dichos cargos;
+
+IX. Programa financiero estratégico para la organización, administración y control interno de la sociedad que resulte de la fusión, y
 
 X. La demás documentación e información relacionada, que la Secretaría requiera para el efecto.
 

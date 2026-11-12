@@ -1,19 +1,19 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfafe:article:1-bis:reference:920-922:89:direct",
+    "id": "urn:lex-mx:federal:statute:lfafe:article:1-bis:reference:921-923:89:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "source_span": "89",
-    "start_char": 920,
-    "end_char": 922,
+    "start_char": 921,
+    "end_char": 923,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VI",
-        "start_char": 923,
-        "end_char": 934
+        "start_char": 924,
+        "end_char": 935
       }
     ],
     "basis": "express_cross_reference",
@@ -697,19 +697,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfafe:article:83:reference:826-828:11:direct",
+    "id": "urn:lex-mx:federal:statute:lfafe:article:83:reference:827-829:11:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfafe:article:83",
     "source_span": "11",
-    "start_char": 826,
-    "end_char": 828,
+    "start_char": 827,
+    "end_char": 829,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
     "qualifiers": [
       {
         "qualifier_type": "subsection",
         "text": "incisos c), d) y e)",
-        "start_char": 793,
-        "end_char": 812
+        "start_char": 794,
+        "end_char": 813
       }
     ],
     "basis": "express_cross_reference",
@@ -720,19 +720,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfafe:article:83:reference:1056-1058:11:direct",
+    "id": "urn:lex-mx:federal:statute:lfafe:article:83:reference:1057-1059:11:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfafe:article:83",
     "source_span": "11",
-    "start_char": 1056,
-    "end_char": 1058,
+    "start_char": 1057,
+    "end_char": 1059,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11",
     "qualifiers": [
       {
         "qualifier_type": "subsection",
         "text": "incisos g), h), j), k) y l)",
-        "start_char": 1015,
-        "end_char": 1042
+        "start_char": 1016,
+        "end_char": 1043
       }
     ],
     "basis": "express_cross_reference",
@@ -743,19 +743,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfafe:article:83:reference:1061-1067:11-bis:direct",
+    "id": "urn:lex-mx:federal:statute:lfafe:article:83:reference:1062-1068:11-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfafe:article:83",
     "source_span": "11 Bis",
-    "start_char": 1061,
-    "end_char": 1067,
+    "start_char": 1062,
+    "end_char": 1068,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "target_provision_id": "urn:lex-mx:federal:statute:lfafe:article:11-bis",
     "qualifiers": [
       {
         "qualifier_type": "subsection",
         "text": "incisos g), h), j), k) y l)",
-        "start_char": 1015,
-        "end_char": 1042
+        "start_char": 1016,
+        "end_char": 1043
       }
     ],
     "basis": "express_cross_reference",

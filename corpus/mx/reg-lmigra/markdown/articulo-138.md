@@ -21,7 +21,9 @@ La condición de estancia de residente temporal prevista en el artículo [52](..
 
 I. Tener vínculo con mexicano o persona extranjera residente temporal o permanente, conforme a las hipótesis de unidad familiar en términos de lo previsto en los artículos [55](../../lmigra/markdown/articulo-55.md) y [56](../../lmigra/markdown/articulo-56.md) de la Ley;
 
-II. Tener oferta de empleo en la que se indique la ocupación, temporalidad requerida, lugar de trabajo y los datos de la constancia de inscripción del empleador; III. Tener comprobante de la inscripción en el Registro Federal de Contribuyentes, en caso de que pretenda realizar actividades remuneradas que no impliquen oferta de empleo, conforme a los datos y documentos previstos en las disposiciones administrativas de carácter general que emita la Secretaría y que serán publicadas en el Diario Oficial de la Federación;
+II. Tener oferta de empleo en la que se indique la ocupación, temporalidad requerida, lugar de trabajo y los datos de la constancia de inscripción del empleador;
+
+III. Tener comprobante de la inscripción en el Registro Federal de Contribuyentes, en caso de que pretenda realizar actividades remuneradas que no impliquen oferta de empleo, conforme a los datos y documentos previstos en las disposiciones administrativas de carácter general que emita la Secretaría y que serán publicadas en el Diario Oficial de la Federación;
 
 IV. Tener invitación de una organización o de una institución pública o privada de reconocida probidad establecida en el territorio nacional, para participar en alguna actividad por la que no perciba ingresos en el territorio nacional. La invitación deberá contenerse en papel membretado y señalar la actividad que desarrollará la persona extranjera, el lugar, la temporalidad requerida, así como los datos previstos en las disposiciones administrativas de carácter general que emita la Secretaría y que serán publicadas en el Diario Oficial de la Federación. En caso de que la organización o institución sufrague los gastos de estancia, deberá acreditar solvencia económica, en caso contrario, la persona extranjera deberá acreditar solvencia económica;
 

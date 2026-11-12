@@ -23,7 +23,9 @@ I. Deberá desahogarse en la audiencia de juicio o, según las circunstancias, o
 
 II. En el caso de haberse solicitado la elaboración de planos o toma de fotografías éstas deberán desahogarse necesariamente en audiencia de juicio por la parte interesada;
 
-III. Las partes, peritos o testigos podrán estar presentes en la inspección judicial, dejando razón de su asistencia. La autoridad jurisdiccional deberá estar presente, sin poder delegar su presencia, con el personal necesario para el desarrollo de la audiencia, en caso, contrario resultará nula la diligencia de pleno derecho; IV. De recibirse la inspección judicial en audiencia de juicio, la autoridad jurisdiccional decidirá el momento procesal para decretar el receso respectivo, definiendo las condiciones, tiempos, apercibimientos y demás medidas que considere pertinentes para llevar a cabo el desahogo y regresar a la sala de audiencias respectiva para la continuación de la audiencia, si fuera el caso;
+III. Las partes, peritos o testigos podrán estar presentes en la inspección judicial, dejando razón de su asistencia. La autoridad jurisdiccional deberá estar presente, sin poder delegar su presencia, con el personal necesario para el desarrollo de la audiencia, en caso, contrario resultará nula la diligencia de pleno derecho;
+
+IV. De recibirse la inspección judicial en audiencia de juicio, la autoridad jurisdiccional decidirá el momento procesal para decretar el receso respectivo, definiendo las condiciones, tiempos, apercibimientos y demás medidas que considere pertinentes para llevar a cabo el desahogo y regresar a la sala de audiencias respectiva para la continuación de la audiencia, si fuera el caso;
 
 V. Con este fin, la audiencia iniciará en la sala de audiencias de la autoridad jurisdiccional respectiva, en la que, después de cumplir con las demás formalidades de la misma, se decretará el receso para trasladarse al lugar de la inspección y, posteriormente, al regreso, continuar con la audiencia respectiva de poderse celebrar el mismo día, en caso contrario, se podrá señalar nuevo día y hora para su continuación, y
 

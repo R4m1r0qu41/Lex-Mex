@@ -25,4 +25,6 @@ II.- Planear y programar la enseñanza que imparta y sus actividades de investig
 
 III.- Expedir certificados de estudios y otorgar diplomas, títulos y grados académicos;
 
-IV.- Revalidar y establecer equivalencias de estudios del mismo tipo educativo, realizados en instituciones nacionales y extranjeras; y V.- Incorporar estudios y otorgar o retirar reconocimiento de validez para fines académicos, a los realizados en planteles particulares que impartan el mismo tipo de enseñanza, con planes y programas equivalentes.
+IV.- Revalidar y establecer equivalencias de estudios del mismo tipo educativo, realizados en instituciones nacionales y extranjeras; y
+
+V.- Incorporar estudios y otorgar o retirar reconocimiento de validez para fines académicos, a los realizados en planteles particulares que impartan el mismo tipo de enseñanza, con planes y programas equivalentes.

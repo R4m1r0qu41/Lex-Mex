@@ -21,7 +21,9 @@ A fin de establecer y mantener la seguridad de los datos personales, el responsa
 
 I. Elaborar un inventario de datos personales y de los sistemas de tratamiento;
 
-II. Determinar las funciones y obligaciones de las personas que traten datos personales; III. Contar con un análisis de riesgos de datos personales que consiste en identificar peligros y estimar los riesgos a los datos personales;
+II. Determinar las funciones y obligaciones de las personas que traten datos personales;
+
+III. Contar con un análisis de riesgos de datos personales que consiste en identificar peligros y estimar los riesgos a los datos personales;
 
 IV. Establecer las medidas de seguridad aplicables a los datos personales e identificar aquéllas implementadas de manera efectiva;
 

@@ -25,7 +25,9 @@ II. Registro federal de contribuyentes;
 
 III. Nombre comercial del establecimiento mercantil respectivo, en su caso;
 
-IV. Ubicación del Centro, expresando las coordenadas geográficas correspondientes; V. Descripción de la Materia prima forestal, especies forestales que se pretendan almacenar o transformar y, en este último caso, los productos que serán elaborados;
+IV. Ubicación del Centro, expresando las coordenadas geográficas correspondientes;
+
+V. Descripción de la Materia prima forestal, especies forestales que se pretendan almacenar o transformar y, en este último caso, los productos que serán elaborados;
 
 VI. Capacidad de almacenamiento calculada en metros cúbicos;
 

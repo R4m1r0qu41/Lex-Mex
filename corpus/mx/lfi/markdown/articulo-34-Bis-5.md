@@ -23,7 +23,9 @@ I. Que la sociedad se encuentre debidamente constituida, proporcionando los dato
 
 II. Que cuentan con el capital mínimo que les corresponda;
 
-III. Que sus consejeros, directivos y apoderados para celebrar operaciones con el público, cumplen con los requisitos establecidos en esta Ley y con las disposiciones de carácter general emitidas por la Comisión, y IV. Que cuentan con la infraestructura y controles internos necesarios para realizar sus actividades y otorgar sus servicios, conforme a las disposiciones aplicables.
+III. Que sus consejeros, directivos y apoderados para celebrar operaciones con el público, cumplen con los requisitos establecidos en esta Ley y con las disposiciones de carácter general emitidas por la Comisión, y
+
+IV. Que cuentan con la infraestructura y controles internos necesarios para realizar sus actividades y otorgar sus servicios, conforme a las disposiciones aplicables.
 
 Las sociedades a que se refiere este artículo deberán notificar por escrito a la Comisión, con al menos treinta días hábiles de anticipación, la fecha de inicio de sus operaciones, señalando el domicilio de su oficina principal.
 

@@ -17,7 +17,9 @@ source_sha256: 36b4431a137649d7b90cf02b8adac914729223824a0d0821f3dd8c3f8274e8db
 
 # Artículo 31
 
-El titular de la Coordinación Nacional de Recursos Materiales y Servicios tiene las facultades siguientes: I. Vigilar la aplicación de la normativa en materia de adquisición de recursos materiales y prestación de servicios generales, previniendo desviaciones y transparentando las acciones que se lleven a cabo;
+El titular de la Coordinación Nacional de Recursos Materiales y Servicios tiene las facultades siguientes:
+
+I. Vigilar la aplicación de la normativa en materia de adquisición de recursos materiales y prestación de servicios generales, previniendo desviaciones y transparentando las acciones que se lleven a cabo;
 
 II. Administrar el ejercicio del Programa Anual de Adquisiciones, Arrendamientos y Servicios a cargo del [Instituto](articulo-2.md);
 
@@ -45,6 +47,8 @@ XIII. Evaluar y vigilar el resultado de la gestión y administración de los rec
 
 XIV. Coordinar los servicios de vigilancia y seguridad de los inmuebles y los bienes alojados en su interior, así como de los demás bienes y valores del Instituto;
 
-XV. Controlar el uso, mantenimiento y reparación del equipo de transporte del Instituto; XVI. Solicitar al titular de la Secretaría Administrativa el inicio de los procedimientos administrativos, proporcionado la información necesaria hasta que se emita la resolución correspondiente, y
+XV. Controlar el uso, mantenimiento y reparación del equipo de transporte del Instituto;
+
+XVI. Solicitar al titular de la Secretaría Administrativa el inicio de los procedimientos administrativos, proporcionado la información necesaria hasta que se emita la resolución correspondiente, y
 
 XVII. Gestionar la reclamación del seguro institucional por daños a los bienes del Instituto y del seguro patrimonial.

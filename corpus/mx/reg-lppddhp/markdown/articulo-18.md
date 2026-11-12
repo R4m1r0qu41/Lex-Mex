@@ -21,7 +21,9 @@ Los miembros de la Junta de Gobierno, además de las obligaciones y funciones qu
 
 I. Asistir a las sesiones;
 
-II. Proponer los temas a tratar en las sesiones de la Junta de Gobierno; III. Emitir su voto respecto de los asuntos que se sometan a consideración de la Junta de Gobierno;
+II. Proponer los temas a tratar en las sesiones de la Junta de Gobierno;
+
+III. Emitir su voto respecto de los asuntos que se sometan a consideración de la Junta de Gobierno;
 
 IV. Presentar la documentación correspondiente a los temas a tratar en las sesiones de la Junta de Gobierno o la que le sea requerida por la misma;
 

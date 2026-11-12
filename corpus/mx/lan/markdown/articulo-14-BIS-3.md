@@ -27,7 +27,9 @@ II. Certificar personal para instrumentar el Sistema Nacional de Servicio Civil 
 
 III. Constituirse en el centro de excelencia en el conocimiento actualizado de la gestión integrada de los recursos hídricos;
 
-IV. Integrar y mantener actualizado el Centro Nacional Documental Técnico y Científico sobre [Gestión Integrada de los Recursos Hídricos](articulo-3.md); V. Desarrollar y estrechar relaciones con las organizaciones internacionales vinculadas con los temas de agua y su gestión integrada, y establecer relaciones de intercambio académico y tecnológico con instituciones y organismos mexicanos, extranjeros o internacionales;
+IV. Integrar y mantener actualizado el Centro Nacional Documental Técnico y Científico sobre [Gestión Integrada de los Recursos Hídricos](articulo-3.md);
+
+V. Desarrollar y estrechar relaciones con las organizaciones internacionales vinculadas con los temas de agua y su gestión integrada, y establecer relaciones de intercambio académico y tecnológico con instituciones y organismos mexicanos, extranjeros o internacionales;
 
 VI. Desarrollar y probar instrumentos de gestión integrada de recursos hídricos de diversa índole para apoyar el desarrollo del Sector Agua y coadyuvar en la solución de los problemas hídricos e hidráulicos del país;
 

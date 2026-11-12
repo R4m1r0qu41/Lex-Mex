@@ -19,7 +19,9 @@ source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 
 Las arrendadoras e instituciones financieras deberán presentar aviso al Registro cuando celebren contratos de arrendamiento financiero de vehículos, dentro de los diez días hábiles posteriores a la celebración del acto de que se trate.
 
-Los avisos a que se refiere el párrafo anterior incluirán la siguiente información: I. Nombre, denominación o razón social de la arrendadora, y
+Los avisos a que se refiere el párrafo anterior incluirán la siguiente información:
+
+I. Nombre, denominación o razón social de la arrendadora, y
 
 II. Vigencia del contrato.
 

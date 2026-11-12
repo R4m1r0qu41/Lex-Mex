@@ -21,7 +21,9 @@ Para la explotación, uso o aprovechamiento de las aguas del subsuelo en las zon
 
 I. Concesión o asignación para su explotación, uso o aprovechamiento;
 
-II. Un programa integral de manejo por cuenca y acuíferos a explotar, y III. Permisos para las obras de perforación, reposición o relocalización de pozos, o demás modificaciones a las condiciones de aprovechamiento, que se realicen a partir del decreto de veda o reglamentación.
+II. Un programa integral de manejo por cuenca y acuíferos a explotar, y
+
+III. Permisos para las obras de perforación, reposición o relocalización de pozos, o demás modificaciones a las condiciones de aprovechamiento, que se realicen a partir del decreto de veda o reglamentación.
 
 Las concesiones o asignaciones se sujetarán a los requisitos que establecen los artículos [21](articulo-21.md) y [21 BIS](articulo-21-BIS.md) de esta Ley y se otorgarán de acuerdo con los estudios de disponibilidad respectivos, teniendo en cuenta el volumen de agua usada o aprovechada como promedio en el último año inmediato anterior al decreto respectivo, y que se hubieran inscrito en el [Registro Público Nacional del Agua](articulo-3.md). Párrafo reformado DOF 11-12-2025
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "3o"
 aliases: ["REG-LSPEE-MA — Artículo 3o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPEE_MA.pdf
 source_sha256: 21f5fb89e9734e1e27efae30d14611253f29dda506024e431a063b8ec93741b2
 ---
@@ -35,7 +35,9 @@ VII. Criterios y bases para determinar y actualizar el monto de las aportaciones
 
 VIII. Demanda normal de servicio: La demanda en kilovolt-ampere para los servicios en media y baja tensión cuyo costo se cubre mediante las tarifas aplicables al servicio;
 
-IX. Especificaciones técnicas del suministrador: Las normas técnicas, procedimientos, características y requisitos que deben cumplir los equipos, los materiales y las instalaciones que se incorporen al sistema eléctrico nacional, elaboradas por el suministrador y aprobadas por la Secretaría de Energía; X. Ley: La Ley del [Servicio](articulo-3o.md) Público de Energía Eléctrica;
+IX. Especificaciones técnicas del suministrador: Las normas técnicas, procedimientos, características y requisitos que deben cumplir los equipos, los materiales y las instalaciones que se incorporen al sistema eléctrico nacional, elaboradas por el suministrador y aprobadas por la Secretaría de Energía;
+
+X. Ley: La Ley del [Servicio](articulo-3o.md) Público de Energía Eléctrica;
 
 XI. Media tensión: La tensión de suministro a niveles mayores a un kilovolt, pero menores o iguales a 35 kilovolts;
 
@@ -65,7 +67,9 @@ XXIII. Subestación de distribución: El centro de transformación de alta a med
 
 XXIV. Suministrador: El prestador del servicio;
 
-XXV. Suministro: El conjunto de actos y trabajos necesarios para proporcionar el servicio, y XXVI. Usuario: La persona física o moral que hace uso de la energía eléctrica proporcionada por el suministrador, previo contrato celebrado con éste.
+XXV. Suministro: El conjunto de actos y trabajos necesarios para proporcionar el servicio, y
+
+XXVI. Usuario: La persona física o moral que hace uso de la energía eléctrica proporcionada por el suministrador, previo contrato celebrado con éste.
 
 Salvo disposición en contrario, los plazos y términos fijados en días en este Reglamento se contarán en días hábiles, y empezarán a correr al día siguiente de aquél en que ocurran los hechos y las circunstancias previstos en el mismo.
 

@@ -27,7 +27,9 @@ III. Celebrar y otorgar toda clase de actos y documentos respecto del objeto del
 
 IV. Ejercer facultades de dominio, administración, pleitos y cobranzas, aun aquellas que requieran cláusula especial. Tratándose de cualesquiera actos de dominio, se requerirá la autorización previa de la Junta de Gobierno;
 
-V. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, incluso las que requieran autorización o cláusula especial; VI. Formular denuncias y querellas y proponer a la Junta de Gobierno el perdón legal, cuando a su juicio proceda, así como, comparecer por oficio, al igual que los inferiores jerárquicos inmediatos, a absolver posiciones en términos de la ley procesal que corresponda;
+V. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que le competan, incluso las que requieran autorización o cláusula especial;
+
+VI. Formular denuncias y querellas y proponer a la Junta de Gobierno el perdón legal, cuando a su juicio proceda, así como, comparecer por oficio, al igual que los inferiores jerárquicos inmediatos, a absolver posiciones en términos de la ley procesal que corresponda;
 
 VII. Ejercitar y desistirse de acciones judiciales, inclusive en materia de amparo;
 

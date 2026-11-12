@@ -17,7 +17,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 11-C
 
-La determinación de la tasa anual de crecimiento real del Producto Interno Bruto Potencial deberá definirse como el promedio aritmético entre los siguientes componentes: I. La tasa anual compuesta de crecimiento real del Producto Interno Bruto observado en al menos los 10 años previos a la fecha de la estimación, y
+La determinación de la tasa anual de crecimiento real del Producto Interno Bruto Potencial deberá definirse como el promedio aritmético entre los siguientes componentes:
+
+I. La tasa anual compuesta de crecimiento real del Producto Interno Bruto observado en al menos los 10 años previos a la fecha de la estimación, y
 
 II. La tasa anual compuesta de crecimiento real estimado del Producto Interno Bruto de un máximo de 5 años posteriores a la fecha de la estimación.
 

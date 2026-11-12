@@ -17,7 +17,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 56
 
-La Jefatura de Coordinación Policial Territorial tiene las atribuciones siguientes: I. Acordar con el Titular de la Coordinación Territorial los asuntos que así lo ameriten e informarle de aquéllos que haya resuelto por sí mismo;
+La Jefatura de Coordinación Policial Territorial tiene las atribuciones siguientes:
+
+I. Acordar con el Titular de la Coordinación Territorial los asuntos que así lo ameriten e informarle de aquéllos que haya resuelto por sí mismo;
 
 II. Mantener enlace personal y directo con las unidades que se encuentran en la Coordinación Territorial, para conocer su situación y necesidades;
 
@@ -45,7 +47,9 @@ XIII. Consolidar las necesidades logísticas de las Coordinaciones Estatales y d
 
 XIV. Recibir, almacenar y abastecer de refacciones y combustibles y lubricantes a la Coordinación Territorial y a las Coordinaciones Estatales que se encuentran en su territorio;
 
-XV. Proporcionar el apoyo logístico a las tripulaciones y aeronaves en apoyo, dentro de los alcances de los servicios técnicos y administrativos de la Coordinación Territorial; XVI. Realizar actividades de supervisión técnica, administrativa y de capacitación a las unidades de los servicios de las Coordinaciones Estatales que se encuentran en su territorio;
+XV. Proporcionar el apoyo logístico a las tripulaciones y aeronaves en apoyo, dentro de los alcances de los servicios técnicos y administrativos de la Coordinación Territorial;
+
+XVI. Realizar actividades de supervisión técnica, administrativa y de capacitación a las unidades de los servicios de las Coordinaciones Estatales que se encuentran en su territorio;
 
 XVII. Dirigir las acciones tendientes a la protección ecológica en los predios que ocupan las Coordinaciones Estatales que se encuentran en su territorio, y
 

@@ -41,7 +41,9 @@ VIII. Aviso de producción: Es el documento en el que se reporta a la autoridad 
 
 IX. Aviso de recolección: Es el documento en el que se reporta a la autoridad competente el número de organismos colectados del medio natural, al amparo de un permiso;
 
-X. Aviso de siembra: Es el documento en el que se reporta a la autoridad competente las especies a cultivar, la cantidad de organismos, las fechas de siembra y las medidas sanitarias aplicadas previamente al cultivo; XI. Barco-fábrica: Es la embarcación pesquera autopropulsada que disponga de equipos para la industrialización de la materia prima resultado de su captura y/o de las capturas realizadas por otras embarcaciones;
+X. Aviso de siembra: Es el documento en el que se reporta a la autoridad competente las especies a cultivar, la cantidad de organismos, las fechas de siembra y las medidas sanitarias aplicadas previamente al cultivo;
+
+XI. Barco-fábrica: Es la embarcación pesquera autopropulsada que disponga de equipos para la industrialización de la materia prima resultado de su captura y/o de las capturas realizadas por otras embarcaciones;
 
 XII. Bitácora de pesca: Es el documento de registro y control del quehacer pesquero a bordo de una embarcación, por medio del cual la autoridad competente recibe del pescador el reporte de la actividad que se le ha concesionado o permitido;
 
@@ -65,7 +67,9 @@ XXI. IMIPAS: Instituto Mexicano de Investigación en Pesca y Acuacultura Sustent
 
 XXII. Inocuidad: Es la garantía de que el consumo de los recursos pesqueros y acuícolas no cause daño en la salud de los consumidores;
 
-XXIII. Introducción de especies: Actividad que se refiere a aquellas especies que no se distribuyen naturalmente existentes en el cuerpo de agua en el que se pretenden introducir; XXIV. Normas: Las normas expedidas de conformidad con la Ley Federal sobre Metrología y Normalización y esta Ley;
+XXIII. Introducción de especies: Actividad que se refiere a aquellas especies que no se distribuyen naturalmente existentes en el cuerpo de agua en el que se pretenden introducir;
+
+XXIV. Normas: Las normas expedidas de conformidad con la Ley Federal sobre Metrología y Normalización y esta Ley;
 
 XXV. Ordenamiento pesquero: Conjunto de instrumentos cuyo objeto es regular y administrar las actividades pesqueras, induciendo el aprovechamiento sustentable de los recursos pesqueros y acuícolas, basado en la disponibilidad de los recursos pesqueros, información histórica de niveles de extracción, usos y potencialidades de desarrollo de actividades, capacidad pesquera o acuícola, puntos de referencia para el manejo de las pesquerías y en forma congruente con el ordenamiento ecológico del territorio;
 
@@ -91,7 +95,9 @@ XXXV. Pesquería sobreexplotada: Es la pesquería que se encuentra explotada por
 
 XXXVI. Plan de manejo pesquero: El conjunto de acciones encaminadas al desarrollo de la actividad pesquera de forma equilibrada, integral y sustentable; basadas en el conocimiento actualizado de los aspectos biológicos, ecológicos, pesqueros, ambientales, económicos, culturales y sociales que se tengan de ella;
 
-XXXVII. Procesamiento Primario: Proceso basado exclusivamente en la conservación del producto por la acción del frío, enhielado y congelado, y que no se le aplican métodos de cocción o calor en ninguna forma, incluyendo actividades de empacado, eviscerado, descabezado, fileteado o desangrado; XXXVIII. Recursos Acuícolas: Las especies acuáticas susceptibles de cultivo, sus productos y subproductos;
+XXXVII. Procesamiento Primario: Proceso basado exclusivamente en la conservación del producto por la acción del frío, enhielado y congelado, y que no se le aplican métodos de cocción o calor en ninguna forma, incluyendo actividades de empacado, eviscerado, descabezado, fileteado o desangrado;
+
+XXXVIII. Recursos Acuícolas: Las especies acuáticas susceptibles de cultivo, sus productos y subproductos;
 
 XXXIX. Recursos Pesqueros: Las especies acuáticas, sus productos y subproductos, obtenidos mediante su cultivo o extracción o captura, en su estado natural;
 

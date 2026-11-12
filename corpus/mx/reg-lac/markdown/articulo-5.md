@@ -19,7 +19,9 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 El servicio de transporte aéreo nacional no regular es el de personas pasajeras, carga, correo o una combinación de éstos; está sujeto a permiso pero no a rutas, itinerarios y frecuencias fijos, opera desde y hacia cualquier punto del territorio nacional y se clasifica en las siguientes modalidades: Párrafo reformado DOF 31-05-2023
 
-I. Taxi aéreo; II. De fletamento;
+I. Taxi aéreo;
+
+II. De fletamento;
 
 III. Ambulancia aérea, y
 

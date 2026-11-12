@@ -19,7 +19,9 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 Para renovar los certificados provisionales con vigencia limitada de las Embarcaciones y Artefactos Navales que están en el supuesto del artículo [323](articulo-323.md) de este Reglamento, se deberá presentar solicitud por escrito a la [Dirección General](articulo-10.md), copia del certificado provisional y, de acuerdo al tipo de certificado, lo siguiente:
 
-A. Certificados nacionales: I. Seguridad Marítima (carga, pesca y mixtas):
+A. Certificados nacionales:
+
+I. Seguridad Marítima (carga, pesca y mixtas):
 
 a) Embarcaciones iguales o menores de quince metros de eslora sin cubierta, copia del Certificado de Matrícula;
 
@@ -53,7 +55,9 @@ VI. Seguridad para Unidades Móviles de Perforación Mar Adentro, además de lo 
 
 VII. Seguridad para Naves de Gran Velocidad, además de lo indicado en las fracciones II, inciso b), y III de este apartado, copia del permiso de explotación de gran velocidad;
 
-VIII. Documento nacional de cumplimiento, copia del Manual de Administración de la Seguridad; IX. Gestión de la seguridad, copia del Manual de Administración de la Seguridad o copia del documento de cumplimiento de la empresa;
+VIII. Documento nacional de cumplimiento, copia del Manual de Administración de la Seguridad;
+
+IX. Gestión de la seguridad, copia del Manual de Administración de la Seguridad o copia del documento de cumplimiento de la empresa;
 
 X. Seguridad para unidades fijas, cumplir con lo indicado en el primer párrafo de este artículo;
 
@@ -89,7 +93,9 @@ X. Internacional de prevención de la contaminación por aguas sucias, lo indica
 
 XI. Gestión de aguas de lastre, copia del oficio de aprobación del Plan de Gestión de Aguas de Lastre;
 
-XII. Internacional de prevención de la contaminación para el transporte de [Sustancias Nocivas Líquidas](articulo-10.md) a granel, copia del oficio de aprobación del Plan de emergencias en caso de contaminación por Sustancias Nocivas Líquidas y copia del oficio de aprobación del Manual de Procedimientos y Medios; XIII. Aptitud para el transporte de productos químicos peligrosos a granel, lo indicado en la fracción XII de este apartado;
+XII. Internacional de prevención de la contaminación para el transporte de [Sustancias Nocivas Líquidas](articulo-10.md) a granel, copia del oficio de aprobación del Plan de emergencias en caso de contaminación por Sustancias Nocivas Líquidas y copia del oficio de aprobación del Manual de Procedimientos y Medios;
+
+XIII. Aptitud para el transporte de productos químicos peligrosos a granel, lo indicado en la fracción XII de este apartado;
 
 XIV. Internacional de aptitud para el transporte de productos químicos peligrosos a granel, lo indicado en la fracción XII de este apartado;
 

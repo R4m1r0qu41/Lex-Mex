@@ -31,7 +31,9 @@ V. Constituir las instancias locales y de coordinación metropolitana para la im
 
 VI. Celebrar convenios de coordinación con la Federación, otras entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México para la implementación de acciones específicas, obras e inversiones en la materia, así como aquellas que prioricen la movilidad de los grupos en situación de vulnerabilidad;
 
-VII. Facilitar y participar en los sistemas de movilidad de las entidades federativas, en los términos que establece esta Ley, garantizando que las vías proporcionen un nivel de servicio adecuado para todas las personas, considerando su interseccionalidad, sin importar el modo de transporte que utilicen; VIII. Desarrollar estrategias, programas y proyectos para la movilidad, fomentando y priorizando el uso del transporte público y los modos no motorizados;
+VII. Facilitar y participar en los sistemas de movilidad de las entidades federativas, en los términos que establece esta Ley, garantizando que las vías proporcionen un nivel de servicio adecuado para todas las personas, considerando su interseccionalidad, sin importar el modo de transporte que utilicen;
+
+VIII. Desarrollar estrategias, programas y proyectos para la movilidad, fomentando y priorizando el uso del transporte público y los modos no motorizados;
 
 IX. Asignar, gestionar y administrar recursos para apoyar e implementar acciones y proyectos en materia de movilidad, su infraestructura, servicios auxiliares, operación y capacitación de las personas operadoras, transporte y seguridad vial, promoviendo una mejor utilización de las vías conforme a la jerarquía de la movilidad;
 
@@ -61,4 +63,6 @@ XXI. Implementar programas especiales de seguridad vial en los entornos escolare
 
 XXII. Prever en su legislación aplicable, que los desarrollos inmobiliarios cuenten con el criterio de calle completa;
 
-XXIII. En los municipios insulares, coordinar con las autoridades acciones de movilidad asequible, incluyente, segura y sustentable entre sus municipios y el territorio continental, y XXIV. Las demás previstas para el cumplimiento de la presente Ley.
+XXIII. En los municipios insulares, coordinar con las autoridades acciones de movilidad asequible, incluyente, segura y sustentable entre sus municipios y el territorio continental, y
+
+XXIV. Las demás previstas para el cumplimiento de la presente Ley.

@@ -512,19 +512,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:164:reference:931-934:102:direct",
+    "id": "urn:lex-mx:federal:statute:lmtr:article:164:reference:932-935:102:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lmtr:article:164",
     "source_span": "102",
-    "start_char": 931,
-    "end_char": 934,
+    "start_char": 932,
+    "end_char": 935,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmtr",
     "target_provision_id": "urn:lex-mx:federal:statute:lmtr:article:102",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción X",
-        "start_char": 907,
-        "end_char": 917
+        "start_char": 908,
+        "end_char": 918
       }
     ],
     "basis": "express_cross_reference",
@@ -715,11 +715,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:209:reference:2368-2371:232:direct",
+    "id": "urn:lex-mx:federal:statute:lmtr:article:209:reference:2369-2372:232:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lmtr:article:209",
     "source_span": "232",
-    "start_char": 2368,
-    "end_char": 2371,
+    "start_char": 2369,
+    "end_char": 2372,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmtr",
     "target_provision_id": "urn:lex-mx:federal:statute:lmtr:article:232",
     "qualifiers": [],
@@ -1096,19 +1096,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:287:reference:4198-4200:10:direct",
+    "id": "urn:lex-mx:federal:statute:lmtr:article:287:reference:4199-4201:10:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lmtr:article:287",
     "source_span": "10",
-    "start_char": 4198,
-    "end_char": 4200,
+    "start_char": 4199,
+    "end_char": 4201,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmtr",
     "target_provision_id": "urn:lex-mx:federal:statute:lmtr:article:10",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",
-        "start_char": 4173,
-        "end_char": 4184
+        "start_char": 4174,
+        "end_char": 4185
       }
     ],
     "basis": "express_cross_reference",
@@ -1119,19 +1119,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmtr:article:287:reference:4783-4786:282:direct",
+    "id": "urn:lex-mx:federal:statute:lmtr:article:287:reference:4784-4787:282:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lmtr:article:287",
     "source_span": "282",
-    "start_char": 4783,
-    "end_char": 4786,
+    "start_char": 4784,
+    "end_char": 4787,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmtr",
     "target_provision_id": "urn:lex-mx:federal:statute:lmtr:article:282",
     "qualifiers": [
       {
         "qualifier_type": "subsection",
         "text": "inciso F)",
-        "start_char": 4760,
-        "end_char": 4769
+        "start_char": 4761,
+        "end_char": 4770
       }
     ],
     "basis": "express_cross_reference",

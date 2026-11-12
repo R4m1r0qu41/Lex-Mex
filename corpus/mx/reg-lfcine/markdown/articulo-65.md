@@ -27,6 +27,8 @@ III. Inserte avances publicitarios de una película en otra con clasificación d
 
 IV. Oculte, altere o publicite con una clasificación diferente, las películas autorizadas por la Dirección General;
 
-V. Cometa cualquier incumplimiento derivado de la clasificación de películas, otorgada por la Dirección General; VI. Exhiba públicamente películas con interrupciones en contravención a los términos del presente ordenamiento, y
+V. Cometa cualquier incumplimiento derivado de la clasificación de películas, otorgada por la Dirección General;
+
+VI. Exhiba públicamente películas con interrupciones en contravención a los términos del presente ordenamiento, y
 
 VII. Se niegue a proporcionar informes y datos que requiera la Dirección General dentro del plazo señalado.

@@ -21,7 +21,9 @@ Las [Entidades](articulo-3.md), tratándose de [Créditos Garantizados](articulo
 
 I. Denominación comercial de la Entidad;
 
-II. Cuantía máxima del crédito respecto al monto de valuación; III. Tasa de interés ordinaria, moratoria y el Costo Anual Total;
+II. Cuantía máxima del crédito respecto al monto de valuación;
+
+III. Tasa de interés ordinaria, moratoria y el Costo Anual Total;
 
 IV. Plazos, sistema de amortización y periodicidad;
 

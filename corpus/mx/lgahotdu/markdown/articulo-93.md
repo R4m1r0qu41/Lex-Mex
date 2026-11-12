@@ -29,6 +29,8 @@ IV. La ejecución de acciones y obras urbanas para el [Mejoramiento](articulo-3.
 
 V. La protección del [Patrimonio Natural y Cultural](articulo-3.md) de los Centros de Población;
 
-VI. La preservación del ambiente en los Centros de Población; VII. La prevención, control y atención de riesgos y contingencias ambientales y urbanas en los Centros de Población, y
+VI. La preservación del ambiente en los Centros de Población;
+
+VII. La prevención, control y atención de riesgos y contingencias ambientales y urbanas en los Centros de Población, y
 
 VIII. La participación en los procesos de los Observatorios ciudadanos.

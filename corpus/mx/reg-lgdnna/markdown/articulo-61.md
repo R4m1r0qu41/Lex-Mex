@@ -29,4 +29,6 @@ IV. El certificado emitido por la autoridad competente;
 
 V. Los ingresos y egresos mensuales de la familia;
 
-VI. El perfil y número de niñas, niños o adolescentes que, en su caso, podrían acoger, y VII. La demás que determine el Sistema Nacional DIF mediante Acuerdo que publique en el Diario Oficial de la Federación.
+VI. El perfil y número de niñas, niños o adolescentes que, en su caso, podrían acoger, y
+
+VII. La demás que determine el Sistema Nacional DIF mediante Acuerdo que publique en el Diario Oficial de la Federación.

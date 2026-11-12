@@ -17,7 +17,9 @@ source_sha256: e05548ce5210162f6613eab2a8d8e53b7eed65ffe4a909d4665277fe1726e369
 
 # Artículo 104
 
-En todo caso el contingente para el activo de la Armada deberá saber leer y escribir y se tomará en el siguiente orden de preferencia: I.- De los mexicanos por nacimiento que hayan prestado servicios en la Marina Mercante;
+En todo caso el contingente para el activo de la Armada deberá saber leer y escribir y se tomará en el siguiente orden de preferencia:
+
+I.- De los mexicanos por nacimiento que hayan prestado servicios en la Marina Mercante;
 
 II.- De los mexicanos por nacimiento que sean o hayan sido pescadores o presten servicios conexos en las actividades marítimas;
 

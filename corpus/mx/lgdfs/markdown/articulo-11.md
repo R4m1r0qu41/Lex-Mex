@@ -17,7 +17,9 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 # Artículo 11
 
-Corresponde a las Entidades Federativas, de conformidad con lo dispuesto en esta Ley y las leyes locales en la materia, las siguientes atribuciones: I. Diseñar, formular y aplicar, en concordancia con la política forestal nacional, la política forestal en las Entidades Federativas;
+Corresponde a las Entidades Federativas, de conformidad con lo dispuesto en esta Ley y las leyes locales en la materia, las siguientes atribuciones:
+
+I. Diseñar, formular y aplicar, en concordancia con la política forestal nacional, la política forestal en las Entidades Federativas;
 
 II. Aplicar los criterios de política forestal previstos en esta Ley y en las leyes locales en la materia;
 
@@ -45,7 +47,9 @@ XIII. Celebrar acuerdos y convenios de coordinación, cooperación y concertaci�
 
 XIV. Regular el uso del fuego en las actividades relacionadas con el sector agropecuario o de otra índole, que pudieran afectar los ecosistemas forestales;
 
-XV. Llevar a cabo acciones de prevención, capacitación y combate de incendios forestales, en congruencia con el programa nacional respectivo; XVI. Promover y participar en la restauración de los ecosistemas forestales afectados por incendio;
+XV. Llevar a cabo acciones de prevención, capacitación y combate de incendios forestales, en congruencia con el programa nacional respectivo;
+
+XVI. Promover y participar en la restauración de los ecosistemas forestales afectados por incendio;
 
 XVII. Impulsar programas de mejoramiento genético forestal;
 
@@ -71,7 +75,9 @@ XXVII. Elaborar, aplicar y coordinar el [Programa de Manejo del Fuego](articulo-
 
 XXVIII. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la entidad, de conformidad con esta Ley y la política nacional forestal;
 
-XXIX. Promover e invertir en el mejoramiento de la infraestructura en las áreas forestales de la entidad; XXX. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico de la entidad;
+XXIX. Promover e invertir en el mejoramiento de la infraestructura en las áreas forestales de la entidad;
+
+XXX. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico de la entidad;
 
 XXXI. Participar, de conformidad con los acuerdos y convenios que se celebren con la Federación, en la inspección y vigilancia forestal en la entidad, así como en las acciones de prevención y combate a la extracción y tala ilegal de los recursos forestales;
 

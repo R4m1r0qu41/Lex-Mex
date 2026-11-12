@@ -25,7 +25,9 @@ a) Animales de servicio: los que, previo adiestramiento acreditado, pueden lleva
 
 b) Animales de apoyo emocional: aquéllos que, como parte de un plan de tratamiento médico proporcionan compañía, alivian la soledad y a veces ayudan con la depresión, la ansiedad, y ciertas fobias, pero no tienen entrenamiento especial para llevar a cabo tareas que ayudan a personas con discapacidad, y
 
-c) Especies braquicéfalas: aquéllas que poseen un hocico y cráneo muy acortados; II. Condición de aeronavegabilidad: estado de una aeronave, motor, hélice o pieza que se ajusta al diseño aprobado correspondiente y se encuentra en condiciones de operar de modo seguro;
+c) Especies braquicéfalas: aquéllas que poseen un hocico y cráneo muy acortados;
+
+II. Condición de aeronavegabilidad: estado de una aeronave, motor, hélice o pieza que se ajusta al diseño aprobado correspondiente y se encuentra en condiciones de operar de modo seguro;
 
 III. Comercializar: acto mediante el cual la persona concesionaria, asignataria o permisionaria ofrece al público usuario la posibilidad de contratar un servicio de transporte aéreo de personas pasajeras, carga o correo, a cambio de una contraprestación; Fracción reformada DOF 31-05-2023
 

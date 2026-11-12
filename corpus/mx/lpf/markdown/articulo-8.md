@@ -47,7 +47,9 @@ VII. Llevar a cabo operaciones encubiertas y de usuarios simulados para la preve
 
 VIII. Realizar análisis técnico táctico o estratégico de la información obtenida para la generación de inteligencia;
 
-IX. Realizar bajo la conducción y mando del [Ministerio Público](articulo-4.md) las investigaciones de los delitos cometidos, así como las actuaciones que le instruya éste o la autoridad jurisdiccional conforme a las normas aplicables; X. Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
+IX. Realizar bajo la conducción y mando del [Ministerio Público](articulo-4.md) las investigaciones de los delitos cometidos, así como las actuaciones que le instruya éste o la autoridad jurisdiccional conforme a las normas aplicables;
+
+X. Informar a la persona al momento de su detención sobre los derechos que en su favor establece la Constitución Política de los Estados Unidos Mexicanos;
 
 XI. Poner a disposición sin demora de las autoridades competentes, a personas y bienes en los casos en que por motivo de sus funciones practique alguna detención o lleve a cabo algún aseguramiento de bienes, observando en todo momento el cumplimiento de los plazos constitucionales y legales establecidos;
 
@@ -95,7 +97,9 @@ XXVIII. Solicitar por escrito, previa autorización del juez de control en los t
 
 XXIX. Solicitar por escrito ante el juez de control, en términos del capítulo XI de la presente Ley, la autorización para la intervención de comunicaciones privadas para la investigación de los delitos. La autoridad judicial competente deberá acordar la solicitud en un plazo no mayor de doce horas a partir de su presentación;
 
-XXX. Colaborar, cuando sean formalmente requeridas, de conformidad con los ordenamientos constitucionales y legales aplicables, con las autoridades locales y municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente; prevenir la comisión de delitos, así como garantizar, mantener y restablecer la paz y el orden públicos; XXXI. Participar en operativos conjuntos con otras autoridades federales, locales o municipales, que se lleven a cabo conforme a lo dispuesto en la legislación relativa al Sistema Nacional de Seguridad Pública;
+XXX. Colaborar, cuando sean formalmente requeridas, de conformidad con los ordenamientos constitucionales y legales aplicables, con las autoridades locales y municipales competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro, cuando se vean amenazadas por situaciones que impliquen violencia o riesgo inminente; prevenir la comisión de delitos, así como garantizar, mantener y restablecer la paz y el orden públicos;
+
+XXXI. Participar en operativos conjuntos con otras autoridades federales, locales o municipales, que se lleven a cabo conforme a lo dispuesto en la legislación relativa al Sistema Nacional de Seguridad Pública;
 
 XXXII. Obtener, analizar y procesar información así como realizar las acciones que, conforme a las disposiciones aplicables, resulten necesarias para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes federales;
 
@@ -121,7 +125,9 @@ XLI. Estudiar, planificar y ejecutar los métodos y técnicas de combate a la de
 
 XLII. Realizar acciones de vigilancia, identificación, monitoreo y rastreo en la Red Pública de Internet sobre sitios web con el fin de prevenir conductas delictivas;
 
-XLIII. Desarrollar, mantener y supervisar fuentes de información en la sociedad, que permitan obtener datos sobre actividades relacionadas con fenómenos delictivos; XLIV. Integrar en el Registro Administrativo de Detenciones y demás bases de datos criminalísticos y de personal, las huellas decadactilares y otros elementos distintos a las fotografías y videos para identificar a una persona, solicitando a las autoridades de los tres órdenes de gobierno la información respectiva con que cuenten;
+XLIII. Desarrollar, mantener y supervisar fuentes de información en la sociedad, que permitan obtener datos sobre actividades relacionadas con fenómenos delictivos;
+
+XLIV. Integrar en el Registro Administrativo de Detenciones y demás bases de datos criminalísticos y de personal, las huellas decadactilares y otros elementos distintos a las fotografías y videos para identificar a una persona, solicitando a las autoridades de los tres órdenes de gobierno la información respectiva con que cuenten;
 
 XLV. Suscribir convenios o instrumentos jurídicos con otras instituciones policiales de los tres órdenes de gobierno y organizaciones no gubernamentales para el desempeño de sus atribuciones, en el marco de la ley;
 

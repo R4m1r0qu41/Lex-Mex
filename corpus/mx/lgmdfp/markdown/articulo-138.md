@@ -27,7 +27,9 @@ III. Acceder, directamente o mediante sus representantes, a los expedientes que 
 
 IV. Obtener copia simple gratuita de las diligencias que integren los expedientes de búsqueda;
 
-V. Acceder a las medidas de ayuda, asistencia y atención, particularmente aquellas que faciliten su participación en acciones de búsqueda, incluidas medidas de apoyo psicosocial; VI. Beneficiarse de los programas o acciones de protección que para salvaguarda de su integridad física y emocional emita la [Comisión Nacional de Búsqueda](articulo-4.md) o promueva ante autoridad competente;
+V. Acceder a las medidas de ayuda, asistencia y atención, particularmente aquellas que faciliten su participación en acciones de búsqueda, incluidas medidas de apoyo psicosocial;
+
+VI. Beneficiarse de los programas o acciones de protección que para salvaguarda de su integridad física y emocional emita la [Comisión Nacional de Búsqueda](articulo-4.md) o promueva ante autoridad competente;
 
 VII. Solicitar la intervención de expertos o peritos independientes, nacionales o internacionales en las acciones de búsqueda, en términos de lo dispuesto en la normativa aplicable;
 

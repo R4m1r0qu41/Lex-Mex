@@ -19,7 +19,9 @@ source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f
 
 Para el cumplimiento de su objeto, el [Instituto](articulo-4.md) contará con las siguientes atribuciones:
 
-I. Administrar el [Fondo](articulo-4.md); II. Participar en programas y proyectos en términos de la presente [Ley](articulo-4.md) que tengan como finalidad el fomento al ahorro de los trabajadores;
+I. Administrar el [Fondo](articulo-4.md);
+
+II. Participar en programas y proyectos en términos de la presente [Ley](articulo-4.md) que tengan como finalidad el fomento al ahorro de los trabajadores;
 
 III. Coadyuvar en el desarrollo económico integral de los trabajadores y de sus familias;
 

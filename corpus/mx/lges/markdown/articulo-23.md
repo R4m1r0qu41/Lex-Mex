@@ -25,7 +25,9 @@ II. Ampliar la distribución territorial y la oferta de educación superior, a f
 
 III. Fortalecer las capacidades educativas locales y la coordinación con la Federación;
 
-IV. Sentar las bases, desde el ámbito local, de procesos eficientes y eficaces de planeación, coordinación, participación y vinculación social conforme a lo establecido en esta Ley; V. Consolidar los procesos de evaluación y acreditación de programas e instituciones de educación superior;
+IV. Sentar las bases, desde el ámbito local, de procesos eficientes y eficaces de planeación, coordinación, participación y vinculación social conforme a lo establecido en esta Ley;
+
+V. Consolidar los procesos de evaluación y acreditación de programas e instituciones de educación superior;
 
 VI. Fortalecer y articular la concurrencia financiera y la distribución de recursos públicos en el ámbito territorial correspondiente;
 

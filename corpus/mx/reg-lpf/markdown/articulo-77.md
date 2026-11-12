@@ -21,7 +21,9 @@ Corresponde a la Dirección General de Operación Técnica Antidrogas:
 
 I. Auxiliar a las autoridades competentes en la ejecución de los mandamientos emitidos;
 
-II. Auxiliar, en el ámbito de sus atribuciones, a las autoridades competentes en la investigación de los delitos; III. Aplicar los métodos de análisis de información para generar inteligencia táctica que permita prevenir y combatir la comisión de delitos contra la salud, en el ámbito de su competencia;
+II. Auxiliar, en el ámbito de sus atribuciones, a las autoridades competentes en la investigación de los delitos;
+
+III. Aplicar los métodos de análisis de información para generar inteligencia táctica que permita prevenir y combatir la comisión de delitos contra la salud, en el ámbito de su competencia;
 
 IV. Ejecutar los modelos y estrategias para las operaciones policiales orientadas al combate de la estructura criminal;
 

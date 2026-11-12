@@ -21,7 +21,9 @@ Son facultades de la Federación en materia de asistencia social:
 
 I. La formulación y conducción de la política nacional y el diseño de los instrumentos programáticos necesarios;
 
-II. El seguimiento de Acuerdos, Tratados e Instrumentos Internacionales en materia de asistencia social y atención a grupos vulnerables; III. La coordinación del Sistema Nacional de Asistencia Social Pública y Privada;
+II. El seguimiento de Acuerdos, Tratados e Instrumentos Internacionales en materia de asistencia social y atención a grupos vulnerables;
+
+III. La coordinación del Sistema Nacional de Asistencia Social Pública y Privada;
 
 IV. La coordinación del Servicio Nacional de Información de Instituciones de Asistencia Social Públicas y Privadas;
 

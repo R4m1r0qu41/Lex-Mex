@@ -27,7 +27,9 @@ III. Información;
 
 IV. Calidad;
 
-V. Finalidad; VI. Lealtad;
+V. Finalidad;
+
+VI. Lealtad;
 
 VII. Proporcionalidad, y
 

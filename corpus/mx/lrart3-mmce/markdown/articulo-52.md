@@ -25,7 +25,9 @@ II. Para ser consideradas por la Junta para formar parte del Consejo Ciudadano, 
 
 III. En la integración del Consejo Ciudadano, la Junta, contemplará a docentes de los diversos tipos y modalidades de la educación;
 
-IV. La Junta elegirá por la mayoría de sus integrantes presentes, a las personas que constituirán el Consejo Ciudadano, buscando siempre que su conformación sea plural, representativa y procurando la paridad de género; V. El encargo de los integrantes del Consejo Ciudadano será de doce años de manera escalonada;
+IV. La Junta elegirá por la mayoría de sus integrantes presentes, a las personas que constituirán el Consejo Ciudadano, buscando siempre que su conformación sea plural, representativa y procurando la paridad de género;
+
+V. El encargo de los integrantes del Consejo Ciudadano será de doce años de manera escalonada;
 
 VI. En caso de ausencia de alguno de sus integrantes, la Junta emitirá la convocatoria respectiva para la elección de la persona que integre al Consejo Ciudadano en los términos del presente artículo, y
 

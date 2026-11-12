@@ -23,4 +23,6 @@ I. Grupo especializado de búsqueda, cuyas funciones se encuentran en el artícu
 
 II. Área de Análisis de Contexto, la cual desempeñará, además de las funciones que esta Ley u otras disposiciones jurídicas le asignen, las atribuciones a que se refieren las fracciones XLV, XLVI, XLVII y XLVIII del artículo [53](articulo-53.md);
 
-III. Área de Gestión y Procesamiento de Información, la cual desempeñará, además de las funciones que esta Ley u otras disposiciones jurídicas le asignen, las atribuciones a que se refiere la fracción XLIX del artículo [53](articulo-53.md), y IV. La estructura administrativa necesaria para el cumplimiento de sus funciones.
+III. Área de Gestión y Procesamiento de Información, la cual desempeñará, además de las funciones que esta Ley u otras disposiciones jurídicas le asignen, las atribuciones a que se refiere la fracción XLIX del artículo [53](articulo-53.md), y
+
+IV. La estructura administrativa necesaria para el cumplimiento de sus funciones.

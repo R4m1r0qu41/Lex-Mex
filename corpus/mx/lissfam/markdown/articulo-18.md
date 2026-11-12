@@ -33,7 +33,9 @@ VI. Fondo de trabajo;
 
 VII. Fondo de ahorro;
 
-VIII. Seguro de vida; IX. Seguro colectivo de retiro;
+VIII. Seguro de vida;
+
+IX. Seguro colectivo de retiro;
 
 X. Venta de casas y departamentos;
 

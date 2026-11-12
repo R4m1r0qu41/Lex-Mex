@@ -17,4 +17,6 @@ source_sha256: 476c757523ccdbe6825029df4b37990c8def13ecf98e1bb66e4ace738d33946a
 
 # Artículo 80
 
-El personal, por su grado, se agrupará en las categorías siguientes: I. Almirantes; II. Capitanes; III. Oficiales; IV. Cadetes y Alumnado; V. Clases, y VI. Marinería.
+El personal, por su grado, se agrupará en las categorías siguientes: I. Almirantes;
+
+II. Capitanes; III. Oficiales; IV. Cadetes y Alumnado; V. Clases, y VI. Marinería.

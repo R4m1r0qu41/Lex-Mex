@@ -31,7 +31,9 @@ V. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para e
 
 VI. Los concursados que no hayan sido rehabilitados;
 
-VII. Quienes realicen funciones de regulación y supervisión de las ITF, y VIII. Quienes participen en el consejo de administración de otra ITF del mismo tipo o de una sociedad controladora de un grupo financiero al que pertenezca esa institución.
+VII. Quienes realicen funciones de regulación y supervisión de las ITF, y
+
+VIII. Quienes participen en el consejo de administración de otra ITF del mismo tipo o de una sociedad controladora de un grupo financiero al que pertenezca esa institución.
 
 La persona que vaya a ser designada como consejero de una ITF y sea consejero de una entidad financiera deberá revelar dicha circunstancia a la asamblea de accionistas de dicha institución para el acto de su designación.
 

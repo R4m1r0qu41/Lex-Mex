@@ -17,7 +17,7 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 20
 
-La [Secretaría](articulo-3.md) en coordinación con la Comisión apoyará al [Sector](articulo-3.md) a:
+La [Secretaría](articulo-3.md) en coordinación con la [Comisión](articulo-3.md) apoyará al [Sector](articulo-3.md) a:
 
 I. Promover, evaluar y ejecutar una política nacional de fomento económico específica delineada a favor de la industria vitivinícola con la participación de los representantes de los Comités Nacional y Estatales de los Sistemas Producto [Vid](articulo-3.md), comités interinstitucionales, consejos, productores, asociaciones civiles y académicos que por objeto o interés estén vinculados a la Industria Vitivinícola;
 

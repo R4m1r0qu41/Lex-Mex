@@ -19,6 +19,8 @@ source_sha256: 8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34
 
 Además de las funciones a que se refiere el artículo 17 de la Ley, corresponde a los responsables del Archivo Histórico de las Dependencias y Entidades:
 
-I. Planear y supervisar la correcta organización, descripción, preservación y difusión de los Documentos Históricos; II. Dar cumplimiento a las disposiciones en materia de organización, descripción, preservación y difusión de la documentación del Archivo Histórico, y
+I. Planear y supervisar la correcta organización, descripción, preservación y difusión de los Documentos Históricos;
+
+II. Dar cumplimiento a las disposiciones en materia de organización, descripción, preservación y difusión de la documentación del Archivo Histórico, y
 
 III. Representar al Archivo Histórico ante el Área Coordinadora de Archivos y el Archivo General de la Nación para detectar las necesidades en materia de normatividad y desarrollo, y normalizar adecuada y efectivamente la selección y organización de Documentación Histórica.

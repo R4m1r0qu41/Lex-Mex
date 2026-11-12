@@ -21,7 +21,7 @@ El consejo de administración deberá ocuparse de los asuntos siguientes:
 
 I. Establecer las estrategias generales del [Grupo Financiero](articulo-5o.md), así como las estrategias generales para la gestión, conducción y ejecución del negocio de la [Sociedad Controladora](articulo-5o.md), entidades financieras y [Subcontroladoras](articulo-5o.md).
 
-II. Vigilar, a través del comité de prácticas societarias, la gestión y conducción de la Sociedad Controladora, de las entidades financieras y Subcontroladoras en las que ejerza el [Control](articulo-5o.md) dicha sociedad, considerando la relevancia que tengan estas últimas en la situación financiera, administrativa y jurídica del Grupo Financiero en su conjunto, así como el desempeño de los Directivos Relevantes. Lo anterior, en términos de lo establecido en los artículos [56](articulo-56.md) a [58](articulo-58.md) de esta Ley.
+II. Vigilar, a través del comité de prácticas societarias, la gestión y conducción de la Sociedad Controladora, de las entidades financieras y Subcontroladoras en las que ejerza el [Control](articulo-5o.md) dicha sociedad, considerando la relevancia que tengan estas últimas en la situación financiera, administrativa y jurídica del Grupo Financiero en su conjunto, así como el desempeño de los [Directivos Relevantes](articulo-5o.md). Lo anterior, en términos de lo establecido en los artículos [56](articulo-56.md) a [58](articulo-58.md) de esta Ley.
 
 III. Aprobar, con la previa opinión del comité que sea competente: a) Las políticas y lineamientos para el uso o goce de los bienes que integren el patrimonio de la Sociedad Controladora, así como de las entidades financieras y demás personas morales en las que ejerza el Control, por parte de [Personas Relacionadas](articulo-5o.md).
 
@@ -75,7 +75,9 @@ d) El informe a que se refiere el artículo [172](../../lgsm/markdown/articulo-1
 
 e) El informe sobre las operaciones y actividades en las que hubiere intervenido conforme a lo previsto en esta Ley.
 
-V. Dar seguimiento a los principales riesgos a los que está expuesta la Sociedad Controladora y las entidades financieras integrantes del Grupo Financiero y Subcontroladoras, identificados con base en la información presentada por los comités, el director general y la persona moral que proporcione los servicios de auditoría externa, así como a los sistemas de contabilidad, control interno y auditoría interna, registro, archivo o información, de éstas y aquélla, lo que podrá llevar a cabo por conducto del comité que ejerza las funciones en materia de auditoría. VI. Aprobar las políticas de información y comunicación con los accionistas, así como con los consejeros y Directivos Relevantes, para dar cumplimiento a lo previsto en el presente ordenamiento legal.
+V. Dar seguimiento a los principales riesgos a los que está expuesta la Sociedad Controladora y las entidades financieras integrantes del Grupo Financiero y Subcontroladoras, identificados con base en la información presentada por los comités, el director general y la persona moral que proporcione los servicios de auditoría externa, así como a los sistemas de contabilidad, control interno y auditoría interna, registro, archivo o información, de éstas y aquélla, lo que podrá llevar a cabo por conducto del comité que ejerza las funciones en materia de auditoría.
+
+VI. Aprobar las políticas de información y comunicación con los accionistas, así como con los consejeros y Directivos Relevantes, para dar cumplimiento a lo previsto en el presente ordenamiento legal.
 
 VII. Determinar las acciones que correspondan a fin de subsanar las irregularidades que sean de su conocimiento e implementar las medidas correctivas correspondientes.
 

@@ -37,7 +37,9 @@ b) No se efectúe el acondicionamiento, reprocesamiento, reparación, sustituci�
 
 c) Se utilice cualquier información o documentación en la que consten los resultados de la [Evaluación de la Conformidad](articulo-4.md) o que compruebe el cumplimiento con esta Ley y las disposiciones que de ella derivan, para un fin distinto del que motivó su expedición;
 
-d) Se contravengan disposiciones contenidas en las Normas Oficiales Mexicanas y [Estándares](articulo-4.md) que resulten obligatorios, o III. De cuatro mil a quince mil veces el equivalente en Unidades de Medida y Actualización, cuando:
+d) Se contravengan disposiciones contenidas en las Normas Oficiales Mexicanas y [Estándares](articulo-4.md) que resulten obligatorios, o
+
+III. De cuatro mil a quince mil veces el equivalente en Unidades de Medida y Actualización, cuando:
 
 a) Se incurra en acciones u omisiones que impliquen engaño al consumidor o constituyan una práctica que pueda inducir a error, incluyendo cuando se haya auto declarado o manifestado indebidamente el cumplimiento con una Norma Oficial Mexicana o Estándar;
 

@@ -29,6 +29,8 @@ IV. Establecer planes a corto y mediano plazo para adquirir y/o desarrollar nuev
 
 V. Planear los proyectos a corto, mediano y largo plazo que en materia de informática se deben realizar para garantizar la continuidad de los servicios del área y soportar los requerimientos de la Institución relacionados con la tecnología de información.
 
-VI. Analizar, e instrumentar los sistemas, políticas y procedimientos necesarios que permitan garantizar la seguridad, integridad, confidencialidad y disponibilidad de la información contenida en las bases de datos institucionales; VII. Establecer permanente comunicación con los titulares de las áreas usuarias para conocer sus planes y proyectos en materia de tecnología de información para otorgar el apoyo técnico en la materia, y
+VI. Analizar, e instrumentar los sistemas, políticas y procedimientos necesarios que permitan garantizar la seguridad, integridad, confidencialidad y disponibilidad de la información contenida en las bases de datos institucionales;
+
+VII. Establecer permanente comunicación con los titulares de las áreas usuarias para conocer sus planes y proyectos en materia de tecnología de información para otorgar el apoyo técnico en la materia, y
 
 VIII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

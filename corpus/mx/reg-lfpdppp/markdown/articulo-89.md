@@ -19,7 +19,9 @@ source_sha256: cf0f417074e7375038e5e5ba6742e321aaf86db7cb76b83ced2775b88c28a5bb
 
 Los derechos ARCO se ejercerán:
 
-I. Por el titular, previa acreditación de su identidad, a través de la presentación de copia de su documento de identificación y habiendo exhibido el original para su cotejo. También podrán ser admisibles los instrumentos electrónicos por medio de los cuales sea posible identificar fehacientemente al titular, u otros mecanismos de autenticación permitidos por otras disposiciones legales o reglamentarias, o aquéllos previamente establecidos por el responsable. La utilización de firma electrónica avanzada o del instrumento electrónico que lo sustituya eximirá de la presentación de la copia del documento de identificación, y II. Por el representante del titular, previa acreditación de:
+I. Por el titular, previa acreditación de su identidad, a través de la presentación de copia de su documento de identificación y habiendo exhibido el original para su cotejo. También podrán ser admisibles los instrumentos electrónicos por medio de los cuales sea posible identificar fehacientemente al titular, u otros mecanismos de autenticación permitidos por otras disposiciones legales o reglamentarias, o aquéllos previamente establecidos por el responsable. La utilización de firma electrónica avanzada o del instrumento electrónico que lo sustituya eximirá de la presentación de la copia del documento de identificación, y
+
+II. Por el representante del titular, previa acreditación de:
 
 a) La identidad del titular;
 

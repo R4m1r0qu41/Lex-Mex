@@ -17,7 +17,9 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 # Artículo 160
 
-Las patentes o registros caducan y los derechos que amparan caen en el dominio público en los siguientes supuestos: I.- Al vencimiento de su vigencia;
+Las patentes o registros caducan y los derechos que amparan caen en el dominio público en los siguientes supuestos:
+
+I.- Al vencimiento de su vigencia;
 
 II.- Por no cubrir el pago de la tarifa previsto para mantener vigentes sus derechos, o dentro del plazo de gracia de seis meses siguientes a éste;
 

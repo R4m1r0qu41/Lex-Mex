@@ -21,7 +21,9 @@ Artículo Quincuagésimo Primero de este Decreto, se estará a lo siguiente:
 
 I. A partir de la fecha de entrada en vigor de la presente Ley quedará abrogada la Ley para Regular las Agrupaciones Financieras publicada en el Diario Oficial de la Federación el 18 de julio de 1990, así como todas las disposiciones que se opongan a la presente Ley. No obstante lo anterior, los trámites que se hubieran iniciado antes de la entrada en vigor de la presente Ley, continuarán desahogándose conforme a dicha Ley, hasta su conclusión.
 
-II. En tanto se emiten las disposiciones de carácter general a que se refiere la presente Ley, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en la misma. III. Las [Sociedades Controladoras](articulo-5o.md) contarán con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la [Secretaría](articulo-5o.md).
+II. En tanto se emiten las disposiciones de carácter general a que se refiere la presente Ley, seguirán aplicándose las emitidas con anterioridad a su entrada en vigor en lo que no se opongan a lo previsto en la misma.
+
+III. Las [Sociedades Controladoras](articulo-5o.md) contarán con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el mismo. Tratándose de la modificación de los estatutos sociales, éstos deberán someterse a la aprobación de la [Secretaría](articulo-5o.md).
 
 IV. Las Sociedades Controladoras y [Grupos Financieros](articulo-5o.md) que a la entrada en vigor de esta Ley cuenten con autorización para constituirse y funcionar como tales conforme a la Ley para Regular las Agrupaciones Financieras que se abroga, se tendrán por autorizados en términos del artículo [11](articulo-11.md) de esta Ley.
 

@@ -27,7 +27,9 @@ III. Declaración bajo protesta de decir verdad de que no ha sido sancionado por
 
 IV. Para el caso del médico veterinario responsable autorizado o el profesional autorizado, la carta propuesta del establecimiento firmada por el representante legal en el cual prestará sus servicios;
 
-V. Para el caso del tercero especialista, la carta propuesta por el organismo de certificación o unidad de verificación al que auxiliará en la evaluación de la conformidad, y VI. Aprobar el examen de conocimientos correspondiente debiendo obtener cuando menos el ochenta por ciento de los aciertos de la puntuación total.
+V. Para el caso del tercero especialista, la carta propuesta por el organismo de certificación o unidad de verificación al que auxiliará en la evaluación de la conformidad, y
+
+VI. Aprobar el examen de conocimientos correspondiente debiendo obtener cuando menos el ochenta por ciento de los aciertos de la puntuación total.
 
 Las solicitudes de autorización a que se refiere este artículo deberán ser resueltas por la Secretaría en un plazo de treinta días hábiles, contados a partir del siguiente día hábil al de la presentación del examen.
 

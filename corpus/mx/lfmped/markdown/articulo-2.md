@@ -21,4 +21,6 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Comité: el Comité Técnico del [Fondo Mexicano del Petróleo](articulo-2.md) para la Estabilización y el Desarrollo;
 
-II. Fondo Mexicano del Petróleo: el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, y III. Reserva del Fondo: los activos del Fondo Mexicano del Petróleo destinados al ahorro de largo plazo en términos de esta Ley.
+II. Fondo Mexicano del Petróleo: el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, y
+
+III. Reserva del Fondo: los activos del Fondo Mexicano del Petróleo destinados al ahorro de largo plazo en términos de esta Ley.

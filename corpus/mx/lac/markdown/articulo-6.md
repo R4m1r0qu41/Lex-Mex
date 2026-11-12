@@ -31,7 +31,9 @@ V. Investigar accidentes e incidentes sufridos por aeronaves civiles y emitir el
 
 VI. Expedir las disposiciones técnico-administrativas en materia de búsqueda y salvamento, así como de investigación de accidentes e incidentes para el cumplimiento de lo dispuesto en esta Ley y en los tratados de los que el Estado mexicano es parte, mismas que deben publicarse en el Diario Oficial de la Federación y difundirse en la [Publicación de Información Aeronáutica](articulo-2.md) de México;
 
-VII. Autorizar la cesión total o parcial, hipoteca, gravamen, transferencia o enajenación de las concesiones o los derechos en ellas conferidos a otros particulares, nacionales o extranjeros; VIII. Interpretar la presente Ley, sus reglamentos y demás normativa aplicable para efectos administrativos;
+VII. Autorizar la cesión total o parcial, hipoteca, gravamen, transferencia o enajenación de las concesiones o los derechos en ellas conferidos a otros particulares, nacionales o extranjeros;
+
+VIII. Interpretar la presente Ley, sus reglamentos y demás normativa aplicable para efectos administrativos;
 
 IX. Expedir en los términos de la normativa aplicable las normas oficiales mexicanas, y
 

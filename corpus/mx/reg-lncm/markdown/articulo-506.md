@@ -21,7 +21,9 @@ El piloto coordinador, además de las obligaciones inherentes al servicio de pil
 
 I. Ser miembro del [Comité Técnico](articulo-10.md);
 
-II. Representar al cuerpo de pilotos ante las autoridades correspondientes en los aspectos técnicos del servicio; III. Informar al Capitán de Puerto de los Pilotos de Puerto que están en servicio;
+II. Representar al cuerpo de pilotos ante las autoridades correspondientes en los aspectos técnicos del servicio;
+
+III. Informar al Capitán de Puerto de los Pilotos de Puerto que están en servicio;
 
 IV. Registrar en la [Capitanía de Puerto](articulo-10.md) el programa de turno previa autorización del Capitán de Puerto del servicio de pilotaje, con la frecuencia que determine el reglamento de operación de pilotaje de cada puerto;
 

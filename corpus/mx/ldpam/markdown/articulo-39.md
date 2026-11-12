@@ -27,4 +27,6 @@ III. Las aportaciones voluntarias, donaciones, herencias o legados que reciba de
 
 IV. Los ingresos que obtenga por las actividades que realice, conforme a las disposiciones legales aplicables;
 
-V. Las aportaciones de los gobiernos de las entidades federativas y ayuntamientos, así como del Distrito Federal, por la prestación de los servicios a su cargo, y VI. Los demás bienes, recursos y derechos que adquiera por cualquier título, de conformidad con las disposiciones jurídicas aplicables.
+V. Las aportaciones de los gobiernos de las entidades federativas y ayuntamientos, así como del Distrito Federal, por la prestación de los servicios a su cargo, y
+
+VI. Los demás bienes, recursos y derechos que adquiera por cualquier título, de conformidad con las disposiciones jurídicas aplicables.

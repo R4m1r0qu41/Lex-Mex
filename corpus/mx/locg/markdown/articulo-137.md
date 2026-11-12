@@ -29,7 +29,9 @@ d) Cuando la minuta sea aprobada en sus términos se remitirá al Ejecutivo para
 
 e) Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada por la Cámara revisora deberá devolverla a la Cámara de origen, para los efectos del artículo 72, fracciones D o E, de la Constitución;
 
-f) Si transcurre el plazo sin que se formule el dictamen correspondiente, procederá lo siguiente: I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día de la siguiente sesión del Pleno para su discusión y votación en sus términos, y sin mayor trámite.
+f) Si transcurre el plazo sin que se formule el dictamen correspondiente, procederá lo siguiente:
+
+I. La Mesa Directiva deberá incluirla como primer asunto en el orden del día de la siguiente sesión del Pleno para su discusión y votación en sus términos, y sin mayor trámite.
 
 II. Cuando la minuta sea aprobada en sus términos se remitirá al Ejecutivo para los efectos de la fracción A del artículo 72 de la Constitución.
 

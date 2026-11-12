@@ -25,7 +25,9 @@ II. La dirección del lugar de trabajo habitual;
 
 III. La fecha de inicio del contrato y, cuando éste se suscriba para un período específico, su duración;
 
-IV. El tipo de trabajo por realizar; V. La remuneración, el método de cálculo de la misma y la periodicidad de los pagos;
+IV. El tipo de trabajo por realizar;
+
+V. La remuneración, el método de cálculo de la misma y la periodicidad de los pagos;
 
 VI. Las horas de trabajo;
 

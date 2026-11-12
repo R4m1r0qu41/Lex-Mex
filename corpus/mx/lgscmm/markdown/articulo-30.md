@@ -17,7 +17,7 @@ source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 
 # Artículo 30
 
-La Junta Directiva de la Unidad del [Sistema](articulo-7.md) tendrá las siguientes funciones:
+La Junta Directiva de la [Unidad del Sistema](articulo-7.md) tendrá las siguientes funciones:
 
 I. Aprobar las políticas, normas y programas para que la Unidad del Sistema cumpla con sus atribuciones;
 

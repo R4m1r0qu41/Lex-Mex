@@ -24,7 +24,9 @@ Las entidades de acreditación, previa opinión de las dependencias competentes,
 
 I. No proporcionen a la entidad de acreditación o a las dependencias competentes en forma oportuna y completa los informes que le sean requeridos respecto a su funcionamiento y operación;
 
-II. Se impidan u obstaculicen las funciones de verificación y vigilancia de la entidad de acreditación o de las dependencias competentes; III. Se disminuyan los recursos o la capacidad necesaria para emitir los dictámenes técnicos o las certificaciones en áreas determinadas, caso en el cual la suspensión se concentrará en el área respectiva, o
+II. Se impidan u obstaculicen las funciones de verificación y vigilancia de la entidad de acreditación o de las dependencias competentes;
+
+III. Se disminuyan los recursos o la capacidad necesaria para emitir los dictámenes técnicos o las certificaciones en áreas determinadas, caso en el cual la suspensión se concentrará en el área respectiva, o
 
 IV. Cuando se violen las disposiciones de la Ley y el presente Reglamento.
 

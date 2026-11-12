@@ -201,19 +201,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:12:reference:2297-2299:58:direct",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:12:reference:2298-2300:58:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lissfam:article:12",
     "source_span": "58",
-    "start_char": 2297,
-    "end_char": 2299,
+    "start_char": 2298,
+    "end_char": 2300,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfep",
     "target_provision_id": "urn:lex-mx:federal:statute:lfep:article:58",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XV",
-        "start_char": 2301,
-        "end_char": 2312
+        "start_char": 2302,
+        "end_char": 2313
       }
     ],
     "basis": "express_cross_reference",
@@ -436,11 +436,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:162:reference:944-946:38:direct",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:162:reference:945-947:38:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lissfam:article:162",
     "source_span": "38",
-    "start_char": 944,
-    "end_char": 946,
+    "start_char": 945,
+    "end_char": 947,
     "target_instrument_id": "urn:lex-mx:federal:statute:lissfam",
     "target_provision_id": "urn:lex-mx:federal:statute:lissfam:article:38",
     "qualifiers": [],
@@ -452,11 +452,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lissfam:article:162:reference:1340-1342:38:direct",
+    "id": "urn:lex-mx:federal:statute:lissfam:article:162:reference:1341-1343:38:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lissfam:article:162",
     "source_span": "38",
-    "start_char": 1340,
-    "end_char": 1342,
+    "start_char": 1341,
+    "end_char": 1343,
     "target_instrument_id": "urn:lex-mx:federal:statute:lissfam",
     "target_provision_id": "urn:lex-mx:federal:statute:lissfam:article:38",
     "qualifiers": [],

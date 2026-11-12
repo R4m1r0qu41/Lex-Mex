@@ -29,7 +29,9 @@ IV. Establecer y aplicar las políticas públicas a través de las dependencias 
 
 V. Conceder, de conformidad con las disposiciones legales aplicables, estímulos fiscales a personas físicas o morales que realicen acciones a favor de las personas con discapacidad, adecuen sus instalaciones en términos de accesibilidad, o de cualquier otra forma se adhieran a las políticas públicas en la materia, en términos de la legislación aplicable;
 
-VI. Promover la consulta y participación de las personas con discapacidad, personas físicas o morales y las organizaciones de la sociedad civil en la elaboración y aplicación de políticas, legislación y programas, con base en la presente Ley; VII. Asegurar la participación de las personas con discapacidad y las organizaciones de la sociedad civil en la elaboración de los informes que el Gobierno Mexicano presentará a la [Organización](articulo-2.md) de las Naciones Unidas en cumplimiento a la [Convención](articulo-2.md) y ante otros organismos internacionales, relacionados con la materia de discapacidad y los derechos humanos;
+VI. Promover la consulta y participación de las personas con discapacidad, personas físicas o morales y las organizaciones de la sociedad civil en la elaboración y aplicación de políticas, legislación y programas, con base en la presente Ley;
+
+VII. Asegurar la participación de las personas con discapacidad y las organizaciones de la sociedad civil en la elaboración de los informes que el Gobierno Mexicano presentará a la [Organización](articulo-2.md) de las Naciones Unidas en cumplimiento a la [Convención](articulo-2.md) y ante otros organismos internacionales, relacionados con la materia de discapacidad y los derechos humanos;
 
 VIII. Garantizar el desarrollo integral de las personas con discapacidad, de manera plena y autónoma, en los términos de la presente Ley;
 

@@ -285,11 +285,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:27:reference:995-999:69-b:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:27:reference:996-1000:69-b:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:27",
     "source_span": "69-B",
-    "start_char": 995,
-    "end_char": 999,
+    "start_char": 996,
+    "end_char": 1000,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:69-b",
     "qualifiers": [],
@@ -390,6 +390,29 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "parent_shorthand"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:34:reference:743-745:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:34",
+    "source_span": "II",
+    "start_char": 743,
+    "end_char": 745,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:34",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 743,
+        "end_char": 745
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
   },
   {
     "schema_version": "0.1.0",
@@ -723,19 +746,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:67:reference:1306-1307:5:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lbio:article:67:reference:1307-1308:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:67",
     "source_span": "5",
-    "start_char": 1306,
-    "end_char": 1307,
+    "start_char": 1307,
+    "end_char": 1308,
     "target_instrument_id": "urn:lex-mx:federal:statute:lbio",
     "target_provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XIII",
-        "start_char": 1309,
-        "end_char": 1322
+        "start_char": 1310,
+        "end_char": 1323
       }
     ],
     "basis": "express_cross_reference",

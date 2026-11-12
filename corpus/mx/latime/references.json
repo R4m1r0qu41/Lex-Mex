@@ -49,19 +49,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:latime:article:3:reference:680-682:89:direct",
+    "id": "urn:lex-mx:federal:statute:latime:article:3:reference:681-683:89:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:latime:article:3",
     "source_span": "89",
-    "start_char": 680,
-    "end_char": 682,
+    "start_char": 681,
+    "end_char": 683,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción X",
-        "start_char": 656,
-        "end_char": 666
+        "start_char": 657,
+        "end_char": 667
       }
     ],
     "basis": "express_cross_reference",

@@ -7,8 +7,8 @@ provision_type: article
 number: "32"
 aliases: ["LIH — Artículo 32"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf
 source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 ---
@@ -47,7 +47,9 @@ III. El operador expedirá los comprobantes fiscales a los integrantes del conso
 
 IV. El operador deberá proporcionar, a más tardar el día 15 de febrero de cada año, a la autoridad fiscal, la información de las operaciones realizadas en el ejercicio inmediato anterior por cuenta de los integrantes del consorcio, identificando por cada uno la parte proporcional que les corresponda del total de las operaciones efectuadas;
 
-V. Los integrantes del consorcio podrán deducir, en forma individual, la parte proporcional de los costos, gastos e inversiones que se efectúen, siempre que el operador expida, por cada integrante, un comprobante fiscal que ampare el monto de la parte proporcional que les corresponda y reúnan los requisitos que establezcan las disposiciones fiscales; VI. No se considerará como ingreso acumulable para el operador, las cantidades que se perciban para efectuar gastos por cuenta de los integrantes del consorcio, siempre y cuando dichas cantidades se encuentren respaldadas con los comprobantes fiscales que expida el operador a cada uno de los integrantes del consorcio en términos de la fracción III anterior;
+V. Los integrantes del consorcio podrán deducir, en forma individual, la parte proporcional de los costos, gastos e inversiones que se efectúen, siempre que el operador expida, por cada integrante, un comprobante fiscal que ampare el monto de la parte proporcional que les corresponda y reúnan los requisitos que establezcan las disposiciones fiscales;
+
+VI. No se considerará como ingreso acumulable para el operador, las cantidades que se perciban para efectuar gastos por cuenta de los integrantes del consorcio, siempre y cuando dichas cantidades se encuentren respaldadas con los comprobantes fiscales que expida el operador a cada uno de los integrantes del consorcio en términos de la fracción III anterior;
 
 VII. El operador sólo podrá deducir la parte proporcional del importe total amparado en los comprobantes que le sean expedidos en términos de la fracción I, inciso b), anterior, que corresponda a los gastos que efectivamente haya cubierto en cada Periodo; Fracción reformada DOF 07-12-2016
 

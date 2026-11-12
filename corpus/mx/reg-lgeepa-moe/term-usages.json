@@ -109,21 +109,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:4:term-usage:3148-3158",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:4:term-usage:3149-3159",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:reglamento",
     "span": "Reglamento",
-    "start_char": 3148,
-    "end_char": 3158
+    "start_char": 3149,
+    "end_char": 3159
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:4:term-usage:3336-3346",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:4:term-usage:3337-3347",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:reglamento",
     "span": "Reglamento",
-    "start_char": 3336,
-    "end_char": 3346
+    "start_char": 3337,
+    "end_char": 3347
   },
   {
     "schema_version": "0.1.0",
@@ -334,12 +334,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:27:term-usage:681-691",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:27:term-usage:682-692",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:27",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:secretaria",
     "span": "Secretaría",
-    "start_char": 681,
-    "end_char": 691
+    "start_char": 682,
+    "end_char": 692
   },
   {
     "schema_version": "0.1.0",
@@ -505,12 +505,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40:term-usage:1329-1332",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40:term-usage:1330-1333",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:article:40",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-moe:term:ley",
     "span": "Ley",
-    "start_char": 1329,
-    "end_char": 1332
+    "start_char": 1330,
+    "end_char": 1333
   },
   {
     "schema_version": "0.1.0",

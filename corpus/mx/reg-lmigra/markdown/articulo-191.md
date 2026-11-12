@@ -27,7 +27,9 @@ III. La mención de que el retorno asistido sólo podrá llevarse a cabo a solic
 
 IV. La obligatoriedad de informar a la persona extranjera sobre la opción de notificar o no a la representación consular correspondiente, respecto de su situación migratoria;
 
-V. Los aspectos logísticos y operativos del mecanismo de retorno, preservando la unidad familiar de las personas extranjeras, así como la mención de la obligación de las Partes de respetar los derechos humanos de los migrantes durante todo el procedimiento de retorno asistido; VI. Las disposiciones específicas que habrán de observarse en el caso de retorno asistido de personas en situación de vulnerabilidad, así como la intervención que la representación consular del Estado receptor tendrá en el procedimiento;
+V. Los aspectos logísticos y operativos del mecanismo de retorno, preservando la unidad familiar de las personas extranjeras, así como la mención de la obligación de las Partes de respetar los derechos humanos de los migrantes durante todo el procedimiento de retorno asistido;
+
+VI. Las disposiciones específicas que habrán de observarse en el caso de retorno asistido de personas en situación de vulnerabilidad, así como la intervención que la representación consular del Estado receptor tendrá en el procedimiento;
 
 VII. La obligación del país de origen o de residencia de la persona extranjera de contar con la infraestructura física y el personal capacitado que le permita recibir apropiadamente a las personas extranjeras retornadas;
 

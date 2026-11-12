@@ -27,7 +27,9 @@ III. Intervenir en la audiencia en la que rinda su declaración inicial;
 
 IV. Solicitar ante el juez de control la vinculación a proceso del adolescente y las medidas cautelares, establecidas en la Ley de Justicia para Adolescentes para el Distrito Federal;
 
-V. Oponerse, cuando sea procedente, a la suspensión del proceso a prueba; VI. Solicitar la revocación de la suspensión del proceso a prueba, cuando el adolescente incumpla con las condiciones impuestas por el juez especializado;
+V. Oponerse, cuando sea procedente, a la suspensión del proceso a prueba;
+
+VI. Solicitar la revocación de la suspensión del proceso a prueba, cuando el adolescente incumpla con las condiciones impuestas por el juez especializado;
 
 VII. Oponerse, cuando sea procedente, a los acuerdos reparatorios;
 

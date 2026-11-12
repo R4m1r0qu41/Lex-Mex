@@ -23,7 +23,9 @@ I. Autonomía y autorrealización. Todas las acciones que se realicen en benefic
 
 II. Participación. La inserción de las personas adultas mayores en todos los órdenes de la vida pública. En los ámbitos de su interés serán consultados y tomados en cuenta; asimismo se promoverá su presencia e intervención; Fracción reformada DOF 26-01-2005
 
-III. Equidad. Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia; IV. Corresponsabilidad. La concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley; Fracción reformada DOF 30-03-2022
+III. Equidad. Es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia;
+
+IV. Corresponsabilidad. La concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley; Fracción reformada DOF 30-03-2022
 
 V. Atención preferente. Es aquella que obliga a las instituciones federales, estatales y municipales de gobierno, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores, y Fracción reformada DOF 30-03-2022
 

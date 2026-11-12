@@ -21,7 +21,9 @@ En los paquetes de productos del tabaco y en todo empaquetado y etiquetado exter
 
 I. Serán formuladas y aprobadas por la [Secretaría](articulo-6.md);
 
-II. Se imprimirán en forma rotatoria directamente en los empaques; III. Serán de alto impacto preventivo, claras, visibles, legibles y no deberán ser obstruidas por ningún medio;
+II. Se imprimirán en forma rotatoria directamente en los empaques;
+
+III. Serán de alto impacto preventivo, claras, visibles, legibles y no deberán ser obstruidas por ningún medio;
 
 IV. Deberán ocupar al menos el 30% de la cara anterior, 100% de la cara posterior y el 100% de una de las caras laterales del paquete y la cajetilla;
 

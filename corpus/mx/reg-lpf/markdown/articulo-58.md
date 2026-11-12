@@ -19,7 +19,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Corresponde a la Dirección General de Manejo de Crisis y Negociación:
 
-I. Brindar asesoría a las personas que así lo requieran para el manejo de crisis en situación de rehenes, secuestro, terrorismo y otros delitos que impliquen riesgo a las personas o instituciones; II. Elaborar los estudios para analizar y evaluar la información y el perfil psicológico del probable delincuente que permita conducir las negociaciones con la mayor probabilidad de éxito;
+I. Brindar asesoría a las personas que así lo requieran para el manejo de crisis en situación de rehenes, secuestro, terrorismo y otros delitos que impliquen riesgo a las personas o instituciones;
+
+II. Elaborar los estudios para analizar y evaluar la información y el perfil psicológico del probable delincuente que permita conducir las negociaciones con la mayor probabilidad de éxito;
 
 III. Proponer y ejecutar los lineamientos generales de actuación policial en materia de orientación ciudadana;
 

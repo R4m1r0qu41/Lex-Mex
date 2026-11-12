@@ -17,7 +17,9 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 # Artículo 76
 
-Las infracciones enumeradas en el [artículo anterior](articulo-75.md) serán sancionadas de la siguiente manera: I. Imposición de multa, para lo cual se estará a los siguientes criterios:
+Las infracciones enumeradas en el [artículo anterior](articulo-75.md) serán sancionadas de la siguiente manera:
+
+I. Imposición de multa, para lo cual se estará a los siguientes criterios:
 
 a) Multa por el equivalente a un monto mínimo de cien y hasta máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en la fracción III del artículo [75](articulo-75.md) de esta Ley, o
 

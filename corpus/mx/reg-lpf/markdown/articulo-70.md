@@ -29,6 +29,8 @@ IV. Auxiliar a las diferentes áreas de la Institución para la solución de pro
 
 V. Establecer metodologías y herramientas para la innovación, modernización y desarrollo tecnológico de la Institución;
 
-VI. Impulsar la innovación, modernización y desarrollo de tecnologías existentes; VII. Operar laboratorios de investigación científica para el desarrollo de metodologías y herramientas útiles para las diversas áreas de la Institución, y
+VI. Impulsar la innovación, modernización y desarrollo de tecnologías existentes;
+
+VII. Operar laboratorios de investigación científica para el desarrollo de metodologías y herramientas útiles para las diversas áreas de la Institución, y
 
 VIII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

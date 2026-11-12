@@ -19,7 +19,9 @@ source_sha256: a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a
 
 Las propuestas de [Normas Oficiales Mexicanas](articulo-4.md) deben cumplir, como mínimo, con los siguientes requisitos:
 
-I. El título; II. El objetivo, campo de aplicación, así como la descripción de los objetivos legítimos de interés público que persigue;
+I. El título;
+
+II. El objetivo, campo de aplicación, así como la descripción de los objetivos legítimos de interés público que persigue;
 
 III. La identificación, así como las especificaciones, características, disposiciones técnicas, datos e información correspondientes al bien, producto, proceso, servicio, terminología, marcado o etiquetado y de información al que será aplicable;
 

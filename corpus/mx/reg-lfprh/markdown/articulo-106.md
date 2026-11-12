@@ -21,7 +21,9 @@ Las adecuaciones presupuestarias que deriven de operaciones de control presupues
 
 I. Podrán traspasarse recursos de otros ramos y entidades al ramo general correspondiente a provisiones salariales y económicas, con el fin de apoyar el cumplimiento de los objetivos de los programas autorizados en el Presupuesto de Egresos;
 
-II. Los recursos del ramo general correspondiente a provisiones salariales y económicas podrán ser traspasados a otros ramos, conforme a los propósitos de cada uno de los programas en él contenidos y las disposiciones aplicables; III. Las erogaciones adicionales con cargo a ingresos excedentes de los ramos se podrán autorizar a través del ramo general correspondiente a provisiones salariales y económicas;
+II. Los recursos del ramo general correspondiente a provisiones salariales y económicas podrán ser traspasados a otros ramos, conforme a los propósitos de cada uno de los programas en él contenidos y las disposiciones aplicables;
+
+III. Las erogaciones adicionales con cargo a ingresos excedentes de los ramos se podrán autorizar a través del ramo general correspondiente a provisiones salariales y económicas;
 
 IV. Las operaciones que se realicen con motivo de cierre presupuestario, incluyendo aquéllas que sustenten la fuente de financiamiento para programas especiales conforme a las disposiciones aplicables, así como las adecuaciones presupuestarias requeridas para la presentación de la Cuenta Pública, podrán ser autorizadas por la Secretaría, y
 

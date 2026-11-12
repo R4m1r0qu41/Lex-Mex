@@ -399,19 +399,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpp:article:80:reference:1009-1011:43:direct",
+    "id": "urn:lex-mx:federal:statute:lgpp:article:80:reference:1010-1012:43:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgpp:article:80",
     "source_span": "43",
-    "start_char": 1009,
-    "end_char": 1011,
+    "start_char": 1010,
+    "end_char": 1012,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgpp",
     "target_provision_id": "urn:lex-mx:federal:statute:lgpp:article:43",
     "qualifiers": [
       {
         "qualifier_type": "subsection",
         "text": "inciso c",
-        "start_char": 1013,
-        "end_char": 1021
+        "start_char": 1014,
+        "end_char": 1022
       }
     ],
     "basis": "express_cross_reference",

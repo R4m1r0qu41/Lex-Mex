@@ -17,7 +17,9 @@ source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
 
 # Artículo 82
 
-Para ser Presidente se requiere: I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, hijo de padre o madre mexicanos y haber residido en el país al menos durante veinte años. Fracción reformada DOF 01-07-1994
+Para ser Presidente se requiere:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, hijo de padre o madre mexicanos y haber residido en el país al menos durante veinte años. Fracción reformada DOF 01-07-1994
 
 II. Tener 35 años cumplidos al tiempo de la elección;
 

@@ -29,7 +29,18 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:3",
     "fraction": "III",
     "start_char": 467,
-    "end_char": 1121,
+    "end_char": 727,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:term:situacion-de-riesgo-inminente",
+    "term": "Situación de riesgo inminente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lppddhp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:3",
+    "fraction": "IV",
+    "start_char": 727,
+    "end_char": 1122,
     "basis": "express_definition"
   }
 ]

@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "VIII",
     "start_char": 1072,
-    "end_char": 1188,
+    "end_char": 1189,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "IX",
-    "start_char": 1188,
-    "end_char": 1401,
+    "start_char": 1189,
+    "end_char": 1402,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "X",
-    "start_char": 1401,
-    "end_char": 1651,
+    "start_char": 1402,
+    "end_char": 1652,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XI",
-    "start_char": 1651,
-    "end_char": 1920,
+    "start_char": 1652,
+    "end_char": 1921,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XII",
-    "start_char": 1920,
-    "end_char": 2165,
+    "start_char": 1921,
+    "end_char": 2166,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XIII",
-    "start_char": 2165,
-    "end_char": 2478,
+    "start_char": 2166,
+    "end_char": 2479,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XIV",
-    "start_char": 2478,
-    "end_char": 2551,
+    "start_char": 2479,
+    "end_char": 2552,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XV",
-    "start_char": 2551,
-    "end_char": 2642,
+    "start_char": 2552,
+    "end_char": 2643,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XVI",
-    "start_char": 2642,
-    "end_char": 2739,
+    "start_char": 2643,
+    "end_char": 2740,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XVII",
-    "start_char": 2739,
-    "end_char": 2847,
+    "start_char": 2740,
+    "end_char": 2848,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XVIII",
-    "start_char": 2847,
-    "end_char": 2927,
+    "start_char": 2848,
+    "end_char": 2928,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XIX",
-    "start_char": 2927,
-    "end_char": 3225,
+    "start_char": 2928,
+    "end_char": 3226,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XX",
-    "start_char": 3225,
-    "end_char": 3469,
+    "start_char": 3226,
+    "end_char": 3470,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXI",
-    "start_char": 3469,
-    "end_char": 3587,
+    "start_char": 3470,
+    "end_char": 3588,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXII",
-    "start_char": 3587,
-    "end_char": 3728,
+    "start_char": 3588,
+    "end_char": 3729,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXIII",
-    "start_char": 3728,
-    "end_char": 3851,
+    "start_char": 3729,
+    "end_char": 3852,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXIV",
-    "start_char": 3851,
-    "end_char": 3959,
+    "start_char": 3852,
+    "end_char": 3961,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXV",
-    "start_char": 3959,
-    "end_char": 4154,
+    "start_char": 3961,
+    "end_char": 4156,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXVI",
-    "start_char": 4154,
-    "end_char": 4270,
+    "start_char": 4156,
+    "end_char": 4272,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXVII",
-    "start_char": 4270,
-    "end_char": 4364,
+    "start_char": 4272,
+    "end_char": 4366,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXVIII",
-    "start_char": 4364,
-    "end_char": 4573,
+    "start_char": 4366,
+    "end_char": 4575,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXIX",
-    "start_char": 4573,
-    "end_char": 4810,
+    "start_char": 4575,
+    "end_char": 4812,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXX",
-    "start_char": 4810,
-    "end_char": 4891,
+    "start_char": 4812,
+    "end_char": 4893,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXXI",
-    "start_char": 4891,
-    "end_char": 5181,
+    "start_char": 4893,
+    "end_char": 5183,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXXII",
-    "start_char": 5181,
-    "end_char": 5377,
+    "start_char": 5183,
+    "end_char": 5379,
     "basis": "express_definition"
   },
   {
@@ -358,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXXIII",
-    "start_char": 5377,
-    "end_char": 5476,
+    "start_char": 5379,
+    "end_char": 5478,
     "basis": "express_definition"
   },
   {
@@ -369,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXXIV",
-    "start_char": 5476,
-    "end_char": 5570,
+    "start_char": 5478,
+    "end_char": 5572,
     "basis": "express_definition"
   },
   {
@@ -380,8 +380,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXXV",
-    "start_char": 5570,
-    "end_char": 5868,
+    "start_char": 5572,
+    "end_char": 5870,
     "basis": "express_definition"
   },
   {
@@ -391,8 +391,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXXVI",
-    "start_char": 5868,
-    "end_char": 6003,
+    "start_char": 5870,
+    "end_char": 6005,
     "basis": "express_definition"
   },
   {
@@ -402,8 +402,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXXVII",
-    "start_char": 6003,
-    "end_char": 6250,
+    "start_char": 6005,
+    "end_char": 6252,
     "basis": "express_definition"
   },
   {
@@ -413,8 +413,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXXVIII",
-    "start_char": 6250,
-    "end_char": 6632,
+    "start_char": 6252,
+    "end_char": 6634,
     "basis": "express_definition"
   },
   {
@@ -424,8 +424,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XXXIX",
-    "start_char": 6632,
-    "end_char": 6978,
+    "start_char": 6634,
+    "end_char": 6980,
     "basis": "express_definition"
   },
   {
@@ -435,8 +435,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XL",
-    "start_char": 6978,
-    "end_char": 7079,
+    "start_char": 6980,
+    "end_char": 7082,
     "basis": "express_definition"
   },
   {
@@ -446,8 +446,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XLI",
-    "start_char": 7079,
-    "end_char": 7272,
+    "start_char": 7082,
+    "end_char": 7275,
     "basis": "express_definition"
   },
   {
@@ -457,8 +457,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XLII",
-    "start_char": 7272,
-    "end_char": 7368,
+    "start_char": 7275,
+    "end_char": 7371,
     "basis": "express_definition"
   },
   {
@@ -468,8 +468,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XLIII",
-    "start_char": 7368,
-    "end_char": 7483,
+    "start_char": 7371,
+    "end_char": 7486,
     "basis": "express_definition"
   },
   {
@@ -479,8 +479,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XLIV",
-    "start_char": 7483,
-    "end_char": 7732,
+    "start_char": 7486,
+    "end_char": 7735,
     "basis": "express_definition"
   },
   {
@@ -490,8 +490,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XLV",
-    "start_char": 7732,
-    "end_char": 8272,
+    "start_char": 7735,
+    "end_char": 8275,
     "basis": "express_definition"
   },
   {
@@ -501,8 +501,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XLVI",
-    "start_char": 8272,
-    "end_char": 8572,
+    "start_char": 8275,
+    "end_char": 8575,
     "basis": "express_definition"
   },
   {
@@ -512,8 +512,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XLVII",
-    "start_char": 8572,
-    "end_char": 8999,
+    "start_char": 8575,
+    "end_char": 9002,
     "basis": "express_definition"
   },
   {
@@ -523,8 +523,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XLVIII",
-    "start_char": 8999,
-    "end_char": 9119,
+    "start_char": 9002,
+    "end_char": 9122,
     "basis": "express_definition"
   },
   {
@@ -534,8 +534,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XLIX",
-    "start_char": 9119,
-    "end_char": 9325,
+    "start_char": 9122,
+    "end_char": 9328,
     "basis": "express_definition"
   },
   {
@@ -545,8 +545,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "L",
-    "start_char": 9325,
-    "end_char": 9490,
+    "start_char": 9328,
+    "end_char": 9493,
     "basis": "express_definition"
   },
   {
@@ -556,8 +556,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LI",
-    "start_char": 9490,
-    "end_char": 9728,
+    "start_char": 9493,
+    "end_char": 9731,
     "basis": "express_definition"
   },
   {
@@ -567,8 +567,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LII",
-    "start_char": 9728,
-    "end_char": 9779,
+    "start_char": 9731,
+    "end_char": 9782,
     "basis": "express_definition"
   },
   {
@@ -578,8 +578,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LIII",
-    "start_char": 9779,
-    "end_char": 10020,
+    "start_char": 9782,
+    "end_char": 10023,
     "basis": "express_definition"
   },
   {
@@ -589,8 +589,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LIV",
-    "start_char": 10020,
-    "end_char": 10061,
+    "start_char": 10023,
+    "end_char": 10064,
     "basis": "express_definition"
   },
   {
@@ -600,8 +600,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LV",
-    "start_char": 10061,
-    "end_char": 10173,
+    "start_char": 10064,
+    "end_char": 10177,
     "basis": "express_definition"
   },
   {
@@ -611,8 +611,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LVI",
-    "start_char": 10173,
-    "end_char": 10497,
+    "start_char": 10177,
+    "end_char": 10501,
     "basis": "express_definition"
   },
   {
@@ -622,8 +622,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LVII",
-    "start_char": 10497,
-    "end_char": 10866,
+    "start_char": 10501,
+    "end_char": 10870,
     "basis": "express_definition"
   },
   {
@@ -633,8 +633,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LVIII",
-    "start_char": 10866,
-    "end_char": 10958,
+    "start_char": 10870,
+    "end_char": 10962,
     "basis": "express_definition"
   },
   {
@@ -644,8 +644,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LIX",
-    "start_char": 10958,
-    "end_char": 11006,
+    "start_char": 10962,
+    "end_char": 11010,
     "basis": "express_definition"
   },
   {
@@ -655,8 +655,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LX",
-    "start_char": 11006,
-    "end_char": 11080,
+    "start_char": 11010,
+    "end_char": 11084,
     "basis": "express_definition"
   },
   {
@@ -666,8 +666,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXI",
-    "start_char": 11080,
-    "end_char": 11251,
+    "start_char": 11084,
+    "end_char": 11255,
     "basis": "express_definition"
   },
   {
@@ -677,8 +677,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXII",
-    "start_char": 11251,
-    "end_char": 11578,
+    "start_char": 11255,
+    "end_char": 11582,
     "basis": "express_definition"
   },
   {
@@ -688,8 +688,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXIII",
-    "start_char": 11578,
-    "end_char": 11643,
+    "start_char": 11582,
+    "end_char": 11647,
     "basis": "express_definition"
   },
   {
@@ -699,8 +699,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXIV",
-    "start_char": 11643,
-    "end_char": 12026,
+    "start_char": 11647,
+    "end_char": 12030,
     "basis": "express_definition"
   },
   {
@@ -710,8 +710,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXV",
-    "start_char": 12026,
-    "end_char": 12242,
+    "start_char": 12030,
+    "end_char": 12246,
     "basis": "express_definition"
   },
   {
@@ -721,8 +721,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXVI",
-    "start_char": 12242,
-    "end_char": 12426,
+    "start_char": 12246,
+    "end_char": 12430,
     "basis": "express_definition"
   },
   {
@@ -732,8 +732,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXVII",
-    "start_char": 12426,
-    "end_char": 12577,
+    "start_char": 12430,
+    "end_char": 12581,
     "basis": "express_definition"
   },
   {
@@ -743,8 +743,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXVIII",
-    "start_char": 12577,
-    "end_char": 12850,
+    "start_char": 12581,
+    "end_char": 12854,
     "basis": "express_definition"
   },
   {
@@ -754,8 +754,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXIX",
-    "start_char": 12850,
-    "end_char": 13120,
+    "start_char": 12854,
+    "end_char": 13124,
     "basis": "express_definition"
   },
   {
@@ -765,8 +765,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXX",
-    "start_char": 13120,
-    "end_char": 13422,
+    "start_char": 13124,
+    "end_char": 13426,
     "basis": "express_definition"
   },
   {
@@ -776,8 +776,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXI",
-    "start_char": 13422,
-    "end_char": 13577,
+    "start_char": 13426,
+    "end_char": 13581,
     "basis": "express_definition"
   },
   {
@@ -787,8 +787,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXII",
-    "start_char": 13577,
-    "end_char": 13770,
+    "start_char": 13581,
+    "end_char": 13774,
     "basis": "express_definition"
   },
   {
@@ -798,8 +798,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXIII",
-    "start_char": 13770,
-    "end_char": 13815,
+    "start_char": 13774,
+    "end_char": 13819,
     "basis": "express_definition"
   },
   {
@@ -809,8 +809,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXIV",
-    "start_char": 13815,
-    "end_char": 13852,
+    "start_char": 13819,
+    "end_char": 13856,
     "basis": "express_definition"
   },
   {
@@ -820,8 +820,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXV",
-    "start_char": 13852,
-    "end_char": 13920,
+    "start_char": 13856,
+    "end_char": 13924,
     "basis": "express_definition"
   },
   {
@@ -831,8 +831,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXVI",
-    "start_char": 13920,
-    "end_char": 14340,
+    "start_char": 13924,
+    "end_char": 14344,
     "basis": "express_definition"
   },
   {
@@ -842,8 +842,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXVII",
-    "start_char": 14340,
-    "end_char": 14898,
+    "start_char": 14344,
+    "end_char": 14902,
     "basis": "express_definition"
   },
   {
@@ -853,8 +853,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXVIII",
-    "start_char": 14898,
-    "end_char": 15175,
+    "start_char": 14902,
+    "end_char": 15179,
     "basis": "express_definition"
   },
   {
@@ -864,8 +864,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXIX",
-    "start_char": 15175,
-    "end_char": 15239,
+    "start_char": 15179,
+    "end_char": 15243,
     "basis": "express_definition"
   },
   {
@@ -875,8 +875,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXX",
-    "start_char": 15239,
-    "end_char": 15280,
+    "start_char": 15243,
+    "end_char": 15284,
     "basis": "express_definition"
   },
   {
@@ -886,8 +886,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXXI",
-    "start_char": 15280,
-    "end_char": 15571,
+    "start_char": 15284,
+    "end_char": 15575,
     "basis": "express_definition"
   },
   {
@@ -897,8 +897,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXXII",
-    "start_char": 15571,
-    "end_char": 15666,
+    "start_char": 15575,
+    "end_char": 15670,
     "basis": "express_definition"
   },
   {
@@ -908,8 +908,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXXIII",
-    "start_char": 15666,
-    "end_char": 15847,
+    "start_char": 15670,
+    "end_char": 15851,
     "basis": "express_definition"
   },
   {
@@ -919,8 +919,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXXIV",
-    "start_char": 15847,
-    "end_char": 16093,
+    "start_char": 15851,
+    "end_char": 16097,
     "basis": "express_definition"
   },
   {
@@ -930,8 +930,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXXV",
-    "start_char": 16093,
-    "end_char": 16131,
+    "start_char": 16097,
+    "end_char": 16136,
     "basis": "express_definition"
   },
   {
@@ -941,8 +941,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXXVI",
-    "start_char": 16131,
-    "end_char": 16342,
+    "start_char": 16136,
+    "end_char": 16347,
     "basis": "express_definition"
   },
   {
@@ -952,8 +952,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "LXXXVII",
-    "start_char": 16342,
-    "end_char": 17228,
+    "start_char": 16347,
+    "end_char": 17233,
     "basis": "express_definition"
   },
   {
@@ -963,8 +963,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XC",
-    "start_char": 17228,
-    "end_char": 17534,
+    "start_char": 17233,
+    "end_char": 17539,
     "basis": "express_definition"
   },
   {
@@ -974,8 +974,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XCI",
-    "start_char": 17534,
-    "end_char": 17597,
+    "start_char": 17539,
+    "end_char": 17602,
     "basis": "express_definition"
   },
   {
@@ -985,8 +985,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XCII",
-    "start_char": 17597,
-    "end_char": 17815,
+    "start_char": 17602,
+    "end_char": 17820,
     "basis": "express_definition"
   },
   {
@@ -996,8 +996,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XCIII",
-    "start_char": 17815,
-    "end_char": 17979,
+    "start_char": 17820,
+    "end_char": 17984,
     "basis": "express_definition"
   },
   {
@@ -1007,8 +1007,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XCIV",
-    "start_char": 17979,
-    "end_char": 18095,
+    "start_char": 17984,
+    "end_char": 18100,
     "basis": "express_definition"
   },
   {
@@ -1018,8 +1018,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XCV",
-    "start_char": 18095,
-    "end_char": 18382,
+    "start_char": 18100,
+    "end_char": 18387,
     "basis": "express_definition"
   },
   {
@@ -1029,8 +1029,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XCVI",
-    "start_char": 18382,
-    "end_char": 18709,
+    "start_char": 18387,
+    "end_char": 18714,
     "basis": "express_definition"
   },
   {
@@ -1040,8 +1040,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XCVII",
-    "start_char": 18709,
-    "end_char": 18903,
+    "start_char": 18714,
+    "end_char": 18908,
     "basis": "express_definition"
   },
   {
@@ -1051,8 +1051,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:10",
     "fraction": "XCVIII",
-    "start_char": 18903,
-    "end_char": 19137,
+    "start_char": 18908,
+    "end_char": 19142,
     "basis": "express_definition"
   }
 ]

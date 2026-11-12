@@ -43,7 +43,9 @@ XI. Fármaco: Sustancia química purificada de origen natural, sintética o biot
 
 XII. Flejes: Dispositivos de material autorizado por la Secretaría, para evitar que los contenedores, jaulas u otro transporte, sean abiertos en su trayecto y pierdan las condiciones de seguridad e inocuidad, con las cuales las mercancías reguladas fueron certificadas al ser embarcadas;
 
-XIII. Intercambiabilidad: Condición en la que dos especialidades farmacéuticas son terapéuticamente equivalentes después de demostrar su bioequivalencia o biodisponibilidad o perfiles de disolución u otros parámetros son equivalentes; XIV. Kits de Diagnóstico: Paquete de artículos, reactivos o sustancias químicas, enzimáticas, biológicas, naturales o sintéticas, que se utiliza con fines de diagnóstico in vitro en una prueba específica;
+XIII. Intercambiabilidad: Condición en la que dos especialidades farmacéuticas son terapéuticamente equivalentes después de demostrar su bioequivalencia o biodisponibilidad o perfiles de disolución u otros parámetros son equivalentes;
+
+XIV. Kits de Diagnóstico: Paquete de artículos, reactivos o sustancias químicas, enzimáticas, biológicas, naturales o sintéticas, que se utiliza con fines de diagnóstico in vitro en una prueba específica;
 
 XV. Ley: Ley Federal de Sanidad Animal;
 
@@ -67,7 +69,9 @@ XXIV. Pruebas interlaboratorios: Organización, ejecución y evaluación de prue
 
 XXV. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
-XXVI. Sospecha: La suposición de la presencia de una enfermedad, plaga o contaminante en un animal o bien de origen animal, cuando se perciben en él, un conjunto de signos, lesiones o características sugestivas al problema, las cuales deberán ser confirmadas o descartadas mediante un diagnóstico o constatación de laboratorio; XXVII. Subproducto: Derivado del proceso de bienes de origen animal, que generalmente se utiliza en la industria de alimentos para animales y/o farmacéuticos, capaz de ser empleado para consumo humano, el cual deberá ser procesado bajo condiciones higiénico sanitarias;
+XXVI. Sospecha: La suposición de la presencia de una enfermedad, plaga o contaminante en un animal o bien de origen animal, cuando se perciben en él, un conjunto de signos, lesiones o características sugestivas al problema, las cuales deberán ser confirmadas o descartadas mediante un diagnóstico o constatación de laboratorio;
+
+XXVII. Subproducto: Derivado del proceso de bienes de origen animal, que generalmente se utiliza en la industria de alimentos para animales y/o farmacéuticos, capaz de ser empleado para consumo humano, el cual deberá ser procesado bajo condiciones higiénico sanitarias;
 
 XXVIII. Suplemento alimenticio: Es un producto que se administra por vía oral que contiene en su fórmula ingredientes dietéticos destinados a la suplementación de la dieta como vitaminas, minerales, aminoácidos;
 

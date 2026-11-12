@@ -7,8 +7,8 @@ provision_type: article
 number: "91"
 aliases: ["LGP — Artículo 91"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf
 source_sha256: 15e8cb5ca11592f331fca6a94784cce3dd58837397857f2d764476768d0ca780
 ---
@@ -25,7 +25,9 @@ I. Nombres y apellidos, según corresponda;
 
 II. Fecha de nacimiento, empezando por año, mes y día;
 
-III. Sexo o género; IV. Lugar de nacimiento, y
+III. Sexo o género;
+
+IV. Lugar de nacimiento, y
 
 V. Nacionalidad. Párrafo con fracciones adicionado DOF 16-07-2025
 

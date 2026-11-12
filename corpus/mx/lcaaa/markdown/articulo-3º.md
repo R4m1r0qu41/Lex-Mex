@@ -19,7 +19,9 @@ source_sha256: e893cded29ecee9a0b5ad3c4c07a33b6be520db6a73f89e837a32235b6167c84
 
 Las Asociaciones Agrícolas constituidas en los términos de esta Ley tendrán las siguientes finalidades:
 
-I.- Organizar la producción agrícola dentro de normas racionales que propendan a mejorar la calidad de los productos, así como a la mejor distribución de ellos, para lo cual se procurará la implantación de métodos científicos más adecuados de explotación agrícola. II.- Gestionar y promover todas las medidas que tiendan al mejoramiento de las condiciones agrícolas de los productores de la República, tales como fletes de transporte, desarrollo en las comunicaciones, cuotas racionales de energía eléctrica, etc.
+I.- Organizar la producción agrícola dentro de normas racionales que propendan a mejorar la calidad de los productos, así como a la mejor distribución de ellos, para lo cual se procurará la implantación de métodos científicos más adecuados de explotación agrícola.
+
+II.- Gestionar y promover todas las medidas que tiendan al mejoramiento de las condiciones agrícolas de los productores de la República, tales como fletes de transporte, desarrollo en las comunicaciones, cuotas racionales de energía eléctrica, etc.
 
 III.- Promover la creación, en cada uno de los lugares donde funcionen asociaciones, de almacenes, molinos, plantas refrigeradoras, de empaque, etc., para industrializar o conservar los productos agrícolas y presentarlos al consumidor en las mejores condiciones.
 

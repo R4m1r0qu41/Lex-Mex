@@ -35,7 +35,9 @@ VII. CONDE: Los Consejos Nacionales del Deporte Estudiantil;
 
 VIII. SINADE: El Sistema Nacional de Cultura Física y Deporte;
 
-IX. RENADE: El Registro Nacional de Cultura Física y Deporte; X. SEP: La Secretaría de Educación Pública;
+IX. RENADE: El Registro Nacional de Cultura Física y Deporte;
+
+X. SEP: La Secretaría de Educación Pública;
 
 XI. Comisión Especial: La Comisión Especial Contra la Violencia en el Deporte, y
 

@@ -19,7 +19,9 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 Corresponde a la Junta Directiva:
 
-I. Autorizar los planes y programas que sean presentados por la Dirección General para las operaciones y servicios del [Instituto](articulo-6.md); II. Examinar para su aprobación y modificación, el programa institucional y los programas operativos anuales de acuerdo con lo establecido en la Ley de Planeación, así como los estados financieros del Instituto;
+I. Autorizar los planes y programas que sean presentados por la Dirección General para las operaciones y servicios del [Instituto](articulo-6.md);
+
+II. Examinar para su aprobación y modificación, el programa institucional y los programas operativos anuales de acuerdo con lo establecido en la Ley de Planeación, así como los estados financieros del Instituto;
 
 III. Examinar y aprobar anualmente el presupuesto de gastos de administración, operación y vigilancia del Instituto;
 

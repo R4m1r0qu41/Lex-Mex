@@ -17,7 +17,9 @@ source_sha256: 7f28b406ac8966ef726994b15fc2356a5d8ee92a8e24de0e7a3046d2683fe40d
 
 # Artículo 13
 
-Mediante el [SINADE](articulo-4.md) se llevarán a cabo las siguientes acciones: I. Ejecutar las políticas para fomentar, promover y estimular el desarrollo y ejercicio del derecho a la cultura física y el deporte en el ámbito nacional;
+Mediante el [SINADE](articulo-4.md) se llevarán a cabo las siguientes acciones:
+
+I. Ejecutar las políticas para fomentar, promover y estimular el desarrollo y ejercicio del derecho a la cultura física y el deporte en el ámbito nacional;
 
 II. Establecer los mecanismos para la planeación, supervisión, ejecución y evaluación de los programas, organismos, procesos, actividades y recursos de los integrantes del SINADE;
 

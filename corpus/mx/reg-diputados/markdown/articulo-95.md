@@ -45,7 +45,9 @@ I. El Presidente turnara a la comisión o comisiones que corresponda, en cuanto 
 
 II. En el momento de anunciar el turno, el Presidente dará treinta días naturales a partir de la recepción formal del asunto, para que se presente el Dictamen correspondiente;
 
-III. El plazo a que se refiere la fracción anterior es improrrogable; IV. Si transcurre el plazo, sin que se formule un dictamen, se tendrá por precluida la facultad de la comisión o comisiones para hacerlo, observando lo siguiente:
+III. El plazo a que se refiere la fracción anterior es improrrogable;
+
+IV. Si transcurre el plazo, sin que se formule un dictamen, se tendrá por precluida la facultad de la comisión o comisiones para hacerlo, observando lo siguiente:
 
 a) El Presidente deberá emitir la declaratoria de publicidad inmediatamente después de concluido el plazo para dictaminar.
 

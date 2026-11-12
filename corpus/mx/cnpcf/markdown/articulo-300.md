@@ -23,7 +23,9 @@ I. Sean necesarios conocimientos especiales en alguna ciencia, arte, técnica o 
 
 II. Cuando la autoridad jurisdiccional lo requiera para llegar a una solución;
 
-III. Se ofrecerá expresando los puntos y cuestionamientos sobre los que versará y que deban resolver los peritos, sin lo cual no será admitida; IV. Las personas designadas deben tener título en la ciencia, arte, técnica, oficio o industria a que pertenezca, y cédula si se requiere legalmente para su ejercicio;
+III. Se ofrecerá expresando los puntos y cuestionamientos sobre los que versará y que deban resolver los peritos, sin lo cual no será admitida;
+
+IV. Las personas designadas deben tener título en la ciencia, arte, técnica, oficio o industria a que pertenezca, y cédula si se requiere legalmente para su ejercicio;
 
 V. Si los conocimientos especiales no estuvieren legalmente reglamentados con título oficial o, estándolo, no hubiere peritos en el lugar, podrá ser nombrada a satisfacción de la autoridad jurisdiccional, cualquier persona entendida, o bien con experiencia práctica en el ejercicio de un servicio u oficio;
 

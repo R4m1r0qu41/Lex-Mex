@@ -62,7 +62,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
     "fraction": "IX",
     "start_char": 733,
-    "end_char": 792,
+    "end_char": 793,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:less",
     "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
     "fraction": "XI",
-    "start_char": 842,
-    "end_char": 1100,
+    "start_char": 843,
+    "end_char": 1101,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:less",
     "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
     "fraction": "XV",
-    "start_char": 1257,
-    "end_char": 1437,
+    "start_char": 1258,
+    "end_char": 1438,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:less",
     "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
     "fraction": "XVI",
-    "start_char": 1437,
-    "end_char": 1544,
+    "start_char": 1438,
+    "end_char": 1545,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:less",
     "defining_provision_id": "urn:lex-mx:federal:statute:less:article:5",
     "fraction": "XVII",
-    "start_char": 1544,
-    "end_char": 1717,
+    "start_char": 1545,
+    "end_char": 1718,
     "basis": "express_definition"
   }
 ]

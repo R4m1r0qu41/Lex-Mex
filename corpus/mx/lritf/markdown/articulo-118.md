@@ -22,5 +22,3 @@ Para proceder penalmente por los delitos previstos en este Capítulo, será nece
 Cuando se haya procedido por petición de la Secretaría de conformidad con este artículo, esta tendrá el carácter de víctima u ofendido en los procedimientos penales y juicios relacionados con los delitos previstos en esta Ley. Los abogados hacendarios designados por la peticionaria podrán actuar como asesores jurídicos dentro de dichos procedimientos y juicios.
 
 En los procedimientos penales en los que la Secretaría tenga el carácter de parte se estará a lo dispuesto en los lineamientos que esta expida en relación con la aplicación de las soluciones alternas y formas de terminación anticipada del proceso previstas en el Código Nacional de Procedimientos Penales y demás leyes aplicables, respecto a los delitos previstos en esta Ley.
-
-Sección segunda Delitos para la Protección del Patrimonio de los [Clientes](articulo-4.md) de las [ITF](articulo-4.md) y de las Sociedades Autorizadas para operar con [Modelos Novedosos](articulo-4.md).

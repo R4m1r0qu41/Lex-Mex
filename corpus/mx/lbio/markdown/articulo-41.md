@@ -29,7 +29,9 @@ IV. La realización de actividades sin permiso de Producción, importación, exp
 
 V. Por entregar de manera dolosa Biocombustibles en cantidades menores a las convenidas o calidades distintas a las establecidas en las Normas Oficiales Mexicanas o, en su caso, criterios y lineamientos de especificaciones de calidad, con multa de 5,000 a 100,000 veces el valor de la Unidad de Medida y Actualización, clausura total o temporal de instalaciones y revocación del permiso correspondiente;
 
-VI. Por realizar actividades amparadas por los permisos que otorgue, sin entregar el aviso de operaciones correspondiente, con multa de 1,000 a 10,000 veces el valor de la Unidad de Medida y Actualización y clausura total o temporal de las instalaciones; VII. Por producir Biocombustibles para las actividades de investigación científica o tecnológica y aquellas que se establezcan en el [Reglamento](articulo-2.md) sin entregar el aviso de exención correspondiente, con multa de 500 a 200,000 veces el valor de la Unidad de Medida y Actualización;
+VI. Por realizar actividades amparadas por los permisos que otorgue, sin entregar el aviso de operaciones correspondiente, con multa de 1,000 a 10,000 veces el valor de la Unidad de Medida y Actualización y clausura total o temporal de las instalaciones;
+
+VII. Por producir Biocombustibles para las actividades de investigación científica o tecnológica y aquellas que se establezcan en el [Reglamento](articulo-2.md) sin entregar el aviso de exención correspondiente, con multa de 500 a 200,000 veces el valor de la Unidad de Medida y Actualización;
 
 VIII. Por incumplir los términos y condiciones establecidos en los permisos que otorgue, transgredir lo previsto en las Normas Oficiales Mexicanas o, en su caso, criterios y lineamientos sobre los requisitos, la calidad, las características, las medidas de seguridad y demás aspectos pertinentes, con relación a la Producción, importación, exportación, Almacenamiento, Transporte, Distribución, Comercialización, Expendio al Público de Biocombustibles, con multa de 5,000 a 100,000 veces el valor de la Unidad de Medida y Actualización y clausura total temporal de las instalaciones;
 

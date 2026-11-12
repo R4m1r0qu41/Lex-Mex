@@ -27,7 +27,9 @@ III. Copia de los Certificados de Seguridad aplicables al tipo de Embarcación, 
 
 IV. Plano que identifique los puertos de origen y destino de su ruta, así como los intermedios, con la precisión de la infraestructura portuaria a usar, para lo que deberá acompañar el visto bueno del titular de dicha infraestructura en cuanto a la operación del servicio que se solicita;
 
-V. Cuando en la ruta se comprenda la visita a parques, áreas o zonas marinas protegidas o de reserva ecológica, el solicitante deberá exhibir, además, el permiso para realizar en ellas tal actividad, expedido por la autoridad competente en materia ambiental, y VI. Si la Embarcación es extranjera, además de la documentación señalada en las fracciones anteriores, deberá exhibir:
+V. Cuando en la ruta se comprenda la visita a parques, áreas o zonas marinas protegidas o de reserva ecológica, el solicitante deberá exhibir, además, el permiso para realizar en ellas tal actividad, expedido por la autoridad competente en materia ambiental, y
+
+VI. Si la Embarcación es extranjera, además de la documentación señalada en las fracciones anteriores, deberá exhibir:
 
 a) Permiso de importación de la Embarcación;
 

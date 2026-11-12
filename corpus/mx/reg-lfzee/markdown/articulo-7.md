@@ -47,7 +47,9 @@ XIII. Requerir información y documentación al Administrador Integral y a los [
 
 XIV. Coordinar acciones de promoción de las Zonas, sin perjuicio de las que correspondan al Administrador Integral;
 
-XV. Suspender las actividades o la ejecución de obras cuando el Administrador Integral o el Inversionista pongan en riesgo inminente la salud de la población, la seguridad o el funcionamiento de la Zona y, en su caso, determinar las acciones que deben realizar para subsanar las irregularidades que motivaron la suspensión; XVI. Coadyuvar en las acciones de coordinación entre los gobiernos federal, locales y municipales en donde se ubique la Zona y el Área de Influencia, y el Administrador Integral y los Inversionistas;
+XV. Suspender las actividades o la ejecución de obras cuando el Administrador Integral o el Inversionista pongan en riesgo inminente la salud de la población, la seguridad o el funcionamiento de la Zona y, en su caso, determinar las acciones que deben realizar para subsanar las irregularidades que motivaron la suspensión;
+
+XVI. Coadyuvar en las acciones de coordinación entre los gobiernos federal, locales y municipales en donde se ubique la Zona y el Área de Influencia, y el Administrador Integral y los Inversionistas;
 
 XVII. Autorizar los actos que impliquen el cambio del control de la persona moral titular del Permiso;
 

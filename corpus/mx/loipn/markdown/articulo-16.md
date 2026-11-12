@@ -23,7 +23,9 @@ I.- Auxiliar al Director General en el ejercicio de sus funciones;
 
 II.- Desempeñar las comisiones que el Director General le encomiende;
 
-III.- Visitar periódicamente las dependencias y organismos auxiliares del Instituto Politécnico Nacional y rendir al Director General los informes correspondientes; IV.- Presentar al Director General los proyectos de informe y memoria anuales de las actividades del Instituto;
+III.- Visitar periódicamente las dependencias y organismos auxiliares del Instituto Politécnico Nacional y rendir al Director General los informes correspondientes;
+
+IV.- Presentar al Director General los proyectos de informe y memoria anuales de las actividades del Instituto;
 
 V.- Certificar las firmas de los documentos suscritos por los funcionarios del Instituto cuando aquéllos deban ser exhibidos ante las autoridades que así lo requieran;
 

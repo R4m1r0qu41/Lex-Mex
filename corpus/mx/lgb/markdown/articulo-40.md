@@ -23,6 +23,8 @@ I. Recibir los materiales objeto de Depósito Legal;
 
 II. Expedir a la editora o productora constancia que acredite la recepción de los materiales, las que contendrán los datos básicos que permitan la identificación fiscal de la editora o productora;
 
-III. Establecer las medidas que sean necesarias para la debida organización de los materiales recibidos, la prestación de los servicios bibliotecarios y, en su caso, de consulta pública; IV. Verificar que las editoriales cumplan con sus obligaciones sobre el Depósito Legal, y
+III. Establecer las medidas que sean necesarias para la debida organización de los materiales recibidos, la prestación de los servicios bibliotecarios y, en su caso, de consulta pública;
+
+IV. Verificar que las editoriales cumplan con sus obligaciones sobre el Depósito Legal, y
 
 V. Publicar e informar anualmente la estadística de los materiales recibidos.

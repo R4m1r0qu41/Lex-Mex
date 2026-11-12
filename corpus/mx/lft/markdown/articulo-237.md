@@ -29,7 +29,9 @@ IV. Someterse, cuando menos dos veces al año, a los exámenes médicos periódi
 
 V. Someterse a los adiestramientos que establezca el patrón, según las necesidades del servicio, a fin de conservar o incrementar su eficiencia para ascensos o utilización de equipo con nuevas características técnicas y operar éste al obtener la capacidad requerida;
 
-VI. Planear, preparar y realizar cada vuelo, con estricto apego a las leyes, reglamentos y demás disposiciones dictadas o aprobadas por la Secretaría de Comunicaciones y Transportes y por el patrón; VII. Cerciorarse, antes de iniciar un viaje, de que la aeronave satisface los requisitos legales y reglamentarios, las condiciones necesarias de seguridad, y que ha sido debidamente equipada, aprovisionada y avituallada;
+VI. Planear, preparar y realizar cada vuelo, con estricto apego a las leyes, reglamentos y demás disposiciones dictadas o aprobadas por la Secretaría de Comunicaciones y Transportes y por el patrón;
+
+VII. Cerciorarse, antes de iniciar un viaje, de que la aeronave satisface los requisitos legales y reglamentarios, las condiciones necesarias de seguridad, y que ha sido debidamente equipada, aprovisionada y avituallada;
 
 VIII. Observar las indicaciones técnicas que en materia de seguridad de tránsito aéreo boletine el patrón o dicten las autoridades respectivas en el aeropuerto base o en las estaciones foráneas;
 

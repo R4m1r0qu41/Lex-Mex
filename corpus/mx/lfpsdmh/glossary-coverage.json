@@ -8,9 +8,10 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
-      "provision_text_sha256": "effadccacf4a6331df2ea1d7f374c732aca2d9d6899c55120f71a793d19618ce",
+      "provision_text_sha256": "2e3055c48f5559df59f3c073fe242c90bbf6fff1153533fe0f65ef2e513981ba",
       "method": "established_pass",
       "fractions": [
+        "I",
         "II",
         "III",
         "IV",
@@ -22,10 +23,10 @@
         "X"
       ],
       "unread_fractions": [],
-      "term_count": 9
+      "term_count": 10
     }
   ],
   "imports": [],
-  "term_count": 9,
+  "term_count": 10,
   "usage_count": 0
 }

@@ -35,7 +35,9 @@ VII. Participar en la detención de personas y en el aseguramiento de bienes que
 
 VIII. Reunir la información que, conforme a las instrucciones del [Ministerio Público](articulo-2.md), pueda ser útil para probar la comisión de un hecho delictivo y la probable responsabilidad de los indiciados;
 
-IX. Proponer la intervención de comunicaciones privadas, en términos del presente [Reglamento](articulo-2.md) y demás disposiciones legales aplicables; X. Verificar la información de las denuncias que le sean presentadas directamente a la Institución, y remitirlas, en su caso, al Ministerio Público;
+IX. Proponer la intervención de comunicaciones privadas, en términos del presente [Reglamento](articulo-2.md) y demás disposiciones legales aplicables;
+
+X. Verificar la información de las denuncias que le sean presentadas directamente a la Institución, y remitirlas, en su caso, al Ministerio Público;
 
 XI. Asesorar, previa solicitud de las unidades de investigación de las entidades federativas, en el trámite de los asuntos que le corresponda;
 

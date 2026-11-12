@@ -35,7 +35,9 @@ VII. Tomar la votación de los integrantes del Consejo Federal, contabilizar y n
 
 VIII. Turnar los expedientes a los Consejeros conforme a las reglas de relación, compensación y aleatoria para la elaboración de los proyectos de resolución;
 
-IX. Declarar al término de cada sesión del Consejo Federal, los resultados de la misma; X. Verificar la observancia de los procedimientos del Consejo Federal, establecidos en este Reglamento;
+IX. Declarar al término de cada sesión del Consejo Federal, los resultados de la misma;
+
+X. Verificar la observancia de los procedimientos del Consejo Federal, establecidos en este Reglamento;
 
 XI. Certificar las sesiones y acuerdos del Pleno;
 

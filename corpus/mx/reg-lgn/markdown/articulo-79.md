@@ -21,7 +21,9 @@ Para efectos del artículo [34](../../lgn/markdown/articulo-34.md), fracción I 
 
 I. Escala Básica, 50 años;
 
-II. Suboficial, 51 años; III. Oficial, 52 años;
+II. Suboficial, 51 años;
+
+III. Oficial, 52 años;
 
 IV. Segundo Subinspector, 53 años;
 

@@ -205,7 +205,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XIX",
     "start_char": 4307,
-    "end_char": 4450,
+    "end_char": 4451,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XX",
-    "start_char": 4450,
-    "end_char": 4512,
+    "start_char": 4451,
+    "end_char": 4513,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXI",
-    "start_char": 4512,
-    "end_char": 4913,
+    "start_char": 4513,
+    "end_char": 4914,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXII",
-    "start_char": 4913,
-    "end_char": 5297,
+    "start_char": 4914,
+    "end_char": 5298,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXIII",
-    "start_char": 5297,
-    "end_char": 5628,
+    "start_char": 5298,
+    "end_char": 5629,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXIV",
-    "start_char": 5628,
-    "end_char": 5816,
+    "start_char": 5629,
+    "end_char": 5817,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXV",
-    "start_char": 5816,
-    "end_char": 6070,
+    "start_char": 5817,
+    "end_char": 6071,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXVI",
-    "start_char": 6070,
-    "end_char": 6244,
+    "start_char": 6071,
+    "end_char": 6245,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXVII",
-    "start_char": 6244,
-    "end_char": 6470,
+    "start_char": 6245,
+    "end_char": 6471,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXVIII",
-    "start_char": 6470,
-    "end_char": 6705,
+    "start_char": 6471,
+    "end_char": 6706,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXIX",
-    "start_char": 6705,
-    "end_char": 6833,
+    "start_char": 6706,
+    "end_char": 6834,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXX",
-    "start_char": 6833,
-    "end_char": 7141,
+    "start_char": 6834,
+    "end_char": 7142,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXXI",
-    "start_char": 7141,
-    "end_char": 7274,
+    "start_char": 7142,
+    "end_char": 7275,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,19 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "fraction": "XXXII",
-    "start_char": 7274,
-    "end_char": 8098,
+    "start_char": 7275,
+    "end_char": 7631,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso-indebido",
+    "term": "Traspaso Indebido",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lsar",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
+    "fraction": "XXXIII",
+    "start_char": 7631,
+    "end_char": 8100,
     "basis": "express_definition"
   }
 ]

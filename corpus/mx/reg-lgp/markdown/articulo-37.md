@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["REG-LGP — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf
 source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 ---
@@ -23,7 +23,9 @@ I. Proponer y ejecutar políticas, estrategias y medidas administrativas, operat
 
 II. Integrar las propuestas de los programas en materia de población;
 
-III. Analizar, evaluar, sistematizar y producir información sobre los fenómenos demográficos, así como elaborar proyecciones de población; IV. Coordinar los trabajos para la elaboración de los informes sobre los programas en materia de población y los que solicite el propio Consejo o su Presidente;
+III. Analizar, evaluar, sistematizar y producir información sobre los fenómenos demográficos, así como elaborar proyecciones de población;
+
+IV. Coordinar los trabajos para la elaboración de los informes sobre los programas en materia de población y los que solicite el propio Consejo o su Presidente;
 
 V. Realizar, promover, apoyar y coordinar estudios e investigaciones en materia de población;
 
@@ -33,4 +35,4 @@ VII. Asesorar y proporcionar asistencia, en materia de población, a toda clase 
 
 VIII. Coordinar las comisiones internas de trabajo, y
 
-IX. Las demás que le confieran la Ley, este [Reglamento](articulo-3.md) y otras disposiciones legales y reglamentarias, y las que le encomiende el Presidente del Consejo o el Consejo.
+IX. Las demás que le confieran la [Ley](articulo-3.md), este [Reglamento](articulo-3.md) y otras disposiciones legales y reglamentarias, y las que le encomiende el Presidente del Consejo o el Consejo.

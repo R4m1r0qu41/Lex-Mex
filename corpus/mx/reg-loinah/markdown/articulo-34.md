@@ -29,7 +29,9 @@ IV. Organizar e impulsar investigaciones colectivas, seminarios o grupos de trab
 
 V. Elaborar y, en su caso, dar seguimiento y coadyuvar al desarrollo de los planes, programas, proyectos y presupuestos para la investigación histórica;
 
-VI. Apoyar la consecución de financiamiento y apoyo a la investigación histórica al interior del Instituto y a nivel interinstitucional; VII. Promover e impulsar la difusión y divulgación de los conocimientos generados por la investigación histórica, así como de otros temas de interés institucional;
+VI. Apoyar la consecución de financiamiento y apoyo a la investigación histórica al interior del Instituto y a nivel interinstitucional;
+
+VII. Promover e impulsar la difusión y divulgación de los conocimientos generados por la investigación histórica, así como de otros temas de interés institucional;
 
 VIII. Impulsar la creación, organización y difusión de acervos documentales, hemerográficos, cartográficos, sonoros, fílmicos y de cualquier otro tipo de soporte de información, para facilitar la investigación y la divulgación de los estudios históricos;
 

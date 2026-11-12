@@ -25,7 +25,9 @@ II. La efectividad de los sistemas de distribución de alimentos;
 
 III. El fortalecimiento sostenible de la base productiva de alimentos;
 
-IV. La reserva de alimentos frente a situaciones de emergencia; V. Los mecanismos de coordinación y colaboración sectorial e interinstitucional, así como de supervisión y evaluación;
+IV. La reserva de alimentos frente a situaciones de emergencia;
+
+V. Los mecanismos de coordinación y colaboración sectorial e interinstitucional, así como de supervisión y evaluación;
 
 VI. La atención de personas o grupos de atención prioritaria, con perspectiva de género y enfoque intercultural;
 

@@ -19,7 +19,9 @@ source_sha256: 05173ee7243159eadc0ab705431d038e1381731df1799208978dfdc945663afc
 
 Al frente de la Dirección General de Política Criminal y Vinculación en Materia de Delitos Electorales habrá un Director General, quien tendrá las facultades siguientes:
 
-I. Promover la participación de instituciones públicas y privadas que contribuyan al cumplimiento de las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales; II. Fungir como enlace ante los órganos de procuración de justicia del Distrito Federal y de los estados, para lograr el intercambio de información, así como la colaboración y apoyo necesarios para el cumplimiento de las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
+I. Promover la participación de instituciones públicas y privadas que contribuyan al cumplimiento de las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
+
+II. Fungir como enlace ante los órganos de procuración de justicia del Distrito Federal y de los estados, para lograr el intercambio de información, así como la colaboración y apoyo necesarios para el cumplimiento de las funciones de la Fiscalía Especializada para la Atención de Delitos Electorales;
 
 III. Participar con las unidades administrativas competentes en la elaboración y ejecución del Plan Nacional de Desarrollo, programas sectoriales, institucionales y especiales, así como en los procesos de innovación gubernamental en el ámbito de competencia de la Fiscalía Especializada para la Atención de Delitos Electorales;
 

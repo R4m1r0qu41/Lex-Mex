@@ -12,12 +12,12 @@
     },
     "text": "El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Ley de Ascensos de la Armada de México y establecer las normas y criterios que propicien su oportuno y estricto cumplimiento.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -36,9 +36,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -57,9 +57,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -78,9 +78,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -98,10 +98,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -120,9 +120,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -138,12 +138,12 @@
     },
     "text": "No se conferirá ascenso alguno sin vacante que lo motive, salvo en los casos previstos en la propia Ley.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -161,10 +161,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -182,10 +182,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -203,10 +203,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -224,10 +224,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -246,9 +246,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -266,10 +266,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -287,10 +287,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -308,10 +308,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -329,10 +329,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -350,10 +350,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -372,9 +372,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -392,10 +392,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -413,10 +413,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -434,10 +434,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -455,10 +455,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -476,10 +476,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -498,10 +498,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -521,9 +521,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -543,9 +543,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -564,10 +564,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -586,10 +586,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -608,10 +608,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -630,10 +630,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -652,10 +652,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -674,10 +674,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -696,10 +696,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -718,10 +718,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -740,10 +740,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -762,10 +762,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -784,10 +784,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -806,10 +806,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -829,9 +829,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -851,9 +851,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -873,9 +873,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -895,9 +895,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -917,9 +917,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -939,9 +939,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -960,10 +960,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -982,10 +982,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1005,9 +1005,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1027,9 +1027,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1049,9 +1049,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1071,9 +1071,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1093,9 +1093,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1115,9 +1115,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1137,9 +1137,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1159,9 +1159,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1181,9 +1181,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1203,9 +1203,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1224,10 +1224,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1246,10 +1246,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1268,10 +1268,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1290,10 +1290,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1312,10 +1312,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1334,10 +1334,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1354,12 +1354,12 @@
     },
     "text": "Si por necesidades del servicio u otra causa justificada, el personal convocado no puede efectuar los exámenes en las fechas programadas y dentro del período del concurso de selección, las Comisiones Locales deberán programar con la Comisión Coordinadora las nuevas fechas de aplicación.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1378,10 +1378,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1398,12 +1398,12 @@
     },
     "text": "La aplicación del examen médico será responsabilidad del servicio de Sanidad Naval a través de los establecimientos médicos navales.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1422,10 +1422,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1445,9 +1445,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1466,10 +1466,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1489,9 +1489,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1511,9 +1511,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1532,10 +1532,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1554,10 +1554,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1576,10 +1576,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1596,12 +1596,12 @@
     },
     "text": "Las Comisiones Locales serán responsables de que los resultados de la aplicación de los exámenes médicos sean enviados oportunamente a la Comisión Coordinadora.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1620,10 +1620,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1640,12 +1640,12 @@
     },
     "text": "El examen de capacidad física tiene por objeto comprobar que el personal participante se encuentre en condiciones físicas para cumplir con sus deberes navales.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1665,9 +1665,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1686,10 +1686,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1708,10 +1708,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1730,10 +1730,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1752,10 +1752,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1775,9 +1775,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1797,9 +1797,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1818,10 +1818,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1840,10 +1840,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1860,12 +1860,12 @@
     },
     "text": "Cuando por razones fisiológicas, el personal femenino solicite otra fecha para presentar el examen de capacidad física, se le autorizará dentro del calendario de aplicación de citado examen, siempre y cuando sea antes de que se lleve a cabo el examen académico.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1885,9 +1885,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1906,10 +1906,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1928,10 +1928,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1950,10 +1950,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1972,10 +1972,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1994,10 +1994,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2016,10 +2016,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2036,12 +2036,12 @@
     },
     "text": "El examen que deberá aplicarse al personal de Clases y Marinería sólo corresponderá a las habilidades o destrezas necesarias para desarrollar eficientemente las tareas específicas inherentes a su Cuerpo o Servicio.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2058,12 +2058,12 @@
     },
     "text": "La calificación del examen práctico se graduará en la escala de 0 a 100 puntos, siendo 60 puntos la calificación mínima aprobatoria para continuar participando en la promoción.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2082,10 +2082,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2104,10 +2104,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2126,10 +2126,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2148,10 +2148,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2170,10 +2170,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2192,10 +2192,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2214,10 +2214,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2236,10 +2236,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2258,10 +2258,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2280,10 +2280,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2300,12 +2300,12 @@
     },
     "text": "El trabajo tipo tesis tiene por objeto determinar el nivel de conocimientos y capacidad de investigación del personal participante de la jerarquía de Teniente de Navío Núcleo, para desempeñarse en el grado inmediato superior.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2324,10 +2324,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2344,12 +2344,12 @@
     },
     "text": "La calificación mínima aprobatoria del trabajo tipo tesis para continuar participando en el concurso de selección será de 60 puntos y únicamente tendrá vigencia por un año.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2368,10 +2368,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2390,10 +2390,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2412,10 +2412,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2434,10 +2434,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2456,10 +2456,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2478,10 +2478,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2500,10 +2500,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2523,9 +2523,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2544,10 +2544,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2566,10 +2566,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2588,10 +2588,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2610,10 +2610,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2630,12 +2630,12 @@
     },
     "text": "Será responsabilidad de la Oficialía Mayor, a través de la dirección general correspondiente, elaborar los listados y verificar el orden de prelación del personal de clases y marinería participante.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2654,10 +2654,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2676,10 +2676,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2698,10 +2698,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2718,12 +2718,12 @@
     },
     "text": "Al término del proceso de promoción el Alto Mando, por conducto de la Oficialía Mayor, comunicará al personal convocado los ascensos conferidos.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2739,12 +2739,12 @@
     },
     "text": "Los ascensos en tiempo de guerra se otorgarán conforme a los términos establecidos en la Ley.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2762,10 +2762,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2783,10 +2783,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2804,10 +2804,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2825,10 +2825,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2844,12 +2844,12 @@
     },
     "text": "La situación de guerra condiciona las propuestas de ascensos, por lo que los organismos responsables deberán atenderlas en forma expedita.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2867,10 +2867,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2886,12 +2886,12 @@
     },
     "text": "Los ascensos que se otorguen por méritos especiales serán conforme a los supuestos que establece la Ley.",
     "publication_date": "2006-11-09",
-    "effective_from": null,
+    "effective_from": "2006-11-10",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2909,10 +2909,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2930,10 +2930,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2947,14 +2947,14 @@
       "title": "Título SEXTO",
       "chapter": "Capítulo I"
     },
-    "text": "Son causas de exclusión de la persona participante, antes y durante el Concurso de Selección las siguientes: Párrafo reformado DOF 11-03-2016, 02-04-2026\n\nI. Dejar de cumplir con alguno de los requisitos que establece la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables para ser convocada; Fracción reformada DOF 11-03-2016, 02-04-2026\n\nII. Quedar incluida en alguno de los supuestos establecidos en el artículo 51 de la Ley; Fracción reformada DOF 02-04-2026\n\nIII. Quedar clasificada en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fracción reformada DOF 11-03-2016, 06-03-2020, 02-04-2026\n\nIV. No obtener la calificación mínima aprobatoria en los exámenes que establece el artículo 59 de este Reglamento; Fracción reformada DOF 22-09-2010\n\nV. Se deroga. Fracción derogada DOF 22-09-2010\n\nVI. Por renuncia voluntaria de la convocada, manifestada por escrito; Fracción reformada DOF 02-04-2026\n\nVII. No presentarse a los exámenes sin causa justificada;\n\nVIII. Presentarse a los exámenes bajo los efectos de alcohol, drogas o psicotrópicos;\n\nIX. Conducirse con falsedad o hacer uso de medios fraudulentos; X. Estar vinculada a proceso penal; cumpliendo sentencia condenatoria del orden penal; haber comparecido ante un órgano de disciplina, resultando culpable y quedando firme la imposición de los correctivos disciplinarios previstos en las fracciones IV, V y VI del artículo 50 de la Ley de Disciplina para el Personal de la Armada de México o estar cumpliendo cualquiera de dichos correctivos disciplinarios; Fracción reformada DOF 22-09-2010, 11-03-2016, 02-04-2026\n\nXI. Habérsele conferido ascenso por adecuación de grado durante el proceso de promoción;\n\nXII. Estar por comparecer o haber comparecido ante un órgano de disciplina y al término de la Promoción General no se haya determinado su situación jurídica, y Fracción reformada DOF 11-03-2016, 02-04-2026\n\nXIII. Cuando su conducta se le conceptúe como regular o mala en el año en que participará o durante el período de la Promoción General, lo cual se acreditará mediante la hoja de actuación, memorial de servicios o certificado de conducta que se elabore por ese motivo. Fracción reformada DOF 22-09-2010, 11-03-2016, 02-04-2026",
+    "text": "Son causas de exclusión de la persona participante, antes y durante el Concurso de Selección las siguientes: Párrafo reformado DOF 11-03-2016, 02-04-2026\n\nI. Dejar de cumplir con alguno de los requisitos que establece la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables para ser convocada; Fracción reformada DOF 11-03-2016, 02-04-2026\n\nII. Quedar incluida en alguno de los supuestos establecidos en el artículo 51 de la Ley; Fracción reformada DOF 02-04-2026\n\nIII. Quedar clasificada en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; Fracción reformada DOF 11-03-2016, 06-03-2020, 02-04-2026\n\nIV. No obtener la calificación mínima aprobatoria en los exámenes que establece el artículo 59 de este Reglamento; Fracción reformada DOF 22-09-2010\n\nV. Se deroga. Fracción derogada DOF 22-09-2010\n\nVI. Por renuncia voluntaria de la convocada, manifestada por escrito; Fracción reformada DOF 02-04-2026\n\nVII. No presentarse a los exámenes sin causa justificada;\n\nVIII. Presentarse a los exámenes bajo los efectos de alcohol, drogas o psicotrópicos;\n\nIX. Conducirse con falsedad o hacer uso de medios fraudulentos;\n\nX. Estar vinculada a proceso penal; cumpliendo sentencia condenatoria del orden penal; haber comparecido ante un órgano de disciplina, resultando culpable y quedando firme la imposición de los correctivos disciplinarios previstos en las fracciones IV, V y VI del artículo 50 de la Ley de Disciplina para el Personal de la Armada de México o estar cumpliendo cualquiera de dichos correctivos disciplinarios; Fracción reformada DOF 22-09-2010, 11-03-2016, 02-04-2026\n\nXI. Habérsele conferido ascenso por adecuación de grado durante el proceso de promoción;\n\nXII. Estar por comparecer o haber comparecido ante un órgano de disciplina y al término de la Promoción General no se haya determinado su situación jurídica, y Fracción reformada DOF 11-03-2016, 02-04-2026\n\nXIII. Cuando su conducta se le conceptúe como regular o mala en el año en que participará o durante el período de la Promoción General, lo cual se acreditará mediante la hoja de actuación, memorial de servicios o certificado de conducta que se elabore por ese motivo. Fracción reformada DOF 22-09-2010, 11-03-2016, 02-04-2026",
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2973,9 +2973,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2993,10 +2993,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3014,10 +3014,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3035,10 +3035,10 @@
     "publication_date": "2006-11-09",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3057,9 +3057,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3078,9 +3078,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3099,9 +3099,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -3120,9 +3120,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {

@@ -23,6 +23,8 @@ I. Contar con la Certificación vigente en los términos previstos en esta [Ley]
 
 II. No estar inscrito en el [Registro de Personas Facilitadoras](articulo-5.md), con una anotación de cancelación, revocación o suspensión de la Certificación para ejercer las funciones como persona facilitadora, acorde con lo dispuesto en esta Ley;
 
-III. Inscribir su certificación de conformidad con lo dispuesto en el artículo [34](articulo-34.md) de la presente Ley; IV. Contar con las instalaciones o medios electrónicos para la prestación del servicio de mecanismos alternativos de solución de controversias que permitan la observancia de los principios de esta Ley, y
+III. Inscribir su certificación de conformidad con lo dispuesto en el artículo [34](articulo-34.md) de la presente Ley;
+
+IV. Contar con las instalaciones o medios electrónicos para la prestación del servicio de mecanismos alternativos de solución de controversias que permitan la observancia de los principios de esta Ley, y
 
 V. Las demás disposiciones establecidas en la presente Ley.

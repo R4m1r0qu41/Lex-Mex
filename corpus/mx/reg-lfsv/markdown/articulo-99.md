@@ -21,6 +21,8 @@ La Secretaría supervisará el desarrollo e implementación de las Medidas Fitos
 
 La supervisión a que se refiere el párrafo anterior, deberá considerar por lo menos la revisión de los aspectos siguientes:
 
-I. Documental; II. Teórica–práctica, la cual debe incluir aspectos técnicos y normativos, así como la correcta aplicación de las Medidas Fitosanitarias, y
+I. Documental;
+
+II. Teórica–práctica, la cual debe incluir aspectos técnicos y normativos, así como la correcta aplicación de las Medidas Fitosanitarias, y
 
 III. Infraestructura, la cual se refiere a las instalaciones, material y equipo que se utilice en la aplicación de las Medidas Fitosanitarias.

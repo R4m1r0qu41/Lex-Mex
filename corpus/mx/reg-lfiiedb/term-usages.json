@@ -10,30 +10,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2:term-usage:3141-3165",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2:term-usage:3142-3166",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
     "span": "Desarrollo con Bienestar",
-    "start_char": 3141,
-    "end_char": 3165
+    "start_char": 3142,
+    "end_char": 3166
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2:term-usage:3540-3564",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2:term-usage:3541-3565",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
     "span": "Desarrollo con Bienestar",
-    "start_char": 3540,
-    "end_char": 3564
+    "start_char": 3541,
+    "end_char": 3565
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2:term-usage:4480-4504",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2:term-usage:4481-4505",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
     "span": "Desarrollo con Bienestar",
-    "start_char": 4480,
-    "end_char": 4504
+    "start_char": 4481,
+    "end_char": 4505
   },
   {
     "schema_version": "0.1.0",
@@ -442,12 +442,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:39:term-usage:1036-1060",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:39:term-usage:1037-1061",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:39",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:desarrollo-con-bienestar",
     "span": "Desarrollo con Bienestar",
-    "start_char": 1036,
-    "end_char": 1060
+    "start_char": 1037,
+    "end_char": 1061
   },
   {
     "schema_version": "0.1.0",
@@ -487,12 +487,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:41:term-usage:1863-1883",
+    "id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:41:term-usage:1864-1884",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:article:41",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfiiedb:term:pasivo-contingente",
     "span": "Pasivos Contingentes",
-    "start_char": 1863,
-    "end_char": 1883
+    "start_char": 1864,
+    "end_char": 1884
   },
   {
     "schema_version": "0.1.0",

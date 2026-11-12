@@ -17,7 +17,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 39
 
-Los programas de manejo para el aprovechamiento de Recursos forestales maderables deberán contener: I. Objetivos generales y específicos;
+Los programas de manejo para el aprovechamiento de Recursos forestales maderables deberán contener:
+
+I. Objetivos generales y específicos;
 
 II. Descripción general de antecedentes de los aprovechamientos de Recursos forestales maderables anteriores en el predio, incluyendo la respuesta a los tratamientos aplicados con indicadores dasométricos comparativos;
 
@@ -71,7 +73,9 @@ VIII. Descripción y, en su caso, la planeación de la infraestructura necesaria
 
 IX. Los compromisos de Reforestación cuando no se presente la regeneración natural;
 
-X. Medidas necesarias para prevenir, controlar y combatir Incendios, Plagas y Enfermedades forestales, así como el calendario para su ejecución; XI. Descripción y programación de las medidas de prevención y mitigación de los impactos ambientales durante las distintas etapas de manejo, así como las que se deberán realizar aun cuando el predio se encuentre en receso o termine la vigencia de la autorización.
+X. Medidas necesarias para prevenir, controlar y combatir Incendios, Plagas y Enfermedades forestales, así como el calendario para su ejecución;
+
+XI. Descripción y programación de las medidas de prevención y mitigación de los impactos ambientales durante las distintas etapas de manejo, así como las que se deberán realizar aun cuando el predio se encuentre en receso o termine la vigencia de la autorización.
 
 Cuando existan especies de flora y fauna silvestres en riesgo, se especificarán las medidas de conservación y protección de su hábitat. Cuando exista autorización favorable en materia de impacto ambiental para el aprovechamiento de Recursos forestales maderables solicitado, se exceptuará de lo previsto en el presente inciso;
 

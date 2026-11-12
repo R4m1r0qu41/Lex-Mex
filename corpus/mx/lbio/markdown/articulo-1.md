@@ -21,7 +21,9 @@ La presente [Ley](articulo-2.md) es de orden público e interés social, de obse
 
 I. Promover el aprovechamiento y valorización de los residuos orgánicos para la [Producción](articulo-2.md) de Biocombustibles;
 
-II. Promover la producción sustentable de [Biomasa](articulo-2.md) para la Producción de Biocombustibles en [Suelos Marginales](articulo-2.md) que no provengan de insumos primarios de origen vegetal destinados para el consumo humano, salvo los provenientes de los excedentes de caña de azúcar y del sorgo; III. Desarrollar e impulsar mecanismos para incentivar el uso directo de la Biomasa como Biocombustible; la Producción, importación, exportación, [Almacenamiento](articulo-2.md), [Transporte](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md), y el [Expendio al Público](articulo-2.md) de Biocombustibles;
+II. Promover la producción sustentable de [Biomasa](articulo-2.md) para la Producción de Biocombustibles en [Suelos Marginales](articulo-2.md) que no provengan de insumos primarios de origen vegetal destinados para el consumo humano, salvo los provenientes de los excedentes de caña de azúcar y del sorgo;
+
+III. Desarrollar e impulsar mecanismos para incentivar el uso directo de la Biomasa como Biocombustible; la Producción, importación, exportación, [Almacenamiento](articulo-2.md), [Transporte](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md), y el [Expendio al Público](articulo-2.md) de Biocombustibles;
 
 IV. Contribuir con la reducción de las emisiones contaminantes a la atmósfera, así como de gases y compuestos de efecto invernadero, mediante el desarrollo sustentable de los Biocombustibles, y
 

@@ -21,7 +21,9 @@ Traslado Internacional de personas sentenciadas Las personas sentenciadas de nac
 
 I. Que la persona sentenciada otorgue y exprese libremente su deseo y consentimiento a ser trasladado a su país de origen.
 
-II. Que sean nacionales del país al cual desean ser trasladados. III. Que la sentencia se encuentre firme, es decir que ningún procedimiento de apelación, recurso o juicio en contra de la misma esté pendiente de resolución.
+II. Que sean nacionales del país al cual desean ser trasladados.
+
+III. Que la sentencia se encuentre firme, es decir que ningún procedimiento de apelación, recurso o juicio en contra de la misma esté pendiente de resolución.
 
 IV. En caso de haber sido sentenciados a pena pecuniaria, esta haya sido liquidada, o exista acuerdo de prescripción de la misma. Asimismo, de haber sido condenadas a reparación de daño, este debe estar finiquitado o prescrito.
 

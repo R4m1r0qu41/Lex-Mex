@@ -29,7 +29,9 @@ IV.- Nombre y carácter, denominación o razón social del afectado, así como d
 
 V.- Nombre y domicilio de los testigos;
 
-VI.- Relación sucinta de hechos y datos relativos a la actuación; VII.- Inventario y destino de los bienes asegurados, en su caso, así como el nombre de los depositarios;
+VI.- Relación sucinta de hechos y datos relativos a la actuación;
+
+VII.- Inventario y destino de los bienes asegurados, en su caso, así como el nombre de los depositarios;
 
 VIII.- Observaciones formuladas por el solicitante de las medidas;
 

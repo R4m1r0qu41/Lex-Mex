@@ -25,7 +25,9 @@ II. Fecha y hora de presentación de la solicitud en la [Secretaría](articulo-1
 
 III. Clase, fecha y datos de identificación del documento;
 
-IV. Datos contenidos en la solicitud del acto, convenio o contrato sujeto a inscripción; V. Nombre del fedatario que otorgó o ante quién se ratificó el documento o de la autoridad que dictó la resolución;
+IV. Datos contenidos en la solicitud del acto, convenio o contrato sujeto a inscripción;
+
+V. Nombre del fedatario que otorgó o ante quién se ratificó el documento o de la autoridad que dictó la resolución;
 
 VI. Mención del apéndice y folios al que se integra la copia del documento, y
 

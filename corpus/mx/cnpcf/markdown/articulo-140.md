@@ -29,7 +29,9 @@ IV. La autoridad jurisdiccional tiene el deber de mantener el buen orden, evitar
 
 V. Cuando la infracción llegare a actualizar un hecho probablemente constitutivo de un delito conforme a las leyes Penales, se dará vista al Ministerio Público competente;
 
-VI. La autoridad jurisdiccional determinará el inicio y la conclusión de cada una de las etapas de las audiencias de forma continua, precluyendo los derechos procesales que debieron ejercitar las partes en cada una de ellas, sin necesidad de declaración judicial; VII. La parte que asista tardíamente a las audiencias, se incorporará en la etapa en que éstas se encuentren, sin perjuicio de la facultad de la autoridad jurisdiccional en materia de conciliación y en el entendido de que esto no altera los derechos que han quedado precluidos;
+VI. La autoridad jurisdiccional determinará el inicio y la conclusión de cada una de las etapas de las audiencias de forma continua, precluyendo los derechos procesales que debieron ejercitar las partes en cada una de ellas, sin necesidad de declaración judicial;
+
+VII. La parte que asista tardíamente a las audiencias, se incorporará en la etapa en que éstas se encuentren, sin perjuicio de la facultad de la autoridad jurisdiccional en materia de conciliación y en el entendido de que esto no altera los derechos que han quedado precluidos;
 
 VIII. Podrán decretarse los recesos que la autoridad jurisdiccional o las partes soliciten razonablemente, siempre que no constituyan una dilación procesal innecesaria;
 

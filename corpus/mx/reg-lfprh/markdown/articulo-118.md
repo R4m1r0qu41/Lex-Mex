@@ -17,7 +17,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 118
 
-La Secretaría y la Función Pública, podrán determinar la celebración de convenios o bases de desempeño conforme a lo siguiente: I. Las entidades, dependencias y órganos administrativos desconcentrados que soliciten suscribir convenios o bases de desempeño deberán enviar a la Secretaría, por conducto de las dependencias coordinadoras de sector o de aquéllas a las que estén jerárquicamente subordinadas, entre el primer día hábil de enero y el último día hábil de marzo sus propuestas de convenios o bases de desempeño, conforme a los modelos de dichos instrumentos;
+La Secretaría y la Función Pública, podrán determinar la celebración de convenios o bases de desempeño conforme a lo siguiente:
+
+I. Las entidades, dependencias y órganos administrativos desconcentrados que soliciten suscribir convenios o bases de desempeño deberán enviar a la Secretaría, por conducto de las dependencias coordinadoras de sector o de aquéllas a las que estén jerárquicamente subordinadas, entre el primer día hábil de enero y el último día hábil de marzo sus propuestas de convenios o bases de desempeño, conforme a los modelos de dichos instrumentos;
 
 II. La Secretaría presentará a la [Comisión](articulo-2.md) las propuestas para la celebración de convenios y bases de desempeño entre el primer día hábil de febrero y el último día hábil de abril, y
 

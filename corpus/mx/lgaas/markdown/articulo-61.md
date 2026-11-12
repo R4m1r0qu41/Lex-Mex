@@ -39,7 +39,9 @@ IX. Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
 X. Secretaría de Bienestar;
 
-XI. Secretaría de Gobernación; XII. Secretaría de Hacienda y Crédito Público;
+XI. Secretaría de Gobernación;
+
+XII. Secretaría de Hacienda y Crédito Público;
 
 XIII. Secretaría de Relaciones Exteriores;
 

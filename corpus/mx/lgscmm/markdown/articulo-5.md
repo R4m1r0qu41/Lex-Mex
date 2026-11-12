@@ -23,6 +23,8 @@ No serán sujetos de la aplicación de la presente Ley, el personal que pertenez
 
 I. Las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. El Consejo Nacional de Fomento Educativo, así como los organismos que presten servicios equivalentes en las entidades federativas; III. Los institutos de educación para adultos, nacional y estatales, y
+II. El Consejo Nacional de Fomento Educativo, así como los organismos que presten servicios equivalentes en las entidades federativas;
+
+III. Los institutos de educación para adultos, nacional y estatales, y
 
 IV. El Instituto Politécnico Nacional.

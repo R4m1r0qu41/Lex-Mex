@@ -7,8 +7,8 @@ provision_type: article
 number: "75"
 aliases: ["LFCE — Artículo 75"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf
 source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 ---
@@ -23,7 +23,9 @@ I. La Autoridad Investigadora emitirá la orden de visita, la que contendrá el 
 
 II. La Autoridad Investigadora realizará las visitas de verificación a fin de obtener datos y documentos que se relacionen con la investigación.
 
-La práctica de las visitas no podrá exceder de dos meses, que podrá prorrogarse hasta por otro periodo igual, en caso de que así lo justifique la investigación; III. Las visitas se practicarán en días y horas hábiles únicamente por el personal autorizado para su desahogo, previa identificación y exhibición de la orden de visita respectiva a la persona que se encuentre en el domicilio al momento de la celebración de la visita de verificación.
+La práctica de las visitas no podrá exceder de dos meses, que podrá prorrogarse hasta por otro periodo igual, en caso de que así lo justifique la investigación;
+
+III. Las visitas se practicarán en días y horas hábiles únicamente por el personal autorizado para su desahogo, previa identificación y exhibición de la orden de visita respectiva a la persona que se encuentre en el domicilio al momento de la celebración de la visita de verificación.
 
 La autoridad investigadora podrá habilitar días y horas inhábiles para iniciar o continuar una visita iniciada en días y horas hábiles, en cuyo caso el oficio por el que se haya ordenado la visita expresará la autorización correspondiente;
 

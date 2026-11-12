@@ -29,7 +29,9 @@ IV. Condiciones socioeconómicas del infractor;
 
 V. Cargo, comisión, categoría jerárquica y antigüedad;
 
-VI. Conducta observada con anterioridad al hecho; VII. Circunstancias de ejecución;
+VI. Conducta observada con anterioridad al hecho;
+
+VII. Circunstancias de ejecución;
 
 VIII. Intencionalidad o negligencia;
 

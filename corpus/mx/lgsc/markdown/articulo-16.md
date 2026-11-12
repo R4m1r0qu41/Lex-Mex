@@ -7,8 +7,8 @@ provision_type: article
 number: "16"
 aliases: ["LGSC — Artículo 16"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf
 source_sha256: 7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f
 ---
@@ -29,7 +29,9 @@ IV.- Forma de constituir o incrementar el capital social, expresión del valor d
 
 V.- Requisitos y procedimiento para la admisión, exclusión y separación voluntaria de los socios;
 
-VI.- Forma de constituir los fondos sociales, su monto, su objeto y reglas para su aplicación; VII.- Areas de trabajo que vayan a crearse y reglas para su funcionamiento y en particular de la de educación cooperativa en los términos del artículo [47](articulo-47.md) de esta Ley;
+VI.- Forma de constituir los fondos sociales, su monto, su objeto y reglas para su aplicación;
+
+VII.- Areas de trabajo que vayan a crearse y reglas para su funcionamiento y en particular de la de educación cooperativa en los términos del artículo [47](articulo-47.md) de esta Ley;
 
 VIII.- Duración del ejercicio social que podrá coincidir con el año de calendario, así como el tipo de libros de actas y de contabilidad a llevarse;
 

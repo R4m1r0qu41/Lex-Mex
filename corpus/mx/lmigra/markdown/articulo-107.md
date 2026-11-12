@@ -29,7 +29,9 @@ III. Mantener en lugares separados y con medidas que aseguran la integridad fís
 
 IV. Promover el derecho a la preservación de la unidad familiar;
 
-V. Garantizar el respeto de los derechos humanos del extranjero presentado; VI. Mantener instalaciones adecuadas que eviten el hacinamiento;
+V. Garantizar el respeto de los derechos humanos del extranjero presentado;
+
+VI. Mantener instalaciones adecuadas que eviten el hacinamiento;
 
 VII. Contar con espacios de recreación deportiva y cultural;
 

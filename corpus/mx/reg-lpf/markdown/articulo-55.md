@@ -17,7 +17,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 55
 
-Corresponde a la Dirección General de Indicadores de Integración de la Información: I. Establecer los parámetros para la generación de indicadores de gestión de la información contenida en los sistemas de información de la [Institución](articulo-2.md);
+Corresponde a la Dirección General de Indicadores de Integración de la Información:
+
+I. Establecer los parámetros para la generación de indicadores de gestión de la información contenida en los sistemas de información de la [Institución](articulo-2.md);
 
 II. Diseñar los procedimientos para carga, suministro, consulta, actualización, resguardo y certificación de la información contenida en los sistemas de información de la Institución;
 

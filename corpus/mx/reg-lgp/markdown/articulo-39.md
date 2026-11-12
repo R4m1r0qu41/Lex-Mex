@@ -7,8 +7,8 @@ provision_type: article
 number: "39"
 aliases: ["REG-LGP — Artículo 39"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf
 source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 ---
@@ -25,7 +25,9 @@ II. Identificar los programas y acciones que puedan desarrollarse de manera coor
 
 III. Coadyuvar con las labores del Consejo y de la [Secretaría](articulo-3.md) General del mismo;
 
-IV. Promover que en las previsiones, consideraciones y los criterios demográficos determinados por el Consejo se incorpore la diversidad y particularidad de cada entidad federativa y sus municipios; V. Presentar opiniones, sugerencias o recomendaciones al Consejo para el mejor cumplimiento de los programas en materia de población nacional y estatal;
+IV. Promover que en las previsiones, consideraciones y los criterios demográficos determinados por el Consejo se incorpore la diversidad y particularidad de cada entidad federativa y sus municipios;
+
+V. Presentar opiniones, sugerencias o recomendaciones al Consejo para el mejor cumplimiento de los programas en materia de población nacional y estatal;
 
 VI. Proponer al Consejo las acciones y mecanismos de coordinación para fortalecer la planeación demográfica;
 
@@ -35,7 +37,7 @@ VIII. Promover el desarrollo técnico de los consejos estatales y municipales de
 
 IX. Proponer al Consejo y/o a los gobiernos de las entidades federativas y de los municipios, las medidas que estime convenientes para actualizar o mejorar la coordinación entre los tres órdenes de gobierno en los asuntos de población, y
 
-X. Las demás que le confieran la Ley, este [Reglamento](articulo-3.md) y otras disposiciones legales, y las que le encomiende el Consejo.
+X. Las demás que le confieran la [Ley](articulo-3.md), este [Reglamento](articulo-3.md) y otras disposiciones legales, y las que le encomiende el Consejo.
 
 Dicha Comisión estará presidida por el [Secretario](articulo-3.md) General del Consejo y se invitará a formar parte de la misma a los consejos estatales de población u organismos equivalentes representados por su Secretario Técnico o similar.
 

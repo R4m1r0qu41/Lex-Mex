@@ -19,7 +19,9 @@ source_sha256: 4e3a4d590c0554842ff0a27a9ecc09c7f2c22c87255a4c0f247ea68d2dca544c
 
 El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación; II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
 III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
 

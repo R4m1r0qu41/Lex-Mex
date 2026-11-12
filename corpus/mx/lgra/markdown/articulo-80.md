@@ -21,7 +21,9 @@ Para la imposición de las sanciones a que se refiere el artículo [78](articulo
 
 I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
 
-II. El nivel jerárquico y los antecedentes del infractor, entre ellos la antigüedad en el servicio; III. Las circunstancias socioeconómicas del servidor público;
+II. El nivel jerárquico y los antecedentes del infractor, entre ellos la antigüedad en el servicio;
+
+III. Las circunstancias socioeconómicas del servidor público;
 
 IV. Las condiciones exteriores y los medios de ejecución;
 

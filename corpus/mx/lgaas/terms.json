@@ -117,7 +117,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XI",
     "start_char": 2012,
-    "end_char": 2165,
+    "end_char": 2166,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XII",
-    "start_char": 2165,
-    "end_char": 2389,
+    "start_char": 2166,
+    "end_char": 2390,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XIII",
-    "start_char": 2389,
-    "end_char": 2687,
+    "start_char": 2390,
+    "end_char": 2688,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XIV",
-    "start_char": 2687,
-    "end_char": 3332,
+    "start_char": 2688,
+    "end_char": 3333,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XV",
-    "start_char": 3332,
-    "end_char": 3448,
+    "start_char": 3333,
+    "end_char": 3449,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XVI",
-    "start_char": 3448,
-    "end_char": 3723,
+    "start_char": 3449,
+    "end_char": 3724,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XVII",
-    "start_char": 3723,
-    "end_char": 3934,
+    "start_char": 3724,
+    "end_char": 3935,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XVIII",
-    "start_char": 3934,
-    "end_char": 4270,
+    "start_char": 3935,
+    "end_char": 4271,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XIX",
-    "start_char": 4270,
-    "end_char": 4679,
+    "start_char": 4271,
+    "end_char": 4680,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XX",
-    "start_char": 4679,
-    "end_char": 4809,
+    "start_char": 4680,
+    "end_char": 4810,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XXI",
-    "start_char": 4809,
-    "end_char": 4917,
+    "start_char": 4810,
+    "end_char": 4918,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,19 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgaas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
     "fraction": "XXII",
-    "start_char": 4917,
-    "end_char": 5557,
+    "start_char": 4918,
+    "end_char": 5199,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgaas:term:soberania-alimentaria",
+    "term": "Soberanía alimentaria",
+    "instrument_id": "urn:lex-mx:federal:statute:lgaas",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgaas:article:2",
+    "fraction": "XXIII",
+    "start_char": 5199,
+    "end_char": 5559,
     "basis": "express_definition"
   }
 ]

@@ -17,7 +17,9 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 # Artículo 57
 
-La Subprocuraduría de Averiguaciones Previas Desconcentradas tendrá bajo su supervisión y dirección las Fiscalías Desconcentradas y Unidades, que a continuación se mencionan: I. Fiscalía Desconcentrada de Investigación en Álvaro Obregón;
+La Subprocuraduría de Averiguaciones Previas Desconcentradas tendrá bajo su supervisión y dirección las Fiscalías Desconcentradas y Unidades, que a continuación se mencionan:
+
+I. Fiscalía Desconcentrada de Investigación en Álvaro Obregón;
 
 II. Fiscalía Desconcentrada de Investigación en Azcapotzalco;
 

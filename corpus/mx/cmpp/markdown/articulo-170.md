@@ -21,7 +21,9 @@ Tipo de garantía La garantía económica podrá constituirse de las siguientes 
 
 I. Depósito en efectivo;
 
-II. Fianza de institución autorizada; III. Hipoteca;
+II. Fianza de institución autorizada;
+
+III. Hipoteca;
 
 IV. Prenda;
 

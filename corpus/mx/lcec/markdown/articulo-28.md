@@ -17,6 +17,6 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 28
 
-Las delegaciones tendrán las funciones señaladas para las Cámaras por esta Ley, exclusivamente dentro de su circunscripción y en cumplimiento a los acuerdos del Consejo Directivo y de los Estatutos de la Cámara. Asimismo, representarán y promoverán a la Cámara a la cual pertenezcan ante los [Comerciantes](articulo-2.md) e [Industriales](articulo-2.md) según corresponda, así como frente a las instancias de Gobierno y la sociedad.
+Las delegaciones tendrán las funciones señaladas para las [Cámaras](articulo-2.md) por esta Ley, exclusivamente dentro de su circunscripción y en cumplimiento a los acuerdos del Consejo Directivo y de los Estatutos de la Cámara. Asimismo, representarán y promoverán a la Cámara a la cual pertenezcan ante los [Comerciantes](articulo-2.md) e [Industriales](articulo-2.md) según corresponda, así como frente a las instancias de Gobierno y la sociedad.
 
 Las Cámaras podrán delegar en ellas las funciones, facultades, responsabilidades y obligaciones que determinen sus Estatutos.

@@ -17,7 +17,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 26
 
-La estructura de los programas presupuestarios conforme a la clasificación económica identifica el tipo de gasto a partir de los componentes siguientes: I. Objeto del gasto, con base en los capítulos, conceptos y partidas del Clasificador por objeto del gasto, de conformidad con los niveles de desagregación previstos en los artículos [29](articulo-29.md) y [30](articulo-30.md) de este Reglamento;
+La estructura de los programas presupuestarios conforme a la clasificación económica identifica el tipo de gasto a partir de los componentes siguientes:
+
+I. Objeto del gasto, con base en los capítulos, conceptos y partidas del Clasificador por objeto del gasto, de conformidad con los niveles de desagregación previstos en los artículos [29](articulo-29.md) y [30](articulo-30.md) de este Reglamento;
 
 II. Naturaleza económica, que identifica las asignaciones conforme a su naturaleza, en erogaciones corrientes o de capital, y
 

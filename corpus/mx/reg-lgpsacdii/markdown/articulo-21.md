@@ -21,7 +21,9 @@ De conformidad con lo establecido en la Ley y otras disposiciones legales y admi
 
 I. Aplicar las estrategias y líneas de acción que deriven de la Política Nacional y del [Programa Nacional](articulo-3.md), realizando las actividades, programas o proyectos que correspondan al [Modelo de Atención](articulo-3.md) que les resulte aplicable;
 
-II. Corroborar que la Autorización que hayan otorgado a los Centros de Atención, cumpla con las disposiciones de la Ley, el presente Reglamento y las demás disposiciones jurídicas aplicables a la Modalidad, Tipo y Modelo de Atención, debiéndose asegurar que los servicios para la atención, cuidado y desarrollo integral infantil se presten con los estándares de calidad y seguridad que exige el principio de interés superior de la niñez; III. Proporcionar la información correspondiente para la integración y actualización del Registro Nacional, así como de los Registros Estatales, en términos de las disposiciones jurídicas aplicables;
+II. Corroborar que la [Autorización](articulo-3.md) que hayan otorgado a los Centros de Atención, cumpla con las disposiciones de la Ley, el presente Reglamento y las demás disposiciones jurídicas aplicables a la Modalidad, Tipo y Modelo de Atención, debiéndose asegurar que los servicios para la atención, cuidado y desarrollo integral infantil se presten con los estándares de calidad y seguridad que exige el principio de interés superior de la niñez;
+
+III. Proporcionar la información correspondiente para la integración y actualización del Registro Nacional, así como de los Registros Estatales, en términos de las disposiciones jurídicas aplicables;
 
 IV. Participar en el seno del Consejo, en la elaboración de los indicadores de evaluación correspondiente a cada Modelo de Atención, que permitan una valoración adecuada a dichos Modelos de prestación del servicio, conforme a las metas señaladas en la Política Nacional , y
 

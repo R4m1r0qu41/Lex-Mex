@@ -19,7 +19,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 La petición de apeo debe contener:
 
-I. El nombre y ubicación de la finca que debe deslindarse; II. La parte o partes en que el acto debe ejecutarse;
+I. El nombre y ubicación de la finca que debe deslindarse;
+
+II. La parte o partes en que el acto debe ejecutarse;
 
 III. Los nombres de las personas colindantes que puedan tener interés en el apeo, así como de las autoridades que puedan tener injerencia en el asunto;
 

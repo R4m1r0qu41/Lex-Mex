@@ -23,6 +23,8 @@ Los documentos en que consten los actos objeto de registro se inscribirán en lo
 
 I. En el folio marítimo, todos los relativos a Embarcaciones o Artefactos Navales.
 
-Se inscribirán los documentos de las Embarcaciones o Artefactos Navales de quinientas [UAB](articulo-10.md) o más, Unidades Fijas Mar Adentro y las que se destinen a la prestación de servicios sujetos a permiso en los términos de la [Ley](articulo-10.md) y este Reglamento; II. En el folio de empresas, los relativos a navieros, sean personas físicas o morales, a la constitución y reformas de empresas navieras, armadores, Operadores y agentes navieros, y
+Se inscribirán los documentos de las Embarcaciones o Artefactos Navales de quinientas [UAB](articulo-10.md) o más, Unidades Fijas Mar Adentro y las que se destinen a la prestación de servicios sujetos a permiso en los términos de la [Ley](articulo-10.md) y este Reglamento;
+
+II. En el folio de empresas, los relativos a navieros, sean personas físicas o morales, a la constitución y reformas de empresas navieras, armadores, Operadores y agentes navieros, y
 
 III. En el folio especial, cualquier otro contrato o documento relativo al Comercio Marítimo o actividad portuaria, distinto a los anteriores, cuando la Ley exija dicha formalidad.

@@ -75,7 +75,9 @@ Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con auto
 
 Las leyes federales no limitarán la facultad de la Ciudad de México para establecer las contribuciones sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles y las derivadas de la prestación de servicios públicos a su cargo, ni concederán exenciones en relación con las mismas. Las leyes de la Ciudad de México no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes del dominio público de la Federación, de las entidades federativas o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para propósitos distintos a los de su objeto público.
 
-Corresponde al Jefe de Gobierno de la Ciudad de México proponer al Poder Legislativo local las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. VI. La división territorial de la Ciudad de México para efectos de su organización político administrativa, así como el número, la denominación y los límites de sus demarcaciones territoriales, serán definidos con lo dispuesto en la Constitución Política local.
+Corresponde al Jefe de Gobierno de la Ciudad de México proponer al Poder Legislativo local las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+VI. La división territorial de la Ciudad de México para efectos de su organización político administrativa, así como el número, la denominación y los límites de sus demarcaciones territoriales, serán definidos con lo dispuesto en la Constitución Política local.
 
 El gobierno de las demarcaciones territoriales de la Ciudad de México estará a cargo de las Alcaldías. Sujeto a las previsiones de ingresos de la hacienda pública de la Ciudad de México, la Legislatura aprobará el presupuesto de las Alcaldías, las cuales lo ejercerán de manera autónoma en los supuestos y términos que establezca la Constitución Política local.
 
@@ -109,7 +111,9 @@ La ley establecerá las normas para garantizar la transparencia del proceso de n
 
 La investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Tribunal Superior de Justicia, corresponderá al Tribunal de Disciplina Judicial local, sin perjuicio de las atribuciones de la entidad de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos. Párrafo reformado DOF 15-09-2024
 
-IX. La Constitución y las leyes de la Ciudad de México deberán ajustarse a las reglas que en materia electoral establece la fracción IV del artículo [116](articulo-116.md) de esta Constitución y las leyes generales correspondientes. X. La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos. Fracción reformada DOF 15-11-2024
+IX. La Constitución y las leyes de la Ciudad de México deberán ajustarse a las reglas que en materia electoral establece la fracción IV del artículo [116](articulo-116.md) de esta Constitución y las leyes generales correspondientes.
+
+X. La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos. Fracción reformada DOF 15-11-2024
 
 XI. Las relaciones de trabajo entre la Ciudad de México y sus trabajadores se regirán por la ley que expida la Legislatura local, con base en lo dispuesto por el artículo [123](articulo-123.md) de esta Constitución y sus leyes reglamentarias.
 

@@ -29,7 +29,9 @@ IV. Control sanitario de los productos del Tabaco: Conjunto de acciones de orien
 
 V. Denuncia Ciudadana: Notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;
 
-VI. Distribución: La acción de vender, ofrecer o exponer para la venta, dar, donar, regalar, intercambiar, transmitir, consignar, entregar, proveer o transferir la posesión de productos del tabaco para fines comerciales, u ofrecer hacerlo, ya sea a título oneroso o gratuito; VII. Elemento de la marca: El uso de razones sociales, nombres comerciales, marcas, emblemas, rúbricas o cualquier tipo de señalización visual o auditiva, que identifique a los productos del tabaco;
+VI. Distribución: La acción de vender, ofrecer o exponer para la venta, dar, donar, regalar, intercambiar, transmitir, consignar, entregar, proveer o transferir la posesión de productos del tabaco para fines comerciales, u ofrecer hacerlo, ya sea a título oneroso o gratuito;
+
+VII. Elemento de la marca: El uso de razones sociales, nombres comerciales, marcas, emblemas, rúbricas o cualquier tipo de señalización visual o auditiva, que identifique a los productos del tabaco;
 
 VIII. Emisión: Es la sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco para uso oral sin humo, se entiende como todas las sustancias liberadas durante el proceso de mascado o chupado y en el caso de productos del tabaco para uso nasal, son todas las sustancias liberadas durante el proceso de inhalación o aspiración;
 

@@ -19,7 +19,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 De manera enunciativa y no limitativa, los siguientes casos se podrán tramitar mediante jurisdicción voluntaria:
 
-I. Nombramiento de personas tutoras y curadoras; II. Enajenación de bienes propiedad de niñas, niños, adolescentes, ausentes o desaparecidos;
+I. Nombramiento de personas tutoras y curadoras;
+
+II. Enajenación de bienes propiedad de niñas, niños, adolescentes, ausentes o desaparecidos;
 
 III. Declaración de ausencia, así como la declaración especial de ausencia por desaparición;
 

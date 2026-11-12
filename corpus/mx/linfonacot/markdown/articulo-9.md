@@ -31,6 +31,8 @@ V. Realizar operaciones de descuento, ceder, negociar y afectar los derechos de 
 
 VI. Participar y coadyuvar en esquemas o programas a efecto de facilitar el acceso al financiamiento a los [Distribuidores](articulo-4.md), que tiendan a disminuir el precio y facilitar la adquisición de dichos bienes y pago de servicios;
 
-VII. Promover entre los trabajadores, el mejor aprovechamiento del salario y contribuir a la orientación de su gasto familiar, y VIII. Realizar las operaciones y servicios análogos o conexos necesarios para la consecución de las operaciones previstas en este artículo, previa autorización de la [Secretaría de Hacienda](articulo-4.md).
+VII. Promover entre los trabajadores, el mejor aprovechamiento del salario y contribuir a la orientación de su gasto familiar, y
+
+VIII. Realizar las operaciones y servicios análogos o conexos necesarios para la consecución de las operaciones previstas en este artículo, previa autorización de la [Secretaría de Hacienda](articulo-4.md).
 
 Las garantías que otorgue el Instituto conforme a las fracciones I y II y los financiamientos que contrate en términos de la fracción III de este artículo, deberán hacerse con cargo a los [Recursos del Fondo](articulo-4.md) y, en ningún caso, los montos de dichas operaciones en su conjunto podrán ser superiores al importe de los Recursos del Fondo. Asimismo, las operaciones a que se refiere este párrafo quedarán sujetas a la consideración y, en su caso, autorización previa por parte de la Secretaría de Hacienda y Crédito Público. Párrafo reformado DOF 10-01-2014

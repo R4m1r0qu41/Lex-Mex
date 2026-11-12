@@ -27,7 +27,9 @@ III. Recibir denuncias o querellas sobre acciones u omisiones que puedan constit
 
 IV. Iniciar con eficiencia, puntualidad y eficacia la investigación que corresponda conforme a lo dispuesto por el artículo 131, fracción V, del [Código Nacional](articulo-9.md), cuando tenga conocimiento de la existencia de un hecho que la ley señale como delito;
 
-V. Investigar y perseguir los delitos del fuero común respecto de los cuales se haya ejercitado la facultad de atracción, en los términos de las disposiciones aplicables; VI. Determinar la procedencia de la detención de las personas imputadas por la comisión de hechos que la ley señale como delito, en los términos previstos por el artículo 16 de la [Constitución](articulo-9.md), procediendo en consecuencia;
+V. Investigar y perseguir los delitos del fuero común respecto de los cuales se haya ejercitado la facultad de atracción, en los términos de las disposiciones aplicables;
+
+VI. Determinar la procedencia de la detención de las personas imputadas por la comisión de hechos que la ley señale como delito, en los términos previstos por el artículo 16 de la [Constitución](articulo-9.md), procediendo en consecuencia;
 
 VII. Realizar el aseguramiento y registro de bienes de conformidad con las disposiciones aplicables;
 
@@ -101,7 +103,9 @@ XXXV. Llevar a cabo las diligencias correspondientes para comprobar la edad de l
 
 XXXVI. Velar por el respeto y cumplimiento de los derechos humanos de la persona adolescente;
 
-XXXVII. Garantizar que, desde el momento en que sea puesta a su disposición, la persona adolescente se encuentre en un lugar adecuado a su condición de persona en desarrollo; XXXVIII. Informar a la persona adolescente, desde el momento en que sea puesta a su disposición, sobre su derecho a nombrar a una persona defensora y, en caso de no contar con una, requerir de forma inmediata a la Defensoría Pública para que le sea designada;
+XXXVII. Garantizar que, desde el momento en que sea puesta a su disposición, la persona adolescente se encuentre en un lugar adecuado a su condición de persona en desarrollo;
+
+XXXVIII. Informar a la persona adolescente, desde el momento en que sea puesta a su disposición, sobre su derecho a nombrar a una persona defensora y, en caso de no contar con una, requerir de forma inmediata a la Defensoría Pública para que le sea designada;
 
 XXXIX. Comunicar de inmediato a la persona adolescente, a sus familiares, a la persona defensora y, en su caso, a quien designe como persona en quien confíe, sobre su situación jurídica y los derechos que le asisten;
 

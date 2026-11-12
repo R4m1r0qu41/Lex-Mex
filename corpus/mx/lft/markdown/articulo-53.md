@@ -21,7 +21,9 @@ Son causas de terminación de las relaciones de trabajo:
 
 I. El mutuo consentimiento de las partes;
 
-II. La muerte del trabajador; III. La terminación de la obra o vencimiento del término o inversión del capital, de conformidad con los artículos [36](articulo-36.md), [37](articulo-37.md) y [38](articulo-38.md);
+II. La muerte del trabajador;
+
+III. La terminación de la obra o vencimiento del término o inversión del capital, de conformidad con los artículos [36](articulo-36.md), [37](articulo-37.md) y [38](articulo-38.md);
 
 IV. La incapacidad física o mental o inhabilidad manifiesta del trabajador, que haga imposible la prestación del trabajo; y
 

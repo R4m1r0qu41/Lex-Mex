@@ -17,4 +17,4 @@ source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 
 # Artículo 25
 
-La Dirección y Rectoría expedirá las normas técnico-didácticas para regular los procedimientos de evaluación institucional.
+La [Dirección y Rectoría](articulo-2.md) expedirá las normas técnico-didácticas para regular los procedimientos de evaluación institucional.

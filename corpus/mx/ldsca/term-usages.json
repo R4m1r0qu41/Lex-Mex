@@ -46,93 +46,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:798-805",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:799-806",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite",
     "span": "Comités",
-    "start_char": 798,
-    "end_char": 805
+    "start_char": 799,
+    "end_char": 806
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:947-954",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:948-955",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenio",
-    "start_char": 947,
-    "end_char": 954
+    "start_char": 948,
+    "end_char": 955
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:1123-1131",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:1124-1132",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenios",
-    "start_char": 1123,
-    "end_char": 1131
+    "start_char": 1124,
+    "end_char": 1132
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:1571-1592",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:1572-1593",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 1571,
-    "end_char": 1592
+    "start_char": 1572,
+    "end_char": 1593
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:1645-1666",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:1646-1667",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 1645,
-    "end_char": 1666
+    "start_char": 1646,
+    "end_char": 1667
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2304-2311",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2305-2312",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenio",
-    "start_char": 2304,
-    "end_char": 2311
+    "start_char": 2305,
+    "end_char": 2312
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2363-2371",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2364-2372",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:contrato",
     "span": "Contrato",
-    "start_char": 2363,
-    "end_char": 2371
+    "start_char": 2364,
+    "end_char": 2372
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2505-2526",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2506-2527",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 2505,
-    "end_char": 2526
+    "start_char": 2506,
+    "end_char": 2527
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2537-2544",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2538-2545",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenio",
-    "start_char": 2537,
-    "end_char": 2544
+    "start_char": 2538,
+    "end_char": 2545
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2601-2609",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:3:term-usage:2602-2610",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:3",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:contrato",
     "span": "Contrato",
-    "start_char": 2601,
-    "end_char": 2609
+    "start_char": 2602,
+    "end_char": 2610
   },
   {
     "schema_version": "0.1.0",
@@ -415,156 +415,156 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3241-3249",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3242-3250",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:contrato",
     "span": "Contrato",
-    "start_char": 3241,
-    "end_char": 3249
+    "start_char": 3242,
+    "end_char": 3250
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3473-3479",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3474-3480",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite",
     "span": "Comité",
-    "start_char": 3473,
-    "end_char": 3479
+    "start_char": 3474,
+    "end_char": 3480
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3488-3495",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3489-3496",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenio",
-    "start_char": 3488,
-    "end_char": 3495
+    "start_char": 3489,
+    "end_char": 3496
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3785-3806",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3786-3807",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 3785,
-    "end_char": 3806
+    "start_char": 3786,
+    "end_char": 3807
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3815-3827",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:3816-3828",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:industriales",
     "span": "Industriales",
-    "start_char": 3815,
-    "end_char": 3827
+    "start_char": 3816,
+    "end_char": 3828
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:4263-4270",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:4264-4271",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite",
     "span": "Comités",
-    "start_char": 4263,
-    "end_char": 4270
+    "start_char": 4264,
+    "end_char": 4271
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:4311-4329",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:4312-4330",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-regional",
     "span": "Comités Regionales",
-    "start_char": 4311,
-    "end_char": 4329
+    "start_char": 4312,
+    "end_char": 4330
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:4746-4749",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:4747-4750",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 4746,
-    "end_char": 4749
+    "start_char": 4747,
+    "end_char": 4750
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5384-5396",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5385-5397",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:industriales",
     "span": "Industriales",
-    "start_char": 5384,
-    "end_char": 5396
+    "start_char": 5385,
+    "end_char": 5397
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5402-5416",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5403-5417",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:organizaciones",
     "span": "Organizaciones",
-    "start_char": 5402,
-    "end_char": 5416
+    "start_char": 5403,
+    "end_char": 5417
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5433-5443",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5434-5444",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5433,
-    "end_char": 5443
+    "start_char": 5434,
+    "end_char": 5444
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5484-5494",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5485-5495",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5484,
-    "end_char": 5494
+    "start_char": 5485,
+    "end_char": 5495
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5902-5909",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:5903-5910",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite",
     "span": "Comités",
-    "start_char": 5902,
-    "end_char": 5909
+    "start_char": 5903,
+    "end_char": 5910
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:6255-6258",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:6256-6259",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 6255,
-    "end_char": 6258
+    "start_char": 6256,
+    "end_char": 6259
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:6329-6336",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:6330-6337",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite",
     "span": "Comités",
-    "start_char": 6329,
-    "end_char": 6336
+    "start_char": 6330,
+    "end_char": 6337
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:6866-6869",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:6867-6870",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 6866,
-    "end_char": 6869
+    "start_char": 6867,
+    "end_char": 6870
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:7383-7386",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:10:term-usage:7384-7387",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:10",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 7383,
-    "end_char": 7386
+    "start_char": 7384,
+    "end_char": 7387
   },
   {
     "schema_version": "0.1.0",
@@ -703,111 +703,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:2090-2105",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:2091-2106",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 2090,
-    "end_char": 2105
+    "start_char": 2091,
+    "end_char": 2106
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:2243-2258",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:2244-2259",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 2243,
-    "end_char": 2258
+    "start_char": 2244,
+    "end_char": 2259
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:2386-2401",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:2387-2402",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 2386,
-    "end_char": 2401
+    "start_char": 2387,
+    "end_char": 2402
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:2728-2743",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:2729-2744",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 2728,
-    "end_char": 2743
+    "start_char": 2729,
+    "end_char": 2744
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:3008-3023",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:3009-3024",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 3008,
-    "end_char": 3023
+    "start_char": 3009,
+    "end_char": 3024
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:3474-3489",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:3475-3490",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 3474,
-    "end_char": 3489
+    "start_char": 3475,
+    "end_char": 3490
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:3610-3625",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:3611-3626",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 3610,
-    "end_char": 3625
+    "start_char": 3611,
+    "end_char": 3626
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:3942-3967",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:3943-3968",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comision-intersecretarial",
     "span": "Comisión Intersecretarial",
-    "start_char": 3942,
-    "end_char": 3967
+    "start_char": 3943,
+    "end_char": 3968
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:4151-4166",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:4152-4167",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 4151,
-    "end_char": 4166
+    "start_char": 4152,
+    "end_char": 4167
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:4547-4562",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:4548-4563",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 4547,
-    "end_char": 4562
+    "start_char": 4548,
+    "end_char": 4563
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:5516-5531",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:5518-5533",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 5516,
-    "end_char": 5531
+    "start_char": 5518,
+    "end_char": 5533
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:5581-5584",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:14:term-usage:5583-5586",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:14",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 5581,
-    "end_char": 5584
+    "start_char": 5583,
+    "end_char": 5586
   },
   {
     "schema_version": "0.1.0",
@@ -937,30 +937,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:17:term-usage:4823-4838",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:17:term-usage:4824-4839",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:17",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 4823,
-    "end_char": 4838
+    "start_char": 4824,
+    "end_char": 4839
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:17:term-usage:5043-5058",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:17:term-usage:5044-5059",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:17",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 5043,
-    "end_char": 5058
+    "start_char": 5044,
+    "end_char": 5059
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:17:term-usage:5427-5430",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:17:term-usage:5428-5431",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:17",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 5427,
-    "end_char": 5430
+    "start_char": 5428,
+    "end_char": 5431
   },
   {
     "schema_version": "0.1.0",
@@ -1162,129 +1162,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:951-961",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:952-962",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:industriales",
     "span": "Industrial",
-    "start_char": 951,
-    "end_char": 961
+    "start_char": 952,
+    "end_char": 962
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:970-991",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:971-992",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 970,
-    "end_char": 991
+    "start_char": 971,
+    "end_char": 992
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1254-1261",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1255-1262",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenio",
-    "start_char": 1254,
-    "end_char": 1261
+    "start_char": 1255,
+    "end_char": 1262
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1566-1573",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1567-1574",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenio",
-    "start_char": 1566,
-    "end_char": 1573
+    "start_char": 1567,
+    "end_char": 1574
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1595-1598",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1596-1599",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 1595,
-    "end_char": 1598
+    "start_char": 1596,
+    "end_char": 1599
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1672-1693",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1673-1694",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 1672,
-    "end_char": 1693
+    "start_char": 1673,
+    "end_char": 1694
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1699-1709",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1700-1710",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:industriales",
     "span": "Industrial",
-    "start_char": 1699,
-    "end_char": 1709
+    "start_char": 1700,
+    "end_char": 1710
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1908-1915",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:1909-1916",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenio",
-    "start_char": 1908,
-    "end_char": 1915
+    "start_char": 1909,
+    "end_char": 1916
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:2109-2124",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:2110-2125",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 2109,
-    "end_char": 2124
+    "start_char": 2110,
+    "end_char": 2125
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:2665-2687",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:2666-2688",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:zona-de-abastecimiento",
     "span": "Zona de Abastecimiento",
-    "start_char": 2665,
-    "end_char": 2687
+    "start_char": 2666,
+    "end_char": 2688
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:2844-2859",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:2845-2860",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 2844,
-    "end_char": 2859
+    "start_char": 2845,
+    "end_char": 2860
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:2954-2960",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:2955-2961",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite",
     "span": "Comité",
-    "start_char": 2954,
-    "end_char": 2960
+    "start_char": 2955,
+    "end_char": 2961
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:3034-3055",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:3035-3056",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 3034,
-    "end_char": 3055
+    "start_char": 3035,
+    "end_char": 3056
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:3299-3302",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:26:term-usage:3300-3303",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:26",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 3299,
-    "end_char": 3302
+    "start_char": 3300,
+    "end_char": 3303
   },
   {
     "schema_version": "0.1.0",
@@ -1774,57 +1774,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1370-1385",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1371-1386",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:39",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 1370,
-    "end_char": 1385
+    "start_char": 1371,
+    "end_char": 1386
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1475-1478",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1476-1479",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:39",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 1475,
-    "end_char": 1478
+    "start_char": 1476,
+    "end_char": 1479
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1532-1548",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1533-1549",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:39",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:junta-permanente",
     "span": "Junta Permanente",
-    "start_char": 1532,
-    "end_char": 1548
+    "start_char": 1533,
+    "end_char": 1549
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1634-1650",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1635-1651",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:39",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:junta-permanente",
     "span": "Junta Permanente",
-    "start_char": 1634,
-    "end_char": 1650
+    "start_char": 1635,
+    "end_char": 1651
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1869-1890",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:1870-1891",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:39",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 1869,
-    "end_char": 1890
+    "start_char": 1870,
+    "end_char": 1891
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:2031-2034",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:39:term-usage:2032-2035",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:39",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 2031,
-    "end_char": 2034
+    "start_char": 2032,
+    "end_char": 2035
   },
   {
     "schema_version": "0.1.0",
@@ -2665,30 +2665,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:60:term-usage:920-941",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:60:term-usage:921-942",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:60",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 920,
-    "end_char": 941
+    "start_char": 921,
+    "end_char": 942
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:60:term-usage:944-956",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:60:term-usage:945-957",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:60",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:industriales",
     "span": "Industriales",
-    "start_char": 944,
-    "end_char": 956
+    "start_char": 945,
+    "end_char": 957
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:60:term-usage:1158-1165",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:60:term-usage:1159-1166",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:60",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenio",
-    "start_char": 1158,
-    "end_char": 1165
+    "start_char": 1159,
+    "end_char": 1166
   },
   {
     "schema_version": "0.1.0",
@@ -3304,21 +3304,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:85:term-usage:604-625",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:85:term-usage:605-626",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:85",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:abastecedores-de-cana",
     "span": "Abastecedores de Caña",
-    "start_char": 604,
-    "end_char": 625
+    "start_char": 605,
+    "end_char": 626
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:85:term-usage:762-768",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:85:term-usage:763-769",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:85",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite",
     "span": "Comité",
-    "start_char": 762,
-    "end_char": 768
+    "start_char": 763,
+    "end_char": 769
   },
   {
     "schema_version": "0.1.0",
@@ -4735,84 +4735,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1406-1412",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1407-1413",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:139",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite",
     "span": "Comité",
-    "start_char": 1406,
-    "end_char": 1412
+    "start_char": 1407,
+    "end_char": 1413
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1421-1428",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1422-1429",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:139",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ingenio",
     "span": "Ingenio",
-    "start_char": 1421,
-    "end_char": 1428
+    "start_char": 1422,
+    "end_char": 1429
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1586-1602",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1587-1603",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:139",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:junta-permanente",
     "span": "Junta Permanente",
-    "start_char": 1586,
-    "end_char": 1602
+    "start_char": 1587,
+    "end_char": 1603
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1707-1723",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1708-1724",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:139",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:junta-permanente",
     "span": "Junta Permanente",
-    "start_char": 1707,
-    "end_char": 1723
+    "start_char": 1708,
+    "end_char": 1724
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1804-1819",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1805-1820",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:139",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:comite-nacional",
     "span": "Comité Nacional",
-    "start_char": 1804,
-    "end_char": 1819
+    "start_char": 1805,
+    "end_char": 1820
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1841-1857",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1842-1858",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:139",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:junta-permanente",
     "span": "Junta Permanente",
-    "start_char": 1841,
-    "end_char": 1857
+    "start_char": 1842,
+    "end_char": 1858
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1911-1927",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:1912-1928",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:139",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:junta-permanente",
     "span": "Junta Permanente",
-    "start_char": 1911,
-    "end_char": 1927
+    "start_char": 1912,
+    "end_char": 1928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:2063-2079",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:2064-2080",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:139",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:junta-permanente",
     "span": "Junta Permanente",
-    "start_char": 2063,
-    "end_char": 2079
+    "start_char": 2064,
+    "end_char": 2080
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:2230-2233",
+    "id": "urn:lex-mx:federal:statute:ldsca:article:139:term-usage:2231-2234",
     "provision_id": "urn:lex-mx:federal:statute:ldsca:article:139",
     "term_id": "urn:lex-mx:federal:statute:ldsca:term:ley",
     "span": "Ley",
-    "start_char": 2230,
-    "end_char": 2233
+    "start_char": 2231,
+    "end_char": 2234
   },
   {
     "schema_version": "0.1.0",

@@ -23,7 +23,9 @@ I. Establecer y realizar campañas permanentes de divulgación, sensibilización
 
 II. Alentar la recopilación, análisis y divulgación de resultados de investigaciones forestales en el ámbito regional, nacional e internacional;
 
-III. Establecer espacios orientados a elevar el nivel de cultura, educación y capacitación forestales; IV. Promover la actualización de los contenidos curriculares en materia de conservación, protección, restauración y aprovechamientos forestales en el sistema educativo nacional, que fortalezcan y fomenten la cultura forestal;
+III. Establecer espacios orientados a elevar el nivel de cultura, educación y capacitación forestales;
+
+IV. Promover la actualización de los contenidos curriculares en materia de conservación, protección, restauración y aprovechamientos forestales en el sistema educativo nacional, que fortalezcan y fomenten la cultura forestal;
 
 V. Propiciar la divulgación, el uso, respeto y reconocimiento de costumbres, tradiciones y prácticas culturales propias de los pueblos y comunidades indígenas y afromexicanas que habitan en las regiones forestales; Fracción reformada DOF 01-04-2024
 

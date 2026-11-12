@@ -17,7 +17,9 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 # Artículo 301
 
-1. La discusión y votación de los asuntos en el Pleno se regirá bajo el siguiente procedimiento: I. Todos los proyectos de ley o de decreto que consten de un solo artículo, se podrán discutir y votar, en lo general y en lo particular, en un solo acto.
+1. La discusión y votación de los asuntos en el Pleno se regirá bajo el siguiente procedimiento:
+
+I. Todos los proyectos de ley o de decreto que consten de un solo artículo, se podrán discutir y votar, en lo general y en lo particular, en un solo acto.
 
 II. La presidencia de la comisión dictaminadora, o quien dicho órgano determine, tendrá el uso de la palabra para fundamentar el proyecto hasta por cinco minutos.
 

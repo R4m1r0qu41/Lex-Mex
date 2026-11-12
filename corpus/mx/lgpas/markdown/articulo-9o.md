@@ -19,7 +19,9 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 De acuerdo con lo previsto en la Ley Orgánica de la Administración Pública Federal, la [SEMARNAT](articulo-4o.md) se coordinará con la [Secretaría](articulo-4o.md) para el cumplimiento de los objetivos previstos en la presente Ley, en materia de preservación, restauración del equilibrio ecológico y la protección del ambiente, particularmente, en los siguientes aspectos:
 
-I. En áreas naturales protegidas, de acuerdo con la declaratoria de creación o el programa de manejo, emitir recomendaciones sustentadas, fundadas y motivadas, sobre los permisos y concesiones de pesca y acuacultura que se pretendan otorgar, así como los volúmenes de pesca incidental; II. En el ámbito de su competencia llevar a cabo la inspección y vigilancia de las actividades pesqueras y acuícolas y coordinarse con la Secretaría o la Secretaría de Marina, de conformidad con las disposiciones legales aplicables;
+I. En áreas naturales protegidas, de acuerdo con la declaratoria de creación o el programa de manejo, emitir recomendaciones sustentadas, fundadas y motivadas, sobre los permisos y concesiones de pesca y acuacultura que se pretendan otorgar, así como los volúmenes de pesca incidental;
+
+II. En el ámbito de su competencia llevar a cabo la inspección y vigilancia de las actividades pesqueras y acuícolas y coordinarse con la Secretaría o la Secretaría de Marina, de conformidad con las disposiciones legales aplicables;
 
 III. Fomentar, promover áreas de protección, restauración, rehabilitación y conservación de los ecosistemas costeros, lagunarios y de aguas interiores, en los términos establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 

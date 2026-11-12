@@ -23,7 +23,9 @@ I. La política de [Seguridad Industrial](articulo-3o.md), [Seguridad Operativa]
 
 II. La evaluación de la integridad física y operativa de las instalaciones mediante procedimientos, instrumentos y metodologías reconocidos en el Sector Hidrocarburos;
 
-III. La identificación de riesgos, análisis, evaluación, medidas de prevención, monitoreo, mitigación y valuación de incidentes, accidentes, pérdidas esperadas en los distintos escenarios de riesgos, así como las consecuencias que los riesgos representan a la población, medio ambiente, a las instalaciones y edificaciones comprendidas dentro del perímetro de las instalaciones industriales y en las inmediaciones; IV. La identificación e incorporación de las mejores prácticas y estándares a nivel nacional e internacional en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;
+III. La identificación de riesgos, análisis, evaluación, medidas de prevención, monitoreo, mitigación y valuación de incidentes, accidentes, pérdidas esperadas en los distintos escenarios de riesgos, así como las consecuencias que los riesgos representan a la población, medio ambiente, a las instalaciones y edificaciones comprendidas dentro del perímetro de las instalaciones industriales y en las inmediaciones;
+
+IV. La identificación e incorporación de las mejores prácticas y estándares a nivel nacional e internacional en materia de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente;
 
 V. El establecimiento de objetivos, metas e indicadores para evaluar el desempeño en Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, así como de la implementación del [Sistema de Administración](articulo-3o.md);
 

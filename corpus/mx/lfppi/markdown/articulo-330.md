@@ -29,4 +29,6 @@ IV.- El objeto de la solicitud, detallándolo en términos claros y precisos;
 
 V.- La descripción de los hechos;
 
-VI.- Las pruebas que ofrezca, en su caso, y VII.- Los fundamentos de derecho relacionados con el objeto de su solicitud.
+VI.- Las pruebas que ofrezca, en su caso, y
+
+VII.- Los fundamentos de derecho relacionados con el objeto de su solicitud.

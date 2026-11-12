@@ -21,4 +21,6 @@ Tienen facultad para imponer correctivos disciplinarios:
 
 I. El personal, desde almirantes hasta cabos, a los individuos de menor jerarquía;
 
-II. Los mandos y el personal en razón de su cargo o comisión, a sus subalternos y a los de su misma jerarquía cuando les estén subordinados, y III. Los organismos disciplinarios.
+II. Los mandos y el personal en razón de su cargo o comisión, a sus subalternos y a los de su misma jerarquía cuando les estén subordinados, y
+
+III. Los organismos disciplinarios.

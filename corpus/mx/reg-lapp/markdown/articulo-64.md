@@ -25,7 +25,9 @@ I Bis. Podrá proponer a la convocante, las sugerencias que promuevan la imparci
 
 II. Participará, como observador, en todas las actuaciones a que asistan los concursantes, así como en todas las demás de carácter público del Concurso;
 
-III. De identificar alguna presunta irregularidad, deberá informar al órgano interno de control de la convocante; IV. Deberá atender y responder de forma oportuna y expedita cualquier requerimiento de información que, respecto del Concurso que atestigua, le sea formulado por la [Función Pública](articulo-11.md) o por el órgano interno de control de la convocante;
+III. De identificar alguna presunta irregularidad, deberá informar al órgano interno de control de la convocante;
+
+IV. Deberá atender y responder de forma oportuna y expedita cualquier requerimiento de información que, respecto del Concurso que atestigua, le sea formulado por la [Función Pública](articulo-11.md) o por el órgano interno de control de la convocante;
 
 V. Deberá guardar la debida reserva y confidencialidad en caso de tener acceso a información clasificada con tal carácter en términos de la Ley Federal de Transparencia y Acceso a la Información Pública, y Fracción reformada DOF 20-02-2017
 

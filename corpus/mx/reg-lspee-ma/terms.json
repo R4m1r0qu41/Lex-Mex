@@ -95,7 +95,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "IX",
     "start_char": 1922,
-    "end_char": 2226,
+    "end_char": 2227,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "X",
-    "start_char": 2226,
-    "end_char": 2285,
+    "start_char": 2227,
+    "end_char": 2286,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XI",
-    "start_char": 2285,
-    "end_char": 2402,
+    "start_char": 2286,
+    "end_char": 2403,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XII",
-    "start_char": 2402,
-    "end_char": 2614,
+    "start_char": 2403,
+    "end_char": 2615,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XIII",
-    "start_char": 2614,
-    "end_char": 2908,
+    "start_char": 2615,
+    "end_char": 2909,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XIV",
-    "start_char": 2908,
-    "end_char": 3070,
+    "start_char": 2909,
+    "end_char": 3071,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XV",
-    "start_char": 3070,
-    "end_char": 3159,
+    "start_char": 3071,
+    "end_char": 3160,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XVI",
-    "start_char": 3159,
-    "end_char": 3340,
+    "start_char": 3160,
+    "end_char": 3341,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XVII",
-    "start_char": 3340,
-    "end_char": 3399,
+    "start_char": 3341,
+    "end_char": 3400,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XVIII",
-    "start_char": 3399,
-    "end_char": 3802,
+    "start_char": 3400,
+    "end_char": 3803,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XIX",
-    "start_char": 3802,
-    "end_char": 4068,
+    "start_char": 3803,
+    "end_char": 4069,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XX",
-    "start_char": 4068,
-    "end_char": 4393,
+    "start_char": 4069,
+    "end_char": 4394,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XXI",
-    "start_char": 4393,
-    "end_char": 4565,
+    "start_char": 4394,
+    "end_char": 4566,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XXII",
-    "start_char": 4565,
-    "end_char": 4786,
+    "start_char": 4566,
+    "end_char": 4787,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XXIII",
-    "start_char": 4786,
-    "end_char": 4929,
+    "start_char": 4787,
+    "end_char": 4930,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XXIV",
-    "start_char": 4929,
-    "end_char": 4978,
+    "start_char": 4930,
+    "end_char": 4979,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,19 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
     "fraction": "XXV",
-    "start_char": 4978,
-    "end_char": 5491,
+    "start_char": 4979,
+    "end_char": 5073,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lspee-ma:term:usuario",
+    "term": "Usuario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lspee-ma",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
+    "fraction": "XXVI",
+    "start_char": 5073,
+    "end_char": 5493,
     "basis": "express_definition"
   }
 ]

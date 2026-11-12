@@ -17,7 +17,9 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 # Artículo 3
 
-Son objetivos específicos de esta Ley: I. Definir los criterios de la política forestal, describiendo sus instrumentos de aplicación y evaluación;
+Son objetivos específicos de esta Ley:
+
+I. Definir los criterios de la política forestal, describiendo sus instrumentos de aplicación y evaluación;
 
 II. Regular la protección, conservación, uso sustentable y restauración de los ecosistemas, recursos forestales y sus servicios ambientales; así como la zonificación, el manejo y la ordenación forestal;
 
@@ -49,7 +51,9 @@ XV. Promover y fomentar esquemas de certificación nacional e internacional de l
 
 XVI. Regular y promover la prevención, la atención y el manejo integrado del fuego, plagas y otros agentes disruptivos en áreas forestales;
 
-XVII. Fomentar las plantaciones forestales comerciales; XVIII. La mejora continua de la regulación de las actividades forestales y el fomento de la legalidad en toda la cadena productiva forestal y del sector forestal en su conjunto;
+XVII. Fomentar las plantaciones forestales comerciales;
+
+XVIII. La mejora continua de la regulación de las actividades forestales y el fomento de la legalidad en toda la cadena productiva forestal y del sector forestal en su conjunto;
 
 XIX. Regular el transporte, almacenamiento y transformación de las materias primas forestales, así como la vigilancia de estas actividades;
 
@@ -79,7 +83,9 @@ XXXI. Promover la atención integral y eficiente para los usuarios del sector fo
 
 XXXII. Dotar de mecanismos de coordinación, concertación y cooperación a las instituciones del sector forestal, así como con otras instancias afines;
 
-XXXIII. Mejorar la efectividad de la coordinación en materia forestal en los ámbitos nacional, regional, estatal, municipal y de las demarcaciones territoriales de la Ciudad de México; XXXIV. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas y afromexicanas, en la aplicación, evaluación y seguimiento de la política forestal; Fracción reformada DOF 01-04-2024
+XXXIII. Mejorar la efectividad de la coordinación en materia forestal en los ámbitos nacional, regional, estatal, municipal y de las demarcaciones territoriales de la Ciudad de México;
+
+XXXIV. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas y afromexicanas, en la aplicación, evaluación y seguimiento de la política forestal; Fracción reformada DOF 01-04-2024
 
 XXXV. Promover el diseño y la aplicación de instrumentos económicos para fomentar el desarrollo forestal, la provisión de servicios ambientales, los conocimientos, innovaciones y prácticas de los pueblos y comunidades indígenas y afromexicanas y locales, acciones de restauración de cuencas y conservación de la biodiversidad, así como medidas de prevención, adaptación y mitigación ante el cambio climático; Fracción reformada DOF 01-04-2024
 

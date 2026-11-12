@@ -33,7 +33,9 @@ IV. Suscribir la información relevante de la sociedad, junto con los directivos
 
 V. Difundir la información relevante y eventos que deban ser revelados al público, ajustándose a lo previsto en esta Ley, siendo responsable del contenido y oportunidad de dicha información, incluso cuando la difusión de la misma se delegue en terceros, salvo por dolo o culpa inexcusable de dichos terceros. Fracción reformada DOF 10-01-2014
 
-VI. Dar cumplimiento a las disposiciones relativas a la celebración de operaciones de adquisición y colocación de acciones propias de la sociedad. VII. Ejercer, por sí o a través de delegado facultado, en el ámbito de su competencia o por instrucción del consejo de administración, las acciones correctivas y de responsabilidad que resulten procedentes.
+VI. Dar cumplimiento a las disposiciones relativas a la celebración de operaciones de adquisición y colocación de acciones propias de la sociedad.
+
+VII. Ejercer, por sí o a través de delegado facultado, en el ámbito de su competencia o por instrucción del consejo de administración, las acciones correctivas y de responsabilidad que resulten procedentes.
 
 VIII. Verificar que se realicen, en su caso, las aportaciones de capital hechas por los socios.
 

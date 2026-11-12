@@ -21,6 +21,8 @@ Conocerán de las excusas y recusaciones:
 
 I. Las autoridades jurisdiccionales respecto de las personas ante ella adscritas;
 
-II. Los Tribunales de Segunda Instancia respecto de las autoridades jurisdiccionales de primera instancia; III. La autoridad jurisdiccional de conformidad con lo dispuesto por la Ley Orgánica que corresponda, respecto de las personas magistradas.
+II. Los Tribunales de Segunda Instancia respecto de las autoridades jurisdiccionales de primera instancia;
+
+III. La autoridad jurisdiccional de conformidad con lo dispuesto por la Ley Orgánica que corresponda, respecto de las personas magistradas.
 
 En el Tribunal de segunda instancia, la recusación sólo importa la de aquellas persona o personas recusadas expresamente, y si fueren varias, deberá fundarse en la causa de impedimento que afecte a cada una.

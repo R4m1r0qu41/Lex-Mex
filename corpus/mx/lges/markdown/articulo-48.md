@@ -23,7 +23,9 @@ I. Coordinar el Sistema Local de Educación Superior, de acuerdo con la normativ
 
 II. Vincular la planeación de la educación superior con los objetivos, lineamientos y prioridades del Plan Nacional de Desarrollo, del Plan Estatal de Desarrollo, del Programa Sectorial de Educación, del Programa Nacional de Educación Superior y del Programa Estatal de Educación Superior;
 
-III. Establecer mecanismos de colaboración entre los subsistemas e instituciones de educación superior de la entidad federativa; IV. Establecer la Comisión Estatal para la Planeación de la Educación Superior o instancia equivalente;
+III. Establecer mecanismos de colaboración entre los subsistemas e instituciones de educación superior de la entidad federativa;
+
+IV. Establecer la Comisión Estatal para la Planeación de la Educación Superior o instancia equivalente;
 
 V. Trabajar de manera conjunta con la Secretaría, a través del Consejo Nacional para la Coordinación de la Educación Superior, para la planeación, evaluación y mejora continua de la educación superior;
 

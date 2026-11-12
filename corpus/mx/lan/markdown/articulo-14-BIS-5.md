@@ -47,7 +47,9 @@ XIII. El Ejecutivo Federal promoverá que los estados, la Ciudad de México y lo
 
 XIV. En particular, el Ejecutivo Federal establecerá las medidas necesarias para mantener una adecuada calidad del agua para consumo humano y con ello incidir en la salud pública; para el mejor cumplimiento esta política, se coordinará y solicitará los apoyos necesarios a los estados, la Ciudad de México y municipios; Fracción reformada DOF 11-12-2025
 
-XV. La gestión del agua debe generar recursos económicos y financieros necesarios para realizar sus tareas inherentes, bajo el principio de que "el agua paga el agua", conforme a las Leyes en la materia; XVI. Las personas usuarias del agua deben pagar por su explotación, uso o aprovechamiento bajo el principio de persona "usuaria-pagadora" de acuerdo con lo dispuesto en la Ley Federal de Derechos; Fracción reformada DOF 11-12-2025
+XV. La gestión del agua debe generar recursos económicos y financieros necesarios para realizar sus tareas inherentes, bajo el principio de que "el agua paga el agua", conforme a las Leyes en la materia;
+
+XVI. Las personas usuarias del agua deben pagar por su explotación, uso o aprovechamiento bajo el principio de persona "usuaria-pagadora" de acuerdo con lo dispuesto en la Ley Federal de Derechos; Fracción reformada DOF 11-12-2025
 
 XVII. Las personas físicas o morales que contaminen los recursos hídricos son responsables de restaurar su calidad, y se aplicará el principio de que "quien contamina, paga", conforme a las Leyes en la materia;
 

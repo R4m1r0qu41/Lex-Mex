@@ -17,7 +17,7 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 12
 
-La Secretaría de Educación Pública promoverá el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en planteles, centros educativos, guarderías o del personal docente o administrativo del Sistema Educativo Nacional. Para tales efectos, realizará las siguientes acciones:
+La Secretaría de Educación Pública promoverá el derecho a la educación de las personas con discapacidad, prohibiendo cualquier discriminación en planteles, centros educativos, guarderías o del personal docente o administrativo del [Sistema](articulo-2.md) Educativo Nacional. Para tales efectos, realizará las siguientes acciones:
 
 I. Establecer en el Sistema Educativo Nacional, el diseño, ejecución y evaluación del programa para la educación especial y del programa para la educación inclusiva de personas con discapacidad;
 
@@ -39,7 +39,9 @@ IX. Diseñar e implementar programas de formación y certificación de intérpre
 
 X. Impulsar toda forma de comunicación escrita que facilite al sordo hablante, al sordo señante o semilingüe, el desarrollo y uso de la lengua en forma escrita;
 
-XI. Impulsar programas de investigación, preservación y desarrollo de la Lengua de Señas Mexicana, de las personas con discapacidad auditiva y de las formas de comunicación de las personas con discapacidad visual; XII. Incorporar en el Sistema Nacional de Ciencia y Tecnología lineamientos que permitan la investigación y el desarrollo de bienes, servicios, equipo e instalaciones de diseño universal;
+XI. Impulsar programas de investigación, preservación y desarrollo de la Lengua de Señas Mexicana, de las personas con discapacidad auditiva y de las formas de comunicación de las personas con discapacidad visual;
+
+XII. Incorporar en el Sistema Nacional de Ciencia y Tecnología lineamientos que permitan la investigación y el desarrollo de bienes, servicios, equipo e instalaciones de diseño universal;
 
 XIII. Promover que los estudiantes presten apoyo a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social, y
 

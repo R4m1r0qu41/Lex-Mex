@@ -63,7 +63,9 @@ XXI. El acceso abierto y gratuito mediante plataformas digitales a la informaci�
 
 XXII. La promoción de la pluralidad epistémica, reconociendo la diversidad y el valor de los conocimientos tradicionales, así como el uso de categorías propias, sus formas de producirlos y sus múltiples utilidades sociales;
 
-XXIII. La protección pertinente de todas las formas del conocimiento y de los derechos de propiedad intelectual, favoreciendo siempre el interés público nacional. Asimismo, la salvaguarda, a través de todos los medios posibles que aseguren su preservación social y colectiva, del conocimiento generado por los pueblos y comunidades indígenas, afromexicanos, campesinos y equiparables en los ámbitos de las humanidades, las ciencias, las tecnologías y la innovación; XXIV. La protección de los derechos de autor y de propiedad industrial conforme a la legislación aplicable y los tratados internacionales en la materia suscritos por el Estado mexicano;
+XXIII. La protección pertinente de todas las formas del conocimiento y de los derechos de propiedad intelectual, favoreciendo siempre el interés público nacional. Asimismo, la salvaguarda, a través de todos los medios posibles que aseguren su preservación social y colectiva, del conocimiento generado por los pueblos y comunidades indígenas, afromexicanos, campesinos y equiparables en los ámbitos de las humanidades, las ciencias, las tecnologías y la innovación;
+
+XXIV. La protección de los derechos de autor y de propiedad industrial conforme a la legislación aplicable y los tratados internacionales en la materia suscritos por el Estado mexicano;
 
 XXV. El desarrollo de la filosofía, las humanidades y las ciencias sociales, incluyendo la bioética y otras disciplinas de carácter inter y transdisciplinario, que permitan analizar y evaluar el progreso científico y tecnológico, así como sus consecuencias en las formas de ser y de pensar de los seres humanos y sus entornos naturales y culturales, y
 

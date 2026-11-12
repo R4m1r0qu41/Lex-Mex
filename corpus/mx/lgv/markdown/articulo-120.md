@@ -7,8 +7,8 @@ provision_type: article
 number: "120"
 aliases: ["LGV — Artículo 120"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -21,7 +21,7 @@ Todos los servidores públicos, desde el primer momento en que tengan contacto c
 
 I. Identificarse oficialmente ante la víctima, detallando nombre y cargo que detentan;
 
-II. Desarrollar con la debida diligencia las atribuciones reconocidas en esta Ley, en cumplimiento de los principios establecidos en el artículo [5](articulo-5.md) de la presente Ley;
+II. Desarrollar con la debida diligencia las atribuciones reconocidas en esta [Ley](articulo-6.md), en cumplimiento de los principios establecidos en el artículo [5](articulo-5.md) de la presente Ley;
 
 III.-Garantizar que se respeten y apliquen las normas e instrumentos internacionales de derechos humanos;
 
@@ -55,7 +55,9 @@ XVII. Adoptar o solicitar a la autoridad competente, de forma inmediata y espec�
 
 XVIII. Permitir el acceso a lugares, documentos, expedientes, conceder entrevistas y demás solicitudes que les requieran los organismos públicos de defensa de los derechos humanos, cuando éstas sean realizadas en el ámbito de su competencia y con el objeto de investigar presuntas violaciones a derechos humanos;
 
-XIX. Abstenerse de solicitar o recibir por parte de las víctimas o sus representantes, gratificaciones monetarias o en especie, dádivas, favores o ventajas de cualquier índole, y XX. Dar vista a la autoridad ministerial sobre la comisión de cualquier hecho que pudiera constituir la comisión de un delito o violación de derechos, siempre que éste se persiga de oficio. La vista en ningún caso condicionará, limitará o suspenderá la ayuda o servicios a los que la víctima tenga derecho.
+XIX. Abstenerse de solicitar o recibir por parte de las víctimas o sus representantes, gratificaciones monetarias o en especie, dádivas, favores o ventajas de cualquier índole, y
+
+XX. Dar vista a la autoridad ministerial sobre la comisión de cualquier hecho que pudiera constituir la comisión de un delito o violación de derechos, siempre que éste se persiga de oficio. La vista en ningún caso condicionará, limitará o suspenderá la ayuda o servicios a los que la víctima tenga derecho.
 
 El incumplimiento de los deberes aquí señalados en esta Ley para los servidores públicos, será sancionado con la responsabilidad administrativa o penal correspondiente.
 

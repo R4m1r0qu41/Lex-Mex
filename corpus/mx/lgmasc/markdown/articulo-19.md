@@ -31,7 +31,9 @@ V. Supervisar el desempeño de las personas que ejercen los mecanismos alternati
 
 VI. Impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un derecho fundamental reconocido por la Constitución Política de los Estados Unidos Mexicanos para garantizar el acceso efectivo a la justicia, y generar una cultura de paz;
 
-VII. Evaluar y supervisar el desempeño de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias; VIII. Expedir los Lineamientos de Operación de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias, y
+VII. Evaluar y supervisar el desempeño de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias;
+
+VIII. Expedir los Lineamientos de Operación de los Centros Públicos y Privados de Mecanismos Alternativos de Solución de Controversias, y
 
 IX. Imponer las sanciones que corresponda por infracciones a lo dispuesto en esta [Ley](articulo-5.md).
 

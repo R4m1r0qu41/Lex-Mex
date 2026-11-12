@@ -27,6 +27,8 @@ III. La cantidad a utilizar y balance;
 
 IV. La procedencia;
 
-V. El uso y destino que se dará a la misma, y VI. El resumen del proceso.
+V. El uso y destino que se dará a la misma, y
+
+VI. El resumen del proceso.
 
 La COFEPRIS podrá verificar, a través de una orden de visita, las operaciones y datos asentados en el Libro de Control a que se refiere este artículo.

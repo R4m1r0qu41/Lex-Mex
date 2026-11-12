@@ -28,66 +28,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:2131-2143",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:2132-2144",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
     "span": "Discapacidad",
-    "start_char": 2131,
-    "end_char": 2143
+    "start_char": 2132,
+    "end_char": 2144
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:2214-2226",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:2215-2227",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
     "span": "Discapacidad",
-    "start_char": 2214,
-    "end_char": 2226
+    "start_char": 2215,
+    "end_char": 2227
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:8181-8193",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:8182-8194",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
     "span": "Discapacidad",
-    "start_char": 8181,
-    "end_char": 8193
+    "start_char": 8182,
+    "end_char": 8194
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:8349-8352",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:8350-8353",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
     "span": "Ley",
-    "start_char": 8349,
-    "end_char": 8352
+    "start_char": 8350,
+    "end_char": 8353
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:9144-9147",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:9145-9148",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
     "span": "Ley",
-    "start_char": 9144,
-    "end_char": 9147
+    "start_char": 9145,
+    "end_char": 9148
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:9474-9486",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:9475-9487",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
     "span": "Discapacidad",
-    "start_char": 9474,
-    "end_char": 9486
+    "start_char": 9475,
+    "end_char": 9487
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:10006-10018",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:2:term-usage:10008-10020",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
     "span": "Discapacidad",
-    "start_char": 10006,
-    "end_char": 10018
+    "start_char": 10008,
+    "end_char": 10020
   },
   {
     "schema_version": "0.1.0",
@@ -136,39 +136,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:6:term-usage:1964-1976",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:6:term-usage:1965-1977",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:6",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:organizaciones",
     "span": "Organización",
-    "start_char": 1964,
-    "end_char": 1976
+    "start_char": 1965,
+    "end_char": 1977
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:6:term-usage:2021-2031",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:6:term-usage:2022-2032",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:6",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:convencion",
     "span": "Convención",
-    "start_char": 2021,
-    "end_char": 2031
+    "start_char": 2022,
+    "end_char": 2032
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:6:term-usage:2275-2278",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:6:term-usage:2276-2279",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:6",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
     "span": "Ley",
-    "start_char": 2275,
-    "end_char": 2278
+    "start_char": 2276,
+    "end_char": 2279
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:7:term-usage:1816-1819",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:7:term-usage:1817-1820",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
     "span": "Ley",
-    "start_char": 1816,
-    "end_char": 1819
+    "start_char": 1817,
+    "end_char": 1820
   },
   {
     "schema_version": "0.1.0",
@@ -217,6 +217,42 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:12:term-usage:231-238",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 231,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:12:term-usage:335-342",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 335,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:12:term-usage:595-602",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 595,
+    "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:12:term-usage:1413-1420",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 1413,
+    "end_char": 1420
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:12:term-usage:1740-1764",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:12",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:lengua-de-senas-mexicana",
@@ -253,6 +289,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:12:term-usage:2692-2699",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 2692,
+    "end_char": 2699
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:12:term-usage:2905-2929",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:12",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:lengua-de-senas-mexicana",
@@ -271,6 +316,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:12:term-usage:3331-3338",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 3331,
+    "end_char": 3338
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:13:term-usage:156-184",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:13",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema-de-escritura-braille",
@@ -286,6 +340,15 @@
     "span": "Lengua de Señas Mexicana",
     "start_char": 3,
     "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:14:term-usage:178-185",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 178,
+    "end_char": 185
   },
   {
     "schema_version": "0.1.0",
@@ -325,6 +388,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:23:term-usage:98-105",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 98,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:23:term-usage:133-145",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:23",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
@@ -340,6 +412,15 @@
     "span": "Discapacidad",
     "start_char": 516,
     "end_char": 528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:23:term-usage:554-561",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 554,
+    "end_char": 561
   },
   {
     "schema_version": "0.1.0",
@@ -394,6 +475,15 @@
     "span": "Lengua de Señas Mexicana",
     "start_char": 677,
     "end_char": 701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:32:term-usage:706-713",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 706,
+    "end_char": 713
   },
   {
     "schema_version": "0.1.0",
@@ -469,6 +559,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:35:term-usage:349-356",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 349,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgipd:article:35:term-usage:420-432",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:discapacidad",
@@ -478,21 +577,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:37:term-usage:264-267",
-    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:37",
-    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
-    "span": "Ley",
-    "start_char": 264,
-    "end_char": 267
+    "id": "urn:lex-mx:federal:statute:lgipd:article:36:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:37:term-usage:1037-1040",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:37:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:37:term-usage:265-268",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:37",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
     "span": "Ley",
-    "start_char": 1037,
-    "end_char": 1040
+    "start_char": 265,
+    "end_char": 268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:37:term-usage:1038-1041",
+    "provision_id": "urn:lex-mx:federal:statute:lgipd:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
+    "span": "Ley",
+    "start_char": 1038,
+    "end_char": 1041
   },
   {
     "schema_version": "0.1.0",
@@ -649,21 +766,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:42:term-usage:2789-2792",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:42:term-usage:2790-2793",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:ley",
     "span": "Ley",
-    "start_char": 2789,
-    "end_char": 2792
+    "start_char": 2790,
+    "end_char": 2793
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:42:term-usage:2831-2838",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:42:term-usage:2832-2839",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:42",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:consejo",
     "span": "Consejo",
-    "start_char": 2831,
-    "end_char": 2838
+    "start_char": 2832,
+    "end_char": 2839
   },
   {
     "schema_version": "0.1.0",
@@ -874,66 +991,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:189-196",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:190-197",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:52",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:consejo",
     "span": "Consejo",
-    "start_char": 189,
-    "end_char": 196
+    "start_char": 190,
+    "end_char": 197
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:282-298",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:283-299",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:52",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:politica-publica",
     "span": "Política Pública",
-    "start_char": 282,
-    "end_char": 298
+    "start_char": 283,
+    "end_char": 299
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:515-523",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:516-524",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:52",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:programa",
     "span": "Programa",
-    "start_char": 515,
-    "end_char": 523
+    "start_char": 516,
+    "end_char": 524
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:540-547",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:541-548",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:52",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:consejo",
     "span": "Consejo",
-    "start_char": 540,
-    "end_char": 547
+    "start_char": 541,
+    "end_char": 548
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:583-591",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:584-592",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:52",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:programa",
     "span": "Programa",
-    "start_char": 583,
-    "end_char": 591
+    "start_char": 584,
+    "end_char": 592
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:609-616",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:610-617",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:52",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:consejo",
     "span": "Consejo",
-    "start_char": 609,
-    "end_char": 616
+    "start_char": 610,
+    "end_char": 617
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:1391-1399",
+    "id": "urn:lex-mx:federal:statute:lgipd:article:52:term-usage:1392-1400",
     "provision_id": "urn:lex-mx:federal:statute:lgipd:article:52",
     "term_id": "urn:lex-mx:federal:statute:lgipd:term:programa",
     "span": "Programa",
-    "start_char": 1391,
-    "end_char": 1399
+    "start_char": 1392,
+    "end_char": 1400
   },
   {
     "schema_version": "0.1.0",

@@ -27,4 +27,6 @@ III. Contar con la infraestructura, capacitación y requerimientos técnicos nec
 
 IV. Garantizar la seguridad de la información de los Sistemas en Línea, así como de los datos personales y la información que se comunique a través de ellos;
 
-V. Resguardar de forma segura y confidencial las bitácoras o registros de grabaciones y demás comunicaciones, y VI. En caso de que no se garantice la comunicación debido a alguna falla en los sistemas de controversias en línea, se deberá de reagendar la sesión, sin que esto implique responsabilidad para las partes.
+V. Resguardar de forma segura y confidencial las bitácoras o registros de grabaciones y demás comunicaciones, y
+
+VI. En caso de que no se garantice la comunicación debido a alguna falla en los sistemas de controversias en línea, se deberá de reagendar la sesión, sin que esto implique responsabilidad para las partes.

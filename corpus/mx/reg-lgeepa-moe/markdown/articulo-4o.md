@@ -41,7 +41,9 @@ X. Establecer los mecanismos de promoción y difusión del Subsistema;
 
 XI. Celebrar convenios de coordinación con los gobiernos de las entidades federativas y del Distrito Federal, con la participación que corresponda a sus municipios y a sus delegaciones, respectivamente, para la determinación de acciones, lineamientos, criterios y estrategias, en materia de ordenamiento ecológico;
 
-XII. Celebrar convenios de concertación con personas, organizaciones, grupos e instituciones de los sectores privado y social para la realización de acciones conjuntas en materia de ordenamiento ecológico; XIII. Emitir los criterios, lineamientos y estrategias para determinar los requisitos, especificaciones, procedimientos, metas o parámetros que deberán observar las autoridades encargadas de la formulación e instrumentación de procesos de ordenamiento ecológico de competencia federal;
+XII. Celebrar convenios de concertación con personas, organizaciones, grupos e instituciones de los sectores privado y social para la realización de acciones conjuntas en materia de ordenamiento ecológico;
+
+XIII. Emitir los criterios, lineamientos y estrategias para determinar los requisitos, especificaciones, procedimientos, metas o parámetros que deberán observar las autoridades encargadas de la formulación e instrumentación de procesos de ordenamiento ecológico de competencia federal;
 
 XIV. Establecer los procedimientos e instrumentos que promuevan la participación social corresponsable en el proceso de ordenamiento ecológico en el ámbito de su competencia;
 

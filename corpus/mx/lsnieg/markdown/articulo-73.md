@@ -23,7 +23,9 @@ I. La incapacidad física o mental que impida el correcto ejercicio de sus funci
 
 II. El desempeño de algún empleo, cargo o comisión, en contravención a lo dispuesto en el artículo [70](articulo-70.md) de esta Ley;
 
-III. Dejar de reunir cualesquiera de los requisitos señalados en el artículo [69](articulo-69.md) anterior; IV. Incumplir los acuerdos de la Junta de Gobierno o actuar deliberadamente en exceso o defecto de sus atribuciones;
+III. Dejar de reunir cualesquiera de los requisitos señalados en el artículo [69](articulo-69.md) anterior;
+
+IV. Incumplir los acuerdos de la Junta de Gobierno o actuar deliberadamente en exceso o defecto de sus atribuciones;
 
 V. Utilizar en beneficio propio o de terceros, la información confidencial o de otra naturaleza de que disponga en razón de su cargo, así como divulgar tal información en términos distintos a los autorizados por esta Ley;
 

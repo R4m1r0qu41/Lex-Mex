@@ -35,7 +35,9 @@ VII. Elaborar proyectos y estudios relacionados con la adquisición de aeronaves
 
 VIII. Proponer al titular de la [Secretaría General](articulo-2.md) la adquisición de equipo aéreo para el cumplimiento de las atribuciones de la Institución;
 
-IX. Realizar el despliegue operativo de las aeronaves, previo acuerdo con el titular de la Secretaría General en coordinación con las unidades solicitantes; X. Coordinar la flota aérea de aeronaves tripuladas y, en auxilio de la División de Inteligencia, colaborar en la seguridad y mantenimiento de las no tripuladas;
+IX. Realizar el despliegue operativo de las aeronaves, previo acuerdo con el titular de la Secretaría General en coordinación con las unidades solicitantes;
+
+X. Coordinar la flota aérea de aeronaves tripuladas y, en auxilio de la División de Inteligencia, colaborar en la seguridad y mantenimiento de las no tripuladas;
 
 XI. Planear y programar las operaciones de acuerdo a las capacidades de tripulaciones y aeronaves que permitan su óptimo desarrollo en misiones policiacas ordenadas por el Secretario General;
 
@@ -65,4 +67,6 @@ XXIII. Llevar el registro, control y actualización del registro de operaciones,
 
 XXIV. Proponer al Secretario General la adquisición de equipo aéreo para el cumplimiento de las atribuciones de la Institución;
 
-XXV. Proponer a la Coordinación del [Sistema](articulo-2.md) de Desarrollo Policial la implementación de programas de formación inicial para el personal técnico aeronáutico y prestar asesoría y capacitación, y XXVI. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
+XXV. Proponer a la Coordinación del [Sistema](articulo-2.md) de Desarrollo Policial la implementación de programas de formación inicial para el personal técnico aeronáutico y prestar asesoría y capacitación, y
+
+XXVI. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

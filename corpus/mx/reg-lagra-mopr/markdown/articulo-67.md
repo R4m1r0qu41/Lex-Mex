@@ -27,6 +27,8 @@ III. Clase y aprovechamiento de las tierras;
 
 IV. Asignación de los derechos individuales y de uso común de las tierras de que se trate;
 
-V. Descripción de los bienes distintos a la tierra, en su caso, y VI. Los elementos técnicos o legales que el comisionado obtenga y que puedan influir en el procedimiento expropiatorio.
+V. Descripción de los bienes distintos a la tierra, en su caso, y
+
+VI. Los elementos técnicos o legales que el comisionado obtenga y que puedan influir en el procedimiento expropiatorio.
 
 La promovente podrá aportar los trabajos señalados en las fracciones I y II del presente artículo, siempre y cuando se ajusten a las normas técnicas referidas en el primer párrafo del mismo.

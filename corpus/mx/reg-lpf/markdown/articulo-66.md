@@ -45,7 +45,9 @@ XII. Diseñar y proponer un plan de continuidad para los equipos y sistemas vinc
 
 XIII. Implementar campañas de difusión para la prevención y denuncia de los delitos que se cometen utilizando medios cibernéticos, electrónicos o tecnológicos;
 
-XIV. Asesorar y capacitar a otras áreas en materia de seguridad informática; XV. Operar el equipo de respuesta a incidentes de seguridad informática en la infraestructura informática crítica de México, colaborando con los diferentes órdenes de gobierno y actores sociales;
+XIV. Asesorar y capacitar a otras áreas en materia de seguridad informática;
+
+XV. Operar el equipo de respuesta a incidentes de seguridad informática en la infraestructura informática crítica de México, colaborando con los diferentes órdenes de gobierno y actores sociales;
 
 XVI. Analizar y proponer esquemas de seguridad para los dispositivos móviles empleados en la Institución;
 

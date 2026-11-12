@@ -19,7 +19,9 @@ source_sha256: aee10d32a2a05da5520a51f1e5635befbec52622e71d4f4e7f618f953bb98d09
 
 Para los efectos de esta ley, las organizaciones de la sociedad civil tienen los siguientes derechos:
 
-I. Inscribirse en el Registro; II. Participar, conforme a la Ley de Planeación y demás disposiciones jurídicas aplicables, como instancias de participación y consulta;
+I. Inscribirse en el Registro;
+
+II. Participar, conforme a la Ley de Planeación y demás disposiciones jurídicas aplicables, como instancias de participación y consulta;
 
 III. Integrarse a los órganos de participación y consulta instaurados por la Administración Pública Federal, en las áreas vinculadas con las actividades a que se refiere el artículo [5](articulo-5.md) de esta ley, y que establezcan o deban operar las dependencias o entidades;
 

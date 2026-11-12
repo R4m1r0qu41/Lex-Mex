@@ -63,7 +63,9 @@ XXI. Protocolo Homologado: Protocolo Homologado para la Investigación del Delit
 
 XXII. Registro Nacional: El Registro Nacional del Delito de Tortura.
 
-XXIII. Reporte: El Reporte Administrativo de Detención. XXIV. Servidor Público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, de las entidades federativas, municipal y de las demarcaciones territoriales de la Ciudad de México, incluyendo las administraciones centralizadas, los organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, empresas productivas del Estado, fideicomisos públicos considerados entidades paraestatales, en los órganos constitucionales autónomos, en el Congreso de la Unión y las legislaturas de las entidades federativas, o en los poderes judiciales federales y de las entidades federativas.
+XXIII. Reporte: El Reporte Administrativo de Detención.
+
+XXIV. Servidor Público: Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal, de las entidades federativas, municipal y de las demarcaciones territoriales de la Ciudad de México, incluyendo las administraciones centralizadas, los organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, empresas productivas del Estado, fideicomisos públicos considerados entidades paraestatales, en los órganos constitucionales autónomos, en el Congreso de la Unión y las legislaturas de las entidades federativas, o en los poderes judiciales federales y de las entidades federativas.
 
 XXV. Víctimas: Aquellas a que se refiere el artículo [108](../../cnpp/markdown/articulo-108.md) del Código Nacional de Procedimientos Penales.
 

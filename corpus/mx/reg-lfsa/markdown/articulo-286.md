@@ -17,7 +17,9 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 286
 
-Son causales para revocar la autorización como Organismo Auxiliar de Sanidad Animal, las siguientes: I. Por conflictos que se presenten entre los miembros del Organismo Auxiliar o con otras instancias, que afecten y pongan en riesgo el desempeño de los proyectos de sanidad animal y buenas prácticas pecuarias;
+Son causales para revocar la autorización como Organismo Auxiliar de Sanidad Animal, las siguientes:
+
+I. Por conflictos que se presenten entre los miembros del Organismo Auxiliar o con otras instancias, que afecten y pongan en riesgo el desempeño de los proyectos de sanidad animal y buenas prácticas pecuarias;
 
 II. Por resolución o sentencia ejecutoria dictada por la autoridad judicial o administrativa competente;
 

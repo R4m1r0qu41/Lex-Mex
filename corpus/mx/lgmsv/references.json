@@ -24,19 +24,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:1:reference:1756-1758:73:direct",
+    "id": "urn:lex-mx:federal:statute:lgmsv:article:1:reference:1757-1759:73:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:1",
     "source_span": "73",
-    "start_char": 1756,
-    "end_char": 1758,
+    "start_char": 1757,
+    "end_char": 1759,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:73",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XXIX",
-        "start_char": 1760,
-        "end_char": 1773
+        "start_char": 1761,
+        "end_char": 1774
       }
     ],
     "basis": "express_cross_reference",
@@ -63,19 +63,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:11167-11168:2:direct",
+    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:11169-11170:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "source_span": "2",
-    "start_char": 11167,
-    "end_char": 11168,
+    "start_char": 11169,
+    "end_char": 11170,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgipd",
     "target_provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XXVII",
-        "start_char": 11139,
-        "end_char": 11153
+        "start_char": 11141,
+        "end_char": 11155
       }
     ],
     "basis": "express_cross_reference",
@@ -86,11 +86,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:14717-14719:27:direct",
+    "id": "urn:lex-mx:federal:statute:lgmsv:article:3:reference:14719-14721:27:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:3",
     "source_span": "27",
-    "start_char": 14717,
-    "end_char": 14719,
+    "start_char": 14719,
+    "end_char": 14721,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgmsv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgmsv:article:27",
     "qualifiers": [],

@@ -33,7 +33,9 @@ VI. Almacén de depósito y distribución de medicamentos o productos biológico
 
 VII. Almacén de depósito y distribución de materias primas para la elaboración de medicamentos para uso humano;
 
-VIII. Droguería: El establecimiento que se dedica a la preparación y expendio de medicamentos magistrales y oficinales, además de la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos y otros insumos para la salud; IX. Botica: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos o demás insumos para la salud;
+VIII. Droguería: El establecimiento que se dedica a la preparación y expendio de medicamentos magistrales y oficinales, además de la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos y otros insumos para la salud;
+
+IX. Botica: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos o demás insumos para la salud;
 
 X. Farmacia: El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos, insumos para la salud en general, así como productos cosméticos, y productos de aseo; Fracción reformada DOF 07-06-2011
 

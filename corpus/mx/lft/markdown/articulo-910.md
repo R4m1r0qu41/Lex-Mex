@@ -21,7 +21,9 @@ El dictamen de los peritos deberá contener, por lo menos:
 
 I. Los hechos y causas que dieron origen al conflicto;
 
-II. La relación entre el costo de la vida por familia y los salarios que perciban los trabajadores; III. Los salarios medios que se paguen en empresa o establecimientos de la misma rama de la industria y las condiciones generales de trabajo que rijan en ellos; Fe de erratas a la fracción DOF 30-01-1980
+II. La relación entre el costo de la vida por familia y los salarios que perciban los trabajadores;
+
+III. Los salarios medios que se paguen en empresa o establecimientos de la misma rama de la industria y las condiciones generales de trabajo que rijan en ellos; Fe de erratas a la fracción DOF 30-01-1980
 
 IV. Las condiciones económicas de la empresa o empresas o del establecimiento o establecimientos;
 

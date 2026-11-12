@@ -23,7 +23,9 @@ I. Actuar como representante legal de la Procuraduría;
 
 II. Dirigir y coordinar las funciones de la Procuraduría;
 
-III. Nombrar y remover al personal al servicio de la institución, así como señalar sus funciones, áreas de responsabilidad y remuneración de acuerdo con el presupuesto programado; IV. Crear las unidades técnicas y administrativas necesarias para el adecuado funcionamiento de la Procuraduría;
+III. Nombrar y remover al personal al servicio de la institución, así como señalar sus funciones, áreas de responsabilidad y remuneración de acuerdo con el presupuesto programado;
+
+IV. Crear las unidades técnicas y administrativas necesarias para el adecuado funcionamiento de la Procuraduría;
 
 V. Expedir los manuales de organización y procedimientos, y dictar normas para la adecuada desconcentración territorial, administrativa y funcional de la institución;
 

@@ -17,4 +17,4 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 1
 
-Las disposiciones de esta Ley son de orden público y de observancia general en la República.
+Las disposiciones de esta [Ley](articulo-2.md) son de orden público y de observancia general en la República.

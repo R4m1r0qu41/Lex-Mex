@@ -21,7 +21,9 @@ El Subprocurador, ejercerá por sí o a través de los servidores públicos que 
 
 I. Recibir las denuncias y querellas que puedan formularse verbalmente, por escrito, vía electrónica o por cualquier medio legalmente permitido, para el inicio de averiguaciones previas, o en su caso, de actas especiales;
 
-II. Resolver, en el ámbito de su competencia, sobre los casos en que se plantee inconformidad respecto de la determinación del no ejercicio de la acción penal y la reserva; III. Atraer, cuando lo estime procedente, de conformidad con la normatividad aplicable, para su atención directa o de las áreas de su adscripción, los asuntos de los que conozcan las Fiscalías Desconcentradas;
+II. Resolver, en el ámbito de su competencia, sobre los casos en que se plantee inconformidad respecto de la determinación del no ejercicio de la acción penal y la reserva;
+
+III. Atraer, cuando lo estime procedente, de conformidad con la normatividad aplicable, para su atención directa o de las áreas de su adscripción, los asuntos de los que conozcan las Fiscalías Desconcentradas;
 
 IV. Estructurar y coordinar los programas y medidas necesarias para prevenir que las fiscalías, agencias y unidades de investigación que le estén adscritas no incurran en rezago;
 

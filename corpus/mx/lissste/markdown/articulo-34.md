@@ -21,7 +21,9 @@ La atención médica preventiva, conforme a los programas que autorice el [Insti
 
 I. El control de enfermedades prevenibles por vacunación;
 
-II. El control de enfermedades transmisibles; III. Los programas de autocuidado y de detección oportuna de padecimientos;
+II. El control de enfermedades transmisibles;
+
+III. Los programas de autocuidado y de detección oportuna de padecimientos;
 
 IV. Educación para la salud;
 

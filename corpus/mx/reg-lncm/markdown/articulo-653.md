@@ -23,7 +23,9 @@ I. Los servicios sólo podrán realizarse con luz diurna, cuando las condiciones
 
 II. No se prestará el servicio a mujeres embarazadas, ni a personas que manifiesten antecedentes de problemas cardiacos, neurológicos o nerviosos y a las que hubieren ingerido drogas, enervantes o bebidas embriagantes, lo cual deberá constatar el prestador del servicio, previa su contratación;
 
-III. En los servicios de remolque recreativo, sólo se proporcionará el servicio a menores cuando tengan cinco años cumplidos y estén acompañados por un adulto y a menores sin acompañante, únicamente cuando tengan diez años de edad o más. Los demás servicios de [Turismo Náutico](articulo-10.md), se prestarán únicamente a menores de edad, entre diez y dieciséis años cumplidos, sólo si van acompañados por un adulto; IV. Que la Embarcación cuente con radio [VHF](articulo-10.md) o medio de comunicación similar, que permita su comunicación permanente;
+III. En los servicios de remolque recreativo, sólo se proporcionará el servicio a menores cuando tengan cinco años cumplidos y estén acompañados por un adulto y a menores sin acompañante, únicamente cuando tengan diez años de edad o más. Los demás servicios de [Turismo Náutico](articulo-10.md), se prestarán únicamente a menores de edad, entre diez y dieciséis años cumplidos, sólo si van acompañados por un adulto;
+
+IV. Que la Embarcación cuente con radio [VHF](articulo-10.md) o medio de comunicación similar, que permita su comunicación permanente;
 
 V. La tripulación a cargo de la operación del servicio deberá acreditar su capacidad técnica y práctica, mediante el documento que al efecto le expida la [Dirección General](articulo-10.md); deberá tener una experiencia mínima de un año comprobable en el mismo y portar identificación visible que contenga, al menos, fotografía, nombre, actividad encomendada, nombre o denominación del prestador de servicios y número de permiso;
 

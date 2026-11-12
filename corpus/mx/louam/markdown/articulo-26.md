@@ -21,6 +21,8 @@ Son facultades y obligaciones de los rectores:
 
 I.- Nombrar a los secretarios de sus respectivas unidades universitarias, los cuales deberán reunir los requisitos a que se refiere el artículo [8](articulo-8.md) de esta ley;
 
-II.- Hacer cumplir los acuerdos de sus respectivos consejos académicos; III.- Gozar del derecho de veto con relación a los asuntos de sus correspondientes consejos académicos, sometiendo el caso al Rector General, quien lo turnará al Colegio Académico o a la Junta Directiva, según la naturaleza del asunto; y
+II.- Hacer cumplir los acuerdos de sus respectivos consejos académicos;
+
+III.- Gozar del derecho de veto con relación a los asuntos de sus correspondientes consejos académicos, sometiendo el caso al Rector General, quien lo turnará al Colegio Académico o a la Junta Directiva, según la naturaleza del asunto; y
 
 IV.- Las demás que le señalen este ordenamiento y las normas y disposiciones reglamentarias de la Universidad.

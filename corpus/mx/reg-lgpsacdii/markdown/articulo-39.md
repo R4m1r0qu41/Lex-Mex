@@ -41,7 +41,9 @@ I. El conjunto de elementos que forman parte de la instalación eléctrica ha de
 
 3. Bases de enchufes múltiples con alargaderas y adaptadores múltiples que puedan producir una sobrecarga en la línea donde se conecten.
 
-4. Humedad en la instalación. II. Revisar la instalación eléctrica después de ocurrida una eventualidad, así como el sistema de puesta a tierra;
+4. Humedad en la instalación.
+
+II. Revisar la instalación eléctrica después de ocurrida una eventualidad, así como el sistema de puesta a tierra;
 
 III. Todos los mecanismos eléctricos deberán contar con protección infantil;
 

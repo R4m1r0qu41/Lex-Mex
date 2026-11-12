@@ -17,6 +17,6 @@ source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 
 # Artículo 10
 
-El Sistema Educativo Militar es el conjunto de instituciones educativas que imparten conocimientos castrenses y policiales de distintos propósitos, tipos y niveles y modalidades, condicionados a una filosofía, doctrina e infraestructura militares propias del Ejército, Fuerza Aérea y Guardia Nacional, bajo la conducción de la Dirección y Rectoría.
+El Sistema Educativo Militar es el conjunto de instituciones educativas que imparten conocimientos castrenses y policiales de distintos propósitos, tipos y niveles y modalidades, condicionados a una filosofía, doctrina e infraestructura militares propias del Ejército, Fuerza Aérea y Guardia Nacional, bajo la conducción de la [Dirección y Rectoría](articulo-2.md).
 
 Artículo reformado DOF 16-07-2025

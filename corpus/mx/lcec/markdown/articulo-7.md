@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 7
 
-Las Cámaras tendrán por objeto:
+Las [Cámaras](articulo-2.md) tendrán por objeto:
 
 I. Representar, promover y defender los intereses generales del comercio, los servicios, el turismo o de la industria según corresponda, como actividades generales de la economía nacional anteponiendo el interés público sobre el privado;
 

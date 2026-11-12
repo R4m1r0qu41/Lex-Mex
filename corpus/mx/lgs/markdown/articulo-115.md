@@ -31,7 +31,9 @@ V. Promover investigaciones químicas, biológicas, sociales y económicas, enca
 
 VI. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población en general, y proveer en la esfera de su competencia a dicho consumo;
 
-VII. Establecer las necesidades nutrimentales que deban satisfacer los cuadros básicos de alimentos evitando los altos contenidos en azúcares, grasas saturadas, grasas trans y sodio. Tratándose de las harinas industrializadas de trigo y de maíz, se exigirá la fortificación obligatoria de éstas, indicándose los nutrimentos y las cantidades que deberán incluirse; Fracción reformada DOF 04-06-2002, 08-11-2019 VIII. Proporcionar a la Secretaría de Economía los elementos técnicos en materia nutricional, para los efectos de la expedición de las normas oficiales mexicanas. Fracción reformada DOF 09-04-2012
+VII. Establecer las necesidades nutrimentales que deban satisfacer los cuadros básicos de alimentos evitando los altos contenidos en azúcares, grasas saturadas, grasas trans y sodio. Tratándose de las harinas industrializadas de trigo y de maíz, se exigirá la fortificación obligatoria de éstas, indicándose los nutrimentos y las cantidades que deberán incluirse; Fracción reformada DOF 04-06-2002, 08-11-2019
+
+VIII. Proporcionar a la Secretaría de Economía los elementos técnicos en materia nutricional, para los efectos de la expedición de las normas oficiales mexicanas. Fracción reformada DOF 09-04-2012
 
 IX. Impulsar, en coordinación con las entidades federativas, la prevención y el control del sobrepeso, obesidad y otros trastornos de la conducta alimentaria y, en coordinación con la Secretaría de Educación Pública, la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica; Fracción adicionada DOF 14-10-2015
 

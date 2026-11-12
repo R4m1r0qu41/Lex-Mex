@@ -31,6 +31,8 @@ c) Escrito libre en idioma español en el que manifieste la fecha y forma en que
 
 d) Los demás documentos que estime convenientes.
 
-III. La oficina consular, a través del área correspondiente de la Secretaría de Relaciones Exteriores, remitirá al Instituto la solicitud de readmisión dentro de los cinco días hábiles siguientes al de su recepción; IV. El Instituto emitirá resolución debidamente fundada y motivada en un plazo de sesenta días hábiles contados a partir de la recepción de la solicitud, y
+III. La oficina consular, a través del área correspondiente de la Secretaría de Relaciones Exteriores, remitirá al Instituto la solicitud de readmisión dentro de los cinco días hábiles siguientes al de su recepción;
+
+IV. El Instituto emitirá resolución debidamente fundada y motivada en un plazo de sesenta días hábiles contados a partir de la recepción de la solicitud, y
 
 V. De resultar favorable la solicitud de la persona extranjera, ésta podrá promover ante el consulado la obtención de una visa en caso de requerirla.

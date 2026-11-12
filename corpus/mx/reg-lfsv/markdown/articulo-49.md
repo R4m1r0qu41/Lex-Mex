@@ -31,6 +31,8 @@ V. Registros de los dispositivos de identificación individual o [Lote](articulo
 
 VI. Registro de vehículos dedicados al transporte de mercancías, el cual se integrará con la información que se obtenga de los Certificados Fitosanitarios de Movilización Nacional correspondientes y, en caso de mercancías que no requieran de dichos Certificados, con la información contenida en los avisos de Movilización;
 
-VII. Registro de la Movilización, importación y exportación de las mercancías; VIII. Registros de la información trazable que lleven los Establecimientos en cada etapa desde el inicio hasta el final del proceso respectivo, para cada tipo de mercancía conforme a las Disposiciones Legales Aplicables, y
+VII. Registro de la Movilización, importación y exportación de las mercancías;
+
+VIII. Registros de la información trazable que lleven los Establecimientos en cada etapa desde el inicio hasta el final del proceso respectivo, para cada tipo de mercancía conforme a las Disposiciones Legales Aplicables, y
 
 IX. Cualquier otro sistema o registro con que se cuente para efectos de Rastreabilidad.

@@ -33,7 +33,9 @@ VI. Establecer métodos que permitan la participación en actividades de operaci
 
 VII. Coadyuvar con las instancias nacionales y extranjeras que así lo requieran, para la aplicación de inteligencia policial;
 
-VIII. Colaborar, en el ámbito de su competencia, con las autoridades competentes de los tres órdenes de gobierno en las investigaciones policiales requeridas; IX. Desarrollar técnicas policiales, proyectos, esquemas que permitan realizar investigaciones proactivas contra la comisión de delitos, así como establecer técnicas y métodos de investigación policial;
+VIII. Colaborar, en el ámbito de su competencia, con las autoridades competentes de los tres órdenes de gobierno en las investigaciones policiales requeridas;
+
+IX. Desarrollar técnicas policiales, proyectos, esquemas que permitan realizar investigaciones proactivas contra la comisión de delitos, así como establecer técnicas y métodos de investigación policial;
 
 X. Proponer a su superior jerárquico la solicitud de informes a que se refiere la fracción XVIII del artículo [8](../../lpf/markdown/articulo-8.md) de la Ley;
 

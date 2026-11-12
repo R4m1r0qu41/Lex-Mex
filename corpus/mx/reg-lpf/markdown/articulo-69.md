@@ -29,7 +29,9 @@ IV. Establecer mecanismos de colaboración para los fines de evaluación, desarr
 
 V. Generar y elaborar los reportes asociados a la investigación, evaluación y prospección de nuevas tecnologías que permitan difundir el conocimiento acerca de las nuevas tendencias en las áreas de química, forense, física, materiales, mecánica, electrónica, genómica y cualquier rama que fortalezca las labores de la Institución;
 
-VI. Investigar y recopilar información relativa a los procesos de evaluación de nuevas tecnologías, así como los resultados asociados con la pertinencia, eficiencia y adaptabilidad a los procesos de la Institución; VII. Establecer los perfiles de formación y capacitación del personal involucrado con la implantación de las nuevas tecnologías;
+VI. Investigar y recopilar información relativa a los procesos de evaluación de nuevas tecnologías, así como los resultados asociados con la pertinencia, eficiencia y adaptabilidad a los procesos de la Institución;
+
+VII. Establecer los perfiles de formación y capacitación del personal involucrado con la implantación de las nuevas tecnologías;
 
 VIII. Generar y elaborar los reportes asociados al impacto, eficiencia operativa y detección de nuevas oportunidades en la implantación de tecnologías emergentes;
 

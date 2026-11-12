@@ -15,4 +15,4 @@ source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 
 # Décimo Quinto
 
-El personal de educación básica y media superior que, derivado de su participación en los procesos de evaluación del desempeño Ciclos Escolares 2016-2017, 2017-2018 y 2018-2019, obtuvieron un resultado que les permita acceder a la promoción de horas adicionales, podrán obtenerlas durante el periodo establecido para ello, de conformidad con los criterios que para tal efecto emita la Unidad del [Sistema](articulo-7.md) para la Carrera de las Maestras y los Maestros.
+El personal de educación básica y media superior que, derivado de su participación en los procesos de evaluación del desempeño Ciclos Escolares 2016-2017, 2017-2018 y 2018-2019, obtuvieron un resultado que les permita acceder a la promoción de horas adicionales, podrán obtenerlas durante el periodo establecido para ello, de conformidad con los criterios que para tal efecto emita la [Unidad del Sistema](articulo-7.md) para la Carrera de las Maestras y los Maestros.

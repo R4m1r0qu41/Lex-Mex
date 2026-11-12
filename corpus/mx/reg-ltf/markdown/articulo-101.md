@@ -33,7 +33,9 @@ II. La Tesorería podrá allegarse de las pruebas que estime pertinentes para me
 
 III. El acuerdo de cierre de instrucción deberá notificarse personalmente al o los probables responsables;
 
-IV. Los plazos se computarán conforme al artículo [110](articulo-110.md) de este Reglamento; V. La determinación deberá contener, al menos:
+IV. Los plazos se computarán conforme al artículo [110](articulo-110.md) de este Reglamento;
+
+V. La determinación deberá contener, al menos:
 
 a) Nombre de la unidad administrativa de la Tesorería que lo emite;
 

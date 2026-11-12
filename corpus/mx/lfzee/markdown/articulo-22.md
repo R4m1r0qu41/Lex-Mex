@@ -27,7 +27,9 @@ III. La delimitación geográfica de la [Zona](articulo-3.md);
 
 IV. Los programas de construcción y desarrollo de la infraestructura de la Zona;
 
-V. Los compromisos y estándares de los [Servicios Asociados](articulo-3.md); VI. Las bases de regulación tarifaria;
+V. Los compromisos y estándares de los [Servicios Asociados](articulo-3.md);
+
+VI. Las bases de regulación tarifaria;
 
 VII. Los derechos y obligaciones de los permisionarios;
 

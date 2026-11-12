@@ -17,4 +17,4 @@ source_sha256: d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89
 
 # Artículo 28
 
-Las [Fuerzas Armadas](articulo-4.md) realizarán las Acciones de [Seguridad Interior](articulo-4.md) con su organización, medios y adiestramiento, sin descuidar el fortalecimiento de sus capacidades.
+Las [Fuerzas Armadas](articulo-4.md) realizarán las [Acciones de Seguridad Interior](articulo-4.md) con su organización, medios y adiestramiento, sin descuidar el fortalecimiento de sus capacidades.

@@ -37,7 +37,9 @@ II. Numeral;
 
 III. Tipo de Embarcación;
 
-IV. Puerto de registro; V. [UAB](articulo-10.md), y
+IV. Puerto de registro;
+
+V. [UAB](articulo-10.md), y
 
 VI. Potencia propulsora.
 

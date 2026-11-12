@@ -21,7 +21,9 @@ Corresponde al Comité Técnico de Profesionalización establecer las descripcio
 
 I. La valoración del cumplimiento individual de las funciones y metas que correspondan a cada servidor público de carrera, respecto del puesto que ocupa y de los puestos que se hizo cargo de manera provisional, con base en indicadores cuantificables y verificables.
 
-Los Comités Técnicos de Profesionalización deben emitir las reglas generales de operación para que cada área responsable recabe la evidencia y los datos necesarios para realizar la valoración a que se refiere el párrafo anterior; II. La valoración del cumplimiento cuantitativo de los objetivos y metas establecidos en los distintos instrumentos de gestión gubernamental, por cada unidad administrativa de la dependencia, así como la contribución de cada una de las personas servidoras públicas adscritas a éstas, en función de su jerarquía y su responsabilidad.
+Los Comités Técnicos de Profesionalización deben emitir las reglas generales de operación para que cada área responsable recabe la evidencia y los datos necesarios para realizar la valoración a que se refiere el párrafo anterior;
+
+II. La valoración del cumplimiento cuantitativo de los objetivos y metas establecidos en los distintos instrumentos de gestión gubernamental, por cada unidad administrativa de la dependencia, así como la contribución de cada una de las personas servidoras públicas adscritas a éstas, en función de su jerarquía y su responsabilidad.
 
 Los Comités Técnicos de Profesionalización deben emitir las reglas de operación específicas para que la [Unidad](articulo-2.md) de Administración y Finanzas o su equivalente, recabe la evidencia y los datos necesarios para efectuar la valoración prevista en el párrafo anterior, y
 

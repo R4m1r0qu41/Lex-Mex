@@ -221,11 +221,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:reference:570-572:22:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:reference:571-573:22:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:21",
     "source_span": "22",
-    "start_char": 570,
-    "end_char": 572,
+    "start_char": 571,
+    "end_char": 573,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:22",
     "qualifiers": [],
@@ -237,19 +237,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:reference:680-682:21:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:reference:681-683:21:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:21",
     "source_span": "II",
-    "start_char": 680,
-    "end_char": 682,
+    "start_char": 681,
+    "end_char": 683,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:21",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 680,
-        "end_char": 682
+        "start_char": 681,
+        "end_char": 683
       }
     ],
     "basis": "express_cross_reference",

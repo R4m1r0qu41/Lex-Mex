@@ -25,7 +25,9 @@ II. Aplicar y difundir las normas, lineamientos, sistemas y procedimientos para 
 
 III. Representar al Instituto en las comisiones y en los actos que el titular de la Dirección General determine, e informarle sobre el desarrollo y la ejecución de los mismos;
 
-IV. Proponer al titular de la Dirección General, previa opinión de la Coordinación Nacional de Asuntos Jurídicos, los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas, en los asuntos que competan a las unidades administrativas de su adscripción, de conformidad con la normativa aplicable; V. Instruir a las unidades administrativas de su adscripción, la realización de proyectos, estudios, evaluaciones y diagnósticos, así como la difusión, en su caso, del contenido de dichos documentos;
+IV. Proponer al titular de la Dirección General, previa opinión de la Coordinación Nacional de Asuntos Jurídicos, los anteproyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas, en los asuntos que competan a las unidades administrativas de su adscripción, de conformidad con la normativa aplicable;
+
+V. Instruir a las unidades administrativas de su adscripción, la realización de proyectos, estudios, evaluaciones y diagnósticos, así como la difusión, en su caso, del contenido de dichos documentos;
 
 VI. Integrar el anteproyecto de presupuesto anual del Instituto, atendiendo a las propuestas y necesidades de sus unidades administrativas, para someterlo a la consideración del titular de la Dirección General;
 
@@ -51,7 +53,9 @@ XVI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquel
 
 XVII. Iniciar, tramitar y resolver los recursos administrativos de su competencia, de conformidad con la normativa aplicable;
 
-XVIII. Expedir copias certificadas y constancias de los documentos que obren en los archivos de las unidades administrativas a su cargo, incluyendo los documentos electrónicos; XIX. Proporcionar la información, los datos y la cooperación técnica que le soliciten otras dependencias y entidades de la Administración Pública Federal, de acuerdo con las normas y políticas que emita el titular de la Dirección General y demás disposiciones jurídicas aplicables;
+XVIII. Expedir copias certificadas y constancias de los documentos que obren en los archivos de las unidades administrativas a su cargo, incluyendo los documentos electrónicos;
+
+XIX. Proporcionar la información, los datos y la cooperación técnica que le soliciten otras dependencias y entidades de la Administración Pública Federal, de acuerdo con las normas y políticas que emita el titular de la Dirección General y demás disposiciones jurídicas aplicables;
 
 XX. Proporcionar al Consejo General Consultivo y a los consejos de área la información para el cumplimiento de sus funciones, así como procurar que la información solicitada a las unidades administrativas a su adscripción se proporcione oportunamente;
 

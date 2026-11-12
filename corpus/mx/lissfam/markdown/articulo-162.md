@@ -19,7 +19,9 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 La muerte de un militar en acción de armas, cuando no se hubiere levantado el campo, será probada:
 
-I. Con el parte que rinda el Comandante de la fuerza, y II. En defecto del parte, con las demás pruebas que establece el Código Nacional de Procedimientos Civiles y Familiares. Fracción reformada DOF 14-11-2025
+I. Con el parte que rinda el Comandante de la fuerza, y
+
+II. En defecto del parte, con las demás pruebas que establece el Código Nacional de Procedimientos Civiles y Familiares. Fracción reformada DOF 14-11-2025
 
 Para los efectos de esta [Ley](articulo-4o.md), se considerará como muerto al militar cuando desaparezca en una acción de armas o en actos del servicio, en los ámbitos marítimo, fluvial, lacustre, terrestre y aéreo. La declaración respectiva será hecha por la Secretaría de la Defensa Nacional o la de Marina, en su caso, después de sesenta días de acaecida la desaparición, con vista del acta que se levante sobre los hechos, y de la demás documentación que se acompañe.
 

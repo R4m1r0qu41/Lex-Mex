@@ -8,7 +8,7 @@ number: "58"
 aliases: ["LPERC — Artículo 58"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf
 source_sha256: 6916ade44cdc7b0820565cdc6225c6514b4b1131b1d08c70cf2abb190998f192
 ---

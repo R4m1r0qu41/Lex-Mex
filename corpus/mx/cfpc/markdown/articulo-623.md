@@ -21,6 +21,8 @@ Para mantener el registro las asociaciones deberán:
 
 I. Cumplir con lo dispuesto en el [artículo anterior](articulo-622.md);
 
-II. Entregar al Consejo de la Judicatura Federal, un informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, y III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la Judicatura Federal en los términos de lo dispuesto por el artículo [621](articulo-621.md) de este Código.
+II. Entregar al Consejo de la Judicatura Federal, un informe anual sobre su operación y actividades respecto del año inmediato anterior, a más tardar el último día hábil del mes de abril de cada año, y
+
+III. Mantener actualizada en forma permanente la información que deba entregar al Consejo de la Judicatura Federal en los términos de lo dispuesto por el artículo [621](articulo-621.md) de este Código.
 
 Artículo adicionado DOF 30-08-2011

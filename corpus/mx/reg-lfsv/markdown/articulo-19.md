@@ -29,4 +29,6 @@ IV. Representar a la Junta Directiva del CONACOFI;
 
 V. Convocar a las sesiones de la Junta Directiva, señalando lugar, fecha y hora;
 
-VI. Llevar el control administrativo y financiero del CONACOFI, y VII. Tener voto de calidad en caso de empate en las sesiones de la Junta Directiva.
+VI. Llevar el control administrativo y financiero del CONACOFI, y
+
+VII. Tener voto de calidad en caso de empate en las sesiones de la Junta Directiva.

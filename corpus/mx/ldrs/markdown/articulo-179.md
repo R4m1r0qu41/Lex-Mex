@@ -23,7 +23,9 @@ I. maíz;
 
 II. caña de azúcar;
 
-III. frijol; IV. trigo;
+III. frijol;
+
+IV. trigo;
 
 V. arroz;
 

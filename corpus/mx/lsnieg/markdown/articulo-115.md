@@ -17,7 +17,9 @@ source_sha256: bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab
 
 # Artículo 115
 
-El escrito de interposición del recurso de revisión deberá presentarse ante el propio Instituto y será resuelto por el superior jerárquico del servidor público que haya emitido la resolución impugnada o haya realizado el acto impugnado, salvo que se trate de resoluciones o actos del Presidente del Instituto, en cuyo caso será resuelto por la [Junta de Gobierno](articulo-2.md). Dicho escrito deberá expresar: I. El nombre del recurrente, y del tercero perjudicado si lo hubiere, así como el lugar que señale para efectos de notificaciones;
+El escrito de interposición del recurso de revisión deberá presentarse ante el propio Instituto y será resuelto por el superior jerárquico del servidor público que haya emitido la resolución impugnada o haya realizado el acto impugnado, salvo que se trate de resoluciones o actos del Presidente del Instituto, en cuyo caso será resuelto por la [Junta de Gobierno](articulo-2.md). Dicho escrito deberá expresar:
+
+I. El nombre del recurrente, y del tercero perjudicado si lo hubiere, así como el lugar que señale para efectos de notificaciones;
 
 II. El acto o resolución que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
 

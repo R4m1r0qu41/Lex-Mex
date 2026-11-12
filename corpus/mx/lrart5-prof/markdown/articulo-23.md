@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LRART5-PROF — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf
 source_sha256: db0e747c99548991239635e331e95369b627315c81889db03aa2e96f6d3debe6
 ---
@@ -41,7 +41,9 @@ X.- Llevar un archivo con los datos relativos a la enseñanza preparatoria, norm
 
 XI.- Anotar los datos relativos a las universidades o escuelas profesionales extranjeras;
 
-XII.- Publicar, en el mes de enero de cada año, la lista de los profesionistas titulados en los planteles de preparación profesional durante el año anterior; XIII.- Proporcionar a los interesados informes en asuntos de la competencia de la Dirección; Fracción reformada DOF 19-08-2010
+XII.- Publicar, en el mes de enero de cada año, la lista de los profesionistas titulados en los planteles de preparación profesional durante el año anterior;
+
+XIII.- Proporcionar a los interesados informes en asuntos de la competencia de la Dirección; Fracción reformada DOF 19-08-2010
 
 XIV.- Integrar y mantener una base de datos actualizada con la información señalada en las fracciones II, V y VII de este artículo, misma que deberá ser compartido en los términos de la Ley General del Sistema Nacional de Seguridad Pública, y Fracción adicionada DOF 19-08-2010
 

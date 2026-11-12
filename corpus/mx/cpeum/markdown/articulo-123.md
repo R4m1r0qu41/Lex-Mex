@@ -29,7 +29,9 @@ I. La duración de la jornada máxima será de ocho horas.
 
 II. La jornada máxima de trabajo nocturno será de 7 horas. Quedan prohibidas: las labores insalubres o peligrosas, el trabajo nocturno industrial y todo otro trabajo después de las diez de la noche, de los menores de dieciséis años; Fracción reformada DOF 21-11-1962, 31-12-1974
 
-III. Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas. Fracción reformada DOF 21-11-1962, 17-06-2014 IV. La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.
+III. Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas. Fracción reformada DOF 21-11-1962, 17-06-2014
+
+IV. La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.
 
 Por cada seis días de trabajo las personas trabajadoras deberán disfrutar por lo menos de un día de descanso con goce de salario íntegro. Fracción reformada DOF 03-03-2026
 
@@ -115,7 +117,9 @@ En caso de que la Cámara de Senadores rechace la totalidad de la terna propuest
 
 El nombramiento deberá recaer en una persona que tenga capacidad y experiencia en las materias de la competencia del organismo descentralizado; que no haya ocupado un cargo en algún partido político, ni haya sido candidato a ocupar un cargo público de elección popular en los tres años anteriores a la designación; y que goce de buena reputación y no haya sido condenado por delito doloso. Asimismo, deberá cumplir los requisitos que establezca la ley. Desempeñará su encargo por períodos de seis años y podrá ser reelecto por una sola ocasión. En caso de falta absoluta, el sustituto será nombrado para concluir el periodo respectivo. Sólo podrá ser removido por causa grave en los términos del Título IV de esta Constitución y no podrá tener ningún otro empleo, cargo o comisión, con excepción de aquéllos en que actúen en representación del organismo y de los no remunerados en actividades docentes, científicas, culturales o de beneficencia. Fracción reformada DOF 24-02-2017
 
-XXI. Si el patrono se negare a someter sus diferencias al arbitraje o a cumplir con la resolución, se dará por terminado el contrato de trabajo y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo. Fracción reformada DOF 21-11-1962, 24-02-2017 XXII. El patrono que despida a un obrero sin causa justificada o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. La Ley determinará los casos en que el patrono podrá ser eximido de la obligación de cumplir el contrato, mediante el pago de una indemnización. Igualmente tendrá la obligación de indemnizar al trabajador con el importe de tres meses de salario, cuando se retire del servicio por falta de probidad del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimieto (sic DOF 21-11-1962) o tolerancia de él. Fracción reformada DOF 21-11-1962
+XXI. Si el patrono se negare a someter sus diferencias al arbitraje o a cumplir con la resolución, se dará por terminado el contrato de trabajo y quedará obligado a indemnizar al obrero con el importe de tres meses de salario, además de la responsabilidad que le resulte del conflicto. Esta disposición no será aplicable en los casos de las acciones consignadas en la fracción siguiente. Si la negativa fuere de los trabajadores, se dará por terminado el contrato de trabajo. Fracción reformada DOF 21-11-1962, 24-02-2017
+
+XXII. El patrono que despida a un obrero sin causa justificada o por haber ingresado a una asociación o sindicato, o por haber tomado parte en una huelga lícita, estará obligado, a elección del trabajador, a cumplir el contrato o a indemnizarlo con el importe de tres meses de salario. La Ley determinará los casos en que el patrono podrá ser eximido de la obligación de cumplir el contrato, mediante el pago de una indemnización. Igualmente tendrá la obligación de indemnizar al trabajador con el importe de tres meses de salario, cuando se retire del servicio por falta de probidad del patrono o por recibir de él malos tratamientos, ya sea en su persona o en la de su cónyuge, padres, hijos o hermanos. El patrono no podrá eximirse de esta responsabilidad, cuando los malos tratamientos provengan de dependientes o familiares que obren con el consentimieto (sic DOF 21-11-1962) o tolerancia de él. Fracción reformada DOF 21-11-1962
 
 XXII Bis. Los procedimientos y requisitos que establezca la ley para asegurar la libertad de negociación colectiva y los legítimos intereses de trabajadores y patrones, deberán garantizar, entre otros, los siguientes principios:
 
@@ -227,7 +231,9 @@ c) Materias:
 
 B. Entre los Poderes de la Unión y sus trabajadores: Párrafo reformado DOF 08-10-1974, 29-01-2016
 
-I. La jornada diaria máxima de trabajo diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas; II. Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro;
+I. La jornada diaria máxima de trabajo diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas;
+
+II. Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro;
 
 III. Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
 

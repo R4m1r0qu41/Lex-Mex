@@ -57,6 +57,8 @@ XIV. Establecer políticas para la correcta aplicación de los procesos que oper
 
 XV. Supervisar la actualización del registro de certificados de los Integrantes;
 
-XVI. Implementar los mecanismos para la homologación, validación y actualización de los procedimientos y criterios de evaluación y control de confianza, conforme a las disposiciones aplicables; XVII. Poner a consideración de su superior jerárquico las propuestas relativas al Desarrollo Policial, en el marco del Sistema, de conformidad con las disposiciones aplicables, y
+XVI. Implementar los mecanismos para la homologación, validación y actualización de los procedimientos y criterios de evaluación y control de confianza, conforme a las disposiciones aplicables;
+
+XVII. Poner a consideración de su superior jerárquico las propuestas relativas al Desarrollo Policial, en el marco del Sistema, de conformidad con las disposiciones aplicables, y
 
 XVIII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

@@ -35,7 +35,9 @@ VI. Para los Mayores 56
 
 VII. Para los Tenientes Coroneles 58
 
-VIII. Para los Coroneles 60 IX. Para los Generales Brigadieres 61
+VIII. Para los Coroneles 60
+
+IX. Para los Generales Brigadieres 61
 
 X. Para los Generales de Brigada 63
 

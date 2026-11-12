@@ -40,7 +40,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "IV",
     "start_char": 743,
-    "end_char": 1029,
+    "end_char": 1030,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "V",
-    "start_char": 1029,
-    "end_char": 1362,
+    "start_char": 1030,
+    "end_char": 1363,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "VI",
-    "start_char": 1362,
-    "end_char": 1473,
+    "start_char": 1363,
+    "end_char": 1474,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "VII",
-    "start_char": 1473,
-    "end_char": 1635,
+    "start_char": 1474,
+    "end_char": 1636,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "VIII",
-    "start_char": 1635,
-    "end_char": 1872,
+    "start_char": 1636,
+    "end_char": 1873,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "IX",
-    "start_char": 1872,
-    "end_char": 2028,
+    "start_char": 1873,
+    "end_char": 2029,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "X",
-    "start_char": 2028,
-    "end_char": 2296,
+    "start_char": 2029,
+    "end_char": 2297,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "XI",
-    "start_char": 2296,
-    "end_char": 2468,
+    "start_char": 2297,
+    "end_char": 2469,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "XII",
-    "start_char": 2468,
-    "end_char": 2632,
+    "start_char": 2469,
+    "end_char": 2633,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "XIII",
-    "start_char": 2632,
-    "end_char": 2766,
+    "start_char": 2633,
+    "end_char": 2767,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "XIV",
-    "start_char": 2766,
-    "end_char": 2885,
+    "start_char": 2767,
+    "end_char": 2886,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "XV",
-    "start_char": 2885,
-    "end_char": 3064,
+    "start_char": 2886,
+    "end_char": 3065,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lissfam",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lissfam:article:2",
     "fraction": "XVI",
-    "start_char": 3064,
-    "end_char": 3534,
+    "start_char": 3065,
+    "end_char": 3535,
     "basis": "express_definition"
   }
 ]

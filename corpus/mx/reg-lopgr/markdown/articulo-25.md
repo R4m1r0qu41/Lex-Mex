@@ -25,7 +25,9 @@ II. Dictar las estrategias que garanticen que los miembros de la Policía actúe
 
 III. Coordinar la ejecución de las órdenes de aprehensión, reaprehensión, comparecencia, presentación, cateos, detención en caso urgente y otros mandamientos judiciales o ministeriales y, en su caso, establecer las herramientas y mecanismos para su control y seguimiento, así como aquellas que faciliten el cumplimiento de dichas funciones;
 
-IV. Ordenar y evaluar el desarrollo de las líneas de investigación definidas por el Ministerio Público de la Federación para obtener, analizar, estudiar y procesar información conducente para la investigación y persecución de los delitos en el ámbito de competencia de la Institución; V. Dirigir y coordinar los procesos de información policial que permitan ubicar a las personas, grupos, organizaciones, zonas delictivas y modos de operación, con la finalidad de dar cumplimiento a los mandamientos judiciales y ministeriales;
+IV. Ordenar y evaluar el desarrollo de las líneas de investigación definidas por el Ministerio Público de la Federación para obtener, analizar, estudiar y procesar información conducente para la investigación y persecución de los delitos en el ámbito de competencia de la Institución;
+
+V. Dirigir y coordinar los procesos de información policial que permitan ubicar a las personas, grupos, organizaciones, zonas delictivas y modos de operación, con la finalidad de dar cumplimiento a los mandamientos judiciales y ministeriales;
 
 VI. Proponer el fortalecimiento de mecanismos de cooperación y coordinación con dependencias y entidades de los tres órdenes de gobierno;
 
@@ -49,7 +51,9 @@ XV. Vigilar el cumplimiento de los lineamientos o normas que expida el Procurado
 
 XVI. Ordenar el cumplimiento de las obligaciones relacionadas con el Registro Nacional de Armamento y Equipo, en colaboración con las unidades administrativas y órganos desconcentrados de la Institución;
 
-XVII. Proporcionar el servicio de seguridad y protección a personas que intervienen en procedimientos penales, de conformidad con el marco legal establecido en la materia; XVIII. Dirigir, coordinar, supervisar y evaluar los servicios de seguridad y protección a personas que por sus actividades se vean amenazados en su integridad física, de acuerdo a la normatividad aplicable y las que determine el Procurador;
+XVII. Proporcionar el servicio de seguridad y protección a personas que intervienen en procedimientos penales, de conformidad con el marco legal establecido en la materia;
+
+XVIII. Dirigir, coordinar, supervisar y evaluar los servicios de seguridad y protección a personas que por sus actividades se vean amenazados en su integridad física, de acuerdo a la normatividad aplicable y las que determine el Procurador;
 
 XIX. Designar a los responsables de los Centros Federales de Arraigo, así como disponer lo necesario para que su administración y funcionamiento se apeguen de manera estricta a las medidas cautelares emitidas por la autoridad competente;
 
@@ -79,7 +83,9 @@ XXXI. Establecer programas orientados a fortalecer la imagen institucional, el d
 
 XXXII. Evaluar el desempeño de los agentes de la Policía para efectos de la permanencia, estímulos, recompensas y desarrollo;
 
-XXXIII. Determinar los parámetros de compromiso institucional, actitud y aptitud de los agentes de la Policía, a efecto de que se les otorguen estímulos y recompensas; XXXIV. Proponer los criterios para determinar el escalafón de la Policía, así como para la promoción y régimen de estímulos;
+XXXIII. Determinar los parámetros de compromiso institucional, actitud y aptitud de los agentes de la Policía, a efecto de que se les otorguen estímulos y recompensas;
+
+XXXIV. Proponer los criterios para determinar el escalafón de la Policía, así como para la promoción y régimen de estímulos;
 
 XXXV. Representar legalmente a la Policía, conforme a la legislación aplicable;
 

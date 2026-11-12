@@ -31,7 +31,9 @@ V. Las prioridades para la ocupación de suelo urbano vacante, la urbanización 
 
 VI. Las políticas e instrumentos para la reestructuración, localización, [Mejoramiento](articulo-3.md) de la infraestructura y los equipamientos del ámbito metropolitano;
 
-VII. Las acciones y las previsiones de inversión para la dotación de infraestructura, equipamiento y [Servicios Urbanos](articulo-3.md) que sean comunes a los Centros de Población de la zona conurbada; VIII. Las acciones de [Movilidad](articulo-3.md), incluyendo los medios de transporte público masivo, los sistemas no motorizados y aquellos de bajo impacto ambiental;
+VII. Las acciones y las previsiones de inversión para la dotación de infraestructura, equipamiento y [Servicios Urbanos](articulo-3.md) que sean comunes a los Centros de Población de la zona conurbada;
+
+VIII. Las acciones de [Movilidad](articulo-3.md), incluyendo los medios de transporte público masivo, los sistemas no motorizados y aquellos de bajo impacto ambiental;
 
 IX. Las previsiones y acciones para mejorar las condiciones ambientales y el manejo integral de agua;
 

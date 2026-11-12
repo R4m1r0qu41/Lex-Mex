@@ -19,7 +19,9 @@ source_sha256: 2cc4bd6de7ab80102fae680a7017a0876b062f7999f7e33916b853cc8296cb19
 
 Para efectos del [artículo anterior](articulo-16.md), la [COFEPRIS](articulo-3.md) deberá llevar y mantener actualizado en forma anual, el inventario nacional de investigación que se realiza en el país en materia de [Cannabis](articulo-3.md), el cual contendrá el registro de:
 
-I. Los centros donde se realice investigación; II. Los investigadores;
+I. Los centros donde se realice investigación;
+
+II. Los investigadores;
 
 III. Las publicaciones científicas de los investigadores, y
 

@@ -19,111 +19,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1113-1141",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1114-1142",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:convenios-de-ginebra-de-1949",
     "span": "Convenios de Ginebra de 1949",
-    "start_char": 1113,
-    "end_char": 1141
+    "start_char": 1114,
+    "end_char": 1142
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1298-1326",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1299-1327",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:convenios-de-ginebra-de-1949",
     "span": "Convenios de Ginebra de 1949",
-    "start_char": 1298,
-    "end_char": 1326
+    "start_char": 1299,
+    "end_char": 1327
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1652-1676",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1653-1677",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:federacion-internacional",
     "span": "Federación Internacional",
-    "start_char": 1652,
-    "end_char": 1676
+    "start_char": 1653,
+    "end_char": 1677
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1738-1759",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1739-1760",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:sociedad-nacional",
     "span": "Sociedades Nacionales",
-    "start_char": 1738,
-    "end_char": 1759
+    "start_char": 1739,
+    "end_char": 1760
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1949-1989",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:1950-1990",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:movimiento-internacional-de-la-cruz-roja",
     "span": "Movimiento Internacional de la Cruz Roja",
-    "start_char": 1949,
-    "end_char": 1989
+    "start_char": 1950,
+    "end_char": 1990
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:2056-2080",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:2057-2081",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:federacion-internacional",
     "span": "Federación Internacional",
-    "start_char": 2056,
-    "end_char": 2080
+    "start_char": 2057,
+    "end_char": 2081
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:2140-2161",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:2141-2162",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:sociedad-nacional",
     "span": "Sociedades Nacionales",
-    "start_char": 2140,
-    "end_char": 2161
+    "start_char": 2141,
+    "end_char": 2162
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:2243-2271",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:2244-2272",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:convenios-de-ginebra-de-1949",
     "span": "Convenios de Ginebra de 1949",
-    "start_char": 2243,
-    "end_char": 2271
+    "start_char": 2244,
+    "end_char": 2272
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:2935-2959",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:2936-2960",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:principios-fundamentales",
     "span": "Principios Fundamentales",
-    "start_char": 2935,
-    "end_char": 2959
+    "start_char": 2936,
+    "end_char": 2960
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:3422-3462",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:3423-3463",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:movimiento-internacional-de-la-cruz-roja",
     "span": "Movimiento Internacional de la Cruz Roja",
-    "start_char": 3422,
-    "end_char": 3462
+    "start_char": 3423,
+    "end_char": 3463
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:3618-3635",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:3619-3636",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:sociedad-nacional",
     "span": "Sociedad Nacional",
-    "start_char": 3618,
-    "end_char": 3635
+    "start_char": 3619,
+    "end_char": 3636
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:3655-3695",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:3:term-usage:3656-3696",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:3",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:movimiento-internacional-de-la-cruz-roja",
     "span": "Movimiento Internacional de la Cruz Roja",
-    "start_char": 3655,
-    "end_char": 3695
+    "start_char": 3656,
+    "end_char": 3696
   },
   {
     "schema_version": "0.1.0",
@@ -190,30 +190,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:8:term-usage:674-692",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:8:term-usage:675-693",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:8",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:cruz-roja-mexicana",
     "span": "Cruz Roja Mexicana",
-    "start_char": 674,
-    "end_char": 692
+    "start_char": 675,
+    "end_char": 693
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:8:term-usage:1062-1090",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:8:term-usage:1063-1091",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:8",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:convenios-de-ginebra-de-1949",
     "span": "Convenios de Ginebra de 1949",
-    "start_char": 1062,
-    "end_char": 1090
+    "start_char": 1063,
+    "end_char": 1091
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lupdecr:article:8:term-usage:1215-1239",
+    "id": "urn:lex-mx:federal:statute:lupdecr:article:8:term-usage:1216-1240",
     "provision_id": "urn:lex-mx:federal:statute:lupdecr:article:8",
     "term_id": "urn:lex-mx:federal:statute:lupdecr:term:federacion-internacional",
     "span": "Federación Internacional",
-    "start_char": 1215,
-    "end_char": 1239
+    "start_char": 1216,
+    "end_char": 1240
   },
   {
     "schema_version": "0.1.0",

@@ -29,4 +29,6 @@ IV. Nutracéuticos o alimentos funcionales;
 
 V. Fórmulas lácteas que no contengan principios activos de uso farmacéutico o bien que contengan premezclas medicadas registradas;
 
-VI. Suplementos alimenticios no medicados, y VII. Los demás, que en su caso, determine la Secretaría conforme a los avances técnicos y científicos.
+VI. Suplementos alimenticios no medicados, y
+
+VII. Los demás, que en su caso, determine la Secretaría conforme a los avances técnicos y científicos.

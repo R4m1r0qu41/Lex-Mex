@@ -19,6 +19,6 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 La presente Ley es de orden público y de observancia en todo el territorio nacional.
 
-Tiene por objeto normar la constitución y funcionamiento de las Cámaras de Comercio, Servicios y Turismo y de las Cámaras de Industria, así como de las [Confederaciones](articulo-2.md) que las agrupan.
+Tiene por objeto normar la constitución y funcionamiento de las [Cámaras](articulo-2.md) de Comercio, Servicios y Turismo y de las Cámaras de Industria, así como de las [Confederaciones](articulo-2.md) que las agrupan.
 
 También tiene por objeto normar al Sistema de Información Empresarial Mexicano.

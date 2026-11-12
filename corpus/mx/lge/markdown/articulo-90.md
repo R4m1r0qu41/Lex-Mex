@@ -31,7 +31,9 @@ IV. Reconocer su experiencia, así como su vinculación y compromiso con la comu
 
 V. Priorizar su labor pedagógica y el máximo logro de aprendizaje de los educandos sobre la carga administrativa;
 
-VI. Promover su formación, capacitación y actualización de acuerdo con su evaluación diagnóstica y en el ámbito donde desarrolla su labor; VII. Impulsar su capacidad para la toma de decisiones cotidianas respecto a la planeación educativa;
+VI. Promover su formación, capacitación y actualización de acuerdo con su evaluación diagnóstica y en el ámbito donde desarrolla su labor;
+
+VII. Impulsar su capacidad para la toma de decisiones cotidianas respecto a la planeación educativa;
 
 VIII. Otorgar, en términos de las disposiciones aplicables, un salario profesional digno, que permita a las maestras y los maestros de los planteles del [Estado](articulo-4.md) alcanzar un nivel de vida decoroso para ellos y su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y realizar actividades destinadas a su desarrollo personal y profesional, y
 

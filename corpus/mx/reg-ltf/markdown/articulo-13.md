@@ -21,7 +21,9 @@ Para el uso de los equipos o sistemas automatizados a que se refiere el artícul
 
 I. Designar a las personas que, en su calidad de usuarios, tendrán acceso a los equipos o sistema automatizados de que se trate, así como determinar sus perfiles;
 
-II. Designar a la persona que funja como enlace con la Tesorería para los aspectos relacionados con la operación de los equipos o sistemas automatizados de que se trate; III. Mantener actualizado el catálogo de usuarios que tendrán acceso a los equipos o sistemas automatizados de que se trate;
+II. Designar a la persona que funja como enlace con la Tesorería para los aspectos relacionados con la operación de los equipos o sistemas automatizados de que se trate;
+
+III. Mantener actualizado el catálogo de usuarios que tendrán acceso a los equipos o sistemas automatizados de que se trate;
 
 IV. Solicitar a la Tesorería los medios de identificación electrónica para los usuarios de los equipos o sistemas automatizados de que se trate, y
 

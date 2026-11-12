@@ -21,7 +21,9 @@ Para proceder a la asignación de derechos sobre tierras a que se refiere la fra
 
 I. Posesionarios reconocidos por la asamblea;
 
-II. Ejidatarios y avecindados del núcleo de población cuya dedicación y esmero sean notorios o que hayan mejorado con su trabajo e inversión las tierras de que se trate; III. Hijos de ejidatarios y otros avecindados que hayan trabajado las tierras por dos años o más; y
+II. Ejidatarios y avecindados del núcleo de población cuya dedicación y esmero sean notorios o que hayan mejorado con su trabajo e inversión las tierras de que se trate;
+
+III. Hijos de ejidatarios y otros avecindados que hayan trabajado las tierras por dos años o más; y
 
 IV. Otros individuos, a juicio de la asamblea.
 

@@ -27,7 +27,9 @@ III. El quórum de instalación se establecerá de la manera siguiente:
 
 a) En primera convocatoria, deberán estar presentes la mitad más uno de los colonos, y
 
-b) En segunda convocatoria, se instalará válidamente con los que asistan; IV. Los acuerdos se tomarán válidamente por mayoría de votos de los presentes y serán obligatorios para los ausentes y disidentes.
+b) En segunda convocatoria, se instalará válidamente con los que asistan;
+
+IV. Los acuerdos se tomarán válidamente por mayoría de votos de los presentes y serán obligatorios para los ausentes y disidentes.
 
 En caso de empate, el colono que presida la Asamblea tendrá voto de calidad, y
 

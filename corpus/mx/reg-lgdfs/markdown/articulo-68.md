@@ -23,7 +23,9 @@ I. Nombre o denominación o razón social y domicilio del titular;
 
 II. Nombre y ubicación del predio o [Conjunto de predios](articulo-2.md);
 
-III. Superficie total del predio o Conjunto de predios y la sujeta a plantación; IV. Nombre común y científico de las especies a plantar;
+III. Superficie total del predio o Conjunto de predios y la sujeta a plantación;
+
+IV. Nombre común y científico de las especies a plantar;
 
 V. La obligación de rendir los informes a que se refiere el artículo [69](articulo-69.md) del presente Reglamento;
 

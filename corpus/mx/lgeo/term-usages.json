@@ -370,21 +370,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:2:term-usage:4235-4248",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:2:term-usage:4236-4249",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:usos-diversos",
     "span": "Usos Diversos",
-    "start_char": 4235,
-    "end_char": 4248
+    "start_char": 4236,
+    "end_char": 4249
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:2:term-usage:4391-4406",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:2:term-usage:4392-4407",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:agua-geotermica",
     "span": "Agua Geotérmica",
-    "start_char": 4391,
-    "end_char": 4406
+    "start_char": 4392,
+    "end_char": 4407
   },
   {
     "schema_version": "0.1.0",
@@ -847,111 +847,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:2674-2677",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:2675-2678",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 2674,
-    "end_char": 2677
+    "start_char": 2675,
+    "end_char": 2678
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:2683-2693",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:2684-2694",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 2683,
-    "end_char": 2693
+    "start_char": 2684,
+    "end_char": 2694
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:2791-2794",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:2792-2795",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 2791,
-    "end_char": 2794
+    "start_char": 2792,
+    "end_char": 2795
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3747-3750",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3748-3751",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 3747,
-    "end_char": 3750
+    "start_char": 3748,
+    "end_char": 3751
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3755-3765",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3756-3766",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 3755,
-    "end_char": 3765
+    "start_char": 3756,
+    "end_char": 3766
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3785-3796",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3786-3797",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:exploracion",
     "span": "Exploración",
-    "start_char": 3785,
-    "end_char": 3796
+    "start_char": 3786,
+    "end_char": 3797
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3811-3824",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3812-3825",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:usos-diversos",
     "span": "Usos Diversos",
-    "start_char": 3811,
-    "end_char": 3824
+    "start_char": 3812,
+    "end_char": 3825
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3853-3862",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:3854-3863",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 3853,
-    "end_char": 3862
+    "start_char": 3854,
+    "end_char": 3863
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:4217-4220",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:4218-4221",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 4217,
-    "end_char": 4220
+    "start_char": 4218,
+    "end_char": 4221
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:4396-4409",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:4397-4410",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:usos-diversos",
     "span": "Usos Diversos",
-    "start_char": 4396,
-    "end_char": 4409
+    "start_char": 4397,
+    "end_char": 4410
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:4427-4437",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:4428-4438",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 4427,
-    "end_char": 4437
+    "start_char": 4428,
+    "end_char": 4438
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:4446-4449",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:7:term-usage:4447-4450",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:7",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 4446,
-    "end_char": 4449
+    "start_char": 4447,
+    "end_char": 4450
   },
   {
     "schema_version": "0.1.0",
@@ -1459,39 +1459,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:17:term-usage:437-459",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:17:term-usage:438-460",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:permiso-de-exploracion",
     "span": "Permiso de Exploración",
-    "start_char": 437,
-    "end_char": 459
+    "start_char": 438,
+    "end_char": 460
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:17:term-usage:671-693",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:17:term-usage:672-694",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:permiso-de-exploracion",
     "span": "Permiso de Exploración",
-    "start_char": 671,
-    "end_char": 693
+    "start_char": 672,
+    "end_char": 694
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:17:term-usage:736-739",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:17:term-usage:737-740",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 736,
-    "end_char": 739
+    "start_char": 737,
+    "end_char": 740
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:17:term-usage:745-755",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:17:term-usage:746-756",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:17",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 745,
-    "end_char": 755
+    "start_char": 746,
+    "end_char": 756
   },
   {
     "schema_version": "0.1.0",
@@ -2530,129 +2530,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:878-888",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:879-889",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 878,
-    "end_char": 888
+    "start_char": 879,
+    "end_char": 889
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:921-930",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:922-931",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 921,
-    "end_char": 930
+    "start_char": 922,
+    "end_char": 931
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1193-1203",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1194-1204",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1193,
-    "end_char": 1203
+    "start_char": 1194,
+    "end_char": 1204
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1576-1587",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1577-1588",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:explotacion",
     "span": "Explotación",
-    "start_char": 1576,
-    "end_char": 1587
+    "start_char": 1577,
+    "end_char": 1588
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1592-1613",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1593-1614",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:yacimiento-geotermico",
     "span": "Yacimiento Geotérmico",
-    "start_char": 1592,
-    "end_char": 1613
+    "start_char": 1593,
+    "end_char": 1614
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1649-1659",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1650-1660",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1649,
-    "end_char": 1659
+    "start_char": 1650,
+    "end_char": 1660
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1817-1835",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1818-1836",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:recurso-geotermico",
     "span": "Recurso Geotérmico",
-    "start_char": 1817,
-    "end_char": 1835
+    "start_char": 1818,
+    "end_char": 1836
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1903-1912",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1904-1913",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 1903,
-    "end_char": 1912
+    "start_char": 1904,
+    "end_char": 1913
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1965-1968",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1966-1969",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 1965,
-    "end_char": 1968
+    "start_char": 1966,
+    "end_char": 1969
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1973-1983",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:1974-1984",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1973,
-    "end_char": 1983
+    "start_char": 1974,
+    "end_char": 1984
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:2155-2158",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:2156-2159",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 2155,
-    "end_char": 2158
+    "start_char": 2156,
+    "end_char": 2159
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:2199-2202",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:2200-2203",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 2199,
-    "end_char": 2202
+    "start_char": 2200,
+    "end_char": 2203
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:2207-2217",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:2208-2218",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 2207,
-    "end_char": 2217
+    "start_char": 2208,
+    "end_char": 2218
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:2252-2261",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:25:term-usage:2253-2262",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:25",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 2252,
-    "end_char": 2261
+    "start_char": 2253,
+    "end_char": 2262
   },
   {
     "schema_version": "0.1.0",
@@ -2728,57 +2728,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:849-871",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:850-872",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:28",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:permiso-de-exploracion",
     "span": "Permiso de Exploración",
-    "start_char": 849,
-    "end_char": 871
+    "start_char": 850,
+    "end_char": 872
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:874-883",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:875-884",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:28",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 874,
-    "end_char": 883
+    "start_char": 875,
+    "end_char": 884
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:1035-1057",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:1036-1058",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:28",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:permiso-de-exploracion",
     "span": "Permiso de Exploración",
-    "start_char": 1035,
-    "end_char": 1057
+    "start_char": 1036,
+    "end_char": 1058
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:1066-1075",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:1067-1076",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:28",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 1066,
-    "end_char": 1075
+    "start_char": 1067,
+    "end_char": 1076
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:1080-1090",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:1081-1091",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:28",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1080,
-    "end_char": 1090
+    "start_char": 1081,
+    "end_char": 1091
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:1222-1231",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:28:term-usage:1223-1232",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:28",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 1222,
-    "end_char": 1231
+    "start_char": 1223,
+    "end_char": 1232
   },
   {
     "schema_version": "0.1.0",
@@ -3313,129 +3313,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:132-154",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:133-155",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:permiso-de-exploracion",
     "span": "Permiso de Exploración",
-    "start_char": 132,
-    "end_char": 154
+    "start_char": 133,
+    "end_char": 155
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:167-176",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:168-177",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 167,
-    "end_char": 176
+    "start_char": 168,
+    "end_char": 177
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:316-338",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:317-339",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:permiso-de-exploracion",
     "span": "Permiso de Exploración",
-    "start_char": 316,
-    "end_char": 338
+    "start_char": 317,
+    "end_char": 339
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:351-360",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:352-361",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 351,
-    "end_char": 360
+    "start_char": 352,
+    "end_char": 361
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:420-431",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:421-432",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:exploracion",
     "span": "Exploración",
-    "start_char": 420,
-    "end_char": 431
+    "start_char": 421,
+    "end_char": 432
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:458-469",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:459-470",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesiones",
-    "start_char": 458,
-    "end_char": 469
+    "start_char": 459,
+    "end_char": 470
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:586-596",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:587-597",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 586,
-    "end_char": 596
+    "start_char": 587,
+    "end_char": 597
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:692-714",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:693-715",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:permiso-de-exploracion",
     "span": "Permiso de Exploración",
-    "start_char": 692,
-    "end_char": 714
+    "start_char": 693,
+    "end_char": 715
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:717-726",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:718-727",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 717,
-    "end_char": 726
+    "start_char": 718,
+    "end_char": 727
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:790-800",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:791-801",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 790,
-    "end_char": 800
+    "start_char": 791,
+    "end_char": 801
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:857-879",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:858-880",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:permiso-de-exploracion",
     "span": "Permiso de Exploración",
-    "start_char": 857,
-    "end_char": 879
+    "start_char": 858,
+    "end_char": 880
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:892-901",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:893-902",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:concesion",
     "span": "Concesión",
-    "start_char": 892,
-    "end_char": 901
+    "start_char": 893,
+    "end_char": 902
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:955-965",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:956-966",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 955,
-    "end_char": 965
+    "start_char": 956,
+    "end_char": 966
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:974-977",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:34:term-usage:975-978",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:34",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:ley",
     "span": "Ley",
-    "start_char": 974,
-    "end_char": 977
+    "start_char": 975,
+    "end_char": 978
   },
   {
     "schema_version": "0.1.0",
@@ -3916,39 +3916,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:47:term-usage:432-450",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:47:term-usage:433-451",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:recurso-geotermico",
     "span": "Recurso Geotérmico",
-    "start_char": 432,
-    "end_char": 450
+    "start_char": 433,
+    "end_char": 451
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:47:term-usage:487-502",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:47:term-usage:488-503",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:area-geotermica",
     "span": "Área Geotérmica",
-    "start_char": 487,
-    "end_char": 502
+    "start_char": 488,
+    "end_char": 503
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:47:term-usage:623-633",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:47:term-usage:624-634",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 623,
-    "end_char": 633
+    "start_char": 624,
+    "end_char": 634
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgeo:article:47:term-usage:686-696",
+    "id": "urn:lex-mx:federal:statute:lgeo:article:47:term-usage:687-697",
     "provision_id": "urn:lex-mx:federal:statute:lgeo:article:47",
     "term_id": "urn:lex-mx:federal:statute:lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 686,
-    "end_char": 696
+    "start_char": 687,
+    "end_char": 697
   },
   {
     "schema_version": "0.1.0",

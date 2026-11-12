@@ -27,7 +27,9 @@ III. Identificar debidamente los bienes susceptibles de Extinción de Dominio;
 
 IV. Solicitar al Juez las medidas cautelares necesarias y, en su caso, su ampliación, respecto de los bienes señalados en la Ley de la materia o su ampliación;
 
-V. Ejercer la Acción de Extinción de Dominio, en su caso, su ampliación, y ser parte, en los términos que señale la ley de la materia; VI. Acordar las medidas de custodia y conservación de los bienes afectos a la Extinción de Dominio, hasta en tanto la autoridad judicial no determine la medida cautelar respectiva;
+V. Ejercer la Acción de Extinción de Dominio, en su caso, su ampliación, y ser parte, en los términos que señale la ley de la materia;
+
+VI. Acordar las medidas de custodia y conservación de los bienes afectos a la Extinción de Dominio, hasta en tanto la autoridad judicial no determine la medida cautelar respectiva;
 
 VII. Solicitar al juez requiera información o documentos del sistema financiero por conducto de la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas o la Comisión Nacional del Sistema de Ahorro para el Retiro, así como información financiera o fiscal al Sistema de Administración Tributaria y demás entidades públicas o privadas, que puedan servir para la sustanciación del procedimiento;
 

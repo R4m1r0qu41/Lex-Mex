@@ -25,4 +25,6 @@ II.- La parte o partes en que el acto debe ejecutarse;
 
 III.- Los nombres de los colindantes que puedan tener interés en el apeo, si son conocidos, y, si no lo son, los datos indispensables para identificar sus predios; Fe de erratas a la fracción DOF 13-03-1943
 
-IV.- Ei sitio donde están y donde deben colocarse las señales, y, si éstas no existen, el lugar donde estuvieron o debieron levantarse, y V.- Los planos y demás documentos que vengan a servir para la diligencia, y designación de un perito por parte del promovente. Fe de erratas a la fracción DOF 13-03-1943
+IV.- Ei sitio donde están y donde deben colocarse las señales, y, si éstas no existen, el lugar donde estuvieron o debieron levantarse, y
+
+V.- Los planos y demás documentos que vengan a servir para la diligencia, y designación de un perito por parte del promovente. Fe de erratas a la fracción DOF 13-03-1943

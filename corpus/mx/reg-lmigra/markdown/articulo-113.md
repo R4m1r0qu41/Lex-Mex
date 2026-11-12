@@ -21,7 +21,9 @@ Los mexicanos y las personas extranjeras titulares de una tarjeta de residente t
 
 En estos casos, se deberá acreditar:
 
-I. Vínculo familiar en los supuestos previstos en la Ley; II. Titularidad de una tarjeta válida y vigente que acredite residencia en el territorio nacional, en el caso de personas extranjeras, o
+I. Vínculo familiar en los supuestos previstos en la Ley;
+
+II. Titularidad de una tarjeta válida y vigente que acredite residencia en el territorio nacional, en el caso de personas extranjeras, o
 
 III. Nacionalidad en términos de lo previsto en la ley de la materia, en el caso de mexicanos.
 

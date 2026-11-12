@@ -17,7 +17,9 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 16
 
-El Secretario Técnico de la [Comisión Intersecretarial](articulo-4.md) tendrá las facultades siguientes: I. Elaborar el orden del día de los asuntos que serán tratados en las sesiones de la Comisión Intersecretarial;
+El Secretario Técnico de la [Comisión Intersecretarial](articulo-4.md) tendrá las facultades siguientes:
+
+I. Elaborar el orden del día de los asuntos que serán tratados en las sesiones de la Comisión Intersecretarial;
 
 II. Enviar a los integrantes de la Comisión Intersecretarial e invitados, la convocatoria, el orden del día de cada sesión y la documentación correspondiente de los asuntos que serán tratados en dichas sesiones, dentro de los plazos previstos en el artículo [12](articulo-12.md), segundo párrafo de este Reglamento;
 

@@ -19,4 +19,6 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 No se considerarán tripulantes:
 
-I. Quienes realicen servicios u operen equipos de tecnología aplicada a cualquier tipo de explotación y que se encuentren instalados en la Embarcación o Artefacto Naval, y II. El personal de las Unidades Fijas Mar Adentro.
+I. Quienes realicen servicios u operen equipos de tecnología aplicada a cualquier tipo de explotación y que se encuentren instalados en la Embarcación o Artefacto Naval, y
+
+II. El personal de las Unidades Fijas Mar Adentro.

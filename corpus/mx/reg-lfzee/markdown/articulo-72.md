@@ -47,4 +47,6 @@ VIII. Que el esquema para facilitar la expansión física de la Zona es apropiad
 
 IX. Que la evaluación del impacto ambiental que presente haya sido autorizada;
 
-X. Que los precios y tarifas que el Solicitante pretende cobrar por la prestación de los Servicios Asociados, son competitivos en comparación con los costos del mercado interno, y XI. Los demás establecidos en los [Lineamientos](articulo-4.md) para el otorgamiento de Permisos o, en su caso, en la convocatoria respectiva.
+X. Que los precios y tarifas que el Solicitante pretende cobrar por la prestación de los Servicios Asociados, son competitivos en comparación con los costos del mercado interno, y
+
+XI. Los demás establecidos en los [Lineamientos](articulo-4.md) para el otorgamiento de Permisos o, en su caso, en la convocatoria respectiva.

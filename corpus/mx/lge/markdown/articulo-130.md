@@ -25,7 +25,9 @@ II. Colaborar para una mejor integración de la comunidad escolar, así como en 
 
 III. Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos;
 
-IV. Propiciar la colaboración de los docentes, madres y padres de familia o tutores, para salvaguardar la integridad de los integrantes de la comunidad educativa; V. Conocer de las acciones educativas y de prevención que realicen las autoridades para que los educandos, conozcan y detecten la posible comisión de hechos delictivos que les puedan perjudicar;
+IV. Propiciar la colaboración de los docentes, madres y padres de familia o tutores, para salvaguardar la integridad de los integrantes de la comunidad educativa;
+
+V. Conocer de las acciones educativas y de prevención que realicen las autoridades para que los educandos, conozcan y detecten la posible comisión de hechos delictivos que les puedan perjudicar;
 
 VI. Sensibilizar a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
 

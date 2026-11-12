@@ -35,7 +35,9 @@ VII. Vigilar, en el ámbito de su competencia, el cumplimiento de los lineamient
 
 VIII. Establecer los lineamientos internos que deban observarse, para la emisión de opiniones conforme a la normatividad de la materia;
 
-IX. Dictar las políticas y procedimientos institucionales para la actuación de los servicios de apoyo técnico-científico; X. Coordinar el funcionamiento de los laboratorios criminalísticos de la Institución, cuyo objeto es analizar los elementos químicos, biológicos, tecnológicos y mecánicos, que apoyen la investigación para la prevención de delitos y en el esclarecimiento de hechos delictuosos bajo la conducción y mando del [Ministerio Público](articulo-2.md);
+IX. Dictar las políticas y procedimientos institucionales para la actuación de los servicios de apoyo técnico-científico;
+
+X. Coordinar el funcionamiento de los laboratorios criminalísticos de la Institución, cuyo objeto es analizar los elementos químicos, biológicos, tecnológicos y mecánicos, que apoyen la investigación para la prevención de delitos y en el esclarecimiento de hechos delictuosos bajo la conducción y mando del [Ministerio Público](articulo-2.md);
 
 XI. Supervisar la actualización de las bases de datos criminalísticos y de personal de la Institución, con datos de utilidad en la investigación de delitos, sin afectar el derecho de las personas sobre sus datos personales;
 

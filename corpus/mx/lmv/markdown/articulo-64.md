@@ -21,7 +21,9 @@ Los certificados bursátiles deberán contener:
 
 I. La mención de ser certificados bursátiles, títulos al portador y su tipo.
 
-II. El lugar y fecha de emisión. III. La denominación de la emisora y su objeto social. Las entidades federativas y municipios únicamente estarán obligados a señalar su denominación. Tratándose de fideicomisos, adicionalmente deberá indicarse el fin para el cual fueron constituidos, sin que sea necesario incluir el objeto social de la institución fiduciaria.
+II. El lugar y fecha de emisión.
+
+III. La denominación de la emisora y su objeto social. Las entidades federativas y municipios únicamente estarán obligados a señalar su denominación. Tratándose de fideicomisos, adicionalmente deberá indicarse el fin para el cual fueron constituidos, sin que sea necesario incluir el objeto social de la institución fiduciaria.
 
 IV. El importe de la emisión, número de certificados y, cuando así se prevea, las series que la conforman, el valor nominal de cada uno de ellos, así como la especificación del destino que haya de darse a los recursos que se obtengan con motivo de la emisión o de cada una de sus series.
 

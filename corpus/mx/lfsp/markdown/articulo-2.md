@@ -19,7 +19,9 @@ source_sha256: 08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69
 
 Para los efectos de esta ley, se entenderá por:
 
-I. Seguridad Privada.- Actividad a cargo de los particulares, autorizada por el órgano competente, con el objeto de desempeñar acciones relacionadas con la seguridad en materia de protección, vigilancia, custodia de personas, información, bienes inmuebles, muebles o valores, incluidos su traslado; instalación, operación de sistemas y equipos de seguridad; aportar datos para la investigación de delitos y apoyar en caso de siniestros o desastres, en su carácter de auxiliares a la función de Seguridad Pública. II. Servicios de Seguridad. Privada.- Los realizados por personas físicas o morales, de acuerdo con las modalidades previstas en esta Ley.
+I. Seguridad Privada.- Actividad a cargo de los particulares, autorizada por el órgano competente, con el objeto de desempeñar acciones relacionadas con la seguridad en materia de protección, vigilancia, custodia de personas, información, bienes inmuebles, muebles o valores, incluidos su traslado; instalación, operación de sistemas y equipos de seguridad; aportar datos para la investigación de delitos y apoyar en caso de siniestros o desastres, en su carácter de auxiliares a la función de Seguridad Pública.
+
+II. Servicios de Seguridad. Privada.- Los realizados por personas físicas o morales, de acuerdo con las modalidades previstas en esta Ley.
 
 III. Prestador de Servicios.- [Persona física](articulo-2.md) o moral que presta servicios de seguridad privada.
 
@@ -29,7 +31,7 @@ V. Personal Operativo.- Los individuos destinados a la prestación de servicios 
 
 VI. Secretaría.- La Secretaría de Seguridad Pública Federal.
 
-VII. Dirección General.- La Dirección General de Registro y Supervisión a Empresas y Servicios de [Seguridad Privada](articulo-2.md), dependiente de la [Secretaría](articulo-2.md) de Seguridad Pública Federal.
+VII. Dirección General.- La Dirección General de Registro y Supervisión a Empresas y [Servicios de Seguridad](articulo-2.md) Privada, dependiente de la [Secretaría](articulo-2.md) de Seguridad Pública Federal.
 
 VIII. Autorización.- El acto administrativo por el que la Secretaría de Seguridad Pública Federal, a través de la [Dirección General](articulo-2.md) de Registro y Supervisión a Empresas y Servicios de Seguridad Privada, permite a una persona física o moral prestar servicios de seguridad privada en dos o más entidades federativas.
 

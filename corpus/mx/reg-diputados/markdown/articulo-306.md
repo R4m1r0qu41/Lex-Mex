@@ -17,7 +17,9 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 # Artículo 306
 
-1. La votación nominal se realizará de la siguiente forma: I. Se harán los avisos a los que se refiere el artículo [144](articulo-144.md), numeral 2 de este [Reglamento](articulo-2.md).
+1. La votación nominal se realizará de la siguiente forma:
+
+I. Se harán los avisos a los que se refiere el artículo [144](articulo-144.md), numeral 2 de este [Reglamento](articulo-2.md).
 
 II. Se abrirá el [Sistema Electrónico](articulo-2.md) hasta por diez minutos, para que voten las diputadas y los diputados presentes en el Salón de Sesiones a través de la tableta instalada en las curules y aquellos que concurran de manera telemática a través de la Plataforma Digital.
 

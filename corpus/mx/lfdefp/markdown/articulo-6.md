@@ -27,6 +27,8 @@ III. Evitar en todo momento la indefensión de sus representados;
 
 IV. Vigilar el respeto a los derechos humanos y sus garantías de sus representados; así como promover el juicio de amparo respectivo o cualquier otro medio legal de defensa, cuando aquellos se estimen violentados; Fracción reformada DOF 17-06-2016
 
-V. Llevar un registro y formar un expediente de control de todos los procedimientos o asuntos en que intervengan, desde que se les turnen hasta que termine su intervención; VI. Atender con cortesía a los usuarios y prestar sus servicios con diligencia, responsabilidad e iniciativa, y
+V. Llevar un registro y formar un expediente de control de todos los procedimientos o asuntos en que intervengan, desde que se les turnen hasta que termine su intervención;
+
+VI. Atender con cortesía a los usuarios y prestar sus servicios con diligencia, responsabilidad e iniciativa, y
 
 VII. Las demás que se deriven de la naturaleza de sus funciones y de las disposiciones legales aplicables.

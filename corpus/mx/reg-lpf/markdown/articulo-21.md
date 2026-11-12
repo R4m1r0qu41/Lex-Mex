@@ -45,7 +45,9 @@ XII. Determinar la instalación y operación de equipo técnico especial para la
 
 XIII. Establecer las directrices para el monitoreo de instalaciones estratégicas con el propósito de captar información que permita identificar posibles hechos delictivos;
 
-XIV. Supervisar acciones especializadas en manejo de fuentes de información en la sociedad para la generación de inteligencia que desarrollen o amplíen líneas de investigación que permitan la prevención y desarticulación de bandas delictivas; XV. Asegurarse que se asiente constancia de cada una de las actuaciones y llevar un estricto control y seguimiento de las intervenciones de comunicaciones privadas autorizadas en términos de la [Ley](articulo-2.md), a fin de que éstas cumplan con las especificaciones de dicha autorización;
+XIV. Supervisar acciones especializadas en manejo de fuentes de información en la sociedad para la generación de inteligencia que desarrollen o amplíen líneas de investigación que permitan la prevención y desarticulación de bandas delictivas;
+
+XV. Asegurarse que se asiente constancia de cada una de las actuaciones y llevar un estricto control y seguimiento de las intervenciones de comunicaciones privadas autorizadas en términos de la [Ley](articulo-2.md), a fin de que éstas cumplan con las especificaciones de dicha autorización;
 
 XVI. Informar de manera periódica a la División de Inteligencia los avances y resultados, así como remitir los informes y demás documentos que se generen en la materia de su competencia;
 

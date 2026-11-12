@@ -17,7 +17,9 @@ source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361
 
 # Artículo 191
 
-Por no haberse presentado o protestado el cheque en la forma y plazos previstos en este capítulo, caducan: I.- Las acciones de regreso del último tenedor contra los endosantes o avalistas;
+Por no haberse presentado o protestado el cheque en la forma y plazos previstos en este capítulo, caducan:
+
+I.- Las acciones de regreso del último tenedor contra los endosantes o avalistas;
 
 II.- Las acciones de regreso de los endosantes o avalistas entre sí, y
 

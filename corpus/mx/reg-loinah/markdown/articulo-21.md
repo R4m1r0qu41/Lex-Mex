@@ -37,7 +37,9 @@ VIII. Supervisar y apoyar a los Centros INAH en la instrumentación de acciones 
 
 IX. Coadyuvar con las unidades administrativas competentes del Instituto, en la gestión, Conservación y preservación del Patrimonio Cultural inscrito en la lista del Patrimonio Mundial de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, así como coordinar el cumplimento de los instrumentos internacionales suscritos en materia de protección y Conservación del Patrimonio Cultural;
 
-X. Proponer al titular de la Dirección General los lineamientos para la elaboración de programas anuales de trabajo de los Centros INAH y, en su caso, dar seguimiento y evaluar la ejecución de esos programas anuales; XI. Contribuir con las unidades administrativas competentes del Instituto, en la resolución de problemáticas administrativas, jurídicas, técnicas y operativas;
+X. Proponer al titular de la Dirección General los lineamientos para la elaboración de programas anuales de trabajo de los Centros INAH y, en su caso, dar seguimiento y evaluar la ejecución de esos programas anuales;
+
+XI. Contribuir con las unidades administrativas competentes del Instituto, en la resolución de problemáticas administrativas, jurídicas, técnicas y operativas;
 
 XII. Coordinar la organización y realización de operativos y monitoreos especiales en los Centros INAH en torno a situaciones extraordinarias;
 

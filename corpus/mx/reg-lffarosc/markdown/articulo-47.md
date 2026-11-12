@@ -25,7 +25,9 @@ II. Coordinar las funciones del Consejo, descritas en el artículo [29](../../lf
 
 III. Conducir las sesiones del Consejo y dirigir sus debates;
 
-IV. Preparar con el apoyo del Secretario Ejecutivo, las reuniones del Consejo; V. Solicitar a los [Consejeros](articulo-2.md) propuestas de temas para la agenda de trabajo y, en su caso, el envío de los documentos previos para su análisis;
+IV. Preparar con el apoyo del Secretario Ejecutivo, las reuniones del Consejo;
+
+V. Solicitar a los [Consejeros](articulo-2.md) propuestas de temas para la agenda de trabajo y, en su caso, el envío de los documentos previos para su análisis;
 
 VI. Vigilar la oportuna integración y el adecuado funcionamiento de las comisiones y grupos de trabajo y conocer sus actividades, efecto para el cual podrá solicitarles los informes específicos que estime necesarios;
 

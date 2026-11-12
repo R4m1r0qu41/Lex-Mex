@@ -27,7 +27,9 @@ Artículo [113](articulo-113.md) de la presente Ley, así como los permisos de d
 
 III. La gestión de aguas nacionales, para racionalizar las necesidades de agua, y contribuir al mejoramiento de la economía y finanzas del agua y su gestión;
 
-IV. El cobro de derechos causados por la explotación, uso o aprovechamiento, descarga y protección del agua; V. La participación de las organizaciones de la sociedad y de las personas usuarias, y su corresponsabilidad en el desarrollo de actividades específicas; Fracción reformada DOF 11-12-2025
+IV. El cobro de derechos causados por la explotación, uso o aprovechamiento, descarga y protección del agua;
+
+V. La participación de las organizaciones de la sociedad y de las personas usuarias, y su corresponsabilidad en el desarrollo de actividades específicas; Fracción reformada DOF 11-12-2025
 
 VI. La prevención, conciliación, arbitraje, mitigación y solución de conflictos en materia del agua y su gestión;
 

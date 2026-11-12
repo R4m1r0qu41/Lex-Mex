@@ -25,7 +25,9 @@ II. No atentará contra la dignidad de la persona;
 
 III. Tendrá carácter formativo, creador o conservador de hábitos laborales, productivos, con el fin de preparar a las personas privadas de la libertad para las condiciones normales del trabajo en libertad;
 
-IV. Se realizará sin discriminación alguna y bajo condiciones de seguridad y salud; V. Preverá el acceso a la seguridad social por parte de las personas privadas de la libertad conforme a la modalidad en la que participen, con apego a las disposiciones legales aplicables en la materia;
+IV. Se realizará sin discriminación alguna y bajo condiciones de seguridad y salud;
+
+V. Preverá el acceso a la seguridad social por parte de las personas privadas de la libertad conforme a la modalidad en la que participen, con apego a las disposiciones legales aplicables en la materia;
 
 VI. Se crearán mecanismos de participación del sector privado para la generación de trabajo que permita lograr los fines de la reinserción social y otorgar oportunidades de empleo a las personas privadas de la libertad, y
 

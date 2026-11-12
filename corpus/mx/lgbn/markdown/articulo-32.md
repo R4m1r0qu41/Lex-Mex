@@ -31,7 +31,9 @@ V.- Constituirse como coordinador de las unidades administrativas de las depende
 
 VI.- Coadyuvar con la Secretaría en la inspección y vigilancia de los inmuebles destinados, así como realizar estas acciones en el caso de los que son propiedad de las entidades;
 
-VII.- Dar aviso en forma inmediata a la Secretaría de cualquier hecho o acto jurídico que se realice con violación a esta Ley, respecto de los inmuebles destinados; VIII.- Comunicar a la Secretaría los casos en que se utilicen inmuebles federales sin que medie acuerdo de destino;
+VII.- Dar aviso en forma inmediata a la Secretaría de cualquier hecho o acto jurídico que se realice con violación a esta Ley, respecto de los inmuebles destinados;
+
+VIII.- Comunicar a la Secretaría los casos en que se utilicen inmuebles federales sin que medie acuerdo de destino;
 
 IX.- Presentar denuncias de carácter penal por ocupaciones ilegales de los inmuebles federales, debiendo avisar a la Secretaría de las gestiones realizadas;
 

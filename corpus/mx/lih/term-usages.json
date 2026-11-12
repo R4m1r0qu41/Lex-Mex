@@ -37,66 +37,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:220-228",
+    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:221-229",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:2",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 220,
-    "end_char": 228
+    "start_char": 221,
+    "end_char": 229
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:234-252",
+    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:235-253",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:2",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contraprestacion",
     "span": "Contraprestaciones",
-    "start_char": 234,
-    "end_char": 252
+    "start_char": 235,
+    "end_char": 253
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:293-301",
+    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:294-302",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:2",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 293,
-    "end_char": 301
+    "start_char": 294,
+    "end_char": 302
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:555-563",
+    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:556-564",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:2",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 555,
-    "end_char": 563
+    "start_char": 556,
+    "end_char": 564
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:755-769",
+    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:756-770",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:2",
     "term_id": "urn:lex-mx:federal:statute:lih:term:area-unificada",
     "span": "Área Unificada",
-    "start_char": 755,
-    "end_char": 769
+    "start_char": 756,
+    "end_char": 770
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:1005-1032",
+    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:1006-1033",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:2",
     "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 1005,
-    "end_char": 1032
+    "start_char": 1006,
+    "end_char": 1033
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:1078-1086",
+    "id": "urn:lex-mx:federal:statute:lih:article:2:term-usage:1079-1087",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:2",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 1078,
-    "end_char": 1086
+    "start_char": 1079,
+    "end_char": 1087
   },
   {
     "schema_version": "0.1.0",
@@ -127,516 +127,516 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:1758-1774",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:1759-1775",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contraprestacion",
     "span": "Contraprestación",
-    "start_char": 1758,
-    "end_char": 1774
+    "start_char": 1759,
+    "end_char": 1775
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2006-2042",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2007-2043",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:porcentaje-de-recuperacion-de-costos",
     "span": "Porcentaje de Recuperación de Costos",
-    "start_char": 2006,
-    "end_char": 2042
+    "start_char": 2007,
+    "end_char": 2043
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2050-2088",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2051-2089",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:valor-contractual-de-los-hidrocarburos",
     "span": "Valor Contractual de los Hidrocarburos",
-    "start_char": 2050,
-    "end_char": 2088
+    "start_char": 2051,
+    "end_char": 2089
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2163-2201",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2164-2202",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:valor-contractual-de-los-hidrocarburos",
     "span": "Valor Contractual de los Hidrocarburos",
-    "start_char": 2163,
-    "end_char": 2201
+    "start_char": 2164,
+    "end_char": 2202
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2231-2238",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2232-2239",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 2231,
-    "end_char": 2238
+    "start_char": 2232,
+    "end_char": 2239
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2318-2328",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2319-2329",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2318,
-    "end_char": 2328
+    "start_char": 2319,
+    "end_char": 2329
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2337-2345",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2338-2346",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 2337,
-    "end_char": 2345
+    "start_char": 2338,
+    "end_char": 2346
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2362-2380",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2363-2381",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contraprestacion",
     "span": "Contraprestaciones",
-    "start_char": 2362,
-    "end_char": 2380
+    "start_char": 2363,
+    "end_char": 2381
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2473-2491",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2474-2492",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contraprestacion",
     "span": "Contraprestaciones",
-    "start_char": 2473,
-    "end_char": 2491
+    "start_char": 2474,
+    "end_char": 2492
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2496-2504",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2497-2505",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 2496,
-    "end_char": 2504
+    "start_char": 2497,
+    "end_char": 2505
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2662-2670",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2663-2671",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 2662,
-    "end_char": 2670
+    "start_char": 2663,
+    "end_char": 2671
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2895-2903",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2896-2904",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 2895,
-    "end_char": 2903
+    "start_char": 2896,
+    "end_char": 2904
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2906-2920",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:2907-2921",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:area-unificada",
     "span": "Área Unificada",
-    "start_char": 2906,
-    "end_char": 2920
+    "start_char": 2907,
+    "end_char": 2921
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3020-3030",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3021-3031",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3020,
-    "end_char": 3030
+    "start_char": 3021,
+    "end_char": 3031
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3134-3142",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3135-3143",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 3134,
-    "end_char": 3142
+    "start_char": 3135,
+    "end_char": 3143
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3154-3162",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3155-3163",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 3154,
-    "end_char": 3162
+    "start_char": 3155,
+    "end_char": 3163
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3267-3278",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3268-3279",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:condensados",
     "span": "Condensados",
-    "start_char": 3267,
-    "end_char": 3278
+    "start_char": 3268,
+    "end_char": 3279
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3362-3368",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3363-3369",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:barril",
     "span": "Barril",
-    "start_char": 3362,
-    "end_char": 3368
+    "start_char": 3363,
+    "end_char": 3369
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3392-3399",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3393-3400",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 3392,
-    "end_char": 3399
+    "start_char": 3393,
+    "end_char": 3400
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3406-3423",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3407-3424",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:punto-de-medicion",
     "span": "Punto de Medición",
-    "start_char": 3406,
-    "end_char": 3423
+    "start_char": 3407,
+    "end_char": 3424
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3528-3536",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3529-3537",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 3528,
-    "end_char": 3536
+    "start_char": 3529,
+    "end_char": 3537
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3698-3701",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3699-3702",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:btu",
     "span": "BTU",
-    "start_char": 3698,
-    "end_char": 3701
+    "start_char": 3699,
+    "end_char": 3702
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3725-3732",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3726-3733",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 3725,
-    "end_char": 3732
+    "start_char": 3726,
+    "end_char": 3733
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3739-3756",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3740-3757",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:punto-de-medicion",
     "span": "Punto de Medición",
-    "start_char": 3739,
-    "end_char": 3756
+    "start_char": 3740,
+    "end_char": 3757
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3861-3869",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:3862-3870",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 3861,
-    "end_char": 3869
+    "start_char": 3862,
+    "end_char": 3870
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4014-4020",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4015-4021",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:barril",
     "span": "Barril",
-    "start_char": 4014,
-    "end_char": 4020
+    "start_char": 4015,
+    "end_char": 4021
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4044-4051",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4045-4052",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 4044,
-    "end_char": 4051
+    "start_char": 4045,
+    "end_char": 4052
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4058-4075",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4059-4076",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:punto-de-medicion",
     "span": "Punto de Medición",
-    "start_char": 4058,
-    "end_char": 4075
+    "start_char": 4059,
+    "end_char": 4076
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4180-4188",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4181-4189",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 4180,
-    "end_char": 4188
+    "start_char": 4181,
+    "end_char": 4189
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4358-4375",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4359-4376",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:punto-de-medicion",
     "span": "Punto de Medición",
-    "start_char": 4358,
-    "end_char": 4375
+    "start_char": 4359,
+    "end_char": 4376
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4383-4390",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4384-4391",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 4383,
-    "end_char": 4390
+    "start_char": 4384,
+    "end_char": 4391
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4528-4536",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4529-4537",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 4528,
-    "end_char": 4536
+    "start_char": 4529,
+    "end_char": 4537
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4634-4642",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4635-4643",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 4634,
-    "end_char": 4642
+    "start_char": 4635,
+    "end_char": 4643
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4988-5021",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:4989-5022",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:valor-contractual-del-gas-natural",
     "span": "Valor Contractual del Gas Natural",
-    "start_char": 4988,
-    "end_char": 5021
+    "start_char": 4989,
+    "end_char": 5022
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5027-5063",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5028-5064",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:valor-contractual-de-los-condensados",
     "span": "Valor Contractual de los Condensados",
-    "start_char": 5027,
-    "end_char": 5063
+    "start_char": 5028,
+    "end_char": 5064
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5070-5100",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5071-5101",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:valor-contractual-del-petroleo",
     "span": "Valor Contractual del Petróleo",
-    "start_char": 5070,
-    "end_char": 5100
+    "start_char": 5071,
+    "end_char": 5101
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5273-5311",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5274-5312",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:valor-contractual-de-los-hidrocarburos",
     "span": "Valor Contractual de los Hidrocarburos",
-    "start_char": 5273,
-    "end_char": 5311
+    "start_char": 5274,
+    "end_char": 5312
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5387-5395",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5388-5396",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 5387,
-    "end_char": 5395
+    "start_char": 5388,
+    "end_char": 5396
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5446-5453",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5447-5454",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 5446,
-    "end_char": 5453
+    "start_char": 5447,
+    "end_char": 5454
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5537-5544",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5538-5545",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 5537,
-    "end_char": 5544
+    "start_char": 5538,
+    "end_char": 5545
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5568-5605",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5569-5606",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:precio-contractual-de-los-condensados",
     "span": "Precio Contractual de los Condensados",
-    "start_char": 5568,
-    "end_char": 5605
+    "start_char": 5569,
+    "end_char": 5606
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5647-5655",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5648-5656",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:barril",
     "span": "Barriles",
-    "start_char": 5647,
-    "end_char": 5655
+    "start_char": 5648,
+    "end_char": 5656
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5671-5685",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5672-5686",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:condicion-base",
     "span": "Condición Base",
-    "start_char": 5671,
-    "end_char": 5685
+    "start_char": 5672,
+    "end_char": 5686
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5693-5710",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5694-5711",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:punto-de-medicion",
     "span": "Punto de Medición",
-    "start_char": 5693,
-    "end_char": 5710
+    "start_char": 5694,
+    "end_char": 5711
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5826-5856",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5827-5857",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:valor-contractual-del-petroleo",
     "span": "Valor Contractual del Petróleo",
-    "start_char": 5826,
-    "end_char": 5856
+    "start_char": 5827,
+    "end_char": 5857
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5861-5894",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5862-5895",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:valor-contractual-del-gas-natural",
     "span": "Valor Contractual del Gas Natural",
-    "start_char": 5861,
-    "end_char": 5894
+    "start_char": 5862,
+    "end_char": 5895
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5900-5936",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:5901-5937",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:valor-contractual-de-los-condensados",
     "span": "Valor Contractual de los Condensados",
-    "start_char": 5900,
-    "end_char": 5936
+    "start_char": 5901,
+    "end_char": 5937
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6019-6026",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6020-6027",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 6019,
-    "end_char": 6026
+    "start_char": 6020,
+    "end_char": 6027
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6050-6084",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6051-6085",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:precio-contractual-del-gas-natural",
     "span": "Precio Contractual del Gas Natural",
-    "start_char": 6050,
-    "end_char": 6084
+    "start_char": 6051,
+    "end_char": 6085
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6120-6123",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6121-6124",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:btu",
     "span": "BTU",
-    "start_char": 6120,
-    "end_char": 6123
+    "start_char": 6121,
+    "end_char": 6124
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6154-6168",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6155-6169",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:condicion-base",
     "span": "Condición Base",
-    "start_char": 6154,
-    "end_char": 6168
+    "start_char": 6155,
+    "end_char": 6169
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6176-6193",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6177-6194",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:punto-de-medicion",
     "span": "Punto de Medición",
-    "start_char": 6176,
-    "end_char": 6193
+    "start_char": 6177,
+    "end_char": 6194
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6329-6336",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6330-6337",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 6329,
-    "end_char": 6336
+    "start_char": 6330,
+    "end_char": 6337
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6360-6391",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6361-6392",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:precio-contractual-del-petroleo",
     "span": "Precio Contractual del Petróleo",
-    "start_char": 6360,
-    "end_char": 6391
+    "start_char": 6361,
+    "end_char": 6392
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6426-6434",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6427-6435",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:barril",
     "span": "Barriles",
-    "start_char": 6426,
-    "end_char": 6434
+    "start_char": 6427,
+    "end_char": 6435
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6450-6464",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6451-6465",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:condicion-base",
     "span": "Condición Base",
-    "start_char": 6450,
-    "end_char": 6464
+    "start_char": 6451,
+    "end_char": 6465
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6472-6489",
+    "id": "urn:lex-mx:federal:statute:lih:article:3:term-usage:6473-6490",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "term_id": "urn:lex-mx:federal:statute:lih:term:punto-de-medicion",
     "span": "Punto de Medición",
-    "start_char": 6472,
-    "end_char": 6489
+    "start_char": 6473,
+    "end_char": 6490
   },
   {
     "schema_version": "0.1.0",
@@ -2332,102 +2332,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:759-768",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:760-769",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contratos",
-    "start_char": 759,
-    "end_char": 768
+    "start_char": 760,
+    "end_char": 769
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:936-946",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:937-947",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
     "span": "Secretaría",
-    "start_char": 936,
-    "end_char": 946
+    "start_char": 937,
+    "end_char": 947
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1193-1202",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1194-1203",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contratos",
-    "start_char": 1193,
-    "end_char": 1202
+    "start_char": 1194,
+    "end_char": 1203
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1600-1608",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1601-1609",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 1600,
-    "end_char": 1608
+    "start_char": 1601,
+    "end_char": 1609
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1682-1690",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1683-1691",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 1682,
-    "end_char": 1690
+    "start_char": 1683,
+    "end_char": 1691
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1996-2006",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:1997-2007",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1996,
-    "end_char": 2006
+    "start_char": 1997,
+    "end_char": 2007
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2166-2174",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2167-2175",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 2166,
-    "end_char": 2174
+    "start_char": 2167,
+    "end_char": 2175
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2325-2333",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2326-2334",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 2325,
-    "end_char": 2333
+    "start_char": 2326,
+    "end_char": 2334
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2396-2423",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2397-2424",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 2396,
-    "end_char": 2423
+    "start_char": 2397,
+    "end_char": 2424
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2459-2469",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2460-2470",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2459,
-    "end_char": 2469
+    "start_char": 2460,
+    "end_char": 2470
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2563-2571",
+    "id": "urn:lex-mx:federal:statute:lih:article:28:term-usage:2564-2572",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:28",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 2563,
-    "end_char": 2571
+    "start_char": 2564,
+    "end_char": 2572
   },
   {
     "schema_version": "0.1.0",
@@ -2638,57 +2638,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4459-4466",
+    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4460-4467",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:32",
     "term_id": "urn:lex-mx:federal:statute:lih:term:periodo",
     "span": "Periodo",
-    "start_char": 4459,
-    "end_char": 4466
+    "start_char": 4460,
+    "end_char": 4467
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4637-4655",
+    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4638-4656",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:32",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contraprestacion",
     "span": "Contraprestaciones",
-    "start_char": 4637,
-    "end_char": 4655
+    "start_char": 4638,
+    "end_char": 4656
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4674-4682",
+    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4675-4683",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:32",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 4674,
-    "end_char": 4682
+    "start_char": 4675,
+    "end_char": 4683
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4724-4742",
+    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4725-4743",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:32",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contraprestacion",
     "span": "Contraprestaciones",
-    "start_char": 4724,
-    "end_char": 4742
+    "start_char": 4725,
+    "end_char": 4743
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4945-4963",
+    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:4946-4964",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:32",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contraprestacion",
     "span": "Contraprestaciones",
-    "start_char": 4945,
-    "end_char": 4963
+    "start_char": 4946,
+    "end_char": 4964
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:5089-5107",
+    "id": "urn:lex-mx:federal:statute:lih:article:32:term-usage:5090-5108",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:32",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contraprestacion",
     "span": "Contraprestaciones",
-    "start_char": 5089,
-    "end_char": 5107
+    "start_char": 5090,
+    "end_char": 5108
   },
   {
     "schema_version": "0.1.0",

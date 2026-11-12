@@ -39,7 +39,9 @@ V. Supervisar que se realicen las gestiones necesarias ante la [Secretaría Gene
 
 VI. Proponer y, en su caso, implementar acciones para brindar seguridad al tránsito de las personas, bienes y servicios en las instalaciones, eventos, comunidades, rutas, regiones o zonas en las que estén desplegados sus Integrantes, en coordinación con las instancias competentes;
 
-VII. Participar, en coordinación con la División de Inteligencia, en la elaboración de métodos de inteligencia que permitan generar estrategias para la prevención e investigación de los delitos; VIII. Proponer al Comisionado General los protocolos de operación que permitan el desarrollo de sus atribuciones en comunidades indígenas, poblaciones de alta marginación social, personas en situación vulnerable, turistas, migrantes y extranjeros, con respeto a sus derechos humanos, y
+VII. Participar, en coordinación con la División de Inteligencia, en la elaboración de métodos de inteligencia que permitan generar estrategias para la prevención e investigación de los delitos;
+
+VIII. Proponer al Comisionado General los protocolos de operación que permitan el desarrollo de sus atribuciones en comunidades indígenas, poblaciones de alta marginación social, personas en situación vulnerable, turistas, migrantes y extranjeros, con respeto a sus derechos humanos, y
 
 IX. Participar en auxilio a la población en acciones de protección civil en coordinación con las autoridades competentes.
 

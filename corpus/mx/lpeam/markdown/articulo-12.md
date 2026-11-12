@@ -33,7 +33,9 @@ III. La Secretaría de Infraestructura, Comunicaciones y Transportes:
 
 a) La Agencia Federal de Aviación Civil, y
 
-b) Los Servicios a la Navegación en el [Espacio Aéreo Mexicano](articulo-5.md). IV. La Secretaría de Seguridad y Protección Ciudadana:
+b) Los Servicios a la Navegación en el [Espacio Aéreo Mexicano](articulo-5.md).
+
+IV. La Secretaría de Seguridad y Protección Ciudadana:
 
 a) La Guardia Nacional, y
 

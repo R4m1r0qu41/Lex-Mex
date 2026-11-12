@@ -177,3 +177,68 @@ the 364 non-passing provisions and build the L1 linker validator below.
   (multi-article lists, "de este artículo", a later "del artículo 54 de la Constitución"): the
   linker attribution defect to repair next. 58 are an audit limit (CNBV amendment mark before the
   fraction marker, all `cue-dcg-2003`); about 191 are fractions missing or merged in the target.
+- 2026-11-12: committed `415302e69` on branch `upgrade/four-goal-2026-11-12`. Operator decisions
+  recorded in `docs/decisions.md` (2026-11-12): D-3 wording rejected in favour of a plain
+  "same words, same order" statement; simple in-force status; vault export and corpus-wide
+  reparse authorized. F3 (`monitor-sources`) delegated. Search-engine registration steps written
+  to the operator's Google Workspace folder.
+
+## Handoff checkpoint 2026-11-12 (session paused at a rate limit; resume from here)
+
+Branch `upgrade/four-goal-2026-11-12`, head `415302e69`. **Uncommitted in the worktree:**
+
+- **F3 built:** `lex-mex monitor-sources` (`crates/lex-cli/src/source_monitor.rs`, wiring in
+  `main.rs`, `schemas/source-monitor-report-v1.schema.json`, `fixtures/monitor/`, README section).
+  Its own tests passed (18); the full gate below includes it.
+- **Reparse adopted for 289 instruments** (8,141 corpus files changed): 2,400+ provisions gain
+  paragraph breaks (about 3,300 breaks), 33 defined terms recovered, none lost; 51 instruments
+  also gain deterministic in-force determinations (4,486 provisions `unknown` to `effective`);
+  LRITF loses the three leaked section headings (arts. 118, 122, 129, confirmed by the operator).
+  No audited or lawyer-verified state changed in any instrument. 28 instruments were unchanged.
+- **36 held, not adopted** (list: scratchpad `hold.txt`, reproduced here): ccf ccom cff cjm cnpp
+  cucb-dcg-2004 cue-dcg-2003 laassp lacp ladua lbm lcnbv lfda lfea lfpccs lfvv lgcs lgdnna lgmime
+  lgoaac lic linfonavit lnmasc-penal lnsijpa log lpcinecdi lrsic lsar ltpcpimcp oaac-dcg-2009
+  reg-csps reg-lagra-mcdets reg-lfce reg-lftr-mcsre rgic scap-dcg-2012. Most only drop non-legal
+  text (signature blocks, headings, running titles, amendment marks) and look like improvements;
+  `cjm` gains 2 article ids, `scap-dcg-2012` gains one validation issue, `lic`, `lfpccs`, `lfvv`
+  are refused by guards (approved reference, reviewed glossary). `ladua`, `log`, `reg-lftr-mcsre`
+  are probably clean (held on a warning line, text unchanged in the flagged article).
+- `docs/decisions.md` entry 2026-11-12 and this plan.
+
+**In flight when paused:** a `mech` gate over the adopted corpus (fmt, clippy, workspace tests,
+both validators, `verify-fidelity --all`, `audit-qualifiers --all`, and `link --all` in scratch
+copy `root3`). Its result was not received. **Do not commit the corpus until that gate is re-run
+and passes.**
+
+Method used for the reparse (repeatable): clone `adapters corpus schemas prompts batches` to a
+scratch root with `.work` symlinked, run `parse`, `derive-temporal`, `validate`,
+`export --format markdown` per instrument with `--root`, compare before/after (ids, tokens,
+temporal fields, audited state, validation issues), copy accepted instrument folders back.
+
+**Source monitor run 2026-11-12 (`.work/source-monitor-report.json`):** 465 of 468 unchanged;
+changed at source: `cpeum`, `cub-dcg-2005`, `socap-sofipo-dcg-2006` (new files under
+`.work/monitor/`). The 113 missing retained PDFs were restored (hash-matching) but have no
+extracted text yet, so they are not reparsed or fidelity-checked. Index entries not in corpus:
+15 (13 abrogated per the index, EGDF, and `lfiiedb`, which the corpus holds from its DOF URL).
+No "Ley de Economía Digital" in the Cámara index.
+
+**Obsidian vault:** partial. 262 new folders written; 206 older folders not refreshed because
+their generated files are read-only (exporter gets "Permission denied"). Proposed: make
+`Corpus/` writable, export all 468 from the reparsed corpus, restore read-only. Awaiting the
+operator's word on touching those permissions. `Inicio.md` still lists 203 instruments.
+
+**Next actions, in order:** (1) re-run the gate, then commit monitor code and the adopted corpus
+as separate commits; (2) review and adopt the held 36; (3) extract and reparse the 113 restored
+instruments; (4) re-ingest the 3 changed sources; (5) finish the vault export; (6) repair the
+linker qualifier attribution (204 cases); (7) operator: in-force rule cases (`lftr`, `reg-lfmn`,
+"(Se deroga)" provisions), scheduling `monitor-sources --all --discover --strict` daily.
+
+**Gate result received 2026-11-12 (supersedes "result was not received" above):** over the
+adopted corpus, fmt, strict clippy, 508 workspace tests, `validate lritf` (127 references) and
+`validate ifpe-dcg-2021` pass. `verify-fidelity --all` totals are unchanged (52,652 of 53,016
+pass), as expected for whitespace-only changes. `audit-qualifiers --all`: cited fractions at a
+paragraph start 9,451 to 9,618, merged mid-paragraph 887 to 752, absent 700. `link --all` in
+scratch copy `root3` exits 0 with exactly the two accepted gaps (`lftr`,
+`socap-sofipo-dcg-2006`); it would relink `larefam` (46 references, three files), which is not
+applied to the repository. The corpus and monitor code are ready to commit on the operator's word.
+

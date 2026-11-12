@@ -17,7 +17,9 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 # Artículo 113
 
-Las autorizaciones como agente naviero se revocarán por cualquiera de las causas siguientes: I. No cumplir con el objeto, obligaciones o condiciones de la autorización, en los términos y plazos establecidos;
+Las autorizaciones como agente naviero se revocarán por cualquiera de las causas siguientes:
+
+I. No cumplir con el objeto, obligaciones o condiciones de la autorización, en los términos y plazos establecidos;
 
 II. No ejercer los derechos conferidos en la autorización, durante un lapso mayor a seis meses;
 

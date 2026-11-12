@@ -17,7 +17,9 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 27
 
-Las especificaciones de identidad de los productos para fines sanitarios, deberán contener lo siguiente: I.- Denominación genérica y específica;
+Las especificaciones de identidad de los productos para fines sanitarios, deberán contener lo siguiente:
+
+I.- Denominación genérica y específica;
 
 II.- Descripción del producto;
 

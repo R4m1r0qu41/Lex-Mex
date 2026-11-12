@@ -29,7 +29,9 @@ III. Favorezcan, a sabiendas, a un determinado accionista o grupo de accionistas
 
 IV. Aprueben los actos que celebren la Sociedad Controladora o las entidades financieras o Subcontroladoras, con [Personas Relacionadas](articulo-5o.md), sin ajustarse o dar cumplimiento a los requisitos que esta Ley establece.
 
-V. Aprovechen para sí o aprueben en favor de terceros, el uso o goce de los bienes que formen parte del patrimonio de la Sociedad Controladora o entidades financieras o Subcontroladoras, en contravención de las políticas aprobadas por el consejo de administración. VI. Hagan uso indebido de información que no sea del conocimiento público, relativa a la Sociedad Controladora o entidades financieras o Subcontroladoras.
+V. Aprovechen para sí o aprueben en favor de terceros, el uso o goce de los bienes que formen parte del patrimonio de la Sociedad Controladora o entidades financieras o Subcontroladoras, en contravención de las políticas aprobadas por el consejo de administración.
+
+VI. Hagan uso indebido de información que no sea del conocimiento público, relativa a la Sociedad Controladora o entidades financieras o Subcontroladoras.
 
 VII. Aprovechen o exploten, en beneficio propio o en favor de terceros, sin la dispensa del consejo de administración, oportunidades de negocio que correspondan a la Sociedad Controladora, entidades financieras o Subcontroladoras.
 

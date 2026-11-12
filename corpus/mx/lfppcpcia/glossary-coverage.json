@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lfppcpcia:article:3",
-      "provision_text_sha256": "241514015dde4f344d7603c33aca0bef99c27c2feed0a8cd9f917063c47a037a",
+      "provision_text_sha256": "d86b2c082a2639917d4435ba8ada071db89c6b2ce0f255f5ddcaf23a11b6642f",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -16,6 +16,7 @@
         "III",
         "IV",
         "V",
+        "VI",
         "VII",
         "VIII",
         "IX",
@@ -26,13 +27,14 @@
         "XIV",
         "XV",
         "XVI",
-        "XVII"
+        "XVII",
+        "XVIII"
       ],
       "unread_fractions": [],
-      "term_count": 16
+      "term_count": 18
     }
   ],
   "imports": [],
-  "term_count": 16,
+  "term_count": 18,
   "usage_count": 74
 }

@@ -19,7 +19,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 El [SIEM](articulo-2.md) es un instrumento del [Estado](articulo-2.md) mexicano con el propósito de captar, integrar, procesar y suministrar información oportuna y confiable sobre las características y ubicación de los establecimientos de comercio, servicios, turismo e industria en el país, que permita un mejor desempeño y promoción de las actividades empresariales.
 
-La inscripción y registro para el SIEM en la Cámara que corresponda será obligatorio para las empresas, y no obligará al pago de cuota alguna de afiliación, más sí al pago de registro según lo dispuesto en este título. Los ingresos por este concepto se destinarán preferentemente a la mejoría y desarrollo tecnológico del SIEM.
+La inscripción y registro para el SIEM en la [Cámara](articulo-2.md) que corresponda será obligatorio para las empresas, y no obligará al pago de cuota alguna de afiliación, más sí al pago de registro según lo dispuesto en este título. Los ingresos por este concepto se destinarán preferentemente a la mejoría y desarrollo tecnológico del SIEM.
 
 La información del SIEM tiene como propósito apoyar las actividades de:
 

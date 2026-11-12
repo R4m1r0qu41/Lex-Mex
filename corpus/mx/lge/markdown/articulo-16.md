@@ -37,4 +37,6 @@ VII. Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancia
 
 VIII. Será intercultural, al promover la convivencia armónica entre personas y comunidades sobre la base del respeto a sus diferentes concepciones, opiniones, tradiciones, costumbres y modos de vida y del reconocimiento de sus derechos, en un marco de inclusión social;
 
-IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social, y X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.
+IX. Será integral porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social, y
+
+X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad.

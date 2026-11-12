@@ -7,8 +7,8 @@ provision_type: article
 number: "118"
 aliases: ["LGV — Artículo 118"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 118
 
-Corresponde a las entidades federativas, de conformidad con lo dispuesto por esta Ley y los ordenamientos locales aplicables en la materia:
+Corresponde a las entidades federativas, de conformidad con lo dispuesto por esta [Ley](articulo-6.md) y los ordenamientos locales aplicables en la materia:
 
 I. Instrumentar y articular sus políticas públicas en concordancia con la política nacional integral, para la adecuada atención y protección a las víctimas;
 

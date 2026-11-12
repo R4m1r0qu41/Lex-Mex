@@ -37,7 +37,9 @@ VIII. El periodo de vigencia;
 
 IX. Las obligaciones a su cargo que deberá garantizar, así como la forma y términos en que el [Administrador Integral](articulo-4.md) deberá constituir las garantías correspondientes;
 
-X. Las pólizas de seguros y coberturas que deberá contratar el Administrador Integral para hacer frente a posibles riesgos o daños, en particular, aquellas relacionadas con el aseguramiento de obras e instalaciones, y las pólizas de responsabilidad civil respectivas; XI. Las causas de terminación del Permiso e intervención de la operación o administración de la Zona;
+X. Las pólizas de seguros y coberturas que deberá contratar el Administrador Integral para hacer frente a posibles riesgos o daños, en particular, aquellas relacionadas con el aseguramiento de obras e instalaciones, y las pólizas de responsabilidad civil respectivas;
+
+XI. Las causas de terminación del Permiso e intervención de la operación o administración de la Zona;
 
 XII. El resultado del estudio de impacto social de la [Evaluación Estratégica](articulo-4.md);
 

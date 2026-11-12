@@ -31,7 +31,9 @@ V. Contemplar en el desarrollo del operativo el uso progresivo y diferenciado de
 
 VI. Contar con un plan de desplazamiento de los agentes en la zona del operativo;
 
-VII. Antes del operativo, pasar revista de agentes, equipo, armamento, cartuchos y vehículos, misma que deberá constar por escrito; VIII. Asegurar que el mando operativo mantenga una constante comunicación con sus superiores para la toma de decisiones durante la realización del operativo, incluida la posible negociación con las personas que ejercen la resistencia;
+VII. Antes del operativo, pasar revista de agentes, equipo, armamento, cartuchos y vehículos, misma que deberá constar por escrito;
+
+VIII. Asegurar que el mando operativo mantenga una constante comunicación con sus superiores para la toma de decisiones durante la realización del operativo, incluida la posible negociación con las personas que ejercen la resistencia;
 
 IX. Evaluar los factores de riesgo para planear la estrategia adecuada;
 

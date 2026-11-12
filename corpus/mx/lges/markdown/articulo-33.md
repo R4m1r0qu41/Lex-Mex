@@ -27,7 +27,9 @@ II. Fomentar que las escuelas normales y las instituciones de formación docente
 
 III. Impulsar la creación y fortalecimiento de programas de experimentación pedagógica en las escuelas normales y en instituciones de formación docente, con la finalidad de integrar la teoría con la práctica continua de la función docente e impulsar la innovación;
 
-IV. Fomentar la creación de colectivos académicos e impulsar acciones para la mejora continua de los planes y programas, así como de las funciones académicas en los programas de formación y extensión; V. Promover la libertad académica y la actualización periódica de planes y programas, y
+IV. Fomentar la creación de colectivos académicos e impulsar acciones para la mejora continua de los planes y programas, así como de las funciones académicas en los programas de formación y extensión;
+
+V. Promover la libertad académica y la actualización periódica de planes y programas, y
 
 VI. Impulsar la creación y el fortalecimiento de programas de posgrado y de actualización permanente, así como programas de formación y desarrollo profesional para el personal académico.
 

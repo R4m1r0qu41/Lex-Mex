@@ -40,7 +40,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
     "fraction": "IV",
     "start_char": 564,
-    "end_char": 939,
+    "end_char": 792,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcec:term:camaras",
+    "term": "Cámaras",
+    "instrument_id": "urn:lex-mx:federal:statute:lcec",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
+    "fraction": "V",
+    "start_char": 792,
+    "end_char": 940,
     "basis": "express_definition"
   },
   {
@@ -50,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcec",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
     "fraction": "VI",
-    "start_char": 939,
-    "end_char": 1105,
+    "start_char": 940,
+    "end_char": 1106,
     "basis": "express_definition"
   },
   {
@@ -61,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcec",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
     "fraction": "VII",
-    "start_char": 1105,
-    "end_char": 1185,
+    "start_char": 1106,
+    "end_char": 1186,
     "basis": "express_definition"
   },
   {
@@ -72,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcec",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
     "fraction": "VIII",
-    "start_char": 1185,
-    "end_char": 1462,
+    "start_char": 1186,
+    "end_char": 1463,
     "basis": "express_definition"
   },
   {
@@ -83,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcec",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
     "fraction": "IX",
-    "start_char": 1462,
-    "end_char": 1553,
+    "start_char": 1463,
+    "end_char": 1554,
     "basis": "express_definition"
   },
   {
@@ -94,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcec",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
     "fraction": "X",
-    "start_char": 1553,
-    "end_char": 1706,
+    "start_char": 1554,
+    "end_char": 1707,
     "basis": "express_definition"
   },
   {
@@ -105,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcec",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
     "fraction": "XI",
-    "start_char": 1706,
-    "end_char": 1762,
+    "start_char": 1707,
+    "end_char": 1763,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcec",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
     "fraction": "XII",
-    "start_char": 1762,
-    "end_char": 1899,
+    "start_char": 1763,
+    "end_char": 1900,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lcec",
     "defining_provision_id": "urn:lex-mx:federal:statute:lcec:article:2",
     "fraction": "XIII",
-    "start_char": 1899,
-    "end_char": 2023,
+    "start_char": 1900,
+    "end_char": 2024,
     "basis": "express_definition"
   }
 ]

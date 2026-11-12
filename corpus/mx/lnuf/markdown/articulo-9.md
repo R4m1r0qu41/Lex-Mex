@@ -17,7 +17,9 @@ source_sha256: 0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c
 
 # Artículo 9
 
-Los mecanismos de reacción en el uso de la fuerza son: I. Controles cooperativos: indicaciones verbales, advertencias o señalización;
+Los mecanismos de reacción en el uso de la fuerza son:
+
+I. Controles cooperativos: indicaciones verbales, advertencias o señalización;
 
 II. Control mediante contacto: su límite superior es la intervención momentánea en funciones motrices;
 

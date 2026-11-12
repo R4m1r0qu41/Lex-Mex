@@ -25,6 +25,6 @@ II. El registro de las empresas de nueva creación deberá hacerse dentro de los
 
 III. Dentro del primer bimestre de cada año posterior al registro, deberá renovarse y en su caso realizarse una actualización al mismo, que tendrá como costo nominal el que apruebe la Secretaría de acuerdo con los costos de operación;
 
-IV. El registro se llevará a cabo en la Cámara correspondiente a la región o giro del [Comerciante](articulo-2.md) e [Industrial](articulo-2.md), y
+IV. El registro se llevará a cabo en la [Cámara](articulo-2.md) correspondiente a la región o giro del [Comerciante](articulo-2.md) e [Industrial](articulo-2.md), y
 
 V. Cuando una empresa cese parcial o totalmente en sus actividades o cambie su giro o su domicilio, deberá manifestarlo así al SIEM, en un plazo de dos meses contados a partir de la fecha en que estos hechos se produzcan y en la misma Cámara en que se registró inicialmente.

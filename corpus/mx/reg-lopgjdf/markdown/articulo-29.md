@@ -43,7 +43,9 @@ XI. Implementar un sistema de control de actividades y estrategias realizadas pa
 
 XII. Planear, coordinar y dirigir la operación de un Grupo Especial de agentes de la Policía de Investigación, destinados a la reacción e intervención inmediata para atender situaciones de emergencia o de gravedad, de conformidad con las instrucciones que emita el Procurador;
 
-XIII. Coordinar el servicio de seguridad a las personas, prestado por los agentes de la Policía de Investigación, en los términos de las instrucciones que al efecto emita el Procurador; XIV. Vigilar que se atiendan de inmediato las llamadas de emergencia de la comunidad y de denuncia anónima, con un número único de atención a la ciudadanía, de conformidad con lo establecido en el artículo [111](../../lgsnsp/markdown/articulo-111.md) de la Ley General del Sistema Nacional de Seguridad Pública;
+XIII. Coordinar el servicio de seguridad a las personas, prestado por los agentes de la Policía de Investigación, en los términos de las instrucciones que al efecto emita el Procurador;
+
+XIV. Vigilar que se atiendan de inmediato las llamadas de emergencia de la comunidad y de denuncia anónima, con un número único de atención a la ciudadanía, de conformidad con lo establecido en el artículo [111](../../lgsnsp/markdown/articulo-111.md) de la Ley General del Sistema Nacional de Seguridad Pública;
 
 XV. Llevar el control de radio de la guardia de agentes y del personal de la Policía de Investigación en cuanto a los servicios que presta, así como canalizar a las instancias pertinentes la información respectiva;
 
@@ -67,6 +69,8 @@ XXIV. Promover la asistencia psico-emocional para los agentes de la Policía de 
 
 XXV. Coordinar con la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos del Jefe General, así como la presentación de las promociones y los recursos que deban interponerse;
 
-XXVI. Proponer al Consejo para la Policía de Investigación, los proyectos normativos que regulen la actuación de los Agentes de la Policía de Investigación tanto de aquellos que estuvieren adscritos a esta Jefatura General como de aquellos que estuvieren adscritos a las distintas Fiscalías Centrales y Desconcentradas; XXVII. Atender los requerimientos o peticiones de información, dirigidos a la Oficina de Información Pública de la dependencia, en coordinación con la Dirección General de Política y Estadística Criminal de acuerdo a los lineamientos que se establezcan y de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad aplicable, y
+XXVI. Proponer al Consejo para la Policía de Investigación, los proyectos normativos que regulen la actuación de los Agentes de la Policía de Investigación tanto de aquellos que estuvieren adscritos a esta Jefatura General como de aquellos que estuvieren adscritos a las distintas Fiscalías Centrales y Desconcentradas;
+
+XXVII. Atender los requerimientos o peticiones de información, dirigidos a la Oficina de Información Pública de la dependencia, en coordinación con la Dirección General de Política y Estadística Criminal de acuerdo a los lineamientos que se establezcan y de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y demás normatividad aplicable, y
 
 XXVIII. Las demás que de manera directa le asigne el Procurador.

@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 14
 
-Los requisitos que debe satisfacer el grupo promotor en su solicitud a la [Confederación](articulo-2.md) para constituir una Cámara de Industria son los siguientes:
+Los requisitos que debe satisfacer el grupo promotor en su solicitud a la [Confederación](articulo-2.md) para constituir una [Cámara](articulo-2.md) de Industria son los siguientes:
 
 I. Para constituir una Cámara de Industria específica nacional.
 

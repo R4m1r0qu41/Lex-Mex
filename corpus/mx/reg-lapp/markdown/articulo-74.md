@@ -27,4 +27,6 @@ III. Los programas de gasto, inversión y, en su caso, de otras erogaciones del 
 
 IV. La oferta económica propiamente dicha;
 
-V. La mención expresa de que la oferta se presenta en firme, obliga a quien la hace y no será objeto de negociación, y VI. Todos los demás elementos señalados en las bases.
+V. La mención expresa de que la oferta se presenta en firme, obliga a quien la hace y no será objeto de negociación, y
+
+VI. Todos los demás elementos señalados en las bases.

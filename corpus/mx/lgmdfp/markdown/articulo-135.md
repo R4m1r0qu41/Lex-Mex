@@ -21,7 +21,9 @@ La elaboración del Programa Nacional de Exhumaciones e Identificación Forense,
 
 I. Diagnóstico, línea de base e información metodológica sobre la elaboración del programa;
 
-II. El proceso y metodologías multidisciplinarias para la revisión sistemática y exhaustiva, por parte de las autoridades competentes, de averiguaciones previas, carpetas de investigación y otros documentos oficiales que contengan información sobre las personas fallecidas sin identificar que permita aportar información sobre la hipótesis de identificación de las personas inhumadas; III. Información estadística sobre el número de cuerpos inhumados sin identificar;
+II. El proceso y metodologías multidisciplinarias para la revisión sistemática y exhaustiva, por parte de las autoridades competentes, de averiguaciones previas, carpetas de investigación y otros documentos oficiales que contengan información sobre las personas fallecidas sin identificar que permita aportar información sobre la hipótesis de identificación de las personas inhumadas;
+
+III. Información estadística sobre el número de cuerpos inhumados sin identificar;
 
 IV. El listado de todos los panteones y cementerios del país, así como información sobre el número de cuerpos sin identificar inhumados en cada uno y las circunstancias y contextos correspondientes;
 

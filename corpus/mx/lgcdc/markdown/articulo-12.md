@@ -17,7 +17,9 @@ source_sha256: 3ed6ba180b725dbd80971ee60ac0e365a9df437b1ae45639ad0f040653497d1d
 
 # Artículo 12
 
-Para garantizar el ejercicio de los derechos culturales, la Federación, las entidades federativas, los municipios y las alcaldías de la Ciudad de México, en el ámbito de su competencia, deberán establecer acciones que fomenten y promuevan los siguientes aspectos: I. La cohesión social, la paz y la convivencia armónica de sus habitantes;
+Para garantizar el ejercicio de los derechos culturales, la Federación, las entidades federativas, los municipios y las alcaldías de la Ciudad de México, en el ámbito de su competencia, deberán establecer acciones que fomenten y promuevan los siguientes aspectos:
+
+I. La cohesión social, la paz y la convivencia armónica de sus habitantes;
 
 II. El acceso libre a las bibliotecas públicas;
 

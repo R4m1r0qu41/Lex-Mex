@@ -57,7 +57,9 @@ XII. Información relevante, toda información de una emisora necesaria para con
 
 XII Bis. Inscripción simplificada, aquella inscripción de valores en el Registro otorgada por la Comisión a una emisora simplificada en términos de los artículos [70 Bis](articulo-70-Bis.md) y [90 Bis](articulo-90-Bis.md) de esta Ley, así como de las disposiciones que al efecto emita la Comisión. Fracción adicionada DOF 28-12-2023
 
-XIII. Institución financiera del exterior, la entidad financiera constituida en un país con el que los Estados Unidos Mexicanos haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de filiales. XIV. Instrumentos financieros derivados, los valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes.
+XIII. Institución financiera del exterior, la entidad financiera constituida en un país con el que los Estados Unidos Mexicanos haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de filiales.
+
+XIV. Instrumentos financieros derivados, los valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes.
 
 XV. Intermediación con valores, la realización habitual y profesional de cualquiera de las actividades que a continuación se indican:
 

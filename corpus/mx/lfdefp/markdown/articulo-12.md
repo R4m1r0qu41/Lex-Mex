@@ -29,7 +29,9 @@ IV. Hacer valer lo concerniente respecto de las medidas cautelares solicitadas;
 
 V. Hacer valer los medios que desvirtúen los elementos del tipo penal, hecho delictivo o la probable responsabilidad o participación del defendido, en cualquier etapa del procedimiento, presentando argumentos y datos de prueba, ofreciendo medios de prueba o pruebas y promoviendo los incidentes, juicio de amparo, recursos, alegatos y demás diligencias que fueren necesarias para una eficaz defensa;
 
-VI. Asistir jurídicamente al defendido y estar presente en el momento en que rinda su declaración preparatoria o declaración en la audiencia inicial y en cualquier audiencia o diligencia en que deba intervenir, y hacerle saber sus derechos; VII. Hacer uso de la palabra para expresar lo que convenga al interés del acusado en la apertura de la audiencia de juicio o en el momento que proceda;
+VI. Asistir jurídicamente al defendido y estar presente en el momento en que rinda su declaración preparatoria o declaración en la audiencia inicial y en cualquier audiencia o diligencia en que deba intervenir, y hacerle saber sus derechos;
+
+VII. Hacer uso de la palabra para expresar lo que convenga al interés del acusado en la apertura de la audiencia de juicio o en el momento que proceda;
 
 VIII. Llevar a cabo el interrogatorio o contrainterrogatorio de testigos y peritos;
 
@@ -59,6 +61,8 @@ XX. Presentar los agravios que cauce la resolución que recurra;
 
 XXI. Promover cuando procede la extinción de la pretensión punitiva o de la potestad para ejecutar las penas o medidas de seguridad u otra consecuencia del delito; o el reconocimiento de inocencia o la anulación de sentencia;
 
-XXII. Promover, cuando proceda, las soluciones alternas al procedimiento, formas de terminación anticipada del proceso y procedimientos especiales, explicando a sus representados las implicaciones de cada una de las soluciones alternas, produciendo certeza de la aceptación del defendido de las consecuencias de dichos mecanismos y procedimientos, y XXIII. En general, realizar todos los actos inherentes para una defensa adecuada conforme a Derecho.
+XXII. Promover, cuando proceda, las soluciones alternas al procedimiento, formas de terminación anticipada del proceso y procedimientos especiales, explicando a sus representados las implicaciones de cada una de las soluciones alternas, produciendo certeza de la aceptación del defendido de las consecuencias de dichos mecanismos y procedimientos, y
+
+XXIII. En general, realizar todos los actos inherentes para una defensa adecuada conforme a Derecho.
 
 Artículo reformado DOF 17-06-2016

@@ -29,6 +29,8 @@ IV. El perfil de cada una de las personas que laborarán en el [Centro de Atenci
 
 V. Las formas y actividades de apoyo a los padres, las personas que ejerzan la tutela o custodia, o quien sea responsable del cuidado y crianza, para fortalecer la comprensión de sus funciones en la atención, cuidado y desarrollo integral de la niña o niño;
 
-VI. El mecanismo que garantice la confiabilidad y seguridad para la identificación o reconocimiento de las personas autorizadas para entregar y recibir a niñas y niños; VII. Los procedimientos de recepción, procesamiento, resolución y seguimiento de quejas y sugerencias por parte de niñas, niños, la madre, el padre o quien ejerza la custodia legal, y
+VI. El mecanismo que garantice la confiabilidad y seguridad para la identificación o reconocimiento de las personas autorizadas para entregar y recibir a niñas y niños;
+
+VII. Los procedimientos de recepción, procesamiento, resolución y seguimiento de quejas y sugerencias por parte de niñas, niños, la madre, el padre o quien ejerza la custodia legal, y
 
 VIII. El procedimiento para la entrega de información a los padres, las personas que ejerzan la tutela o custodia o quien sea responsable del cuidado y crianza, sobre el desempeño y desarrollo integral de niñas y niños.

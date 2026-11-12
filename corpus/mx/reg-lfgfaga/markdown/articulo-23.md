@@ -15,7 +15,9 @@ source_sha256: 60e8482fc72c2fa506c23a78da1bbb2e8f2877b30ea083dd6760b93ce343282e
 
 # Artículo 23
 
-A efecto de que el Fiduciario pueda descontar títulos de crédito otorgados a favor de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito o de los demás intermediarios financieros no bancarios que determine la Secretaría de Hacienda y Crédito Público, se requiere: I.- Que los títulos provengan de préstamos y reúnan las condiciones señaladas en este reglamento;
+A efecto de que el Fiduciario pueda descontar títulos de crédito otorgados a favor de las instituciones de banca múltiple, de las uniones de crédito, de los almacenes generales de depósito o de los demás intermediarios financieros no bancarios que determine la Secretaría de Hacienda y Crédito Público, se requiere:
+
+I.- Que los títulos provengan de préstamos y reúnan las condiciones señaladas en este reglamento;
 
 II.- Que, el acreditante se obligue expresamente a seguir vigilando la inversión correcta de los fondos y cuidar y conservar las garantías otorgadas, en los términos del artículo [327](../../lgtoc/markdown/articulo-327.md), párrafo tercero, de la Ley General de Títulos y Operaciones de Crédito, y
 

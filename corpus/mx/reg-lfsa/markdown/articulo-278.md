@@ -29,7 +29,9 @@ IV. La promoción de la investigación de nuevas técnicas para el diagnóstico,
 
 V. La instrumentación de campañas de divulgación en sanidad y producción animal;
 
-VI. La problemática de la sanidad y producción animal en el país, emitiendo propuestas de programas y acciones dirigidas a su solución; VII. La elaboración de anteproyectos de normas oficiales mexicanas específicas y elaboración de proyectos de manifestaciones de impacto regulatorio que desarrollen los subcomités del Comité Consultivo Nacional de Normalización de Protección Zoosanitaria;
+VI. La problemática de la sanidad y producción animal en el país, emitiendo propuestas de programas y acciones dirigidas a su solución;
+
+VII. La elaboración de anteproyectos de normas oficiales mexicanas específicas y elaboración de proyectos de manifestaciones de impacto regulatorio que desarrollen los subcomités del Comité Consultivo Nacional de Normalización de Protección Zoosanitaria;
 
 VIII. Las medidas zoosanitarias y las medidas de bioseguridad que deberán cumplir las mercancías reguladas, y
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "52"
 aliases: ["LGAMVLV — Artículo 52"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -27,7 +27,9 @@ III. Recibir información veraz y suficiente en formatos accesibles que les perm
 
 IV. Contar con asesoría jurídica gratuita y expedita;
 
-V. Recibir información médica y psicológica; VI. Contar con un refugio, mientras lo necesite;
+V. Recibir información médica y psicológica;
+
+VI. Contar con un refugio, mientras lo necesite;
 
 VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación; Fracción reformada DOF 28-01-2011
 

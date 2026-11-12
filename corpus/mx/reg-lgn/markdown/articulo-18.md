@@ -19,7 +19,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 Al frente de la [Institución](articulo-2.md) habrá un [Comandante](articulo-2.md), quien para el despacho de los asuntos de su competencia, se auxiliará de:
 
-I. Comandancia de la Guardia Nacional; II. Jefatura General de Coordinación Policial:
+I. Comandancia de la Guardia Nacional;
+
+II. Jefatura General de Coordinación Policial:
 
 a) Vocería;
 

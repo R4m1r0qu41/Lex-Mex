@@ -23,7 +23,9 @@ I. Datos de la asignación minera y de su inscripción en el [Registro](articulo
 
 II. Situación del lote antes de iniciar las obras y trabajos de exploración;
 
-III. Descripción genérica de las obras y trabajos de exploración ejecutados; IV. Reservas probadas y probables y recursos medidos, indicados e inferidos;
+III. Descripción genérica de las obras y trabajos de exploración ejecutados;
+
+IV. Reservas probadas y probables y recursos medidos, indicados e inferidos;
 
 V. Nombre y superficie de los prospectos y proyectos que, en su caso, recomienda concursar o incorporar a reservas mineras y la justificación respectiva;
 

@@ -23,4 +23,6 @@ I. Revisar los criterios de capacitación y certificación de las personas facil
 
 II. Establecer los criterios de publicación de los convenios celebrados en la administración pública, con independencia de la publicación respectiva en los boletines y con estricto apego a las disposiciones de la Ley General de Transparencia y Acceso a la Información Pública;
 
-III. Crear y mantener actualizado el [Registro de Personas Facilitadoras](articulo-5.md) en materia administrativa, y IV. Fungir como órgano consultivo.
+III. Crear y mantener actualizado el [Registro de Personas Facilitadoras](articulo-5.md) en materia administrativa, y
+
+IV. Fungir como órgano consultivo.

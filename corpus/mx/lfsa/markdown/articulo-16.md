@@ -51,7 +51,9 @@ XV. Establecer cuarentenas;
 
 XVI. Establecer y aplicar medidas de bioseguridad en materia de sanidad animal;
 
-XVII. Establecer los criterios para la aplicación de las buenas prácticas pecuarias; XVIII. Realizar la vigilancia e investigación epidemiológica;
+XVII. Establecer los criterios para la aplicación de las buenas prácticas pecuarias;
+
+XVIII. Realizar la vigilancia e investigación epidemiológica;
 
 XIX. Ordenar la clausura temporal, definitiva, parcial o total de los establecimientos;
 

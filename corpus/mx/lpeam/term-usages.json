@@ -46,102 +46,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:388-394",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:389-395",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:centro",
     "span": "Centro",
-    "start_char": 388,
-    "end_char": 394
+    "start_char": 389,
+    "end_char": 395
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:612-618",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:613-619",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:centro",
     "span": "Centro",
-    "start_char": 612,
-    "end_char": 618
+    "start_char": 613,
+    "end_char": 619
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:1655-1661",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:1656-1662",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:centro",
     "span": "Centro",
-    "start_char": 1655,
-    "end_char": 1661
+    "start_char": 1656,
+    "end_char": 1662
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:1738-1760",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:1739-1761",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
     "span": "Espacio Aéreo Mexicano",
-    "start_char": 1738,
-    "end_char": 1760
+    "start_char": 1739,
+    "end_char": 1761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:2693-2715",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:2694-2716",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
     "span": "Espacio Aéreo Mexicano",
-    "start_char": 2693,
-    "end_char": 2715
+    "start_char": 2694,
+    "end_char": 2716
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3105-3115",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3107-3117",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3105,
-    "end_char": 3115
+    "start_char": 3107,
+    "end_char": 3117
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3127-3149",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3129-3151",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
     "span": "Espacio Aéreo Mexicano",
-    "start_char": 3127,
-    "end_char": 3149
+    "start_char": 3129,
+    "end_char": 3151
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3414-3436",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3416-3438",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
     "span": "Espacio Aéreo Mexicano",
-    "start_char": 3414,
-    "end_char": 3436
+    "start_char": 3416,
+    "end_char": 3438
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3444-3451",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3446-3453",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:consejo",
     "span": "Consejo",
-    "start_char": 3444,
-    "end_char": 3451
+    "start_char": 3446,
+    "end_char": 3453
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3470-3480",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3472-3482",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3470,
-    "end_char": 3480
+    "start_char": 3472,
+    "end_char": 3482
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3751-3773",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:5:term-usage:3753-3775",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
     "span": "Espacio Aéreo Mexicano",
-    "start_char": 3751,
-    "end_char": 3773
+    "start_char": 3753,
+    "end_char": 3775
   },
   {
     "schema_version": "0.1.0",
@@ -208,12 +208,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:9:term-usage:316-338",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:9:term-usage:317-339",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
     "span": "Espacio Aéreo Mexicano",
-    "start_char": 316,
-    "end_char": 338
+    "start_char": 317,
+    "end_char": 339
   },
   {
     "schema_version": "0.1.0",
@@ -640,12 +640,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:18:term-usage:232-239",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:18:term-usage:233-240",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:18",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:consejo",
     "span": "Consejo",
-    "start_char": 232,
-    "end_char": 239
+    "start_char": 233,
+    "end_char": 240
   },
   {
     "schema_version": "0.1.0",
@@ -892,48 +892,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:1350-1364",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:1351-1365",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:20",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:identificacion",
     "span": "Identificación",
-    "start_char": 1350,
-    "end_char": 1364
+    "start_char": 1351,
+    "end_char": 1365
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:1389-1428",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:1390-1429",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:20",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:zona-de-identificacion-de-defensa-aerea",
     "span": "Zona de Identificación de Defensa Aérea",
-    "start_char": 1389,
-    "end_char": 1428
+    "start_char": 1390,
+    "end_char": 1429
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:1544-1566",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:1545-1567",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:20",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:espacio-aereo-mexicano",
     "span": "Espacio Aéreo Mexicano",
-    "start_char": 1544,
-    "end_char": 1566
+    "start_char": 1545,
+    "end_char": 1567
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:1939-1946",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:1940-1947",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:20",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:sistema",
     "span": "Sistema",
-    "start_char": 1939,
-    "end_char": 1946
+    "start_char": 1940,
+    "end_char": 1947
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:2034-2054",
+    "id": "urn:lex-mx:federal:statute:lpeam:article:20:term-usage:2035-2055",
     "provision_id": "urn:lex-mx:federal:statute:lpeam:article:20",
     "term_id": "urn:lex-mx:federal:statute:lpeam:term:interceptacion-aerea",
     "span": "Interceptación aérea",
-    "start_char": 2034,
-    "end_char": 2054
+    "start_char": 2035,
+    "end_char": 2055
   },
   {
     "schema_version": "0.1.0",

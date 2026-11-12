@@ -21,6 +21,8 @@ En los casos de reconvención:
 
 I. La autoridad jurisdiccional admitirá la reconvención, de ser procedente;
 
-II. Ordenará emplazar al demandado reconvencional en ese mismo acto para otra audiencia que se celebrará en un plazo no menor a cinco días contados a partir de concluida la audiencia; III. El demandado de la reconvención dará respuesta a los hechos expuestos por su contraria y ofrecerá las pruebas que estime a su favor; en caso de documentos, deberá proporcionar copia de los mismos a la parte actora, y
+II. Ordenará emplazar al demandado reconvencional en ese mismo acto para otra audiencia que se celebrará en un plazo no menor a cinco días contados a partir de concluida la audiencia;
+
+III. El demandado de la reconvención dará respuesta a los hechos expuestos por su contraria y ofrecerá las pruebas que estime a su favor; en caso de documentos, deberá proporcionar copia de los mismos a la parte actora, y
 
 IV. Concluida la reconvención se estará a lo dispuesto por este Capítulo.

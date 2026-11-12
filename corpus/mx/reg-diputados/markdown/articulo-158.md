@@ -21,7 +21,9 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 I. Efectuar la aprobación de las actas de las reuniones;
 
-II. Preparar los programas anuales de trabajo; III. Redactar los informes semestrales de actividades;
+II. Preparar los programas anuales de trabajo;
+
+III. Redactar los informes semestrales de actividades;
 
 IV. Elaborar los dictámenes o resoluciones, sobre los asuntos que le fueron turnados por el Presidente para tales efectos;
 

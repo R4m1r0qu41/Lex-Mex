@@ -15,4 +15,4 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # QUINTO
 
-El Ejecutivo a través de la [Secretaría](articulo-2.md) de Gobernación, contará con un plazo de 180 días naturales para la publicación del reglamento de la presente Ley, en el Diario Oficial de la Federación.
+El Ejecutivo a través de la [Secretaría](articulo-2.md) de Gobernación, contará con un plazo de 180 días naturales para la publicación del reglamento de la presente [Ley](articulo-2.md), en el Diario Oficial de la Federación.

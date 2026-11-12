@@ -40,7 +40,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
     "fraction": "IV",
     "start_char": 637,
-    "end_char": 718,
+    "end_char": 719,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
     "fraction": "V",
-    "start_char": 718,
-    "end_char": 1318,
+    "start_char": 719,
+    "end_char": 1319,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
     "fraction": "VI",
-    "start_char": 1318,
-    "end_char": 1641,
+    "start_char": 1319,
+    "end_char": 1642,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
     "fraction": "VII",
-    "start_char": 1641,
-    "end_char": 1826,
+    "start_char": 1642,
+    "end_char": 1827,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
     "fraction": "VIII",
-    "start_char": 1826,
-    "end_char": 1943,
+    "start_char": 1827,
+    "end_char": 1944,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
     "fraction": "IX",
-    "start_char": 1943,
-    "end_char": 2409,
+    "start_char": 1944,
+    "end_char": 2410,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lrart27-mn",
     "defining_provision_id": "urn:lex-mx:federal:statute:lrart27-mn:article:3",
     "fraction": "X",
-    "start_char": 2409,
-    "end_char": 2809,
+    "start_char": 2410,
+    "end_char": 2810,
     "basis": "express_definition"
   }
 ]

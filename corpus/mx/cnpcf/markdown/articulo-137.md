@@ -19,7 +19,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 Los expedientes que se integren en los juicios civiles y familiares se sujetarán a las siguientes reglas:
 
-I. Tanto los físicos como los electrónicos se formarán por la autoridad jurisdiccional; II. Las promociones físicas o electrónicas de las partes deberán redactarse en español, debiendo estar firmados de manera autógrafa o mediante firma electrónica avanzada, según corresponda;
+I. Tanto los físicos como los electrónicos se formarán por la autoridad jurisdiccional;
+
+II. Las promociones físicas o electrónicas de las partes deberán redactarse en español, debiendo estar firmados de manera autógrafa o mediante firma electrónica avanzada, según corresponda;
 
 III. Quienes no supieren o no pudieren firmar autógrafamente, por presentar una condición de discapacidad física, imprimirán su huella digital, firmando otra persona en su nombre y a su ruego, indicando esta circunstancia;
 

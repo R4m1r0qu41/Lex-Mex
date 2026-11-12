@@ -39,7 +39,9 @@ IX. La orden de suspender durante la etapa de conciliación, todo mandamiento de
 
 X. La fecha de retroacción;
 
-XI. La orden al conciliador de que se publique un extracto de la sentencia en los términos del artículo [45](articulo-45.md) de esta Ley; XII. La orden al conciliador de inscribir la sentencia en el registro público de comercio que corresponda al Domicilio del Comerciante y en todos aquellos lugares en donde tenga una agencia, sucursal o bienes sujetos a inscripción en algún registro público;
+XI. La orden al conciliador de que se publique un extracto de la sentencia en los términos del artículo [45](articulo-45.md) de esta Ley;
+
+XII. La orden al conciliador de inscribir la sentencia en el registro público de comercio que corresponda al Domicilio del Comerciante y en todos aquellos lugares en donde tenga una agencia, sucursal o bienes sujetos a inscripción en algún registro público;
 
 XIII. La orden al conciliador de iniciar el procedimiento de reconocimiento de créditos;
 

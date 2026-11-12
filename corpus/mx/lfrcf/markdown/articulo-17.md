@@ -17,7 +17,9 @@ source_sha256: cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c
 
 # Artículo 17
 
-Para la fiscalización de la [Cuenta Pública](articulo-4.md), la [Auditoría Superior de la Federación](articulo-4.md) tendrá las atribuciones siguientes: I. Realizar, conforme al programa anual de auditorías aprobado, las auditorías e investigaciones. Para la práctica de [Auditorías](articulo-4.md), la Auditoría Superior de la Federación podrá solicitar información y documentación durante el desarrollo de las mismas.
+Para la fiscalización de la [Cuenta Pública](articulo-4.md), la [Auditoría Superior de la Federación](articulo-4.md) tendrá las atribuciones siguientes:
+
+I. Realizar, conforme al programa anual de auditorías aprobado, las auditorías e investigaciones. Para la práctica de [Auditorías](articulo-4.md), la Auditoría Superior de la Federación podrá solicitar información y documentación durante el desarrollo de las mismas.
 
 La Auditoría Superior de la Federación podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública. Una vez que le sea entregada la Cuenta Pública, podrá realizar las modificaciones al programa anual de las auditorías que se requieran y lo hará del conocimiento de la [Comisión](articulo-4.md);
 
@@ -31,7 +33,9 @@ V. Practicar auditorías sobre el desempeño en el cumplimiento de los objetivos
 
 VI. Verificar que las entidades fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-VII. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con la [Ley de Ingresos](articulo-4.md) y el Presupuesto de Egresos y se efectúen con apego a las disposiciones respectivas del Código Fiscal de la Federación y leyes fiscales sustantivas; las leyes Federal de Deuda Pública, General de Partidos Políticos; Federal de Presupuesto y Responsabilidad Hacendaria, orgánicas del Congreso General de los Estados Unidos Mexicanos, de la Administración Pública Federal, del Poder Judicial de la Federación; de Asociaciones Público Privadas, de Petróleos Mexicanos y de la Comisión Federal de Electricidad y de Disciplina Financiera de las [Entidades Federativas](articulo-4.md) y los Municipios, las correspondientes a obras públicas y adquisiciones de las entidades federativas, y demás disposiciones legales, reglamentarias y administrativas aplicables a estas materias; VIII. Verificar obras, bienes adquiridos y servicios contratados por las entidades fiscalizadas para comprobar si los recursos de las inversiones y los gastos autorizados a las entidades fiscalizadas se ejercieron en los términos de las disposiciones aplicables;
+VII. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con la [Ley de Ingresos](articulo-4.md) y el Presupuesto de Egresos y se efectúen con apego a las disposiciones respectivas del Código Fiscal de la Federación y leyes fiscales sustantivas; las leyes Federal de Deuda Pública, General de Partidos Políticos; Federal de Presupuesto y Responsabilidad Hacendaria, orgánicas del Congreso General de los Estados Unidos Mexicanos, de la Administración Pública Federal, del Poder Judicial de la Federación; de Asociaciones Público Privadas, de Petróleos Mexicanos y de la Comisión Federal de Electricidad y de Disciplina Financiera de las [Entidades Federativas](articulo-4.md) y los Municipios, las correspondientes a obras públicas y adquisiciones de las entidades federativas, y demás disposiciones legales, reglamentarias y administrativas aplicables a estas materias;
+
+VIII. Verificar obras, bienes adquiridos y servicios contratados por las entidades fiscalizadas para comprobar si los recursos de las inversiones y los gastos autorizados a las entidades fiscalizadas se ejercieron en los términos de las disposiciones aplicables;
 
 IX. Requerir a los auditores externos copia de todos los informes y dictámenes de las auditorías y revisiones por ellos practicadas a las entidades fiscalizadas y de ser requerido, el soporte documental;
 
@@ -55,7 +59,9 @@ La Auditoría Superior de la Federación tendrá acceso a la información que la
 
 Cuando derivado de la práctica de auditorías se entregue a la Auditoría Superior de la Federación información de carácter reservado o confidencial, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por la Auditoría Superior de la Federación en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
 
-El incumplimiento a lo dispuesto en esta fracción será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes; XI Bis. Notificar de manera personal, o a través de medios electrónicos todas las actuaciones que deriven del proceso de Fiscalización; Fracción adicionada DOF 14-05-2026
+El incumplimiento a lo dispuesto en esta fracción será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes;
+
+XI Bis. Notificar de manera personal, o a través de medios electrónicos todas las actuaciones que deriven del proceso de Fiscalización; Fracción adicionada DOF 14-05-2026
 
 XII. Fiscalizar los recursos públicos federales que la Federación haya otorgado a entidades federativas, municipios y alcaldías de la Ciudad de México, fideicomisos, fondos, mandatos o, cualquier otra figura análoga, personas físicas o morales, públicas o privadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 

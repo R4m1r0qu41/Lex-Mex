@@ -65,7 +65,9 @@ XIII. El inventario del equipo y los materiales con que cuenta;
 
 XIV. El programa de supervisión, capacitación y actualización del personal que realizará la Verificación;
 
-XV. El sistema de registro de la organización y la evidencia documental de las actividades de Verificación; XVI. La descripción de la especie Vegetal, Productos o Subproductos Vegetales o tipo de [Establecimiento](articulo-2.md) que verificará;
+XV. El sistema de registro de la organización y la evidencia documental de las actividades de Verificación;
+
+XVI. La descripción de la especie Vegetal, Productos o Subproductos Vegetales o tipo de [Establecimiento](articulo-2.md) que verificará;
 
 XVII. El comprobante del pago que corresponda conforme a las disposiciones jurídicas aplicables, y
 

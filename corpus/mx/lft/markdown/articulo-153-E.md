@@ -25,7 +25,9 @@ II. Proponer los cambios necesarios en la maquinaria, los equipos, la organizaci
 
 III. Proponer las medidas acordadas por el Comité Nacional y los Comités Estatales de Productividad a que se refieren los artículos [153-K](articulo-153-K.md) y [153-Q](articulo-153-Q.md), con el propósito de impulsar la capacitación, medir y elevar la productividad, así como garantizar el reparto equitativo de sus beneficios;
 
-IV. Vigilar el cumplimiento de los acuerdos de productividad; y V. Resolver las objeciones que, en su caso, presenten los trabajadores con motivo de la distribución de los beneficios de la productividad.
+IV. Vigilar el cumplimiento de los acuerdos de productividad; y
+
+V. Resolver las objeciones que, en su caso, presenten los trabajadores con motivo de la distribución de los beneficios de la productividad.
 
 Para el caso de las micro y pequeñas empresas, que son aquellas que cuentan con hasta 50 trabajadores, la Secretaría del Trabajo y Previsión Social y la Secretaría de Economía estarán obligadas a incentivar su productividad mediante la dotación de los programas a que se refiere el artículo [153-J](articulo-153-J.md), así como la capacitación relacionada con los mismos. Para tal efecto, con el apoyo de las instituciones académicas relacionadas con los temas de los programas referidos, convocarán en razón de su rama, sector, entidad federativa o región a los micro y pequeños empresarios, a los trabajadores y sindicatos que laboran en dichas empresas.
 

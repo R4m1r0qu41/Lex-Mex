@@ -65,6 +65,29 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:11:reference:2202-2205:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:11",
+    "source_span": "VII",
+    "start_char": 2202,
+    "end_char": 2205,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:11",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "VII",
+        "start_char": 2202,
+        "end_char": 2205
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liernie:article:12:reference:44-46:13:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:12",
     "source_span": "13",
@@ -223,11 +246,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:25:reference:1720-1722:29:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:25:reference:1721-1723:29:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:25",
     "source_span": "29",
-    "start_char": 1720,
-    "end_char": 1722,
+    "start_char": 1721,
+    "end_char": 1723,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-liernie",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:29",
     "qualifiers": [],
@@ -1035,19 +1058,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:8:reference:1767-1769:27:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-liernie:article:8:reference:1768-1770:27:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liernie:article:8",
     "source_span": "27",
-    "start_char": 1767,
-    "end_char": 1769,
+    "start_char": 1768,
+    "end_char": 1770,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:27",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 1743,
-        "end_char": 1753
+        "start_char": 1744,
+        "end_char": 1754
       }
     ],
     "basis": "express_cross_reference",

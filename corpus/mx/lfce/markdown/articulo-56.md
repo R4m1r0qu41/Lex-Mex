@@ -7,8 +7,8 @@ provision_type: article
 number: "56"
 aliases: ["LFCE — Artículo 56"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf
 source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 ---
@@ -21,7 +21,9 @@ Los supuestos a los que se refiere la fracción I del artículo [54](articulo-54
 
 I. Entre [Agentes Económicos](articulo-3.md) que no sean competidores entre sí, la fijación, imposición o establecimiento de la comercialización o distribución exclusiva de bienes o servicios, por razón de sujeto, situación geográfica o por períodos determinados, incluidas la división, distribución o asignación de clientes o proveedores; así como la imposición de la obligación de no fabricar o distribuir bienes o prestar servicios por un tiempo determinado o determinable;
 
-II. La imposición del precio o demás condiciones que un distribuidor o proveedor deba observar al prestar, comercializar o distribuir bienes o servicios; III. La venta o transacción condicionada a comprar, adquirir, vender o proporcionar otro bien o servicio, normalmente distinto o distinguible o sobre bases de reciprocidad;
+II. La imposición del precio o demás condiciones que un distribuidor o proveedor deba observar al prestar, comercializar o distribuir bienes o servicios;
+
+III. La venta o transacción condicionada a comprar, adquirir, vender o proporcionar otro bien o servicio, normalmente distinto o distinguible o sobre bases de reciprocidad;
 
 IV. La venta, compra o transacción sujeta a la condición de no usar, adquirir, vender, comercializar o proporcionar los bienes o servicios producidos, procesados, distribuidos o comercializados por un tercero;
 

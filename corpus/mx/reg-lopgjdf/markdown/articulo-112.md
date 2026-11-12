@@ -23,7 +23,9 @@ I. La antigüedad y antecedentes en el servicio;
 
 II. Los méritos y eficiencia demostrados en el desempeño de su cargo;
 
-III. Los cursos de actualización y especialización y los resultados obtenidos en los mismos; IV. La acreditación de los cursos de profesionalización que determine el Instituto de Formación Profesional;
+III. Los cursos de actualización y especialización y los resultados obtenidos en los mismos;
+
+IV. La acreditación de los cursos de profesionalización que determine el Instituto de Formación Profesional;
 
 V. Los resultados obtenidos en las evaluaciones que se practiquen;
 

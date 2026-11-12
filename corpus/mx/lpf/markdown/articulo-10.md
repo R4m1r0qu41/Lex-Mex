@@ -39,7 +39,9 @@ IX. Designar a los integrantes en cargos administrativos o de dirección de la e
 
 X. Otorgar, en términos que establezca el Reglamento, los grados policiales homólogos;
 
-XI. Adscribir funcionalmente, con la aprobación del Secretario y conforme a esta ley y su Reglamento, las unidades administrativas a su mando, mediante acuerdo publicado en el Diario Oficial de la Federación; XII. Autorizar, previo acuerdo con el Secretario, operaciones encubiertas y de usuarios simulados para desarrollar operaciones de inteligencia para la prevención;
+XI. Adscribir funcionalmente, con la aprobación del Secretario y conforme a esta ley y su Reglamento, las unidades administrativas a su mando, mediante acuerdo publicado en el Diario Oficial de la Federación;
+
+XII. Autorizar, previo acuerdo con el Secretario, operaciones encubiertas y de usuarios simulados para desarrollar operaciones de inteligencia para la prevención;
 
 XIII. Ser el enlace institucional con organismos policiales gubernamentales y no gubernamentales homólogos, nacionales y extranjeros, que se relacionen con el ámbito de sus atribuciones;
 

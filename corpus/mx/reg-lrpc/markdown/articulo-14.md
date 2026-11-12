@@ -21,7 +21,9 @@ La [Subsecretaría](articulo-2.md) tendrá las atribuciones siguientes:
 
 I. Dar seguimiento y evaluar los programas sobre refugiados y extranjeros que reciban protección complementaria;
 
-II. Establecer y difundir criterios que deban considerarse en la atención a solicitantes del reconocimiento de la condición de refugiado, refugiados y extranjeros que reciban protección complementaria; III. Promover, en coordinación con la Secretaría de Relaciones Exteriores y demás autoridades competentes, soluciones duraderas a la problemática que enfrentan los refugiados durante su estancia en territorio nacional, de conformidad con los supuestos previstos en la Ley;
+II. Establecer y difundir criterios que deban considerarse en la atención a solicitantes del reconocimiento de la condición de refugiado, refugiados y extranjeros que reciban protección complementaria;
+
+III. Promover, en coordinación con la Secretaría de Relaciones Exteriores y demás autoridades competentes, soluciones duraderas a la problemática que enfrentan los refugiados durante su estancia en territorio nacional, de conformidad con los supuestos previstos en la Ley;
 
 IV. Promover la participación de organismos nacionales e internacionales y de organizaciones de la sociedad civil que se hayan destacado por su trabajo y estudio en materia de refugiados, sin perjuicio de las atribuciones que correspondan a otras autoridades, y
 

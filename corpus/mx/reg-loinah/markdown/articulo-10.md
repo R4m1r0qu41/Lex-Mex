@@ -39,7 +39,9 @@ IX. Realizar investigación para sustentar su intervención en caso de obras que
 
 X. Realizar investigación que permita formular su opinión respecto de ordenamientos federales, estatales y municipales, relacionados con la [Conservación](articulo-2.md) y la protección del [Patrimonio Cultural](articulo-2.md);
 
-XI. Realizar investigación sobre el marco jurídico referente al Patrimonio Cultural y Bienes de Interés Paleontológico, y desarrollar propuestas normativas específicas que garanticen su protección; XII. Realizar investigación para integrar los expedientes técnicos, a fin de fundamentar las propuestas de declaratorias de zonas de monumentos arqueológicos, históricos y Bienes de Interés Paleontológico;
+XI. Realizar investigación sobre el marco jurídico referente al Patrimonio Cultural y Bienes de Interés Paleontológico, y desarrollar propuestas normativas específicas que garanticen su protección;
+
+XII. Realizar investigación para integrar los expedientes técnicos, a fin de fundamentar las propuestas de declaratorias de zonas de monumentos arqueológicos, históricos y Bienes de Interés Paleontológico;
 
 XIII. Elaborar planes estratégicos y de manejo para zonas de monumentos arqueológicos, con perspectiva interdisciplinaria;
 

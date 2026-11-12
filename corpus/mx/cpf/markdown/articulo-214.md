@@ -25,7 +25,9 @@ II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después
 
 III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública federal centralizada, organismos descentralizados, empresa de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, de empresas productivas del Estado, de órganos constitucionales autónomos, del Congreso de la Unión o del Poder Judicial, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades. Fracción reformada DOF 14-07-2014, 18-07-2016
 
-IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión. V.- Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos, y Fracción adicionada DOF 30-06-2006
+IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
+
+V.- Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos, y Fracción adicionada DOF 30-06-2006
 
 VI.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado. Fracción adicionada DOF 17-11-1986. Recorrida DOF 30-06-2006
 

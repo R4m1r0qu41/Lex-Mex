@@ -27,7 +27,9 @@ III. Personal, áreas y equipos, calificados conforme a los procedimientos estab
 
 IV. Procedimientos para la limpieza, mantenimiento y operación de áreas, instrumentos de medición y equipos del laboratorio, con los registros correspondientes;
 
-V. Programa de calibración de instrumentos de medición empleados en el laboratorio; VI. Métodos analíticos validados. Cuando se realicen cambios en la metodología, se deberá realizar una nueva validación conforme a los procedimientos establecidos en su Sistema de Gestión de Calidad;
+V. Programa de calibración de instrumentos de medición empleados en el laboratorio;
+
+VI. Métodos analíticos validados. Cuando se realicen cambios en la metodología, se deberá realizar una nueva validación conforme a los procedimientos establecidos en su Sistema de Gestión de Calidad;
 
 VII. Especificaciones, procedimientos de muestreo, procedimientos de prueba y registros, certificados analíticos y, en su caso, registros de los monitoreos ambientales;
 
@@ -61,7 +63,9 @@ g) Iniciales o nombre de las personas que realizaron las pruebas;
 
 h) Iniciales o nombre de las personas que supervisaron las pruebas y cálculos, y
 
-i) Descripción de los procedimientos del manejo y almacenamiento de los reactivos, soluciones, cepas y medios de cultivo empleados en el laboratorio; XV. En su caso, adquirir animales para pruebas de laboratorio, en el análisis de Materias Primas o productos, de proveedores que reúnan los requisitos establecidos en las disposiciones jurídicas aplicables.
+i) Descripción de los procedimientos del manejo y almacenamiento de los reactivos, soluciones, cepas y medios de cultivo empleados en el laboratorio;
+
+XV. En su caso, adquirir animales para pruebas de laboratorio, en el análisis de Materias Primas o productos, de proveedores que reúnan los requisitos establecidos en las disposiciones jurídicas aplicables.
 
 Dichos animales deberán ser identificados desde su ingreso, y deberán conservarse los registros de su recepción, historial de uso y disposición final;
 

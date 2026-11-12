@@ -7,8 +7,8 @@ provision_type: article
 number: "3"
 aliases: ["LIH — Artículo 3"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf
 source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 ---
@@ -31,7 +31,9 @@ IV. Condensados: líquidos del Gas Natural constituidos principalmente por penta
 
 IV Bis. Condición Base: la presión y temperatura con las cuales se miden los volúmenes de petróleo y condensados, las cuales son presión de 101.325 kiloPascales (1 atmósfera) y temperatura de 15.5556 grados Celsius (60 grados Fahrenheit); Fracción adicionada DOF 18-03-2025
 
-V. Contraprestación: aquella que se establezca en cada Contrato a favor del Estado o del Contratista; VI. Contrato: Contrato para la Exploración y Extracción;
+V. Contraprestación: aquella que se establezca en cada Contrato a favor del Estado o del Contratista;
+
+VI. Contrato: Contrato para la Exploración y Extracción;
 
 VII. Cuota Contractual para la Fase Exploratoria: la [Contraprestación](articulo-3.md) que se establece conforme al artículo [23](articulo-23.md) de esta Ley;
 

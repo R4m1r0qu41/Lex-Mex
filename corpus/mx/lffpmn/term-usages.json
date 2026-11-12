@@ -82,21 +82,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:936-947",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:937-948",
     "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
     "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
     "span": "Maíz Nativo",
-    "start_char": 936,
-    "end_char": 947
+    "start_char": 937,
+    "end_char": 948
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:1388-1413",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:2:term-usage:1389-1414",
     "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:2",
     "term_id": "urn:lex-mx:federal:statute:lffpmn:term:diversificacion-constante",
     "span": "Diversificación Constante",
-    "start_char": 1388,
-    "end_char": 1413
+    "start_char": 1389,
+    "end_char": 1414
   },
   {
     "schema_version": "0.1.0",
@@ -307,30 +307,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:351-356",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:352-357",
     "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lffpmn:term:sader",
     "span": "SADER",
-    "start_char": 351,
-    "end_char": 356
+    "start_char": 352,
+    "end_char": 357
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:428-439",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:429-440",
     "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
     "span": "Maíz Nativo",
-    "start_char": 428,
-    "end_char": 439
+    "start_char": 429,
+    "end_char": 440
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:548-559",
+    "id": "urn:lex-mx:federal:statute:lffpmn:article:9:term-usage:549-560",
     "provision_id": "urn:lex-mx:federal:statute:lffpmn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lffpmn:term:maiz-nativo",
     "span": "Maíz Nativo",
-    "start_char": 548,
-    "end_char": 559
+    "start_char": 549,
+    "end_char": 560
   },
   {
     "schema_version": "0.1.0",

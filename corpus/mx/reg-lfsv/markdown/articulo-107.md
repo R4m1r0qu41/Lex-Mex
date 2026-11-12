@@ -17,7 +17,9 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 107
 
-Una vez declarada una Zona como Libre, de Baja Prevalencia o Bajo Protección de [Plagas Reglamentadas](articulo-2.md), los interesados en mantener dicha declaratoria deberán cumplir con lo siguiente: I. Dar seguimiento al programa de trabajo anual emitido por la Secretaría, el cual deberá incluir las Medidas Fitosanitarias tendientes a mantener la Condición Fitosanitaria de la Zona declarada como Libre, de Baja Prevalencia o Bajo Protección de la Plaga objetivo;
+Una vez declarada una Zona como Libre, de Baja Prevalencia o Bajo Protección de [Plagas Reglamentadas](articulo-2.md), los interesados en mantener dicha declaratoria deberán cumplir con lo siguiente:
+
+I. Dar seguimiento al programa de trabajo anual emitido por la Secretaría, el cual deberá incluir las Medidas Fitosanitarias tendientes a mantener la Condición Fitosanitaria de la Zona declarada como Libre, de Baja Prevalencia o Bajo Protección de la Plaga objetivo;
 
 II. Aplicar las Medidas Fitosanitarias establecidas por la Secretaría para regular la Movilización de los Vegetales que ingresen o transiten en las Zonas declaradas como Libres, Baja Prevalencia o Bajo Protección conforme a las Disposiciones Legales Aplicables, considerando la Verificación en su destino;
 

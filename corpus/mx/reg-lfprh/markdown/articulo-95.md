@@ -21,7 +21,9 @@ El procedimiento para las adecuaciones presupuestarias externas de las dependenc
 
 I. El trámite ante la Secretaría se realizará por conducto de la Oficialía Mayor o equivalente de la dependencia;
 
-II. La solicitud deberá justificarse identificando cada una de las modificaciones en el presupuesto, así como el calendario respectivo; III. Tratándose de ingresos excedentes, se requerirá el dictamen o validación de la notificación de la Secretaría sobre los ingresos excedentes obtenidos;
+II. La solicitud deberá justificarse identificando cada una de las modificaciones en el presupuesto, así como el calendario respectivo;
+
+III. Tratándose de ingresos excedentes, se requerirá el dictamen o validación de la notificación de la Secretaría sobre los ingresos excedentes obtenidos;
 
 IV. La Secretaría, a través del sistema para el control de las adecuaciones presupuestarias, establecerá los mecanismos que permitan resolver las solicitudes de las adecuaciones presupuestarias en los términos y plazos que se determinen en las disposiciones aplicables;
 

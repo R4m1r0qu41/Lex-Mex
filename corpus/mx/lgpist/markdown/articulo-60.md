@@ -25,7 +25,9 @@ II. Desarrollar programas de formación, actualización, capacitación y profesi
 
 III. Implementar el [Protocolo Homologado](articulo-5.md) en todas las instituciones de procuración de justicia para la investigación y persecución del delito de tortura;
 
-IV. Establecer mecanismos para la revisión y actualización del Protocolo Homologado; V. Establecer mecanismos para la sistematización e intercambio de información relativa a la investigación del delito de tortura entre las Instituciones de Seguridad Pública, Instituciones Policiales e Instituciones de Procuración de Justicia;
+IV. Establecer mecanismos para la revisión y actualización del Protocolo Homologado;
+
+V. Establecer mecanismos para la sistematización e intercambio de información relativa a la investigación del delito de tortura entre las Instituciones de Seguridad Pública, Instituciones Policiales e Instituciones de Procuración de Justicia;
 
 VI. Desarrollar protocolos de actuación, campañas de sensibilización y difusión, manuales, capacitaciones, protocolos y cualquier otro mecanismo o normatividad, para prevenir el empleo de la tortura y otros tratos o penas crueles, inhumanas o degradantes hacia toda persona y, especialmente, hacia personas sujetas a cualquier régimen de privación de la libertad;
 

@@ -8,7 +8,7 @@ number: "42"
 aliases: ["REG-LGCT — Artículo 42"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCT.pdf
 source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 ---

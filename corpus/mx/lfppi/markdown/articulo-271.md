@@ -29,7 +29,9 @@ Quedan incluidas en el supuesto anterior, las palabras descriptivas que en el co
 
 IV.- La que sea idéntica o semejante en grado de confusión a una solicitud de registro de marca o aviso comercial en trámite, presentada con anterioridad o a una marca o aviso comercial registrado y vigente, aplicado a los mismos o similares productos o servicios;
 
-V.- La que sea idéntica o semejante en grado de confusión a una solicitud de publicación de nombre comercial en trámite, presentada con anterioridad o a un nombre comercial publicado y vigente, aplicado al mismo o similar giro comercial; VI.- La traducción o transliteración de una denominación de origen o de una indicación geográfica no protegibles, y
+V.- La que sea idéntica o semejante en grado de confusión a una solicitud de publicación de nombre comercial en trámite, presentada con anterioridad o a un nombre comercial publicado y vigente, aplicado al mismo o similar giro comercial;
+
+VI.- La traducción o transliteración de una denominación de origen o de una indicación geográfica no protegibles, y
 
 VII.- La que constituya o contenga la designación de una variedad vegetal protegida o de una raza animal.
 

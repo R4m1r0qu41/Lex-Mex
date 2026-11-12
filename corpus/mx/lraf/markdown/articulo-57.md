@@ -55,7 +55,7 @@ g) Vigilar que los actos a que hacen referencia los artículos [39](articulo-39.
 
 h) Solicitar la opinión de expertos independientes en los casos en que lo juzgue conveniente, para el adecuado desempeño de sus funciones.
 
-i) Requerir a los Directivos Relevantes y demás empleados de la Sociedad Controladora así como de las entidades financieras o [Subcontroladoras](articulo-5o.md), reportes relativos a la elaboración de la información financiera y de cualquier otro tipo que estime necesaria para el ejercicio de sus funciones.
+i) Requerir a los [Directivos Relevantes](articulo-5o.md) y demás empleados de la Sociedad Controladora así como de las entidades financieras o [Subcontroladoras](articulo-5o.md), reportes relativos a la elaboración de la información financiera y de cualquier otro tipo que estime necesaria para el ejercicio de sus funciones.
 
 j) Investigar los posibles incumplimientos de los que tenga conocimiento, respecto de los actos, lineamientos y políticas de operación, sistema de control interno y auditoría interna y registro contable, ya sea de la propia Sociedad Controladora o de las entidades financieras o Subcontroladoras, para lo cual deberá realizar un examen de la documentación, registros y demás evidencias comprobatorias, en el grado y extensión que sean necesarios para el correcto desempeño de las actividades de vigilancia del consejo de administración.
 

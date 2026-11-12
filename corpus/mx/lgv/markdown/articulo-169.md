@@ -7,8 +7,8 @@ provision_type: article
 number: "169"
 aliases: ["LGV — Artículo 169"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -29,7 +29,7 @@ IV. Informar a la víctima, respecto al sentido y alcance de las medidas de prot
 
 V. Dar el seguimiento a todos los trámites de medidas de protección, ayuda, asistencia y atención, que sean necesarias para garantizar la integridad física y psíquica de las víctimas, así como su plena recuperación;
 
-VI. Informar y asesorar a los familiares de la víctima o a las personas que ésta decida, sobre los servicios con que cuenta el Estado para brindarle ayuda, asistencia, asesoría, representación legal y demás derechos establecidos en esta Ley, en los Tratados Internacionales y demás leyes aplicables;
+VI. Informar y asesorar a los familiares de la víctima o a las personas que ésta decida, sobre los servicios con que cuenta el Estado para brindarle ayuda, asistencia, asesoría, representación legal y demás derechos establecidos en esta [Ley](articulo-6.md), en los Tratados Internacionales y demás leyes aplicables;
 
 VII.-Llevar un registro puntual de las acciones realizadas y formar un expediente del caso;
 

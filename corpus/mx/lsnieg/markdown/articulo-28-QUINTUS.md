@@ -17,7 +17,9 @@ source_sha256: bf18e4d51b4f44e741ab550e298f712a350ab08eec94061489aba7745c1aaeab
 
 # Artículo 28 QUINTUS
 
-El Instituto producirá e integrará, con la colaboración de las Unidades del Estado, la información e indicadores a partir de los datos que se obtengan, entre otras fuentes, de: I. Los Censos Nacionales de Gobierno o de los esquemas alternativos que pudieran adoptarse en el futuro para sustituirlos total o parcialmente.
+El Instituto producirá e integrará, con la colaboración de las Unidades del Estado, la información e indicadores a partir de los datos que se obtengan, entre otras fuentes, de:
+
+I. Los Censos Nacionales de Gobierno o de los esquemas alternativos que pudieran adoptarse en el futuro para sustituirlos total o parcialmente.
 
 II. Un registro de Unidades de Estado.
 

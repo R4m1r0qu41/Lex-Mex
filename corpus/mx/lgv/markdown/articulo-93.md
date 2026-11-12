@@ -7,8 +7,8 @@ provision_type: article
 number: "93"
 aliases: ["LGV — Artículo 93"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -21,7 +21,7 @@ La [Comisión Ejecutiva](articulo-6.md) cuenta con un comité interdisciplinario
 
 I. Elaborar los proyectos de dictamen de acceso a los recursos para el otorgamiento de los [Recursos de Ayuda](articulo-6.md); Fracción reformada DOF 06-11-2020
 
-II. Elaborar los proyectos de dictamen de reparación integral y, en su caso, la compensación, previstas en la Ley y el [Reglamento](articulo-6.md);
+II. Elaborar los proyectos de dictamen de reparación integral y, en su caso, la compensación, previstas en la [Ley](articulo-6.md) y el [Reglamento](articulo-6.md);
 
 III. Elaborar los proyectos de dictamen para la creación de fondos de emergencia, y
 

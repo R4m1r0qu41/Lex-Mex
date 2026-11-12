@@ -17,6 +17,8 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 # Artículo 579
 
-El Consejo de Representantes se integrará: I. Con la representación del gobierno, compuesta del Presidente de la Comisión, que será también el Presidente del Consejo y que tendrá el voto del gobierno, y de dos asesores, con voz informativa, designados por el Secretario del Trabajo y Previsión Social; y
+El Consejo de Representantes se integrará:
+
+I. Con la representación del gobierno, compuesta del Presidente de la Comisión, que será también el Presidente del Consejo y que tendrá el voto del gobierno, y de dos asesores, con voz informativa, designados por el Secretario del Trabajo y Previsión Social; y
 
 II. Con un número igual, no menor de dos ni mayor de cinco, de representantes propietarios y suplentes de los trabajadores sindicalizados y de los patrones, designados de conformidad con la convocatoria que al efecto expida la Secretaría del Trabajo y Previsión Social. Si los trabajadores y los patrones no hacen la designación de representantes, la misma Secretaría hará las designaciones correspondientes, que deberán recaer en trabajadores o patrones.

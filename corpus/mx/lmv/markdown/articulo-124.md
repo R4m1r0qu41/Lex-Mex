@@ -27,7 +27,9 @@ I. Los funcionarios y empleados de la casa de bolsa, con excepción del director
 
 II. El cónyuge, la concubina o el concubinario de cualquier consejero, así como las personas que tengan parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, con más de dos consejeros.
 
-III. Las personas que tengan litigio pendiente en contra de la casa de bolsa de que se trate. IV. Las personas sentenciadas por delitos patrimoniales, así como las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano.
+III. Las personas que tengan litigio pendiente en contra de la casa de bolsa de que se trate.
+
+IV. Las personas sentenciadas por delitos patrimoniales, así como las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano.
 
 V. Los quebrados y concursados que no hayan sido rehabilitados.
 

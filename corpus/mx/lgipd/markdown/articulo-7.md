@@ -23,7 +23,9 @@ I. Diseñar, ejecutar y evaluar programas de salud pública para la orientación
 
 II. Crear o fortalecer establecimientos de salud y de asistencia social que permitan ejecutar los programas señalados en la fracción anterior, los cuales se extenderán a las regiones rurales, las comunidades indígenas y afromexicanas, considerando los derechos humanos, dignidad, autonomía y necesidades de las personas con discapacidad; Fracción reformada DOF 01-04-2024, 04-04-2024
 
-III. Elaborar e implementar en coordinación con la Secretaría de Educación Pública, en lo que corresponda, programas de educación, capacitación, formación y especialización para la salud en materia de discapacidad, a fin de que los profesionales de la salud proporcionen a las personas con discapacidad una atención digna y de calidad, sobre la base de un consentimiento libre e informado; IV. Crear bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido, que sean accesibles a la población con discapacidad;
+III. Elaborar e implementar en coordinación con la Secretaría de Educación Pública, en lo que corresponda, programas de educación, capacitación, formación y especialización para la salud en materia de discapacidad, a fin de que los profesionales de la salud proporcionen a las personas con discapacidad una atención digna y de calidad, sobre la base de un consentimiento libre e informado;
+
+IV. Crear bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido, que sean accesibles a la población con discapacidad;
 
 V. Fomentar la creación de centros asistenciales, temporales o permanentes, para personas con discapacidad en desamparo, donde sean atendidas en condiciones que respeten su dignidad y sus derechos, de conformidad con los principios establecidos en la presente [Ley](articulo-2.md);
 

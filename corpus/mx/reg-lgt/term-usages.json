@@ -19,30 +19,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:2:term-usage:1578-1598",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:2:term-usage:1579-1599",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:circuitos-turisticos",
     "span": "Circuitos Turísticos",
-    "start_char": 1578,
-    "end_char": 1598
+    "start_char": 1579,
+    "end_char": 1599
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:2:term-usage:2446-2453",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:2:term-usage:2447-2454",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
     "span": "Turismo",
-    "start_char": 2446,
-    "end_char": 2453
+    "start_char": 2447,
+    "end_char": 2454
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:2:term-usage:2930-2949",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:2:term-usage:2931-2950",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 2930,
-    "end_char": 2949
+    "start_char": 2931,
+    "end_char": 2950
   },
   {
     "schema_version": "0.1.0",
@@ -55,57 +55,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:759-779",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:760-780",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:desarrollo-turistico",
     "span": "Desarrollo Turístico",
-    "start_char": 759,
-    "end_char": 779
+    "start_char": 760,
+    "end_char": 780
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:1014-1021",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:1015-1022",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
     "span": "Turismo",
-    "start_char": 1014,
-    "end_char": 1021
+    "start_char": 1015,
+    "end_char": 1022
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:1437-1444",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:1438-1445",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
     "span": "Turismo",
-    "start_char": 1437,
-    "end_char": 1444
+    "start_char": 1438,
+    "end_char": 1445
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:2122-2141",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:2123-2142",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 2122,
-    "end_char": 2141
+    "start_char": 2123,
+    "end_char": 2142
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:2299-2318",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:2300-2319",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 2299,
-    "end_char": 2318
+    "start_char": 2300,
+    "end_char": 2319
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:2531-2550",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:3:term-usage:2532-2551",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 2531,
-    "end_char": 2550
+    "start_char": 2532,
+    "end_char": 2551
   },
   {
     "schema_version": "0.1.0",
@@ -127,102 +127,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:671-690",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:672-691",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 671,
-    "end_char": 690
+    "start_char": 672,
+    "end_char": 691
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:888-907",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:889-908",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 888,
-    "end_char": 907
+    "start_char": 889,
+    "end_char": 908
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:1175-1194",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:1176-1195",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 1175,
-    "end_char": 1194
+    "start_char": 1176,
+    "end_char": 1195
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:1382-1404",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:1383-1405",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:infraestructura-urbana",
     "span": "Infraestructura Urbana",
-    "start_char": 1382,
-    "end_char": 1404
+    "start_char": 1383,
+    "end_char": 1405
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:1413-1432",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:1414-1433",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:equipamiento-urbano",
     "span": "Equipamiento Urbano",
-    "start_char": 1413,
-    "end_char": 1432
+    "start_char": 1414,
+    "end_char": 1433
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:2208-2228",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:2209-2229",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:desarrollo-turistico",
     "span": "Desarrollo Turístico",
-    "start_char": 2208,
-    "end_char": 2228
+    "start_char": 2209,
+    "end_char": 2229
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:2608-2615",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:2609-2616",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo",
     "span": "Turismo",
-    "start_char": 2608,
-    "end_char": 2615
+    "start_char": 2609,
+    "end_char": 2616
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:2959-2981",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:2961-2983",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:infraestructura-urbana",
     "span": "Infraestructura Urbana",
-    "start_char": 2959,
-    "end_char": 2981
+    "start_char": 2961,
+    "end_char": 2983
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:2984-3003",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:2986-3005",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:equipamiento-urbano",
     "span": "Equipamiento Urbano",
-    "start_char": 2984,
-    "end_char": 3003
+    "start_char": 2986,
+    "end_char": 3005
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:3011-3030",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:3013-3032",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 3011,
-    "end_char": 3030
+    "start_char": 3013,
+    "end_char": 3032
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:3461-3480",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:4:term-usage:3463-3482",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 3461,
-    "end_char": 3480
+    "start_char": 3463,
+    "end_char": 3482
   },
   {
     "schema_version": "0.1.0",
@@ -343,21 +343,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:19:term-usage:159-179",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:19:term-usage:160-180",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:19",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:productos-turisticos",
     "span": "Productos Turísticos",
-    "start_char": 159,
-    "end_char": 179
+    "start_char": 160,
+    "end_char": 180
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:19:term-usage:297-317",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:19:term-usage:298-318",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:19",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:productos-turisticos",
     "span": "Productos Turísticos",
-    "start_char": 297,
-    "end_char": 317
+    "start_char": 298,
+    "end_char": 318
   },
   {
     "schema_version": "0.1.0",
@@ -1045,21 +1045,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:67:term-usage:969-983",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:67:term-usage:970-984",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:67",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:turismo-social",
     "span": "Turismo Social",
-    "start_char": 969,
-    "end_char": 983
+    "start_char": 970,
+    "end_char": 984
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:67:term-usage:1116-1135",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:67:term-usage:1117-1136",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:67",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 1116,
-    "end_char": 1135
+    "start_char": 1117,
+    "end_char": 1136
   },
   {
     "schema_version": "0.1.0",
@@ -1225,39 +1225,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:term-usage:3543-3563",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:term-usage:3544-3564",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:83",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:circuitos-turisticos",
     "span": "Circuitos Turísticos",
-    "start_char": 3543,
-    "end_char": 3563
+    "start_char": 3544,
+    "end_char": 3564
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:term-usage:3566-3585",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:term-usage:3567-3586",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:83",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destinos Turísticos",
-    "start_char": 3566,
-    "end_char": 3585
+    "start_char": 3567,
+    "end_char": 3586
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:term-usage:5762-5782",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:term-usage:5763-5783",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:83",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:productos-turisticos",
     "span": "Productos Turísticos",
-    "start_char": 5762,
-    "end_char": 5782
+    "start_char": 5763,
+    "end_char": 5783
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:term-usage:6154-6171",
+    "id": "urn:lex-mx:federal:regulation:reg-lgt:article:83:term-usage:6155-6172",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:83",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgt:term:destino-turistico",
     "span": "Destino Turístico",
-    "start_char": 6154,
-    "end_char": 6171
+    "start_char": 6155,
+    "end_char": 6172
   },
   {
     "schema_version": "0.1.0",

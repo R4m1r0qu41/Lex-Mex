@@ -17,7 +17,9 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 # Artículo 353
 
-En el ámbito de la vigilancia epidemiológica, la escala para valorar el estatus sanitario de zona o región o compartimento en el territorio nacional, así como la totalidad del país estará basada en las fases de campañas establecidas y será la siguiente: I. Control;
+En el ámbito de la vigilancia epidemiológica, la escala para valorar el estatus sanitario de zona o región o compartimento en el territorio nacional, así como la totalidad del país estará basada en las fases de campañas establecidas y será la siguiente:
+
+I. Control;
 
 II. Escasa prevalencia;
 

@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgdfs:article:7",
-      "provision_text_sha256": "0158d7dc5ff027dd01b7b62dcef3989f66808e5ac29eec58bb52f66c433c626d",
+      "provision_text_sha256": "5f9862fffc476662241f4d2de5abcbf9555d4881bca021f20631ce5430637eed",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -68,6 +68,7 @@
         "XLIX",
         "L",
         "LI",
+        "LII",
         "LIII",
         "LIV",
         "LV",
@@ -106,10 +107,10 @@
         "LXXXIV"
       ],
       "unread_fractions": [],
-      "term_count": 93
+      "term_count": 94
     }
   ],
   "imports": [],
-  "term_count": 93,
-  "usage_count": 406
+  "term_count": 94,
+  "usage_count": 407
 }

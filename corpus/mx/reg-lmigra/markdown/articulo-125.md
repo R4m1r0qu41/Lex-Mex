@@ -23,7 +23,9 @@ I. Nivel educativo;
 
 II. Experiencia laboral en áreas de interés para el país que tengan gran demanda y poca oferta;
 
-III. Experiencia laboral en otras áreas; IV. Inversionista;
+III. Experiencia laboral en otras áreas;
+
+IV. Inversionista;
 
 V. Aptitudes en ciencia y tecnología;
 

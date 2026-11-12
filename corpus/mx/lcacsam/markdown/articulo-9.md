@@ -31,7 +31,9 @@ V.- Participación en campañas y acciones de guerra;
 
 VI.- Cargos y comisiones desempeñados;
 
-VII.- Hechos meritorios realizados; VIII.- Premios y recompensas;
+VII.- Hechos meritorios realizados;
+
+VIII.- Premios y recompensas;
 
 IX.- Castigos sufridos;
 

@@ -27,7 +27,9 @@ III. Realizar la identificación de los componentes que ingresan al almacén y q
 
 IV. Dirigir el desarrollo, implementación y evaluación de los procedimientos de seguridad aérea;
 
-V. Realizar auditorías de calidad a las diferentes áreas de la Coordinación de Apoyo Táctico Aéreo a fin de garantizar el cumplimiento de las políticas, objetivos y procedimientos establecidos; VI. Coadyuvar con las diferentes áreas de las Coordinación de Apoyo Táctico Aéreo, en el desarrollo, implementación y medición de los manuales de procedimientos;
+V. Realizar auditorías de calidad a las diferentes áreas de la Coordinación de Apoyo Táctico Aéreo a fin de garantizar el cumplimiento de las políticas, objetivos y procedimientos establecidos;
+
+VI. Coadyuvar con las diferentes áreas de las Coordinación de Apoyo Táctico Aéreo, en el desarrollo, implementación y medición de los manuales de procedimientos;
 
 VII. Coadyuvar con las diferentes áreas en la elaboración y control de registros y estadísticas de indicadores;
 

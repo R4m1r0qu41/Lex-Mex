@@ -43,7 +43,9 @@ XI. Participar con las instancias de coordinación interinstitucional para el in
 
 XII. Proporcionar el apoyo Institucional a las autoridades y organismos que lo soliciten, a quienes, en su caso, se les requerirá la información necesaria, para la atención de casos específicos;
 
-XIII. Desarrollar y aplicar planes de acción determinados para la recolección de información y elaboración de estudios y diagnósticos en el ámbito de competencia de la División Antidrogas; XIV. Evaluar los mecanismos aplicados en apoyo a las instancias correspondientes, referente a actividades de transportación, transferencia, falsificación y alteración de moneda, y otros actos con recursos de procedencia ilícita;
+XIII. Desarrollar y aplicar planes de acción determinados para la recolección de información y elaboración de estudios y diagnósticos en el ámbito de competencia de la División Antidrogas;
+
+XIV. Evaluar los mecanismos aplicados en apoyo a las instancias correspondientes, referente a actividades de transportación, transferencia, falsificación y alteración de moneda, y otros actos con recursos de procedencia ilícita;
 
 XV. Auxiliar a instituciones policiales extranjeras, en acciones derivadas por delitos de su competencia;
 

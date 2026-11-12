@@ -17,4 +17,4 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 19
 
-El solicitante tendrá derecho a recibir información clara, oportuna y gratuita sobre el procedimiento de reconocimiento de la condición de refugiado y sobre los derechos inherentes al mismo, así como los recursos que esta Ley y otras le concedan.
+El solicitante tendrá derecho a recibir información clara, oportuna y gratuita sobre el procedimiento de reconocimiento de la condición de refugiado y sobre los derechos inherentes al mismo, así como los recursos que esta [Ley](articulo-2.md) y otras le concedan.

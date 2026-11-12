@@ -29,7 +29,9 @@ III. Proporcionar asistencia técnica a las personas productoras en las diversas
 
 IV. Organizar servicios orientados al mejoramiento de la productividad, control de calidad y catación;
 
-V. Mantener en forma actualizada los estudios de precios de los mercados internacionales, según las variedades de café mexicano; VI. Promover que la asistencia técnica llegue a las personas productoras en forma eficiente;
+V. Mantener en forma actualizada los estudios de precios de los mercados internacionales, según las variedades de café mexicano;
+
+VI. Promover que la asistencia técnica llegue a las personas productoras en forma eficiente;
 
 VII. Coordinar con organismos especializados el cuidado y preservación del medio ambiente, así como la realización de monitoreos periódicos que evalúen los impactos y contribuciones ambientales de la producción cafetalera;
 

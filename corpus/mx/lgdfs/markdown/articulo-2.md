@@ -19,7 +19,9 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 Son objetivos generales de esta Ley:
 
-I. Conservar y restaurar el patrimonio natural y contribuir, al desarrollo social, económico y ambiental del país, mediante el manejo integral sustentable de los recursos forestales en las cuencas hidrográficas, con un enfoque ecosistémico en el marco de las disposiciones aplicables; II. Promover el desarrollo científico y tecnológico, así como la transferencia de tecnología, como medios para alcanzar el desarrollo forestal sustentable;
+I. Conservar y restaurar el patrimonio natural y contribuir, al desarrollo social, económico y ambiental del país, mediante el manejo integral sustentable de los recursos forestales en las cuencas hidrográficas, con un enfoque ecosistémico en el marco de las disposiciones aplicables;
+
+II. Promover el desarrollo científico y tecnológico, así como la transferencia de tecnología, como medios para alcanzar el desarrollo forestal sustentable;
 
 III. Impulsar la silvicultura, el manejo y el aprovechamiento sustentable de los recursos forestales, para que contribuyan con bienes y servicios que aseguren el mejoramiento de la calidad de vida de la población, con la participación corresponsable de los propietarios y legítimos poseedores de terrenos forestales;
 

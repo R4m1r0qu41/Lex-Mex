@@ -19,7 +19,9 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 Para los efectos de esta [Ley](articulo-2.md) se entenderá por:
 
-I. Accesibilidad. Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales; II. Ajustes Razonables. Se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
+I. Accesibilidad. Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
+
+II. Ajustes Razonables. Se entenderán las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
 III. Asistencia Social. Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
 
@@ -79,7 +81,9 @@ XXIX. Prevención. La adopción de medidas encaminadas a impedir que se produzca
 
 XXX. Programa. El Programa Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad; Fracción recorrida DOF 22-06-2018, 12-07-2018
 
-XXXI. Rehabilitación. Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social; Fracción recorrida DOF 22-06-2018, 12-07-2018 XXXII. Sistema. Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad; Fracción recorrida DOF 22-06-2018, 12-07-2018
+XXXI. Rehabilitación. Proceso de duración limitada y con un objetivo definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social; Fracción recorrida DOF 22-06-2018, 12-07-2018
+
+XXXII. Sistema. Sistema Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad; Fracción recorrida DOF 22-06-2018, 12-07-2018
 
 XXXIII. Sistema de Escritura Braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas ciegas, y Fracción recorrida DOF 22-06-2018, 12-07-2018
 

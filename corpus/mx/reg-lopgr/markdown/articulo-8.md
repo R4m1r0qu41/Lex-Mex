@@ -21,7 +21,9 @@ Para ser nombrado Oficial Mayor en la Institución se deberán cumplir los requi
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
-II. Tener cuando menos treinta años cumplidos el día de la designación; III. Contar con título de licenciatura y cédula profesional en alguna disciplina afín a sus funciones, así como con por lo menos cinco años de ejercicio profesional contados a partir de la fecha de expedición de la cédula;
+II. Tener cuando menos treinta años cumplidos el día de la designación;
+
+III. Contar con título de licenciatura y cédula profesional en alguna disciplina afín a sus funciones, así como con por lo menos cinco años de ejercicio profesional contados a partir de la fecha de expedición de la cédula;
 
 IV. Tener acreditado, en su caso, el Servicio Militar Nacional;
 

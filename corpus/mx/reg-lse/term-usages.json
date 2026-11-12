@@ -64,156 +64,156 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:1695-1717",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:1696-1718",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:plan-de-gestion-social",
     "span": "Plan de Gestión Social",
-    "start_char": 1695,
-    "end_char": 1717
+    "start_char": 1696,
+    "end_char": 1718
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:1948-1965",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:1949-1966",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:impacto-social",
     "span": "Impactos Sociales",
-    "start_char": 1948,
-    "end_char": 1965
+    "start_char": 1949,
+    "end_char": 1966
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:3301-3310",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:3302-3311",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:seguridad",
     "span": "Seguridad",
-    "start_char": 3301,
-    "end_char": 3310
+    "start_char": 3302,
+    "end_char": 3311
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:6477-6488",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:6479-6490",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:solicitante",
     "span": "Solicitante",
-    "start_char": 6477,
-    "end_char": 6488
+    "start_char": 6479,
+    "end_char": 6490
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7041-7066",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7043-7068",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:especificacion-tecnica",
     "span": "Especificaciones Técnicas",
-    "start_char": 7041,
-    "end_char": 7066
+    "start_char": 7043,
+    "end_char": 7068
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7142-7145",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7144-7147",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 7142,
-    "end_char": 7145
+    "start_char": 7144,
+    "end_char": 7147
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7561-7575",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7563-7577",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:impacto-social",
     "span": "Impacto Social",
-    "start_char": 7561,
-    "end_char": 7575
+    "start_char": 7563,
+    "end_char": 7577
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7630-7647",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7632-7649",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:impacto-social",
     "span": "Impactos Sociales",
-    "start_char": 7630,
-    "end_char": 7647
+    "start_char": 7632,
+    "end_char": 7649
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7658-7689",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:7660-7691",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:beneficios-sociales-compartidos",
     "span": "Beneficios Sociales Compartidos",
-    "start_char": 7658,
-    "end_char": 7689
+    "start_char": 7660,
+    "end_char": 7691
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:8617-8627",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:8619-8629",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:eficiencia",
     "span": "Eficiencia",
-    "start_char": 8617,
-    "end_char": 8627
+    "start_char": 8619,
+    "end_char": 8629
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:8629-8638",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:8631-8640",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:seguridad",
     "span": "Seguridad",
-    "start_char": 8629,
-    "end_char": 8638
+    "start_char": 8631,
+    "end_char": 8640
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:9932-9947",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:9934-9949",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:obra-especifica",
     "span": "Obra Específica",
-    "start_char": 9932,
-    "end_char": 9947
+    "start_char": 9934,
+    "end_char": 9949
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:9952-9962",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:9954-9964",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ampliacion",
     "span": "Ampliación",
-    "start_char": 9952,
-    "end_char": 9962
+    "start_char": 9954,
+    "end_char": 9964
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:9965-9977",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:9967-9979",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:modificacion",
     "span": "Modificación",
-    "start_char": 9965,
-    "end_char": 9977
+    "start_char": 9967,
+    "end_char": 9979
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:10119-10122",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:10121-10124",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 10119,
-    "end_char": 10122
+    "start_char": 10121,
+    "end_char": 10124
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:10844-10864",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:10846-10866",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:grupo-de-autoconsumo",
     "span": "Grupo de Autoconsumo",
-    "start_char": 10844,
-    "end_char": 10864
+    "start_char": 10846,
+    "end_char": 10866
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:11113-11116",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:2:term-usage:11115-11118",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 11113,
-    "end_char": 11116
+    "start_char": 11115,
+    "end_char": 11118
   },
   {
     "schema_version": "0.1.0",
@@ -586,21 +586,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:24:term-usage:288-307",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:24:term-usage:289-308",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:capacidad-instalada",
     "span": "Capacidad Instalada",
-    "start_char": 288,
-    "end_char": 307
+    "start_char": 289,
+    "end_char": 308
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:24:term-usage:554-574",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:24:term-usage:555-575",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:grupo-de-autoconsumo",
     "span": "Grupo de Autoconsumo",
-    "start_char": 554,
-    "end_char": 574
+    "start_char": 555,
+    "end_char": 575
   },
   {
     "schema_version": "0.1.0",
@@ -658,12 +658,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:34:term-usage:1516-1555",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:34:term-usage:1517-1556",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:34",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:personas-en-situacion-de-vulnerabilidad",
     "span": "Personas en Situación de Vulnerabilidad",
-    "start_char": 1516,
-    "end_char": 1555
+    "start_char": 1517,
+    "end_char": 1556
   },
   {
     "schema_version": "0.1.0",
@@ -1126,48 +1126,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:381-400",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:382-401",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:sistema-de-medicion",
     "span": "Sistema de Medición",
-    "start_char": 381,
-    "end_char": 400
+    "start_char": 382,
+    "end_char": 401
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:775-794",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:776-795",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:sistema-de-medicion",
     "span": "Sistema de Medición",
-    "start_char": 775,
-    "end_char": 794
+    "start_char": 776,
+    "end_char": 795
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:1555-1574",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:1556-1575",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:sistema-de-medicion",
     "span": "Sistema de Medición",
-    "start_char": 1555,
-    "end_char": 1574
+    "start_char": 1556,
+    "end_char": 1575
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:3372-3391",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:3373-3392",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:sistema-de-medicion",
     "span": "Sistema de Medición",
-    "start_char": 3372,
-    "end_char": 3391
+    "start_char": 3373,
+    "end_char": 3392
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:3610-3629",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:103:term-usage:3611-3630",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:103",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:sistema-de-medicion",
     "span": "Sistema de Medición",
-    "start_char": 3610,
-    "end_char": 3629
+    "start_char": 3611,
+    "end_char": 3630
   },
   {
     "schema_version": "0.1.0",
@@ -1441,30 +1441,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:119:term-usage:1997-2015",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:119:term-usage:1998-2016",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:119",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:tarifas-electricas",
     "span": "Tarifas Eléctricas",
-    "start_char": 1997,
-    "end_char": 2015
+    "start_char": 1998,
+    "end_char": 2016
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:119:term-usage:2123-2133",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:119:term-usage:2124-2134",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:119",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ampliacion",
     "span": "Ampliación",
-    "start_char": 2123,
-    "end_char": 2133
+    "start_char": 2124,
+    "end_char": 2134
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:119:term-usage:2246-2264",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:119:term-usage:2247-2265",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:119",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:tarifas-electricas",
     "span": "Tarifas Eléctricas",
-    "start_char": 2246,
-    "end_char": 2264
+    "start_char": 2247,
+    "end_char": 2265
   },
   {
     "schema_version": "0.1.0",
@@ -2188,21 +2188,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:177:term-usage:4915-4937",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:177:term-usage:4916-4938",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:177",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:vigilancia-del-mercado",
     "span": "Vigilancia del Mercado",
-    "start_char": 4915,
-    "end_char": 4937
+    "start_char": 4916,
+    "end_char": 4938
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:177:term-usage:5102-5105",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:177:term-usage:5103-5106",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:177",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 5102,
-    "end_char": 5105
+    "start_char": 5103,
+    "end_char": 5106
   },
   {
     "schema_version": "0.1.0",
@@ -2431,12 +2431,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:203:term-usage:377-380",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:203:term-usage:378-381",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:203",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 377,
-    "end_char": 380
+    "start_char": 378,
+    "end_char": 381
   },
   {
     "schema_version": "0.1.0",
@@ -2539,12 +2539,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:207:term-usage:189-206",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:207:term-usage:190-207",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:207",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:impacto-social",
     "span": "Impactos Sociales",
-    "start_char": 189,
-    "end_char": 206
+    "start_char": 190,
+    "end_char": 207
   },
   {
     "schema_version": "0.1.0",
@@ -2809,12 +2809,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:216:term-usage:809-841",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:216:term-usage:810-842",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:216",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:impactos-sociales-significativos",
     "span": "Impactos Sociales Significativos",
-    "start_char": 809,
-    "end_char": 841
+    "start_char": 810,
+    "end_char": 842
   },
   {
     "schema_version": "0.1.0",
@@ -2908,84 +2908,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:160-175",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:161-176",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:consulta-previa",
     "span": "Consulta Previa",
-    "start_char": 160,
-    "end_char": 175
+    "start_char": 161,
+    "end_char": 176
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:285-288",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:286-289",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 285,
-    "end_char": 288
+    "start_char": 286,
+    "end_char": 289
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:542-557",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:543-558",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:consulta-previa",
     "span": "Consulta Previa",
-    "start_char": 542,
-    "end_char": 557
+    "start_char": 543,
+    "end_char": 558
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:809-824",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:810-825",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:consulta-previa",
     "span": "Consulta Previa",
-    "start_char": 809,
-    "end_char": 824
+    "start_char": 810,
+    "end_char": 825
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:1148-1163",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:1149-1164",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:consulta-previa",
     "span": "Consulta Previa",
-    "start_char": 1148,
-    "end_char": 1163
+    "start_char": 1149,
+    "end_char": 1164
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:1486-1501",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:1487-1502",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:consulta-previa",
     "span": "Consulta Previa",
-    "start_char": 1486,
-    "end_char": 1501
+    "start_char": 1487,
+    "end_char": 1502
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:1689-1704",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:1690-1705",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:consulta-previa",
     "span": "Consulta Previa",
-    "start_char": 1689,
-    "end_char": 1704
+    "start_char": 1690,
+    "end_char": 1705
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:1998-2020",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:1999-2021",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:plan-de-gestion-social",
     "span": "Plan de Gestión Social",
-    "start_char": 1998,
-    "end_char": 2020
+    "start_char": 1999,
+    "end_char": 2021
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:2076-2079",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:221:term-usage:2077-2080",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 2076,
-    "end_char": 2079
+    "start_char": 2077,
+    "end_char": 2080
   },
   {
     "schema_version": "0.1.0",
@@ -3016,12 +3016,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:222:term-usage:1614-1617",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:222:term-usage:1615-1618",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:222",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 1614,
-    "end_char": 1617
+    "start_char": 1615,
+    "end_char": 1618
   },
   {
     "schema_version": "0.1.0",
@@ -3583,39 +3583,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:301:term-usage:175-178",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:301:term-usage:176-179",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:301",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 175,
-    "end_char": 178
+    "start_char": 176,
+    "end_char": 179
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:301:term-usage:1270-1273",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:301:term-usage:1271-1274",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:301",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 1270,
-    "end_char": 1273
+    "start_char": 1271,
+    "end_char": 1274
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:301:term-usage:1583-1586",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:301:term-usage:1584-1587",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:301",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 1583,
-    "end_char": 1586
+    "start_char": 1584,
+    "end_char": 1587
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lse:article:301:term-usage:1802-1805",
+    "id": "urn:lex-mx:federal:regulation:reg-lse:article:301:term-usage:1803-1806",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:301",
     "term_id": "urn:lex-mx:federal:regulation:reg-lse:term:ley",
     "span": "Ley",
-    "start_char": 1802,
-    "end_char": 1805
+    "start_char": 1803,
+    "end_char": 1806
   },
   {
     "schema_version": "0.1.0",

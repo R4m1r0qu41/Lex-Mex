@@ -33,7 +33,9 @@ VI. Mantener la confidencialidad del diálogo que se establezca durante el proce
 
 VII. Intervenir conjuntamente con el Instituto de Formación Profesional en el diseño del plan curricular de asignaturas del Programa de Capacitación de Formación de Mediadores;
 
-VIII. Propiciar la capacitación entre el personal de las unidades administrativas de la Institución que lo requieran, dentro del Programa de Capacitación de Formación de Mediadores; IX. Promover y difundir conjuntamente con el Instituto de Formación Profesional conferencias, coloquios, talleres, cursos, seminarios, simposios o similares, en materia de mediación y conciliación;
+VIII. Propiciar la capacitación entre el personal de las unidades administrativas de la Institución que lo requieran, dentro del Programa de Capacitación de Formación de Mediadores;
+
+IX. Promover y difundir conjuntamente con el Instituto de Formación Profesional conferencias, coloquios, talleres, cursos, seminarios, simposios o similares, en materia de mediación y conciliación;
 
 X. Seleccionar al personal que se adscriba a la Unidad, con base en la determinación del perfil del puesto;
 

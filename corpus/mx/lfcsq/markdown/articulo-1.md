@@ -17,7 +17,7 @@ source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 
 # Artículo 1
 
-La presente Ley es de orden público y de observancia general en el territorio de la República y áreas bajo la jurisdicción del Estado mexicano, y tiene por objeto establecer medidas de control a los sujetos obligados que realicen Actividades Reguladas relacionadas con las sustancias químicas susceptibles de desvío, así como respecto de las instalaciones, tecnología, equipo especializado y corriente utilizado para dichas actividades.
+La presente Ley es de orden público y de observancia general en el territorio de la República y áreas bajo la jurisdicción del Estado mexicano, y tiene por objeto establecer medidas de control a los sujetos obligados que realicen [Actividades Reguladas](articulo-2.md) relacionadas con las sustancias químicas susceptibles de desvío, así como respecto de las instalaciones, tecnología, equipo especializado y corriente utilizado para dichas actividades.
 
 Las medidas de control aplicables a los sujetos obligados son el registro, la declaración, la inspección, la revisión y controles a la importación, exportación y transporte.
 

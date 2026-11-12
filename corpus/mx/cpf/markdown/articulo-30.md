@@ -17,7 +17,9 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 # Artículo 30
 
-La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos: I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
+La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
+
+I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
 
 II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
 

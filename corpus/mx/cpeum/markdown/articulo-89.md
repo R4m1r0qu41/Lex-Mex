@@ -33,7 +33,9 @@ IV. Nombrar, con aprobación del Senado, a los Coroneles y demás oficiales supe
 
 V. Nombrar a los demás oficiales del Ejército, Armada, Fuerza Aérea y Guardia Nacional, con arreglo a las leyes; Fracción reformada DOF 10-02-1944, 30-09-2024
 
-VI. Preservar la seguridad nacional, en los términos de la ley respectiva, y disponer de la totalidad de la Fuerza Armada permanente, o sea del Ejército, de la Armada, de la Fuerza Aérea y de la Guardia Nacional para la seguridad interior y defensa exterior de la Federación; Fracción reformada DOF 10-02-1944, 05-04-2004, 30-09-2024 VII. Disponer del Ejército, de la Armada y de la Fuerza Aérea, en tareas de apoyo a la seguridad pública, en los términos que señale la ley; Fracción reformada DOF 26-03-2019, 30-09-2024
+VI. Preservar la seguridad nacional, en los términos de la ley respectiva, y disponer de la totalidad de la Fuerza Armada permanente, o sea del Ejército, de la Armada, de la Fuerza Aérea y de la Guardia Nacional para la seguridad interior y defensa exterior de la Federación; Fracción reformada DOF 10-02-1944, 05-04-2004, 30-09-2024
+
+VII. Disponer del Ejército, de la Armada y de la Fuerza Aérea, en tareas de apoyo a la seguridad pública, en los términos que señale la ley; Fracción reformada DOF 26-03-2019, 30-09-2024
 
 VIII. Declarar la guerra en nombre de los Estados Unidos Mexicanos, previa ley del Congreso de la Unión.
 

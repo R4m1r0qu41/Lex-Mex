@@ -25,7 +25,9 @@ I. Prestar educación especial en condiciones necesarias, previa decisión y val
 
 II. Ofrecer formatos accesibles a cada educando con discapacidad visual, auditiva, intelectual, psicosocial, de lenguaje o motriz, en la medida de lo posible para su incorporación a todos los servicios educativos, así como la posibilidad de acceder al servicio escolarizado;
 
-III. Prestar y fortalecer la educación especial para apoyar a las y los educandos con alguna discapacidad, aptitudes sobresalientes y/o trastornos en los niveles de educación obligatoria, y brindar las opciones educativas pertinentes; IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
+III. Prestar y fortalecer la educación especial para apoyar a las y los educandos con alguna discapacidad, aptitudes sobresalientes y/o trastornos en los niveles de educación obligatoria, y brindar las opciones educativas pertinentes;
+
+IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
 
 V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y brinden los apoyos que las y los educandos requieran;
 

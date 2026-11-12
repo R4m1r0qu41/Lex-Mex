@@ -55,84 +55,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:725-728",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:726-729",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:ley",
     "span": "Ley",
-    "start_char": 725,
-    "end_char": 728
+    "start_char": 726,
+    "end_char": 729
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:895-899",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:896-900",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 895,
-    "end_char": 899
+    "start_char": 896,
+    "end_char": 900
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:1224-1228",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:1225-1229",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 1224,
-    "end_char": 1228
+    "start_char": 1225,
+    "end_char": 1229
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:1298-1302",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:1299-1303",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 1298,
-    "end_char": 1302
+    "start_char": 1299,
+    "end_char": 1303
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:1659-1663",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:1660-1664",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 1659,
-    "end_char": 1663
+    "start_char": 1660,
+    "end_char": 1664
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:2040-2044",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:2041-2045",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 2040,
-    "end_char": 2044
+    "start_char": 2041,
+    "end_char": 2045
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:2321-2325",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:2322-2326",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 2321,
-    "end_char": 2325
+    "start_char": 2322,
+    "end_char": 2326
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:2531-2534",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:2532-2535",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vid",
     "span": "Vid",
-    "start_char": 2531,
-    "end_char": 2534
+    "start_char": 2532,
+    "end_char": 2535
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:2584-2588",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:3:term-usage:2585-2589",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 2584,
-    "end_char": 2588
+    "start_char": 2585,
+    "end_char": 2589
   },
   {
     "schema_version": "0.1.0",
@@ -163,39 +163,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:5:term-usage:522-528",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:5:term-usage:523-529",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:sector",
     "span": "Sector",
-    "start_char": 522,
-    "end_char": 528
+    "start_char": 523,
+    "end_char": 529
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:5:term-usage:663-676",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:5:term-usage:664-677",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino-mexicano",
     "span": "Vino Mexicano",
-    "start_char": 663,
-    "end_char": 676
+    "start_char": 664,
+    "end_char": 677
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:5:term-usage:952-965",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:5:term-usage:953-966",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino-mexicano",
     "span": "Vino Mexicano",
-    "start_char": 952,
-    "end_char": 965
+    "start_char": 953,
+    "end_char": 966
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:5:term-usage:1103-1116",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:5:term-usage:1104-1117",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:5",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino-mexicano",
     "span": "Vino Mexicano",
-    "start_char": 1103,
-    "end_char": 1116
+    "start_char": 1104,
+    "end_char": 1117
   },
   {
     "schema_version": "0.1.0",
@@ -280,12 +280,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:11-19",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 11,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:196-199",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:ley",
     "span": "Ley",
     "start_char": 196,
     "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:238-246",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 238,
+    "end_char": 246
   },
   {
     "schema_version": "0.1.0",
@@ -298,6 +316,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:561-569",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 561,
+    "end_char": 569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:768-776",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 768,
+    "end_char": 776
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:824-827",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:ley",
@@ -307,12 +343,66 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:861-869",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 861,
+    "end_char": 869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:9:term-usage:973-981",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 973,
+    "end_char": 981
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:10:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:11:term-usage:33-41",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 33,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:11:term-usage:101-111",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:11",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
     "span": "Secretaría",
     "start_char": 101,
     "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:11:term-usage:215-223",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 215,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:12:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
   },
   {
     "schema_version": "0.1.0",
@@ -352,6 +442,96 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:12:term-usage:1532-1540",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 1532,
+    "end_char": 1540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:13:term-usage:211-219",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 211,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:14:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:15:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:16:term-usage:43-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 43,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:16:term-usage:117-125",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 117,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:16:term-usage:222-230",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 222,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:16:term-usage:373-381",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 373,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:16:term-usage:414-422",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 414,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:16:term-usage:642-650",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 642,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:16:term-usage:722-728",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:16",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:sector",
@@ -361,12 +541,48 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:16:term-usage:777-785",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 777,
+    "end_char": 785
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:17:term-usage:56-66",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
     "span": "Secretaría",
     "start_char": 56,
     "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:17:term-usage:84-92",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 84,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:17:term-usage:266-274",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 266,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:18:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
   },
   {
     "schema_version": "0.1.0",
@@ -388,12 +604,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:18:term-usage:411-419",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 411,
+    "end_char": 419
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:18:term-usage:591-602",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:18",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:secretaria",
     "span": "Secretarías",
     "start_char": 591,
     "end_char": 602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:18:term-usage:665-673",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 665,
+    "end_char": 673
   },
   {
     "schema_version": "0.1.0",
@@ -415,6 +649,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:19:term-usage:417-425",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 417,
+    "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:19:term-usage:485-498",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:19",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino-mexicano",
@@ -430,6 +673,15 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:20:term-usage:37-45",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 37,
+    "end_char": 45
   },
   {
     "schema_version": "0.1.0",
@@ -487,6 +739,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:49-57",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 49,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:69-75",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:sector",
@@ -496,30 +757,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:117-130",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:118-131",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino-mexicano",
     "span": "Vino Mexicano",
-    "start_char": 117,
-    "end_char": 130
+    "start_char": 118,
+    "end_char": 131
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:292-296",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:293-297",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 292,
-    "end_char": 296
+    "start_char": 293,
+    "end_char": 297
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:788-801",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:21:term-usage:789-802",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:21",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino-mexicano",
     "span": "Vino Mexicano",
-    "start_char": 788,
-    "end_char": 801
+    "start_char": 789,
+    "end_char": 802
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:22:term-usage:67-75",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 67,
+    "end_char": 75
   },
   {
     "schema_version": "0.1.0",
@@ -529,6 +799,15 @@
     "span": "Sector",
     "start_char": 87,
     "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:23:term-usage:59-67",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 59,
+    "end_char": 67
   },
   {
     "schema_version": "0.1.0",
@@ -559,6 +838,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:24:term-usage:46-54",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 46,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:24:term-usage:66-72",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:24",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:sector",
@@ -583,6 +871,15 @@
     "span": "Secretaría",
     "start_char": 3,
     "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:25:term-usage:48-56",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 48,
+    "end_char": 56
   },
   {
     "schema_version": "0.1.0",
@@ -613,6 +910,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:26:term-usage:63-71",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 63,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:26:term-usage:84-90",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:26",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:sector",
@@ -640,12 +946,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:27:term-usage:141-151",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisiones",
+    "start_char": 141,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:27:term-usage:395-398",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:27",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vid",
     "span": "Vid",
     "start_char": 395,
     "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:28:term-usage:49-57",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 49,
+    "end_char": 57
   },
   {
     "schema_version": "0.1.0",
@@ -667,12 +991,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:28:term-usage:358-361",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:28:term-usage:359-362",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:28",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:ley",
     "span": "Ley",
-    "start_char": 358,
-    "end_char": 361
+    "start_char": 359,
+    "end_char": 362
   },
   {
     "schema_version": "0.1.0",
@@ -775,12 +1099,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:32:term-usage:18-26",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 18,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfiv:article:32:term-usage:155-168",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:32",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino-mexicano",
     "span": "Vino Mexicano",
     "start_char": 155,
     "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:33:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
   },
   {
     "schema_version": "0.1.0",
@@ -802,30 +1144,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:34:term-usage:221-225",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:34:term-usage:222-226",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:34",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 221,
-    "end_char": 225
+    "start_char": 222,
+    "end_char": 226
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:34:term-usage:370-373",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:34:term-usage:371-374",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:34",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vid",
     "span": "Vid",
-    "start_char": 370,
-    "end_char": 373
+    "start_char": 371,
+    "end_char": 374
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfiv:article:34:term-usage:772-776",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:34:term-usage:773-777",
     "provision_id": "urn:lex-mx:federal:statute:lfiv:article:34",
     "term_id": "urn:lex-mx:federal:statute:lfiv:term:vino",
     "span": "Vino",
-    "start_char": 772,
-    "end_char": 776
+    "start_char": 773,
+    "end_char": 777
   },
   {
     "schema_version": "0.1.0",
@@ -844,6 +1186,15 @@
     "span": "Vino Mexicano",
     "start_char": 140,
     "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfiv:article:35:term-usage:182-190",
+    "provision_id": "urn:lex-mx:federal:statute:lfiv:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfiv:term:comision",
+    "span": "Comisión",
+    "start_char": 182,
+    "end_char": 190
   },
   {
     "schema_version": "0.1.0",

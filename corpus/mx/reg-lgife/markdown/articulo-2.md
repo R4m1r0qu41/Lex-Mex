@@ -29,7 +29,9 @@ IV. Comunidad Educativa: A la integrada por alumnos, padres de familia, personal
 
 V. Diagnóstico: Es el resultado del análisis de los datos levantados mediante la [Cédula de Información Técnica](articulo-2.md), para identificar, evaluar y calificar el nivel de seguridad, habitabilidad y pertinencia que presenta la INFE, obtenido por el Instituto o los Organismos Responsables de la INFE;
 
-VI. Evaluación de la INFE: El proceso metodológico, sistemático y documentado para determinar el nivel de cumplimiento de las Normas y Especificaciones Técnicas, así como de la normativa aplicable a la INFE; VII. Evaluador: Persona física o moral acreditada por el Instituto o por los Organismos Responsables de la INFE, para llevar a cabo el proceso de evaluación que se requiere para la Certificación de la [Calidad de la INFE](articulo-2.md);
+VI. Evaluación de la INFE: El proceso metodológico, sistemático y documentado para determinar el nivel de cumplimiento de las Normas y Especificaciones Técnicas, así como de la normativa aplicable a la INFE;
+
+VII. Evaluador: Persona física o moral acreditada por el Instituto o por los Organismos Responsables de la INFE, para llevar a cabo el proceso de evaluación que se requiere para la Certificación de la [Calidad de la INFE](articulo-2.md);
 
 VIII. INFE Estatal: INFE destinada a la educación pública en los estados en el caso de instituciones de carácter estatal;
 

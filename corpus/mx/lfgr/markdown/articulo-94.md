@@ -21,7 +21,9 @@ La persona titular del Órgano Interno de Control será designada por la Cámara
 
 La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
-I. Contar con la ciudadanía mexicana en pleno goce de sus derechos civiles y políticos, y tener cuando menos treinta y cinco años cumplidos a la designación del cargo; II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+I. Contar con la ciudadanía mexicana en pleno goce de sus derechos civiles y políticos, y tener cuando menos treinta y cinco años cumplidos a la designación del cargo;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
 
 III. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
 

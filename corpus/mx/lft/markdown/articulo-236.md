@@ -17,7 +17,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 # Artículo 236
 
-Los patrones tienen las obligaciones especiales siguientes: I. Proporcionar alimentación, alojamiento y transportación a los tripulantes por todo el tiempo que permanezcan fuera de su base por razones del servicio. El pago se hará de conformidad con las normas siguientes:
+Los patrones tienen las obligaciones especiales siguientes:
+
+I. Proporcionar alimentación, alojamiento y transportación a los tripulantes por todo el tiempo que permanezcan fuera de su base por razones del servicio. El pago se hará de conformidad con las normas siguientes:
 
 a) En las estaciones previamente designadas, o en las de pernoctación extraordinaria, la transportación se hará en automóvil y el alojamiento será cubierto directamente por el patrón. La transportación se proporcionará entre los aeropuertos y el lugar de alojamiento y viceversa, excepto en aquellos lugares de base permanente de residencia de los tripulantes.
 

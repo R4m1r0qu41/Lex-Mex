@@ -7,8 +7,8 @@ provision_type: article
 number: "107"
 aliases: ["LGP — Artículo 107"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf
 source_sha256: 15e8cb5ca11592f331fca6a94784cce3dd58837397857f2d764476768d0ca780
 ---
@@ -23,7 +23,9 @@ I. Apellido paterno, apellido materno y nombre (s);
 
 II. Clave Unica de Registro de Población;
 
-III. Fotografía del titular; IV. Lugar de nacimiento;
+III. Fotografía del titular;
+
+IV. Lugar de nacimiento;
 
 V. Fecha de nacimiento; y
 

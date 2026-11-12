@@ -33,7 +33,9 @@ VI. Promover y realizar, con fines de Conservación y difusión, la reproducció
 
 VII. Participar y promover la realización de investigaciones y trabajos interdisciplinarios e interinstitucionales, de acuerdo con los objetivos previstos en la Ley Orgánica, así como publicar, difundir y divulgar sus resultados a través de cualquier medio de difusión, incluyendo los digitales;
 
-VIII. Asesorar, opinar, dictaminar y proponer sobre asuntos relacionados con las materias de su competencia, en atención a las solicitudes que realicen las autoridades o particulares; IX. Impulsar y participar en la organización y realización de congresos, foros, reuniones y actividades de carácter académico, científico, técnico, educativo y cultural, en las materias de su competencia;
+VIII. Asesorar, opinar, dictaminar y proponer sobre asuntos relacionados con las materias de su competencia, en atención a las solicitudes que realicen las autoridades o particulares;
+
+IX. Impulsar y participar en la organización y realización de congresos, foros, reuniones y actividades de carácter académico, científico, técnico, educativo y cultural, en las materias de su competencia;
 
 X. Emitir opiniones y propuestas sobre la formulación y modificaciones de leyes, reglamentos, decretos y demás ordenamientos sobre las materias de su competencia, a solicitud de autoridades competentes;
 
@@ -59,7 +61,9 @@ XX. Fortalecer y consolidar la estructura territorial del Instituto, tanto en lo
 
 XXI. Ejercer la custodia del Patrimonio Cultural, excepto en los casos en que las disposiciones jurídicas aplicables establezcan la custodia a favor de un tercero;
 
-XXII. Formular y aplicar políticas y programas para la difusión y divulgación de sus actividades, así como promover una cultura de Conservación patrimonial mediante cualquier medio de comunicación, inclusive los digitales; XXIII. Impulsar y desarrollar el intercambio de conocimiento académico y especializado entre sus unidades administrativas, y en especial con los Centros INAH;
+XXII. Formular y aplicar políticas y programas para la difusión y divulgación de sus actividades, así como promover una cultura de Conservación patrimonial mediante cualquier medio de comunicación, inclusive los digitales;
+
+XXIII. Impulsar y desarrollar el intercambio de conocimiento académico y especializado entre sus unidades administrativas, y en especial con los Centros INAH;
 
 XXIV. Documentar el Patrimonio Cultural de los pueblos y grupos sociales del país, y
 

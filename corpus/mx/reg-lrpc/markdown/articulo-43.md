@@ -21,6 +21,8 @@ Para determinar la veracidad de los hechos declarados por el solicitante, la [Co
 
 I. Congruencia entre la información proporcionada por el solicitante y la información señalada en los artículos [40](articulo-40.md) y [41](articulo-41.md) del presente Reglamento;
 
-II. Coherencia lógica de los hechos declarados, a la luz de la información con que se cuente; III. Suficiencia de detalles sobre los hechos fundamentales declarados, y
+II. Coherencia lógica de los hechos declarados, a la luz de la información con que se cuente;
+
+III. Suficiencia de detalles sobre los hechos fundamentales declarados, y
 
 IV. Consistencia en el relato y ausencia de contradicciones.

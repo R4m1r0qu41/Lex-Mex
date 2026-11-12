@@ -65,7 +65,9 @@ XVI. Abandono de Puesto previsto en los artículos [312](articulo-312.md), [313]
 
 XVII. Abandono de Mando previsto en los artículos [315](articulo-315.md), últimos dos supuestos, 316, primer supuesto, 317, 318, fracciones IV a la VI, 319, fracciones I, II y III, 320, dos últimos supuestos y 321.
 
-XVIII. Extralimitación del mando o comisión previsto en el artículo [323](articulo-323.md), fracciones II y III. XIX. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército en Campaña previsto en el artículo [338](articulo-338.md), fracción II.
+XVIII. Extralimitación del mando o comisión previsto en el artículo [323](articulo-323.md), fracciones II y III.
+
+XIX. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército en Campaña previsto en el artículo [338](articulo-338.md), fracción II.
 
 XX. Infracción de deberes comunes a todos los que están obligados a servir en el Ejército en su modalidad de deliberar en grupo frente al enemigo previsto en el artículo [339](articulo-339.md), fracciones II y III.
 

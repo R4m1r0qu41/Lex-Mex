@@ -25,7 +25,9 @@ II. La regulación de las áreas de uso común;
 
 III. El control y acceso de tránsito de personas y bienes;
 
-IV. El intercambio de información entre los [Inversionistas](articulo-4.md) y el [Administrador Integral](articulo-4.md); V. La programación de instalación de los Inversionistas;
+IV. El intercambio de información entre los [Inversionistas](articulo-4.md) y el [Administrador Integral](articulo-4.md);
+
+V. La programación de instalación de los Inversionistas;
 
 VI. El manejo de cargas y medidas para la prevención de accidentes, y
 

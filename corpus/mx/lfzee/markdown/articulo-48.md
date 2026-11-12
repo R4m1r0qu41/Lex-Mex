@@ -21,7 +21,9 @@ Para la aplicación de las sanciones previstas en esta Ley, la autoridad adminis
 
 I. Los daños que se hubieren producido o puedan producirse;
 
-II. El carácter intencional o no de la acción u omisión constitutiva de la infracción; III. La gravedad de la infracción, y
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
+
+III. La gravedad de la infracción, y
 
 IV. La reincidencia del infractor.
 

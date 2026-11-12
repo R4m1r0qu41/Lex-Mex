@@ -21,7 +21,9 @@ Para la consecución de los objetivos de la presente Ley, la [Secretaría](artic
 
 I. La administración de los permisos para la realización de pesca deportivo-recreativa;
 
-II. La administración sustentable de las especies sésiles que se encuentren en los sistemas lagunarios estuarinos y en el mar territorial frente a sus costas, que se determinen previamente en la Carta Nacional Pesquera y en la Carta Nacional Acuícola; III. La administración de la pesca en cuerpos de agua que sirvan de límite a dos Entidades Federativas, o que pasen de una a otra, que comprenderá además las funciones de inspección y vigilancia;
+II. La administración sustentable de las especies sésiles que se encuentren en los sistemas lagunarios estuarinos y en el mar territorial frente a sus costas, que se determinen previamente en la Carta Nacional Pesquera y en la Carta Nacional Acuícola;
+
+III. La administración de la pesca en cuerpos de agua que sirvan de límite a dos Entidades Federativas, o que pasen de una a otra, que comprenderá además las funciones de inspección y vigilancia;
 
 IV. El ordenamiento territorial y la sanidad de los desarrollos acuícolas;
 

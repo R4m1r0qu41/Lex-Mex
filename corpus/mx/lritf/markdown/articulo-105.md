@@ -37,6 +37,8 @@ V. No reportar actos, Operaciones o servicios o por omitir presentar algún repo
 
 VI. No contar con sistemas automatizados o por omitir establecer el comité de comunicación y control u omitir designar a un oficial de cumplimiento conforme a lo establecido en el artículo [58](articulo-58.md), tercer párrafo, fracciones V y VI;
 
-VII. Realizar Operaciones con algún Cliente que se encuentre en la lista de personas bloqueadas a que se refiere el artículo [58](articulo-58.md) de esta Ley; VIII. Exceder los límites de operación a que están sujetas las ITF conforme a la presente Ley, y
+VII. Realizar Operaciones con algún Cliente que se encuentre en la lista de personas bloqueadas a que se refiere el artículo [58](articulo-58.md) de esta Ley;
+
+VIII. Exceder los límites de operación a que están sujetas las ITF conforme a la presente Ley, y
 
 IX. Incumplir con lo señalado en el artículo [55](articulo-55.md) de esta Ley cuando se incumplan los requerimientos de capital.

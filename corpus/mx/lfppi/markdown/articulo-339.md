@@ -25,7 +25,9 @@ II.- El domicilio para oír y recibir notificaciones, y una dirección de correo
 
 III.- Las excepciones y defensas, en su caso;
 
-IV.- Las manifestaciones u objeciones a cada uno de los puntos de la solicitud de declaración administrativa; V.- Las pruebas que ofrezca, en su caso, y
+IV.- Las manifestaciones u objeciones a cada uno de los puntos de la solicitud de declaración administrativa;
+
+V.- Las pruebas que ofrezca, en su caso, y
 
 VI.- Los fundamentos de derecho.
 

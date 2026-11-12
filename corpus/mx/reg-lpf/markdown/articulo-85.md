@@ -27,6 +27,8 @@ III. Atender las peticiones de apoyo en los diferentes centros penitenciarios es
 
 IV. Efectuar, a petición de la autoridad competente, el traslado de internos a los diferentes Centros de Readaptación federales y estatales;
 
-V. Proponer e implementar el Programa Interno de Protección Civil institucional, así como de los programas específicos que lo conformen, en apego a la normatividad establecida en la legislación federal aplicable en la materia; VI. Mantener informado a su Coordinador, sobre las acciones realizadas por el personal bajo su mando, y
+V. Proponer e implementar el Programa Interno de Protección Civil institucional, así como de los programas específicos que lo conformen, en apego a la normatividad establecida en la legislación federal aplicable en la materia;
+
+VI. Mantener informado a su Coordinador, sobre las acciones realizadas por el personal bajo su mando, y
 
 VII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

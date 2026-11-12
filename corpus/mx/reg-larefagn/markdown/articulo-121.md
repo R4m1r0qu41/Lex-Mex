@@ -7,8 +7,8 @@ provision_type: article
 number: "121"
 aliases: ["REG-LAREFAGN — Artículo 121"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAREFAGN.pdf
 source_sha256: 01b72308e67d46ba6ca8a6b07fb7584c6a74e905ea0c4b5be5c0c0d32a6d817a
 ---
@@ -23,7 +23,9 @@ I. Ser de la clase de arma, de servicio o de guardia nacional; Fracción reforma
 
 II. No haber estado sujeto a proceso en que haya resultado culpable o bien se le haya otorgado el retiro de la acción penal;
 
-III. Tener buena conducta civil y militar; IV. Ser de reconocida iniciativa y capacidad de trabajo, avalada por la persona titular de la Comandancia, Coordinación, Jefatura o [Dirección](articulo-5.md) del organismo al que pertenezca, mediante un documento que indique el cumplimiento de tal requisito; Fracción reformada DOF 20-03-2026
+III. Tener buena conducta civil y militar;
+
+IV. Ser de reconocida iniciativa y capacidad de trabajo, avalada por la persona titular de la Comandancia, Coordinación, Jefatura o [Dirección](articulo-5.md) del organismo al que pertenezca, mediante un documento que indique el cumplimiento de tal requisito; Fracción reformada DOF 20-03-2026
 
 V. Contar con un tiempo mínimo de servicios de 16 años;
 

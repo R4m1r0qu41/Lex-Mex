@@ -21,7 +21,9 @@ Corresponde a la [Secretaría](articulo-2.md) por conducto del [CENATRA](articul
 
 I. Establecer programas y campañas orientados a difundir entre los responsables sanitarios y los profesionales de la salud, los requisitos sanitarios que se deben satisfacer en la Disposición de Órganos, Tejidos y células con fines de Trasplantes;
 
-II. Fomentar en coordinación con las dependencias y entidades de la Administración Pública Federal y los gobiernos de las entidades federativas, acciones para promover la donación de Órganos, Tejidos y células, tanto en vida como después de acontecida la pérdida de la misma, con fines de Trasplantes; III. Fomentar el desarrollo de programas de estudio e investigación relacionados con la Disposición de Órganos, Tejidos y células, en lo que respecta a Trasplantes;
+II. Fomentar en coordinación con las dependencias y entidades de la Administración Pública Federal y los gobiernos de las entidades federativas, acciones para promover la donación de Órganos, Tejidos y células, tanto en vida como después de acontecida la pérdida de la misma, con fines de Trasplantes;
+
+III. Fomentar el desarrollo de programas de estudio e investigación relacionados con la Disposición de Órganos, Tejidos y células, en lo que respecta a Trasplantes;
 
 IV. Informar y orientar a la población sobre la donación de Órganos, Tejidos y células con fines de Trasplante, así como, impulsar la participación de los medios de comunicación en la difusión de información relativa a las acciones que impliquen actividades a favor de la cultura de la donación de Órganos, Tejidos y células;
 

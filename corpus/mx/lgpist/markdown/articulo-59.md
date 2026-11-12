@@ -27,7 +27,9 @@ III. Requerir la participación de las autoridades en materia de atención a Ví
 
 IV. Ejecutar, supervisar y evaluar el [Protocolo Homologado](articulo-5.md), así como los protocolos de actuación y para la investigación a que se refieren los artículos [60](articulo-60.md) y [61](articulo-61.md) de esta Ley;
 
-V. Pedir a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos previstos en esta Ley; VI. Decretar las medidas de protección en favor de la vida o la integridad de las Víctimas, de conformidad con la legislación aplicable;
+V. Pedir a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos previstos en esta Ley;
+
+VI. Decretar las medidas de protección en favor de la vida o la integridad de las Víctimas, de conformidad con la legislación aplicable;
 
 VII. Solicitar las medidas cautelares aplicables al imputado por los delitos previstos en esta Ley, de conformidad con la legislación aplicable;
 

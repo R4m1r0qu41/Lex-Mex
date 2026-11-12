@@ -7,8 +7,8 @@ provision_type: article
 number: "8"
 aliases: ["LGV — Artículo 8"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -19,7 +19,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 Las víctimas recibirán ayuda provisional, oportuna y rápida de los [Recursos de Ayuda](articulo-6.md) de la [Comisión Ejecutiva](articulo-6.md) o de las [Comisiones de víctimas](articulo-6.md) de las entidades federativas según corresponda, de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata. Párrafo reformado DOF 03-01-2017
 
-Las víctimas de delitos o de violaciones de derechos que atenten contra la vida, contra la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley. Párrafo reformado DOF 03-01-2017
+Las víctimas de delitos o de violaciones de derechos que atenten contra la vida, contra la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente [Ley](articulo-6.md). Párrafo reformado DOF 03-01-2017
 
 Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente Ley.
 

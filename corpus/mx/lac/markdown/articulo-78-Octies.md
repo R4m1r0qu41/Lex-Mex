@@ -23,7 +23,9 @@ I. Apoderamiento ilícito de aeronaves;
 
 II. Destrucción de una aeronave en servicio;
 
-III. Toma de rehenes a bordo de aeronaves o en los aeródromos; IV. Intrusión por la fuerza en una aeronave, en un aeropuerto o en el recinto de una instalación aeronáutica;
+III. Toma de rehenes a bordo de aeronaves o en los aeródromos;
+
+IV. Intrusión por la fuerza en una aeronave, en un aeropuerto o en el recinto de una instalación aeronáutica;
 
 V. Introducción, a bordo de una aeronave o en un aeropuerto, de armas, artefactos o sustancias peligrosas, sin la autorización correspondiente;
 

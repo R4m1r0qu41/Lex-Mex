@@ -25,7 +25,9 @@ II. Desempeñar las funciones y comisiones que el Procurador le delegue y encomi
 
 III. Establecer, con la aprobación del Procurador, las normas, sistemas y procedimientos para la administración de los recursos financieros, humanos, materiales, y tecnológicos de la Procuraduría, así como los bienes asegurados, en los términos de la normatividad aplicable;
 
-IV. Expedir las constancias de nombramiento de los servidores públicos, autorizar los movimientos del personal y resolver los casos de terminación de los efectos del nombramiento, previo dictamen de la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal; V. Establecer los lineamientos para los premios, estímulos y recompensas, así como los de reconocimiento que determinen las Condiciones Generales de Trabajo y las disposiciones jurídicas aplicables;
+IV. Expedir las constancias de nombramiento de los servidores públicos, autorizar los movimientos del personal y resolver los casos de terminación de los efectos del nombramiento, previo dictamen de la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal;
+
+V. Establecer los lineamientos para los premios, estímulos y recompensas, así como los de reconocimiento que determinen las Condiciones Generales de Trabajo y las disposiciones jurídicas aplicables;
 
 VI. Conducir las relaciones laborales de la Procuraduría, conforme a los lineamientos que al efecto establezca el titular de la misma;
 
@@ -51,7 +53,9 @@ XVI. Planear, coordinar y evaluar el funcionamiento de las unidades administrati
 
 XVII. Adquirir y proporcionar los bienes y servicios necesarios así como la realización de las obras públicas y los servicios relacionados con las mismas para el desarrollo de los programas de la Procuraduría, de conformidad con lo que establezcan las disposiciones jurídicas y administrativas aplicables y los Subcomités de Adquisiciones y de Obra Pública de la Dependencia;
 
-XVIII. Establecer, controlar y evaluar el programa interno de protección civil para el personal, instalaciones, bienes e información de la Procuraduría, así como emitir las normas necesarias para su operación, desarrollo y vigilancia, en los términos de las disposiciones aplicables; XIX. Instrumentar el programa de desconcentración de la Procuraduría en sus aspectos administrativos, así como vigilar el cumplimiento de las normas de su competencia que deban aplicarse en el ámbito territorial;
+XVIII. Establecer, controlar y evaluar el programa interno de protección civil para el personal, instalaciones, bienes e información de la Procuraduría, así como emitir las normas necesarias para su operación, desarrollo y vigilancia, en los términos de las disposiciones aplicables;
+
+XIX. Instrumentar el programa de desconcentración de la Procuraduría en sus aspectos administrativos, así como vigilar el cumplimiento de las normas de su competencia que deban aplicarse en el ámbito territorial;
 
 XX. Administrar, controlar e identificar, mediante la recepción de las actas, inventarios y dictámenes periciales correspondientes, los bienes y valores asegurados que se encuentren a cargo de la Procuraduría y, en su caso, remitirlos a las autoridades competentes o devolverlos a quien tenga derecho a ello, cuando así lo ordene el Ministerio Público;
 

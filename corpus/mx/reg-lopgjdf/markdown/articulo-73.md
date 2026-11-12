@@ -21,7 +21,9 @@ Al frente de la Dirección General de Derechos Humanos habrá un Director Genera
 
 I. Realizar las funciones de enlace de la Procuraduría con los organismos públicos defensores de los derechos humanos y con las Comisiones de Derechos Humanos del Congreso de la Unión y de la Asamblea Legislativa del Distrito Federal;
 
-II. Dar seguimiento a las solicitudes de información, de colaboración, quejas, y a la atención de medidas cautelares, precautorias y/o de conservación, propuestas de conciliación y recomendaciones que formulen los organismos públicos y comisiones, referidos en la fracción anterior; III. Recibir las solicitudes de información que envíen los organismos públicos defensores de los derechos humanos, y verificar que se encuentren debidamente fundadas y motivadas;
+II. Dar seguimiento a las solicitudes de información, de colaboración, quejas, y a la atención de medidas cautelares, precautorias y/o de conservación, propuestas de conciliación y recomendaciones que formulen los organismos públicos y comisiones, referidos en la fracción anterior;
+
+III. Recibir las solicitudes de información que envíen los organismos públicos defensores de los derechos humanos, y verificar que se encuentren debidamente fundadas y motivadas;
 
 IV. Solicitar a las unidades administrativas de la Procuraduría, los informes necesarios, a fin de dar respuesta oportuna a los requerimientos que con motivo de las quejas por presuntas violaciones, formulen los organismos públicos defensores de los derechos humanos, siempre que cumplan con las condiciones señaladas en las fracciones anteriores, e informar al Subprocurador sobre las omisiones, deficiencias y retardos en la atención de los mismos;
 
@@ -45,7 +47,9 @@ XII. Establecer, en coordinación con el Instituto de Formación Profesional y o
 
 XIII. Vigilar el cumplimiento de las medidas de protección que fueron solicitadas por presuntas violaciones a los derechos humanos;
 
-XIV. Realizar programas de difusión y orientación mediante conferencias, cursos, seminarios y eventos tendentes a fortalecer una cultura de respeto a los derechos humanos dirigidos a los servidores públicos de la Procuraduría y la comunidad en general; XV. Proponer la celebración de convenios de colaboración y otros instrumentos de concertación con personas físicas y morales de los sectores público, social y privado para la difusión general de la cultura de respeto a los derechos humanos;
+XIV. Realizar programas de difusión y orientación mediante conferencias, cursos, seminarios y eventos tendentes a fortalecer una cultura de respeto a los derechos humanos dirigidos a los servidores públicos de la Procuraduría y la comunidad en general;
+
+XV. Proponer la celebración de convenios de colaboración y otros instrumentos de concertación con personas físicas y morales de los sectores público, social y privado para la difusión general de la cultura de respeto a los derechos humanos;
 
 XVI. Coordinar con la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos de los servidores públicos adscritos a esta Dirección General, así como en la presentación de las promociones y los recursos que deban interponerse;
 

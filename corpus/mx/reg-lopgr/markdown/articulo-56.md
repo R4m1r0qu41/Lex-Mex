@@ -21,7 +21,9 @@ Al frente de la Dirección General de Control de Juicios de Amparo habrá un Dir
 
 I. Ejercer las facultades que se encuentran previstas en el artículo 4, fracción II, inciso a), de la [Ley Orgánica](articulo-2.md), promoviendo la constitucionalidad y la legalidad en el ámbito de su competencia;
 
-II. Coordinar, supervisar y evaluar a los agentes del Ministerio Público de la Federación adscritos a los órganos jurisdiccionales competentes en materia de amparo en asuntos competencia de la Subprocuraduría de Control Regional, Procedimientos Penales y Amparo; III. Prestar auxilio técnico a las [Delegaciones](articulo-2.md) en las entidades federativas en materia de amparo, bajo una estrategia integral de actuación de la Procuraduría, con base en las normas aplicables y los criterios institucionales;
+II. Coordinar, supervisar y evaluar a los agentes del Ministerio Público de la Federación adscritos a los órganos jurisdiccionales competentes en materia de amparo en asuntos competencia de la Subprocuraduría de Control Regional, Procedimientos Penales y Amparo;
+
+III. Prestar auxilio técnico a las [Delegaciones](articulo-2.md) en las entidades federativas en materia de amparo, bajo una estrategia integral de actuación de la Procuraduría, con base en las normas aplicables y los criterios institucionales;
 
 IV. Enviar a la Dirección General de Constitucionalidad las ejecutorias en las que se detecte la existencia de tesis contradictorias sustentadas por los tribunales federales, así como los casos en que proceda solicitar la sustitución de jurisprudencia;
 

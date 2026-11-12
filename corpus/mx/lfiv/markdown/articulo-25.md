@@ -17,7 +17,7 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 25
 
-La [Secretaría](articulo-3.md) de Turismo en coordinación con la Comisión apoyará al [Sector](articulo-3.md) a:
+La [Secretaría](articulo-3.md) de Turismo en coordinación con la [Comisión](articulo-3.md) apoyará al [Sector](articulo-3.md) a:
 
 I. Promocionar las rutas de [Vino](articulo-3.md) y de turismo enológico;
 

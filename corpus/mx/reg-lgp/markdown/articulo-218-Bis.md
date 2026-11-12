@@ -7,8 +7,8 @@ provision_type: article
 number: "218 Bis"
 aliases: ["REG-LGP — Artículo 218 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf
 source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 ---
@@ -23,7 +23,9 @@ I. Creación de programas de atención médica;
 
 II. Acciones para brindar orientación sobre ofertas de empleo y vivienda, así como programas de reinserción;
 
-III. Creación de proyectos de coinversión, para garantizar que los mexicanos repatriados reciban alimentos y albergue en lugares cercanos a los puntos de repatriación; IV. Promover la instauración de albergues para mexicanos repatriados, garantizando un lugar seguro para descanso y aseo, y
+III. Creación de proyectos de coinversión, para garantizar que los mexicanos repatriados reciban alimentos y albergue en lugares cercanos a los puntos de repatriación;
+
+IV. Promover la instauración de albergues para mexicanos repatriados, garantizando un lugar seguro para descanso y aseo, y
 
 V. Creación de programas de difusión para informar a los mexicanos indígenas repatriados sobre sus derechos, procurando que esta información se emita en su lengua de origen.
 

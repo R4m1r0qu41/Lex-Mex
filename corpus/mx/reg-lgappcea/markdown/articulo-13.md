@@ -35,6 +35,8 @@ c) Rehabilitación.- Llevar a cabo las acciones siguientes:
 
 3. Prescribir un tratamiento o protocolo basado en un plan individualizado con historial clínico, revisado periódicamente y modificado llegado el caso, que permita la incorporación del paciente a su ambiente familiar, escolar y social, y
 
-4. Colaborar con los servicios de primer nivel de atención y especializados en el control y seguimiento de los pacientes, e involucrar a la familia de éstos en dicho control y seguimiento; III. Brindar servicio de hospitalización a aquellas Personas con la Condición del Espectro Autista cuya Comorbilidad o gravedad implique dicha necesidad, y
+4. Colaborar con los servicios de primer nivel de atención y especializados en el control y seguimiento de los pacientes, e involucrar a la familia de éstos en dicho control y seguimiento;
+
+III. Brindar servicio de hospitalización a aquellas Personas con la Condición del Espectro Autista cuya Comorbilidad o gravedad implique dicha necesidad, y
 
 IV. Realizar, bajo la coordinación de la Secretaría, campañas de información sobre las características propias de la condición del espectro autista en términos de la fracción III del artículo [16](../../lgappcea/markdown/articulo-16.md) de la Ley y observando los lineamientos generales para las campañas de comunicación social de las dependencias y entidades de la Administración Pública Federal que para tal efecto expida la Secretaría de Gobernación.

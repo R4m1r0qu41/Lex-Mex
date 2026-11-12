@@ -17,7 +17,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 109
 
-Los grados tope del personal de la [Institución](articulo-2.md) serán, con relación a las unidades operativas y de servicios: I. Para las Divisiones, de Policía a Comisario General, y
+Los grados tope del personal de la [Institución](articulo-2.md) serán, con relación a las unidades operativas y de servicios:
+
+I. Para las Divisiones, de Policía a Comisario General, y
 
 II. Para los Servicios, de Policía a Comisario Jefe, a excepción del [Secretario](articulo-2.md) General quien ostentará el grado de Comisario General.
 

@@ -49,7 +49,9 @@ XI. La fecha, hora y lugar de la o las juntas de aclaraciones, de la presentaci�
 
 XII. El idioma o idiomas, además del español, en que en su caso las propuestas podrán presentarse;
 
-XIII. La moneda o monedas en que, en su caso, las propuestas podrán presentarse; XIV. La relación de documentos que los concursantes deberán presentar con sus propuestas,
+XIII. La moneda o monedas en que, en su caso, las propuestas podrán presentarse;
+
+XIV. La relación de documentos que los concursantes deberán presentar con sus propuestas,
 
 XV. Los criterios, claros y detallados, para la evaluación objetiva de las propuestas y la adjudicación del proyecto, de conformidad con lo señalado en los artículos [52](articulo-52.md) y [54](articulo-54.md) de esta Ley. En estos criterios se señalará el coeficiente de integración de producto nacional que deberán cumplir los participantes de conformidad con el tipo de proyecto de que se trate, procurando la mayor integración de contenido nacional posible, respetando lo dispuesto en los tratados internacionales.
 

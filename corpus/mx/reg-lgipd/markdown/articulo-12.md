@@ -27,6 +27,8 @@ II. La situación económica de la o el solicitante, dando prioridad en la asign
 
 III. Las condiciones en las que se entregarán los insumos a título gratuito, y aquellas en donde se establecerá algún costo, que deberá ser asequible y proporcional con la situación económica de la o el beneficiario;
 
-IV. El plazo de entrega de las órtesis, prótesis, ayudas técnicas y de medicinas de uso restringido; V. La periodicidad con que se debe hacer una revisión del adecuado funcionamiento de la órtesis, prótesis o ayuda técnica proporcionada, o en su caso, la periodicidad con la que se entregarán las medicinas de uso restringido a la o el beneficiario, y
+IV. El plazo de entrega de las órtesis, prótesis, ayudas técnicas y de medicinas de uso restringido;
+
+V. La periodicidad con que se debe hacer una revisión del adecuado funcionamiento de la órtesis, prótesis o ayuda técnica proporcionada, o en su caso, la periodicidad con la que se entregarán las medicinas de uso restringido a la o el beneficiario, y
 
 VI. La obligación para la o el beneficiario de hacer uso personal de la órtesis, prótesis, ayuda técnica o medicina de uso restringido que se le otorga, y en caso de incumplimiento, su baja como beneficiario de estas acciones.

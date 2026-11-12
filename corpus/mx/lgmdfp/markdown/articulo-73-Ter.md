@@ -35,6 +35,8 @@ VI. Nombre del probable responsable o posible partícipe cuando éste se conozca
 
 VII. Acciones emprendidas para su búsqueda e identificación;
 
-VIII. El estado procesal que guarda el expediente, y IX. Cualquier otra información que sea relevante para el seguimiento y cumplimiento de los objetivos previstos en esta Ley.
+VIII. El estado procesal que guarda el expediente, y
+
+IX. Cualquier otra información que sea relevante para el seguimiento y cumplimiento de los objetivos previstos en esta Ley.
 
 Artículo adicionado DOF 16-07-2025

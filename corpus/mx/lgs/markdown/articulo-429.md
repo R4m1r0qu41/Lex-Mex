@@ -27,7 +27,9 @@ III. Eficacia;
 
 IV. Economía;
 
-V. Probidad; VI. Participación;
+V. Probidad;
+
+VI. Participación;
 
 VII. Publicidad;
 

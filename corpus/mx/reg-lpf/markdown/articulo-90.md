@@ -19,7 +19,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Corresponde a la Dirección General de Explosivos:
 
-I. Ejecutar las órdenes de localización, presentación, aprehensión y demás mandatos de las autoridades competentes que lo soliciten; II. Integrar grupos de tarea para operaciones especiales en el ámbito de sus atribuciones cuando así lo ordene la superioridad;
+I. Ejecutar las órdenes de localización, presentación, aprehensión y demás mandatos de las autoridades competentes que lo soliciten;
+
+II. Integrar grupos de tarea para operaciones especiales en el ámbito de sus atribuciones cuando así lo ordene la superioridad;
 
 III. Participar en los operativos para prevenir y combatir los delitos cuando así sea requerido por otras instituciones policiales;
 

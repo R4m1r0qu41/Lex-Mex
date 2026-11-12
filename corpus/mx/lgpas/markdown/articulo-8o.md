@@ -43,7 +43,9 @@ XI. Resolver sobre la expedición de concesiones y permisos en materia pesquera 
 
 XII. Fijar los métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca en coordinación con la autoridad competente, así como regular las zonas de refugio para proteger las especies acuáticas que así lo requieran, y establecerá las épocas y zonas de veda;
 
-XIII. Proponer al titular del Ejecutivo Federal el presupuesto destinado al sector pesca y acuacultura, que deberá incluir al menos los siguientes programas: fortalecimiento de la cadena productiva, ordenamiento pesquero, organización y capacitación, investigación e infraestructura; XIV. Regular y fijar el conjunto de instrumentos, artes, equipos, métodos, personal y técnicas de pesca;
+XIII. Proponer al titular del Ejecutivo Federal el presupuesto destinado al sector pesca y acuacultura, que deberá incluir al menos los siguientes programas: fortalecimiento de la cadena productiva, ordenamiento pesquero, organización y capacitación, investigación e infraestructura;
+
+XIV. Regular y fijar el conjunto de instrumentos, artes, equipos, métodos, personal y técnicas de pesca;
 
 XV. Fomentar y promover las actividades pesqueras y acuícolas y el desarrollo integral de quienes participan en dichas actividades;
 
@@ -73,7 +75,9 @@ XXVII. Promover la organización y capacitación para el trabajo pesquero y acu�
 
 XXVIII. Promover y apoyar la investigación, la innovación y el desarrollo tecnológico de la pesca y la acuacultura, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva nacional;
 
-XXIX. La coordinación con [IMIPAS](articulo-4o.md), como organismo público descentralizado responsable de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional; Fracción reformada DOF 07-06-2012, 04-12-2023 XXX. Establecer y operar el Sistema Nacional de Información Pesquera y Acuícola y el [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura, así como mantenerlos actualizados en forma permanente, de conformidad con las disposiciones legales aplicables;
+XXIX. La coordinación con [IMIPAS](articulo-4o.md), como organismo público descentralizado responsable de la investigación científica y tecnológica del sector pesquero y de acuacultura nacional; Fracción reformada DOF 07-06-2012, 04-12-2023
+
+XXX. Establecer y operar el Sistema Nacional de Información Pesquera y Acuícola y el [Registro](articulo-4o.md) Nacional de Pesca y Acuacultura, así como mantenerlos actualizados en forma permanente, de conformidad con las disposiciones legales aplicables;
 
 XXXI. Establecer bases de coordinación con las dependencias y entidades de la Administración Pública Federal y celebrar acuerdos de concertación de acciones con los sectores productivos para la ejecución de programas y proyectos de fomento y desarrollo de las actividades pesqueras y acuícolas;
 

@@ -33,7 +33,9 @@ VI. Ostentarse como asociación religiosa cuando se carezca del registro constit
 
 VII. Destinar los bienes que las asociaciones adquieran por cualquier título, a un fin distinto del previsto en la declaratoria de procedencia correspondiente;
 
-VIII. Desviar de tal manera los fines de las asociaciones que éstas pierdan o menoscaben gravemente su naturaleza religiosa; IX. Convertir un acto religioso en reunión de carácter político;
+VIII. Desviar de tal manera los fines de las asociaciones que éstas pierdan o menoscaben gravemente su naturaleza religiosa;
+
+IX. Convertir un acto religioso en reunión de carácter político;
 
 X. Oponerse a las Leyes del País o a sus instituciones en reuniones públicas;
 

@@ -23,4 +23,6 @@ I. En el caso de semilla original, la [Carta de Identidad Varietal](articulo-2.m
 
 II. En su caso, las etiquetas de categoría básica, registrada o certificada;
 
-III. En el caso de semilla importada se requerirán etiquetas de certificación de agencias oficiales del país de origen o Carta de Identidad Varietal y copia del certificado fitosanitario para la importación de la semilla. La homologación de las categorías se establecerá en las Reglas específicas en términos de la [Ley](articulo-2.md) para cada especie, y IV. En el caso de la producción de semillas de cultivos en zonas con restricción fitosanitaria, se deberán anexar los documentos como lo establezca la normatividad fitosanitaria correspondiente.
+III. En el caso de semilla importada se requerirán etiquetas de certificación de agencias oficiales del país de origen o Carta de Identidad Varietal y copia del certificado fitosanitario para la importación de la semilla. La homologación de las categorías se establecerá en las Reglas específicas en términos de la [Ley](articulo-2.md) para cada especie, y
+
+IV. En el caso de la producción de semillas de cultivos en zonas con restricción fitosanitaria, se deberán anexar los documentos como lo establezca la normatividad fitosanitaria correspondiente.

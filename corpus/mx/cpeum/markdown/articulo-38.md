@@ -25,7 +25,9 @@ II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal,
 
 III. Durante la extinción de una pena corporal;
 
-IV. Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes; V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal; Fracción reformada DOF 29-05-2023
+IV. Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes;
+
+V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal; Fracción reformada DOF 29-05-2023
 
 VI. Por sentencia ejecutoria que imponga como pena esa suspensión, y Fracción reformada DOF 29-05-2023
 

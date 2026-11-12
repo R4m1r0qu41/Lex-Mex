@@ -23,4 +23,6 @@ I. Canjearlos por dinero, ya sea en efectivo o mediante títulos de crédito;
 
 II. Canjearlos o utilizarlos para comprar bebidas alcohólicas o productos del tabaco;
 
-III. Usarlos para fines distintos a los de esta Ley o para servicios distintos a los definidos en el inciso b) o c) de la fracción I del artículo [7](articulo-7o.md) o en la fracción II de ese mismo artículo, y IV. Utilizar la tarjeta de los vales electrónicos para retirar el importe de su saldo en efectivo, directamente del emisor o a través de cualquier tercero, por cualquier medio, incluyendo cajeros automáticos, puntos de venta o cajas registradoras, entre otros.
+III. Usarlos para fines distintos a los de esta Ley o para servicios distintos a los definidos en el inciso b) o c) de la fracción I del artículo [7](articulo-7o.md) o en la fracción II de ese mismo artículo, y
+
+IV. Utilizar la tarjeta de los vales electrónicos para retirar el importe de su saldo en efectivo, directamente del emisor o a través de cualquier tercero, por cualquier medio, incluyendo cajeros automáticos, puntos de venta o cajas registradoras, entre otros.

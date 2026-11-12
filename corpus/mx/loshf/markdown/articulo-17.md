@@ -29,7 +29,9 @@ IV. No ejercer cargo, empleo o comisión en el servicio público al día de la d
 
 V. No tener nexos patrimoniales importantes, litigio pendiente, nexos profesionales, vínculos laborales o conflictos de interés con la Sociedad, ni con las instituciones de seguros o empresas en cuyo capital participe aquella;
 
-VI. No tener, bajo cualquier forma, la representación de asociaciones, gremios, federaciones, confederaciones de trabajadores o patrones o de sectores de atención que se relacionen con el objeto de la Sociedad, de las instituciones de seguros o de las empresas en cuyo capital participe ésta, y VII. Los demás que determinen la Ley de Instituciones de Crédito y otras disposiciones aplicables.
+VI. No tener, bajo cualquier forma, la representación de asociaciones, gremios, federaciones, confederaciones de trabajadores o patrones o de sectores de atención que se relacionen con el objeto de la Sociedad, de las instituciones de seguros o de las empresas en cuyo capital participe ésta, y
+
+VII. Los demás que determinen la Ley de Instituciones de Crédito y otras disposiciones aplicables.
 
 Los consejeros externos deberán comunicar al Consejo Directivo cualquier situación que pudiere derivar en un conflicto de interés, así como abstenerse de participar en la deliberación y votación respectivas. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos de la Sociedad, así como de las instituciones de seguros o las empresas en cuyo capital social participe ésta, incluyendo las deliberaciones del Consejo Directivo de las que sean sabedores por su carácter de consejero, mientras dicha información no se haya hecho del conocimiento del público.
 

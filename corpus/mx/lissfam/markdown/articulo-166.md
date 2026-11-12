@@ -19,7 +19,9 @@ source_sha256: 35f4c583c5deaf5501c51e000ef7f1891c8cdb8a2adf595e2b94493eb689d9fc
 
 La muerte de un militar ocurrida como consecuencia de lesiones recibidas en acción de armas, será probada:
 
-I. Con el parte de la acción de armas que rinda el Comandante de la fuerza; II. Con un certificado que el mismo Comandante deberá expedir dentro de los sesenta días siguientes a los hechos, en el que se haga constar la fecha y lugar de la acción de armas y la parte del cuerpo en que el militar hubiere recibido lesiones;
+I. Con el parte de la acción de armas que rinda el Comandante de la fuerza;
+
+II. Con un certificado que el mismo Comandante deberá expedir dentro de los sesenta días siguientes a los hechos, en el que se haga constar la fecha y lugar de la acción de armas y la parte del cuerpo en que el militar hubiere recibido lesiones;
 
 III. Con el acta de defunción, de ser posible su obtención;
 

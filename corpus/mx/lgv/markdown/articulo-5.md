@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LGV — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 5
 
-Los mecanismos, medidas y procedimientos establecidos en esta Ley, serán diseñados, implementados y evaluados aplicando los principios siguientes: Dignidad.- La dignidad humana es un valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares.
+Los mecanismos, medidas y procedimientos establecidos en esta [Ley](articulo-6.md), serán diseñados, implementados y evaluados aplicando los principios siguientes: Dignidad.- La dignidad humana es un valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares.
 
 En virtud de la dignidad humana de la víctima, todas las autoridades del Estado están obligadas en todo momento a respetar su autonomía, a considerarla y tratarla como fin de su actuación. Igualmente, todas las autoridades del Estado están obligadas a garantizar que no se vea disminuido el mínimo existencial al que la víctima tiene derecho, ni sea afectado el núcleo esencial de sus derechos.
 

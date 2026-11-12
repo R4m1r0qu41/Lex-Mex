@@ -35,7 +35,9 @@ VII. Participar en la elaboración de los proyectos de [Normativa Interna](artic
 
 VIII. Asegurar la actualización de inventarios, catálogos y registros del Patrimonio Cultural bajo su resguardo y de las unidades administrativas a su cargo, así como la inscripción, en el Registro Público de Zonas y Monumentos Arqueológicos e Históricos, del Patrimonio Cultural ubicado en el territorio de su competencia;
 
-IX. Otorgar los dictámenes, respuestas, autorizaciones y resoluciones a los trámites que le hayan sido solicitados en el territorio de su competencia, en los términos de la normativa aplicable; X. Suspender obras, revocar y cancelar autorizaciones por contravenir la normativa aplicable en monumentos, en inmuebles colindantes a monumentos o en zonas de monumentos arqueológicos e históricos;
+IX. Otorgar los dictámenes, respuestas, autorizaciones y resoluciones a los trámites que le hayan sido solicitados en el territorio de su competencia, en los términos de la normativa aplicable;
+
+X. Suspender obras, revocar y cancelar autorizaciones por contravenir la normativa aplicable en monumentos, en inmuebles colindantes a monumentos o en zonas de monumentos arqueológicos e históricos;
 
 XI. Ordenar y coordinar las inspecciones en zonas de monumentos y [Sitios Arqueológicos](articulo-2.md), históricos, y de Bienes de Interés Paleontológico, con el fin de verificar la protección y Conservación del Patrimonio Cultural, y
 

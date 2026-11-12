@@ -7,8 +7,8 @@ provision_type: article
 number: "7o"
 aliases: ["LIE — Artículo 7o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf
 source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 ---
@@ -17,7 +17,9 @@ source_sha256: 14cd17e37e96e766c8ab74950c71186d579c0ba6cc10ac9e8b06f6194af7d953
 
 # Artículo 7o
 
-En las actividades económicas y sociedades que se mencionan a continuación la inversión extranjera podrá participar en los porcentajes siguientes: I.- Hasta el 10% en:
+En las actividades económicas y sociedades que se mencionan a continuación la inversión extranjera podrá participar en los porcentajes siguientes:
+
+I.- Hasta el 10% en:
 
 Sociedades cooperativas de producción;
 

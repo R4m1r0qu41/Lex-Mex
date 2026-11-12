@@ -31,6 +31,8 @@ V. Ejecutar proyectos de investigación formativa en las materias de su competen
 
 VI. Promover prácticas de fin de carrera, prácticas profesionales y de servicio social, de los estudiantes inscritos en sus Escuelas, en proyectos de investigación formativa y en vinculación con proyectos institucionales;
 
-VII. Generar programas de extensión académica para divulgar sus actividades, así como los avances científicos y técnicos en las disciplinas que impartan sus Escuelas; VIII. Promover acuerdos de colaboración con otras instituciones académicas nacionales e internacionales, mediante programas de movilidad académica y proyectos conjuntos, y
+VII. Generar programas de extensión académica para divulgar sus actividades, así como los avances científicos y técnicos en las disciplinas que impartan sus Escuelas;
+
+VIII. Promover acuerdos de colaboración con otras instituciones académicas nacionales e internacionales, mediante programas de movilidad académica y proyectos conjuntos, y
 
 IX. Opinar sobre los planes y programas de formación profesional y técnica en las materias de su competencia, a solicitud de instituciones académicas y autoridades competentes.

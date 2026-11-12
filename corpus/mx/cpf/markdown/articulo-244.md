@@ -35,4 +35,6 @@ VII.- Añadiendo o alterando cláusulas o declaraciones, o asentando como cierto
 
 VIII.- Expidiendo un testimonio supuesto de documentos que no existen; dándolo de otro existente que carece de los requisitos legales, suponiendo falsamente que los tiene; o de otro que no carece de ellos, pero agregando o suprimiendo en la copia algo que importe una variación substancia, y
 
-IX.- Alterando un perito traductor o paleógrafo el contenido de un documento, al traducirlo o descifrarlo. X.- Elaborando placas, gafetes, distintivos, documentos o cualquier otra identificación oficial, sin contar con la autorización de la autoridad correspondiente. Fracción adicionada DOF 23-12-1985
+IX.- Alterando un perito traductor o paleógrafo el contenido de un documento, al traducirlo o descifrarlo.
+
+X.- Elaborando placas, gafetes, distintivos, documentos o cualquier otra identificación oficial, sin contar con la autorización de la autoridad correspondiente. Fracción adicionada DOF 23-12-1985

@@ -17,7 +17,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 # Artículo 331
 
-Se considerarán indubitables para el cotejo: I. Los documentos físicos o electrónicos firmados de manera autógrafa o con firma electrónica avanzada que las partes, según el caso, de común acuerdo, reconozcan como tales;
+Se considerarán indubitables para el cotejo:
+
+I. Los documentos físicos o electrónicos firmados de manera autógrafa o con firma electrónica avanzada que las partes, según el caso, de común acuerdo, reconozcan como tales;
 
 II. Los documentos privados físicos o electrónicos cuya letra o firma autógrafa o con firma electrónica avanzada hayan sido reconocidos en juicio por aquel a quien se atribuye la dudosa;
 

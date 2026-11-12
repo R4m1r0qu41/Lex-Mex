@@ -35,7 +35,9 @@ VII. Estrategia: La Estrategia Nacional de Transición Energética;
 
 VIII. Expendio al Público: La enajenación al menudeo hacia el consumidor final, en instalaciones con fin específico o multimodal, incluyendo estaciones de servicio, de compresión y de carburación, entre otras;
 
-IX. Ley: La Ley de Biocombustibles; X. Producción: Los procesos de acondicionamiento o transformación necesarios para el aprovechamiento energético o la transformación de la Biomasa que lo requiera para su uso como Biocombustibles, en instalaciones determinadas para dicho fin;
+IX. Ley: La Ley de Biocombustibles;
+
+X. Producción: Los procesos de acondicionamiento o transformación necesarios para el aprovechamiento energético o la transformación de la Biomasa que lo requiera para su uso como Biocombustibles, en instalaciones determinadas para dicho fin;
 
 XI. Reglamento: El Reglamento de la Ley de Biocombustibles;
 

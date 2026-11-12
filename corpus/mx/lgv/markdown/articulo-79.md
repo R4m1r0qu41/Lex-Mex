@@ -7,8 +7,8 @@ provision_type: article
 number: "79"
 aliases: ["LGV — Artículo 79"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -21,7 +21,7 @@ El [Sistema](articulo-6.md) Nacional de Atención a Víctimas será la instancia
 
 El Sistema Nacional de Atención a Víctimas está constituido por todas las instituciones y entidades públicas federales, estatales, del Gobierno de la Ciudad de México y municipales, organismos autónomos, y demás organizaciones públicas o privadas, encargadas de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas, a que se refiere el Capítulo II del presente Título. Párrafo reformado DOF 03-01-2017
 
-El Sistema tiene por objeto la coordinación de instrumentos, políticas, servicios y acciones entre las instituciones y organismos ya existentes y los creados por esta Ley para la protección de los derechos de las víctimas.
+El Sistema tiene por objeto la coordinación de instrumentos, políticas, servicios y acciones entre las instituciones y organismos ya existentes y los creados por esta [Ley](articulo-6.md) para la protección de los derechos de las víctimas.
 
 Para la operación del Sistema y el cumplimiento de sus atribuciones, el Sistema contará con una [Comisión Ejecutiva](articulo-6.md) y [Comisiones de víctimas](articulo-6.md), quienes conocerán y resolverán los asuntos de su competencia, de conformidad con las disposiciones aplicables. Párrafo reformado DOF 03-01-2017
 

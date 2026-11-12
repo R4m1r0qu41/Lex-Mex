@@ -7,8 +7,8 @@ provision_type: article
 number: "135"
 aliases: ["REG-LGCFD — Artículo 135"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---

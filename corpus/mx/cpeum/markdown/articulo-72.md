@@ -33,7 +33,9 @@ F. En la interpretación, reforma o derogación de las leyes o decretos, se obse
 
 G. Todo proyecto de ley o decreto que fuere desechado en la Cámara de su origen, no podrá volver a presentarse en las sesiones del año.
 
-H. La formación de las leyes o decretos puede comenzar indistintamente en cualquiera de las dos Cámaras, con excepción de los proyectos que versaren sobre empréstitos, contribuciones o impuestos, o sobre reclutamiento de tropas, todos los cuales deberán discutirse primero en la Cámara de Diputados. I. Las iniciativas de leyes o decretos se discutirán preferentemente en la Cámara en que se presenten, a menos que transcurra un mes desde que se pasen a la Comisión dictaminadora sin que ésta rinda dictamen, pues en tal caso el mismo proyecto de ley o decreto puede presentarse y discutirse en la otra Cámara.
+H. La formación de las leyes o decretos puede comenzar indistintamente en cualquiera de las dos Cámaras, con excepción de los proyectos que versaren sobre empréstitos, contribuciones o impuestos, o sobre reclutamiento de tropas, todos los cuales deberán discutirse primero en la Cámara de Diputados.
+
+I. Las iniciativas de leyes o decretos se discutirán preferentemente en la Cámara en que se presenten, a menos que transcurra un mes desde que se pasen a la Comisión dictaminadora sin que ésta rinda dictamen, pues en tal caso el mismo proyecto de ley o decreto puede presentarse y discutirse en la otra Cámara.
 
 I (sic DOF 24-11-1923). El Ejecutivo de la Unión no puede hacer observaciones a las resoluciones del Congreso o de alguna de las Cámaras, cuando ejerzan funciones de cuerpo electoral o de jurado, lo mismo que cuando la Cámara de Diputados declare que debe acusarse a uno de los altos funcionarios de la Federación por delitos oficiales.
 

@@ -17,7 +17,9 @@ source_sha256: 99d3d61b8abaa6f0c20427466c41a7f236feda5772e49a6aec7f677b29e14880
 
 # Artículo 5o
 
-La Sociedad, con el fin de fomentar el desarrollo integral del sector industrial y promover su eficiencia y competitividad, en el ejercicio de su objeto canalizará apoyos y recursos y estará facultada para: I.- Promover, gestionar y poner en marcha proyectos que atiendan necesidades del sector en las distintas zonas del país o que propicien el mejor aprovechamiento de los recursos de cada región;
+La Sociedad, con el fin de fomentar el desarrollo integral del sector industrial y promover su eficiencia y competitividad, en el ejercicio de su objeto canalizará apoyos y recursos y estará facultada para:
+
+I.- Promover, gestionar y poner en marcha proyectos que atiendan necesidades del sector en las distintas zonas del país o que propicien el mejor aprovechamiento de los recursos de cada región;
 
 I Bis.- Establecer programas de financiamiento para apoyar actividades económicas que propicien la creación de empleos, en las empresas u organizaciones indígenas; que permitan la incorporación de tecnologías que les ayuden a incrementar su capacidad productiva, así como para asegurar el acceso equitativo de las mismas a los sistemas de abasto y comercialización; Fracción adicionada DOF 01-08-2005
 

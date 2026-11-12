@@ -17,7 +17,9 @@ source_sha256: 05173ee7243159eadc0ab705431d038e1381731df1799208978dfdc945663afc
 
 # Artículo 18
 
-Al frente de la Oficialía Mayor habrá un Oficial Mayor, quien tendrá las facultades siguientes: I. Emitir, en apego a las instrucciones del [Procurador](articulo-2.md), las normas y políticas en las materias de su competencia, a las que deberán sujetarse las unidades administrativas y los órganos desconcentrados de la Institución;
+Al frente de la Oficialía Mayor habrá un Oficial Mayor, quien tendrá las facultades siguientes:
+
+I. Emitir, en apego a las instrucciones del [Procurador](articulo-2.md), las normas y políticas en las materias de su competencia, a las que deberán sujetarse las unidades administrativas y los órganos desconcentrados de la Institución;
 
 II. Establecer y ejecutar, con la aprobación del Procurador, las políticas pertinentes para el control administrativo de los bienes asegurados por el Ministerio Público de la Federación, en los términos de las disposiciones aplicables;
 
@@ -41,7 +43,9 @@ XI. Resolver en definitiva sobre la procedencia de la terminación de los efecto
 
 XII. Establecer los lineamientos relativos a la identificación del personal y suscribir las credenciales que identifiquen a los servidores públicos de la Institución;
 
-XIII. Emitir las reglas de control de asistencia y puntualidad del personal de la Procuraduría, así como para los descuentos al salario que sean ordenados por autoridad competente; XIV. Establecer los sistemas de motivación al personal de las unidades administrativas y órganos desconcentrados de la Procuraduría, y los mecanismos de evaluación del desempeño, con la participación de las unidades administrativas y órganos desconcentrados competentes;
+XIII. Emitir las reglas de control de asistencia y puntualidad del personal de la Procuraduría, así como para los descuentos al salario que sean ordenados por autoridad competente;
+
+XIV. Establecer los sistemas de motivación al personal de las unidades administrativas y órganos desconcentrados de la Procuraduría, y los mecanismos de evaluación del desempeño, con la participación de las unidades administrativas y órganos desconcentrados competentes;
 
 XV. Otorgar los premios, estímulos, reconocimientos y recompensas al personal de la Institución que determinen las disposiciones aplicables y las Condiciones Generales de Trabajo, e imponer las sanciones por incumplimiento a las obligaciones laborales, de conformidad con lo establecido por el presente Reglamento, las demás disposiciones aplicables y el Procurador;
 

@@ -25,7 +25,9 @@ II. Los recursos ordinarios de las instituciones públicas de educación superio
 
 III. El incumplimiento en la ministración de los recursos asignados o de los demás compromisos de pago establecidos en los convenios de apoyo financiero respectivos por parte de servidores públicos federales o locales dará lugar a las responsabilidades que correspondan en términos de lo establecido en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, sin perjuicio de otras sanciones que, en su caso, lleguen a determinarse por cualquier autoridad;
 
-IV. Las instituciones públicas de educación superior podrán solicitar a la Federación y a las entidades federativas, en los casos que corresponda, recursos extraordinarios para la satisfacción de necesidades adicionales en el cumplimiento de sus funciones sustantivas de docencia, investigación, desarrollo científico y tecnológico, extensión y difusión de la cultura; V. Los recursos públicos que reciban las instituciones públicas de educación superior deberán administrarse con eficiencia, responsabilidad y transparencia, a través de procedimientos que permitan la rendición de cuentas y el combate a la corrupción;
+IV. Las instituciones públicas de educación superior podrán solicitar a la Federación y a las entidades federativas, en los casos que corresponda, recursos extraordinarios para la satisfacción de necesidades adicionales en el cumplimiento de sus funciones sustantivas de docencia, investigación, desarrollo científico y tecnológico, extensión y difusión de la cultura;
+
+V. Los recursos públicos que reciban las instituciones públicas de educación superior deberán administrarse con eficiencia, responsabilidad y transparencia, a través de procedimientos que permitan la rendición de cuentas y el combate a la corrupción;
 
 VI. El ejercicio del gasto público de las instituciones públicas de educación superior estará sujeto a las disposiciones y criterios establecidos en las leyes aplicables y su normatividad interna, debiendo observar los principios de legalidad, eficiencia, eficacia, economía, transparencia, rendición de cuentas y honradez;
 

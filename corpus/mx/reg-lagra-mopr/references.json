@@ -635,11 +635,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:23:reference:616-618:56:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:23:reference:617-619:56:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:23",
     "source_span": "56",
-    "start_char": 616,
-    "end_char": 618,
+    "start_char": 617,
+    "end_char": 619,
     "target_instrument_id": "urn:lex-mx:federal:statute:lagra",
     "target_provision_id": "urn:lex-mx:federal:statute:lagra:article:56",
     "qualifiers": [],
@@ -969,19 +969,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67:reference:840-841:67:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67:reference:841-842:67:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67",
     "source_span": "I",
-    "start_char": 840,
-    "end_char": 841,
+    "start_char": 841,
+    "end_char": 842,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 840,
-        "end_char": 841
+        "start_char": 841,
+        "end_char": 842
       }
     ],
     "basis": "express_cross_reference",
@@ -992,19 +992,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67:reference:844-846:67:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67:reference:845-847:67:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67",
     "source_span": "II",
-    "start_char": 844,
-    "end_char": 846,
+    "start_char": 845,
+    "end_char": 847,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lagra-mopr:article:67",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 844,
-        "end_char": 846
+        "start_char": 845,
+        "end_char": 847
       }
     ],
     "basis": "express_cross_reference",

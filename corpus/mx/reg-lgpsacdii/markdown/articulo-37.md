@@ -47,7 +47,9 @@ b) Tipo 3 y Tipo 4:
 
 I. Verificar que cualquier modificación o reparación que sea precisa en el conjunto de la instalación eléctrica y en las restantes instalaciones de gas, y calefacción, entre otras, sea realizada por personal autorizado;
 
-II. Llevar un control documentado de las condiciones de las instalaciones generales del Centro de Atención, tales como instalaciones eléctricas, y de calefacción, entre otras; III. Prohibir expresamente que los espacios utilizados para plantas de emergencia, subestaciones eléctricas, equipos hidráulicos o calderas sean utilizados como áreas de almacén;
+II. Llevar un control documentado de las condiciones de las instalaciones generales del Centro de Atención, tales como instalaciones eléctricas, y de calefacción, entre otras;
+
+III. Prohibir expresamente que los espacios utilizados para plantas de emergencia, subestaciones eléctricas, equipos hidráulicos o calderas sean utilizados como áreas de almacén;
 
 IV. Verificar frecuentemente las condiciones que guardan las áreas de riesgo especial existentes en el Centro de Atención como almacenes generales, subestaciones de luz, cuarto de calderas, entre otros, y
 
@@ -141,7 +143,9 @@ II. La ocupación asignada a cada recinto y zona del Centro de Atención no debe
 
 III. Verificar que todos los elementos de evacuación y salidas del Centro de Atención se encuentren permanentemente despejados de obstáculos;
 
-IV. No se deberán clausurar o cerrar con llave, aún con carácter provisional, las puertas de paso y salida de ocupantes, durante el periodo de funcionamiento del Centro de Atención; V. Comprobar periódicamente el correcto funcionamiento de los mecanismos de apertura de las puertas vinculadas a la evacuación del Centro de Atención;
+IV. No se deberán clausurar o cerrar con llave, aún con carácter provisional, las puertas de paso y salida de ocupantes, durante el periodo de funcionamiento del Centro de Atención;
+
+V. Comprobar periódicamente el correcto funcionamiento de los mecanismos de apertura de las puertas vinculadas a la evacuación del Centro de Atención;
 
 VI. Las puertas de emergencia deben abrir en el sentido de la evacuación, y
 

@@ -19,7 +19,9 @@ source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
 
 El estudio preliminar previsto en el artículo 27, fracción I, de la Ley deberá contener los elementos previos para que, si la propuesta se considera procedente, se inicien los análisis a que se refiere el artículo 14 de la misma Ley.
 
-Dicho estudio preliminar tendrá un apartado por cada uno de los aspectos previstos en la citada disposición, que deberá ajustarse a lo siguiente: I. La descripción del proyecto a que se refiere el inciso a) contendrá:
+Dicho estudio preliminar tendrá un apartado por cada uno de los aspectos previstos en la citada disposición, que deberá ajustarse a lo siguiente:
+
+I. La descripción del proyecto a que se refiere el inciso a) contendrá:
 
 a) Las características, niveles de desempeño y calidad para la prestación de los servicios e infraestructura de que se trate, y
 

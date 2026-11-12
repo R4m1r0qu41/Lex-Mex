@@ -43,7 +43,9 @@ VI. Proponer, promover e implementar las medidas que se requieran para garantiza
 
 VII. Elaborar, proponer y promover las propuestas de reformas constitucionales, legales e institucionales, que se requieran para dar pleno reconocimiento a los derechos de los pueblos indígenas y afromexicano;
 
-VIII. Formular y ejecutar, en coordinación con los pueblos indígenas y afromexicano, los programas para la investigación, capacitación, defensa y promoción de los derechos de dichos pueblos; IX. Garantizar, promover e instrumentar las medidas y acciones para el reconocimiento, respeto y ejercicio de los derechos y el desarrollo integral de las mujeres indígenas y afromexicanas, así como fortalecer su participación en todos los ámbitos, reconociendo sus aportes e incorporando sus propias visiones y propuestas;
+VIII. Formular y ejecutar, en coordinación con los pueblos indígenas y afromexicano, los programas para la investigación, capacitación, defensa y promoción de los derechos de dichos pueblos;
+
+IX. Garantizar, promover e instrumentar las medidas y acciones para el reconocimiento, respeto y ejercicio de los derechos y el desarrollo integral de las mujeres indígenas y afromexicanas, así como fortalecer su participación en todos los ámbitos, reconociendo sus aportes e incorporando sus propias visiones y propuestas;
 
 X. Promover el reconocimiento, respeto y protección de las niñas, niños y jóvenes indígenas y afromexicanos, personas mayores, personas con discapacidad, personas con diversas identidades y preferencias sexuales y de género, así como cualquier otro sector en situación de vulnerabilidad o víctima de violencia y discriminación de dichos pueblos;
 
@@ -63,7 +65,9 @@ XVII. Coadyuvar, mediar y orientar, en coordinación con las instancias competen
 
 XVIII. Evaluar las políticas públicas y la aplicación de los planes, programas, proyectos y acciones gubernamentales, en coordinación con el Consejo Nacional de Evaluación de la Política de Desarrollo Social, y hacer recomendaciones para garantizar el reconocimiento, protección e implementación de los derechos, así como para el desarrollo integral, intercultural y sostenible de dichos pueblos;
 
-XIX. Realizar, publicar, difundir y promover las investigaciones y estudios relativos a los pueblos indígenas y afromexicano, así como conservar los acervos del patrimonio cultural e intelectual de dichos pueblos, en coordinación con el Instituto Nacional de Antropología e Historia y otras instancias que correspondan; XX. Apoyar y fortalecer los procesos de reconstitución y desarrollo con cultura e identidad de los referidos pueblos;
+XIX. Realizar, publicar, difundir y promover las investigaciones y estudios relativos a los pueblos indígenas y afromexicano, así como conservar los acervos del patrimonio cultural e intelectual de dichos pueblos, en coordinación con el Instituto Nacional de Antropología e Historia y otras instancias que correspondan;
+
+XX. Apoyar y fortalecer los procesos de reconstitución y desarrollo con cultura e identidad de los referidos pueblos;
 
 XXI. Instrumentar, gestionar, instalar, promover y ejecutar, en coordinación con las instancias competentes, las medidas necesarias para brindar mantenimiento, mejoramiento y ampliación de la infraestructura comunitaria, tales como vías de comunicación, escuelas, vivienda, puentes, electrificación, agua potable, drenaje, saneamiento y en general todo tipo de infraestructura, que permitan la integración y reconstitución territorial de los pueblos indígenas y afromexicano, así como el fortalecimiento de su gobernanza, organización regional y capacidad económica productiva;
 
@@ -105,7 +109,9 @@ XXXVIII. Promover y adoptar las medidas, en conjunto con los pueblos indígenas 
 
 XXXIX. Promover, adoptar y garantizar las medidas correspondientes para mantener, proteger y desarrollar la propiedad intelectual, colectiva e individual, con relación a dicho patrimonio cultural, conocimientos tradicionales y expresiones culturales tradicionales;
 
-XL. Emprender programas, proyectos y acciones para el rescate, conservación, fortalecimiento y revitalización de las lenguas indígenas del país, en coordinación con las instancias competentes; y promover las acciones afirmativas necesarias para que éstas garanticen los servicios de traducción e interpretación que permita a la población indígena el ejercicio efectivo de sus derechos; XLI. Coordinar con las instancias correspondientes, el reconocimiento y la implementación de la educación indígena en todos sus tipos y niveles, así como participar en la elaboración de los planes y programas de estudio, y materiales didácticos específicos dirigidos a los pueblos indígenas, con la finalidad de fortalecer las culturas, historias, identidades, instituciones y formas de organización de dichos pueblos;
+XL. Emprender programas, proyectos y acciones para el rescate, conservación, fortalecimiento y revitalización de las lenguas indígenas del país, en coordinación con las instancias competentes; y promover las acciones afirmativas necesarias para que éstas garanticen los servicios de traducción e interpretación que permita a la población indígena el ejercicio efectivo de sus derechos;
+
+XLI. Coordinar con las instancias correspondientes, el reconocimiento y la implementación de la educación indígena en todos sus tipos y niveles, así como participar en la elaboración de los planes y programas de estudio, y materiales didácticos específicos dirigidos a los pueblos indígenas, con la finalidad de fortalecer las culturas, historias, identidades, instituciones y formas de organización de dichos pueblos;
 
 XLII. Crear los espacios necesarios y dignos para la atención integral e intercultural de los niños, niñas y jóvenes indígenas y afromexicanos, tanto en sus regiones como fuera de ellas;
 

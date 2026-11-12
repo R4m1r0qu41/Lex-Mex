@@ -21,7 +21,9 @@ La Junta Directiva tendrá las siguientes facultades:
 
 I. Establecer en congruencia con el programa sectorial, las políticas generales y definir las prioridades a las que deberá sujetarse la [CONADE](articulo-4.md) relativas a la dirección, desarrollo, promoción, fomento, difusión e investigación de la activación física, la cultura física y el deporte;
 
-II. Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad; III. Aprobar los programas y presupuesto de la CONADE, así como sus modificaciones, en los términos de las disposiciones aplicables;
+II. Establecer, conforme al programa sectorial, lo relativo al impulso de políticas específicas en materia de cultura física y deporte destinadas al desarrollo e integración de las personas con discapacidad;
+
+III. Aprobar los programas y presupuesto de la CONADE, así como sus modificaciones, en los términos de las disposiciones aplicables;
 
 IV. Aprobar de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen los convenios, contratos o acuerdos que deba celebrar la CONADE con terceros en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles. El Director General y en su caso los servidores públicos que deban intervenir, de conformidad con el Estatuto, realizarán tales actos bajo su responsabilidad con sujeción a las directrices fijadas por la Junta Directiva;
 
@@ -47,7 +49,9 @@ XIV. Formular los lineamientos que se estimen necesarios para racionalizar las e
 
 XV. Aprobar y evaluar el Programa Anual de Trabajo y los programas institucionales de corto, mediano y largo plazos que sean elaborados por el Director General;
 
-XVI. Evaluar los presupuestos de la CONADE en términos de las disposiciones aplicables, sin perjuicio de las atribuciones que en materia de evaluación correspondan a otras Dependencias y Entidades de la Administración Pública Federal; XVII. Aprobar los anteproyectos y proyecto de presupuesto de la CONADE que habrán de presentarse ante la Secretaría de Hacienda y Crédito Público por conducto de la Coordinadora de Sector;
+XVI. Evaluar los presupuestos de la CONADE en términos de las disposiciones aplicables, sin perjuicio de las atribuciones que en materia de evaluación correspondan a otras Dependencias y Entidades de la Administración Pública Federal;
+
+XVII. Aprobar los anteproyectos y proyecto de presupuesto de la CONADE que habrán de presentarse ante la Secretaría de Hacienda y Crédito Público por conducto de la Coordinadora de Sector;
 
 XVIII. Establecer las directrices y políticas para que la ejecución de los programas y presupuestos se apeguen a la asignación presupuestal autorizada, lo que permitirá el logro oportuno de los objetivos y metas programadas de la CONADE;
 
@@ -79,4 +83,6 @@ XXXI. Autorizar al Director General, con las limitaciones que al efecto se deter
 
 XXXII. Autorizar al Director General para ejercitar y desistirse de acciones judiciales, inclusive del Juicio de Amparo a nombre de la CONADE;
 
-XXXIII. Ratificar los nombramientos de apoderados que recaigan en personas ajenas a la CONADE, y XXXIV. Ejercer las facultades que la Ley Federal de las Entidades Paraestatales y su Reglamento asigna a los Órganos de Gobierno de las entidades.
+XXXIII. Ratificar los nombramientos de apoderados que recaigan en personas ajenas a la CONADE, y
+
+XXXIV. Ejercer las facultades que la Ley Federal de las Entidades Paraestatales y su Reglamento asigna a los Órganos de Gobierno de las entidades.

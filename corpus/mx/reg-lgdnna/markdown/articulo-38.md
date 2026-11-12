@@ -71,7 +71,9 @@ h) Domicilio;
 
 i) El perfil y número de las niñas, niños y adolescentes que tienen la capacidad de adoptar, y
 
-j) Si cuenta con Certificado de Idoneidad; III. Respecto de los procedimientos de adopción:
+j) Si cuenta con Certificado de Idoneidad;
+
+III. Respecto de los procedimientos de adopción:
 
 a) La fecha de inicio y conclusión de los procedimientos de adopción nacional o internacional;
 

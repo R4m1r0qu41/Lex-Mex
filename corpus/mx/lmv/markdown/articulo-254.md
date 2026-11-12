@@ -21,7 +21,9 @@ Las solicitudes de autorización para organizarse y operar como sociedad que adm
 
 I. Proyecto de estatutos de una sociedad anónima.
 
-II. Relación e información de los socios, así como de los probables consejeros, director general y principales directivos de la sociedad. III. Plan general de funcionamiento que contenga los elementos mínimos que determine la [Comisión](articulo-2.md) mediante disposiciones de carácter general. Fracción reformada DOF 10-01-2014
+II. Relación e información de los socios, así como de los probables consejeros, director general y principales directivos de la sociedad.
+
+III. Plan general de funcionamiento que contenga los elementos mínimos que determine la [Comisión](articulo-2.md) mediante disposiciones de carácter general. Fracción reformada DOF 10-01-2014
 
 IV. El manual de conducta que incluya las políticas para la solución de potenciales conflictos de interés en la realización de sus actividades. Los citados manuales deberán contener las normas que al efecto determine la Comisión mediante disposiciones de carácter general. Fracción adicionada DOF 10-01-2014
 

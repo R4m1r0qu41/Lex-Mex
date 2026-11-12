@@ -23,7 +23,9 @@ I. La entidad, poder u órgano actor, su domicilio y el nombre y cargo de la per
 
 II. La entidad, poder u órgano demandado y su domicilio;
 
-III. Las entidades, poderes u órganos terceros interesados, si los hubiere, y sus domicilios; IV. La norma general, acto u omisión cuya invalidez se demande, así como, en su caso, el medio oficial en que se hubieran publicado; Fracción reformada DOF 07-06-2021
+III. Las entidades, poderes u órganos terceros interesados, si los hubiere, y sus domicilios;
+
+IV. La norma general, acto u omisión cuya invalidez se demande, así como, en su caso, el medio oficial en que se hubieran publicado; Fracción reformada DOF 07-06-2021
 
 V. Los preceptos constitucionales que, en su caso, se estimen violados;
 

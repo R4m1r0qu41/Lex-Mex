@@ -21,4 +21,6 @@ Las Cuentas Individuales de los [Trabajadores Estatales o Municipales](articulo-
 
 I. Subcuenta de Fondos de Previsión Social;
 
-II. Subcuenta de aportaciones voluntarias, y III. Subcuenta de aportaciones complementarias de retiro.
+II. Subcuenta de aportaciones voluntarias, y
+
+III. Subcuenta de aportaciones complementarias de retiro.

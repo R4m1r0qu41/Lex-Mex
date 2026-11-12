@@ -17,7 +17,9 @@ source_sha256: e56b3fe80514e68891aee1c7ad316374b7b6d21ab2b8ce55c53b3ae83a535248
 
 # Artículo 16
 
-A todo individuo de la Armada al causar alta en alguna unidad o establecimiento, deberá abrírsele una hoja de actuación o memorial de servicios, según corresponda, que fundamentalmente contendrán los siguientes datos: I.- Generales del militar;
+A todo individuo de la Armada al causar alta en alguna unidad o establecimiento, deberá abrírsele una hoja de actuación o memorial de servicios, según corresponda, que fundamentalmente contendrán los siguientes datos:
+
+I.- Generales del militar;
 
 II.- Ascensos obtenidos;
 

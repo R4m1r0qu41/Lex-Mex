@@ -27,6 +27,8 @@ b) Unidades de verificación; y
 
 c) Laboratorios de pruebas.
 
-Una misma persona podrá obtener una o varias de las aprobaciones a que hacen referencia los incisos a) al c), de la presente fracción; II. La Secretaría podrá otorgar la autorización a las personas físicas que lo soliciten, para que operen como terceros especialistas autorizados, a fin de que coadyuven con la Secretaría, o con los organismos de certificación, unidades de verificación o laboratorios de pruebas aprobados. Los terceros especialistas emitirán un informe de resultados; y
+Una misma persona podrá obtener una o varias de las aprobaciones a que hacen referencia los incisos a) al c), de la presente fracción;
+
+II. La Secretaría podrá otorgar la autorización a las personas físicas que lo soliciten, para que operen como terceros especialistas autorizados, a fin de que coadyuven con la Secretaría, o con los organismos de certificación, unidades de verificación o laboratorios de pruebas aprobados. Los terceros especialistas emitirán un informe de resultados; y
 
 III. La Secretaría podrá autorizar a las personas físicas para que se desempeñen como profesionales autorizados, a fin de que coadyuven con la Secretaría como asesores o capacitadores del cumplimiento de las disposiciones de sanidad animal o de buenas prácticas pecuarias, así como en la ejecución de las medidas zoosanitarias y de buenas prácticas pecuarias de los bienes de origen animal que establezca con los dispositivos nacionales de emergencia de salud animal.

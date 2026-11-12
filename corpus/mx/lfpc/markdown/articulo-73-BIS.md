@@ -21,7 +21,9 @@ Tratándose de los actos relacionados con inmuebles a que se refiere el [artícu
 
 I. En caso de preventa, el proveedor deberá exhibir el proyecto ejecutivo de construcción completo, así como la maqueta respectiva y, en su caso, el inmueble muestra;
 
-II. Los documentos que acrediten la propiedad del inmueble. Asimismo, deberá informar sobre la existencia de gravámenes que afecten la propiedad del mismo, los cuales deberán quedar cancelados al momento de la firma de la escritura correspondiente; III. La personalidad del vendedor y la autorización del proveedor para promover la venta;
+II. Los documentos que acrediten la propiedad del inmueble. Asimismo, deberá informar sobre la existencia de gravámenes que afecten la propiedad del mismo, los cuales deberán quedar cancelados al momento de la firma de la escritura correspondiente;
+
+III. La personalidad del vendedor y la autorización del proveedor para promover la venta;
 
 IV. Información sobre las condiciones en que se encuentre el pago de contribuciones y servicios públicos;
 

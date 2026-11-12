@@ -27,7 +27,9 @@ La convocatoria para la asamblea de tenedores se publicará por una sola vez en 
 
 III. El representante común de los tenedores será el único facultado para comunicar al conciliador, al síndico o al propio juez, las resoluciones adoptadas en la asamblea general de tenedores y, en su caso, procederá a suscribir el convenio ejecutando las resoluciones y obligando con su firma a todos los tenedores de los instrumentos o títulos;
 
-IV. En caso de que no se hubiere convocado a asamblea por el representante común de los tenedores o que no se hubiere reunido el quórum necesario para sesionar referido en la fracción II anterior del presente artículo, cualquier tenedor de instrumentos o títulos podrá comparecer al concurso mercantil del Comerciante a manifestarse respecto de la propuesta de convenio y, en su caso, para suscribirlo; V. Para el caso de créditos colectivos a cargo del Comerciante emitidos en el extranjero o sujetos a leyes extranjeras, se deberá estar al procedimiento para adoptar resoluciones que al efecto se hubiere pactado, siendo aplicable, en lo conducente, lo establecido en este artículo;
+IV. En caso de que no se hubiere convocado a asamblea por el representante común de los tenedores o que no se hubiere reunido el quórum necesario para sesionar referido en la fracción II anterior del presente artículo, cualquier tenedor de instrumentos o títulos podrá comparecer al concurso mercantil del Comerciante a manifestarse respecto de la propuesta de convenio y, en su caso, para suscribirlo;
+
+V. Para el caso de créditos colectivos a cargo del Comerciante emitidos en el extranjero o sujetos a leyes extranjeras, se deberá estar al procedimiento para adoptar resoluciones que al efecto se hubiere pactado, siendo aplicable, en lo conducente, lo establecido en este artículo;
 
 VI. Las acciones individuales de los tenedores no serán procedentes cuando sobre el mismo objeto esté en curso o se promueva una acción del representante común o figura análoga o similar, o cuando sean incompatibles dichas acciones con alguna resolución debidamente aprobada por la asamblea general de tenedores.
 

@@ -25,7 +25,9 @@ II. Fiscalía Central de Investigación para la Atención del Delito de Homicidi
 
 III. Fiscalía Central de Investigación para la Atención de Delitos Sexuales;
 
-IV. Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes; V. Fiscalía Central de Investigación para la Atención del Delito de Robo de Vehículos y Transporte;
+IV. Fiscalía Central de Investigación para la Atención de Niños, Niñas y Adolescentes;
+
+V. Fiscalía Central de Investigación para la Atención del Delito de Robo de Vehículos y Transporte;
 
 VI. Fiscalía Central de Investigación para la Atención de Delitos Financieros;
 

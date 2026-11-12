@@ -37,6 +37,8 @@ VIII. Resolver, bajo su inmediata y directa responsabilidad, los asuntos urgente
 
 IX. Conceder licencias al personal del Instituto en los términos de las disposiciones correspondientes;
 
-X. Vigilar las labores del personal exigiendo su debido cumplimiento e imponer a los trabajadores del Instituto las correcciones disciplinarias procedentes; XI. Convocar a sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva cuando proceda o, a su juicio, existan razones suficientes, y
+X. Vigilar las labores del personal exigiendo su debido cumplimiento e imponer a los trabajadores del Instituto las correcciones disciplinarias procedentes;
+
+XI. Convocar a sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva cuando proceda o, a su juicio, existan razones suficientes, y
 
 XII. Las demás que señalen esta [Ley](articulo-4o.md), su Reglamento y demás disposiciones aplicables.

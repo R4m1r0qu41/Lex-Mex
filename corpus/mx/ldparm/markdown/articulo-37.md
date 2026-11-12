@@ -39,6 +39,8 @@ IX. Entrar en cantinas, garitos o sitios de prostitución, portando uniforme;
 
 X. Participar uniformado en marchas, espectáculos o representaciones;
 
-XI. Mezclar las prendas de los diferentes uniformes entre sí o con las de paisano; XII. Aceptar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de la Institución, y
+XI. Mezclar las prendas de los diferentes uniformes entre sí o con las de paisano;
+
+XII. Aceptar todo compromiso que implique deshonor, falta de disciplina o menoscabo de la reputación de la Institución, y
 
 XIII. Empeñar su palabra de honor, cuando no tengan la seguridad de poder cumplirla.

@@ -19,7 +19,9 @@ source_sha256: 603475aa11e46fa2fcf3b7e1c1ec111d4202070c309d1b355b834f011c226262
 
 La Junta Directiva tendrá las facultades siguientes:
 
-I. Fijar la política y las acciones relacionadas con la defensoría pública, considerando las opiniones que al respecto se le formulen; II. Se deroga. Fracción derogada DOF 07-06-2021
+I. Fijar la política y las acciones relacionadas con la defensoría pública, considerando las opiniones que al respecto se le formulen;
+
+II. Se deroga. Fracción derogada DOF 07-06-2021
 
 III. Propiciar que las diversas instancias públicas y privadas apoyen las modalidades del sistema de libertad provisional o de garantía económica de los defendidos que carezcan de recursos económicos suficientes para el pago de la caución que se les fije; Fracción reformada DOF 17-06-2016
 

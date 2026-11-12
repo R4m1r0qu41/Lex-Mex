@@ -19,7 +19,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 La [Secretaría](articulo-2.md), previo cumplimiento de la garantía de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo, podrá aplicar las sanciones previstas en el presente título.
 
-La Secretaría sancionará con amonestación a Cámaras o [Confederaciones](articulo-2.md) que incurran en las conductas siguientes:
+La Secretaría sancionará con amonestación a [Cámaras](articulo-2.md) o [Confederaciones](articulo-2.md) que incurran en las conductas siguientes:
 
 I. Llevar a cabo actividades que no se justifiquen en razón de su objeto, o
 

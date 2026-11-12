@@ -21,6 +21,8 @@ El [Registro Nacional](articulo-2.md) contendrá:
 
 I. Por cada arma de fuego: Matricula, modelo y los datos relativos a la licencia particular que ampara su portación;
 
-II. Por cada modelo de uniforme; III. Por cada vehículo automotor: tipo, marca, modelo, placas y número de identificación vehicular, y
+II. Por cada modelo de uniforme;
+
+III. Por cada vehículo automotor: tipo, marca, modelo, placas y número de identificación vehicular, y
 
 IV. Por cada equipo de radio y telecomunicación: tipo, marca, modelo y número de serie.

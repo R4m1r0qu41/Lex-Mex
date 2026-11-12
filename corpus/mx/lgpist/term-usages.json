@@ -19,12 +19,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:2:term-usage:692-700",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:2:term-usage:693-701",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
     "span": "Víctimas",
-    "start_char": 692,
-    "end_char": 700
+    "start_char": 693,
+    "end_char": 701
   },
   {
     "schema_version": "0.1.0",
@@ -271,57 +271,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:164-180",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:165-181",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:servidor-publico",
     "span": "Servidor Público",
-    "start_char": 164,
-    "end_char": 180
+    "start_char": 165,
+    "end_char": 181
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:261-264",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:262-265",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
-    "start_char": 261,
-    "end_char": 264
+    "start_char": 262,
+    "end_char": 265
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:868-871",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:869-872",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
-    "start_char": 868,
-    "end_char": 871
+    "start_char": 869,
+    "end_char": 872
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:931-953",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:932-954",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:fiscalias-especializadas",
     "span": "Fiscalía Especializada",
-    "start_char": 931,
-    "end_char": 953
+    "start_char": 932,
+    "end_char": 954
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:1191-1198",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:1192-1199",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
     "span": "Víctima",
-    "start_char": 1191,
-    "end_char": 1198
+    "start_char": 1192,
+    "end_char": 1199
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:1443-1467",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:22:term-usage:1444-1468",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:22",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 1443,
-    "end_char": 1467
+    "start_char": 1444,
+    "end_char": 1468
   },
   {
     "schema_version": "0.1.0",
@@ -568,30 +568,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:35:term-usage:994-1001",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:35:term-usage:995-1002",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
     "span": "Víctima",
-    "start_char": 994,
-    "end_char": 1001
+    "start_char": 995,
+    "end_char": 1002
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:35:term-usage:1327-1335",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:35:term-usage:1328-1336",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
     "span": "Víctimas",
-    "start_char": 1327,
-    "end_char": 1335
+    "start_char": 1328,
+    "end_char": 1336
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:35:term-usage:1382-1389",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:35:term-usage:1383-1390",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:35",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
     "span": "Víctima",
-    "start_char": 1382,
-    "end_char": 1389
+    "start_char": 1383,
+    "end_char": 1390
   },
   {
     "schema_version": "0.1.0",
@@ -658,39 +658,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:39:term-usage:824-831",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:39:term-usage:825-832",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
     "span": "Víctima",
-    "start_char": 824,
-    "end_char": 831
+    "start_char": 825,
+    "end_char": 832
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:39:term-usage:1040-1047",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:39:term-usage:1041-1048",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
     "span": "Víctima",
-    "start_char": 1040,
-    "end_char": 1047
+    "start_char": 1041,
+    "end_char": 1048
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:39:term-usage:1503-1537",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:39:term-usage:1504-1538",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 1503,
-    "end_char": 1537
+    "start_char": 1504,
+    "end_char": 1538
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:39:term-usage:1540-1564",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:39:term-usage:1541-1565",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:39",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 1540,
-    "end_char": 1564
+    "start_char": 1541,
+    "end_char": 1565
   },
   {
     "schema_version": "0.1.0",
@@ -1027,75 +1027,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1061-1069",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1062-1070",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
     "span": "Víctimas",
-    "start_char": 1061,
-    "end_char": 1069
+    "start_char": 1062,
+    "end_char": 1070
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1212-1215",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1213-1216",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
-    "start_char": 1212,
-    "end_char": 1215
+    "start_char": 1213,
+    "end_char": 1216
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1600-1624",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1601-1625",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 1600,
-    "end_char": 1624
+    "start_char": 1601,
+    "end_char": 1625
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1721-1724",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1722-1725",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
-    "start_char": 1721,
-    "end_char": 1724
+    "start_char": 1722,
+    "end_char": 1725
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1751-1768",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1752-1769",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 1751,
-    "end_char": 1768
+    "start_char": 1752,
+    "end_char": 1769
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1922-1939",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:1923-1940",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 1922,
-    "end_char": 1939
+    "start_char": 1923,
+    "end_char": 1940
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:2174-2177",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:2175-2178",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
-    "start_char": 2174,
-    "end_char": 2177
+    "start_char": 2175,
+    "end_char": 2178
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:2217-2220",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:59:term-usage:2218-2221",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
-    "start_char": 2217,
-    "end_char": 2220
+    "start_char": 2218,
+    "end_char": 2221
   },
   {
     "schema_version": "0.1.0",
@@ -1189,48 +1189,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:1460-1494",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:1461-1495",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:60",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 1460,
-    "end_char": 1494
+    "start_char": 1461,
+    "end_char": 1495
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:1496-1520",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:1497-1521",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:60",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:instituciones-policiales",
     "span": "Instituciones Policiales",
-    "start_char": 1496,
-    "end_char": 1520
+    "start_char": 1497,
+    "end_char": 1521
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:1523-1563",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:1524-1564",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:60",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:instituciones-de-procuracion-de-justicia",
     "span": "Instituciones de Procuración de Justicia",
-    "start_char": 1523,
-    "end_char": 1563
+    "start_char": 1524,
+    "end_char": 1564
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:2201-2225",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:2202-2226",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:60",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 2201,
-    "end_char": 2225
+    "start_char": 2202,
+    "end_char": 2226
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:2464-2467",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:60:term-usage:2465-2468",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:60",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
-    "start_char": 2464,
-    "end_char": 2467
+    "start_char": 2465,
+    "end_char": 2468
   },
   {
     "schema_version": "0.1.0",
@@ -1387,30 +1387,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:69:term-usage:570-587",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:69:term-usage:571-588",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:69",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 570,
-    "end_char": 587
+    "start_char": 571,
+    "end_char": 588
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:69:term-usage:984-992",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:69:term-usage:985-993",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:69",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:victimas",
     "span": "Víctimas",
-    "start_char": 984,
-    "end_char": 992
+    "start_char": 985,
+    "end_char": 993
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:69:term-usage:1127-1130",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:69:term-usage:1128-1131",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:69",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
-    "start_char": 1127,
-    "end_char": 1130
+    "start_char": 1128,
+    "end_char": 1131
   },
   {
     "schema_version": "0.1.0",
@@ -1756,66 +1756,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:1856-1873",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:1857-1874",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 1856,
-    "end_char": 1873
+    "start_char": 1857,
+    "end_char": 1874
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:2107-2124",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:2108-2125",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 2107,
-    "end_char": 2124
+    "start_char": 2108,
+    "end_char": 2125
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:2200-2232",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:2201-2233",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:mecanismo-nacional-de-prevencion",
     "span": "Mecanismo Nacional de Prevención",
-    "start_char": 2200,
-    "end_char": 2232
+    "start_char": 2201,
+    "end_char": 2233
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:2513-2537",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:2514-2538",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 2513,
-    "end_char": 2537
+    "start_char": 2514,
+    "end_char": 2538
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:3203-3206",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:3204-3207",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:ley",
     "span": "Ley",
-    "start_char": 3203,
-    "end_char": 3206
+    "start_char": 3204,
+    "end_char": 3207
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:3279-3311",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:3280-3312",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:mecanismo-nacional-de-prevencion",
     "span": "Mecanismo Nacional de Prevención",
-    "start_char": 3279,
-    "end_char": 3311
+    "start_char": 3280,
+    "end_char": 3312
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:3891-3908",
+    "id": "urn:lex-mx:federal:statute:lgpist:article:78:term-usage:3893-3910",
     "provision_id": "urn:lex-mx:federal:statute:lgpist:article:78",
     "term_id": "urn:lex-mx:federal:statute:lgpist:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 3891,
-    "end_char": 3908
+    "start_char": 3893,
+    "end_char": 3910
   },
   {
     "schema_version": "0.1.0",

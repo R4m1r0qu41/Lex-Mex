@@ -17,6 +17,8 @@ source_sha256: 73855d6591afa63747195c80772404550f8fd6d9a1d9fa82ef7a14ec9583fe6e
 
 # Artículo 10
 
-A la Secretaría de Educación Pública compete: I. Intervenir en el ámbito de la radio y la televisión para proteger los derechos de autor y los derechos conexos respecto del uso exclusivo de sus emisiones, y
+A la Secretaría de Educación Pública compete:
+
+I. Intervenir en el ámbito de la radio y la televisión para proteger los derechos de autor y los derechos conexos respecto del uso exclusivo de sus emisiones, y
 
 II. Expedir los certificados de aptitud de locutores, cronistas o comentaristas que eventual o permanentemente participen en las transmisiones de las estaciones de radio y televisión.

@@ -43,7 +43,9 @@ d) Explotador de servicios aéreos.
 
 VII. Determinar la suspensión, cancelación, revalidación o revocación de los certificados referidos en la fracción anterior;
 
-VIII. Establecer y vigilar el sistema de aerovías dentro del espacio aéreo nacional; IX. Participar en los organismos internacionales y en las negociaciones de tratados, así como acuerdos interinstitucionales en los términos de la ley sobre la materia;
+VIII. Establecer y vigilar el sistema de aerovías dentro del espacio aéreo nacional;
+
+IX. Participar en los organismos internacionales y en las negociaciones de tratados, así como acuerdos interinstitucionales en los términos de la ley sobre la materia;
 
 X. Promover la formación, capacitación y adiestramiento del personal técnico aeronáutico;
 
@@ -67,7 +69,9 @@ XIX. Aplicar las normas oficiales mexicanas, así como expedir y aplicar las dis
 
 XX. Autorizar el establecimiento de oficinas de despacho de vuelos en la modalidad correspondiente, de acuerdo con la normativa aplicable;
 
-XXI. Efectuar la investigación administrativa y de seguridad aérea (regulatory investigation), que comprende otorgar la garantía de audiencia de los presuntos infractores y llevar a cabo el examen o indagación oficial de los hechos, en términos de la normativa aplicable, para determinar la responsabilidad administrativa en los accidentes o incidentes de que tenga conocimiento la Agencia Federal de Aviación Civil, con relación a los servicios de transporte aéreo, aeropuertos, aeródromos, servicios aeroportuarios y complementarios e instalaciones, así como de los servicios de apoyo a la navegación aérea, control del tránsito aéreo, las personas concesionarias, asignatarias, permisionarias y operadoras aéreas que cuenten con algún certificado o autorización otorgados por la Agencia Federal de Aviación Civil o [Autoridad de Aviación Civil Extranjera](articulo-2.md), lo anterior de manera enunciativa más no limitativa, a fin de determinar las medidas de seguridad y sanciones que procedan; XXII. Expedir una aprobación específica para el transporte de mercancías peligrosas;
+XXI. Efectuar la investigación administrativa y de seguridad aérea (regulatory investigation), que comprende otorgar la garantía de audiencia de los presuntos infractores y llevar a cabo el examen o indagación oficial de los hechos, en términos de la normativa aplicable, para determinar la responsabilidad administrativa en los accidentes o incidentes de que tenga conocimiento la Agencia Federal de Aviación Civil, con relación a los servicios de transporte aéreo, aeropuertos, aeródromos, servicios aeroportuarios y complementarios e instalaciones, así como de los servicios de apoyo a la navegación aérea, control del tránsito aéreo, las personas concesionarias, asignatarias, permisionarias y operadoras aéreas que cuenten con algún certificado o autorización otorgados por la Agencia Federal de Aviación Civil o [Autoridad de Aviación Civil Extranjera](articulo-2.md), lo anterior de manera enunciativa más no limitativa, a fin de determinar las medidas de seguridad y sanciones que procedan;
+
+XXII. Expedir una aprobación específica para el transporte de mercancías peligrosas;
 
 XXIII. Convalidar los certificados o documentos expedidos por Autoridades de Aviación Civil Extranjeras, organizaciones de instrucción reconocidas y talleres aeronáuticos en el extranjero, siempre y cuando el país de origen cumpla con los estándares y métodos recomendados por la Organización de Aviación Civil Internacional;
 
@@ -91,7 +95,9 @@ XXXII. Autorizar a personas físicas, morales o unidades administrativas para qu
 
 XXXIII. Vigilar que las personas físicas, morales o unidades administrativas autorizadas para evaluar o examinar a las personas que integran al personal técnico-aeronáutico y aspirantes a obtener un permiso para iniciar su formación como personal técnico- aeronáutico cumplan con sus responsabilidades y obligaciones;
 
-XXXIV. Llevar a cabo la vigilancia, constatación e inspección del cumplimiento de los requisitos médicos para la emisión de los certificados de aptitud psicofísica respecto del personal técnico-aeronáutico y, en su caso, la suspensión o revocación de estos; XXXV. Emitir el certificado de aptitud psicofísica conforme al tipo de evaluación médica, para las personas integrantes del personal técnico-aeronáutico y de los aspirantes a obtener un permiso para iniciar su formación como personal técnico-aeronáutico;
+XXXIV. Llevar a cabo la vigilancia, constatación e inspección del cumplimiento de los requisitos médicos para la emisión de los certificados de aptitud psicofísica respecto del personal técnico-aeronáutico y, en su caso, la suspensión o revocación de estos;
+
+XXXV. Emitir el certificado de aptitud psicofísica conforme al tipo de evaluación médica, para las personas integrantes del personal técnico-aeronáutico y de los aspirantes a obtener un permiso para iniciar su formación como personal técnico-aeronáutico;
 
 XXXVI. Realizar el análisis de las causas de incapacitación del personal técnico-aeronáutico durante el vuelo, a través de los reportes obligatorios acerca de estas, realizados por las concesionarias, asignatarias y permisionarias;
 
@@ -119,7 +125,9 @@ XLVI. Fijar las medidas necesarias para prevenir los actos de interferencia ilí
 
 XLVII. Vigilar permanentemente que las personas concesionarias, asignatarias, permisionarias, operadoras aéreas y prestadoras de servicios a la navegación aérea cumplan con esta Ley, sus reglamentos, normas oficiales mexicanas y demás disposiciones aplicables;
 
-XLVIII. Analizar y determinar la acreditación de las capacidades técnicas, administrativas, jurídicas y financieras para el otorgamiento de concesiones y asignaciones; XLIX. Revisar y aprobar previamente el contenido de la Publicación de Información Aeronáutica de México;
+XLVIII. Analizar y determinar la acreditación de las capacidades técnicas, administrativas, jurídicas y financieras para el otorgamiento de concesiones y asignaciones;
+
+XLIX. Revisar y aprobar previamente el contenido de la Publicación de Información Aeronáutica de México;
 
 XLIX Bis. Colaborar con la Secretaría en el proceso de planeación, formulación y revisión de la política aeronáutica;
 

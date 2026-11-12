@@ -17,4 +17,4 @@ source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 
 # Artículo 30
 
-El ingreso a las Instituciones de Educación Militar será mediante concurso de selección, cuyos procedimientos de planeación y ejecución estarán a cargo de la Dirección y Rectoría.
+El ingreso a las Instituciones de Educación Militar será mediante concurso de selección, cuyos procedimientos de planeación y ejecución estarán a cargo de la [Dirección y Rectoría](articulo-2.md).

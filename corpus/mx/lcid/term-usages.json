@@ -19,48 +19,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:128-136",
+    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:129-137",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:programa",
     "span": "Programa",
-    "start_char": 128,
-    "end_char": 136
+    "start_char": 129,
+    "end_char": 137
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:140-165",
+    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:141-166",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
     "span": "Cooperación Internacional",
-    "start_char": 140,
-    "end_char": 165
+    "start_char": 141,
+    "end_char": 166
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:435-445",
+    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:436-446",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 435,
-    "end_char": 445
+    "start_char": 436,
+    "end_char": 446
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:562-570",
+    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:563-571",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:programa",
     "span": "Programa",
-    "start_char": 562,
-    "end_char": 570
+    "start_char": 563,
+    "end_char": 571
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:574-599",
+    "id": "urn:lex-mx:federal:statute:lcid:article:2:term-usage:575-600",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
     "span": "Cooperación Internacional",
-    "start_char": 574,
-    "end_char": 599
+    "start_char": 575,
+    "end_char": 600
   },
   {
     "schema_version": "0.1.0",
@@ -91,12 +91,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:4:term-usage:1813-1838",
+    "id": "urn:lex-mx:federal:statute:lcid:article:4:term-usage:1814-1839",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
     "span": "Cooperación Internacional",
-    "start_char": 1813,
-    "end_char": 1838
+    "start_char": 1814,
+    "end_char": 1839
   },
   {
     "schema_version": "0.1.0",
@@ -199,102 +199,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:218-228",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:219-229",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 218,
-    "end_char": 228
+    "start_char": 219,
+    "end_char": 229
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:251-259",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:252-260",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:programa",
     "span": "Programa",
-    "start_char": 251,
-    "end_char": 259
+    "start_char": 252,
+    "end_char": 260
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:263-288",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:264-289",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
     "span": "Cooperación Internacional",
-    "start_char": 263,
-    "end_char": 288
+    "start_char": 264,
+    "end_char": 289
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:391-409",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:392-410",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:consejo-consultivo",
     "span": "Consejo Consultivo",
-    "start_char": 391,
-    "end_char": 409
+    "start_char": 392,
+    "end_char": 410
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:472-482",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:473-483",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 472,
-    "end_char": 482
+    "start_char": 473,
+    "end_char": 483
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:903-911",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:904-912",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:programa",
     "span": "Programa",
-    "start_char": 903,
-    "end_char": 911
+    "start_char": 904,
+    "end_char": 912
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:1395-1405",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:1396-1406",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1395,
-    "end_char": 1405
+    "start_char": 1396,
+    "end_char": 1406
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:1718-1728",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:1719-1729",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1718,
-    "end_char": 1728
+    "start_char": 1719,
+    "end_char": 1729
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:1988-2005",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:1989-2006",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 1988,
-    "end_char": 2005
+    "start_char": 1989,
+    "end_char": 2006
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:2049-2074",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:2050-2075",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:cooperacion-internacional",
     "span": "Cooperación Internacional",
-    "start_char": 2049,
-    "end_char": 2074
+    "start_char": 2050,
+    "end_char": 2075
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:2222-2232",
+    "id": "urn:lex-mx:federal:statute:lcid:article:10:term-usage:2223-2233",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:10",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2222,
-    "end_char": 2232
+    "start_char": 2223,
+    "end_char": 2233
   },
   {
     "schema_version": "0.1.0",
@@ -604,219 +604,219 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:310-317",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:311-318",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:amexcid",
     "span": "AMEXCID",
-    "start_char": 310,
-    "end_char": 317
+    "start_char": 311,
+    "end_char": 318
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:426-436",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:427-437",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 426,
-    "end_char": 436
+    "start_char": 427,
+    "end_char": 437
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:539-546",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:540-547",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:amexcid",
     "span": "AMEXCID",
-    "start_char": 539,
-    "end_char": 546
+    "start_char": 540,
+    "end_char": 547
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:694-702",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:695-703",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:programa",
     "span": "Programa",
-    "start_char": 694,
-    "end_char": 702
+    "start_char": 695,
+    "end_char": 703
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:731-749",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:732-750",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:consejo-consultivo",
     "span": "Consejo Consultivo",
-    "start_char": 731,
-    "end_char": 749
+    "start_char": 732,
+    "end_char": 750
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:870-878",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:871-879",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:programa",
     "span": "Programa",
-    "start_char": 870,
-    "end_char": 878
+    "start_char": 871,
+    "end_char": 879
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:985-995",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:986-996",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 985,
-    "end_char": 995
+    "start_char": 986,
+    "end_char": 996
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1039-1057",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1040-1058",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:consejo-consultivo",
     "span": "Consejo Consultivo",
-    "start_char": 1039,
-    "end_char": 1057
+    "start_char": 1040,
+    "end_char": 1058
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1076-1094",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1077-1095",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:consejo-consultivo",
     "span": "Consejo Consultivo",
-    "start_char": 1076,
-    "end_char": 1094
+    "start_char": 1077,
+    "end_char": 1095
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1114-1131",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1115-1132",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:consejos-tecnicos",
     "span": "Consejos Técnicos",
-    "start_char": 1114,
-    "end_char": 1131
+    "start_char": 1115,
+    "end_char": 1132
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1342-1350",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1343-1351",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:programa",
     "span": "Programa",
-    "start_char": 1342,
-    "end_char": 1350
+    "start_char": 1343,
+    "end_char": 1351
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1378-1385",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1379-1386",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:amexcid",
     "span": "AMEXCID",
-    "start_char": 1378,
-    "end_char": 1385
+    "start_char": 1379,
+    "end_char": 1386
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1425-1435",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1426-1436",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1425,
-    "end_char": 1435
+    "start_char": 1426,
+    "end_char": 1436
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1613-1620",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1614-1621",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:amexcid",
     "span": "AMEXCID",
-    "start_char": 1613,
-    "end_char": 1620
+    "start_char": 1614,
+    "end_char": 1621
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1666-1676",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1667-1677",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1666,
-    "end_char": 1676
+    "start_char": 1667,
+    "end_char": 1677
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1732-1742",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1733-1743",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1732,
-    "end_char": 1742
+    "start_char": 1733,
+    "end_char": 1743
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1775-1785",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:1776-1786",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1775,
-    "end_char": 1785
+    "start_char": 1776,
+    "end_char": 1786
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:2128-2138",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:2129-2139",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2128,
-    "end_char": 2138
+    "start_char": 2129,
+    "end_char": 2139
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:2753-2771",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:2754-2772",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:consejo-consultivo",
     "span": "Consejo Consultivo",
-    "start_char": 2753,
-    "end_char": 2771
+    "start_char": 2754,
+    "end_char": 2772
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:2832-2839",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:2833-2840",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:amexcid",
     "span": "AMEXCID",
-    "start_char": 2832,
-    "end_char": 2839
+    "start_char": 2833,
+    "end_char": 2840
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:3012-3022",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:3013-3023",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3012,
-    "end_char": 3022
+    "start_char": 3013,
+    "end_char": 3023
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:3057-3075",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:3058-3076",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:consejo-consultivo",
     "span": "Consejo Consultivo",
-    "start_char": 3057,
-    "end_char": 3075
+    "start_char": 3058,
+    "end_char": 3076
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:3164-3182",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:3166-3184",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:consejo-consultivo",
     "span": "Consejo Consultivo",
-    "start_char": 3164,
-    "end_char": 3182
+    "start_char": 3166,
+    "end_char": 3184
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:3267-3277",
+    "id": "urn:lex-mx:federal:statute:lcid:article:19:term-usage:3269-3279",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:19",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3267,
-    "end_char": 3277
+    "start_char": 3269,
+    "end_char": 3279
   },
   {
     "schema_version": "0.1.0",
@@ -901,12 +901,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcid:article:24:term-usage:1196-1204",
+    "id": "urn:lex-mx:federal:statute:lcid:article:24:term-usage:1197-1205",
     "provision_id": "urn:lex-mx:federal:statute:lcid:article:24",
     "term_id": "urn:lex-mx:federal:statute:lcid:term:programa",
     "span": "Programa",
-    "start_char": 1196,
-    "end_char": 1204
+    "start_char": 1197,
+    "end_char": 1205
   },
   {
     "schema_version": "0.1.0",

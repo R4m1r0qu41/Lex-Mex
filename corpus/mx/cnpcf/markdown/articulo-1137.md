@@ -21,7 +21,9 @@ Las autoridades jurisdiccionales nacionales podrán ejecutar las medidas cautela
 
 En su ejecución se observarán las siguientes disposiciones:
 
-I. El cumplimiento de medidas cautelares por una autoridad jurisdiccional nacional no implicará el compromiso de reconocer y ejecutar la sentencia extranjera que se pudiere dictar. II. La modificación de una medida cautelar, así como las sanciones por peticiones maliciosas o desproporcionadas, se regirán por este [Código Nacional](articulo-2.md) y demás leyes nacionales aplicables.
+I. El cumplimiento de medidas cautelares por una autoridad jurisdiccional nacional no implicará el compromiso de reconocer y ejecutar la sentencia extranjera que se pudiere dictar.
+
+II. La modificación de una medida cautelar, así como las sanciones por peticiones maliciosas o desproporcionadas, se regirán por este [Código Nacional](articulo-2.md) y demás leyes nacionales aplicables.
 
 III. En caso de que el afectado justifique la improcedencia de la medida, la autoridad jurisdiccional nacional podrá levantar o disminuir dicha medida de acuerdo con el derecho mexicano.
 

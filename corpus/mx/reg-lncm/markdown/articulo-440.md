@@ -39,7 +39,9 @@ IV. Manual de acceso a la estructura del buque, elaborado de conformidad con lo 
 
 V. Manual de instrucciones de Unidades Móviles de Perforación Mar Adentro, elaborado de conformidad con lo señalado con los puntos 14.1.2 al 14.1.5 del [Código MODU](articulo-10.md);
 
-VI. Manual de operación de vigilancia y control de descargas de [Hidrocarburos](articulo-10.md), elaborado de conformidad con lo señalado en el Anexo I, Regla 31, párrafo 4 del [MARPOL](articulo-10.md); VII. Manual de operaciones de dique flotante, el documento que indique los procedimientos de operación;
+VI. Manual de operación de vigilancia y control de descargas de [Hidrocarburos](articulo-10.md), elaborado de conformidad con lo señalado en el Anexo I, Regla 31, párrafo 4 del [MARPOL](articulo-10.md);
+
+VII. Manual de operaciones de dique flotante, el documento que indique los procedimientos de operación;
 
 VIII. Manual de procedimientos y medios, elaborado de conformidad al formato normalizado Apéndice 4 del MARPOL;
 
@@ -63,7 +65,9 @@ XVII. Plan de gestión de basuras, además de lo indicado en la fracción I de e
 
 XVIII. Libro de registro de aguas de lastre, además de lo indicado en la fracción I de este artículo, el libro foliado elaborado de conformidad al modelo del Apéndice II del Convenio Internacional para el Control y la Gestión del Agua de Lastre y los Sedimentos de los Buques;
 
-XIX. Libro de registro de carga, además de lo indicado en la fracción I de este artículo, el libro foliado elaborado de conformidad al modelo del Apéndice 2 del Anexo II del MARPOL; XX. Libro de registro de basuras, además de lo indicado en la fracción I de este artículo, el libro foliado elaborado de conformidad al modelo del Apéndice del Anexo V del MARPOL;
+XIX. Libro de registro de carga, además de lo indicado en la fracción I de este artículo, el libro foliado elaborado de conformidad al modelo del Apéndice 2 del Anexo II del MARPOL;
+
+XX. Libro de registro de basuras, además de lo indicado en la fracción I de este artículo, el libro foliado elaborado de conformidad al modelo del Apéndice del Anexo V del MARPOL;
 
 XXI. Libro de registro de Hidrocarburos Parte 1 y Parte 2, además de lo indicado en la fracción I de este artículo, el libro foliado elaborado de conformidad al modelo del Apéndice 3 del Anexo I del MARPOL;
 

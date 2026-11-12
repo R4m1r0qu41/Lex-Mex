@@ -37,7 +37,9 @@ VIII. Omitir realizar el manejo de combustibles en los terrenos forestales, de a
 
 IX. Realizar las quemas en terrenos agropecuarios en forma negligente que propicie la propagación del fuego a terrenos forestales vecinos y en terrenos temporalmente forestales;
 
-X. Carecer de autorización de funcionamiento de los centros de almacenamiento y/o transformación de materias primas forestales, así como de establecimientos no integrados, conforme a lo establecido en esta Ley y su Reglamento; XI. Hacer uso inadecuado de la documentación proporcionada por la [Comisión](articulo-7.md) y/o de la [Secretaría](articulo-7.md) para acreditar la legal procedencia de materias primas forestales y sus productos;
+X. Carecer de autorización de funcionamiento de los centros de almacenamiento y/o transformación de materias primas forestales, así como de establecimientos no integrados, conforme a lo establecido en esta Ley y su Reglamento;
+
+XI. Hacer uso inadecuado de la documentación proporcionada por la [Comisión](articulo-7.md) y/o de la [Secretaría](articulo-7.md) para acreditar la legal procedencia de materias primas forestales y sus productos;
 
 XII. Causar daño o deterioro grave a los ecosistemas forestales;
 
@@ -69,7 +71,9 @@ XXV. Realizar en terrenos incendiados, cualquier actividad o uso distintos a la 
 
 XXVI. Utilizar más de una vez, alterar o requisitar inadecuadamente, la documentación o los sistemas de control establecidos para acreditar la legal procedencia de materias primas forestales y sus productos;
 
-XXVII. Depositar residuos peligrosos en terrenos forestales o preferentemente forestales, sin contar con la autorización debidamente expedida para ello; XXVIII. Carecer de la documentación o los sistemas de control establecidos para acreditar la legal procedencia de materias primas forestales, obtenidas en el aprovechamiento, y
+XXVII. Depositar residuos peligrosos en terrenos forestales o preferentemente forestales, sin contar con la autorización debidamente expedida para ello;
+
+XXVIII. Carecer de la documentación o los sistemas de control establecidos para acreditar la legal procedencia de materias primas forestales, obtenidas en el aprovechamiento, y
 
 XXIX. Proporcionar información falsa a la Secretaría y a la Comisión, y Fracción adicionada DOF 11-04-2022
 

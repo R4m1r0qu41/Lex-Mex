@@ -23,6 +23,8 @@ I. Promover en coordinación con las autoridades sanitarias de los diferentes ni
 
 II. Establecer requisitos sanitarios para la internación de personas al territorio nacional, conforme a las disposiciones jurídicas aplicables;
 
-III. Ejercer la vigilancia de los servicios de sanidad en los lugares destinados al tránsito internacional de personas, en transportes nacionales o extranjeros, marítimos, aéreos y terrestres, mediante visitas de inspección conforme a las disposiciones jurídicas aplicables; IV. Diseñar y difundir campañas en los lugares destinados al tránsito internacional de personas, para la prevención y control de enfermedades, conforme a las disposiciones jurídicas aplicables, y
+III. Ejercer la vigilancia de los servicios de sanidad en los lugares destinados al tránsito internacional de personas, en transportes nacionales o extranjeros, marítimos, aéreos y terrestres, mediante visitas de inspección conforme a las disposiciones jurídicas aplicables;
+
+IV. Diseñar y difundir campañas en los lugares destinados al tránsito internacional de personas, para la prevención y control de enfermedades, conforme a las disposiciones jurídicas aplicables, y
 
 V. Las demás que señale esta [Ley](articulo-3.md), su [Reglamento](articulo-3.md) y demás disposiciones jurídicas aplicables.

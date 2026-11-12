@@ -21,7 +21,9 @@ El cheque debe contener:
 
 I.- La mención de ser cheque, inserta en el texto del documento;
 
-II.- El lugar y la fecha en que se expide; III.- La orden incondicional de pagar una suma determinada de dinero;
+II.- El lugar y la fecha en que se expide;
+
+III.- La orden incondicional de pagar una suma determinada de dinero;
 
 IV.- El nombre del librado;
 

@@ -29,7 +29,9 @@ IV. Dar seguimiento y evaluar la aplicación del [Protocolo Homologado de Búsqu
 
 V. Evaluar permanentemente las políticas públicas que se implementen para la búsqueda y localización de Personas Desaparecidas y No Localizadas;
 
-VI. Generar mecanismos para favorecer que las capacidades presupuestarias, materiales, tecnológicas y humanas permitan la búsqueda eficiente y localización de Personas Desaparecidas y No Localizadas; VII. Generar los mecanismos y acuerdos necesarios para dar cumplimiento a las recomendaciones y requerimientos que hagan los integrantes del Sistema Nacional para el mejoramiento de políticas públicas que se implementen para la búsqueda y localización de Personas Desaparecidas y No Localizadas;
+VI. Generar mecanismos para favorecer que las capacidades presupuestarias, materiales, tecnológicas y humanas permitan la búsqueda eficiente y localización de Personas Desaparecidas y No Localizadas;
+
+VII. Generar los mecanismos y acuerdos necesarios para dar cumplimiento a las recomendaciones y requerimientos que hagan los integrantes del Sistema Nacional para el mejoramiento de políticas públicas que se implementen para la búsqueda y localización de Personas Desaparecidas y No Localizadas;
 
 VIII. Emitir los modelos de instrumentos rectores para el funcionamiento y la coordinación con las [Fiscalías Especializadas](articulo-4.md) de las Entidades Federativas;
 

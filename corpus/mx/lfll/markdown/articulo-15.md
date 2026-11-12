@@ -43,6 +43,8 @@ XI. Impulsar la participación ciudadana en todos los programas relacionados con
 
 XII. Fomentar la cultura de respeto a los derechos de autor;
 
-XIII. Proponer la realización de estudios e investigaciones que permitan apoyar el desarrollo de sus actividades; XIV. Proponer incentivos para la creación, edición, producción, difusión, venta y exportación de libros en las diferentes lenguas del país, y apoyar la traducción a ellas de textos de literatura nacional y universal a las diferentes lenguas del país, y
+XIII. Proponer la realización de estudios e investigaciones que permitan apoyar el desarrollo de sus actividades;
+
+XIV. Proponer incentivos para la creación, edición, producción, difusión, venta y exportación de libros en las diferentes lenguas del país, y apoyar la traducción a ellas de textos de literatura nacional y universal a las diferentes lenguas del país, y
 
 XV. Expedir su manual de operación conforme al cual regulará su organización, funcionamiento y trabajo.

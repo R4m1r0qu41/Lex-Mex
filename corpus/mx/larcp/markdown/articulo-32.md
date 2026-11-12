@@ -17,7 +17,9 @@ source_sha256: 1f54ff4c063ca2552ee40ff0a9b1ce38b91c4074939c2c97ffda484da8d62290
 
 # Artículo 32
 
-A los infractores de la presente ley se les podrá imponer una o varias de las siguientes sanciones, dependiendo de la valoración que realice la autoridad de los aspectos contenidos en el artículo precedente: I. Apercibimiento;
+A los infractores de la presente ley se les podrá imponer una o varias de las siguientes sanciones, dependiendo de la valoración que realice la autoridad de los aspectos contenidos en el artículo precedente:
+
+I. Apercibimiento;
 
 II. Multa de hasta veinte mil días de salario mínimo general vigente en el Distrito Federal;
 

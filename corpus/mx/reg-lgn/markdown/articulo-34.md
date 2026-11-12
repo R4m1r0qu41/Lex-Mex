@@ -39,7 +39,9 @@ IX. Coordinar y realizar acciones policiales específicas que aseguren la obtenc
 
 X. Participar en la detención de personas y en el aseguramiento de bienes que las autoridades competentes consideren se encuentren relacionados con hechos delictivos, observando las disposiciones jurídicas aplicables;
 
-XI. Reunir la información que pueda ser útil al [Ministerio Público](articulo-2.md), conforme a sus instrucciones, para acreditar que se ha cometido un hecho calificado por la ley como delito y que el probable responsable lo cometió o participó en su comisión; XII. Establecer líneas de investigación policial a partir del análisis a que se refiere la fracción VII de este artículo, en cumplimiento de los mandamientos ministeriales o judiciales;
+XI. Reunir la información que pueda ser útil al [Ministerio Público](articulo-2.md), conforme a sus instrucciones, para acreditar que se ha cometido un hecho calificado por la ley como delito y que el probable responsable lo cometió o participó en su comisión;
+
+XII. Establecer líneas de investigación policial a partir del análisis a que se refiere la fracción VII de este artículo, en cumplimiento de los mandamientos ministeriales o judiciales;
 
 XIII. Aplicar, en el ámbito de su competencia, los procedimientos de intercambio de información policial, en términos de las disposiciones jurídicas aplicables;
 

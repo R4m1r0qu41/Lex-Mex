@@ -21,6 +21,8 @@ La competencia territorial es prorrogable por mutuo consentimiento de las partes
 
 Hay prórroga tácita:
 
-I.- De parte del actor, por el hecho de ocurrir al tribunal, entablando su demanda; II.- De parte del demandado, por contestar la demanda y por reconvenir al actor, y Fe de erratas a la fracción DOF 13-03-1943
+I.- De parte del actor, por el hecho de ocurrir al tribunal, entablando su demanda;
+
+II.- De parte del demandado, por contestar la demanda y por reconvenir al actor, y Fe de erratas a la fracción DOF 13-03-1943
 
 III.- De parte de cualquiera de los interesados, cuando desista de una competencia.

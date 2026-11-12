@@ -19,7 +19,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Corresponde a la Coordinación para la Prevención de Delitos Electrónicos:
 
-I. Seleccionar y actualizar permanentemente los conocimientos y herramientas electrónicas para apoyar a la investigación para la prevención de delitos; II. Supervisar el funcionamiento de los mecanismos que, conforme a las disposiciones aplicables, se establezcan para prevenir los delitos en los que se utilicen medios electrónicos, cibernéticos y tecnológicos para su comisión;
+I. Seleccionar y actualizar permanentemente los conocimientos y herramientas electrónicas para apoyar a la investigación para la prevención de delitos;
+
+II. Supervisar el funcionamiento de los mecanismos que, conforme a las disposiciones aplicables, se establezcan para prevenir los delitos en los que se utilicen medios electrónicos, cibernéticos y tecnológicos para su comisión;
 
 III. Establecer y supervisar medidas de protección de la información derivada de investigaciones, así como de la información operativa interna de la [Institución](articulo-2.md);
 
@@ -47,7 +49,9 @@ XIV. Facilitar las innovaciones tecnológicas que requieran las áreas operativa
 
 XV. Gestionar, conforme a las disposiciones aplicables, la cooperación con empresas proveedoras del servicio de Internet para neutralizar sitios y páginas electrónicas que atenten contra la seguridad pública, así como para prevenir y combatir los delitos en los que se utilizan medios electrónicos para su comisión;
 
-XVI. Promover la cultura de la prevención de los delitos en los que se utilizan medios electrónicos para su comisión, así como la difusión del marco legal que sanciona los mismos; XVII. Proponer la realización de operaciones encubiertas e intervenciones de comunicaciones privadas para prevenir la comisión de los delitos en los que se utilizan medios electrónicos para su comisión;
+XVI. Promover la cultura de la prevención de los delitos en los que se utilizan medios electrónicos para su comisión, así como la difusión del marco legal que sanciona los mismos;
+
+XVII. Proponer la realización de operaciones encubiertas e intervenciones de comunicaciones privadas para prevenir la comisión de los delitos en los que se utilizan medios electrónicos para su comisión;
 
 XVIII. Generar estadísticas de los delitos a que se refiere la fracción II de este artículo y sistemas de medición para considerar el desempeño y eficiencia de la Coordinación;
 

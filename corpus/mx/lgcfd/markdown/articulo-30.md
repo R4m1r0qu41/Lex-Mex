@@ -31,7 +31,9 @@ IV. Integrar en coordinación con la SEP el Programa Nacional de Cultura Física
 
 V. Convocar al [SINADE](articulo-4.md), con la participación que corresponda al sector público y a los sectores social y privado;
 
-VI. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del SINADE; VII. Celebrar, con la participación que le corresponda a la SEP y a la Secretaría de Relaciones Exteriores, acuerdos de cooperación en materia de cultura física y deporte, con órganos gubernamentales y organizaciones internacionales como mecanismo eficaz para fortalecer las acciones que en materia de cultura física y deporte se concierten;
+VI. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte en el marco del SINADE;
+
+VII. Celebrar, con la participación que le corresponda a la SEP y a la Secretaría de Relaciones Exteriores, acuerdos de cooperación en materia de cultura física y deporte, con órganos gubernamentales y organizaciones internacionales como mecanismo eficaz para fortalecer las acciones que en materia de cultura física y deporte se concierten;
 
 VIII. Coordinar acciones con las Dependencias y Entidades de la Administración Pública Federal, las entidades federativas, los Municipios las demarcaciones territoriales de la Ciudad de México y el sector social y privado en lo relativo a investigación en ciencias y técnicas en materia de cultura física y deporte; Fracción reformada DOF 19-01-2018
 
@@ -53,7 +55,9 @@ XVI. Vigilar y asegurar a través del [COVED](articulo-4.md) que los procesos el
 
 XVII. Supervisar que las Asociaciones Deportivas Nacionales y Organismos Afines realicen sus actividades conforme a sus respectivos estatutos, reglamentos y demás ordenamientos aplicables;
 
-XVIII. Verificar y asegurar que los estatutos, reglamentos y demás reglamentos deportivos que expidan las Asociaciones Deportivas Nacionales y, en su caso, los Organismos Afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus miembros asociados, deportistas y órganos de gobierno y representación así como los procedimientos disciplinarios y sanciones aplicables; XIX. Emitir opinión en la formulación de los programas deportivos de las Asociaciones Deportivas Nacionales;
+XVIII. Verificar y asegurar que los estatutos, reglamentos y demás reglamentos deportivos que expidan las Asociaciones Deportivas Nacionales y, en su caso, los Organismos Afines, contengan con toda claridad, entre otros aspectos, los derechos y obligaciones de sus miembros asociados, deportistas y órganos de gobierno y representación así como los procedimientos disciplinarios y sanciones aplicables;
+
+XIX. Emitir opinión en la formulación de los programas deportivos de las Asociaciones Deportivas Nacionales;
 
 XX. Fijar criterios para que dentro de los programas en los que se establezca la práctica de actividades de cultura física, recreación, rehabilitación o deporte dentro del territorio nacional, se ofrezcan las medidas de seguridad necesarias, de acuerdo con las Normas Oficiales Mexicanas y demás disposiciones que para tal efecto expida la Dependencia con competencia en la materia;
 

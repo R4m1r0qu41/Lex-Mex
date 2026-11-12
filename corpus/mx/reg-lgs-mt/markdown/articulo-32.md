@@ -29,7 +29,9 @@ IV. Un representante de cada [Programa de Trasplante](articulo-2.md) de los serv
 
 V. Un representante del Comité Hospitalario de Bioética del Establecimiento de Salud;
 
-VI. Un representante del Comité de Ética en Investigación; VII. El responsable sanitario del Establecimiento de Salud, en los casos en los que esta función no sea realizada por alguna de las personas señaladas en las fracciones que anteceden, y
+VI. Un representante del Comité de Ética en Investigación;
+
+VII. El responsable sanitario del Establecimiento de Salud, en los casos en los que esta función no sea realizada por alguna de las personas señaladas en las fracciones que anteceden, y
 
 VIII. Los demás integrantes que para su correcto funcionamiento determine el Establecimiento de Salud, los cuales contarán con capacitación y conocimientos en la materia de Disposición de Órganos, Tejidos y células.
 

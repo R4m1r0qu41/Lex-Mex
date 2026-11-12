@@ -25,7 +25,9 @@ II. Organizar y participar, en coordinación con las unidades administrativas y 
 
 III. Proponer, previa consulta con las unidades administrativas y órganos desconcentrados de la Institución, la posición que deba asumir la Procuraduría en foros y reuniones internacionales;
 
-IV. Identificar, en coordinación con las unidades administrativas y órganos desconcentrados de la Procuraduría, las necesidades institucionales de asistencia técnica internacional; V. Formular y difundir los mecanismos necesarios para asegurar que las unidades administrativas y órganos desconcentrados de la Procuraduría se sujeten a los lineamientos que defina el [Procurador](articulo-2.md) en materia internacional;
+IV. Identificar, en coordinación con las unidades administrativas y órganos desconcentrados de la Procuraduría, las necesidades institucionales de asistencia técnica internacional;
+
+V. Formular y difundir los mecanismos necesarios para asegurar que las unidades administrativas y órganos desconcentrados de la Procuraduría se sujeten a los lineamientos que defina el [Procurador](articulo-2.md) en materia internacional;
 
 VI. Establecer, en coordinación con las autoridades competentes, canales de comunicación con autoridades extranjeras y organismos internacionales, así como proponer el establecimiento de mecanismos de concertación, asistencia técnica y capacitación;
 

@@ -14,10 +14,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -35,10 +35,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -56,10 +56,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -77,10 +77,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -98,10 +98,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -119,10 +119,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -138,12 +138,12 @@
     },
     "text": "Para los efectos del artículo anterior, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos que sean afectados por conductas discriminatorias.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -161,10 +161,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -178,14 +178,14 @@
       "title": null,
       "chapter": "Capítulo II"
     },
-    "text": "Con base en lo establecido en el artículo primero constitucional y el artículo 1, párrafo segundo, fracción III de esta Ley se consideran como discriminación, entre otras: Párrafo reformado y recorrido DOF 20-03-2014\n\nI. Impedir el acceso o la permanencia a la educación pública o privada, así como a becas e incentivos en los centros educativos; Fracción reformada DOF 20-03-2014\n\nII. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que difundan una condición de subordinación;\n\nIII. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo;\n\nIV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;\n\nV. Limitar el acceso y permanencia a los programas de capacitación y de formación profesional; Fracción reformada DOF 20-03-2014\n\nVI. Negar o limitar información sobre derechos sexuales y reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas; Fracción reformada DOF 20-03-2014\n\nVII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;\n\nVIII. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;\n\nIX. Negar o condicionar el derecho de participación política y, específicamente, el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;\n\nX. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo;\n\nXI. Impedir o limitar el acceso a la procuración e impartición de justicia; Fracción reformada DOF 07-06-2013\n\nXII. Impedir, negar o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia; y a la asistencia de personas intérpretes o traductoras en los procedimientos administrativos o judiciales, de conformidad con las normas aplicables; así como el derecho de las niñas y niños a ser escuchados; Fracción reformada DOF 20-03-2014\n\nXIII. Aplicar cualquier tipo de uso o costumbre que atente contra la igualdad, dignidad e integridad humana; Fracción reformada DOF 20-03-2014\n\nXIV. Impedir la libre elección de cónyuge o pareja;\n\nXV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación; Fracción reformada DOF 20-03-2014\n\nXVI. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, conciencia o religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;\n\nXVII. Negar asistencia religiosa a personas privadas de la libertad, que presten servicio en las fuerzas armadas o que estén internadas en instituciones de salud o asistencia;\n\nXVIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes nacionales e instrumentos jurídicos internacionales aplicables;\n\nXIX. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo integral, especialmente de las niñas y los niños, con base al interés superior de la niñez; Fracción reformada DOF 20-03-2014\n\nXX. Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;\n\nXXI. Limitar el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la ley así lo prevea;\n\nXXII. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;\n\nXXII. Bis. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público; Fracción adicionada DOF 20-03-2014\n\nXXII. Ter. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad; Fracción adicionada DOF 20-03-2014\n\nXXII Quáter. Impedir, negar, restringir o condicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia, de conformidad con lo establecido en la Ley General para la Inclusión de las Personas con Discapacidad; Fracción adicionada DOF 04-12-2023\n\nXXII Quintus. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad; Fracción adicionada DOF 04-12-2023\n\nXXIII. Explotar o dar un trato abusivo o degradante;\n\nXXIV. Restringir la participación en actividades deportivas, recreativas o culturales;\n\nXXV. Restringir o limitar el uso de su lengua, usos, costumbres y cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;\n\nXXVI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable; XXVII. Incitar al odio, violencia, rechazo, burla, injuria, persecución o la exclusión; Fracción reformada DOF 20-03-2014\n\nXXVIII. Realizar o promover violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual, o por cualquier otro motivo de discriminación; Fracción reformada DOF 20-03-2014\n\nXXIX. Estigmatizar o negar derechos a personas con adicciones; que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial; Fracción adicionada DOF 20-03-2014\n\nXXX. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores o por motivo de la condición de salud física o mental; Fracción adicionada DOF 20-03-2014. Reformada DOF 17-05-2022\n\nXXXI. Difundir sin consentimiento de la persona agraviada información sobre su condición y antecedentes de salud física o mental, o sobre cualquier otro dato personal sensible; Fracción adicionada DOF 20-03-2014. Reformada DOF 17-05-2022\n\nXXXII. Estigmatizar y negar derechos a personas con VIH/SIDA, o cualquier condición o antecedentes de salud física o mental; Fracción adicionada DOF 20-03-2014. Reformada DOF 17-05-2022\n\nXXXIII. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas; Fracción adicionada DOF 20-03-2014. Reformada DOF 22-11-2021\n\nXXXIV. Prohibir, limitar o restringir el acto de amamantar en espacios públicos, y Fracción adicionada DOF 22-11-2021\n\nXXXV. En general cualquier otro acto u omisión discriminatorio en términos del artículo 1, párrafo segundo, fracción III de esta Ley. Fracción reformada y recorrida DOF 20-03-2014. Recorrida DOF 22-11-2021 Reforma DOF 20-03-2014: Derogó del artículo el entonces párrafo primero",
+    "text": "Con base en lo establecido en el artículo primero constitucional y el artículo 1, párrafo segundo, fracción III de esta Ley se consideran como discriminación, entre otras: Párrafo reformado y recorrido DOF 20-03-2014\n\nI. Impedir el acceso o la permanencia a la educación pública o privada, así como a becas e incentivos en los centros educativos; Fracción reformada DOF 20-03-2014\n\nII. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que difundan una condición de subordinación;\n\nIII. Prohibir la libre elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo;\n\nIV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;\n\nV. Limitar el acceso y permanencia a los programas de capacitación y de formación profesional; Fracción reformada DOF 20-03-2014\n\nVI. Negar o limitar información sobre derechos sexuales y reproductivos o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos e hijas; Fracción reformada DOF 20-03-2014\n\nVII. Negar o condicionar los servicios de atención médica, o impedir la participación en las decisiones sobre su tratamiento médico o terapéutico dentro de sus posibilidades y medios;\n\nVIII. Impedir la participación en condiciones equitativas en asociaciones civiles, políticas o de cualquier otra índole;\n\nIX. Negar o condicionar el derecho de participación política y, específicamente, el derecho al sufragio activo o pasivo, la elegibilidad y el acceso a todos los cargos públicos, así como la participación en el desarrollo y ejecución de políticas y programas de gobierno, en los casos y bajo los términos que establezcan las disposiciones aplicables;\n\nX. Impedir el ejercicio de los derechos de propiedad, administración y disposición de bienes de cualquier otro tipo;\n\nXI. Impedir o limitar el acceso a la procuración e impartición de justicia; Fracción reformada DOF 07-06-2013\n\nXII. Impedir, negar o restringir el derecho a ser oídos y vencidos, a la defensa o asistencia; y a la asistencia de personas intérpretes o traductoras en los procedimientos administrativos o judiciales, de conformidad con las normas aplicables; así como el derecho de las niñas y niños a ser escuchados; Fracción reformada DOF 20-03-2014\n\nXIII. Aplicar cualquier tipo de uso o costumbre que atente contra la igualdad, dignidad e integridad humana; Fracción reformada DOF 20-03-2014\n\nXIV. Impedir la libre elección de cónyuge o pareja;\n\nXV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación; Fracción reformada DOF 20-03-2014\n\nXVI. Limitar la libre expresión de las ideas, impedir la libertad de pensamiento, conciencia o religión, o de prácticas o costumbres religiosas, siempre que éstas no atenten contra el orden público;\n\nXVII. Negar asistencia religiosa a personas privadas de la libertad, que presten servicio en las fuerzas armadas o que estén internadas en instituciones de salud o asistencia;\n\nXVIII. Restringir el acceso a la información, salvo en aquellos supuestos que sean establecidos por las leyes nacionales e instrumentos jurídicos internacionales aplicables;\n\nXIX. Obstaculizar las condiciones mínimas necesarias para el crecimiento y desarrollo integral, especialmente de las niñas y los niños, con base al interés superior de la niñez; Fracción reformada DOF 20-03-2014\n\nXX. Impedir el acceso a la seguridad social y a sus beneficios o establecer limitaciones para la contratación de seguros médicos, salvo en los casos que la ley así lo disponga;\n\nXXI. Limitar el derecho a la alimentación, la vivienda, el recreo y los servicios de atención médica adecuados, en los casos que la ley así lo prevea;\n\nXXII. Impedir el acceso a cualquier servicio público o institución privada que preste servicios al público, así como limitar el acceso y libre desplazamiento en los espacios públicos;\n\nXXII. Bis. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público; Fracción adicionada DOF 20-03-2014\n\nXXII. Ter. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad; Fracción adicionada DOF 20-03-2014\n\nXXII Quáter. Impedir, negar, restringir o condicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia, de conformidad con lo establecido en la Ley General para la Inclusión de las Personas con Discapacidad; Fracción adicionada DOF 04-12-2023\n\nXXII Quintus. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad; Fracción adicionada DOF 04-12-2023\n\nXXIII. Explotar o dar un trato abusivo o degradante;\n\nXXIV. Restringir la participación en actividades deportivas, recreativas o culturales;\n\nXXV. Restringir o limitar el uso de su lengua, usos, costumbres y cultura, en actividades públicas o privadas, en términos de las disposiciones aplicables;\n\nXXVI. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;\n\nXXVII. Incitar al odio, violencia, rechazo, burla, injuria, persecución o la exclusión; Fracción reformada DOF 20-03-2014\n\nXXVIII. Realizar o promover violencia física, sexual, o psicológica, patrimonial o económica por la edad, género, discapacidad, apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual, o por cualquier otro motivo de discriminación; Fracción reformada DOF 20-03-2014\n\nXXIX. Estigmatizar o negar derechos a personas con adicciones; que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial; Fracción adicionada DOF 20-03-2014\n\nXXX. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores o por motivo de la condición de salud física o mental; Fracción adicionada DOF 20-03-2014. Reformada DOF 17-05-2022\n\nXXXI. Difundir sin consentimiento de la persona agraviada información sobre su condición y antecedentes de salud física o mental, o sobre cualquier otro dato personal sensible; Fracción adicionada DOF 20-03-2014. Reformada DOF 17-05-2022\n\nXXXII. Estigmatizar y negar derechos a personas con VIH/SIDA, o cualquier condición o antecedentes de salud física o mental; Fracción adicionada DOF 20-03-2014. Reformada DOF 17-05-2022\n\nXXXIII. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas; Fracción adicionada DOF 20-03-2014. Reformada DOF 22-11-2021\n\nXXXIV. Prohibir, limitar o restringir el acto de amamantar en espacios públicos, y Fracción adicionada DOF 22-11-2021\n\nXXXV. En general cualquier otro acto u omisión discriminatorio en términos del artículo 1, párrafo segundo, fracción III de esta Ley. Fracción reformada y recorrida DOF 20-03-2014. Recorrida DOF 22-11-2021 Reforma DOF 20-03-2014: Derogó del artículo el entonces párrafo primero",
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -204,9 +204,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -225,9 +225,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -246,9 +246,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -267,9 +267,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -288,9 +288,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -309,9 +309,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -329,10 +329,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -350,10 +350,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -371,10 +371,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -392,10 +392,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -413,10 +413,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -434,10 +434,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -455,10 +455,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -476,10 +476,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -498,10 +498,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -518,12 +518,12 @@
     },
     "text": "El Consejo tiene como objeto:\n\nI. Contribuir al desarrollo cultural, social y democrático del país;\n\nII. Llevar a cabo, las acciones conducentes para prevenir y eliminar la discriminación;\n\nIII. Formular y promover políticas públicas para la igualdad de oportunidades y de trato a favor de las personas que se encuentren en territorio nacional, y\n\nIV. Coordinar las acciones de las dependencias y entidades del Poder Ejecutivo Federal, en materia de prevención y eliminación de la discriminación.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -540,12 +540,12 @@
     },
     "text": "El domicilio del Consejo es la Ciudad de México, Distrito Federal, pero podrá establecer delegaciones y oficinas en otros lugares de la República Mexicana.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -562,12 +562,12 @@
     },
     "text": "El patrimonio del Consejo se integrará con:\n\nI. Los recursos presupuestales que le asigne la Cámara de Diputados del Congreso de la Unión a través del Presupuesto de Egresos de la Federación correspondiente;\n\nII. Los bienes muebles e inmuebles que le sean asignados;\n\nIII. Los bienes que adquiera por cualquier otro título lícito;\n\nIV. Los fondos que obtenga por el financiamiento de programas específicos, y\n\nV. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas y morales.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -586,10 +586,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -606,12 +606,12 @@
     },
     "text": "El Consejo difundirá periódicamente los avances, resultados e impactos de las políticas, programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -628,12 +628,12 @@
     },
     "text": "La Administración del Consejo corresponde a:\n\nI. La Junta de Gobierno, y\n\nII. La Presidencia del Consejo.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -652,10 +652,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -674,10 +674,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -696,10 +696,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -718,10 +718,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -740,10 +740,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -762,10 +762,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -784,10 +784,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -806,10 +806,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -826,12 +826,12 @@
     },
     "text": "La Asamblea Consultiva es un órgano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle el Consejo en Materia de Prevención y Eliminación de la Discriminación.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -850,10 +850,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -870,12 +870,12 @@
     },
     "text": "Los integrantes de la Asamblea Consultiva, no recibirán retribución, emolumento, o compensación alguna por su participación, ya que su carácter es honorífico.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -894,10 +894,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -916,10 +916,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -936,12 +936,12 @@
     },
     "text": "Las reglas de funcionamiento y organización de la Asamblea Consultiva se establecerán en el Estatuto Orgánico.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -958,12 +958,12 @@
     },
     "text": "El Consejo proveerá a la Asamblea Consultiva de los recursos necesarios para el desempeño de sus actividades.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -982,10 +982,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1004,10 +1004,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1024,12 +1024,12 @@
     },
     "text": "El Consejo se regirá por lo dispuesto en esta Ley y su Estatuto Orgánico en lo relativo a su estructura, funcionamiento, operación, desarrollo y control. Para tal efecto contará con las disposiciones generales a la naturaleza y características del organismo, a sus órganos de administración, a las unidades que integran estos últimos, a la vigilancia, y demás que se requieran para su regulación interna, conforme a lo establecido en la legislación de la materia y por esta Ley.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1046,12 +1046,12 @@
     },
     "text": "Queda reservado a los Tribunales Federales el conocimiento y resolución de todas las controversias en que sea parte el Consejo.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1070,10 +1070,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1092,10 +1092,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1114,10 +1114,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1136,10 +1136,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1156,12 +1156,12 @@
     },
     "text": "El Consejo, dentro del ámbito de su competencia, iniciará sus actuaciones a petición de parte; también podrá actuar de oficio en aquellos casos en que la Presidencia así lo determine.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1180,10 +1180,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1202,10 +1202,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1224,10 +1224,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1246,10 +1246,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1268,10 +1268,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1290,10 +1290,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1312,10 +1312,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1334,10 +1334,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1356,10 +1356,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1378,10 +1378,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1401,9 +1401,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1423,9 +1423,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1445,9 +1445,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1467,9 +1467,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1489,9 +1489,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1511,9 +1511,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1533,9 +1533,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1555,9 +1555,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1576,10 +1576,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1598,10 +1598,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1620,10 +1620,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1642,10 +1642,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1664,10 +1664,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1686,10 +1686,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1708,10 +1708,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1730,10 +1730,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1752,10 +1752,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1774,10 +1774,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1796,10 +1796,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1818,10 +1818,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1840,10 +1840,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1862,10 +1862,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1884,10 +1884,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1906,10 +1906,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1928,10 +1928,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1950,10 +1950,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1970,12 +1970,12 @@
     },
     "text": "Para documentar debidamente las evidencias, el Consejo podrá solicitar la rendición y desahogo de todas aquellas pruebas que estime necesarias, con la única condición de que éstas se encuentren previstas como tales por el orden jurídico mexicano.",
     "publication_date": "2003-06-11",
-    "effective_from": null,
+    "effective_from": "2003-06-12",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -1994,10 +1994,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2017,9 +2017,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2039,9 +2039,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2060,10 +2060,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2082,10 +2082,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2104,10 +2104,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2126,10 +2126,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2148,10 +2148,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2170,10 +2170,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2192,10 +2192,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2215,9 +2215,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2237,9 +2237,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2259,9 +2259,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2280,10 +2280,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2298,14 +2298,14 @@
       "chapter": "Capítulo V",
       "section": "Sección Primera"
     },
-    "text": "El Consejo podrá imponer las siguientes medidas de reparación: I. Restitución del derecho conculcado por el acto, omisión o práctica social discriminatoria;\n\nII. Compensación por el daño ocasionado;\n\nIII. Amonestación pública;\n\nIV. Disculpa pública o privada, y\n\nV. Garantía de no repetición del acto, omisión, o práctica social discriminatoria.\n\nArtículo adicionado DOF 20-03-2014",
+    "text": "El Consejo podrá imponer las siguientes medidas de reparación:\n\nI. Restitución del derecho conculcado por el acto, omisión o práctica social discriminatoria;\n\nII. Compensación por el daño ocasionado;\n\nIII. Amonestación pública;\n\nIV. Disculpa pública o privada, y\n\nV. Garantía de no repetición del acto, omisión, o práctica social discriminatoria.\n\nArtículo adicionado DOF 20-03-2014",
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2324,10 +2324,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2346,10 +2346,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2369,9 +2369,9 @@
     "effective_from": null,
     "effective_to": null,
     "temporal_status": "repealed",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 1.0,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2390,10 +2390,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2412,10 +2412,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {
@@ -2434,10 +2434,10 @@
     "publication_date": "2003-06-11",
     "effective_from": null,
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
+    "temporal_status": "effective",
+    "temporal_basis": "deterministic_rule",
+    "temporal_confidence": 0.9,
+    "review_status": "machine_accepted",
     "transitory_effects": []
   },
   {

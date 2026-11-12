@@ -17,7 +17,9 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 # Artículo 132
 
-Se aplicará la pena de dos a veinte años de prisión y multa de cinco mil a cincuenta mil pesos a los que, no siendo militares en ejercicio, con violencia y uso de armas traten de: I.- Abolir o reformar la Constitución Política de los Estados Unidos Mexicanos;
+Se aplicará la pena de dos a veinte años de prisión y multa de cinco mil a cincuenta mil pesos a los que, no siendo militares en ejercicio, con violencia y uso de armas traten de:
+
+I.- Abolir o reformar la Constitución Política de los Estados Unidos Mexicanos;
 
 II.- Reformar, destruir o impedir la integración de las instituciones constitucionales de la Federación, o su libre ejercicio; y
 

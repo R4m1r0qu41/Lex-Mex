@@ -33,7 +33,9 @@ VI. En su caso, el monto mínimo a que se refiere el artículo [34](articulo-34.
 
 VII. Las causas, procedimientos y plazos para que la Secretaría pueda posponer las fechas de realización de las fases del concurso, tomando en cuenta que para ello deberá hacerlo con la debida anticipación y otorgar un plazo necesario para que los participantes, así como los que hubiesen comprado las bases, en igualdad de circunstancias, puedan llevar a cabo las adecuaciones o requerimientos ya establecidos;
 
-VIII. El procedimiento que se seguirá para que los participantes que se encuentren en el supuesto del último párrafo del artículo [33](articulo-33.md) de este Reglamento, puedan mejorar su propuesta económica y para determinar el ganador del concurso en los términos de los párrafos segundo y tercero del citado artículo; IX. Las causas para declarar desierto el concurso;
+VIII. El procedimiento que se seguirá para que los participantes que se encuentren en el supuesto del último párrafo del artículo [33](articulo-33.md) de este Reglamento, puedan mejorar su propuesta económica y para determinar el ganador del concurso en los términos de los párrafos segundo y tercero del citado artículo;
+
+IX. Las causas para declarar desierto el concurso;
 
 X. La prevención sobre las causas de descalificación a que se refiere el artículo [37](articulo-37.md) de este Reglamento;
 

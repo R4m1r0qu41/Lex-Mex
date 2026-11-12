@@ -15,4 +15,4 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # SÉPTIMO
 
-Las Cámaras autorizadas por la [Secretaría](articulo-2.md) para operar el [SIEM](articulo-2.md) mantendrán la vigencia de su autorización previa a la publicación de esta Ley.
+Las [Cámaras](articulo-2.md) autorizadas por la [Secretaría](articulo-2.md) para operar el [SIEM](articulo-2.md) mantendrán la vigencia de su autorización previa a la publicación de esta Ley.

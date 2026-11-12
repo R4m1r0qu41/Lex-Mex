@@ -17,7 +17,9 @@ source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 
 # Artículo 82
 
-(Expedición de copias). El Ministerio Público expedirá, previo pago de los derechos correspondientes, copias simples o copias certificadas de Averiguaciones Previas, constancias o documentos que obren en su poder cuando: I. Exista mandamiento de autoridad competente que funde y motive su requerimiento;
+(Expedición de copias). El Ministerio Público expedirá, previo pago de los derechos correspondientes, copias simples o copias certificadas de Averiguaciones Previas, constancias o documentos que obren en su poder cuando:
+
+I. Exista mandamiento de autoridad competente que funde y motive su requerimiento;
 
 II. Lo solicite el denunciante, querellante, víctima u ofendido;
 

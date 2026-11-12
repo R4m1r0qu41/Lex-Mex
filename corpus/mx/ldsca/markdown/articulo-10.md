@@ -37,7 +37,9 @@ VIII. Evaluar periódicamente el Sistema de pago de la caña por calidad uniform
 
 IX. Elaborar balances azucareros y de edulcorantes totales por país, para homologar las políticas públicas de los socios comerciales de nuestro país en relación con costos, precios, subsidios, índices de productividad, fondos compensatorios, estímulos fiscales, tasas de interés, políticas crediticias, políticas comerciales, precios administrados y de mercado que entre otros se consideren para establecer las bases para fijar criterios de precios máximos al azúcar de caña en el mercado nacional;
 
-X. Conciliar entre los Ingenios del país, la distribución de las cuotas de exportación de azúcar acordadas en los tratados comerciales que México haya celebrado o celebre en el futuro; XI. Con base en el balance azucarero para la zafra correspondiente, calcular y proponer el precio de referencia del azúcar para el pago de la caña, llevando registro y control de los precios nacionales del azúcar y de los precios del mercado internacional incluidos los precios del mercado de los Estados Unidos de América;
+X. Conciliar entre los Ingenios del país, la distribución de las cuotas de exportación de azúcar acordadas en los tratados comerciales que México haya celebrado o celebre en el futuro;
+
+XI. Con base en el balance azucarero para la zafra correspondiente, calcular y proponer el precio de referencia del azúcar para el pago de la caña, llevando registro y control de los precios nacionales del azúcar y de los precios del mercado internacional incluidos los precios del mercado de los Estados Unidos de América;
 
 XII. Elaborar y aprobar las bases y cláusulas del [Contrato](articulo-3.md) y en su caso, sus modificaciones;
 

@@ -17,7 +17,9 @@ source_sha256: 8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34
 
 # Artículo 41
 
-El Comité a que hace referencia el artículo 43 de la Ley, se integrará de la siguiente manera: I. Un Presidente, que será el Director General del Archivo General de la Nación y contará con voz y voto, y
+El Comité a que hace referencia el artículo 43 de la Ley, se integrará de la siguiente manera:
+
+I. Un Presidente, que será el Director General del Archivo General de la Nación y contará con voz y voto, y
 
 II. Los representantes de cada Dependencia y Entidad, en términos del tercer párrafo del artículo 43 de la Ley, los cuales contarán con voz y voto.
 

@@ -17,4 +17,6 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 114
 
-No podrá invocarse el carácter de reservado cuando: I. Se trate de violaciones graves de derechos humanos o delitos de lesa humanidad, o II. Se trate de información relacionada con actos de corrupción acreditados de acuerdo con las leyes aplicables.
+No podrá invocarse el carácter de reservado cuando:
+
+I. Se trate de violaciones graves de derechos humanos o delitos de lesa humanidad, o II. Se trate de información relacionada con actos de corrupción acreditados de acuerdo con las leyes aplicables.

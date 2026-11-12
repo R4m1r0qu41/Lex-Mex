@@ -25,4 +25,6 @@ II. Proponer acciones que permitan articular las políticas, programas y proyect
 
 III. Identificar buenas prácticas nacionales o internacionales que fortalezcan al sector turístico y permitan un uso eficiente de los recursos públicos;
 
-IV. Integrar grupos de trabajo interinstitucionales orientados a atender los asuntos prioritarios o estratégicos que contribuyan al fortalecimiento y transformación del sector turístico, y V. Emitir sus reglas de organización y funcionamiento interno.
+IV. Integrar grupos de trabajo interinstitucionales orientados a atender los asuntos prioritarios o estratégicos que contribuyan al fortalecimiento y transformación del sector turístico, y
+
+V. Emitir sus reglas de organización y funcionamiento interno.

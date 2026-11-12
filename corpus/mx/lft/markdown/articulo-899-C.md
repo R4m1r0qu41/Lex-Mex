@@ -25,7 +25,9 @@ II. Exposición de los hechos y causas que dan origen a su reclamación;
 
 III. Las pretensiones del promovente, expresando claramente lo que se le pide;
 
-IV. Nombre y domicilio de las empresas o establecimientos en las que ha laborado; puestos desempeñados; actividades desarrolladas; antigüedad generada y cotizaciones al régimen de seguridad social; V. Número de seguridad social o referencia de identificación como asegurado, pensionado o beneficiario, clínica o unidad de medicina familiar asignada;
+IV. Nombre y domicilio de las empresas o establecimientos en las que ha laborado; puestos desempeñados; actividades desarrolladas; antigüedad generada y cotizaciones al régimen de seguridad social;
+
+V. Número de seguridad social o referencia de identificación como asegurado, pensionado o beneficiario, clínica o unidad de medicina familiar asignada;
 
 VI. En su caso, el último estado de la cuenta individual de ahorro para el retiro, constancia expedida por el Instituto Mexicano del Seguro Social de otorgamiento o negativa de pensión, o constancia de otorgamiento o negativa de crédito para vivienda;
 

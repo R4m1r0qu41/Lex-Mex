@@ -25,7 +25,9 @@ II. En su caso, tratándose de convenios de descentralización, llevar a cabo la
 
 III. Entregar y calendarizar los recursos, garantizando su aplicación oportuna, con base en la disponibilidad de recursos y en la programación de metas y objetivos establecida en sus presupuestos, atendiendo los requerimientos de las entidades federativas;
 
-IV. Precisar los objetivos y metas, con base en indicadores de desempeño, que se prevé alcanzar mediante la aplicación de los recursos públicos federales convenidos. Los objetivos y metas deberán ser congruentes con los programas autorizados en el Presupuesto de Egresos; V. Establecer en los convenios que los recursos transferidos se destinen exclusivamente a los destinos previstos en los respectivos convenios de coordinación en materia de descentralización o reasignación, conforme a las disposiciones aplicables, y
+IV. Precisar los objetivos y metas, con base en indicadores de desempeño, que se prevé alcanzar mediante la aplicación de los recursos públicos federales convenidos. Los objetivos y metas deberán ser congruentes con los programas autorizados en el Presupuesto de Egresos;
+
+V. Establecer en los convenios que los recursos transferidos se destinen exclusivamente a los destinos previstos en los respectivos convenios de coordinación en materia de descentralización o reasignación, conforme a las disposiciones aplicables, y
 
 VI. Establecer en los convenios el compromiso de las entidades federativas de entregar la documentación comprobatoria y la información adicional que sea requerida por la Secretaría y la Función Pública en el ámbito de sus respectivas competencias. Dicha documentación deberá ser identificada con un sello que indique el nombre del programa, origen del recurso y el ejercicio correspondiente. Asimismo, deberán verificar que en los convenios se establezca el compromiso de las entidades federativas de registrar en su contabilidad los recursos federales que reciban, de acuerdo con los principios de la contabilidad gubernamental, y aquella información relativa a la rendición de informes y Cuenta Pública ante los congresos locales.
 

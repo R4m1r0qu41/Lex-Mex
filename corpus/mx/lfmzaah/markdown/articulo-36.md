@@ -23,4 +23,6 @@ I.- Los inmuebles construidos en los siglos XVI al XIX, destinados a templos y s
 
 II.- Los documentos y expedientes que pertenezcan o hayan pertenecido a las oficinas y archivos de la Federación, de las entidades federativas o de los Municipios y de las casas curiales. Fracción reformada DOF 19-01-2018
 
-III.- Los documentos originales manuscritos relacionados con la historia de México y los libros, folletos y otros impresos en México o en el extranjero, durante los siglos XVI al XIX que por su rareza e importancia para la historia mexicana, merezcan ser conservados en el país. IV.- Las colecciones científicas y técnicas podrán elevarse a esta categoría, mediante la declaratoria correspondiente.
+III.- Los documentos originales manuscritos relacionados con la historia de México y los libros, folletos y otros impresos en México o en el extranjero, durante los siglos XVI al XIX que por su rareza e importancia para la historia mexicana, merezcan ser conservados en el país.
+
+IV.- Las colecciones científicas y técnicas podrán elevarse a esta categoría, mediante la declaratoria correspondiente.

@@ -27,7 +27,9 @@ III. El derecho a la cultura física y al deporte constituye un estímulo para e
 
 IV. Los programas en materia de cultura física y deporte deben responder a las necesidades individuales y sociales, existiendo una responsabilidad pública en el fomento cualitativo y cuantitativo de la cultura física y el deporte;
 
-V. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado; VI. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
+V. La enseñanza, capacitación, gestión, administración y desarrollo de la cultura física y el deporte deben confiarse a un personal calificado;
+
+VI. Para el desarrollo de la cultura física y la práctica del deporte es indispensable una infraestructura adecuada y la generación de sistemas de financiamiento y administración eficientes y estables, que permitan desarrollar políticas y programas que contribuyan al objetivo común de hacer de la cultura física y el deporte un derecho de todos;
 
 VII. La investigación, información y documentación son elementos indispensables para el desarrollo de la cultura física y el deporte;
 

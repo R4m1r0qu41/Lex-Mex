@@ -17,7 +17,9 @@ source_sha256: a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c
 
 # Artículo 401
 
-En la diligencia de verificación sanitaria se deberán observar las siguientes reglas: I. Al iniciar la visita el verificador deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo [399](articulo-399.md) de esta ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente; Fe de erratas a la fracción DOF 12-07-1991
+En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
+
+I. Al iniciar la visita el verificador deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo [399](articulo-399.md) de esta ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente; Fe de erratas a la fracción DOF 12-07-1991
 
 II. Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento, o conductor del transporte, que proponga a dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
 

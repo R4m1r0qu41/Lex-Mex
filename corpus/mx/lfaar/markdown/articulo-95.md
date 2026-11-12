@@ -35,7 +35,9 @@ III. El adecuado conocimiento de sus clientes y usuarios, para lo cual aquéllas
 
 IV. La información y documentación que los Fondos de Aseguramiento y los Organismos Integradores deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus clientes;
 
-V. La forma en que los mismos Fondos de Aseguramiento y los Organismos Integradores deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y VI. Los términos para proporcionar capacitación al interior de los Fondos de Aseguramiento y los Organismos Integradores sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
+V. La forma en que los mismos Fondos de Aseguramiento y los Organismos Integradores deberán resguardar y garantizar la seguridad de la información y documentación relativas a la identificación de sus clientes y usuarios o quienes lo hayan sido, así como la de aquellos actos, operaciones y servicios reportados conforme al presente artículo, y
+
+VI. Los términos para proporcionar capacitación al interior de los Fondos de Aseguramiento y los Organismos Integradores sobre la materia objeto de este artículo. Las disposiciones de carácter general a que se refiere el presente artículo, señalarán los términos para su debido cumplimiento.
 
 Los Fondos de Aseguramiento y los Organismos Integradores deberán conservar, por al menos diez años, la información y documentación a que se refiere la fracción V de este artículo, sin perjuicio de lo establecido en éste u otros ordenamientos aplicables.
 

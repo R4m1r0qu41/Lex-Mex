@@ -29,7 +29,9 @@ IV.- Al que se haga servir alguna cosa o admita un servicio en cualquier estable
 
 V.- Al que compre una cosa mueble ofreciendo pagar su precio al contado y rehuse después de recibirla, hacer el pago o devolver la cosa, si el vendedor le exigiere lo primero dentro de quince días de haber recibido la cosa del comprador;
 
-VI.- Al que hubiere vendido una cosa mueble y recibido su precio, si no la entrega dentro de los quince días del plazo convenido o no devuelve su importe en el mismo término, en el caso de que se le exija esto último. VII.- Al que vende a dos personas una misma cosa, sea mueble o raíz y recibe el precio de la primera o de la segunda enajenación, de ambas o parte de él, o cualquier otro lucro con perjuicio del primero o del segundo comprador.
+VI.- Al que hubiere vendido una cosa mueble y recibido su precio, si no la entrega dentro de los quince días del plazo convenido o no devuelve su importe en el mismo término, en el caso de que se le exija esto último.
+
+VII.- Al que vende a dos personas una misma cosa, sea mueble o raíz y recibe el precio de la primera o de la segunda enajenación, de ambas o parte de él, o cualquier otro lucro con perjuicio del primero o del segundo comprador.
 
 VIII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de una persona, obtenga de ésta ventajas usuarias por medio de contratos o convenios en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado.
 

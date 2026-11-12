@@ -17,9 +17,11 @@ source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 
 # Artículo 2
 
-Para los efectos de la presente Ley, se entenderá por: I. Biblioteca: Espacio dispuesto para la consulta de acervos de publicaciones impresas, digitales o virtuales, o una combinación de ellas, de carácter general o especializado, catalogados y clasificados en los términos de normas técnicas y administrativas aplicables.
+Para los efectos de la presente Ley, se entenderá por:
 
-II. Biblioteca de México: Al conjunto de acervos y recursos que integran los repositorios de la Biblioteca de La Ciudadela José Vasconcelos, localizada en el inmueble de La Ciudadela, y la Biblioteca Vasconcelos, localizada a un costado de la antigua estación de ferrocarriles de la Ciudad de México. Ambas dependientes de la [Secretaría](articulo-2.md) de Cultura y adscritas a la [Dirección General](articulo-2.md) de Bibliotecas.
+I. Biblioteca: Espacio dispuesto para la consulta de acervos de publicaciones impresas, digitales o virtuales, o una combinación de ellas, de carácter general o especializado, catalogados y clasificados en los términos de normas técnicas y administrativas aplicables.
+
+II. Biblioteca de México: Al conjunto de acervos y recursos que integran los repositorios de la [Biblioteca](articulo-2.md) de La Ciudadela José Vasconcelos, localizada en el inmueble de La Ciudadela, y la Biblioteca Vasconcelos, localizada a un costado de la antigua estación de ferrocarriles de la Ciudad de México. Ambas dependientes de la [Secretaría](articulo-2.md) de Cultura y adscritas a la [Dirección General](articulo-2.md) de Bibliotecas.
 
 III. Biblioteca del Congreso de la Unión: Institución que reúne los fondos documentales y bibliográficos del Congreso de la Unión y es facultada, a partir del decreto del 24 de diciembre de 1936, para recibir dos ejemplares de cada libro o periódico que se publiquen en el país a través del Depósito Legal.
 
@@ -39,7 +41,9 @@ X. Descarte: Proceso de depuración de libros y documentos de los acervos de las
 
 XI. Dirección General: Dirección General de Bibliotecas de la Secretaría de Cultura del Gobierno Federal.
 
-XII. Infraestructura bibliotecaria: Espacios físicos e inmuebles diseñados, construidos o adaptados para la realización de las funciones, procesos y prestación de servicios bibliotecarios. XIII. Inventario: Registro en donde son inscritos el mobiliario, equipos y fondos bibliográficos.
+XII. Infraestructura bibliotecaria: Espacios físicos e inmuebles diseñados, construidos o adaptados para la realización de las funciones, procesos y prestación de servicios bibliotecarios.
+
+XIII. Inventario: Registro en donde son inscritos el mobiliario, equipos y fondos bibliográficos.
 
 XIV. Libro: Toda publicación unitaria, no periódica, de carácter literario, artístico, científico, técnico, educativo, informativo o recreativo, editada en cualquier soporte, lenguaje o código, incluido el digital, cuya edición se haga en su totalidad de una sola vez en un volumen o a intervalos en varios volúmenes o fascículos. Comprenderá también los materiales complementarios en cualquier tipo de soporte, incluido el electrónico, que conformen, conjuntamente con el libro, un todo unitario que no pueda comercializarse separadamente.
 
@@ -65,4 +69,6 @@ XXIV. Sistema Nacional de Bibliotecas: Conjunto de bibliotecas de los sectores p
 
 XXV. Sitio web: Punto de acceso electrónico formado por una o varias páginas electrónicas agrupadas en un dominio de Internet.
 
-XXVI. Soporte no tangible: Soporte virtual de una obra o contenido difundidos a través de redes electrónicas. XXVII. Usuario: Persona que requiere alguna información bibliográfica o documental.
+XXVI. Soporte no tangible: Soporte virtual de una obra o contenido difundidos a través de redes electrónicas.
+
+XXVII. Usuario: Persona que requiere alguna información bibliográfica o documental.

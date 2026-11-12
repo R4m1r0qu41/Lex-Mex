@@ -7,8 +7,8 @@ provision_type: article
 number: "132"
 aliases: ["REG-LAAM — Artículo 132"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAAM.pdf
 source_sha256: 8515c812258bcc7c342e8566ff623c7f5e880f2eb9ee2ad154758077089f11ca
 ---
@@ -35,7 +35,9 @@ VII. No presentarse a los exámenes sin causa justificada;
 
 VIII. Presentarse a los exámenes bajo los efectos de alcohol, drogas o psicotrópicos;
 
-IX. Conducirse con falsedad o hacer uso de medios fraudulentos; X. Estar vinculada a proceso penal; cumpliendo sentencia condenatoria del orden penal; haber comparecido ante un órgano de disciplina, resultando culpable y quedando firme la imposición de los correctivos disciplinarios previstos en las fracciones IV, V y VI del artículo [50](../../ldparm/markdown/articulo-50.md) de la Ley de Disciplina para el Personal de la Armada de México o estar cumpliendo cualquiera de dichos correctivos disciplinarios; Fracción reformada DOF 22-09-2010, 11-03-2016, 02-04-2026
+IX. Conducirse con falsedad o hacer uso de medios fraudulentos;
+
+X. Estar vinculada a proceso penal; cumpliendo sentencia condenatoria del orden penal; haber comparecido ante un órgano de disciplina, resultando culpable y quedando firme la imposición de los correctivos disciplinarios previstos en las fracciones IV, V y VI del artículo [50](../../ldparm/markdown/articulo-50.md) de la Ley de Disciplina para el Personal de la Armada de México o estar cumpliendo cualquiera de dichos correctivos disciplinarios; Fracción reformada DOF 22-09-2010, 11-03-2016, 02-04-2026
 
 XI. Habérsele conferido ascenso por adecuación de grado durante el proceso de promoción;
 

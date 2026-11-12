@@ -17,4 +17,4 @@ source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 
 # Artículo 42
 
-La Dirección y Rectoría dictaminará sobre la compatibilidad de los estudios realizados fuera del Sistema Educativo Militar, de conformidad al procedimiento que especifique el reglamento respectivo.
+La [Dirección y Rectoría](articulo-2.md) dictaminará sobre la compatibilidad de los estudios realizados fuera del Sistema Educativo Militar, de conformidad al procedimiento que especifique el reglamento respectivo.

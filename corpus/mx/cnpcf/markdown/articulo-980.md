@@ -19,7 +19,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 En la vía de apremio y los procedimientos de ejecución de sentencia o convenio, además de los principios previstos por este [Código Nacional](articulo-2.md), serán aplicables los siguientes:
 
-I. Cumplimiento voluntario. La autoridad jurisdiccional privilegiará y dará prioridad al cumplimiento voluntario de la sentencia de la resolución a través de los mecanismos autorizados en el presente Código Nacional y los que considere pertinentes, dejando como última alternativa la ejecución forzosa; II. Ejecución con óptica de derechos humanos. Debe garantizarse la ejecución pronta y expedita de la sentencia definitiva o convenio judicial en estricto respeto a los derechos humanos de la parte ejecutante y ejecutada;
+I. Cumplimiento voluntario. La autoridad jurisdiccional privilegiará y dará prioridad al cumplimiento voluntario de la sentencia de la resolución a través de los mecanismos autorizados en el presente Código Nacional y los que considere pertinentes, dejando como última alternativa la ejecución forzosa;
+
+II. Ejecución con óptica de derechos humanos. Debe garantizarse la ejecución pronta y expedita de la sentencia definitiva o convenio judicial en estricto respeto a los derechos humanos de la parte ejecutante y ejecutada;
 
 III. Idoneidad, razonabilidad y proporcionalidad. La autoridad jurisdiccional deberá interpretar armónicamente las disposiciones para la ejecución de sentencias en relación con los puntos resolutivos de la sentencia definitiva, procurará tener siempre un enfoque de los derechos humanos de la persona ejecutante y ejecutada;
 

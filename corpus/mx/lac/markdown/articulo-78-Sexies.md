@@ -19,7 +19,9 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 El Sistema de gestión de los riesgos asociados a la fatiga debe incluir, por lo menos procesos para:
 
-I. Identificar y notificar peligros asociados a la fatiga que afecten la seguridad operacional y evaluar los riesgos conexos; II. Definir y aplicar las acciones necesarias para mantener un nivel aceptable de seguridad operacional;
+I. Identificar y notificar peligros asociados a la fatiga que afecten la seguridad operacional y evaluar los riesgos conexos;
+
+II. Definir y aplicar las acciones necesarias para mantener un nivel aceptable de seguridad operacional;
 
 III. Observar continuamente y evaluar en forma regular la eficacia de las actividades de gestión de los riesgos asociados a la fatiga;
 

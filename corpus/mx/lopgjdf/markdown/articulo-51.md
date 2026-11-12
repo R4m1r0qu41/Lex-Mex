@@ -29,7 +29,9 @@ IV. Proponer la celebración de convenios, bases y otros instrumentos de coordin
 
 V. Llevar a cabo los concursos de ingreso y de promoción de los servidores públicos de la Procuraduría;
 
-VI. Diseñar y desarrollar proyectos de investigación sobre temas relacionados con las ciencias penales y la política criminal; VII. Estar en permanente comunicación con los titulares de las otras unidades administrativas de la Procuraduría para recabar información sobre las necesidades de capacitación del personal;
+VI. Diseñar y desarrollar proyectos de investigación sobre temas relacionados con las ciencias penales y la política criminal;
+
+VII. Estar en permanente comunicación con los titulares de las otras unidades administrativas de la Procuraduría para recabar información sobre las necesidades de capacitación del personal;
 
 VIII. Aplicar las evaluaciones de Conocimientos Generales y de Competencias Profesionales; y,
 

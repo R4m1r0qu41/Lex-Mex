@@ -35,4 +35,6 @@ VII. IMCINE: el Instituto Mexicano de Cinematografía;
 
 VIII. Cineteca: la Cineteca Nacional;
 
-IX. FIDECINE: el Fondo de Inversión y Estímulos al Cine, y X. Película: lo estipulado en el artículo 5 de la [Ley](articulo-3.md).
+IX. FIDECINE: el Fondo de Inversión y Estímulos al Cine, y
+
+X. Película: lo estipulado en el artículo 5 de la [Ley](articulo-3.md).

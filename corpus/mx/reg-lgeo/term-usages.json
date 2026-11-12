@@ -442,129 +442,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:1755-1758",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:1756-1759",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:ley",
     "span": "Ley",
-    "start_char": 1755,
-    "end_char": 1758
+    "start_char": 1756,
+    "end_char": 1759
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:1763-1773",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:1764-1774",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1763,
-    "end_char": 1773
+    "start_char": 1764,
+    "end_char": 1774
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:1829-1839",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:1830-1840",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1829,
-    "end_char": 1839
+    "start_char": 1830,
+    "end_char": 1840
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:2232-2235",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:2233-2236",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:ley",
     "span": "Ley",
-    "start_char": 2232,
-    "end_char": 2235
+    "start_char": 2233,
+    "end_char": 2236
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:2352-2362",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:2353-2363",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2352,
-    "end_char": 2362
+    "start_char": 2353,
+    "end_char": 2363
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:2555-2562",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:2556-2563",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:conagua",
     "span": "CONAGUA",
-    "start_char": 2555,
-    "end_char": 2562
+    "start_char": 2556,
+    "end_char": 2563
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:2772-2779",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:2773-2780",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:conagua",
     "span": "CONAGUA",
-    "start_char": 2772,
-    "end_char": 2779
+    "start_char": 2773,
+    "end_char": 2780
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:3350-3360",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:3351-3361",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3350,
-    "end_char": 3360
+    "start_char": 3351,
+    "end_char": 3361
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:3379-3386",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:3380-3387",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:conagua",
     "span": "CONAGUA",
-    "start_char": 3379,
-    "end_char": 3386
+    "start_char": 3380,
+    "end_char": 3387
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:3479-3489",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:3480-3490",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 3479,
-    "end_char": 3489
+    "start_char": 3480,
+    "end_char": 3490
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:3761-3771",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:3762-3772",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3761,
-    "end_char": 3771
+    "start_char": 3762,
+    "end_char": 3772
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:4706-4709",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:4707-4710",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:ley",
     "span": "Ley",
-    "start_char": 4706,
-    "end_char": 4709
+    "start_char": 4707,
+    "end_char": 4710
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:4715-4725",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:4716-4726",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 4715,
-    "end_char": 4725
+    "start_char": 4716,
+    "end_char": 4726
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:5003-5013",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17:term-usage:5004-5014",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:17",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5003,
-    "end_char": 5013
+    "start_char": 5004,
+    "end_char": 5014
   },
   {
     "schema_version": "0.1.0",
@@ -586,21 +586,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:18:term-usage:942-945",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:18:term-usage:943-946",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:18",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:ley",
     "span": "Ley",
-    "start_char": 942,
-    "end_char": 945
+    "start_char": 943,
+    "end_char": 946
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:18:term-usage:951-961",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:18:term-usage:952-962",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:18",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:reglamento",
     "span": "Reglamento",
-    "start_char": 951,
-    "end_char": 961
+    "start_char": 952,
+    "end_char": 962
   },
   {
     "schema_version": "0.1.0",
@@ -730,12 +730,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:23:term-usage:1204-1211",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:23:term-usage:1205-1212",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:conagua",
     "span": "CONAGUA",
-    "start_char": 1204,
-    "end_char": 1211
+    "start_char": 1205,
+    "end_char": 1212
   },
   {
     "schema_version": "0.1.0",
@@ -865,21 +865,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:25:term-usage:1408-1418",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:25:term-usage:1409-1419",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:25",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1408,
-    "end_char": 1418
+    "start_char": 1409,
+    "end_char": 1419
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:25:term-usage:1536-1546",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:25:term-usage:1537-1547",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:25",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1536,
-    "end_char": 1546
+    "start_char": 1537,
+    "end_char": 1547
   },
   {
     "schema_version": "0.1.0",
@@ -1189,21 +1189,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:38:term-usage:963-985",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:38:term-usage:964-986",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:coordenadas-geodesicas",
     "span": "Coordenadas Geodésicas",
-    "start_char": 963,
-    "end_char": 985
+    "start_char": 964,
+    "end_char": 986
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:38:term-usage:1082-1092",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:38:term-usage:1083-1093",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:38",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1082,
-    "end_char": 1092
+    "start_char": 1083,
+    "end_char": 1093
   },
   {
     "schema_version": "0.1.0",
@@ -1837,21 +1837,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:58:term-usage:1039-1049",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:58:term-usage:1040-1050",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:58",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1039,
-    "end_char": 1049
+    "start_char": 1040,
+    "end_char": 1050
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:58:term-usage:1270-1280",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:58:term-usage:1271-1281",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:58",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1270,
-    "end_char": 1280
+    "start_char": 1271,
+    "end_char": 1281
   },
   {
     "schema_version": "0.1.0",
@@ -2593,12 +2593,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:85:term-usage:1633-1643",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:85:term-usage:1634-1644",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:85",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1633,
-    "end_char": 1643
+    "start_char": 1634,
+    "end_char": 1644
   },
   {
     "schema_version": "0.1.0",
@@ -2710,21 +2710,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:91:term-usage:1307-1317",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:91:term-usage:1308-1318",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1307,
-    "end_char": 1317
+    "start_char": 1308,
+    "end_char": 1318
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:91:term-usage:1589-1599",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeo:article:91:term-usage:1590-1600",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeo:article:91",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1589,
-    "end_char": 1599
+    "start_char": 1590,
+    "end_char": 1600
   },
   {
     "schema_version": "0.1.0",

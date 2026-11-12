@@ -34,7 +34,9 @@ V. El comité consultivo nacional de normalización, a partir de la recepción d
 
 VI. Cuando se realice una visita a las instalaciones del solicitante, la dependencia deberá hacerla dentro de los siguientes 15 días naturales a partir de que se le notificó al solicitante. Los gastos que se generen por la visita serán sufragados por el solicitante;
 
-VII. Después de haberse realizado la visita a las instalaciones del solicitante, dentro de los siguientes 5 días naturales, la dependencia turnará los resultados de las mismas al comité consultivo nacional de normalización correspondiente. El comité deberá emitir por escrito su opinión y entregarla a la dependencia durante los 20 días naturales siguientes a su realización; VIII. Si el comité consultivo nacional de normalización no emite su opinión en el plazo previsto para tal efecto se entenderá que no tiene observaciones;
+VII. Después de haberse realizado la visita a las instalaciones del solicitante, dentro de los siguientes 5 días naturales, la dependencia turnará los resultados de las mismas al comité consultivo nacional de normalización correspondiente. El comité deberá emitir por escrito su opinión y entregarla a la dependencia durante los 20 días naturales siguientes a su realización;
+
+VIII. Si el comité consultivo nacional de normalización no emite su opinión en el plazo previsto para tal efecto se entenderá que no tiene observaciones;
 
 IX. La dependencia integrará la opinión del comité consultivo nacional de normalización que la haya elaborado, y dentro del plazo que resta para cubrir los 60 días naturales resolverá la solicitud, y
 

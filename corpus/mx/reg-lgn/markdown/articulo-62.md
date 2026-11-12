@@ -25,7 +25,9 @@ II. Mantener enlace personal y directo con las Coordinaciones de Unidad que se e
 
 III. Verificar el cumplimiento de ordenamientos y procedimientos establecidos en los manuales, acuerdos, circulares, instructivos, bases y demás normas y disposiciones administrativas emitidas para el buen funcionamiento de la Coordinación de Unidad de Nivel Batallón;
 
-IV. Proponer las acciones necesarias para poner en ejecución el Plan de Contrainteligencia de la Coordinación de Unidad de Nivel Batallón; V. Someter a la aprobación del Titular de la Coordinación de Unidad de Nivel Batallón, las solicitudes de vacaciones del personal de dicha Coordinación y supervisar su ejecución, atendiendo al rol previamente autorizado;
+IV. Proponer las acciones necesarias para poner en ejecución el Plan de Contrainteligencia de la Coordinación de Unidad de Nivel Batallón;
+
+V. Someter a la aprobación del Titular de la Coordinación de Unidad de Nivel Batallón, las solicitudes de vacaciones del personal de dicha Coordinación y supervisar su ejecución, atendiendo al rol previamente autorizado;
 
 VI. Proponer las medidas que juzgue convenientes para el correcto funcionamiento de la Coordinación de Unidad de Nivel Batallón, y
 

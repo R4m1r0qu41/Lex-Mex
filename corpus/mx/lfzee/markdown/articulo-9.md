@@ -37,7 +37,9 @@ e) Se obligan a llevar a cabo todas las medidas administrativas necesarias para 
 
 f) Se obligan a participar, conforme a su capacidad financiera, en el financiamiento de las inversiones públicas requeridas para establecer y desarrollar la Zona y su Área de Influencia, incluyendo el acceso a los servicios públicos necesarios;
 
-IV. Estudio de prefactibilidad que incluya, entre otra información, los sectores industriales que potencialmente puedan instalarse en la Zona; relación de posibles Inversionistas con interés de ubicarse dentro de la Zona; la [Evaluación Estratégica](articulo-3.md) sobre la situación e impacto sociales y ambientales; de uso de suelo y requerimientos de apoyos públicos complementarios; V. La información sobre las necesidades de infraestructura y las acciones de política pública que se requieran para el desarrollo de la Zona y su Área de Influencia, incluyendo una estimación de los recursos públicos y plazos requeridos para tal efecto, la cual servirá de base para la elaboración del Programa de Desarrollo, y
+IV. Estudio de prefactibilidad que incluya, entre otra información, los sectores industriales que potencialmente puedan instalarse en la Zona; relación de posibles Inversionistas con interés de ubicarse dentro de la Zona; la [Evaluación Estratégica](articulo-3.md) sobre la situación e impacto sociales y ambientales; de uso de suelo y requerimientos de apoyos públicos complementarios;
+
+V. La información sobre las necesidades de infraestructura y las acciones de política pública que se requieran para el desarrollo de la Zona y su Área de Influencia, incluyendo una estimación de los recursos públicos y plazos requeridos para tal efecto, la cual servirá de base para la elaboración del Programa de Desarrollo, y
 
 VI. La demás información que establezca el Reglamento de esta Ley.
 

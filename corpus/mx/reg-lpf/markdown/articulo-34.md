@@ -25,7 +25,9 @@ II. Supervisar y vigilar que el personal bajo su mando participe en los operativ
 
 III. Supervisar que la actuación de los elementos de la Institución, bajo su mando, sea congruente, oportuna y proporcional al riesgo presentado, con estricto apego a las garantías individuales y los derechos humanos reconocidos en la Constitución Federal;
 
-IV. Instrumentar la participación de las áreas de su adscripción en los operativos diseñados para la protección de instalaciones estratégicas, en el ámbito de su competencia; V. Coordinar la participación de las áreas de su adscripción en la vigilancia y resguardo de las estaciones migratorias, previo acuerdo con el Jefe de su División;
+IV. Instrumentar la participación de las áreas de su adscripción en los operativos diseñados para la protección de instalaciones estratégicas, en el ámbito de su competencia;
+
+V. Coordinar la participación de las áreas de su adscripción en la vigilancia y resguardo de las estaciones migratorias, previo acuerdo con el Jefe de su División;
 
 VI. Ordenar y controlar los servicios de vigilancia y custodia de las instalaciones de los centros federales de detención, reclusión y readaptación social, así como de los traslados de internos;
 

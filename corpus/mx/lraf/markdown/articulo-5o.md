@@ -33,7 +33,9 @@ c) Mantener la titularidad de derechos que permitan, directa o indirectamente, e
 
 d) Dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma, o
 
-e) Controlar por cualquier otro medio a la persona moral de que se trate. IV. Directivos Relevantes, al director general de una [Sociedad Controladora](articulo-5o.md), de cada una de las entidades financieras que integren un Grupo Financiero, o de las [Subcontroladoras](articulo-5o.md) así como personas físicas que ocupando un empleo, cargo o comisión en la Sociedad Controladora, en las entidades financieras o personas morales en las que ejerza el Control dicha Sociedad Controladora, adopten decisiones que trasciendan de forma significativa en la situación administrativa, financiera, operacional o jurídica de la propia Sociedad Controladora o del Grupo Financiero al que esta pertenezca, sin que queden comprendidos dentro de esta definición los consejeros de la Sociedad Controladora.
+e) Controlar por cualquier otro medio a la persona moral de que se trate.
+
+IV. Directivos Relevantes, al director general de una [Sociedad Controladora](articulo-5o.md), de cada una de las entidades financieras que integren un Grupo Financiero, o de las [Subcontroladoras](articulo-5o.md) así como personas físicas que ocupando un empleo, cargo o comisión en la Sociedad Controladora, en las entidades financieras o personas morales en las que ejerza el Control dicha Sociedad Controladora, adopten decisiones que trasciendan de forma significativa en la situación administrativa, financiera, operacional o jurídica de la propia Sociedad Controladora o del Grupo Financiero al que esta pertenezca, sin que queden comprendidos dentro de esta definición los consejeros de la Sociedad Controladora.
 
 V. Grupo de Personas, a las personas que tengan acuerdos, de cualquier naturaleza, para tomar decisiones en un mismo sentido. Se presume, salvo prueba en contrario, que constituyen un Grupo de Personas:
 
@@ -51,7 +53,7 @@ IX. Inversionistas Institucionales, a las instituciones de seguros y de fianzas,
 
 X. Personas Relacionadas, a las que respecto de una Sociedad Controladora se ubiquen en alguno de los supuestos siguientes:
 
-a) Las personas que ejerzan el Control en una entidad financiera o persona moral que forme parte del Grupo Empresarial o Consorcio al que la Sociedad Controladora pertenezca, así como los consejeros o administradores de las integrantes del Grupo Financiero y los Directivos Relevantes.
+a) Las personas que ejerzan el Control en una entidad financiera o persona moral que forme parte del Grupo Empresarial o Consorcio al que la Sociedad Controladora pertenezca, así como los consejeros o administradores de las integrantes del Grupo Financiero y los [Directivos Relevantes](articulo-5o.md).
 
 b) Las personas que tengan [Poder de Mando](articulo-5o.md) en una entidad financiera o persona moral que forme parte del Grupo Empresarial o Consorcio al que pertenezca la Sociedad Controladora.
 

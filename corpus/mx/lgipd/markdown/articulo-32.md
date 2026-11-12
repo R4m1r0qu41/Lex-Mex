@@ -21,6 +21,8 @@ Las personas con discapacidad tienen derecho a la libertad de expresión y opini
 
 I. Facilitar de manera oportuna y sin costo adicional, la información dirigida al público en general, accesibles, en formato de lectura fácil y con las tecnologías adecuadas a los diferentes tipos de discapacidad; Fracción reformada DOF 06-01-2023
 
-II. Promover la utilización de la [Lengua de Señas Mexicana](articulo-2.md), el Sistema Braille, y otros modos, medios y formatos de comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido Internet; III. Las instituciones a cargo de servicios y programas sociales en materia de discapacidad proporcionarán la información y la asesoría requerida para favorecer su desarrollo e integración social, y
+II. Promover la utilización de la [Lengua de Señas Mexicana](articulo-2.md), el [Sistema](articulo-2.md) Braille, y otros modos, medios y formatos de comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido Internet;
+
+III. Las instituciones a cargo de servicios y programas sociales en materia de discapacidad proporcionarán la información y la asesoría requerida para favorecer su desarrollo e integración social, y
 
 IV. Los medios de comunicación y las instituciones del sector privado que prestan servicios y suministran información al público en general, la proporcionarán en formatos accesibles y de fácil comprensión a las personas con discapacidad.

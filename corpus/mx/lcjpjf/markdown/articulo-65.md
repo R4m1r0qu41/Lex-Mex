@@ -17,7 +17,9 @@ source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 
 # Artículo 65
 
-Facultades de la [Escuela Judicial](articulo-2.md) La Escuela Judicial tendrá las siguientes facultades: I. Educar, capacitar y actualizar a las funcionarias y los funcionarios del Poder Judicial de la Federación;
+Facultades de la [Escuela Judicial](articulo-2.md) La Escuela Judicial tendrá las siguientes facultades:
+
+I. Educar, capacitar y actualizar a las funcionarias y los funcionarios del Poder Judicial de la Federación;
 
 II. Participar en los exámenes de oposición, así como en los procesos de selección y evaluación del personal del Poder Judicial de la Federación en los términos de esta [Ley](articulo-2.md);
 

@@ -29,7 +29,9 @@ La inscripción en el Registro Nacional de Archivos Históricos no acredita la v
 
 Dentro de los quince días hábiles siguientes a su recepción, se procederá a la acreditación de los documentos entregados, en términos de la presente fracción;
 
-III. Los documentos acreditados como históricos que cumplan los requisitos establecidos por el Archivo General de la Nación en términos de la fracción VII de este artículo, se inscribirán en el Registro Nacional de Archivos; IV. Una vez realizada la inscripción, el Archivo General de la Nación actualizará la información de la base de datos que corresponda.
+III. Los documentos acreditados como históricos que cumplan los requisitos establecidos por el Archivo General de la Nación en términos de la fracción VII de este artículo, se inscribirán en el Registro Nacional de Archivos;
+
+IV. Una vez realizada la inscripción, el Archivo General de la Nación actualizará la información de la base de datos que corresponda.
 
 Concluida la inscripción, se emitirá la cédula de registro, dentro de los treinta días hábiles a su inscripción;
 

@@ -25,7 +25,9 @@ II. Otorgar apoyos que incrementen el patrimonio productivo de las familias que 
 
 III. Aumentar el acceso a tecnologías productivas apropiadas a las condiciones agroecológicas y socioeconómicas de las unidades, a través del apoyo a la transferencia y adaptación tecnológica;
 
-IV. Contribuir al aumento de la productividad de los recursos disponibles en especial del capital social y humano, mediante la capacitación, incluyendo la laboral no agropecuaria, el extensionismo, en particular la necesaria para el manejo integral y sostenible de las unidades productivas y la asistencia técnica integral; V. Mejorar la dieta y la economía familiar, mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo;
+IV. Contribuir al aumento de la productividad de los recursos disponibles en especial del capital social y humano, mediante la capacitación, incluyendo la laboral no agropecuaria, el extensionismo, en particular la necesaria para el manejo integral y sostenible de las unidades productivas y la asistencia técnica integral;
+
+V. Mejorar la dieta y la economía familiar, mediante apoyos para el incremento y diversificación de la producción de traspatio y autoconsumo;
 
 VI. Apoyar el establecimiento y desarrollo de empresas rurales para integrar procesos de industrialización, que permitan dar valor agregado a los productos;
 

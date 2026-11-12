@@ -27,7 +27,9 @@ III. El Consejo Nacional para el Desarrollo y la Inclusión de las Personas con 
 
 IV. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-V. El Instituto Mexicano del Seguro Social; VI. Los Centros de Integración Juvenil, A.C.;
+V. El Instituto Mexicano del Seguro Social;
+
+VI. Los Centros de Integración Juvenil, A.C.;
 
 VII. El Consejo Nacional de Fomento Educativo, y
 

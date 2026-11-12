@@ -21,7 +21,9 @@ Los principios que deberán observar las políticas públicas, son:
 
 I. La equidad;
 
-II. La justicia social; III. La igualdad de oportunidades;
+II. La justicia social;
+
+III. La igualdad de oportunidades;
 
 IV. El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad;
 

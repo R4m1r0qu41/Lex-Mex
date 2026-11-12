@@ -23,7 +23,9 @@ I. Las bases conforme a las cuales se aprueben los Planes Nacional, Sectoriales 
 
 II. La forma y términos en que las dependencias y entidades se integrarán a los sistemas nacionales, así como lo relativo a la homogenización de los procedimientos de captación de datos;
 
-III. Las bases para que el Ejecutivo Federal proponga a los gobiernos locales y municipales su integración a los sistemas nacionales, así como los procedimientos relativos a la forma y términos en que deberá pactarse esa integración; IV. Las medidas que coadyuven para que la adhesión a los sistemas nacionales por parte de los gobiernos locales y municipales sea integral;
+III. Las bases para que el Ejecutivo Federal proponga a los gobiernos locales y municipales su integración a los sistemas nacionales, así como los procedimientos relativos a la forma y términos en que deberá pactarse esa integración;
+
+IV. Las medidas que coadyuven para que la adhesión a los sistemas nacionales por parte de los gobiernos locales y municipales sea integral;
 
 V. Las bases que se propondrán a los Poderes Legislativo y Judicial de la Federación y Judicial del Distrito Federal, para que éstos presten la colaboración en su integración a dichos sistemas;
 

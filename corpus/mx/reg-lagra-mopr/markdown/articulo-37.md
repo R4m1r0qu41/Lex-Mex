@@ -23,4 +23,6 @@ I. Estará presidida por un servidor público de la Secretaría, pudiendo estar 
 
 II. El precio de la enajenación deberá ser, cuando menos, igual al del avalúo que emita el Comité Técnico de Valuación de la Secretaría;
 
-III. El adquirente no podrá tener otros predios cuyas superficies acumuladas, excedan el cinco por ciento de las tierras ejidales o el límite de la pequeña propiedad, y IV. De no haber ofertas para la adquisición del excedente, el denunciado podrá solicitarle al representante de la Secretaría que prorrogue por un plazo de tres horas la terminación de la subasta antes de declararla desierta.
+III. El adquirente no podrá tener otros predios cuyas superficies acumuladas, excedan el cinco por ciento de las tierras ejidales o el límite de la pequeña propiedad, y
+
+IV. De no haber ofertas para la adquisición del excedente, el denunciado podrá solicitarle al representante de la Secretaría que prorrogue por un plazo de tres horas la terminación de la subasta antes de declararla desierta.

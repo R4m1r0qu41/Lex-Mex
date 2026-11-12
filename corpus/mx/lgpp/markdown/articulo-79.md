@@ -19,7 +19,9 @@ source_sha256: 9163f0826f44c965b6d478e69c2bf0deb8795108104c3d7dddf6d11e511199b3
 
 1. Los partidos políticos deberán presentar informes de precampaña y de campaña, conforme a las reglas siguientes:
 
-a) Informes de precampaña: I. Deberán ser presentados por los partidos políticos para cada uno de los precandidatos a candidatos a cargo de elección popular, registrados para cada tipo de precampaña, especificando el origen y monto de los ingresos, así como los gastos realizados;
+a) Informes de precampaña:
+
+I. Deberán ser presentados por los partidos políticos para cada uno de los precandidatos a candidatos a cargo de elección popular, registrados para cada tipo de precampaña, especificando el origen y monto de los ingresos, así como los gastos realizados;
 
 II. Los candidatos y precandidatos son responsables solidarios del cumplimiento de los informes de campaña y precampaña. Para tales efectos, se analizará de manera separada las infracciones en que incurran;
 

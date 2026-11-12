@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 10
 
-La Comisión tiene como objeto orientar, promover, apoyar y proponer políticas públicas para el fomento de la industria vitivinícola nacional.
+La [Comisión](articulo-3.md) tiene como objeto orientar, promover, apoyar y proponer políticas públicas para el fomento de la industria vitivinícola nacional.

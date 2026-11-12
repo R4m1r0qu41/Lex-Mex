@@ -29,7 +29,9 @@ IV. Diseñar, en el ámbito de su competencia, la creación de sistemas y proced
 
 V. Brindar apoyo logístico en materia de comunicación a las áreas de la División de Investigación;
 
-VI. Diseñar, dirigir y operar un centro de monitoreo técnico que permita observar el comportamiento de individuos, internos u organizaciones cuyos actos puedan incurrir en la comisión de delitos, de conformidad con las disposiciones constitucionales y legales aplicables; VII. Proponer la intervención de comunicaciones privadas en términos del presente [Reglamento](articulo-2.md) y demás disposiciones legales aplicables;
+VI. Diseñar, dirigir y operar un centro de monitoreo técnico que permita observar el comportamiento de individuos, internos u organizaciones cuyos actos puedan incurrir en la comisión de delitos, de conformidad con las disposiciones constitucionales y legales aplicables;
+
+VII. Proponer la intervención de comunicaciones privadas en términos del presente [Reglamento](articulo-2.md) y demás disposiciones legales aplicables;
 
 VIII. Elaborar propuestas de modificación a los lineamientos técnicos que deban observarse para lograr una correcta cadena de custodia en el manejo de los indicios y pruebas;
 

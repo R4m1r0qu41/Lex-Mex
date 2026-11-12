@@ -515,11 +515,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:3:reference:6287-6290:108:direct",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:reference:6288-6291:108:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
     "source_span": "108",
-    "start_char": 6287,
-    "end_char": 6290,
+    "start_char": 6288,
+    "end_char": 6291,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:108",
     "qualifiers": [],
@@ -531,19 +531,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:1256-1257:33:direct",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:1257-1258:33:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
     "source_span": "I",
-    "start_char": 1256,
-    "end_char": 1257,
+    "start_char": 1257,
+    "end_char": 1258,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
     "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 1256,
-        "end_char": 1257
+        "start_char": 1257,
+        "end_char": 1258
       }
     ],
     "basis": "express_cross_reference",
@@ -554,19 +554,42 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:1264-1267:33:direct",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:1260-1262:33:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "source_span": "II",
+    "start_char": 1260,
+    "end_char": 1262,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1260,
+        "end_char": 1262
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:1265-1268:33:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
     "source_span": "III",
-    "start_char": 1264,
-    "end_char": 1267,
+    "start_char": 1265,
+    "end_char": 1268,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
     "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "III",
-        "start_char": 1264,
-        "end_char": 1267
+        "start_char": 1265,
+        "end_char": 1268
       }
     ],
     "basis": "express_cross_reference",
@@ -577,19 +600,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:1637-1638:33:direct",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:1638-1639:33:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
     "source_span": "I",
-    "start_char": 1637,
-    "end_char": 1638,
+    "start_char": 1638,
+    "end_char": 1639,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
     "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 1637,
-        "end_char": 1638
+        "start_char": 1638,
+        "end_char": 1639
       }
     ],
     "basis": "express_cross_reference",
@@ -600,19 +623,42 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:2399-2402:33:direct",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:1642-1644:33:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "source_span": "II",
+    "start_char": 1642,
+    "end_char": 1644,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1642,
+        "end_char": 1644
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:reference:2400-2403:33:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
     "source_span": "III",
-    "start_char": 2399,
-    "end_char": 2402,
+    "start_char": 2400,
+    "end_char": 2403,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
     "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "III",
-        "start_char": 2399,
-        "end_char": 2402
+        "start_char": 2400,
+        "end_char": 2403
       }
     ],
     "basis": "express_cross_reference",
@@ -934,19 +980,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgra:article:7:reference:3725-3727:7:direct",
+    "id": "urn:lex-mx:federal:statute:lgra:article:7:reference:3726-3728:7:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgra:article:7",
     "source_span": "XI",
-    "start_char": 3725,
-    "end_char": 3727,
+    "start_char": 3726,
+    "end_char": 3728,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgra",
     "target_provision_id": "urn:lex-mx:federal:statute:lgra:article:7",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "XI",
-        "start_char": 3725,
-        "end_char": 3727
+        "start_char": 3726,
+        "end_char": 3728
       }
     ],
     "basis": "express_cross_reference",

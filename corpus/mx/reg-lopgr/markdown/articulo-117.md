@@ -33,8 +33,8 @@ c) Datos relevantes de su historial laboral, y
 
 d) Resultado de instrumentos y pruebas aplicadas.
 
-IV. Se revisarán los indicadores que aporte cada uno de los exámenes practicados para apreciar de manera integral a la persona evaluada, y V. Se determinará si las características y los rasgos de la persona evaluada permiten considerar que se apega a los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez, lealtad, disciplina y respeto a los derechos humanos, para cumplir con el servicio público.
+IV. Se revisarán los indicadores que aporte cada uno de los exámenes practicados para apreciar de manera integral a la persona evaluada, y
 
-El resultado de este proceso y la determinación del riesgo de la persona permitirán emitir el resultado
+V. Se determinará si las características y los rasgos de la persona evaluada permiten considerar que se apega a los principios de certeza, legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, honradez, lealtad, disciplina y respeto a los derechos humanos, para cumplir con el servicio público.
 
-único.
+El resultado de este proceso y la determinación del riesgo de la persona permitirán emitir el resultado único.

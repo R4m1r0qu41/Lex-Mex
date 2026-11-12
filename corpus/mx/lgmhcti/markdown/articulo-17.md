@@ -23,7 +23,9 @@ I. El diagnóstico y análisis del estado que guardan las humanidades, las cienc
 
 II. Las propuestas, alternativas, lineamientos, estrategias, acciones, metas, indicadores y, en su caso, proyectos para el desarrollo de las bases de las políticas públicas, agrupados de manera preferente por sectores y regiones;
 
-III. Los asuntos estratégicos o prioritarios y los temas de interés público nacional o de atención indispensable que correspondan a la [Agenda Nacional](articulo-4.md); IV. Las consideraciones y proyecciones de las estrategias y acciones para el desarrollo de las bases de las políticas públicas con una prospectiva de por lo menos veinte años;
+III. Los asuntos estratégicos o prioritarios y los temas de interés público nacional o de atención indispensable que correspondan a la [Agenda Nacional](articulo-4.md);
+
+IV. Las consideraciones y proyecciones de las estrategias y acciones para el desarrollo de las bases de las políticas públicas con una prospectiva de por lo menos veinte años;
 
 V. El Programa Nacional de Innovación al que se refiere esta [Ley](articulo-4.md), y
 

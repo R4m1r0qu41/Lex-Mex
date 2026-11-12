@@ -25,7 +25,9 @@ II. Cuando la infracción de que se trate pudiera poner en peligro la vida, la s
 
 III. Aquellas infracciones que se cometan en relación con bienes, productos o servicios que por la temporada o las circunstancias especiales del mercado afecten los derechos de un grupo de consumidores;
 
-IV. Aquellas conductas que se cometan aprovechando la escasez, lejanía o dificultad en el abastecimiento de un bien o en la prestación de un servicio; V. Cuando se trate de productos básicos de consumo generalizado, como alimentos, gas natural o licuado de petróleo, gasolina o productos sujetos a precio máximo o a precios o tarifas establecidos o registrados por la [Secretaría](articulo-2.md) o por cualquiera otra autoridad competente; Fracción reformada DOF 19-08-2010
+IV. Aquellas conductas que se cometan aprovechando la escasez, lejanía o dificultad en el abastecimiento de un bien o en la prestación de un servicio;
+
+V. Cuando se trate de productos básicos de consumo generalizado, como alimentos, gas natural o licuado de petróleo, gasolina o productos sujetos a precio máximo o a precios o tarifas establecidos o registrados por la [Secretaría](articulo-2.md) o por cualquiera otra autoridad competente; Fracción reformada DOF 19-08-2010
 
 VI. Cuando la información o publicidad relacionada con algún bien, producto o servicio que pudiendo o no ser verdadera, induzcan a error o confusión al consumidor por la forma falsa, exagerada, parcial, artificiosa o tendenciosa en que se presente; Fracción adicionada DOF 15-12-2011
 

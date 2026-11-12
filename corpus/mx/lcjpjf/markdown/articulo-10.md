@@ -33,7 +33,9 @@ V. Aptitud para identificar los contextos sociales y los factores de desigualdad
 
 VI. Conocimiento de la organización y, en su caso, manejo del despacho judicial;
 
-VII. Vocación de servicio público y compromiso social; VIII. Ética en el servicio público;
+VII. Vocación de servicio público y compromiso social;
+
+VIII. Ética en el servicio público;
 
 IX. Trayectoria personal íntegra;
 

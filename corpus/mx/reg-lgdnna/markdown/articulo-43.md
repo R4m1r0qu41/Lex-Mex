@@ -31,7 +31,9 @@ IV. Sexo;
 
 V. Media filiación;
 
-VI. Escolaridad; VII. Sitio o zona de cruce fronterizo;
+VI. Escolaridad;
+
+VII. Sitio o zona de cruce fronterizo;
 
 VIII. Número de ocasiones de repatriación, deportación o devolución, de ser el caso;
 

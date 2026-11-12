@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 75
 
-La [Secretaría](articulo-2.md), en el ámbito de sus atribuciones y en coordinación con la Secretaría de Relaciones Exteriores, adoptará las medidas necesarias para brindar asistencia institucional a los asilados, en los mismos términos que lo establecido en los artículos 54, 55, 56 y 57 de la Ley.
+La [Secretaría](articulo-2.md), en el ámbito de sus atribuciones y en coordinación con la Secretaría de Relaciones Exteriores, adoptará las medidas necesarias para brindar asistencia institucional a los asilados, en los mismos términos que lo establecido en los artículos 54, 55, 56 y 57 de la [Ley](articulo-2.md).
 
 Artículo adicionado DOF 30-10-2014

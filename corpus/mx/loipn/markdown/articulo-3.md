@@ -27,7 +27,9 @@ III.- Formar profesionales e investigadores en los diversos campos de la ciencia
 
 IV.- Coadyuvar a la preparación técnica de los trabajadores para su mejoramiento económico y social;
 
-V.- Investigar, crear, conservar y difundir la cultura para fortalecer la conciencia de la nacionalidad, procurar el desarrollo de un elevado sentido de convivencia humana y fomentar en los educandos el amor a la paz y los sentimientos de solidaridad hacia los pueblos que luchan por su Independencia; VI.- Promover en sus alumnos y egresados actitudes solidarias y democráticas que reafirmen nuestra independencia económica;
+V.- Investigar, crear, conservar y difundir la cultura para fortalecer la conciencia de la nacionalidad, procurar el desarrollo de un elevado sentido de convivencia humana y fomentar en los educandos el amor a la paz y los sentimientos de solidaridad hacia los pueblos que luchan por su Independencia;
+
+VI.- Promover en sus alumnos y egresados actitudes solidarias y democráticas que reafirmen nuestra independencia económica;
 
 VII.- Garantizar y ampliar el acceso de estudiantes de escasos recursos a todos los servicios de la enseñanza técnica que preste el instituto;
 

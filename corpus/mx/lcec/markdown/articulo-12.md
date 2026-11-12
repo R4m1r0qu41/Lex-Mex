@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 12
 
-La [Secretaría](articulo-2.md) podrá autorizar la creación de nuevas Cámaras de Comercio, Servicios y Turismo, o de Industria específica nacional y genérica regional, debiendo ser escuchada, para tal efecto, la opinión de la [Confederación](articulo-2.md) que corresponda, previa consulta de la Confederación de que se trate a las Cámaras interesadas.
+La [Secretaría](articulo-2.md) podrá autorizar la creación de nuevas [Cámaras](articulo-2.md) de Comercio, Servicios y Turismo, o de Industria específica nacional y genérica regional, debiendo ser escuchada, para tal efecto, la opinión de la [Confederación](articulo-2.md) que corresponda, previa consulta de la Confederación de que se trate a las Cámaras interesadas.
 
 Las Confederaciones podrán recibir del grupo promotor, a petición de éste, la solicitud y sus anexos para la creación de una nueva Cámara, verificando que se cumpla con los requisitos marcados en los artículos [13](articulo-13.md) y [14](articulo-14.md) de esta Ley. Una vez analizada esta documentación, las Confederaciones, previo acuerdo de su Consejo Directivo, emitirán la opinión mediante la elaboración de dictamen donde aprobarán o rechazarán, la solicitud del grupo promotor cuando a su juicio se cumpla o no con los requisitos marcados en esta Ley, debiendo hacerlo del conocimiento de la Secretaría dentro de los sesenta días naturales siguientes a la emisión de la opinión.
 

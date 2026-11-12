@@ -25,6 +25,8 @@ II. Emitir y publicar los formatos que le corresponden en los términos del pres
 
 III. Establecer y mantener actualizado el [Sistema de Información](articulo-2.md);
 
-IV. Requerir información a las Dependencias o Entidades que realicen acciones de fomento en favor de las Organizaciones con inscripción vigente en el Registro; V. Atender las solicitudes de información de los sectores público, social y privado, de conformidad con las disposiciones aplicables, y
+IV. Requerir información a las Dependencias o Entidades que realicen acciones de fomento en favor de las Organizaciones con inscripción vigente en el Registro;
+
+V. Atender las solicitudes de información de los sectores público, social y privado, de conformidad con las disposiciones aplicables, y
 
 VI. Informar los servicios y los horarios de atención de los módulos, a través de la página electrónica.

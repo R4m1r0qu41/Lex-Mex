@@ -25,6 +25,8 @@ II. Integridad orgánica: Cualidad de un producto orgánico obtenido de acuerdo 
 
 III. Ley: La Ley de Productos Orgánicos;
 
-IV. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, órgano administrativo desconcentrado de la Secretaría; V. Operación orgánica: Actividad o conjunto de actividades relativas a la producción, elaboración, procesamiento, empacado, re-empacado, transportación, distribución, comercialización, etiquetado, re-etiquetado, exportación e importación de productos orgánicos, y
+IV. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, órgano administrativo desconcentrado de la Secretaría;
+
+V. Operación orgánica: Actividad o conjunto de actividades relativas a la producción, elaboración, procesamiento, empacado, re-empacado, transportación, distribución, comercialización, etiquetado, re-etiquetado, exportación e importación de productos orgánicos, y
 
 VI. Producto Orgánico: Aquel que se obtiene conforme a los sistemas de producción y procesamiento establecidos en la Ley y las disposiciones que de ella deriven.

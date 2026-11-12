@@ -23,7 +23,9 @@ I. Ampliar y fortalecer la participación de la producción forestal en el creci
 
 II. El desarrollo de infraestructura;
 
-III. El fomento al desarrollo constante y diversificado de la industria forestal, de los servicios y comercios relacionados con este sector, el fortalecimiento de redes locales de valor, creando condiciones favorables para la inversión de grandes, medianas, pequeñas y microempresas, a fin de asegurar una oferta creciente de productos para el consumo interno y el mercado exterior; IV. El fomento a la integración de cadenas productivas y comerciales;
+III. El fomento al desarrollo constante y diversificado de la industria forestal, de los servicios y comercios relacionados con este sector, el fortalecimiento de redes locales de valor, creando condiciones favorables para la inversión de grandes, medianas, pequeñas y microempresas, a fin de asegurar una oferta creciente de productos para el consumo interno y el mercado exterior;
+
+IV. El fomento a la integración de cadenas productivas y comerciales;
 
 V. Promover el desarrollo de una planta industrial con las características necesarias para aprovechar los recursos forestales que componen los ecosistemas, así como la adecuada potencialidad de los mismos;
 

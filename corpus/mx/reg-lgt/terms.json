@@ -73,7 +73,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "VII",
     "start_char": 1020,
-    "end_char": 1279,
+    "end_char": 1280,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "VIII",
-    "start_char": 1279,
-    "end_char": 1413,
+    "start_char": 1280,
+    "end_char": 1414,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "IX",
-    "start_char": 1413,
-    "end_char": 1637,
+    "start_char": 1414,
+    "end_char": 1638,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "X",
-    "start_char": 1637,
-    "end_char": 1767,
+    "start_char": 1638,
+    "end_char": 1768,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "XI",
-    "start_char": 1767,
-    "end_char": 1898,
+    "start_char": 1768,
+    "end_char": 1899,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "XII",
-    "start_char": 1898,
-    "end_char": 2085,
+    "start_char": 1899,
+    "end_char": 2086,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "XIII",
-    "start_char": 2085,
-    "end_char": 2229,
+    "start_char": 2086,
+    "end_char": 2230,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "XIV",
-    "start_char": 2229,
-    "end_char": 2346,
+    "start_char": 2230,
+    "end_char": 2347,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "XV",
-    "start_char": 2346,
-    "end_char": 2608,
+    "start_char": 2347,
+    "end_char": 2609,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "XVI",
-    "start_char": 2608,
-    "end_char": 2751,
+    "start_char": 2609,
+    "end_char": 2752,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "XVII",
-    "start_char": 2751,
-    "end_char": 3045,
+    "start_char": 2752,
+    "end_char": 3046,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "XVIII",
-    "start_char": 3045,
-    "end_char": 3230,
+    "start_char": 3046,
+    "end_char": 3231,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgt",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgt:article:2",
     "fraction": "XIX",
-    "start_char": 3230,
-    "end_char": 3400,
+    "start_char": 3231,
+    "end_char": 3401,
     "basis": "express_definition"
   }
 ]

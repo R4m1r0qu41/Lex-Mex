@@ -29,6 +29,8 @@ IV.- Formular y presentar al Consejo los proyectos de reglamento interior y de l
 
 V.- Formular y presentar al Consejo los programas anuales y de mediano y largo plazos, de conformidad a las políticas, prioridades y objetivos de la planeación nacional;
 
-VI.- Presentar anualmente un informe de las actividades realizadas y de los resultados obtenidos en torno a los objetivos definidos en sus programas; VII.- Nombrar y remover a los servidores públicos del Organismo, así como contratar la prestación de servicios que se requieran, de acuerdo a las disposiciones en vigor, y proponer al Consejo Directivo los nombramientos y remociones de los funcionarios del nivel inmediato inferior, y
+VI.- Presentar anualmente un informe de las actividades realizadas y de los resultados obtenidos en torno a los objetivos definidos en sus programas;
+
+VII.- Nombrar y remover a los servidores públicos del Organismo, así como contratar la prestación de servicios que se requieran, de acuerdo a las disposiciones en vigor, y proponer al Consejo Directivo los nombramientos y remociones de los funcionarios del nivel inmediato inferior, y
 
 VIII.- Las demás que se deriven de las disposiciones aplicables a las entidades de la Administración Pública Paraestatal y le encomiende el Consejo Directivo.

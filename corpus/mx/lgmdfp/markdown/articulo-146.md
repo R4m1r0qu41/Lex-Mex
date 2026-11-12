@@ -21,7 +21,9 @@ La [Declaración Especial de Ausencia](articulo-4.md) tendrá, como mínimo, los
 
 I. Garantizar la conservación de la patria potestad de la [Persona Desaparecida](articulo-4.md) y la protección de los derechos y bienes de las y los hijos menores de 18 años de edad a través de quien pueda ejercer la patria potestad o, en su caso, a través de la designación de un tutor, atendiendo al principio del interés superior de la niñez;
 
-II. Fijar los derechos de guarda y custodia de las personas menores de 18 años de edad en los términos de la legislación civil aplicable; III. Proteger el patrimonio de la Persona Desaparecida, incluyendo los bienes adquiridos a crédito y cuyos plazos de amortización se encuentren vigentes, así como de los bienes sujetos a hipoteca;
+II. Fijar los derechos de guarda y custodia de las personas menores de 18 años de edad en los términos de la legislación civil aplicable;
+
+III. Proteger el patrimonio de la Persona Desaparecida, incluyendo los bienes adquiridos a crédito y cuyos plazos de amortización se encuentren vigentes, así como de los bienes sujetos a hipoteca;
 
 IV. Fijar la forma y plazos para que los [Familiares](articulo-4.md) u otras personas legitimadas por la ley, pueden acceder, previo control judicial, al patrimonio de la Persona Desaparecida;
 

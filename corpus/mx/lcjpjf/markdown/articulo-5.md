@@ -17,7 +17,9 @@ source_sha256: 1307711de5651aa4df9452c8ea4a2e519ab6725b85c014a2e1844a9f8e823f4f
 
 # Artículo 5
 
-Finalidad La [Carrera Judicial](articulo-2.md) tiene como fines: I. Garantizar la independencia, imparcialidad, idoneidad, estabilidad, profesionalización y especialización de las personas servidoras públicas que forman parte de ella;
+Finalidad La [Carrera Judicial](articulo-2.md) tiene como fines:
+
+I. Garantizar la independencia, imparcialidad, idoneidad, estabilidad, profesionalización y especialización de las personas servidoras públicas que forman parte de ella;
 
 II. Propiciar la permanencia y superación de sus integrantes, con base en expectativas de desarrollo personal progresivo; III. Desarrollar un sentido de identidad y pertenencia hacia el Poder Judicial de la Federación;
 

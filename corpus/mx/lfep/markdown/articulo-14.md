@@ -21,4 +21,6 @@ Son organismos descentralizados las personas jurídicas creadas conforme a lo di
 
 I. La realización de actividades correspondientes a las áreas estratégicas o prioritarias;
 
-II. La prestación de un servicio público o social; o III. La obtención o aplicación de recursos para fines de asistencia o seguridad social.
+II. La prestación de un servicio público o social; o
+
+III. La obtención o aplicación de recursos para fines de asistencia o seguridad social.

@@ -21,7 +21,9 @@ Son causales para la conclusión del procedimiento:
 
 I. La manifestación expresa de la voluntad por alguna de las partes, para dar por concluido el trámite del mecanismo;
 
-II. Por abandono del procedimiento que se actualiza por dejar de asistir a dos sesiones sin causa justificada; III. Por desaparecer la materia del conflicto o controversia;
+II. Por abandono del procedimiento que se actualiza por dejar de asistir a dos sesiones sin causa justificada;
+
+III. Por desaparecer la materia del conflicto o controversia;
 
 IV. Por conocer la existencia de derechos de tercero que puedan resultar afectados por el trámite del mecanismo o que, habiéndosele invitado a participar, no se le localice oportunamente o manifieste expresamente su negativa de que la controversia se resuelva a través del mecanismo;
 

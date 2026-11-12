@@ -7,8 +7,8 @@ provision_type: article
 number: "34"
 aliases: ["REG-LGS-MCSOTCSH — Artículo 34"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf
 source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 ---
@@ -23,7 +23,9 @@ I.- Verificar que los trasplantes se realicen de conformidad con los requisitos 
 
 II.- Verificar que los trasplantes se realicen con la máxima seguridad y de acuerdo a principios de ética médica;
 
-III.- Hacer la selección de disponentes originarios y receptores para trasplante; IV.- Brindar la información necesaria a los receptores, disponentes y familiares en relación a estos procedimientos terapéuticos, y
+III.- Hacer la selección de disponentes originarios y receptores para trasplante;
+
+IV.- Brindar la información necesaria a los receptores, disponentes y familiares en relación a estos procedimientos terapéuticos, y
 
 V.- Promover la actualización del personal que participe en la realización de trasplantes.
 

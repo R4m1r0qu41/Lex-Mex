@@ -23,7 +23,9 @@ I. Coordinar los sistemas de información de la Procuraduría; así como, determ
 
 II. Elaborar, implementar y vigilar el cumplimiento de las normas en materia de informática, telecomunicaciones y desarrollos tecnológicos especiales, deban observar las unidades administrativas de la Procuraduría, para lograr el óptimo aprovechamiento y correcta utilización de los recursos tecnológicos de la Institución;
 
-III. Planear, establecer y difundir las políticas, normas y procedimientos para administrar y desarrollar y regular la prestación de servicios tecnológicos de informática y telecomunicaciones, así como los bienes y equipos de cómputo, redes computacionales y de telefonía propiedad de la Procuraduría, de conformidad a los lineamientos, planes y programas de modernización tecnológica de la Institución; IV. Vigilar y controlar la selección, administración y actualización de la infraestructura tecnológica de la Institución, de manera tal, que ésta responda eficaz y eficientemente a las necesidades y requerimientos propios de las funciones a cargo de la Procuraduría en sus diferentes ámbitos de acción;
+III. Planear, establecer y difundir las políticas, normas y procedimientos para administrar y desarrollar y regular la prestación de servicios tecnológicos de informática y telecomunicaciones, así como los bienes y equipos de cómputo, redes computacionales y de telefonía propiedad de la Procuraduría, de conformidad a los lineamientos, planes y programas de modernización tecnológica de la Institución;
+
+IV. Vigilar y controlar la selección, administración y actualización de la infraestructura tecnológica de la Institución, de manera tal, que ésta responda eficaz y eficientemente a las necesidades y requerimientos propios de las funciones a cargo de la Procuraduría en sus diferentes ámbitos de acción;
 
 V. Vigilar e instrumentar el cumplimiento de las normas y programas que en materia de seguridad en informática y telecomunicaciones se implementan en la Dependencia;
 

@@ -27,7 +27,9 @@ III. Fomentar la educación y formación impulsando prácticas que consoliden un
 
 IV. Contribuir al ejercicio y perfeccionamiento de la democracia participativa;
 
-V. Participar en el diseño de planes, programas y proyectos de desarrollo económico y social, en términos de la legislación aplicable; VI. Facilitar a los [Asociados](articulo-5o.md) de los [Organismos del Sector](articulo-5o.md) la participación y acceso a la formación, el trabajo, la propiedad, la información, la gestión y distribución equitativa de beneficios sin discriminación alguna; Fracción reformada DOF 11-06-2013
+V. Participar en el diseño de planes, programas y proyectos de desarrollo económico y social, en términos de la legislación aplicable;
+
+VI. Facilitar a los [Asociados](articulo-5o.md) de los [Organismos del Sector](articulo-5o.md) la participación y acceso a la formación, el trabajo, la propiedad, la información, la gestión y distribución equitativa de beneficios sin discriminación alguna; Fracción reformada DOF 11-06-2013
 
 VII. Participar en la generación de fuentes de trabajo y de mejores formas de vida para todas las personas; Fracción adicionada DOF 11-06-2013
 

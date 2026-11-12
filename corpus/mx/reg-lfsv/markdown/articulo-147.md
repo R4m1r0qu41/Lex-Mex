@@ -49,7 +49,9 @@ XIV. El manual de organización con la descripción de las funciones y responsab
 
 XV. El manual de procedimientos de certificación;
 
-XVI. El organigrama; XVII. La documentación que acredite que cuenta con instalaciones adecuadas y suficientes para la prestación del servicio de certificación, incluyendo los servicios de teléfono, fax y correo electrónico;
+XVI. El organigrama;
+
+XVII. La documentación que acredite que cuenta con instalaciones adecuadas y suficientes para la prestación del servicio de certificación, incluyendo los servicios de teléfono, fax y correo electrónico;
 
 XVIII. El inventario del equipo y los materiales con que cuenta;
 

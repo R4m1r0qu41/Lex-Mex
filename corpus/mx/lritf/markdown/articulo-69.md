@@ -17,7 +17,9 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 69
 
-La [CNBV](articulo-4.md) después de escuchar a la [ITF](articulo-4.md) afectada, y con aprobación del [Comité Interinstitucional](articulo-4.md), podrá declarar la revocación de la autorización que le haya otorgado a dicha ITF, en los casos siguientes: Párrafo reformado DOF 24-01-2024 I. Si no mantiene el capital mínimo o neto necesario para llevar a cabo sus actividades de acuerdo con lo previsto en esta Ley y las disposiciones de carácter general que para tal efecto se emitan;
+La [CNBV](articulo-4.md) después de escuchar a la [ITF](articulo-4.md) afectada, y con aprobación del [Comité Interinstitucional](articulo-4.md), podrá declarar la revocación de la autorización que le haya otorgado a dicha ITF, en los casos siguientes: Párrafo reformado DOF 24-01-2024
+
+I. Si no mantiene el capital mínimo o neto necesario para llevar a cabo sus actividades de acuerdo con lo previsto en esta Ley y las disposiciones de carácter general que para tal efecto se emitan;
 
 II. Si suspende o abandona sus actividades por un plazo superior a un año calendario;
 
@@ -41,6 +43,8 @@ La Comisión otorgará el derecho de audiencia a la ITF interesada a fin de que,
 
 Concluido el plazo a que se refiere el párrafo anterior y, en su caso el de su ampliación, la Comisión contará con un plazo de hasta sesenta días hábiles para el desahogo de las pruebas. Una vez desahogadas las pruebas, la Comisión notificará a la ITF la apertura del periodo de cinco días hábiles para formular alegatos. La Comisión podrá realizar dicha notificación por estrados o por cualquier otro medio, que determine. Párrafo adicionado DOF 24-01-2024
 
-Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para obtener la aprobación del Comité Interinstitucional y emitir y notificar la resolución que ponga fin a los procedimientos administrativos de revocación a que se refiere el presente artículo. Párrafo adicionado DOF 24-01-2024 La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la ITF de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la CNBV. Párrafo adicionado DOF 24-01-2024
+Al día hábil siguiente al vencimiento del plazo para formular alegatos, se tendrá por cerrada la instrucción y la Comisión respectiva contará con un plazo no mayor a ciento ochenta días hábiles para obtener la aprobación del Comité Interinstitucional y emitir y notificar la resolución que ponga fin a los procedimientos administrativos de revocación a que se refiere el presente artículo. Párrafo adicionado DOF 24-01-2024
+
+La declaración de revocación se publicará en el Diario Oficial de la Federación y deberá inscribirse en el Registro Público de Comercio que corresponda al domicilio social de la ITF de que se trate, para lo cual el Registro únicamente requerirá previa notificación de la CNBV. Párrafo adicionado DOF 24-01-2024
 
 La revocación incapacitará a la ITF para realizar nuevas Operaciones a partir de la fecha en que se notifique la resolución correspondiente y salvo por el caso establecido en la fracción IX de este artículo, pondrá en estado de disolución y liquidación a la sociedad, sin necesidad del acuerdo de la asamblea de accionistas. Párrafo reformado DOF 24-01-2024

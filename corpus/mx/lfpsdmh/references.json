@@ -56,19 +56,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfpsdmh:article:3:reference:669-671:27:direct",
+    "id": "urn:lex-mx:federal:statute:lfpsdmh:article:3:reference:670-672:27:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfpsdmh:article:3",
     "source_span": "27",
-    "start_char": 669,
-    "end_char": 671,
+    "start_char": 670,
+    "end_char": 672,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:27",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo séptimo",
-        "start_char": 640,
-        "end_char": 655
+        "start_char": 641,
+        "end_char": 656
       }
     ],
     "basis": "express_cross_reference",

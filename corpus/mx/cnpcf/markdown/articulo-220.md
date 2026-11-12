@@ -25,6 +25,8 @@ I. La designación de la autoridad jurisdiccional exhortante;
 
 II. La del lugar o población en que tenga que llevarse a cabo la actividad solicitada, aunque no se designe la ubicación del Tribunal o Poder Judicial exhortado;
 
-III. Las actuaciones cuya práctica se intenta; IV. El término o plazo en que habrán de practicarse las mismas, y
+III. Las actuaciones cuya práctica se intenta;
+
+IV. El término o plazo en que habrán de practicarse las mismas, y
 
 V. El exhorto preferentemente deberá realizarse, enviarse y devolverse en forma electrónica, mediante los correos institucionales o plataformas diseñadas para ello, conforme a las disposiciones de la Ley Orgánica o los lineamientos del Consejo de la Judicatura del Poder Judicial respectivo.

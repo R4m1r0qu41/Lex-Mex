@@ -17,7 +17,9 @@ source_sha256: 2d9d70a5bf906056c4a570d1ec3edf669b1ca2aa9b5a6b335b42b895447740ab
 
 # Artículo 13
 
-Las atribuciones del [Consejo Nacional](articulo-4.md) en materia de prevención social de la violencia y la delincuencia son: I. Definir estrategias de colaboración interinstitucional para facilitar la cooperación, contactos e intercambio de información y experiencias entre la Federación, las entidades federativas y los municipios; así como con organizaciones de la sociedad civil, centros educativos o de investigación, o cualquier otro grupo de expertos o redes especializadas en prevención;
+Las atribuciones del [Consejo Nacional](articulo-4.md) en materia de prevención social de la violencia y la delincuencia son:
+
+I. Definir estrategias de colaboración interinstitucional para facilitar la cooperación, contactos e intercambio de información y experiencias entre la Federación, las entidades federativas y los municipios; así como con organizaciones de la sociedad civil, centros educativos o de investigación, o cualquier otro grupo de expertos o redes especializadas en prevención;
 
 II. Establecer los lineamientos para recabar, analizar y compartir la información existente sobre la prevención social de la violencia y la delincuencia, análisis de las mejores prácticas, su evaluación, así como su evolución entre los tres órdenes de gobierno del Sistema Nacional de Seguridad Pública, con objeto de contribuir a la toma de decisiones;
 

@@ -23,6 +23,8 @@ I. La persona titular de la [Secretaría](articulo-4.md) de Salud, quien lo pres
 
 II. La persona titular de la Subsecretaría de Prevención y Promoción de la Salud, de la Secretaría, quien fungirá como Vicepresidente del Consejo, y suplirá las ausencias del presidente;
 
-III. La persona titular de la Subsecretaría de Integración y Desarrollo del Sector Salud, el Director del Instituto de Salud para el Bienestar, el Coordinador General de los Institutos Nacionales de Salud, todos ellos de la Secretaría; IV. Las personas titulares del Instituto Mexicano del Seguro Social, y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y
+III. La persona titular de la Subsecretaría de Integración y Desarrollo del Sector Salud, el Director del Instituto de Salud para el Bienestar, el Coordinador General de los Institutos Nacionales de Salud, todos ellos de la Secretaría;
+
+IV. Las personas titulares del Instituto Mexicano del Seguro Social, y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, y
 
 V. Las personas titulares de los Servicios de Sanidad Militar de la Secretaría de la Defensa Nacional, de Sanidad Naval de la Secretaría de Marina y de los Servicios Médicos de Petróleos Mexicanos.

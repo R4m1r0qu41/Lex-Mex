@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "VIII",
     "start_char": 1960,
-    "end_char": 2134,
+    "end_char": 2135,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "IX",
-    "start_char": 2134,
-    "end_char": 2266,
+    "start_char": 2135,
+    "end_char": 2267,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "X",
-    "start_char": 2266,
-    "end_char": 2510,
+    "start_char": 2267,
+    "end_char": 2511,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XI",
-    "start_char": 2510,
-    "end_char": 2622,
+    "start_char": 2511,
+    "end_char": 2623,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XII",
-    "start_char": 2622,
-    "end_char": 3013,
+    "start_char": 2623,
+    "end_char": 3014,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XIII",
-    "start_char": 3013,
-    "end_char": 3095,
+    "start_char": 3014,
+    "end_char": 3096,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XIV",
-    "start_char": 3095,
-    "end_char": 3224,
+    "start_char": 3096,
+    "end_char": 3225,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XV",
-    "start_char": 3224,
-    "end_char": 3610,
+    "start_char": 3225,
+    "end_char": 3611,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XVI",
-    "start_char": 3610,
-    "end_char": 3809,
+    "start_char": 3611,
+    "end_char": 3810,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XVII",
-    "start_char": 3809,
-    "end_char": 3958,
+    "start_char": 3810,
+    "end_char": 3959,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XVIII",
-    "start_char": 3958,
-    "end_char": 3994,
+    "start_char": 3959,
+    "end_char": 3995,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XIX",
-    "start_char": 3994,
-    "end_char": 4189,
+    "start_char": 3995,
+    "end_char": 4190,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XX",
-    "start_char": 4189,
-    "end_char": 4246,
+    "start_char": 4190,
+    "end_char": 4247,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXI",
-    "start_char": 4246,
-    "end_char": 4435,
+    "start_char": 4247,
+    "end_char": 4436,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXII",
-    "start_char": 4435,
-    "end_char": 4494,
+    "start_char": 4436,
+    "end_char": 4495,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXIII",
-    "start_char": 4494,
-    "end_char": 4529,
+    "start_char": 4495,
+    "end_char": 4530,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXIV",
-    "start_char": 4529,
-    "end_char": 4605,
+    "start_char": 4530,
+    "end_char": 4606,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXV",
-    "start_char": 4605,
-    "end_char": 4671,
+    "start_char": 4606,
+    "end_char": 4672,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXVI",
-    "start_char": 4671,
-    "end_char": 4707,
+    "start_char": 4672,
+    "end_char": 4708,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXVII",
-    "start_char": 4707,
-    "end_char": 4781,
+    "start_char": 4708,
+    "end_char": 4782,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXVIII",
-    "start_char": 4781,
-    "end_char": 5264,
+    "start_char": 4782,
+    "end_char": 5265,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXIX",
-    "start_char": 5264,
-    "end_char": 5601,
+    "start_char": 5265,
+    "end_char": 5602,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbio",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbio:article:3",
     "fraction": "XXX",
-    "start_char": 5601,
-    "end_char": 5713,
+    "start_char": 5602,
+    "end_char": 5714,
     "basis": "express_definition"
   }
 ]

@@ -7,8 +7,8 @@ provision_type: article
 number: "9"
 aliases: ["LAREFAM — Artículo 9"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf
 source_sha256: 9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975
 ---
@@ -21,7 +21,9 @@ En tiempo de paz, los ascensos serán conferidos mediante las modalidades siguie
 
 I. Por propuesta, previo concurso en cada organismo, para cubrir las plazas de Cabo de las Armas, Servicios o de la Guardia Nacional y las de Sargento de los servicios o especialidades que carezcan de escuela de formación; Fracción reformada DOF 16-07-2025
 
-II. Por egreso de algún establecimiento de educación militar, al aprobar satisfactoriamente el curso respectivo, de conformidad con lo establecido en el [Reglamento](articulo-2.md) Interior de cada plantel militar; III. Por aprobar satisfactoriamente el cuarto año en las carreras que imparten las Escuelas [Militar](articulo-2.md) de Ingeniería, de Medicina y de Odontología, y ser considerados como pasantes, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar; Fracción reformada DOF 01-06-2011, 15-04-2025
+II. Por egreso de algún establecimiento de educación militar, al aprobar satisfactoriamente el curso respectivo, de conformidad con lo establecido en el [Reglamento](articulo-2.md) Interior de cada plantel militar;
+
+III. Por aprobar satisfactoriamente el cuarto año en las carreras que imparten las Escuelas [Militar](articulo-2.md) de Ingeniería, de Medicina y de Odontología, y ser considerados como pasantes, de conformidad con lo establecido en el Reglamento Interior de cada plantel militar; Fracción reformada DOF 01-06-2011, 15-04-2025
 
 III Bis. Por cursar una especialidad con una duración mínima de tres años en la Escuela Militar de Graduados de Sanidad, los Mayores y Oficiales Médicos Cirujanos que tengan derecho a participar en la promoción general, estarán exentos de presentar los exámenes teóricos y podrán ascender por rigurosa escala jerárquica, hasta el grado de Teniente Coronel, siempre y cuando cumplan los demás requisitos establecidos en esta [Ley](articulo-2.md), su reglamento y disposiciones que emita el Estado Mayor Conjunto de la Defensa Nacional; Fracción adicionada DOF 15-04-2025
 

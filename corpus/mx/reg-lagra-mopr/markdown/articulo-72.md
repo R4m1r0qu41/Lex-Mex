@@ -19,7 +19,9 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 Recibido el avalúo, la Secretaría dictaminará el expediente, que deberá contener los siguientes documentos:
 
-I. Solicitud; II. Acuerdo de instauración;
+I. Solicitud;
+
+II. Acuerdo de instauración;
 
 III. Trabajos técnicos e informativos;
 

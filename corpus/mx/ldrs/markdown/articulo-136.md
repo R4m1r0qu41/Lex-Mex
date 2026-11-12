@@ -19,7 +19,9 @@ source_sha256: 30f884c4cd22148b89f3fc21ff0be69be7571d51c146cefa7da2cac06b421f21
 
 Será responsabilidad de la [Comisión Intersecretarial](articulo-3o.md) coordinar los esfuerzos y acopiar y sistematizar información de las dependencias y entidades de los gobiernos federal, estatales y municipales que integren el [Sistema](articulo-3o.md) Nacional de Información para el [Desarrollo Rural Sustentable](articulo-3o.md), considerando la información proveniente de los siguientes tópicos:
 
-I. La comercialización agropecuaria municipal, regional y estatal; II. Los estudios agropecuarios;
+I. La comercialización agropecuaria municipal, regional y estatal;
+
+II. Los estudios agropecuarios;
 
 III. La comercialización agropecuaria nacional;
 

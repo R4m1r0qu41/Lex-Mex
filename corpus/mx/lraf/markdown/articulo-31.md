@@ -21,7 +21,9 @@ Las personas que acudan en representación de los accionistas a las asambleas de
 
 I. Señalar de manera notoria la denominación de la Sociedad Controladora, así como la respectiva orden del día;
 
-II. Contener espacio para las instrucciones que señale el otorgante para el ejercicio del poder, y III. Estar foliados y firmados por el secretario o prosecretario del consejo de administración de la Sociedad Controladora, con anterioridad a su entrega a los accionistas.
+II. Contener espacio para las instrucciones que señale el otorgante para el ejercicio del poder, y
+
+III. Estar foliados y firmados por el secretario o prosecretario del consejo de administración de la Sociedad Controladora, con anterioridad a su entrega a los accionistas.
 
 La Controladora deberá mantener a disposición de los representantes de los accionistas, durante el plazo a que se refiere el artículo [173](../../lgsm/markdown/articulo-173.md) de la Ley General de Sociedades Mercantiles, los formularios de los poderes, a fin de que aquellos puedan hacerlos llegar con oportunidad a sus representados.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["LMIN — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf
 source_sha256: 22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746
 ---
@@ -17,7 +17,9 @@ source_sha256: 22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746
 
 # Artículo 18
 
-La Secretaría puede realizar correcciones, mediante el procedimiento de anulabilidad, a los datos consignados en un título de concesión o de asignación mineras y lo comunicará a su titular, cuando sea expedido con error respecto de: I. La referencia específica de identificación del expediente, documentos o nombre completo de las personas titulares de la concesión;
+La Secretaría puede realizar correcciones, mediante el procedimiento de anulabilidad, a los datos consignados en un título de concesión o de asignación mineras y lo comunicará a su titular, cuando sea expedido con error respecto de:
+
+I. La referencia específica de identificación del expediente, documentos o nombre completo de las personas titulares de la concesión;
 
 II. El lugar y fecha de emisión, o
 

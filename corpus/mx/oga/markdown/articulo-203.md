@@ -18,8 +18,6 @@ source_sha256: 25c0da0a39813a4ad1a8189c67a693c131b9df2fc05689881251f15d42b9fdb3
 
 # Artículo 203
 
-Los Cabos en los barcos o en las dependencias de la Armada serán los inmediatos superiores de los Marineros, tomando éstos de aquéllos los primeros ejemplos de moralidad, conducta y disciplina militar. Estas clases importantes deberán proveerse con Marineros de primera para Cabos de segunda, y con éstos para Cabos de primera, los cuales tendrán acreditada la confianza y buen concepto necesarios para promoverlos a dichos empleos. En consecuencia, para el cuidado de un rancho, que es la primera fracción del equipaje en un buque o dependencia, habrá uno o más Cabos de primera, que se turnarán en el mando por antigüedad, y a falta de ellos, se encargará en igual forma a los Cabos de
-
-segunda.
+Los Cabos en los barcos o en las dependencias de la Armada serán los inmediatos superiores de los Marineros, tomando éstos de aquéllos los primeros ejemplos de moralidad, conducta y disciplina militar. Estas clases importantes deberán proveerse con Marineros de primera para Cabos de segunda, y con éstos para Cabos de primera, los cuales tendrán acreditada la confianza y buen concepto necesarios para promoverlos a dichos empleos. En consecuencia, para el cuidado de un rancho, que es la primera fracción del equipaje en un buque o dependencia, habrá uno o más Cabos de primera, que se turnarán en el mando por antigüedad, y a falta de ellos, se encargará en igual forma a los Cabos de segunda.
 
 Publicación seriada, sin día exacto: 1912-01-01 a 1912-01-08 (inclusive).

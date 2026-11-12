@@ -23,7 +23,9 @@ I. Requisitos de participación;
 
 II. La aportación gubernamental, señalando en su caso, el monto máximo;
 
-III. Porcentajes de coinversión; IV. Criterios de elegibilidad de los proyectos y de priorización aplicables;
+III. Porcentajes de coinversión;
+
+IV. Criterios de elegibilidad de los proyectos y de priorización aplicables;
 
 V. Lugares y plazos de recepción de proyectos;
 

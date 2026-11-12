@@ -25,7 +25,9 @@ II. La metodología para medir y dar seguimiento, con base en indicadores acepta
 
 III. Los informes de las evaluaciones que someta a su consideración el [Secretario Técnico](articulo-3.md) respecto de las políticas a que se refiere este artículo;
 
-IV. Los mecanismos de suministro, intercambio, sistematización y actualización de la información en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción; V. Las bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
+IV. Los mecanismos de suministro, intercambio, sistematización y actualización de la información en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción;
+
+V. Las bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
 
 VI. El informe anual que contenga los avances y resultados del ejercicio de las funciones y de la aplicación de las políticas y programas en la materia;
 

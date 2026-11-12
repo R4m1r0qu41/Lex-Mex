@@ -23,7 +23,9 @@ I. El acta de nacimiento expedida conforme a lo establecido en las disposiciones
 
 II. El certificado de nacionalidad mexicana, el cual se expedirá a petición de parte, exclusivamente para los efectos de los artículos [16](articulo-16.md) y [17](articulo-17.md) de esta Ley;
 
-III. La carta de naturalización; IV. El pasaporte;
+III. La carta de naturalización;
+
+IV. El pasaporte;
 
 V. La cédula de identidad ciudadana; y
 

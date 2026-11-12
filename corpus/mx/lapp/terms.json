@@ -18,7 +18,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "II",
     "start_char": 159,
-    "end_char": 348,
+    "end_char": 349,
     "basis": "express_definition"
   },
   {
@@ -28,8 +28,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "III",
-    "start_char": 348,
-    "end_char": 622,
+    "start_char": 349,
+    "end_char": 623,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "IV",
-    "start_char": 622,
-    "end_char": 939,
+    "start_char": 623,
+    "end_char": 940,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "V",
-    "start_char": 939,
-    "end_char": 1205,
+    "start_char": 940,
+    "end_char": 1206,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "VI",
-    "start_char": 1205,
-    "end_char": 1346,
+    "start_char": 1206,
+    "end_char": 1347,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "VII",
-    "start_char": 1346,
-    "end_char": 1471,
+    "start_char": 1347,
+    "end_char": 1472,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "VIII",
-    "start_char": 1471,
-    "end_char": 1659,
+    "start_char": 1472,
+    "end_char": 1660,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "IX",
-    "start_char": 1659,
-    "end_char": 1927,
+    "start_char": 1660,
+    "end_char": 1928,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "X",
-    "start_char": 1927,
-    "end_char": 2213,
+    "start_char": 1928,
+    "end_char": 2214,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "XI",
-    "start_char": 2213,
-    "end_char": 2321,
+    "start_char": 2214,
+    "end_char": 2322,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "XII",
-    "start_char": 2321,
-    "end_char": 2382,
+    "start_char": 2322,
+    "end_char": 2383,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "XIII",
-    "start_char": 2382,
-    "end_char": 2438,
+    "start_char": 2383,
+    "end_char": 2439,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "XIV",
-    "start_char": 2438,
-    "end_char": 2704,
+    "start_char": 2439,
+    "end_char": 2705,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "XV",
-    "start_char": 2704,
-    "end_char": 2825,
+    "start_char": 2705,
+    "end_char": 2826,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lapp",
     "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
     "fraction": "XVI",
-    "start_char": 2825,
-    "end_char": 2875,
+    "start_char": 2826,
+    "end_char": 2876,
     "basis": "express_definition"
   }
 ]

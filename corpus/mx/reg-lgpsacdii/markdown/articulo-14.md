@@ -17,4 +17,4 @@ source_sha256: 8b8f88ba9e4a637e562c93a9a3af8c4573069a3516ed2d8b5ec041262af130ef
 
 # Artículo 14
 
-La prestación de servicios para la atención, cuidado y desarrollo integral infantil que deban brindar las [Autoridades Competentes](articulo-3.md), podrá otorgarse por sí mismas o a través de las personas físicas o morales de los sectores social y privado que, previamente hayan obtenido la Autorización señalada en el Capítulo X de este Reglamento.
+La prestación de servicios para la atención, cuidado y desarrollo integral infantil que deban brindar las [Autoridades Competentes](articulo-3.md), podrá otorgarse por sí mismas o a través de las personas físicas o morales de los sectores social y privado que, previamente hayan obtenido la [Autorización](articulo-3.md) señalada en el Capítulo X de este Reglamento.

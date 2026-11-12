@@ -21,7 +21,9 @@ Para los efectos de esta [Ley](articulo-2.md) se entiende por:
 
 I. Consejo Ciudadano: El Consejo Ciudadano del [Sistema](articulo-2.md);
 
-II. Contraloría: La Contraloría Interna del Sistema; III. Presidente: El titular de la Presidencia del Sistema;
+II. Contraloría: La Contraloría Interna del Sistema;
+
+III. Presidente: El titular de la Presidencia del Sistema;
 
 IV. Estatuto Orgánico: El Estatuto Orgánico del Sistema;
 

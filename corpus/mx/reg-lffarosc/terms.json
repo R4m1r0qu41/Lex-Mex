@@ -73,7 +73,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
     "fraction": "VII",
     "start_char": 1009,
-    "end_char": 1219,
+    "end_char": 1220,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
     "fraction": "VIII",
-    "start_char": 1219,
-    "end_char": 1274,
+    "start_char": 1220,
+    "end_char": 1275,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
     "fraction": "IX",
-    "start_char": 1274,
-    "end_char": 1339,
+    "start_char": 1275,
+    "end_char": 1340,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:2",
     "fraction": "X",
-    "start_char": 1339,
-    "end_char": 1536,
+    "start_char": 1340,
+    "end_char": 1537,
     "basis": "express_definition"
   }
 ]

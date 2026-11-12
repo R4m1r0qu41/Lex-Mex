@@ -17,7 +17,9 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 # Artículo 46
 
-La cancelación de la matrícula de una aeronave en el Registro Aeronáutico Mexicano tendrá por consecuencia la pérdida de su nacionalidad mexicana y podrá realizarse en los siguientes casos: I. A solicitud escrita del propietario o legítimo poseedor de la aeronave. No podrá cancelarse el registro de matrícula de una aeronave sujeta a gravamen, sin el consentimiento del acreedor;
+La cancelación de la matrícula de una aeronave en el Registro Aeronáutico Mexicano tendrá por consecuencia la pérdida de su nacionalidad mexicana y podrá realizarse en los siguientes casos:
+
+I. A solicitud escrita del propietario o legítimo poseedor de la aeronave. No podrá cancelarse el registro de matrícula de una aeronave sujeta a gravamen, sin el consentimiento del acreedor;
 
 II. Por mandamiento judicial o de otra autoridad competente;
 

@@ -19,7 +19,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 Tanto el interrogatorio formulado para el desahogo de la prueba de declaración voluntaria de parte propia y de parte contraria deberá ajustarse a las siguientes reglas:
 
-I. Las preguntas se formularán de manera oral, libre y directa sin incorporar valoraciones ni calificaciones, de manera que puedan ser comprendidas con facilidad por quien ha de declarar; II. Estar dirigido a demostrar hechos controvertidos que sean objeto de la litis;
+I. Las preguntas se formularán de manera oral, libre y directa sin incorporar valoraciones ni calificaciones, de manera que puedan ser comprendidas con facilidad por quien ha de declarar;
+
+II. Estar dirigido a demostrar hechos controvertidos que sean objeto de la litis;
 
 III. Estar formulado en términos sencillos, claros y precisos;
 

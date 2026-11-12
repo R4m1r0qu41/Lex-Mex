@@ -21,7 +21,9 @@ Los procedimientos en materia familiar son de orden público; corresponde a las 
 
 En todos los casos la autoridad jurisdiccional deberá:
 
-I. Fundar y motivar sus resoluciones, de modo que estas se deduzcan lógicamente de los hechos, pruebas y leyes que les sirvan de antecedentes; II. Procurar la preservación de los vínculos familiares, sin que ello implique una vulneración a los derechos de las personas involucradas en la controversia; para dichos efectos, también deberá de informar a las partes los beneficios del Procedimiento de Justicia Restaurativa;
+I. Fundar y motivar sus resoluciones, de modo que estas se deduzcan lógicamente de los hechos, pruebas y leyes que les sirvan de antecedentes;
+
+II. Procurar la preservación de los vínculos familiares, sin que ello implique una vulneración a los derechos de las personas involucradas en la controversia; para dichos efectos, también deberá de informar a las partes los beneficios del Procedimiento de Justicia Restaurativa;
 
 III. Informar de los derechos que le asisten a la persona en su primera comparecencia ante la autoridad jurisdiccional;
 

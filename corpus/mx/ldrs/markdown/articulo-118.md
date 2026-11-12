@@ -33,6 +33,8 @@ IV. Fondos para la inversión en infraestructura hidroagrícola y tecnificación
 
 V. Fondos para la consolidación de la propiedad rural y la reconversión productiva;
 
-VI. Inversión para el cumplimiento de regulaciones ambientales y las relativas a la inocuidad de los productos; VII. Apoyos para innovaciones de procesos productivos en el medio rural, tales como cultivos, riegos, cosechas, transformación industrial y sus fases de comercialización; y
+VI. Inversión para el cumplimiento de regulaciones ambientales y las relativas a la inocuidad de los productos;
+
+VII. Apoyos para innovaciones de procesos productivos en el medio rural, tales como cultivos, riegos, cosechas, transformación industrial y sus fases de comercialización; y
 
 VIII. Recursos para acciones colaterales que garanticen la recuperación de las inversiones.

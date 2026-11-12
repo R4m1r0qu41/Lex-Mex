@@ -19,7 +19,9 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 Se registrarán:
 
-I. Las actas constitutivas de las organizaciones ganaderas; II. Los estatutos de las organizaciones ganaderas;
+I. Las actas constitutivas de las organizaciones ganaderas;
+
+II. Los estatutos de las organizaciones ganaderas;
 
 III. El padrón de productores de las organizaciones ganaderas;
 

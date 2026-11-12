@@ -19,21 +19,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:1:term-usage:2005-2015",
+    "id": "urn:lex-mx:federal:statute:lpo:article:1:term-usage:2006-2016",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:1",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2005,
-    "end_char": 2015
+    "start_char": 2006,
+    "end_char": 2016
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:1:term-usage:2161-2168",
+    "id": "urn:lex-mx:federal:statute:lpo:article:1:term-usage:2162-2169",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:1",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:consejo",
     "span": "Consejo",
-    "start_char": 2161,
-    "end_char": 2168
+    "start_char": 2162,
+    "end_char": 2169
   },
   {
     "schema_version": "0.1.0",
@@ -100,21 +100,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:5:term-usage:68-80",
+    "id": "urn:lex-mx:federal:statute:lpo:article:5:term-usage:69-81",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:acreditacion",
     "span": "Acreditación",
-    "start_char": 68,
-    "end_char": 80
+    "start_char": 69,
+    "end_char": 81
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:5:term-usage:114-142",
+    "id": "urn:lex-mx:federal:statute:lpo:article:5:term-usage:115-143",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:5",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la conformidad",
-    "start_char": 114,
-    "end_char": 142
+    "start_char": 115,
+    "end_char": 143
   },
   {
     "schema_version": "0.1.0",
@@ -172,30 +172,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:6:term-usage:2389-2407",
+    "id": "urn:lex-mx:federal:statute:lpo:article:6:term-usage:2390-2408",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:6",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:sistema-de-control",
     "span": "Sistema de control",
-    "start_char": 2389,
-    "end_char": 2407
+    "start_char": 2390,
+    "end_char": 2408
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:6:term-usage:2965-2983",
+    "id": "urn:lex-mx:federal:statute:lpo:article:6:term-usage:2966-2984",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:6",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:sistema-de-control",
     "span": "Sistema de control",
-    "start_char": 2965,
-    "end_char": 2983
+    "start_char": 2966,
+    "end_char": 2984
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:6:term-usage:3029-3039",
+    "id": "urn:lex-mx:federal:statute:lpo:article:6:term-usage:3030-3040",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:6",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3029,
-    "end_char": 3039
+    "start_char": 3030,
+    "end_char": 3040
   },
   {
     "schema_version": "0.1.0",
@@ -784,12 +784,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpo:article:43:term-usage:740-757",
+    "id": "urn:lex-mx:federal:statute:lpo:article:43:term-usage:741-758",
     "provision_id": "urn:lex-mx:federal:statute:lpo:article:43",
     "term_id": "urn:lex-mx:federal:statute:lpo:term:metodos-excluidos",
     "span": "Métodos excluidos",
-    "start_char": 740,
-    "end_char": 757
+    "start_char": 741,
+    "end_char": 758
   },
   {
     "schema_version": "0.1.0",

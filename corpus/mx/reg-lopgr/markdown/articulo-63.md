@@ -29,7 +29,9 @@ IV. Intervenir, conforme a las normas aplicables, en la investigación, resoluci
 
 V. Atender y dar seguimiento a la implementación y cumplimiento de las medidas cautelares que solicite la Comisión Nacional de los Derechos Humanos;
 
-VI. Observar las peticiones de los organismos estatales de derechos humanos respecto de las quejas en que se vean involucrados servidores públicos de la Institución; VII. Dirigir las unidades de protección y promoción de los derechos humanos instaladas en las unidades administrativas de la Institución;
+VI. Observar las peticiones de los organismos estatales de derechos humanos respecto de las quejas en que se vean involucrados servidores públicos de la Institución;
+
+VII. Dirigir las unidades de protección y promoción de los derechos humanos instaladas en las unidades administrativas de la Institución;
 
 VIII. Resolver oportunamente las solicitudes de información e inconformidades que plantee la ciudadanía, en relación con el respeto y observancia de los derechos humanos por parte de los servidores públicos de la Institución, y
 

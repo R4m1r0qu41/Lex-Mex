@@ -100,192 +100,192 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1098-1115",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1099-1116",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 1098,
-    "end_char": 1115
+    "start_char": 1099,
+    "end_char": 1116
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1124-1145",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1125-1146",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
     "span": "Transición Energética",
-    "start_char": 1124,
-    "end_char": 1145
+    "start_char": 1125,
+    "end_char": 1146
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1150-1191",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1151-1192",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:aprovechamiento-sustentable-de-la-energia",
     "span": "Aprovechamiento Sustentable de la Energía",
-    "start_char": 1150,
-    "end_char": 1191
+    "start_char": 1151,
+    "end_char": 1192
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1197-1213",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1198-1214",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-limpias",
     "span": "Energías Limpias",
-    "start_char": 1197,
-    "end_char": 1213
+    "start_char": 1198,
+    "end_char": 1214
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1219-1240",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1220-1241",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
     "span": "Eficiencia Energética",
-    "start_char": 1219,
-    "end_char": 1240
+    "start_char": 1220,
+    "end_char": 1241
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1249-1266",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1250-1267",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 1249,
-    "end_char": 1266
+    "start_char": 1250,
+    "end_char": 1267
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1327-1344",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1328-1345",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 1327,
-    "end_char": 1344
+    "start_char": 1328,
+    "end_char": 1345
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1527-1544",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1528-1545",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 1527,
-    "end_char": 1544
+    "start_char": 1528,
+    "end_char": 1545
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1564-1580",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1565-1581",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-limpias",
     "span": "Energías Limpias",
-    "start_char": 1564,
-    "end_char": 1580
+    "start_char": 1565,
+    "end_char": 1581
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1585-1626",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1586-1627",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:aprovechamiento-sustentable-de-la-energia",
     "span": "Aprovechamiento Sustentable de la Energía",
-    "start_char": 1585,
-    "end_char": 1626
+    "start_char": 1586,
+    "end_char": 1627
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1641-1662",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1642-1663",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
     "span": "Eficiencia Energética",
-    "start_char": 1641,
-    "end_char": 1662
+    "start_char": 1642,
+    "end_char": 1663
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1824-1841",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1825-1842",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 1824,
-    "end_char": 1841
+    "start_char": 1825,
+    "end_char": 1842
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1861-1871",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1862-1872",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1861,
-    "end_char": 1871
+    "start_char": 1862,
+    "end_char": 1872
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1976-1995",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:1977-1996",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:justicia-energetica",
     "span": "Justicia Energética",
-    "start_char": 1976,
-    "end_char": 1995
+    "start_char": 1977,
+    "end_char": 1996
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2053-2071",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2054-2072",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:pobreza-energetica",
     "span": "Pobreza Energética",
-    "start_char": 2053,
-    "end_char": 2071
+    "start_char": 2054,
+    "end_char": 2072
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2306-2327",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2307-2328",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
     "span": "Transición Energética",
-    "start_char": 2306,
-    "end_char": 2327
+    "start_char": 2307,
+    "end_char": 2328
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2333-2374",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2334-2375",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:aprovechamiento-sustentable-de-la-energia",
     "span": "Aprovechamiento Sustentable de la Energía",
-    "start_char": 2333,
-    "end_char": 2374
+    "start_char": 2334,
+    "end_char": 2375
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2619-2660",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2620-2661",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:aprovechamiento-sustentable-de-la-energia",
     "span": "Aprovechamiento Sustentable de la Energía",
-    "start_char": 2619,
-    "end_char": 2660
+    "start_char": 2620,
+    "end_char": 2661
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2872-2875",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:2873-2876",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
-    "start_char": 2872,
-    "end_char": 2875
+    "start_char": 2873,
+    "end_char": 2876
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:3060-3074",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:3061-3075",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-limpias",
     "span": "Energía Limpia",
-    "start_char": 3060,
-    "end_char": 3074
+    "start_char": 3061,
+    "end_char": 3075
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:3095-3104",
+    "id": "urn:lex-mx:federal:statute:lpte:article:2:term-usage:3096-3105",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:2",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 3095,
-    "end_char": 3104
+    "start_char": 3096,
+    "end_char": 3105
   },
   {
     "schema_version": "0.1.0",
@@ -334,129 +334,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:3605-3626",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:3606-3627",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
     "span": "Transición Energética",
-    "start_char": 3605,
-    "end_char": 3626
+    "start_char": 3606,
+    "end_char": 3627
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:4462-4478",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:4463-4479",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-limpias",
     "span": "Energías Limpias",
-    "start_char": 4462,
-    "end_char": 4478
+    "start_char": 4463,
+    "end_char": 4479
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:4644-4655",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:4645-4656",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:estrategia",
     "span": "Estrategias",
-    "start_char": 4644,
-    "end_char": 4655
+    "start_char": 4645,
+    "end_char": 4656
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:4681-4699",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:4682-4700",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:pobreza-energetica",
     "span": "Pobreza Energética",
-    "start_char": 4681,
-    "end_char": 4699
+    "start_char": 4682,
+    "end_char": 4700
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5403-5424",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5405-5426",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
     "span": "Transición Energética",
-    "start_char": 5403,
-    "end_char": 5424
+    "start_char": 5405,
+    "end_char": 5426
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5430-5471",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5432-5473",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:aprovechamiento-sustentable-de-la-energia",
     "span": "Aprovechamiento Sustentable de la Energía",
-    "start_char": 5430,
-    "end_char": 5471
+    "start_char": 5432,
+    "end_char": 5473
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5792-5795",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:5794-5797",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
-    "start_char": 5792,
-    "end_char": 5795
+    "start_char": 5794,
+    "end_char": 5797
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6150-6160",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6152-6162",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6150,
-    "end_char": 6160
+    "start_char": 6152,
+    "end_char": 6162
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6431-6441",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6433-6443",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6431,
-    "end_char": 6441
+    "start_char": 6433,
+    "end_char": 6443
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6658-6668",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6660-6670",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6658,
-    "end_char": 6668
+    "start_char": 6660,
+    "end_char": 6670
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6789-6805",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6791-6807",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-fosiles",
     "span": "Energías Fósiles",
-    "start_char": 6789,
-    "end_char": 6805
+    "start_char": 6791,
+    "end_char": 6807
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6849-6868",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6851-6870",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-renovables",
     "span": "Energías Renovables",
-    "start_char": 6849,
-    "end_char": 6868
+    "start_char": 6851,
+    "end_char": 6870
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6880-6889",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:6882-6891",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 6880,
-    "end_char": 6889
+    "start_char": 6882,
+    "end_char": 6891
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:7006-7012",
+    "id": "urn:lex-mx:federal:statute:lpte:article:3:term-usage:7008-7014",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:3",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:conuee",
     "span": "CONUEE",
-    "start_char": 7006,
-    "end_char": 7012
+    "start_char": 7008,
+    "end_char": 7014
   },
   {
     "schema_version": "0.1.0",
@@ -640,417 +640,417 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:301-311",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:302-312",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:estrategia",
     "span": "Estrategia",
-    "start_char": 301,
-    "end_char": 311
+    "start_char": 302,
+    "end_char": 312
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:653-663",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:654-664",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:estrategia",
     "span": "Estrategia",
-    "start_char": 653,
-    "end_char": 663
+    "start_char": 654,
+    "end_char": 664
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:744-754",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:745-755",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:reglamento",
     "span": "Reglamento",
-    "start_char": 744,
-    "end_char": 754
+    "start_char": 745,
+    "end_char": 755
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:770-773",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:771-774",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
-    "start_char": 770,
-    "end_char": 773
+    "start_char": 771,
+    "end_char": 774
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:924-927",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:925-928",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
-    "start_char": 924,
-    "end_char": 927
+    "start_char": 925,
+    "end_char": 928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:946-956",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:947-957",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:estrategia",
     "span": "Estrategia",
-    "start_char": 946,
-    "end_char": 956
+    "start_char": 947,
+    "end_char": 957
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:1104-1123",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:1105-1124",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-renovables",
     "span": "Energías Renovables",
-    "start_char": 1104,
-    "end_char": 1123
+    "start_char": 1105,
+    "end_char": 1124
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:1248-1267",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:1249-1268",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-renovables",
     "span": "Energías Renovables",
-    "start_char": 1248,
-    "end_char": 1267
+    "start_char": 1249,
+    "end_char": 1268
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:1333-1352",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:1334-1353",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-renovables",
     "span": "Energías Renovables",
-    "start_char": 1333,
-    "end_char": 1352
+    "start_char": 1334,
+    "end_char": 1353
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:1786-1789",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:1787-1790",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
-    "start_char": 1786,
-    "end_char": 1789
+    "start_char": 1787,
+    "end_char": 1790
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2054-2075",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2055-2076",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
     "span": "Eficiencia Energética",
-    "start_char": 2054,
-    "end_char": 2075
+    "start_char": 2055,
+    "end_char": 2076
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2077-2118",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2078-2119",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:aprovechamiento-sustentable-de-la-energia",
     "span": "Aprovechamiento Sustentable de la Energía",
-    "start_char": 2077,
-    "end_char": 2118
+    "start_char": 2078,
+    "end_char": 2119
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2160-2169",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2161-2170",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 2160,
-    "end_char": 2169
+    "start_char": 2161,
+    "end_char": 2170
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2172-2188",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2173-2189",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-limpias",
     "span": "Energías Limpias",
-    "start_char": 2172,
-    "end_char": 2188
+    "start_char": 2173,
+    "end_char": 2189
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2256-2273",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2257-2274",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 2256,
-    "end_char": 2273
+    "start_char": 2257,
+    "end_char": 2274
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2323-2344",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2324-2345",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
     "span": "Transición Energética",
-    "start_char": 2323,
-    "end_char": 2344
+    "start_char": 2324,
+    "end_char": 2345
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2350-2379",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2351-2380",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:generacion-limpia-distribuida",
     "span": "Generación Limpia Distribuida",
-    "start_char": 2350,
-    "end_char": 2379
+    "start_char": 2351,
+    "end_char": 2380
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2551-2568",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2552-2569",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 2551,
-    "end_char": 2568
+    "start_char": 2552,
+    "end_char": 2569
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2588-2596",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2589-2597",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:platease",
     "span": "PLATEASE",
-    "start_char": 2588,
-    "end_char": 2596
+    "start_char": 2589,
+    "end_char": 2597
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2637-2647",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2638-2648",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:estrategia",
     "span": "Estrategia",
-    "start_char": 2637,
-    "end_char": 2647
+    "start_char": 2638,
+    "end_char": 2648
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2687-2697",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2688-2698",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2687,
-    "end_char": 2697
+    "start_char": 2688,
+    "end_char": 2698
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2719-2725",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2720-2726",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:conuee",
     "span": "CONUEE",
-    "start_char": 2719,
-    "end_char": 2725
+    "start_char": 2720,
+    "end_char": 2726
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2873-2915",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2874-2916",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sistema-nacional-de-informacion-energetica",
     "span": "Sistema Nacional de Información Energética",
-    "start_char": 2873,
-    "end_char": 2915
+    "start_char": 2874,
+    "end_char": 2916
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2933-2940",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:2934-2941",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:consejo",
     "span": "Consejo",
-    "start_char": 2933,
-    "end_char": 2940
+    "start_char": 2934,
+    "end_char": 2941
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3258-3300",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3259-3301",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sistema-nacional-de-informacion-energetica",
     "span": "Sistema Nacional de Información Energética",
-    "start_char": 3258,
-    "end_char": 3300
+    "start_char": 3259,
+    "end_char": 3301
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3385-3427",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3386-3428",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sistema-nacional-de-informacion-energetica",
     "span": "Sistema Nacional de Información Energética",
-    "start_char": 3385,
-    "end_char": 3427
+    "start_char": 3386,
+    "end_char": 3428
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3536-3539",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3537-3540",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
-    "start_char": 3536,
-    "end_char": 3539
+    "start_char": 3537,
+    "end_char": 3540
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3584-3594",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3585-3595",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:reglamento",
     "span": "Reglamento",
-    "start_char": 3584,
-    "end_char": 3594
+    "start_char": 3585,
+    "end_char": 3595
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3847-3856",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3848-3857",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 3847,
-    "end_char": 3856
+    "start_char": 3848,
+    "end_char": 3857
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3992-4001",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:3993-4002",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 3992,
-    "end_char": 4001
+    "start_char": 3993,
+    "end_char": 4002
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4084-4125",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4085-4126",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:aprovechamiento-sustentable-de-la-energia",
     "span": "Aprovechamiento Sustentable de la Energía",
-    "start_char": 4084,
-    "end_char": 4125
+    "start_char": 4085,
+    "end_char": 4126
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4380-4394",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4381-4395",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:externalidades",
     "span": "Externalidades",
-    "start_char": 4380,
-    "end_char": 4394
+    "start_char": 4381,
+    "end_char": 4395
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4596-4617",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4597-4618",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
     "span": "Eficiencia Energética",
-    "start_char": 4596,
-    "end_char": 4617
+    "start_char": 4597,
+    "end_char": 4618
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4662-4681",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4663-4682",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:justicia-energetica",
     "span": "Justicia Energética",
-    "start_char": 4662,
-    "end_char": 4681
+    "start_char": 4663,
+    "end_char": 4682
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4697-4715",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4698-4716",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:pobreza-energetica",
     "span": "Pobreza Energética",
-    "start_char": 4697,
-    "end_char": 4715
+    "start_char": 4698,
+    "end_char": 4716
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4799-4808",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4800-4809",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 4799,
-    "end_char": 4808
+    "start_char": 4800,
+    "end_char": 4809
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4813-4830",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4814-4831",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 4813,
-    "end_char": 4830
+    "start_char": 4814,
+    "end_char": 4831
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4875-4885",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:4876-4886",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4875,
-    "end_char": 4885
+    "start_char": 4876,
+    "end_char": 4886
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5082-5103",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5083-5104",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
     "span": "Transición Energética",
-    "start_char": 5082,
-    "end_char": 5103
+    "start_char": 5083,
+    "end_char": 5104
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5106-5147",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5107-5148",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:aprovechamiento-sustentable-de-la-energia",
     "span": "Aprovechamiento Sustentable de la Energía",
-    "start_char": 5106,
-    "end_char": 5147
+    "start_char": 5107,
+    "end_char": 5148
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5218-5221",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5219-5222",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
-    "start_char": 5218,
-    "end_char": 5221
+    "start_char": 5219,
+    "end_char": 5222
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5397-5414",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5398-5415",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 5397,
-    "end_char": 5414
+    "start_char": 5398,
+    "end_char": 5415
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5537-5554",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5538-5555",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 5537,
-    "end_char": 5554
+    "start_char": 5538,
+    "end_char": 5555
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5658-5668",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5659-5669",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:estrategia",
     "span": "Estrategia",
-    "start_char": 5658,
-    "end_char": 5668
+    "start_char": 5659,
+    "end_char": 5669
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5722-5739",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5723-5740",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 5722,
-    "end_char": 5739
+    "start_char": 5723,
+    "end_char": 5740
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5801-5804",
+    "id": "urn:lex-mx:federal:statute:lpte:article:8:term-usage:5802-5805",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:8",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
-    "start_char": 5801,
-    "end_char": 5804
+    "start_char": 5802,
+    "end_char": 5805
   },
   {
     "schema_version": "0.1.0",
@@ -1135,183 +1135,183 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:1865-1875",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:1866-1876",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1865,
-    "end_char": 1875
+    "start_char": 1866,
+    "end_char": 1876
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:1917-1934",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:1918-1935",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 1917,
-    "end_char": 1934
+    "start_char": 1918,
+    "end_char": 1935
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2053-2069",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2054-2070",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-limpias",
     "span": "Energías Limpias",
-    "start_char": 2053,
-    "end_char": 2069
+    "start_char": 2054,
+    "end_char": 2070
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2124-2134",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2125-2135",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2124,
-    "end_char": 2134
+    "start_char": 2125,
+    "end_char": 2135
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2164-2174",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2165-2175",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2164,
-    "end_char": 2174
+    "start_char": 2165,
+    "end_char": 2175
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2204-2213",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2205-2214",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 2204,
-    "end_char": 2213
+    "start_char": 2205,
+    "end_char": 2214
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2252-2269",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2253-2270",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 2252,
-    "end_char": 2269
+    "start_char": 2253,
+    "end_char": 2270
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2328-2337",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2329-2338",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 2328,
-    "end_char": 2337
+    "start_char": 2329,
+    "end_char": 2338
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2434-2450",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2435-2451",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-limpias",
     "span": "Energías Limpias",
-    "start_char": 2434,
-    "end_char": 2450
+    "start_char": 2435,
+    "end_char": 2451
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2591-2601",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2592-2602",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2591,
-    "end_char": 2601
+    "start_char": 2592,
+    "end_char": 2602
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2620-2629",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2621-2630",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 2620,
-    "end_char": 2629
+    "start_char": 2621,
+    "end_char": 2630
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2693-2706",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2694-2707",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:contaminantes",
     "span": "Contaminantes",
-    "start_char": 2693,
-    "end_char": 2706
+    "start_char": 2694,
+    "end_char": 2707
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2761-2778",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2762-2779",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 2761,
-    "end_char": 2778
+    "start_char": 2762,
+    "end_char": 2779
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:2999-3009",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3000-3010",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2999,
-    "end_char": 3009
+    "start_char": 3000,
+    "end_char": 3010
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3065-3074",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3066-3075",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 3065,
-    "end_char": 3074
+    "start_char": 3066,
+    "end_char": 3075
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3075-3088",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3076-3089",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:contaminantes",
     "span": "Contaminantes",
-    "start_char": 3075,
-    "end_char": 3088
+    "start_char": 3076,
+    "end_char": 3089
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3184-3194",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3185-3195",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3184,
-    "end_char": 3194
+    "start_char": 3185,
+    "end_char": 3195
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3243-3252",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3244-3253",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:emisiones",
     "span": "Emisiones",
-    "start_char": 3243,
-    "end_char": 3252
+    "start_char": 3244,
+    "end_char": 3253
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3255-3276",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3256-3277",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
     "span": "Eficiencia Energética",
-    "start_char": 3255,
-    "end_char": 3276
+    "start_char": 3256,
+    "end_char": 3277
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3291-3308",
+    "id": "urn:lex-mx:federal:statute:lpte:article:9:term-usage:3292-3309",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:9",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 3291,
-    "end_char": 3308
+    "start_char": 3292,
+    "end_char": 3309
   },
   {
     "schema_version": "0.1.0",
@@ -1765,48 +1765,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:242-271",
+    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:243-272",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:14",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:generacion-limpia-distribuida",
     "span": "Generación Limpia Distribuida",
-    "start_char": 242,
-    "end_char": 271
+    "start_char": 243,
+    "end_char": 272
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:468-478",
+    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:469-479",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:14",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 468,
-    "end_char": 478
+    "start_char": 469,
+    "end_char": 479
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:594-604",
+    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:595-605",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:14",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 594,
-    "end_char": 604
+    "start_char": 595,
+    "end_char": 605
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:664-681",
+    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:665-682",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:14",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 664,
-    "end_char": 681
+    "start_char": 665,
+    "end_char": 682
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:754-757",
+    "id": "urn:lex-mx:federal:statute:lpte:article:14:term-usage:755-758",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:14",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:ley",
     "span": "Ley",
-    "start_char": 754,
-    "end_char": 757
+    "start_char": 755,
+    "end_char": 758
   },
   {
     "schema_version": "0.1.0",
@@ -2539,75 +2539,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1061-1080",
+    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1062-1081",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:29",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-renovables",
     "span": "Energías Renovables",
-    "start_char": 1061,
-    "end_char": 1080
+    "start_char": 1062,
+    "end_char": 1081
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1089-1105",
+    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1090-1106",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:29",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:energias-limpias",
     "span": "Energías Limpias",
-    "start_char": 1089,
-    "end_char": 1105
+    "start_char": 1090,
+    "end_char": 1106
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1107-1148",
+    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1108-1149",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:29",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:aprovechamiento-sustentable-de-la-energia",
     "span": "Aprovechamiento Sustentable de la Energía",
-    "start_char": 1107,
-    "end_char": 1148
+    "start_char": 1108,
+    "end_char": 1149
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1150-1171",
+    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1151-1172",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:29",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
     "span": "Eficiencia Energética",
-    "start_char": 1150,
-    "end_char": 1171
+    "start_char": 1151,
+    "end_char": 1172
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1190-1208",
+    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1191-1209",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:29",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:pobreza-energetica",
     "span": "Pobreza Energética",
-    "start_char": 1190,
-    "end_char": 1208
+    "start_char": 1191,
+    "end_char": 1209
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1686-1707",
+    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1687-1708",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:29",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
     "span": "Eficiencia Energética",
-    "start_char": 1686,
-    "end_char": 1707
+    "start_char": 1687,
+    "end_char": 1708
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1724-1745",
+    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1725-1746",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:29",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
     "span": "Eficiencia Energética",
-    "start_char": 1724,
-    "end_char": 1745
+    "start_char": 1725,
+    "end_char": 1746
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1860-1877",
+    "id": "urn:lex-mx:federal:statute:lpte:article:29:term-usage:1861-1878",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:29",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 1860,
-    "end_char": 1877
+    "start_char": 1861,
+    "end_char": 1878
   },
   {
     "schema_version": "0.1.0",
@@ -2791,102 +2791,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:572-582",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:573-583",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:estrategia",
     "span": "Estrategia",
-    "start_char": 572,
-    "end_char": 582
+    "start_char": 573,
+    "end_char": 583
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:679-687",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:680-688",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:platease",
     "span": "PLATEASE",
-    "start_char": 679,
-    "end_char": 687
+    "start_char": 680,
+    "end_char": 688
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1182-1203",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1183-1204",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:eficiencia-energetica",
     "span": "Eficiencia Energética",
-    "start_char": 1182,
-    "end_char": 1203
+    "start_char": 1183,
+    "end_char": 1204
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1222-1243",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1223-1244",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:transicion-energetica",
     "span": "Transición Energética",
-    "start_char": 1222,
-    "end_char": 1243
+    "start_char": 1223,
+    "end_char": 1244
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1339-1349",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1340-1350",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1339,
-    "end_char": 1349
+    "start_char": 1340,
+    "end_char": 1350
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1548-1555",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1549-1556",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:pladese",
     "span": "PLADESE",
-    "start_char": 1548,
-    "end_char": 1555
+    "start_char": 1549,
+    "end_char": 1556
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1703-1720",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1704-1721",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:sector-energetico",
     "span": "Sector Energético",
-    "start_char": 1703,
-    "end_char": 1720
+    "start_char": 1704,
+    "end_char": 1721
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1790-1797",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1791-1798",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:pladese",
     "span": "PLADESE",
-    "start_char": 1790,
-    "end_char": 1797
+    "start_char": 1791,
+    "end_char": 1798
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1803-1813",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1804-1814",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:estrategia",
     "span": "Estrategia",
-    "start_char": 1803,
-    "end_char": 1813
+    "start_char": 1804,
+    "end_char": 1814
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1870-1880",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1871-1881",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:estrategia",
     "span": "Estrategia",
-    "start_char": 1870,
-    "end_char": 1880
+    "start_char": 1871,
+    "end_char": 1881
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1886-1893",
+    "id": "urn:lex-mx:federal:statute:lpte:article:32:term-usage:1887-1894",
     "provision_id": "urn:lex-mx:federal:statute:lpte:article:32",
     "term_id": "urn:lex-mx:federal:statute:lpte:term:pladese",
     "span": "PLADESE",
-    "start_char": 1886,
-    "end_char": 1893
+    "start_char": 1887,
+    "end_char": 1894
   },
   {
     "schema_version": "0.1.0",

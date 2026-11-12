@@ -25,6 +25,8 @@ II. La custodia y aprovechamiento de las zonas de valor ambiental no urbanizable
 
 III. La homologación de terminología para la jerarquización de espacios públicos y equipamientos en los planes o programas de Desarrollo Urbano;
 
-IV. La homologación de contenidos, metodologías y expresión gráfica para la elaboración de los planes y programas en la materia, y los criterios para su actualización con una visión de largo plazo, y V. La prevención y atención de contingencias en los Centros de Población para el fortalecimiento de la Resiliencia.
+IV. La homologación de contenidos, metodologías y expresión gráfica para la elaboración de los planes y programas en la materia, y los criterios para su actualización con una visión de largo plazo, y
+
+V. La prevención y atención de contingencias en los Centros de Población para el fortalecimiento de la Resiliencia.
 
 Mismas que deberán ser observadas por los tres órdenes de gobierno.

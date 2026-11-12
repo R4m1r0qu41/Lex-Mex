@@ -27,7 +27,9 @@ III. Dirigir acciones en materia de inteligencia para la prevención y, de confo
 
 IV. Instrumentar, operar y resguardar las bases de datos de información de la [Secretaría](articulo-2.md), para la adopción de estrategias en materia de seguridad pública;
 
-V. Realizar las acciones necesarias que permitan garantizar el suministro, intercambio, sistematización, consulta, análisis y actualización de la información que diariamente se genere sobre seguridad pública para la toma de decisiones del Gobierno Federal; VI. Consolidar estrategias y mantener vínculos de Inteligencia y de cooperación en materia de información sobre seguridad pública con organismos nacionales e internacionales;
+V. Realizar las acciones necesarias que permitan garantizar el suministro, intercambio, sistematización, consulta, análisis y actualización de la información que diariamente se genere sobre seguridad pública para la toma de decisiones del Gobierno Federal;
+
+VI. Consolidar estrategias y mantener vínculos de Inteligencia y de cooperación en materia de información sobre seguridad pública con organismos nacionales e internacionales;
 
 VII. Desarrollar acciones sistematizadas para la planeación, recopilación, análisis y aprovechamiento de la información para la prevención y combate a los delitos, bajo los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Federal;
 
@@ -55,7 +57,9 @@ XVIII. Actualizar los sistemas de información estadística y de análisis neces
 
 XIX. Proponer investigaciones a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información a las Divisiones;
 
-XX. Diseñar y establecer, en el ámbito de su competencia, los procedimientos de intercambio de información policial, entre la Institución y las agencias policiales extranjeras, con base en los instrumentos internacionales cuyos datos sean materia de investigación y persecución de delitos ordenados por las autoridades competentes; XXI. Establecer, en el ámbito de su competencia, mecanismos de comunicación con las agencias policiales extranjeras representadas ante la Institución a fin de privilegiar las tareas de cooperación internacional en materia de intercambio de información policial;
+XX. Diseñar y establecer, en el ámbito de su competencia, los procedimientos de intercambio de información policial, entre la Institución y las agencias policiales extranjeras, con base en los instrumentos internacionales cuyos datos sean materia de investigación y persecución de delitos ordenados por las autoridades competentes;
+
+XXI. Establecer, en el ámbito de su competencia, mecanismos de comunicación con las agencias policiales extranjeras representadas ante la Institución a fin de privilegiar las tareas de cooperación internacional en materia de intercambio de información policial;
 
 XXII. Consolidar la debida integración de fichas criminales de personas, grupos y organizaciones criminales de todo el país;
 
@@ -83,7 +87,9 @@ XXXIII. Determinar métodos de comunicación y redes de información policial pa
 
 XXXIV. Implementar métodos, técnicas y procedimientos para la identificación, recopilación, clasificación y análisis de datos, imágenes y demás elementos de información;
 
-XXXV. Determinar las vigilancias, seguimientos y procedimientos técnicos, empleando tecnología de punta, para la recopilación de información relacionada con personas, grupos delictivos y estructuras de la delincuencia organizada; XXXVI. Implementar, previo acuerdo del Comisionado General y del Secretario, operaciones encubiertas y de usuarios simulados para la prevención del delito, en términos de la normatividad aplicable;
+XXXV. Determinar las vigilancias, seguimientos y procedimientos técnicos, empleando tecnología de punta, para la recopilación de información relacionada con personas, grupos delictivos y estructuras de la delincuencia organizada;
+
+XXXVI. Implementar, previo acuerdo del Comisionado General y del Secretario, operaciones encubiertas y de usuarios simulados para la prevención del delito, en términos de la normatividad aplicable;
 
 XXXVII. Establecer la coordinación y realización de acciones policiales, operaciones encubiertas y de usuarios simulados, que aseguren la obtención, el análisis y explotación de información de inteligencia, para ubicar, identificar, disuadir, prevenir y, en el ámbito de su competencia, combatir la comisión de los delitos;
 
@@ -105,7 +111,9 @@ XLIV. Coadyuvar en la coordinación de las autoridades competentes con los organ
 
 XLV. Proponer al Comisionado General el otorgamiento de gratificaciones conforme al sistema autorizado, por llevar a cabo acciones de inteligencia y combate a delitos en el ámbito de su competencia;
 
-XLVI. Tomar las medidas preventivas que señala este [Reglamento](articulo-2.md) para salvaguardar la seguridad del personal que se encuentre bajo su mando, cuando se ponga en peligro su integridad física o comprometa los resultados de una investigación; XLVII. Coordinar y organizar agregadurías y enlaces de la Policía Federal acreditados en el extranjero, en términos de las instrucciones del Secretario, del Comisionado General, las disposiciones legales aplicables y la disponibilidad presupuestaria;
+XLVI. Tomar las medidas preventivas que señala este [Reglamento](articulo-2.md) para salvaguardar la seguridad del personal que se encuentre bajo su mando, cuando se ponga en peligro su integridad física o comprometa los resultados de una investigación;
+
+XLVII. Coordinar y organizar agregadurías y enlaces de la Policía Federal acreditados en el extranjero, en términos de las instrucciones del Secretario, del Comisionado General, las disposiciones legales aplicables y la disponibilidad presupuestaria;
 
 XLVIII. Procesar información de instituciones policiales extranjeras que permita la ubicación y aseguramiento en el territorio nacional de personas que cuenten con órdenes de detención, con fines de extradición;
 
@@ -131,6 +139,8 @@ LVIII. Colaborar con las instituciones policiales de la Federación, de los Esta
 
 LIX. Supervisar, en el ámbito de su competencia, la actualización de los bancos de datos relacionados con la información criminal policial de carácter internacional;
 
-LX. Realizar acciones para la prevención y combate de los delitos, en términos de las disposiciones aplicables, y LXI. Las demás que le confieran este Reglamento, otras disposiciones legales aplicables o aquéllas que, conforme a tales disposiciones, le encomiende el inmediato superior de quien dependa.
+LX. Realizar acciones para la prevención y combate de los delitos, en términos de las disposiciones aplicables, y
+
+LXI. Las demás que le confieran este Reglamento, otras disposiciones legales aplicables o aquéllas que, conforme a tales disposiciones, le encomiende el inmediato superior de quien dependa.
 
 Para los efectos de la relación con la Organización Internacional de Policía Criminal, esta División se deberá coordinar, en su carácter de Oficina de Enlace Nacional Interpol-México, con la autoridad competente que tenga a su cargo la Oficina Central Nacional de Interpol.

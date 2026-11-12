@@ -21,4 +21,6 @@ En el supuesto previsto por el artículo [40](../../lmin/markdown/articulo-40.md
 
 I. La Secretaría notificará al titular de la concesión minera de que se trate, las razones que dan lugar a la nulidad correspondiente, a fin de que dicho titular, en un plazo de sesenta días hábiles, contado a partir de la fecha de recepción del oficio de notificación, manifieste lo que a su derecho convenga y ofrezca las pruebas que estime pertinentes;
 
-II. Recibida la contestación o concluido el plazo señalado en la fracción anterior, la Secretaría procederá al desahogo de las pruebas ofrecidas en un plazo de quince días hábiles prorrogables a treinta en razón de la naturaleza de las mismas, y III. La Secretaría, con base en las constancias existentes y el resultado del desahogo de las pruebas ofrecidas, dentro de los veintiún días hábiles siguientes a dicho desahogo, emitirá la resolución que corresponda y, de ser procedente, ordenará la nulidad del título de que se trate.
+II. Recibida la contestación o concluido el plazo señalado en la fracción anterior, la Secretaría procederá al desahogo de las pruebas ofrecidas en un plazo de quince días hábiles prorrogables a treinta en razón de la naturaleza de las mismas, y
+
+III. La Secretaría, con base en las constancias existentes y el resultado del desahogo de las pruebas ofrecidas, dentro de los veintiún días hábiles siguientes a dicho desahogo, emitirá la resolución que corresponda y, de ser procedente, ordenará la nulidad del título de que se trate.

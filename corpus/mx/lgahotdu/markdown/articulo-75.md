@@ -35,7 +35,9 @@ VII. Los instrumentos en los que se autorice la ocupación del Espacio Público 
 
 VIII. Se promoverá la adecuación de los reglamentos municipales que garanticen comodidad y seguridad en el Espacio Público, sobre todo para los peatones, con una equidad entre los espacios edificables y los no edificables;
 
-IX. Se deberán definir los instrumentos, públicos o privados, que promuevan la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para sus habitantes; X. Se establecerán los lineamientos para que el diseño y traza de vialidades en los [Centros de Población](articulo-3.md) asegure su continuidad, procurando una cantidad mínima de intersecciones, que fomente la [Movilidad](articulo-3.md), de acuerdo a las características topográficas y culturales de cada región;
+IX. Se deberán definir los instrumentos, públicos o privados, que promuevan la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para sus habitantes;
+
+X. Se establecerán los lineamientos para que el diseño y traza de vialidades en los [Centros de Población](articulo-3.md) asegure su continuidad, procurando una cantidad mínima de intersecciones, que fomente la [Movilidad](articulo-3.md), de acuerdo a las características topográficas y culturales de cada región;
 
 XI. Se deberá asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente, la calidad formal e imagen urbana, la [Conservación](articulo-3.md) de los monumentos y el paisaje y mobiliario urbano, y
 

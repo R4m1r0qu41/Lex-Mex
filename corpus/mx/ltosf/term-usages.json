@@ -739,345 +739,345 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:669-679",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:670-680",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 669,
-    "end_char": 679
+    "start_char": 670,
+    "end_char": 680
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:702-732",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:703-733",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 702,
-    "end_char": 732
+    "start_char": 703,
+    "end_char": 733
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:762-770",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:763-771",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Clientes",
-    "start_char": 762,
-    "end_char": 770
+    "start_char": 763,
+    "end_char": 771
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1194-1215",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1195-1216",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cuotas-de-intercambio",
     "span": "Cuotas de Intercambio",
-    "start_char": 1194,
-    "end_char": 1215
+    "start_char": 1195,
+    "end_char": 1216
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1217-1227",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1218-1228",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 1217,
-    "end_char": 1227
+    "start_char": 1218,
+    "end_char": 1228
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1282-1312",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1283-1313",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 1282,
-    "end_char": 1312
+    "start_char": 1283,
+    "end_char": 1313
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1385-1407",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1386-1408",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:participante-en-redes",
     "span": "Participantes en Redes",
-    "start_char": 1385,
-    "end_char": 1407
+    "start_char": 1386,
+    "end_char": 1408
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1612-1642",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1613-1643",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 1612,
-    "end_char": 1642
+    "start_char": 1613,
+    "end_char": 1643
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1668-1689",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1669-1690",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cuotas-de-intercambio",
     "span": "Cuotas de Intercambio",
-    "start_char": 1668,
-    "end_char": 1689
+    "start_char": 1669,
+    "end_char": 1690
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1692-1702",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1693-1703",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 1692,
-    "end_char": 1702
+    "start_char": 1693,
+    "end_char": 1703
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1938-1960",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:1939-1961",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:participante-en-redes",
     "span": "Participantes en Redes",
-    "start_char": 1938,
-    "end_char": 1960
+    "start_char": 1939,
+    "end_char": 1961
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2327-2348",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2328-2349",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cuotas-de-intercambio",
     "span": "Cuotas de Intercambio",
-    "start_char": 2327,
-    "end_char": 2348
+    "start_char": 2328,
+    "end_char": 2349
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2452-2473",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2453-2474",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cuotas-de-intercambio",
     "span": "Cuotas de Intercambio",
-    "start_char": 2452,
-    "end_char": 2473
+    "start_char": 2453,
+    "end_char": 2474
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2475-2485",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2476-2486",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 2475,
-    "end_char": 2485
+    "start_char": 2476,
+    "end_char": 2486
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2540-2570",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2541-2571",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 2540,
-    "end_char": 2570
+    "start_char": 2541,
+    "end_char": 2571
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2716-2746",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2717-2747",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 2716,
-    "end_char": 2746
+    "start_char": 2717,
+    "end_char": 2747
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2846-2868",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2847-2869",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:participante-en-redes",
     "span": "Participantes en Redes",
-    "start_char": 2846,
-    "end_char": 2868
+    "start_char": 2847,
+    "end_char": 2869
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2927-2957",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2928-2958",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 2927,
-    "end_char": 2957
+    "start_char": 2928,
+    "end_char": 2958
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2959-2968",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2960-2969",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:entidades",
     "span": "Entidades",
-    "start_char": 2959,
-    "end_char": 2968
+    "start_char": 2960,
+    "end_char": 2969
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2984-2993",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:2985-2994",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:entidades",
     "span": "Entidades",
-    "start_char": 2984,
-    "end_char": 2993
+    "start_char": 2985,
+    "end_char": 2994
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:3553-3583",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:3554-3584",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 3553,
-    "end_char": 3583
+    "start_char": 3554,
+    "end_char": 3584
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4399-4420",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4400-4421",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cuotas-de-intercambio",
     "span": "Cuotas de Intercambio",
-    "start_char": 4399,
-    "end_char": 4420
+    "start_char": 4400,
+    "end_char": 4421
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4475-4485",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4476-4486",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 4475,
-    "end_char": 4485
+    "start_char": 4476,
+    "end_char": 4486
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4512-4520",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4513-4521",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Clientes",
-    "start_char": 4512,
-    "end_char": 4520
+    "start_char": 4513,
+    "end_char": 4521
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4767-4776",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4768-4777",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:entidades",
     "span": "Entidades",
-    "start_char": 4767,
-    "end_char": 4776
+    "start_char": 4768,
+    "end_char": 4777
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4851-4873",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4852-4874",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:camara-de-compensacion",
     "span": "Cámara de Compensación",
-    "start_char": 4851,
-    "end_char": 4873
+    "start_char": 4852,
+    "end_char": 4874
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4957-4987",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:4958-4988",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 4957,
-    "end_char": 4987
+    "start_char": 4958,
+    "end_char": 4988
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5344-5374",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5345-5375",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 5344,
-    "end_char": 5374
+    "start_char": 5345,
+    "end_char": 5375
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5427-5457",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5428-5458",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 5427,
-    "end_char": 5457
+    "start_char": 5428,
+    "end_char": 5458
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5535-5544",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5536-5545",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:entidades",
     "span": "Entidades",
-    "start_char": 5535,
-    "end_char": 5544
+    "start_char": 5536,
+    "end_char": 5545
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5648-5678",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5649-5679",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 5648,
-    "end_char": 5678
+    "start_char": 5649,
+    "end_char": 5679
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5843-5873",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:5844-5874",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:redes-de-medios-de-disposicion",
     "span": "Redes de Medios de Disposición",
-    "start_char": 5843,
-    "end_char": 5873
+    "start_char": 5844,
+    "end_char": 5874
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:6555-6575",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:6556-6576",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:medio-de-disposicion",
     "span": "Medio de Disposición",
-    "start_char": 6555,
-    "end_char": 6575
+    "start_char": 6556,
+    "end_char": 6576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:6610-6617",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:6611-6618",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:entidades",
     "span": "Entidad",
-    "start_char": 6610,
-    "end_char": 6617
+    "start_char": 6611,
+    "end_char": 6618
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:7369-7379",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:7370-7380",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 7369,
-    "end_char": 7379
+    "start_char": 7370,
+    "end_char": 7380
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:7853-7874",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:7854-7875",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cuotas-de-intercambio",
     "span": "Cuotas de Intercambio",
-    "start_char": 7853,
-    "end_char": 7874
+    "start_char": 7854,
+    "end_char": 7875
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:7877-7887",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:7878-7888",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisiones",
-    "start_char": 7877,
-    "end_char": 7887
+    "start_char": 7878,
+    "end_char": 7888
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:8213-8221",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3:term-usage:8214-8222",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:4-bis-3",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Clientes",
-    "start_char": 8213,
-    "end_char": 8221
+    "start_char": 8214,
+    "end_char": 8222
   },
   {
     "schema_version": "0.1.0",
@@ -2773,48 +2773,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:4026-4033",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:4027-4034",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:23",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Cliente",
-    "start_char": 4026,
-    "end_char": 4033
+    "start_char": 4027,
+    "end_char": 4034
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:4143-4151",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:4144-4152",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:23",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 4143,
-    "end_char": 4151
+    "start_char": 4144,
+    "end_char": 4152
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:4368-4375",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:4369-4376",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:23",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Cliente",
-    "start_char": 4368,
-    "end_char": 4375
+    "start_char": 4369,
+    "end_char": 4376
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:4774-4782",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:4775-4783",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:23",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Clientes",
-    "start_char": 4774,
-    "end_char": 4782
+    "start_char": 4775,
+    "end_char": 4783
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:5208-5215",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:23:term-usage:5209-5216",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:23",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Cliente",
-    "start_char": 5208,
-    "end_char": 5215
+    "start_char": 5209,
+    "end_char": 5216
   },
   {
     "schema_version": "0.1.0",
@@ -3205,30 +3205,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:42:term-usage:896-904",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:42:term-usage:897-905",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:42",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Clientes",
-    "start_char": 896,
-    "end_char": 904
+    "start_char": 897,
+    "end_char": 905
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:42:term-usage:915-935",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:42:term-usage:916-936",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:42",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:contrato-de-adhesion",
     "span": "Contrato de Adhesión",
-    "start_char": 915,
-    "end_char": 935
+    "start_char": 916,
+    "end_char": 936
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:42:term-usage:970-978",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:42:term-usage:971-979",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:42",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:comision",
     "span": "Comisión",
-    "start_char": 970,
-    "end_char": 978
+    "start_char": 971,
+    "end_char": 979
   },
   {
     "schema_version": "0.1.0",
@@ -3259,21 +3259,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:43:term-usage:1470-1473",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:43:term-usage:1471-1474",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:43",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cat",
     "span": "CAT",
-    "start_char": 1470,
-    "end_char": 1473
+    "start_char": 1471,
+    "end_char": 1474
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ltosf:article:43:term-usage:1922-1929",
+    "id": "urn:lex-mx:federal:statute:ltosf:article:43:term-usage:1923-1930",
     "provision_id": "urn:lex-mx:federal:statute:ltosf:article:43",
     "term_id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
     "span": "Cliente",
-    "start_char": 1922,
-    "end_char": 1929
+    "start_char": 1923,
+    "end_char": 1930
   },
   {
     "schema_version": "0.1.0",

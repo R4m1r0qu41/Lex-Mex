@@ -33,4 +33,6 @@ VI. Promover la adopción de tecnologías que conserven y mejoren la productivid
 
 VII. Incrementar la productividad en regiones con limitantes naturales para la producción, pero con ventajas comparativas que justifiquen la producción bajo condiciones controladas;
 
-VIII. Fomentar la producción hacia productos con oportunidades de exportación y generación de divisas, dando prioridad al abastecimiento nacional de productos considerados estratégicos; y IX. Fomentar la diversificación productiva y contribuir a las prácticas sustentables de las culturas tradicionales.
+VIII. Fomentar la producción hacia productos con oportunidades de exportación y generación de divisas, dando prioridad al abastecimiento nacional de productos considerados estratégicos; y
+
+IX. Fomentar la diversificación productiva y contribuir a las prácticas sustentables de las culturas tradicionales.

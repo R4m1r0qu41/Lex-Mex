@@ -19,7 +19,9 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 La búsqueda y salvamento comprende:
 
-I. La coordinación de las comunicaciones de socorro, búsqueda y salvamento; II. La coordinación de las maniobras de las aeronaves que participen en la búsqueda y salvamento;
+I. La coordinación de las comunicaciones de socorro, búsqueda y salvamento;
+
+II. La coordinación de las maniobras de las aeronaves que participen en la búsqueda y salvamento;
 
 III. La coordinación de las maniobras de auxilio, y la movilización oportuna de los grupos de búsqueda y salvamento, y
 

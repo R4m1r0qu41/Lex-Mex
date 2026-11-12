@@ -100,21 +100,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:6-bis:term-usage:2390-2452",
+    "id": "urn:lex-mx:federal:statute:laero:article:6-bis:term-usage:2391-2453",
     "provision_id": "urn:lex-mx:federal:statute:laero:article:6-bis",
     "term_id": "urn:lex-mx:federal:statute:laero:term:programa-de-seguridad-de-la-aviacion-civil-del-estado-mexicano",
     "span": "Programa de Seguridad de la Aviación Civil del Estado mexicano",
-    "start_char": 2390,
-    "end_char": 2452
+    "start_char": 2391,
+    "end_char": 2453
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:6-bis:term-usage:3565-3575",
+    "id": "urn:lex-mx:federal:statute:laero:article:6-bis:term-usage:3566-3576",
     "provision_id": "urn:lex-mx:federal:statute:laero:article:6-bis",
     "term_id": "urn:lex-mx:federal:statute:laero:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3565,
-    "end_char": 3575
+    "start_char": 3566,
+    "end_char": 3576
   },
   {
     "schema_version": "0.1.0",
@@ -172,12 +172,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:10-bis:term-usage:1773-1783",
+    "id": "urn:lex-mx:federal:statute:laero:article:10-bis:term-usage:1774-1784",
     "provision_id": "urn:lex-mx:federal:statute:laero:article:10-bis",
     "term_id": "urn:lex-mx:federal:statute:laero:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1773,
-    "end_char": 1783
+    "start_char": 1774,
+    "end_char": 1784
   },
   {
     "schema_version": "0.1.0",
@@ -505,21 +505,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:term-usage:542-575",
+    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:term-usage:543-576",
     "provision_id": "urn:lex-mx:federal:statute:laero:article:27-bis",
     "term_id": "urn:lex-mx:federal:statute:laero:term:agencia-federal-de-aviacion-civil",
     "span": "Agencia Federal de Aviación Civil",
-    "start_char": 542,
-    "end_char": 575
+    "start_char": 543,
+    "end_char": 576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:term-usage:2509-2542",
+    "id": "urn:lex-mx:federal:statute:laero:article:27-bis:term-usage:2510-2543",
     "provision_id": "urn:lex-mx:federal:statute:laero:article:27-bis",
     "term_id": "urn:lex-mx:federal:statute:laero:term:agencia-federal-de-aviacion-civil",
     "span": "Agencia Federal de Aviación Civil",
-    "start_char": 2509,
-    "end_char": 2542
+    "start_char": 2510,
+    "end_char": 2543
   },
   {
     "schema_version": "0.1.0",

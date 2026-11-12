@@ -31,7 +31,9 @@ IV.- La conservación de los lugares de belleza panorámica, de las antigüedade
 
 V.- La satisfacción de necesidades colectivas en caso de guerra o trastornos interiores; el abastecimiento de las ciudades o centros de población, de víveres o de otros artículos de consumo necesario, y los procedimientos empleados para combatir o impedir la propagación de epidemias, epizootias, incendios, plagas, inundaciones u otras calamidades públicas;
 
-VI.- Los medios empleados para la defensa nacional o para el mantenimiento de la paz pública; VII.- La defensa, conservación, desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación;
+VI.- Los medios empleados para la defensa nacional o para el mantenimiento de la paz pública;
+
+VII.- La defensa, conservación, desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación;
 
 VIII.- La equitativa distribución de la riqueza acaparada o monopolizada con ventaja exclusiva de una o varias personas y con perjuicio de la colectividad en general, o de una clase en particular;
 

@@ -27,7 +27,9 @@ III. Objetividad: Es la actuación basada en elementos que puedan acreditar plen
 
 IV. Calidad: Es la obtención de los resultados y metas programados, a través de la aplicación de las mejores prácticas y mejora continua en los procesos;
 
-V. Imparcialidad: Es actuar sin conceder preferencias o privilegios a persona alguna; VI. Equidad: Es la igualdad de oportunidades, sin discriminación por razones de edad, raza o etnia, condiciones de salud, capacidades diferentes, religión o credo, estado civil, condición social o preferencia política;
+V. Imparcialidad: Es actuar sin conceder preferencias o privilegios a persona alguna;
+
+VI. Equidad: Es la igualdad de oportunidades, sin discriminación por razones de edad, raza o etnia, condiciones de salud, capacidades diferentes, religión o credo, estado civil, condición social o preferencia política;
 
 VII. Competencia por mérito: Es la valoración integral de las capacidades de las personas aspirantes a ingresar al Sistema, así como de los servidores públicos de carrera, que se efectúa con base en la relación que existe entre los siguientes elementos: experiencia, estudios y actividades de formación y difusión, actitudes, competencias, resultados de desempeño en el cumplimiento de sus programas de trabajo, logros, y contribuciones que realizan para el cumplimiento de los objetivos institucionales de las dependencias, y Fracción reformada DOF 04-01-2024
 

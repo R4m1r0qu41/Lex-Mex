@@ -21,7 +21,9 @@ Para la apertura de las cuentas bancarias a que se refiere el artículo [18](../
 
 I. Tratándose de Dependencias, tener por objeto exclusivamente la recepción de recursos públicos federales o el pago con los mismos.
 
-Tratándose de Entidades, tener por objeto exclusivamente la recepción e inversión de recursos públicos federales o el pago con los mismos; II. Productivas para el manejo de recursos públicos federales, procurando en todo momento obtener las mejores condiciones de rendimiento y seguridad;
+Tratándose de Entidades, tener por objeto exclusivamente la recepción e inversión de recursos públicos federales o el pago con los mismos;
+
+II. Productivas para el manejo de recursos públicos federales, procurando en todo momento obtener las mejores condiciones de rendimiento y seguridad;
 
 III. Establecer el consentimiento expreso de la Dependencia o Entidad para que la Tesorería tenga acceso a la consulta de movimientos y saldos de las cuentas a través de los medios electrónicos aplicables, así como la extracción de la información derivada de dicha consulta;
 

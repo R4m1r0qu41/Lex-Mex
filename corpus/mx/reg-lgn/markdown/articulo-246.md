@@ -19,7 +19,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 Para efectos de este [Reglamento](articulo-2.md) se entiende por técnicas especiales de investigación para la prevención, los procedimientos extraordinarios de actuación policial, encaminados a la planeación, obtención, procesamiento y aprovechamiento de la información, con el propósito de prevenir la comisión de delitos y, en su caso, combatirlos bajo la conducción y mando del [Ministerio Público](articulo-2.md).
 
-Las técnicas especiales de investigación para la prevención comprenden, entre otras: I. La implementación de operaciones encubiertas y usuarios simulados para la prevención de los delitos;
+Las técnicas especiales de investigación para la prevención comprenden, entre otras:
+
+I. La implementación de operaciones encubiertas y usuarios simulados para la prevención de los delitos;
 
 II. La intervención de comunicaciones privadas para la investigación, y
 

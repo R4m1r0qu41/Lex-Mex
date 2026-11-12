@@ -49,7 +49,9 @@ XIV. Volar sobre zonas prohibidas, restringidas o peligrosas, sin autorización 
 
 XV. Arrojar o tolerar que innecesariamente se arrojen desde la aeronave en vuelo, objetos o lastre, multa de doscientas a dos mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018
 
-XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientas a dos mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 20-05-2021 XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientas a dos mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 20-05-2021
+XVI. Negarse a participar en las operaciones de búsqueda o salvamento, salvo causa de fuerza mayor, multa de doscientas a dos mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 20-05-2021
+
+XVII. Realizar o permitir que se realicen abordo de la aeronave en vuelo, planificaciones aerofotográficas o aerotopográficas sin el permiso correspondiente, en el caso de tripular una aeronave civil extranjera, multa de doscientas a dos mil Unidades de Medida y Actualización; Fracción reformada DOF 18-06-2018, 20-05-2021
 
 XVIII. Operar la aeronave sin los documentos que deban llevarse a bordo de conformidad con esta Ley, el reglamento correspondiente, las disposiciones técnico- administrativas y demás disposiciones jurídicas aplicables, con una multa de quinientas a cinco mil Unidades de Medida y Actualización; Fracción adicionada DOF 20-05-2021. Reformada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Publicada íntegra sin cambios DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
 

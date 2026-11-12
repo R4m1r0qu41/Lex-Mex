@@ -31,7 +31,9 @@ IV. Destinar recursos para la instrumentación de los programas y políticas de 
 
 V. Instrumentar un procedimiento para que se atienda el riesgo para la protección de datos personales por la implementación de nuevos productos, servicios, tecnologías y modelos de negocios, así como para mitigarlos;
 
-VI. Revisar periódicamente las políticas y programas de seguridad para determinar las modificaciones que se requieran; VII. Establecer procedimientos para recibir y responder dudas y quejas de los titulares de los datos personales;
+VI. Revisar periódicamente las políticas y programas de seguridad para determinar las modificaciones que se requieran;
+
+VII. Establecer procedimientos para recibir y responder dudas y quejas de los titulares de los datos personales;
 
 VIII. Disponer de mecanismos para el cumplimiento de las políticas y programas de privacidad, así como de sanciones por su incumplimiento;
 

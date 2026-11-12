@@ -21,7 +21,9 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 2. El periodo de entrega del informe final será durante los primeros diez días del mes de agosto, del último año de ejercicio de la legislatura.
 
-3. El Informe final contendrá: I. Copia de las actas de las reuniones celebradas, con la lista de diputados y diputadas asistentes y ausentes, dictámenes y acuerdos tomados en cada una de ellas, así como el sentido del voto de sus integrantes, en el caso que corresponda;
+3. El Informe final contendrá:
+
+I. Copia de las actas de las reuniones celebradas, con la lista de diputados y diputadas asistentes y ausentes, dictámenes y acuerdos tomados en cada una de ellas, así como el sentido del voto de sus integrantes, en el caso que corresponda;
 
 II. Resumen de reuniones convocadas con información sobre las suspendidas por falta de quórum, y los registros de asistencia e inasistencia de cada uno de los diputados y diputadas integrantes;
 

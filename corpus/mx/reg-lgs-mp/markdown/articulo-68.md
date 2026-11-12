@@ -17,7 +17,9 @@ source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
 
 # Artículo 68
 
-No se podrá realizar publicidad de plaguicidas, nutrientes vegetales y sustancias tóxicas o peligrosas cuando: I. Haga exaltación de las sustancias contenidas en estos productos, si son contaminantes del ambiente;
+No se podrá realizar publicidad de plaguicidas, nutrientes vegetales y sustancias tóxicas o peligrosas cuando:
+
+I. Haga exaltación de las sustancias contenidas en estos productos, si son contaminantes del ambiente;
 
 II. Asocie su aplicación o empleo con alimentos, utensilios domésticos u otros objetos que, una vez contaminados, representen un riesgo para la salud humana, y
 

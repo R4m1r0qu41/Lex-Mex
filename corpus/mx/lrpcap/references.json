@@ -102,19 +102,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:reference:1946-1951:1-bis:direct",
+    "id": "urn:lex-mx:federal:statute:lrpcap:article:2:reference:1947-1952:1-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrpcap:article:2",
     "source_span": "1 Bis",
-    "start_char": 1946,
-    "end_char": 1951,
+    "start_char": 1947,
+    "end_char": 1952,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsem",
     "target_provision_id": "urn:lex-mx:federal:statute:lsem:article:1-bis",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VIII",
-        "start_char": 1953,
-        "end_char": 1966
+        "start_char": 1954,
+        "end_char": 1967
       }
     ],
     "basis": "express_cross_reference",

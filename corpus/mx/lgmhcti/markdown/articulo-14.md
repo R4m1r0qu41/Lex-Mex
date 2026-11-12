@@ -19,7 +19,9 @@ source_sha256: 5a0e15e01ac963917e019e3cc4ad07e96d76cc6c82c8b4238dfbb3a58a146847
 
 Los ejes programáticos y de articulación de las políticas públicas serán los siguientes:
 
-I. Fortalecimiento y consolidación de la comunidad; II. Impulso a la ciencia básica y de frontera en todas las áreas y campos del saber científico;
+I. Fortalecimiento y consolidación de la comunidad;
+
+II. Impulso a la ciencia básica y de frontera en todas las áreas y campos del saber científico;
 
 III. Prevención, atención y solución de problemáticas nacionales sobre la base de agendas temáticas;
 

@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 33
 
-La Comisión tendrá acceso a espacios y tiempos oficiales para la divulgación de sus funciones y para la correcta promoción de la cultura del consumo del [Vino Mexicano](articulo-3.md) en los términos de las leyes respectivas.
+La [Comisión](articulo-3.md) tendrá acceso a espacios y tiempos oficiales para la divulgación de sus funciones y para la correcta promoción de la cultura del consumo del [Vino Mexicano](articulo-3.md) en los términos de las leyes respectivas.

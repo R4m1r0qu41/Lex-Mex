@@ -17,7 +17,9 @@ source_sha256: b007340fd742c125439e4f037c7aae09f2fe9e55f88a9f194079e0daebfc1dca
 
 # Artículo 4
 
-Para el cumplimiento de su objeto, la Agencia tendrá las siguientes funciones: I. Impulsar estudios y desarrollo de investigaciones científicas y tecnológicas en la materia y en las áreas prioritarias de atención definidas en el Programa Nacional de Actividades Espaciales;
+Para el cumplimiento de su objeto, la Agencia tendrá las siguientes funciones:
+
+I. Impulsar estudios y desarrollo de investigaciones científicas y tecnológicas en la materia y en las áreas prioritarias de atención definidas en el Programa Nacional de Actividades Espaciales;
 
 II. Establecer y desarrollar actividades de vinculación con instituciones nacionales de carácter académico, tecnológico y profesional dedicadas a estudios de especialidades relacionadas con la materia;
 
@@ -41,4 +43,6 @@ XI. Impulsar la formación de especialistas en materia espacial y sus disciplina
 
 XII. Formular y realizar proyectos de difusión y educativos en la materia, así como elaborar y promover la producción de materiales de divulgación;
 
-XIII. Crear y operar un sistema de información y consulta en la materia; llevar el registro nacional de las actividades relativas y promover el desarrollo y la educación espacial formal, así como la divulgación de estudios sobre investigación espacial, y XIV. Las demás que se deriven de los ordenamientos jurídicos y administrativos aplicables en la materia.
+XIII. Crear y operar un sistema de información y consulta en la materia; llevar el registro nacional de las actividades relativas y promover el desarrollo y la educación espacial formal, así como la divulgación de estudios sobre investigación espacial, y
+
+XIV. Las demás que se deriven de los ordenamientos jurídicos y administrativos aplicables en la materia.

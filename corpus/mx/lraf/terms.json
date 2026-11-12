@@ -29,7 +29,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "III",
     "start_char": 532,
-    "end_char": 2068,
+    "end_char": 1383,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "term": "Directivos Relevantes",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "IV",
+    "start_char": 1383,
+    "end_char": 2069,
     "basis": "express_definition"
   },
   {
@@ -39,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "V",
-    "start_char": 2068,
-    "end_char": 2575,
+    "start_char": 2069,
+    "end_char": 2576,
     "basis": "express_definition"
   },
   {
@@ -50,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "VI",
-    "start_char": 2575,
-    "end_char": 2900,
+    "start_char": 2576,
+    "end_char": 2901,
     "basis": "express_definition"
   },
   {
@@ -61,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "VII",
-    "start_char": 2900,
-    "end_char": 3106,
+    "start_char": 2901,
+    "end_char": 3107,
     "basis": "express_definition"
   },
   {
@@ -72,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "VIII",
-    "start_char": 3106,
-    "end_char": 3273,
+    "start_char": 3107,
+    "end_char": 3274,
     "basis": "express_definition"
   },
   {
@@ -83,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "IX",
-    "start_char": 3273,
-    "end_char": 3863,
+    "start_char": 3274,
+    "end_char": 3864,
     "basis": "express_definition"
   },
   {
@@ -94,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "X",
-    "start_char": 3863,
-    "end_char": 5120,
+    "start_char": 3864,
+    "end_char": 5121,
     "basis": "express_definition"
   },
   {
@@ -105,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "XI",
-    "start_char": 5120,
-    "end_char": 6487,
+    "start_char": 5121,
+    "end_char": 6488,
     "basis": "express_definition"
   },
   {
@@ -116,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "XII",
-    "start_char": 6487,
-    "end_char": 6666,
+    "start_char": 6488,
+    "end_char": 6667,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "XIII",
-    "start_char": 6666,
-    "end_char": 6732,
+    "start_char": 6667,
+    "end_char": 6733,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "XIV",
-    "start_char": 6732,
-    "end_char": 6871,
+    "start_char": 6733,
+    "end_char": 6872,
     "basis": "express_definition"
   },
   {
@@ -149,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lraf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "fraction": "XV",
-    "start_char": 6871,
-    "end_char": 7383,
+    "start_char": 6872,
+    "end_char": 7384,
     "basis": "express_definition"
   }
 ]

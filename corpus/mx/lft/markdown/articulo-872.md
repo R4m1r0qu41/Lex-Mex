@@ -37,7 +37,9 @@ VII. En caso de existir un juicio anterior promovido por el actor contra el mism
 
 B. A la demanda deberá anexarse lo siguiente:
 
-I. La constancia expedida por el Organismo de Conciliación que acredite la conclusión del procedimiento de conciliación prejudicial sin acuerdo entre las partes, a excepción de los casos en los que no se requiera dicha constancia, según lo establezca expresamente esta Ley; II. Los documentos que acrediten la personalidad de su representante conforme al artículo [692](articulo-692.md), fracción II, si la demanda se promueve a través de éste, y
+I. La constancia expedida por el Organismo de Conciliación que acredite la conclusión del procedimiento de conciliación prejudicial sin acuerdo entre las partes, a excepción de los casos en los que no se requiera dicha constancia, según lo establezca expresamente esta Ley;
+
+II. Los documentos que acrediten la personalidad de su representante conforme al artículo [692](articulo-692.md), fracción II, si la demanda se promueve a través de éste, y
 
 III. Las pruebas de que disponga el actor, acompañadas de los elementos necesarios para su desahogo. En caso que no pueda aportar directamente alguna prueba que tenga por objeto demostrar los hechos en que funde su demanda, deberá señalar el lugar en que puedan obtenerse y las diligencias cuya práctica solicite con el mismo fin. El ofrecimiento de las pruebas deberá cumplir con lo dispuesto en el capítulo XII del Título Catorce de esta Ley.
 

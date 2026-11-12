@@ -23,7 +23,9 @@ Asimismo el Consejo promoverá ante los gobiernos de las entidades federativas, 
 
 Las acciones mínimas que deberán considerar los programas de accesibilidad son:
 
-I. La elaboración de un diagnóstico sobre la situación que guarda la accesibilidad en espacios y edificios que correspondan al ámbito de competencia de la dependencia o entidad emisora del programa, con la finalidad de identificar la solución a la problemática y su transversalidad en las actuaciones y compromisos de los sectores involucrados; II. La promoción de las acciones y campañas de sensibilización y concientización hacia una nueva cultura de diseño, planeación y ejecución encaminada hacia la inclusión de las personas con discapacidad;
+I. La elaboración de un diagnóstico sobre la situación que guarda la accesibilidad en espacios y edificios que correspondan al ámbito de competencia de la dependencia o entidad emisora del programa, con la finalidad de identificar la solución a la problemática y su transversalidad en las actuaciones y compromisos de los sectores involucrados;
+
+II. La promoción de las acciones y campañas de sensibilización y concientización hacia una nueva cultura de diseño, planeación y ejecución encaminada hacia la inclusión de las personas con discapacidad;
 
 III. La inclusión de los principios de accesibilidad y diseño universal en los procesos de formación profesional que correspondan;
 

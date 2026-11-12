@@ -37,7 +37,9 @@ VIII. Fomentar y apoyar el desarrollo de los sistemas de agua potable y alcantar
 
 IX. Proponer a la persona Titular de la Dirección General de "la Comisión", el establecimiento de Distritos de Riego y de Temporal Tecnificado y, en su caso, la expropiación de los bienes inmuebles correspondientes; Fracción reformada DOF 11-12-2025
 
-X. Regular los servicios de riego en distritos y unidades de riego conforme a las disposiciones que establezca "la Comisión" para este efecto y llevar actualizados los censos de infraestructura, los volúmenes entregados y aprovechados, así como los padrones de usuarios, el estado que guarda la infraestructura y los servicios. Esto no afectará las disposiciones, facultades y responsabilidades estatales y municipales, así como de asociaciones, sociedades y otras organizaciones de usuarios de riego, en la coordinación y prestación de los servicios referidos; XI. Preservar y controlar la calidad del agua, así como manejar las cuencas hidrológicas y regiones hidrológicas que le correspondan, en los términos de la presente Ley y sus reglamentos;
+X. Regular los servicios de riego en distritos y unidades de riego conforme a las disposiciones que establezca "la Comisión" para este efecto y llevar actualizados los censos de infraestructura, los volúmenes entregados y aprovechados, así como los padrones de usuarios, el estado que guarda la infraestructura y los servicios. Esto no afectará las disposiciones, facultades y responsabilidades estatales y municipales, así como de asociaciones, sociedades y otras organizaciones de usuarios de riego, en la coordinación y prestación de los servicios referidos;
+
+XI. Preservar y controlar la calidad del agua, así como manejar las cuencas hidrológicas y regiones hidrológicas que le correspondan, en los términos de la presente Ley y sus reglamentos;
 
 XII. Acreditar, promover y apoyar la organización de las personas usuarias para mejorar la explotación, uso o aprovechamiento del agua y la conservación y control de su calidad, e impulsar la participación de éstos a nivel estatal, regional, de cuenca hidrológica o de acuífero en términos de Ley; Fracción reformada DOF 11-12-2025
 
@@ -55,7 +57,9 @@ XVIII. Realizar periódicamente los estudios sobre la valoración económica y f
 
 XIX. Estudiar y proponer, con el concurso de los Consejos de Cuenca, los montos recomendables para el cobro de los derechos de agua y tarifas de cuenca, incluyendo el cobro por extracción de aguas nacionales, descarga de aguas residuales y servicios ambientales vinculados con el agua y su gestión, con base en las disposiciones establecidas en la Fracción XXVIII del Artículo [9](articulo-9.md) de la presente Ley;
 
-XX. Instrumentar y operar los mecanismos necesarios para la recaudación de los derechos en materia de agua, conforme a las disposiciones fiscales vigentes; XXI. Bajo la coordinación y supervisión de "la Comisión", participar en lo conducente en el ejercicio de las atribuciones fiscales en materia de administración, determinación, liquidación, cobro, recaudación y fiscalización de las contribuciones y aprovechamientos que se le destinen o en los casos que señalen las leyes respectivas, conforme a lo dispuesto en el Código Fiscal de la Federación;
+XX. Instrumentar y operar los mecanismos necesarios para la recaudación de los derechos en materia de agua, conforme a las disposiciones fiscales vigentes;
+
+XXI. Bajo la coordinación y supervisión de "la Comisión", participar en lo conducente en el ejercicio de las atribuciones fiscales en materia de administración, determinación, liquidación, cobro, recaudación y fiscalización de las contribuciones y aprovechamientos que se le destinen o en los casos que señalen las leyes respectivas, conforme a lo dispuesto en el Código Fiscal de la Federación;
 
 XXII. Realizar toda clase de actos jurídicos que sean necesarios para cumplir con sus fines, así como aquellos que fueren necesarios para la gestión de las aguas nacionales, incluyendo su administración y de sus bienes públicos inherentes, así como de los demás bienes y recursos a su cargo;
 
@@ -73,7 +77,9 @@ XXVIII. Mejorar y difundir permanentemente el conocimiento sobre la ocurrencia d
 
 XXIX. Integrar el Sistema Regional de Información sobre cantidad, calidad, usos y conservación del agua, en coordinación con los gobiernos de los estados y de la Ciudad de México, cuando corresponda, y con los Consejos de Cuenca, y en concordancia con lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública; Fracción reformada DOF 11-12-2025
 
-XXX. Resolver de manera expedita las solicitudes de prórroga de concesión, asignación o permiso de descarga que le sean presentadas en los plazos establecidos en la presente Ley; XXXI. Presentar las denuncias que correspondan ante autoridades competentes cuando, como resultado del ejercicio de sus atribuciones, tenga conocimiento de actos u omisiones que constituyan violaciones a la legislación administrativa en materia de aguas o a las leyes penales;
+XXX. Resolver de manera expedita las solicitudes de prórroga de concesión, asignación o permiso de descarga que le sean presentadas en los plazos establecidos en la presente Ley;
+
+XXXI. Presentar las denuncias que correspondan ante autoridades competentes cuando, como resultado del ejercicio de sus atribuciones, tenga conocimiento de actos u omisiones que constituyan violaciones a la legislación administrativa en materia de aguas o a las leyes penales;
 
 XXXII. Resolver los trámites relacionados con la regulación y autorización de la reasignación de volúmenes de agua, en los casos que prevé la presente Ley y la normativa aplicable, y Fracción reformada DOF 11-12-2025
 

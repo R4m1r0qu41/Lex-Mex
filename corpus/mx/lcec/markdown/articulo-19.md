@@ -17,7 +17,9 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 19
 
-Las [Confederaciones](articulo-2.md) tendrán los siguientes derechos y obligaciones frente a las Cámaras afiliadas: I. Ser informado de los resultados de los procesos de elección de los órganos de gobierno de las Cámaras;
+Las [Confederaciones](articulo-2.md) tendrán los siguientes derechos y obligaciones frente a las [Cámaras](articulo-2.md) afiliadas:
+
+I. Ser informado de los resultados de los procesos de elección de los órganos de gobierno de las Cámaras;
 
 II. Solicitar y recibir de las Cámaras sus contribuciones para el sostenimiento de la Confederación respectiva, en los términos que fije la asamblea de ésta;
 
@@ -47,4 +49,6 @@ XIV. Entregar a las Cámaras la información necesaria y suficiente sobre la adm
 
 XV. Convocar y estimular a las Cámaras a participar en las ferias, exposiciones, concursos y certámenes convocados por o en las que participe la Confederación;
 
-XVI. Prevenir y llevar a cabo las gestiones necesarias, cuando proceda, para evitar la disolución y liquidación de Cámaras, vigilando que la actividad económica o región sean siempre representadas adecuadamente, y XVII. Los demás que establezca la presente Ley, su Reglamento o los Estatutos de la Confederación respectiva.
+XVI. Prevenir y llevar a cabo las gestiones necesarias, cuando proceda, para evitar la disolución y liquidación de Cámaras, vigilando que la actividad económica o región sean siempre representadas adecuadamente, y
+
+XVII. Los demás que establezca la presente Ley, su Reglamento o los Estatutos de la Confederación respectiva.

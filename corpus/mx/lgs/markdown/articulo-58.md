@@ -25,7 +25,9 @@ II. Colaboración en la prevención o tratamiento de problemas ambientales vincu
 
 III. Incorporación, como auxiliares voluntarios, en la realización de tareas simples de atención médica y asistencia social, y participación en determinadas actividades de operación de los servicios de salud, bajo la dirección y control de las autoridades correspondientes;
 
-IV. Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas; V. Formulación de sugerencias para mejorar los servicios de salud;
+IV. Notificación de la existencia de personas que requieran de servicios de salud, cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
+
+V. Formulación de sugerencias para mejorar los servicios de salud;
 
 V Bis. Información a las autoridades sanitarias acerca de efectos secundarios y reacciones adversas por el uso de medicamentos, incidentes adversos por el uso de dispositivos médicos y otros insumos para la salud o por el uso, desvío o disposición final de substancias tóxicas o peligrosas y sus desechos; Fracción adicionada DOF 07-05-1997. Reformada DOF 10-05-2023
 

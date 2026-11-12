@@ -31,7 +31,9 @@ V. Arroje pérdidas que reduzcan su capital a un nivel inferior al mínimo. La C
 
 Para efectos de lo previsto en el párrafo anterior, no resultarán aplicables los plazos para llevar a cabo las convocatorias para las asambleas de accionistas, señalados en la Ley General de Sociedades Mercantiles.
 
-VI. Proporcione en forma dolosa información falsa, imprecisa o incompleta a las autoridades financieras, que tenga como consecuencia que no se refleje su verdadera situación financiera, administrativa, económica y jurídica. VII. Incumpla las medidas correctivas mínimas o especiales adicionales a que se refiere el artículo [136](articulo-136.md) de esta Ley. Fracción reformada DOF 10-01-2014
+VI. Proporcione en forma dolosa información falsa, imprecisa o incompleta a las autoridades financieras, que tenga como consecuencia que no se refleje su verdadera situación financiera, administrativa, económica y jurídica.
+
+VII. Incumpla las medidas correctivas mínimas o especiales adicionales a que se refiere el artículo [136](articulo-136.md) de esta Ley. Fracción reformada DOF 10-01-2014
 
 VIII. Reincida en las situaciones o conductas que dieron lugar a la suspensión parcial de sus actividades, a que se refieren los artículos [137](articulo-137.md) y [138](articulo-138.md) de esta Ley.
 

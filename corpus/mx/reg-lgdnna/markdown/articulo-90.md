@@ -37,7 +37,9 @@ VII. Condición e historia médica;
 
 VIII. Condición psicológica;
 
-IX. Evolución pedagógica; X. Requerimiento de atención especial, y
+IX. Evolución pedagógica;
+
+X. Requerimiento de atención especial, y
 
 XI. Información sobre los motivos por los cuales no se pudo encontrar a una familia nacional que pudiera adoptar a la niña, niño o adolescente.
 

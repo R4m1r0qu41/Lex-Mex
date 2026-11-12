@@ -33,7 +33,9 @@ VI. Importador.- Persona física o moral que introduce al territorio nacional li
 
 VII. ISBN.- Número internacional normalizado del libro;
 
-VIII. Ley.- Ley de Fomento para la Lectura y el Libro; IX. Lineamientos.- Los lineamientos que el [Consejo](articulo-2.md) emita para el funcionamiento del [Registro](articulo-2.md) del Precio Único de Venta al Público;
+VIII. Ley.- Ley de Fomento para la Lectura y el Libro;
+
+IX. Lineamientos.- Los lineamientos que el [Consejo](articulo-2.md) emita para el funcionamiento del [Registro](articulo-2.md) del Precio Único de Venta al Público;
 
 X. Programa.- El Programa de Fomento para el Libro y la Lectura a que se refiere la fracción I del artículo [6](../../lfll/markdown/articulo-6.md) de la Ley;
 

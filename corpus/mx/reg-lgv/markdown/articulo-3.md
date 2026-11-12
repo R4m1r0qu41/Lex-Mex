@@ -27,7 +27,9 @@ III. Comités: Los Comités a que se refiere el artículo [93](../../lgv/markdow
 
 IV. Estatuto Orgánico: El Estatuto Orgánico de la Comisión Ejecutiva;
 
-V. Fondo: El Fondo de Ayuda, Asistencia y Reparación Integral a que se refiere el Título Octavo de la Ley, incluyendo el fondo de emergencia previsto en el artículo 135 de la misma; VI. Formato: El Formato único de declaración y de incorporación al Registro, que es el instrumento elaborado por la Comisión Ejecutiva, el cual estará publicado en su página electrónica y será distribuido a todas las instancias que participen en las acciones de atención, asistencia y protección a las víctimas, y que será de acceso público;
+V. Fondo: El Fondo de Ayuda, Asistencia y Reparación Integral a que se refiere el Título Octavo de la Ley, incluyendo el fondo de emergencia previsto en el artículo 135 de la misma;
+
+VI. Formato: El Formato único de declaración y de incorporación al Registro, que es el instrumento elaborado por la Comisión Ejecutiva, el cual estará publicado en su página electrónica y será distribuido a todas las instancias que participen en las acciones de atención, asistencia y protección a las víctimas, y que será de acceso público;
 
 VII. Modelo Integral de Atención a Víctimas: El instrumento emitido por el Pleno de la Comisión Ejecutiva, a través del cual se establecen las instancias federales y los procedimientos para la atención, asistencia y protección a las víctimas, y
 

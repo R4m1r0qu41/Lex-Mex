@@ -27,7 +27,9 @@ III. Hacer eficiente el otorgamiento de servicios y subsidios;
 
 IV. Obtener información para el seguimiento y evaluación de los programas de desarrollo social;
 
-V. Garantizar el cumplimiento de los criterios y requisitos de elegibilidad previstos en los programas de desarrollo social y evitar la duplicidad en la asignación de apoyos o servicios dentro de un mismo programa; VI. Verificar que las personas que reciban los apoyos o servicios, correspondan con la población objetivo definida en las reglas de operación de cada programa de desarrollo social;
+V. Garantizar el cumplimiento de los criterios y requisitos de elegibilidad previstos en los programas de desarrollo social y evitar la duplicidad en la asignación de apoyos o servicios dentro de un mismo programa;
+
+VI. Verificar que las personas que reciban los apoyos o servicios, correspondan con la población objetivo definida en las reglas de operación de cada programa de desarrollo social;
 
 VII. Determinar la cobertura poblacional y territorial de los programas de desarrollo social para apoyar con mayor efectividad el desarrollo de los beneficiarios;
 

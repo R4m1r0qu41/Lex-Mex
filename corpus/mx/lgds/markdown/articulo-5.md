@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["LGDS — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf
 source_sha256: 32822f50bb2de81185408f9450d61a49d678429c52c5379822a507c7027a5275
 ---
@@ -35,7 +35,9 @@ VI Bis. Instituto: Instituto Nacional de Estadística y Geografía; Fracción ad
 
 VII. Secretaría: Secretaría de Bienestar del Gobierno Federal; Fracción reformada DOF 16-07-2025
 
-VIII. Sistema Nacional: Sistema Nacional de Desarrollo Social; IX. Organizaciones: Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social; Fracción reformada DOF 16-07-2025
+VIII. Sistema Nacional: Sistema Nacional de Desarrollo Social;
+
+IX. Organizaciones: Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social; Fracción reformada DOF 16-07-2025
 
 X. Padrón: Relación oficial de personas beneficiarias que incluye a las personas atendidas por los programas federales de desarrollo social cuyo perfil socioeconómico se establece en la normativa correspondiente, y Fracción reformada DOF 16-07-2025
 

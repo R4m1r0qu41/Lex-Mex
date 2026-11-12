@@ -15,7 +15,9 @@ source_sha256: bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531
 
 # Artículo 20
 
-La Comisión determinará en el proyecto de resolución: I. La materia o materias objeto del conflicto;
+La Comisión determinará en el proyecto de resolución:
+
+I. La materia o materias objeto del conflicto;
 
 II. Si en efecto se configuró la cuestión política y si ésta afectó a uno de los poderes;
 

@@ -25,4 +25,6 @@ II. No elaborar los alimentos ofrecidos a niñas y niños conforme al plan nutri
 
 III. Modificar la estructura del inmueble o la distribución de los espacios sin contar con los permisos de la autoridad competente;
 
-IV. Incumplir con las medidas de salud y atención médica en los términos que establezca la normatividad correspondiente, y V. Realizar por parte del personal de los [Centros de Atención](articulo-8.md), algún acto de discriminación contra cualquiera de sus integrantes.
+IV. Incumplir con las medidas de salud y atención médica en los términos que establezca la normatividad correspondiente, y
+
+V. Realizar por parte del personal de los [Centros de Atención](articulo-8.md), algún acto de discriminación contra cualquiera de sus integrantes.

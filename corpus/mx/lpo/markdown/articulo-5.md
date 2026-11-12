@@ -17,7 +17,9 @@ source_sha256: 2c0605e891e16c74283ed14d0adf749dba4cab1ad67909a2a5934f8e38b641a6
 
 # Artículo 5
 
-Serán de aplicación supletoria de la presente Ley: I. En materia de [Acreditación](articulo-3.md) de Organismos de Certificación y [Evaluación de la conformidad](articulo-3.md), la Ley Federal sobre Metrología y Normalización;
+Serán de aplicación supletoria de la presente Ley:
+
+I. En materia de [Acreditación](articulo-3.md) de Organismos de Certificación y [Evaluación de la conformidad](articulo-3.md), la Ley Federal sobre Metrología y Normalización;
 
 II. Tratándose de recursos, materias primas, productos y subproductos forestales, la Ley General de Desarrollo Forestal Sustentable, y
 

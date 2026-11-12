@@ -23,7 +23,9 @@ Para tales efectos, en educación básica y media superior, corresponden a la [S
 
 I. Establecer y coordinar el Sistema Abierto y Transparente de Asignación de Plazas para la ocupación de las vacantes de personal con funciones docente, técnico docente, de asesoría técnica pedagógica, de dirección y supervisión;
 
-II. Determinar, dentro de la estructura ocupacional autorizada, los puestos del personal técnico docente que formarán parte del Sistema; III. Establecer los mecanismos mediante los cuales madres y padres de familia o tutores, sistemas anticorrupción de las entidades federativas y la comunidad participarán como observadores en los procesos de selección que prevé esta [Ley](articulo-7.md);
+II. Determinar, dentro de la estructura ocupacional autorizada, los puestos del personal técnico docente que formarán parte del Sistema;
+
+III. Establecer los mecanismos mediante los cuales madres y padres de familia o tutores, sistemas anticorrupción de las entidades federativas y la comunidad participarán como observadores en los procesos de selección que prevé esta [Ley](articulo-7.md);
 
 IV. Definir los procesos de selección para la admisión, promoción y reconocimiento a que se refiere esta Ley y demás disposiciones aplicables;
 
@@ -47,7 +49,9 @@ XIII. Emitir las convocatorias base de los procesos de selección para la admisi
 
 XIV. Autorizar las convocatorias de los procesos de selección para la admisión, promoción y reconocimiento previstas en esta Ley para la educación básica y media superior;
 
-XV. Establecer las disposiciones para la asignación de las plazas vacantes objeto de los procesos de selección, los cuales operarán bajo los principios de transparencia, legalidad y equidad, y cuyo uso será obligatorio por las autoridades de educación media superior, las autoridades educativas de las entidades federativas y los organismos descentralizados; XVI. Expedir los criterios técnicos bajo los cuales se ordenarán los resultados de los procesos de selección para la admisión, promoción y reconocimiento;
+XV. Establecer las disposiciones para la asignación de las plazas vacantes objeto de los procesos de selección, los cuales operarán bajo los principios de transparencia, legalidad y equidad, y cuyo uso será obligatorio por las autoridades de educación media superior, las autoridades educativas de las entidades federativas y los organismos descentralizados;
+
+XVI. Expedir los criterios técnicos bajo los cuales se ordenarán los resultados de los procesos de selección para la admisión, promoción y reconocimiento;
 
 XVII. Enviar a la [Comisión](articulo-7.md) los resultados de los procesos de selección para la admisión, promoción y reconocimiento previstos en esta Ley, para que determine, formule y fortalezca los programas de formación, capacitación y actualización de las maestras y los maestros;
 

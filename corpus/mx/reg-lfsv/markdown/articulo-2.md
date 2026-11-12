@@ -23,7 +23,9 @@ I. Análisis Epidemiológico: la acción mediante la cual se conjunta la informa
 
 II. Aviso de Inicio de Funcionamiento: el documento que deben presentar al [SENASICA](articulo-2.md), las personas físicas o morales que pretendan realizar Actividades o Servicios Fitosanitarios que de conformidad con las Disposiciones Legales Aplicables, están sujetos a la Verificación o certificación;
 
-III. Brote: la población de una Plaga detectada recientemente, incluida una incursión o aumento súbito importante de una población de una Plaga establecida en un área y la cual se espera que sobreviva en el futuro; IV. Certificado Fitosanitario de Movilización Nacional: el documento expedido por el SENASICA o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las Disposiciones Legales Aplicables en materia de Sanidad Vegetal, a que se sujeta la Movilización en el territorio nacional de Vegetales o Productos o Subproductos Vegetales que representen un Riesgo Fitosanitario;
+III. Brote: la población de una Plaga detectada recientemente, incluida una incursión o aumento súbito importante de una población de una Plaga establecida en un área y la cual se espera que sobreviva en el futuro;
+
+IV. Certificado Fitosanitario de Movilización Nacional: el documento expedido por el SENASICA o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las Disposiciones Legales Aplicables en materia de Sanidad Vegetal, a que se sujeta la Movilización en el territorio nacional de Vegetales o Productos o Subproductos Vegetales que representen un Riesgo Fitosanitario;
 
 V. Certificado Fitosanitario Internacional para la Exportación: el documento expedido por el SENASICA en el que se hace constar el cumplimiento de las Disposiciones Legales Aplicables en materia de Sanidad Vegetal y de los requisitos que exija el país de destino para la exportación de Vegetales o Productos o Subproductos Vegetales;
 
@@ -47,7 +49,9 @@ XIV. Embarque en Tránsito Internacional: Mercancía Regulada que se moviliza a 
 
 XV. Establecimientos: las instalaciones ubicadas en el territorio nacional donde se desarrollen o presten Actividades o Servicios Fitosanitarios, sujetos a regulación;
 
-XVI. Estatus Fitosanitario: la presencia o ausencia actual de una Plaga en un área, incluyendo su distribución donde corresponda, según lo haya determinado la Secretaría, basándose en los registros de Plagas previos y actuales y en otra información pertinente como la aplicación de una metodología oficial de seguimiento epidemiológico; XVII. Hospedantes: los seres vivos, Vegetales o animales, invadidos por otros organismos que viven a sus expensas, afectándolos o destruyéndolos parcial o totalmente;
+XVI. Estatus Fitosanitario: la presencia o ausencia actual de una Plaga en un área, incluyendo su distribución donde corresponda, según lo haya determinado la Secretaría, basándose en los registros de Plagas previos y actuales y en otra información pertinente como la aplicación de una metodología oficial de seguimiento epidemiológico;
+
+XVII. Hospedantes: los seres vivos, Vegetales o animales, invadidos por otros organismos que viven a sus expensas, afectándolos o destruyéndolos parcial o totalmente;
 
 XVIII. Informe de Actividades: el reporte mediante el cual las personas físicas o morales aprobadas, autorizadas o certificadas informan a la Secretaría sobre el desarrollo de sus Actividades Fitosanitarias o de los Servicios Fitosanitarios prestados, así como de los Sistemas de Reducción de Riesgos de Contaminación en la Producción Primaria de Vegetales que hayan aplicado, durante un determinado periodo, conforme a lo establecido en las Disposiciones Legales Aplicables;
 
@@ -71,7 +75,9 @@ XXVII. Plaga Reglamentada: la Plaga Cuarentenaria o Plaga no Cuarentenaria Regla
 
 XXVIII. Plan de Trabajo Binacional: el documento suscrito por la Secretaría con las autoridades fitosanitarias de otro país, en el que se especifican de forma operativa y normativa la aplicación de Medidas Fitosanitarias, así como las acordadas en términos de la Convención Internacional de Protección Fitosanitaria, para facilitar el comercio de Mercancías Reguladas;
 
-XXIX. Rastreabilidad: el conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar a través de investigaciones de campo y del análisis de registro de Plagas, el origen de un Riesgo Fitosanitario y su posible diseminación hasta sus últimas consecuencias, con el objetivo de lograr su control o, en su caso, Erradicación; XXX. Relleno Sanitario: a la fosa en la que se colocan los Productos Vegetales para cubrirlos con capas sufrientes de cal y de tierra. Las dimensiones de la fosa serán determinadas por la Secretaría;
+XXIX. Rastreabilidad: el conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar a través de investigaciones de campo y del análisis de registro de Plagas, el origen de un Riesgo Fitosanitario y su posible diseminación hasta sus últimas consecuencias, con el objetivo de lograr su control o, en su caso, Erradicación;
+
+XXX. Relleno Sanitario: a la fosa en la que se colocan los Productos Vegetales para cubrirlos con capas sufrientes de cal y de tierra. Las dimensiones de la fosa serán determinadas por la Secretaría;
 
 XXXI. Residuos: las sustancias presentes en o sobre los alimentos, Productos y Subproductos Vegetales o alimentos para animales, como consecuencia del uso de un Plaguicida;
 

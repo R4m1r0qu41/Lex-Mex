@@ -43,7 +43,9 @@ XI. Formular para aprobación de la Secretaría, las reglas de operación de la 
 
 XII. Operar los servicios de vigilancia y control de accesos y tránsito de personas y bienes en la Zona, de conformidad con lo previsto en las reglas de operación de la misma, sin perjuicio de las disposiciones jurídicas aplicables y las atribuciones de las autoridades competentes. Dichas funciones podrán prestarse con un cuerpo encargado de verificar que la seguridad y vigilancia en las mismas se lleve a cabo conforme a las disposiciones establecidas.
 
-En situaciones de emergencia o cuando se ponga en peligro la paz interior o la seguridad nacional, las autoridades federales competentes podrán prestar en forma directa la vigilancia para preservar la seguridad de la Zona; XIII. Contratar al personal necesario que requiera para sus funciones, incluyendo al personal directivo, conforme a la legislación laboral, privilegiando a los nacionales;
+En situaciones de emergencia o cuando se ponga en peligro la paz interior o la seguridad nacional, las autoridades federales competentes podrán prestar en forma directa la vigilancia para preservar la seguridad de la Zona;
+
+XIII. Contratar al personal necesario que requiera para sus funciones, incluyendo al personal directivo, conforme a la legislación laboral, privilegiando a los nacionales;
 
 XIV. Contratar con terceros los servicios necesarios para el desarrollo y operación de la Zona, cuando le resulte conveniente;
 

@@ -29,6 +29,8 @@ IV. Ejercer en el ámbito de su competencia, las atribuciones que conforme a la 
 
 V. Fungir como enlace de la Procuraduría con las autoridades competentes en materia de administración o registro de bienes asegurados y establecer los mecanismos de coordinación que correspondan;
 
-VI. Proponer lineamientos para el desarrollo de las acciones del Ministerio Público de la Federación tendentes a la declaración de abandono de los bienes asegurados, de conformidad con las disposiciones aplicables, y realizar las acciones necesarias para su aplicación a favor del Estado; VII. Supervisar el registro y la administración de los seguros que contrate la Procuraduría sobre los bienes entregados a la misma por el Servicio de Administración y Enajenación de Bienes para llevar a cabo las funciones de depositario, liquidador, interventor o administrador, o para su enajenación o destrucción, y
+VI. Proponer lineamientos para el desarrollo de las acciones del Ministerio Público de la Federación tendentes a la declaración de abandono de los bienes asegurados, de conformidad con las disposiciones aplicables, y realizar las acciones necesarias para su aplicación a favor del Estado;
+
+VII. Supervisar el registro y la administración de los seguros que contrate la Procuraduría sobre los bienes entregados a la misma por el Servicio de Administración y Enajenación de Bienes para llevar a cabo las funciones de depositario, liquidador, interventor o administrador, o para su enajenación o destrucción, y
 
 VIII. Autorizar la asignación a las unidades administrativas y órganos desconcentrados de la Institución que determine el Procurador, de los bienes cuyo uso haya otorgado a la Institución el Servicio de Administración y Enajenación de Bienes, o que le haya asignado o donado, de conformidad con las normas aplicables y criterios institucionales.

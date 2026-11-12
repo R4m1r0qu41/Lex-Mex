@@ -73,7 +73,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "V",
     "start_char": 1545,
-    "end_char": 1647,
+    "end_char": 1648,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "VI",
-    "start_char": 1647,
-    "end_char": 1705,
+    "start_char": 1648,
+    "end_char": 1706,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "VII",
-    "start_char": 1705,
-    "end_char": 1830,
+    "start_char": 1706,
+    "end_char": 1831,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "VIII",
-    "start_char": 1830,
-    "end_char": 1937,
+    "start_char": 1831,
+    "end_char": 1938,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "IX",
-    "start_char": 1937,
-    "end_char": 2269,
+    "start_char": 1938,
+    "end_char": 2270,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "X",
-    "start_char": 2269,
-    "end_char": 2707,
+    "start_char": 2270,
+    "end_char": 2708,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XI",
-    "start_char": 2707,
-    "end_char": 2956,
+    "start_char": 2708,
+    "end_char": 2957,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XII",
-    "start_char": 2956,
-    "end_char": 3205,
+    "start_char": 2957,
+    "end_char": 3206,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XIII",
-    "start_char": 3205,
-    "end_char": 3539,
+    "start_char": 3206,
+    "end_char": 3540,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XIV",
-    "start_char": 3539,
-    "end_char": 3872,
+    "start_char": 3540,
+    "end_char": 3873,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XV",
-    "start_char": 3872,
-    "end_char": 4191,
+    "start_char": 3873,
+    "end_char": 4192,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XVI",
-    "start_char": 4191,
-    "end_char": 4443,
+    "start_char": 4192,
+    "end_char": 4444,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XVII",
-    "start_char": 4443,
-    "end_char": 4900,
+    "start_char": 4444,
+    "end_char": 4901,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XVIII",
-    "start_char": 4900,
-    "end_char": 5157,
+    "start_char": 4901,
+    "end_char": 5158,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XIX",
-    "start_char": 5157,
-    "end_char": 5220,
+    "start_char": 5158,
+    "end_char": 5221,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XX",
-    "start_char": 5220,
-    "end_char": 5456,
+    "start_char": 5221,
+    "end_char": 5457,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XXI",
-    "start_char": 5456,
-    "end_char": 5768,
+    "start_char": 5457,
+    "end_char": 5769,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XXII",
-    "start_char": 5768,
-    "end_char": 5939,
+    "start_char": 5769,
+    "end_char": 5940,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XXIII",
-    "start_char": 5939,
-    "end_char": 6253,
+    "start_char": 5940,
+    "end_char": 6254,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lih",
     "defining_provision_id": "urn:lex-mx:federal:statute:lih:article:3",
     "fraction": "XXIV",
-    "start_char": 6253,
-    "end_char": 6545,
+    "start_char": 6254,
+    "end_char": 6546,
     "basis": "express_definition"
   }
 ]

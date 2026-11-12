@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["LGV — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -19,7 +19,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 Las víctimas gozarán de los siguientes derechos:
 
-I. A ser informadas de manera clara, precisa y accesible de sus derechos por el Ministerio Público o la primera autoridad con la que tenga contacto o que conozca del hecho delictivo, tan pronto éste ocurra. El Ministerio Público deberá comunicar a la víctima los derechos que reconocen la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y esta Ley a su favor, dejando constancia en la carpeta de investigación de este hecho, con total independencia de que exista o no un probable responsable de los hechos;
+I. A ser informadas de manera clara, precisa y accesible de sus derechos por el Ministerio Público o la primera autoridad con la que tenga contacto o que conozca del hecho delictivo, tan pronto éste ocurra. El Ministerio Público deberá comunicar a la víctima los derechos que reconocen la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y esta [Ley](articulo-6.md) a su favor, dejando constancia en la carpeta de investigación de este hecho, con total independencia de que exista o no un probable responsable de los hechos;
 
 II. A que se les repare el daño en forma expedita, proporcional y justa en los términos a que se refiere el artículo [64](articulo-64.md) de esta Ley y de la legislación aplicable. En los casos en que la autoridad judicial dicte una sentencia condenatoria no podrá absolver al responsable de dicha reparación. Si la víctima o su [Asesor Jurídico](articulo-6.md) no solicitaran la reparación del daño, el Ministerio Público está obligado a hacerlo;
 
@@ -29,7 +29,9 @@ IV. A ser asesoradas y representadas dentro de la investigación y el proceso po
 
 V. A impugnar ante la autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento, con independencia de que se haya reparado o no el daño;
 
-VI. A comparecer en la fase de la investigación o al juicio y a que sean adoptadas medidas para minimizar las molestias causadas, proteger su intimidad, identidad y otros datos personales; VII. A que se garantice su seguridad, así como la de sus familiares y la de los testigos en su favor contra todo acto de amenaza, intimidación o represalia;
+VI. A comparecer en la fase de la investigación o al juicio y a que sean adoptadas medidas para minimizar las molestias causadas, proteger su intimidad, identidad y otros datos personales;
+
+VII. A que se garantice su seguridad, así como la de sus familiares y la de los testigos en su favor contra todo acto de amenaza, intimidación o represalia;
 
 VIII. A rendir o ampliar sus declaraciones sin ser identificados dentro de la audiencia, teniendo la obligación el juez de resguardar sus datos personales y, si lo solicitan, hacerlo por medios electrónicos;
 

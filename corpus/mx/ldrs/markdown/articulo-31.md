@@ -31,7 +31,9 @@ V. Vigilar la aplicación de las normas de carácter fitozoosanitario;
 
 VI. Evaluar los resultados de la aplicación de los programas federales y estatales e informar a los [Consejos Estatales](articulo-3o.md) al respecto;
 
-VII. Promover la participación activa de los agentes de la sociedad rural en las acciones institucionales y sectoriales; VIII. Promover la coordinación de las acciones consideradas en los programas de desarrollo rural sustentable, con las de los sectores industrial, comercial y de servicios con objeto de diversificar e incrementar el empleo en el campo;
+VII. Promover la participación activa de los agentes de la sociedad rural en las acciones institucionales y sectoriales;
+
+VIII. Promover la coordinación de las acciones consideradas en los programas de desarrollo rural sustentable, con las de los sectores industrial, comercial y de servicios con objeto de diversificar e incrementar el empleo en el campo;
 
 IX. Proponer al Consejo Estatal, como resultado de las consultas respectivas, los programas que éste deba conocer en su seno y se consideren necesarios para el fomento de las actividades productivas y el desarrollo rural sustentable;
 

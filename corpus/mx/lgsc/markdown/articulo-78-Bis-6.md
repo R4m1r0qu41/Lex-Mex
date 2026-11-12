@@ -7,8 +7,8 @@ provision_type: article
 number: "78 Bis 6"
 aliases: ["LGSC — Artículo 78 Bis 6"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf
 source_sha256: 7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f
 ---
@@ -27,6 +27,8 @@ III. Procedimiento general para determinar las cuotas que le deberán aportar la
 
 IV. Los mecanismos voluntarios de solución de controversias entre las organizaciones afiliadas;
 
-V. El programa de control y corrección interno para prevenir conflictos de interés y uso indebido de la información, y VI. Los procedimientos aplicables para el caso de que las organizaciones afiliadas incumplan sus obligaciones.
+V. El programa de control y corrección interno para prevenir conflictos de interés y uso indebido de la información, y
+
+VI. Los procedimientos aplicables para el caso de que las organizaciones afiliadas incumplan sus obligaciones.
 
 Artículo adicionado DOF 13-08-2009

@@ -29,7 +29,9 @@ I. Disponer de materiales pétreos en volúmenes mayores que los autorizados;
 
 II. Disponer de materiales pétreos sin cumplir con las [Normas Oficiales Mexicanas](articulo-3.md) respectivas;
 
-III. Depositar en cauces y otros cuerpos de agua de propiedad nacional, materiales pétreos y desperdicios de éstos, incluyendo escombro y cascajo, u otros desechos en forma permanente, intermitente o fortuita; IV. Dejar de pagar oportunamente las cuotas y derechos respectivos;
+III. Depositar en cauces y otros cuerpos de agua de propiedad nacional, materiales pétreos y desperdicios de éstos, incluyendo escombro y cascajo, u otros desechos en forma permanente, intermitente o fortuita;
+
+IV. Dejar de pagar oportunamente las cuotas y derechos respectivos;
 
 V. No ejecutar adecuadamente las obras y trabajos autorizados;
 

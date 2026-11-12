@@ -25,7 +25,9 @@ II.- Los decretos, reglamentos, acuerdos y órdenes del Ejecutivo Federal que se
 
 III.- Los acuerdos, circulares y órdenes de las Dependencias del Ejecutivo Federal, que sean de interés general;
 
-IV.- Los Tratados celebrados por el Gobierno de los Estados Unidos Mexicanos; V.- Los acuerdos y resoluciones de interés general emitidos por el Pleno de la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación; Fracción reformada DOF 31-05-2019
+IV.- Los Tratados celebrados por el Gobierno de los Estados Unidos Mexicanos;
+
+V.- Los acuerdos y resoluciones de interés general emitidos por el Pleno de la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación; Fracción reformada DOF 31-05-2019
 
 VI.- Las disposiciones jurídicas que la Constitución y las leyes ordenen que se publiquen en el Periódico Oficial; Fracción reformada DOF 05-06-2012, 31-05-2019
 

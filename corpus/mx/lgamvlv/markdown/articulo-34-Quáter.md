@@ -7,8 +7,8 @@ provision_type: article
 number: "34 Quáter"
 aliases: ["LGAMVLV — Artículo 34 Quáter"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -17,7 +17,9 @@ source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 
 # Artículo 34 Quáter
 
-Las órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones: I. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
+Las órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
+
+I. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
 
 II. El uso de medios o dispositivos electrónicos para impedir el contacto directo de la persona agresora con la víctima;
 

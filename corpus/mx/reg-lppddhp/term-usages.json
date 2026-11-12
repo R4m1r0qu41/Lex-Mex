@@ -253,12 +253,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:53:term-usage:230-242",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:53:term-usage:231-243",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:53",
     "term_id": "urn:lex-mx:federal:regulation:reg-lppddhp:term:beneficiario",
     "span": "Beneficiario",
-    "start_char": 230,
-    "end_char": 242
+    "start_char": 231,
+    "end_char": 243
   },
   {
     "schema_version": "0.1.0",
@@ -370,12 +370,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:66:term-usage:615-627",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:66:term-usage:616-628",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:66",
     "term_id": "urn:lex-mx:federal:regulation:reg-lppddhp:term:beneficiario",
     "span": "Beneficiario",
-    "start_char": 615,
-    "end_char": 627
+    "start_char": 616,
+    "end_char": 628
   },
   {
     "schema_version": "0.1.0",
@@ -487,21 +487,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:84:term-usage:234-246",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:84:term-usage:235-247",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:84",
     "term_id": "urn:lex-mx:federal:regulation:reg-lppddhp:term:beneficiario",
     "span": "Beneficiario",
-    "start_char": 234,
-    "end_char": 246
+    "start_char": 235,
+    "end_char": 247
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:84:term-usage:377-389",
+    "id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:84:term-usage:378-390",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lppddhp:article:84",
     "term_id": "urn:lex-mx:federal:regulation:reg-lppddhp:term:beneficiario",
     "span": "Beneficiario",
-    "start_char": 377,
-    "end_char": 389
+    "start_char": 378,
+    "end_char": 390
   },
   {
     "schema_version": "0.1.0",

@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["LFSV — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf
 source_sha256: ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6
 ---
@@ -19,7 +19,9 @@ source_sha256: ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6
 
 Queda sujeta a control mediante la expedición del certificado fitosanitario la importación de las siguientes mercancías cuando sean susceptibles de ser portadoras de plagas:
 
-I. Vegetales, sus productos o subproductos, agentes patogénicos y cualquier tipo de insumos, materiales y equipos que puedan representar un riesgo fitosanitario; II. Vehículos de transporte o embalajes y contenedores en los que se movilicen o contengan las mercancías mencionadas en la fracción anterior o cuando impliquen un riesgo de diseminación de plagas que afectan a los vegetales, sus productos o subproductos; y
+I. Vegetales, sus productos o subproductos, agentes patogénicos y cualquier tipo de insumos, materiales y equipos que puedan representar un riesgo fitosanitario;
+
+II. Vehículos de transporte o embalajes y contenedores en los que se movilicen o contengan las mercancías mencionadas en la fracción anterior o cuando impliquen un riesgo de diseminación de plagas que afectan a los vegetales, sus productos o subproductos; y
 
 III. Maquinaria agrícola usada, o partes de ésta.
 

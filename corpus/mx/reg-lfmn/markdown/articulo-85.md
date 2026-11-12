@@ -30,6 +30,8 @@ lll. Las especificaciones técnicas que definan los caracteres específicos del 
 
 lV. Una breve exposición de las modalidades y periodicidad con que se deberán ejercer los controles de calidad sobre la producción del bien en sus diversas etapas, así como en la transformación y comercialización del mismo;
 
-V. El régimen de sanciones; VI. Las condiciones que establecerá para el otorgamiento de autorizaciones de uso de la marca, las cuales en todo caso permitirán el acceso a cualquier persona que produzca, importe o comercialice el bien al que se refiera la misma, y
+V. El régimen de sanciones;
+
+VI. Las condiciones que establecerá para el otorgamiento de autorizaciones de uso de la marca, las cuales en todo caso permitirán el acceso a cualquier persona que produzca, importe o comercialice el bien al que se refiera la misma, y
 
 Vll. El grado de concordancia del pliego de condiciones con las normas oficiales mexicanas, normas mexicanas y normas o lineamientos internacionales.

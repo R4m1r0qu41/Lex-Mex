@@ -19,7 +19,9 @@ source_sha256: 2f9532986cf47aef5de1f50af5e758333d65b7fdab15489bb0c41c36bcb60133
 
 Para la aprobación de un tratado se observarán los siguientes objetivos generales:
 
-I. Contribuir a mejorar la calidad de vida y el nivel de bienestar de la población mexicana; II. Propiciar el aprovechamiento de los recursos productivos del país;
+I. Contribuir a mejorar la calidad de vida y el nivel de bienestar de la población mexicana;
+
+II. Propiciar el aprovechamiento de los recursos productivos del país;
 
 III. Promover el acceso de los productos mexicanos a los mercados internacionales;
 

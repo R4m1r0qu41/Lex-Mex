@@ -7,8 +7,8 @@ provision_type: article
 number: "19"
 aliases: ["LFSV — Artículo 19"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf
 source_sha256: ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6
 ---

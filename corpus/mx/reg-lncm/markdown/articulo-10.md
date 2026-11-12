@@ -33,7 +33,9 @@ VI. Barcaza. Embarcación destinada al transporte de carga u otro servicio espec
 
 VII. Bote Auxiliar Pesquero. Embarcación pequeña, que se transporta en [Embarcaciones Pesqueras](articulo-10.md), que se pone en el agua y se tripula para asistir las labores de pesca en los diferentes puntos seleccionados para pescar;
 
-VIII. Bote de Rescate. El proyectado para salvar a personas en peligro y concentrar [Embarcaciones de Supervivencia](articulo-10.md); IX. Capitanía de Puerto. La unidad administrativa dependiente de la Dirección General, a la que corresponde ejercer la [Autoridad Marítima Mercante](articulo-10.md) y portuaria en cada puerto, conforme a la legislación aplicable;
+VIII. Bote de Rescate. El proyectado para salvar a personas en peligro y concentrar [Embarcaciones de Supervivencia](articulo-10.md);
+
+IX. Capitanía de Puerto. La unidad administrativa dependiente de la Dirección General, a la que corresponde ejercer la [Autoridad Marítima Mercante](articulo-10.md) y portuaria en cada puerto, conforme a la legislación aplicable;
 
 X. CCTM. Conjunto de equipos y sistemas adaptados a las características del puerto y cuyo esquema operativo establece medidas preventivas, destinadas a evitar cualquier tipo de riesgo a toda Embarcación que transite dentro de su área de influencia;
 
@@ -63,7 +65,9 @@ XXII. Convenio STCW. Por sus siglas en inglés, Convenio Internacional sobre Nor
 
 XXIII. Cubierta Principal. La cubierta completa más baja de las que quedan por encima de la máxima flotación de servicio;
 
-XXIV. Derrota. Línea trazada sobre el plano y que debe seguir el buque para trasladarse de un lugar a otro; XXV. Desechos. Aquéllos residuos y mezclas oleosas, [Sustancias Nocivas Líquidas](articulo-10.md), aguas sucias, aguas residuales, aguas de lastre y basuras, generadas por las Embarcaciones y Artefactos Navales;
+XXIV. Derrota. Línea trazada sobre el plano y que debe seguir el buque para trasladarse de un lugar a otro;
+
+XXV. Desechos. Aquéllos residuos y mezclas oleosas, [Sustancias Nocivas Líquidas](articulo-10.md), aguas sucias, aguas residuales, aguas de lastre y basuras, generadas por las Embarcaciones y Artefactos Navales;
 
 XXVI. DGPMPT. Dirección General de Protección y Medicina Preventiva en el Transporte dependiente de la Secretaría;
 
@@ -93,7 +97,9 @@ XXXVIII. Espacios Cerrados. Los limitados por el casco de la Embarcación por ma
 
 XXXIX. Espacios de Carga. Los que deben incluirse en el cálculo del [Arqueo Neto](articulo-10.md) son los [Espacios Cerrados](articulo-10.md) adecuados para el transporte de la carga que ha de descargarse de la Embarcación a condición de que esos espacios hayan sido incluidos en el cálculo del Arqueo Bruto. Estos Espacios de Carga serán certificados mediante marcas permanentes;
 
-XL. FIDENA. Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante Nacional; XLI. Hidrocarburos. A los recursos establecidos en el artículo 4, fracción XX de la Ley de Hidrocarburos, así como a los productos señalados en las fracciones XXVIII y XXIX de dicho artículo;
+XL. FIDENA. Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante Nacional;
+
+XLI. Hidrocarburos. A los recursos establecidos en el artículo 4, fracción XX de la Ley de Hidrocarburos, así como a los productos señalados en las fracciones XXVIII y XXIX de dicho artículo;
 
 XLII. IACS. Por sus siglas en inglés, Asociación Internacional de Sociedades de Clasificación;
 
@@ -121,7 +127,9 @@ LIII. Libreta de Mar. Documento que otorga la Dirección General a través de la
 
 LIV. Manga. Anchura máxima de un buque;
 
-LV. MARPOL. Por sus siglas en inglés, Convenio Internacional para Prevenir la Contaminación del Mar por Buques; LVI. Medios y Dispositivos de Salvamento. Aquéllos necesarios para salvaguardar la vida de las personas en caso de accidentes o siniestros en el cual está en riesgo su integridad física, y que son entre otros: señales visuales, Embarcaciones de Supervivencia, Botes de Rescate, dispositivos de puesta a flote y de embarco;
+LV. MARPOL. Por sus siglas en inglés, Convenio Internacional para Prevenir la Contaminación del Mar por Buques;
+
+LVI. Medios y Dispositivos de Salvamento. Aquéllos necesarios para salvaguardar la vida de las personas en caso de accidentes o siniestros en el cual está en riesgo su integridad física, y que son entre otros: señales visuales, Embarcaciones de Supervivencia, Botes de Rescate, dispositivos de puesta a flote y de embarco;
 
 LVII. Nave de Gran Velocidad. Aquélla capaz de desarrollar una velocidad máxima en metros por segundo (m/s) igual o superior a 3,7 0.1667 con la salvedad de las naves cuyo casco está completamente sustentado por encima de la superficie del agua en la modalidad sin desplazamiento, estando sustentado por las fuerzas aerodinámicas generadas por las aletas de soporte;
 
@@ -179,7 +187,9 @@ LXXXIII. Tiempo de Embarque. Periodo durante el cual el Personal de la Marina Me
 
 LXXXIV. Turismo Náutico. La Navegación que con fines recreativos o deportivos se realiza en las vías navegables con Embarcaciones Menores de Recreo y Deportivas, sea para uso particular o con fines comerciales para brindar servicios a terceros;
 
-LXXXV. UAB. Unidades de Arqueo Bruto; LXXXVI. Unidad Adicional Recreativa. Es el aparato remolcado por la Embarcación del Prestador de servicios, que se utiliza para llevar a los usuarios en un recorrido por la ruta o zona de operación autorizada;
+LXXXV. UAB. Unidades de Arqueo Bruto;
+
+LXXXVI. Unidad Adicional Recreativa. Es el aparato remolcado por la Embarcación del Prestador de servicios, que se utiliza para llevar a los usuarios en un recorrido por la ruta o zona de operación autorizada;
 
 LXXXVII. Unidad de Apoyo Mar Adentro. Toda Embarcación o Artefacto Naval, instalación o estructura mar adentro, que coadyuve a la operación de las Unidades Fijas Mar Adentro o Móviles de Perforación Mar Adentro;
 

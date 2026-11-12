@@ -33,7 +33,9 @@ VI. Contar con un traductor o intérprete para facilitar la comunicación, en ca
 
 VII. Acceder a comunicación telefónica;
 
-VIII. A recibir durante su estancia un espacio digno, alimentos, enseres básicos para su aseo personal y atención médica en caso de ser necesario; IX. Ser visitado por sus familiares y por su representante legal;
+VIII. A recibir durante su estancia un espacio digno, alimentos, enseres básicos para su aseo personal y atención médica en caso de ser necesario;
+
+IX. Ser visitado por sus familiares y por su representante legal;
 
 X. Participar en actividades recreativas, educativas y culturales que se organicen dentro de las instalaciones;
 

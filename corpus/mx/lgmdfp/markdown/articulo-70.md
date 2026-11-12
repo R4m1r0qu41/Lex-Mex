@@ -41,7 +41,9 @@ VIII. Solicitar a la autoridad judicial competente la autorización para ordenar
 
 IX. Realizar y comunicar sin dilación todos aquellos actos que requieran de autorización judicial que previamente hayan sido solicitados por la Comisión que corresponda para la búsqueda y localización de una [Persona Desaparecida](articulo-4.md);
 
-X. Conformar grupos de trabajo interinstitucionales y multidisciplinarios para la coordinación de la investigación de hechos probablemente constitutivos de los delitos materia de esta Ley, cuando de la información con la que cuente la autoridad se desprenda que pudieron ocurrir en dos o más [Entidades Federativas](articulo-4.md) o se trata de una persona extranjera en situación de migración, independientemente de su situación migratoria; XI. Solicitar el apoyo policial a las autoridades competentes, para realizar las tareas de investigación en campo;
+X. Conformar grupos de trabajo interinstitucionales y multidisciplinarios para la coordinación de la investigación de hechos probablemente constitutivos de los delitos materia de esta Ley, cuando de la información con la que cuente la autoridad se desprenda que pudieron ocurrir en dos o más [Entidades Federativas](articulo-4.md) o se trata de una persona extranjera en situación de migración, independientemente de su situación migratoria;
+
+XI. Solicitar el apoyo policial a las autoridades competentes, para realizar las tareas de investigación en campo;
 
 XII. Recabar la información necesaria para la persecución e investigación de los delitos previstos en esta u otras leyes;
 
@@ -63,7 +65,9 @@ Las investigaciones deben realizarse en un término no mayor de setenta y dos ho
 
 XIX. Solicitar a las autoridades jurisdiccionales competentes el traslado de las personas internas a otros centros de reclusión salvaguardando sus derechos humanos, siempre que esta medida favorezca la búsqueda o localización de las Personas Desaparecidas o a la investigación de los delitos materia de esta Ley, en términos de la Ley Nacional de Ejecución Penal;
 
-XX. Facilitar la participación de los [Familiares](articulo-4.md) en la investigación de los delitos previstos en esta Ley, incluido brindar información periódicamente a los Familiares sobre los avances en el proceso de la investigación y persecución de los delitos previstos en esta Ley en términos del Código Nacional de Procedimientos Penales; XXI. Celebrar convenios de colaboración o cooperación, para el óptimo cumplimiento de las atribuciones que le corresponden de conformidad con la presente Ley;
+XX. Facilitar la participación de los [Familiares](articulo-4.md) en la investigación de los delitos previstos en esta Ley, incluido brindar información periódicamente a los Familiares sobre los avances en el proceso de la investigación y persecución de los delitos previstos en esta Ley en términos del Código Nacional de Procedimientos Penales;
+
+XXI. Celebrar convenios de colaboración o cooperación, para el óptimo cumplimiento de las atribuciones que le corresponden de conformidad con la presente Ley;
 
 XXII. Brindar la información que la Comisión Ejecutiva y las Comisiones de Víctimas le soliciten para mejorar la atención a las [Víctimas](articulo-4.md), en términos de lo que establezcan las disposiciones aplicables;
 

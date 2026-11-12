@@ -19,7 +19,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 La [Secretaría](articulo-2.md) tendrá las siguientes atribuciones y facultades:
 
-I. Autorizar, previa opinión de la [Confederación](articulo-2.md) correspondiente, la constitución de nuevas Cámaras;
+I. Autorizar, previa opinión de la [Confederación](articulo-2.md) correspondiente, la constitución de nuevas [Cámaras](articulo-2.md);
 
 II. Registrar las delegaciones de las Cámaras;
 

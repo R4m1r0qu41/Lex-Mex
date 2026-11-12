@@ -35,7 +35,9 @@ IV.- Las instituciones de fianzas, los relativos a:
 
 a).- Expedición y número de fianza, tratándose de importación temporal de vehículos, incluyendo el nombre de la institución, y
 
-b).- Cancelación de la fianza y causa de la misma; V.- Las instituciones de crédito, organizaciones auxiliares del crédito y demás entidades financieras y comercializadoras, cuando los créditos que otorguen sean garantizados con vehículos, el aviso de gravamen o cancelación del mismo.
+b).- Cancelación de la fianza y causa de la misma;
+
+V.- Las instituciones de crédito, organizaciones auxiliares del crédito y demás entidades financieras y comercializadoras, cuando los créditos que otorguen sean garantizados con vehículos, el aviso de gravamen o cancelación del mismo.
 
 Los avisos a que se refiere esta fracción y los previstos sobre gravámenes, se harán sin perjuicio de lo dispuesto en la legislación mercantil en vigor;
 

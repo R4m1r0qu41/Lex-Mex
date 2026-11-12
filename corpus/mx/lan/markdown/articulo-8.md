@@ -19,7 +19,9 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 Son atribuciones del Secretario del Medio Ambiente y Recursos Naturales:
 
-I. Proponer al Ejecutivo Federal la política hídrica del país; II. Proponer al Ejecutivo Federal los proyectos de ley, reglamentos, decretos y acuerdos relativos al sector;
+I. Proponer al Ejecutivo Federal la política hídrica del país;
+
+II. Proponer al Ejecutivo Federal los proyectos de ley, reglamentos, decretos y acuerdos relativos al sector;
 
 III. Fungir como Presidente del Consejo Técnico de "la Comisión";
 

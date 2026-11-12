@@ -39,7 +39,9 @@ IX. La Fiscalía Especializada de Asuntos Internos;
 
 X. La Agencia de Investigación Criminal;
 
-XI. El Órgano Especializado de Mecanismos Alternativos de Solución de Controversias; XII. La Oficialía Mayor;
+XI. El Órgano Especializado de Mecanismos Alternativos de Solución de Controversias;
+
+XII. La Oficialía Mayor;
 
 XIII. El Órgano Interno de Control;
 

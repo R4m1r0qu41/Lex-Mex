@@ -17,9 +17,11 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 37
 
-El Sistema tendrá los siguientes objetivos:
+El [Sistema](articulo-2.md) tendrá los siguientes objetivos:
 
-I. Difundir los derechos de las personas con discapacidad; II. Promover convenios de colaboración y coordinación entre las instancias públicas y privadas nacionales e internacionales para el cumplimiento de la presente [Ley](articulo-2.md);
+I. Difundir los derechos de las personas con discapacidad;
+
+II. Promover convenios de colaboración y coordinación entre las instancias públicas y privadas nacionales e internacionales para el cumplimiento de la presente [Ley](articulo-2.md);
 
 III. Fortalecer los mecanismos de corresponsabilidad, solidaridad y subsidiariedad a favor de las personas con discapacidad;
 

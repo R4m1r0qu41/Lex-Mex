@@ -23,7 +23,9 @@ I.- Cuando la materia protegida no pueda ser objeto de un registro de diseño in
 
 II.- Cuando la descripción y representaciones gráficas o fotográficas no permitan la comprensión clara y completa del diseño;
 
-III.- Cuando sea resultado de una solicitud divisional que haya sido tramitada en contravención a lo dispuesto por el artículo [100](articulo-100.md) de esta Ley; IV.- Cuando con motivo del procedimiento de rectificación o limitación a que se refieren los artículos [122](articulo-122.md) y [124](articulo-124.md) de esta Ley se haya ampliado la materia protegida o se hayan eliminado las características que le confieren novedad al diseño industrial;
+III.- Cuando sea resultado de una solicitud divisional que haya sido tramitada en contravención a lo dispuesto por el artículo [100](articulo-100.md) de esta Ley;
+
+IV.- Cuando con motivo del procedimiento de rectificación o limitación a que se refieren los artículos [122](articulo-122.md) y [124](articulo-124.md) de esta Ley se haya ampliado la materia protegida o se hayan eliminado las características que le confieren novedad al diseño industrial;
 
 V.- Cuando por error o inadvertencia se haya reconocido un derecho de prioridad y con ello se determinó indebidamente la novedad de la materia protegida, y
 

@@ -19,6 +19,8 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 Los certificados de las Embarcaciones y Artefactos Navales, perderán su validez en los siguientes casos:
 
-I. Si como resultado de un reconocimiento, [Inspección](articulo-10.md) o verificación, se determina que no se cumplen las condiciones necesarias de seguridad de la Embarcación o Artefacto Naval, de sus tripulantes o la prevención de la contaminación del medio marino; II. Cuando cambie de Propietario, matrícula o bandera, o
+I. Si como resultado de un reconocimiento, [Inspección](articulo-10.md) o verificación, se determina que no se cumplen las condiciones necesarias de seguridad de la Embarcación o Artefacto Naval, de sus tripulantes o la prevención de la contaminación del medio marino;
+
+II. Cuando cambie de Propietario, matrícula o bandera, o
 
 III. Cuando no cuente con las revalidaciones anuales de conformidad con lo dispuesto en el presente Capítulo.

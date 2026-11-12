@@ -23,6 +23,8 @@ I. Promover y favorecer el bienestar social y económico de los productores, de 
 
 II. Corregir disparidades de desarrollo regional a través de la atención diferenciada a las regiones de mayor rezago, mediante una acción integral del Estado que impulse su transformación y la reconversión productiva y económica, con un enfoque productivo de desarrollo rural sustentable;
 
-III. Contribuir a la soberanía y seguridad alimentaria de la nación mediante el impulso de la producción agropecuaria del país; IV. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable; y
+III. Contribuir a la soberanía y seguridad alimentaria de la nación mediante el impulso de la producción agropecuaria del país;
+
+IV. Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su aprovechamiento sustentable; y
 
 V. Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura nacional.

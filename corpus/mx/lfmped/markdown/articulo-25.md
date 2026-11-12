@@ -23,7 +23,9 @@ Los miembros del Comité no se considerarán responsables por daños y perjuicio
 
 I. Actúen conforme a sus facultades;
 
-II. Tomen sus decisiones con base en la información disponible al momento de la decisión, y III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender, o los efectos patrimoniales negativos no hayan sido previsibles; en ambos casos, con base en la información disponible al momento de la decisión.
+II. Tomen sus decisiones con base en la información disponible al momento de la decisión, y
+
+III. Hayan seleccionado la alternativa más adecuada, a su leal saber y entender, o los efectos patrimoniales negativos no hayan sido previsibles; en ambos casos, con base en la información disponible al momento de la decisión.
 
 En los procedimientos de responsabilidad que, en su caso, se lleven a cabo en contra de los miembros del Comité, será necesario que se acredite el dolo o mala fe con que se condujeron para poder fincar la responsabilidad de orden civil, penal o administrativa que corresponda.
 

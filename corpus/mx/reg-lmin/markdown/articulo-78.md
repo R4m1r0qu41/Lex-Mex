@@ -29,7 +29,9 @@ IV. Nombre del cesionario, adjudicatario o beneficiario de la afectación;
 
 V. Vigencia, en su caso, del acto, contrato o convenio;
 
-VI. Pagos, compensaciones, regalías e indemnizaciones pactados o importe del crédito que se garantiza; VII. Datos de identificación del documento que consigne la transmisión, adjudicación, gravamen o el consentimiento para la cancelación de la inscripción, y
+VI. Pagos, compensaciones, regalías e indemnizaciones pactados o importe del crédito que se garantiza;
+
+VII. Datos de identificación del documento que consigne la transmisión, adjudicación, gravamen o el consentimiento para la cancelación de la inscripción, y
 
 VIII. Original y copia del documento donde conste la transmisión, adjudicación, gravamen o el consentimiento para la cancelación de la inscripción.
 

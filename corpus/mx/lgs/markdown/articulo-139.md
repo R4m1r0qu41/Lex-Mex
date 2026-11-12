@@ -25,7 +25,9 @@ II. El aislamiento, por el tiempo estrictamente necesario, de los enfermos, de l
 
 III. La observación, en el grado que se requiera, de los contactos humanos y animales;
 
-IV. La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos; V. La descontaminación microbiana o parasitaria, desinfección y desinsectación de zonas, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
+IV. La aplicación de sueros, vacunas y otros recursos preventivos y terapéuticos;
+
+V. La descontaminación microbiana o parasitaria, desinfección y desinsectación de zonas, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
 
 VI. La destrucción o control de vectores y reservorios y de fuentes de infección naturales o artificiales, cuando representen peligro para la salud;
 

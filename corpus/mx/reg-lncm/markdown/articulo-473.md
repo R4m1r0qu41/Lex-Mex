@@ -23,6 +23,8 @@ I. Despacho del puerto de origen. Para el caso de Embarcaciones provenientes de 
 
 II. Documento vigente que acredite que la Embarcación se encuentra registrada en su país de origen;
 
-III. Inspección sanitaria marítima; IV. Lista de tripulantes y/o [Pasajeros](articulo-10.md), y
+III. Inspección sanitaria marítima;
+
+IV. Lista de tripulantes y/o [Pasajeros](articulo-10.md), y
 
 V. En el caso de Embarcaciones extranjeras, itinerario estimado de los puertos y puntos nacionales a visitar, así como puerto de salida al extranjero.

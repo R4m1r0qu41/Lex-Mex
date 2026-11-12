@@ -17,7 +17,9 @@ source_sha256: 50d888e53a7b0990f6d19dbab03d263e01ca7d4a4365a0c2663e03caf9f2715c
 
 # Artículo 8
 
-Las actividades en materia de contraloría social deberán ir encaminadas a: I. Supervisar el correcto ejercicio y aplicación por parte de las Dependencias y Entidades de los recursos públicos federales destinados a acciones de fomento;
+Las actividades en materia de contraloría social deberán ir encaminadas a:
+
+I. Supervisar el correcto ejercicio y aplicación por parte de las Dependencias y Entidades de los recursos públicos federales destinados a acciones de fomento;
 
 II. Vigilar y evaluar el adecuado y oportuno desarrollo de los programas y acciones de fomento que realicen las diferentes Dependencias y Entidades, y
 

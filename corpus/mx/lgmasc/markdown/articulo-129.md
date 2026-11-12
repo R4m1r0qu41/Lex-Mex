@@ -21,7 +21,9 @@ La persona facilitadora citará a las partes para la realización de una sesión
 
 I. La persona facilitadora proporcionará a las partes toda la información relativa al procedimiento, principios que rigen, tratamiento de la información aportada durante el procedimiento, efecto de suspensión de términos, efectos en la ejecución del acto administrativo, modo en que se realizan las sesiones, el derecho de asistirse de peritos o especialistas, alcance y efectos de los convenios emanados del procedimiento;
 
-II. La persona facilitadora verificará la identidad y personalidad de las partes. Las partes que concurran deberán acreditar ante el Centro Público su personalidad jurídica, así como sus facultades suficientes para representar y transigir en los mecanismos alternativos de solución de controversias; III. Las autoridades administrativas deberán exhibir el dictamen técnico-jurídico de conformidad con las disposiciones aplicables;
+II. La persona facilitadora verificará la identidad y personalidad de las partes. Las partes que concurran deberán acreditar ante el Centro Público su personalidad jurídica, así como sus facultades suficientes para representar y transigir en los mecanismos alternativos de solución de controversias;
+
+III. Las autoridades administrativas deberán exhibir el dictamen técnico-jurídico de conformidad con las disposiciones aplicables;
 
 IV. Las partes deberán manifestar bajo protesta de decir verdad si conocen la existencia de derechos de terceros. Cuando se conozca la existencia de derechos de terceros, la persona facilitadora citará al mismo para que manifieste su conformidad u oposición al procedimiento.
 

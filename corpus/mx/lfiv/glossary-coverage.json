@@ -8,10 +8,11 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lfiv:article:3",
-      "provision_text_sha256": "12ac81b5a33bd576cdfaa90a476199b7dcebd9c58c1dcfa074353c577b6dcb91",
+      "provision_text_sha256": "ce7ded7bf7367ad21eb6070efcd6f720896e320be78387092a4becfa6380033d",
       "method": "established_pass",
       "fractions": [
         "I",
+        "II",
         "III",
         "IV",
         "V",
@@ -28,10 +29,10 @@
         "XVI"
       ],
       "unread_fractions": [],
-      "term_count": 15
+      "term_count": 16
     }
   ],
   "imports": [],
-  "term_count": 15,
-  "usage_count": 99
+  "term_count": 16,
+  "usage_count": 138
 }

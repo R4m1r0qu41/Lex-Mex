@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["REG-LGAMVLV — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf
 source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 ---
@@ -25,7 +25,9 @@ II. Comisión Nacional: Comisión Nacional para Prevenir y Erradicar la Violenci
 
 III. Diagnóstico Nacional: estudio con Perspectiva de Género sobre los tipos y Modalidades de Violencia contra las Mujeres y niñas a nivel nacional, a fin de obtener información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la Violencia contra las Mujeres;
 
-IV. Dignidad: valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares; V. Eje de Acción: conjunto de estrategias transversales basados en principios rectores con Perspectiva de Género y de Derechos Humanos de las Mujeres que se llevan a cabo para aplicar las políticas públicas tendientes a prevenir, atender, sancionar y erradicar los tipos y Modalidades de la Violencia;
+IV. Dignidad: valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares;
+
+V. Eje de Acción: conjunto de estrategias transversales basados en principios rectores con Perspectiva de Género y de Derechos Humanos de las Mujeres que se llevan a cabo para aplicar las políticas públicas tendientes a prevenir, atender, sancionar y erradicar los tipos y Modalidades de la Violencia;
 
 VI. Estado de Riesgo: cualquier circunstancia que haga previsible una situación de Violencia contra las Mujeres;
 

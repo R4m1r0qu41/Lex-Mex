@@ -27,7 +27,9 @@ III. Promover mecanismos de participación pública en el manejo y conservación
 
 IV. Proponer a través del Consejo de Pesca y Acuacultura de la entidad federativa, métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca; Fracción reformada DOF 19-01-2018
 
-V. Participar en la formulación de los programas de ordenamiento pesquero y acuícola; VI. En coordinación con el gobierno de la entidad federativa, participar en las acciones de sanidad acuícola, en los términos de esta Ley y de la legislación local; Fracción reformada DOF 19-01-2018
+V. Participar en la formulación de los programas de ordenamiento pesquero y acuícola;
+
+VI. En coordinación con el gobierno de la entidad federativa, participar en las acciones de sanidad acuícola, en los términos de esta Ley y de la legislación local; Fracción reformada DOF 19-01-2018
 
 VII. Promover y fomentar la actividad acuícola, en armonía con la preservación del ambiente y la conservación de la biodiversidad; y
 

@@ -23,7 +23,9 @@ I. Secretaría de Gobernación;
 
 II. Secretaría de Relaciones Exteriores;
 
-III. Secretaría de Marina; IV. Secretaría de Desarrollo Social;
+III. Secretaría de Marina;
+
+IV. Secretaría de Desarrollo Social;
 
 V. Secretaría de Medio Ambiente y Recursos Naturales;
 

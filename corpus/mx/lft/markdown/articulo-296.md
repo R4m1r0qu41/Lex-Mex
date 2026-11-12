@@ -21,4 +21,6 @@ La prima por transferencia de jugadores se sujetará a las normas siguientes:
 
 I. La empresa o club dará a conocer a los deportistas profesionales el reglamento o cláusulas que la contengan;
 
-II. El monto de la prima se determinará por acuerdo entre el deportista profesional y la empresa o club, y se tomarán en consideración la categoría de los eventos o funciones, la de los equipos, la del deportista profesional y su antigüedad en la empresa o club; y III. La participación del deportista profesional en la prima será de un veinticinco por ciento, por lo menos. Si el porcentaje fijado es inferior al cincuenta por ciento, se aumentará en un cinco por ciento por cada año de servicios, hasta llegar al cincuenta por ciento, por lo menos.
+II. El monto de la prima se determinará por acuerdo entre el deportista profesional y la empresa o club, y se tomarán en consideración la categoría de los eventos o funciones, la de los equipos, la del deportista profesional y su antigüedad en la empresa o club; y
+
+III. La participación del deportista profesional en la prima será de un veinticinco por ciento, por lo menos. Si el porcentaje fijado es inferior al cincuenta por ciento, se aumentará en un cinco por ciento por cada año de servicios, hasta llegar al cincuenta por ciento, por lo menos.

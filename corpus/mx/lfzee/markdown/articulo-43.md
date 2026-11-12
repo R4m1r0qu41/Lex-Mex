@@ -17,7 +17,9 @@ source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 
 # Artículo 43
 
-Además de la información que señala la legislación en materia de transparencia y acceso a la información pública, la [Secretaría](articulo-3.md) deberá poner a disposición de la sociedad, a través de su página de Internet y en apartados específicos, cuando menos lo siguiente: I. Las disposiciones administrativas aplicables en materia de [Zonas](articulo-3.md):
+Además de la información que señala la legislación en materia de transparencia y acceso a la información pública, la [Secretaría](articulo-3.md) deberá poner a disposición de la sociedad, a través de su página de Internet y en apartados específicos, cuando menos lo siguiente:
+
+I. Las disposiciones administrativas aplicables en materia de [Zonas](articulo-3.md):
 
 a) Los lineamientos que emita la Secretaría para establecer los requisitos, procedimientos y criterios de evaluación conforme a los cuales se otorgarán los [Permisos](articulo-3.md) o, en su caso, las [Asignaciones](articulo-3.md) a los [Administradores Integrales](articulo-3.md) de las Zonas correspondientes, y
 

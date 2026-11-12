@@ -29,7 +29,9 @@ IV. Determinar las zonas de identificación de defensa aérea y las zonas de vig
 
 V. Emitir la declaratoria de [Alertamiento aéreo](articulo-5.md), a efecto de que se lleven a cabo las acciones de protección del Espacio Aéreo Mexicano, de conformidad con los protocolos que emita el [Consejo](articulo-5.md);
 
-VI. Coordinar y ejecutar la Interceptación aérea de aeronaves en el Espacio Aéreo Mexicano; VII. Recibir las notificaciones de Identificación de las aeronaves en una [Zona de Identificación de Defensa Aérea](articulo-5.md);
+VI. Coordinar y ejecutar la Interceptación aérea de aeronaves en el Espacio Aéreo Mexicano;
+
+VII. Recibir las notificaciones de Identificación de las aeronaves en una [Zona de Identificación de Defensa Aérea](articulo-5.md);
 
 VIII. Emitir opinión en la expedición de medidas y normas respecto al tráfico aéreo que afecte la protección del Espacio Aéreo Mexicano en términos de esta Ley;
 

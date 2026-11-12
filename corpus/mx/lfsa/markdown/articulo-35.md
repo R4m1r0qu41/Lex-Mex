@@ -19,7 +19,9 @@ source_sha256: 199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08
 
 La Secretaría podrá dejar sin efecto los certificados zoosanitarios para importación que se hayan expedido ante la inminente introducción y diseminación en el territorio nacional de enfermedades y plagas de los animales de declaración obligatoria para México, por notificación oficial, diagnóstico u otro mecanismo científicamente sustentado, así como adoptar cualquiera de las siguientes medidas zoosanitarias:
 
-I. Prohibir o restringir la importación de animales, cadáveres, despojos, bienes de origen animal, productos para uso o consumo animal, vehículos, maquinaria y equipo pecuario usado, y cualquier otra mercancía que pueda diseminar enfermedades o plagas. II. Prohibir o restringir la movilización de animales, cadáveres, despojos, bienes de origen animal, productos para uso o consumo animal, vehículos, maquinaria y equipo pecuario usado, y cualquier otra mercancía que pueda diseminar enfermedades o plagas, en una zona determinada o en todo el territorio nacional;
+I. Prohibir o restringir la importación de animales, cadáveres, despojos, bienes de origen animal, productos para uso o consumo animal, vehículos, maquinaria y equipo pecuario usado, y cualquier otra mercancía que pueda diseminar enfermedades o plagas.
+
+II. Prohibir o restringir la movilización de animales, cadáveres, despojos, bienes de origen animal, productos para uso o consumo animal, vehículos, maquinaria y equipo pecuario usado, y cualquier otra mercancía que pueda diseminar enfermedades o plagas, en una zona determinada o en todo el territorio nacional;
 
 III. Asegurar y, en su caso, ordenar el sacrificio de aquellos animales que representen un riesgo;
 

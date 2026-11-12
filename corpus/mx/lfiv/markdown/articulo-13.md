@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 13
 
-Las diferentes instituciones y entes de la Administración Pública Federal y Estatal, en el ámbito de sus competencias, así como las asociaciones, consejos, comités y representaciones privadas podrán apoyar a la Comisión en el ejercicio de sus atribuciones, bajo los principios de colaboración, coordinación e información interinstitucional.
+Las diferentes instituciones y entes de la Administración Pública Federal y Estatal, en el ámbito de sus competencias, así como las asociaciones, consejos, comités y representaciones privadas podrán apoyar a la [Comisión](articulo-3.md) en el ejercicio de sus atribuciones, bajo los principios de colaboración, coordinación e información interinstitucional.

@@ -53,6 +53,8 @@ XI. Emitir cédulas de identificación para el personal que labora dentro de la 
 
 XII. Cumplir lo dispuesto en las leyes en materia de trabajo y seguridad social, de protección al medio ambiente y equilibrio ecológico, y las demás disposiciones jurídicas aplicables;
 
-XIII. Elaborar y conservar sus estados financieros, archivos y registros contables, de conformidad con las disposiciones jurídicas aplicables; XIV. Proporcionar la información que, en su caso, le requiera el [Consejo Técnico de la Zona](articulo-4.md), y
+XIII. Elaborar y conservar sus estados financieros, archivos y registros contables, de conformidad con las disposiciones jurídicas aplicables;
+
+XIV. Proporcionar la información que, en su caso, le requiera el [Consejo Técnico de la Zona](articulo-4.md), y
 
 XV. Las demás que establezcan las disposiciones jurídicas aplicables.

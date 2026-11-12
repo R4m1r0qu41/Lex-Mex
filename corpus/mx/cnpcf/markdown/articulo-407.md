@@ -19,7 +19,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 La autoridad jurisdiccional deberá decretar de plano la retención de bienes, cuando la persona que la pida cumpla con los siguientes requisitos:
 
-I. Pruebe la existencia de un crédito cierto, líquido y exigible a su favor; II. Exprese el valor de las prestaciones o el de la cosa que se reclama, designando ésta con toda precisión;
+I. Pruebe la existencia de un crédito cierto, líquido y exigible a su favor;
+
+II. Exprese el valor de las prestaciones o el de la cosa que se reclama, designando ésta con toda precisión;
 
 III. Manifieste, bajo protesta de decir verdad, las razones por las cuales tenga temor fundado de que los bienes consignados como garantía o respecto de los cuales se vaya a ejercitar la acción real serán ocultados, dilapidados, dispuestos o enajenados. En caso de que dichos bienes sean insuficientes para garantizar el adeudo, deberá acreditarlo con el avalúo o las constancias respectivas;
 

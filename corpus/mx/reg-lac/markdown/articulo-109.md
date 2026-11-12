@@ -37,7 +37,9 @@ VII. Contar con las listas de verificación que deben seguir las tripulaciones d
 
 VII Bis. Asegurarse de que cuando a bordo de una aeronave se utilicen maletines de vuelo electrónicos (EFB) y maletines de vuelo electrónicos de cabina (C-EFB) portátiles, no se afecte la actuación de los sistemas y equipo del avión o a la capacidad de operar el mismo. Las funciones y requisitos para su aprobación operacional se establecerán las disposiciones técnico- administrativas correspondientes; Fracción adicionada DOF 21-01-2022. Reformada DOF 31-05-2023
 
-VIII. Contar con un Sistema de Gestión de la Seguridad Operacional en un manual autorizado por la Agencia Federal de Aviación Civil y elaborado conforme a las disposiciones técnico- administrativas emitidas para tal efecto; Fracción reformada DOF 21-01-2022, 31-05-2023 IX. Contar con un programa de seguridad para la prevención de actos de interferencia ilícita autorizado por la Agencia Federal de Aviación Civil, que se elaborará de conformidad a las disposiciones técnico-administrativas emitidas para tal efecto; Fracción reformada DOF 14-03-2014, 21-01-2022, 31-05-2023
+VIII. Contar con un Sistema de Gestión de la Seguridad Operacional en un manual autorizado por la Agencia Federal de Aviación Civil y elaborado conforme a las disposiciones técnico- administrativas emitidas para tal efecto; Fracción reformada DOF 21-01-2022, 31-05-2023
+
+IX. Contar con un programa de seguridad para la prevención de actos de interferencia ilícita autorizado por la Agencia Federal de Aviación Civil, que se elaborará de conformidad a las disposiciones técnico-administrativas emitidas para tal efecto; Fracción reformada DOF 14-03-2014, 21-01-2022, 31-05-2023
 
 X. Asegurarse que la persona piloto al mando tiene disponible y a bordo de la aeronave, toda la información concerniente a los servicios de búsqueda y salvamento, sobre el área en la que ha de llevarse a cabo la operación; Fracción adicionada DOF 31-05-2023
 

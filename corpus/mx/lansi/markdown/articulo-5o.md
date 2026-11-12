@@ -57,7 +57,9 @@ XV. Promover la colaboración entre Regulados con el objetivo de optimizar el us
 
 XVI. Coordinar un programa de certificación en Seguridad Industrial, Seguridad Operativa y protección al medio ambiente, en relación con el cumplimiento de la normatividad y estándares de desempeño, con base en el principio de autogestión y conforme a los requisitos técnicos que para tal efecto establezca;
 
-XVII. Autorizar los Sistemas de Administración de los Regulados; XVIII. Expedir, suspender, revocar o negar las licencias, autorizaciones, permisos y registros en materia ambiental, a que se refiere el artículo [7](articulo-7o.md) de esta Ley, en los términos de las disposiciones normativas aplicables;
+XVII. Autorizar los Sistemas de Administración de los Regulados;
+
+XVIII. Expedir, suspender, revocar o negar las licencias, autorizaciones, permisos y registros en materia ambiental, a que se refiere el artículo [7](articulo-7o.md) de esta Ley, en los términos de las disposiciones normativas aplicables;
 
 XIX. Regular y supervisar, en relación con las materias de su competencia, las actividades de captura, exploración, extracción, transporte e inyección industrial de bióxido de carbono, que se realizan con el fin de mejorar la producción de hidrocarburos;
 

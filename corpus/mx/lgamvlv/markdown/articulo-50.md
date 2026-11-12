@@ -7,8 +7,8 @@ provision_type: article
 number: "50"
 aliases: ["LGAMVLV — Artículo 50"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -35,7 +35,9 @@ VI. Promover programas educativos sobre la igualdad y la equidad entre los géne
 
 VII. Apoyar la creación, operación o el fortalecimiento de refugios para las víctimas, sus hijas e hijos de acuerdo con las condiciones establecidas en el Capítulo V de la presente [Ley](articulo-5.md); Fracción reformada DOF 19-06-2017
 
-VIII. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres; IX. Llevar a cabo, de acuerdo con el Sistema, programas de información a la población respecto de la violencia contra las mujeres;
+VIII. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
+
+IX. Llevar a cabo, de acuerdo con el Sistema, programas de información a la población respecto de la violencia contra las mujeres;
 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia; Fracción reformada DOF 29-04-2022
 

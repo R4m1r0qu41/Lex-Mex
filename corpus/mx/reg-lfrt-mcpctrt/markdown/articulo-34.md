@@ -19,7 +19,9 @@ source_sha256: 73855d6591afa63747195c80772404550f8fd6d9a1d9fa82ef7a14ec9583fe6e
 
 Queda prohibido a los concesionarios, permisionarios, locutores, cronistas, comentaristas, artistas, anunciantes, agencias de publicidad, publicistas y demás personas que participen en la preparación o realización de programas y propaganda comercial por radio y televisión lo siguiente:
 
-I. Efectuar transmisiones contrarias a la seguridad del Estado, a la integridad nacional, a la paz o al orden públicos; II. Todo aquello que sea denigrante u ofensivo para el culto de los héroes o para las creencias religiosas, así como lo que, directa o indirectamente, discrimine cualesquiera razas;
+I. Efectuar transmisiones contrarias a la seguridad del Estado, a la integridad nacional, a la paz o al orden públicos;
+
+II. Todo aquello que sea denigrante u ofensivo para el culto de los héroes o para las creencias religiosas, así como lo que, directa o indirectamente, discrimine cualesquiera razas;
 
 III. Hacer apología de la violencia, del crimen o de vicios;
 

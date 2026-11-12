@@ -35,7 +35,9 @@ VII. Un plazo mayor de una semana para el pago de los salarios a los obreros y a
 
 VIII. Un lugar de recreo, fonda, cantina, café, taberna o tienda, para efectuar el pago de los salarios, siempre que no se trate de trabajadores de esos establecimientos;
 
-IX. La obligación directa o indirecta para obtener artículos de consumo en tienda o lugar determinado; X. La facultad del patrón de retener el salario por concepto de multa;
+IX. La obligación directa o indirecta para obtener artículos de consumo en tienda o lugar determinado;
+
+X. La facultad del patrón de retener el salario por concepto de multa;
 
 XI. Un salario menor que el que se pague a otro trabajador en la misma empresa o establecimiento por trabajo de igual eficiencia, en la misma clase de trabajo o igual jornada, por consideración de edad, sexo o nacionalidad;
 

@@ -23,7 +23,9 @@ I. La delimitación geográfica precisa de la Zona en su modalidad unitaria, o b
 
 II. La delimitación geográfica del [Área de Influencia](articulo-3.md), señalando las entidades federativas y los municipios en los que se ubicará la misma;
 
-III. Los motivos que justifican la declaratoria; IV. Las facilidades administrativas y los incentivos fiscales, aduaneros y económicos, entre otros, que se otorgarán exclusivamente en la Zona;
+III. Los motivos que justifican la declaratoria;
+
+IV. Las facilidades administrativas y los incentivos fiscales, aduaneros y económicos, entre otros, que se otorgarán exclusivamente en la Zona;
 
 V. El plazo dentro del cual deberá celebrarse el [Convenio de Coordinación](articulo-3.md);
 

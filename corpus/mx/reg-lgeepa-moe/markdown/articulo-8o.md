@@ -27,7 +27,9 @@ II. Los lineamientos, criterios y estrategias que permitan instrumentar el proce
 
 III. La identificación y designación de las autoridades e instituciones que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, así como la participación y la responsabilidad que les corresponda a cada una de ellas en la conducción e instrumentación del proceso de ordenamiento ecológico;
 
-IV. La integración del órgano que instrumentará y dará seguimiento al proceso de ordenamiento ecológico; V. Las acciones iniciales que deba realizar cada parte del convenio para garantizar el inicio y desarrollo eficaz del proceso de ordenamiento ecológico;
+IV. La integración del órgano que instrumentará y dará seguimiento al proceso de ordenamiento ecológico;
+
+V. Las acciones iniciales que deba realizar cada parte del convenio para garantizar el inicio y desarrollo eficaz del proceso de ordenamiento ecológico;
 
 VI. La determinación de los productos que deberán obtenerse como resultado del proceso de ordenamiento ecológico respectivo;
 

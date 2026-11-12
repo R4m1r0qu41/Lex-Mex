@@ -25,4 +25,6 @@ II. Nombre, ubicación y superficie del predio;
 
 III. Manifestación de que la postura legal no podrá ser inferior al valor señalado en el avalúo respectivo;
 
-IV. Valor mínimo y la forma para garantizar la oferta de adquisición, y V. Lugar y fecha para la recepción de las posturas que deberán presentarse en sobre cerrado.
+IV. Valor mínimo y la forma para garantizar la oferta de adquisición, y
+
+V. Lugar y fecha para la recepción de las posturas que deberán presentarse en sobre cerrado.

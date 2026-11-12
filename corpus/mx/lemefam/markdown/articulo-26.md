@@ -17,4 +17,4 @@ source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 
 # Artículo 26
 
-La Dirección y Rectoría establecerá los mecanismos adecuados para evaluar permanentemente los resultados del proceso educativo.
+La [Dirección y Rectoría](articulo-2.md) establecerá los mecanismos adecuados para evaluar permanentemente los resultados del proceso educativo.

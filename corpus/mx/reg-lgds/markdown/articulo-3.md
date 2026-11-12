@@ -25,6 +25,8 @@ II. Convenios o Contratos de Concertación: instrumentos jurídicos que suscribe
 
 III. Convenios de Coordinación: instrumentos jurídicos que suscribe el Ejecutivo Federal con los gobiernos de las Entidades Federativas, con la participación, en su caso, de los municipios o delegaciones políticas, a efecto de que coadyuven, en el ámbito de sus respectivas competencias, a la consecución de los objetivos de la Política Nacional de Desarrollo Social;
 
-IV. Entidades Federativas: los Estados de la República y el Distrito Federal; V. Ley: la Ley General de Desarrollo Social, y
+IV. Entidades Federativas: los Estados de la República y el Distrito Federal;
+
+V. Ley: la Ley General de Desarrollo Social, y
 
 VI. Programa Nacional: el Programa Nacional de Desarrollo Social.

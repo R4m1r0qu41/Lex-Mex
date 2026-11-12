@@ -31,7 +31,9 @@ V. Integrar el registro contable del ejercicio del presupuesto de la Institució
 
 VI. Supervisar que en los contratos de los seguros y fianzas de los recursos humanos y materiales de la Institución se observen las políticas establecidas al respecto, así como llevar el control de inventarios de éstos;
 
-VII. Someter a consideración del [Coordinador de Administración y Finanzas](articulo-2.md) la autorización de las adquisiciones con cargo al presupuesto; VIII. Participar en la integración de los requerimientos de adquisiciones, arrendamientos y servicios de la Institución a fin de que se contemple en el programa anual correspondiente de la [Secretaría](articulo-2.md);
+VII. Someter a consideración del [Coordinador de Administración y Finanzas](articulo-2.md) la autorización de las adquisiciones con cargo al presupuesto;
+
+VIII. Participar en la integración de los requerimientos de adquisiciones, arrendamientos y servicios de la Institución a fin de que se contemple en el programa anual correspondiente de la [Secretaría](articulo-2.md);
 
 IX. Elaborar informes sobre la imposición de sanciones por infracciones a las disposiciones legales y reglamentarias relativas al tránsito en caminos y puentes federales, así como por la operación de los servicios de autotransporte federal y sus servicios auxiliares y transporte privado;
 

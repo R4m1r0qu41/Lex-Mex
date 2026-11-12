@@ -17,7 +17,9 @@ source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 
 # Artículo 62
 
-El [Estado](articulo-4.md) asegurará la educación inclusiva en todos los tipos, niveles, modalidades y opciones del Sistema Educativo Nacional, con el fin de favorecer el aprendizaje de todas las y los estudiantes, con énfasis en los que están excluidos, marginados o en riesgo de estarlo, para lo cual buscará: I. Favorecer el máximo logro de aprendizaje de las y los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
+El [Estado](articulo-4.md) asegurará la educación inclusiva en todos los tipos, niveles, modalidades y opciones del Sistema Educativo Nacional, con el fin de favorecer el aprendizaje de todas las y los estudiantes, con énfasis en los que están excluidos, marginados o en riesgo de estarlo, para lo cual buscará:
+
+I. Favorecer el máximo logro de aprendizaje de las y los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
 
 II. Desarrollar al máximo la personalidad, los talentos y la creatividad de las y los educandos;
 

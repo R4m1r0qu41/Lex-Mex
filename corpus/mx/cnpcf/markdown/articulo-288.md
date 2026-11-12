@@ -29,7 +29,9 @@ IV. El oferente de la prueba formulará su interrogatorio en primer término, co
 
 V. Ante la formulación de cada pregunta la contraparte tendrá derecho a objetar la misma, exponiendo la causa fundada de la objeción. Quien interroga podrá contradecir la objeción o retirar la pregunta, resolviendo la autoridad jurisdiccional;
 
-VI. En el caso de la declaración de parte contraria, si quien objeta, en su argumentación asiste al dar información o indicar a su representado sobre cómo responder la pregunta, se tendrán por presuntamente ciertos los hechos que se pretende demostrar con la prueba. Mismo criterio se seguirá cuando pretenda defender una pregunta en el caso de declaración voluntaria; VII. Previo apercibimiento, en caso de que no asista a la audiencia respectiva la parte que responda al interrogatorio de declaración de parte contraria, se tendrán por ciertos los hechos que el oferente de la prueba pretendió demostrar con la misma. Mismo criterio se aplicará si no responde, responde con evasivas u omite responder categóricamente a las preguntas;
+VI. En el caso de la declaración de parte contraria, si quien objeta, en su argumentación asiste al dar información o indicar a su representado sobre cómo responder la pregunta, se tendrán por presuntamente ciertos los hechos que se pretende demostrar con la prueba. Mismo criterio se seguirá cuando pretenda defender una pregunta en el caso de declaración voluntaria;
+
+VII. Previo apercibimiento, en caso de que no asista a la audiencia respectiva la parte que responda al interrogatorio de declaración de parte contraria, se tendrán por ciertos los hechos que el oferente de la prueba pretendió demostrar con la misma. Mismo criterio se aplicará si no responde, responde con evasivas u omite responder categóricamente a las preguntas;
 
 VIII. Si quien ofreció la declaración de parte propia no asiste a la audiencia respectiva, se declarará desierta la prueba;
 
