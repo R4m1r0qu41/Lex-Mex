@@ -17,7 +17,9 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 # Artículo 90
 
-Se presumirá que un Mensaje de Datos proviene del Emisor si ha sido enviado: I. Por el propio Emisor;
+Se presumirá que un Mensaje de Datos proviene del Emisor si ha sido enviado:
+
+I. Por el propio Emisor;
 
 II. Usando medios de identificación, tales como claves o contraseñas del Emisor o por alguna persona facultada para actuar en nombre del Emisor respecto a ese Mensaje de Datos, o
 

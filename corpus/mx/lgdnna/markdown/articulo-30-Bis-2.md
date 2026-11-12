@@ -29,7 +29,9 @@ IV. El contacto de los padres biológicos que entregaron en adopción a una niñ
 
 V. La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
 
-VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa del adoptado, o por cualquier persona, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción; VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
+VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa del adoptado, o por cualquier persona, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
 
 VIII. El matrimonio entre el adoptante y el adoptado o sus descendientes, así como el matrimonio entre el adoptado con los familiares del adoptante o sus descendientes;
 

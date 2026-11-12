@@ -31,7 +31,9 @@ III.- Ejecutar los acuerdos del Consejo de Administración;
 
 IV.- Presentar anualmente al Consejo de Administración, dentro de los dos primeros meses del año siguiente, los estados financieros y el informe de actividades del ejercicio anterior;
 
-V.- Presentar al Consejo de Administración, a más tardar el último día de octubre de cada año, el plan financiero, los presupuestos de ingresos y egresos, y los planes de labores y de financiamientos para el año siguiente, así como las proyecciones financieras del Instituto a cinco años; Fracción reformada DOF 21-02-2025 V Bis.- Proponer al Consejo de Administración y a la Asamblea General el Estatuto Orgánico del Instituto, que contendrá la estructura, organización, facultades y funciones que correspondan a las distintas áreas, delegaciones regionales y personal directivo que lo integran, de conformidad con el presupuesto de gastos de administración, operación y vigilancia aprobado. El Estatuto Orgánico deberá publicarse en el Diario Oficial de la Federación; Fracción adicionada DOF 21-02-2025
+V.- Presentar al Consejo de Administración, a más tardar el último día de octubre de cada año, el plan financiero, los presupuestos de ingresos y egresos, y los planes de labores y de financiamientos para el año siguiente, así como las proyecciones financieras del Instituto a cinco años; Fracción reformada DOF 21-02-2025
+
+V Bis.- Proponer al Consejo de Administración y a la Asamblea General el Estatuto Orgánico del Instituto, que contendrá la estructura, organización, facultades y funciones que correspondan a las distintas áreas, delegaciones regionales y personal directivo que lo integran, de conformidad con el presupuesto de gastos de administración, operación y vigilancia aprobado. El Estatuto Orgánico deberá publicarse en el Diario Oficial de la Federación; Fracción adicionada DOF 21-02-2025
 
 VI.- Presentar a la consideración del Consejo de Administración, en sus sesiones ordinarias, un informe sobre las actividades del Instituto; Fracción reformada DOF 21-02-2025
 

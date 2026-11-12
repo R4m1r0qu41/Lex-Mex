@@ -23,7 +23,9 @@ l. Las personas autorizadas para almacenarlas o transportarlas, si no tienen en 
 
 lI. Quienes violen los medios de seguridad a que se refiere la fracción anterior o toleren su violación.
 
-III. Los remitentes que no anoten en las envolturas de los envíos postales el aviso de que contienen mercancías de exportación o cuando sean mercancías de procedencia extranjera que envíen de la franja o región fronteriza al resto del país. IV. Los capitanes, pilotos, conductores, propietarios de medios de transporte y empresas porteadoras o sus representantes que no cumplan con la obligación prevista en las fracciones I, V y VIII del artículo [20](articulo-20.md) de esta Ley. Fracción reformada DOF 09-12-2013
+III. Los remitentes que no anoten en las envolturas de los envíos postales el aviso de que contienen mercancías de exportación o cuando sean mercancías de procedencia extranjera que envíen de la franja o región fronteriza al resto del país.
+
+IV. Los capitanes, pilotos, conductores, propietarios de medios de transporte y empresas porteadoras o sus representantes que no cumplan con la obligación prevista en las fracciones I, V y VIII del artículo [20](articulo-20.md) de esta Ley. Fracción reformada DOF 09-12-2013
 
 V. Los capitanes o pilotos que toleren la venta de mercancías de procedencia extranjera en las embarcaciones o aeronaves, una vez que se encuentren en el territorio nacional.
 
@@ -43,7 +45,9 @@ Xll. El Servicio Postal Mexicano cuando no dé cumplimiento a las obligaciones q
 
 XIII. Las empresas que presten el servicio de transporte internacional de pasajeros, cuando omitan distribuir entre los mismos las formas oficiales que al efecto establezca el Servicio de Administración Tributaria, para la declaración de aduanas de los pasajeros. Fracción reformada DOF 25-06-2018
 
-XIV. Las personas que hubieran obtenido concesión o autorización para prestar los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior, cuando no cumplan con alguna de las obligaciones previstas en el primer párrafo y en las fracciones I a VI y VIII y los lineamientos a que se refiere el primer párrafo del artículo [15](articulo-15.md) y en la fracción III del artículo [26](articulo-26.md) de esta Ley. Fracción reformada DOF 31-12-1998, 30-12-2002 XV. Los establecimientos autorizados a que se refiere el artículo [121](articulo-121.md) de esta Ley, que enajenen mercancías a personas distintas de los pasajeros que salgan del país directamente al extranjero.
+XIV. Las personas que hubieran obtenido concesión o autorización para prestar los servicios de manejo, almacenaje y custodia de mercancías de comercio exterior, cuando no cumplan con alguna de las obligaciones previstas en el primer párrafo y en las fracciones I a VI y VIII y los lineamientos a que se refiere el primer párrafo del artículo [15](articulo-15.md) y en la fracción III del artículo [26](articulo-26.md) de esta Ley. Fracción reformada DOF 31-12-1998, 30-12-2002
+
+XV. Los establecimientos autorizados a que se refiere el artículo [121](articulo-121.md) de esta Ley, que enajenen mercancías a personas distintas de los pasajeros que salgan del país directamente al extranjero.
 
 XVI. (Se deroga). Fracción reformada DOF 31-12-1998. Derogada DOF 09-12-2013
 

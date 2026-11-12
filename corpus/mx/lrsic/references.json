@@ -1328,19 +1328,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:1080-1082:17:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:1081-1083:17:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "17",
-    "start_char": 1080,
-    "end_char": 1082,
+    "start_char": 1081,
+    "end_char": 1083,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:17",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 1084,
-        "end_char": 1099
+        "start_char": 1085,
+        "end_char": 1100
       }
     ],
     "basis": "express_cross_reference",
@@ -1351,11 +1351,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:1241-1243:21:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:1242-1244:21:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "21",
-    "start_char": 1241,
-    "end_char": 1243,
+    "start_char": 1242,
+    "end_char": 1244,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:21",
     "qualifiers": [],
@@ -1367,11 +1367,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:1717-1719:21:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:1718-1720:21:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "21",
-    "start_char": 1717,
-    "end_char": 1719,
+    "start_char": 1718,
+    "end_char": 1720,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:21",
     "qualifiers": [],
@@ -1383,19 +1383,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:1943-1944:2:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:1944-1945:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "2",
-    "start_char": 1943,
-    "end_char": 1944,
+    "start_char": 1944,
+    "end_char": 1945,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:2",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 1919,
-        "end_char": 1929
+        "start_char": 1920,
+        "end_char": 1930
       }
     ],
     "basis": "express_cross_reference",
@@ -1406,11 +1406,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2201-2203:27:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2202-2204:27:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "27",
-    "start_char": 2201,
-    "end_char": 2203,
+    "start_char": 2202,
+    "end_char": 2204,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:27",
     "qualifiers": [],
@@ -1422,11 +1422,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2355-2357:30:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2356-2358:30:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "30",
-    "start_char": 2355,
-    "end_char": 2357,
+    "start_char": 2356,
+    "end_char": 2358,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:30",
     "qualifiers": [],
@@ -1438,11 +1438,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2472-2474:33:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2473-2475:33:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "33",
-    "start_char": 2472,
-    "end_char": 2474,
+    "start_char": 2473,
+    "end_char": 2475,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:33",
     "qualifiers": [],
@@ -1454,11 +1454,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2679-2681:39:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2680-2682:39:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "39",
-    "start_char": 2679,
-    "end_char": 2681,
+    "start_char": 2680,
+    "end_char": 2682,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:39",
     "qualifiers": [],
@@ -1470,11 +1470,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2848-2850:40:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:2849-2851:40:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "40",
-    "start_char": 2848,
-    "end_char": 2850,
+    "start_char": 2849,
+    "end_char": 2851,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:40",
     "qualifiers": [],
@@ -1486,25 +1486,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:3067-3069:40:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:3068-3070:40:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "40",
-    "start_char": 3067,
-    "end_char": 3069,
+    "start_char": 3068,
+    "end_char": 3070,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:40",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "quinto párrafo",
-        "start_char": 3071,
-        "end_char": 3085
+        "start_char": 3072,
+        "end_char": 3086
       },
       {
         "qualifier_type": "subsection",
         "text": "inciso c",
-        "start_char": 3087,
-        "end_char": 3095
+        "start_char": 3088,
+        "end_char": 3096
       }
     ],
     "basis": "express_cross_reference",
@@ -1515,25 +1515,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:3240-3242:43:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:3241-3243:43:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "43",
-    "start_char": 3240,
-    "end_char": 3242,
+    "start_char": 3241,
+    "end_char": 3243,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:43",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "primer párrafo",
-        "start_char": 3244,
-        "end_char": 3258
+        "start_char": 3245,
+        "end_char": 3259
       },
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 3339,
-        "end_char": 3354
+        "start_char": 3340,
+        "end_char": 3355
       }
     ],
     "basis": "express_cross_reference",
@@ -1544,19 +1544,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:3740-3742:45:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:3741-3743:45:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "45",
-    "start_char": 3740,
-    "end_char": 3742,
+    "start_char": 3741,
+    "end_char": 3743,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:45",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "primer párrafo",
-        "start_char": 3744,
-        "end_char": 3758
+        "start_char": 3745,
+        "end_char": 3759
       }
     ],
     "basis": "express_cross_reference",
@@ -1567,19 +1567,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:3908-3910:45:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:3910-3912:45:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "45",
-    "start_char": 3908,
-    "end_char": 3910,
+    "start_char": 3910,
+    "end_char": 3912,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:45",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 3912,
-        "end_char": 3927
+        "start_char": 3914,
+        "end_char": 3929
       }
     ],
     "basis": "express_cross_reference",
@@ -1590,19 +1590,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4102-4104:20:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4104-4106:20:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "20",
-    "start_char": 4102,
-    "end_char": 4104,
+    "start_char": 4104,
+    "end_char": 4106,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:20",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "primer párrafo",
-        "start_char": 4074,
-        "end_char": 4088
+        "start_char": 4076,
+        "end_char": 4090
       }
     ],
     "basis": "express_cross_reference",
@@ -1613,11 +1613,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4301-4303:47:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4303-4305:47:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "47",
-    "start_char": 4301,
-    "end_char": 4303,
+    "start_char": 4303,
+    "end_char": 4305,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:47",
     "qualifiers": [],
@@ -1629,19 +1629,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4499-4501:48:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4501-4503:48:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "48",
-    "start_char": 4499,
-    "end_char": 4501,
+    "start_char": 4501,
+    "end_char": 4503,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:48",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 4503,
-        "end_char": 4518
+        "start_char": 4505,
+        "end_char": 4520
       }
     ],
     "basis": "express_cross_reference",
@@ -1652,11 +1652,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4640-4642:49:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4642-4644:49:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "49",
-    "start_char": 4640,
-    "end_char": 4642,
+    "start_char": 4642,
+    "end_char": 4644,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:49",
     "qualifiers": [],
@@ -1668,11 +1668,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4777-4779:50:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:4779-4781:50:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "50",
-    "start_char": 4777,
-    "end_char": 4779,
+    "start_char": 4779,
+    "end_char": 4781,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:50",
     "qualifiers": [],
@@ -1684,19 +1684,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5096-5098:29:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5098-5100:29:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "29",
-    "start_char": 5096,
-    "end_char": 5098,
+    "start_char": 5098,
+    "end_char": 5100,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:29",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "último párrafo",
-        "start_char": 5100,
-        "end_char": 5114
+        "start_char": 5102,
+        "end_char": 5116
       }
     ],
     "basis": "express_cross_reference",
@@ -1707,11 +1707,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5243-5245:42:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5245-5247:42:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "42",
-    "start_char": 5243,
-    "end_char": 5245,
+    "start_char": 5245,
+    "end_char": 5247,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:42",
     "qualifiers": [],
@@ -1723,11 +1723,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5437-5439:69:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5439-5441:69:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "69",
-    "start_char": 5437,
-    "end_char": 5439,
+    "start_char": 5439,
+    "end_char": 5441,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:69",
     "qualifiers": [],
@@ -1739,19 +1739,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5545-5547:13:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5547-5549:13:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "13",
-    "start_char": 5545,
-    "end_char": 5547,
+    "start_char": 5547,
+    "end_char": 5549,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:13",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 5549,
-        "end_char": 5564
+        "start_char": 5551,
+        "end_char": 5566
       }
     ],
     "basis": "express_cross_reference",
@@ -1762,19 +1762,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5687-5689:13:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5689-5691:13:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "13",
-    "start_char": 5687,
-    "end_char": 5689,
+    "start_char": 5689,
+    "end_char": 5691,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:13",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "tercer párrafo",
-        "start_char": 5691,
-        "end_char": 5705
+        "start_char": 5693,
+        "end_char": 5707
       }
     ],
     "basis": "express_cross_reference",
@@ -1785,19 +1785,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5871-5873:20:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:5873-5875:20:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "20",
-    "start_char": 5871,
-    "end_char": 5873,
+    "start_char": 5873,
+    "end_char": 5875,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:20",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "primer párrafo",
-        "start_char": 5875,
-        "end_char": 5889
+        "start_char": 5877,
+        "end_char": 5891
       }
     ],
     "basis": "express_cross_reference",
@@ -1808,11 +1808,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:6059-6061:40:direct",
+    "id": "urn:lex-mx:federal:statute:lrsic:article:60:reference:6061-6063:40:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lrsic:article:60",
     "source_span": "40",
-    "start_char": 6059,
-    "end_char": 6061,
+    "start_char": 6061,
+    "end_char": 6063,
     "target_instrument_id": "urn:lex-mx:federal:statute:lrsic",
     "target_provision_id": "urn:lex-mx:federal:statute:lrsic:article:40",
     "qualifiers": [],

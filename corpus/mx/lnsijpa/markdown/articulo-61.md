@@ -23,7 +23,9 @@ Para determinar la competencia de los órganos federales o locales, según corre
 
 I. Los órganos del fuero común tendrán competencia sobre los hechos cometidos dentro de la circunscripción en la que ejerzan sus funciones;
 
-II. Cuando el hecho este catalogado como delito del orden federal, será competencia de los órganos jurisdiccionales federales; III. Cuando el hecho sea del orden federal pero exista competencia concurrente, deberán conocer los órganos del fuero común, en los términos que dispongan las leyes;
+II. Cuando el hecho este catalogado como delito del orden federal, será competencia de los órganos jurisdiccionales federales;
+
+III. Cuando el hecho sea del orden federal pero exista competencia concurrente, deberán conocer los órganos del fuero común, en los términos que dispongan las leyes;
 
 IV. En caso de concurso de delitos, el Ministerio Público de la Federación podrá conocer de los delitos del fuero común que tengan conexidad con delitos federales cuando lo considere conveniente; asimismo los órganos jurisdiccionales federales, en su caso, tendrán competencia para juzgarlos. Para la aplicación de sanciones y medidas de seguridad en delitos del fuero común, se atenderá a la legislación de su fuero de origen. En tanto la Federación no ejerza dicha facultad, las autoridades estatales estarán obligadas a asumir su competencia en términos de la fracción I de este artículo;
 

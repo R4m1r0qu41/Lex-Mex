@@ -23,7 +23,9 @@ I. Cuando la participación en el sorteo se base en los comprobantes fiscales di
 
 II. Cuando en algún sorteo el premio ofrecido se pague por terceros por cuenta del Gobierno Federal, el monto entregado por los pagadores podrá ser acreditable contra los impuestos federales que el Servicio de Administración Tributaria determine en las bases del sorteo, sin que dé lugar a la devolución.
 
-III. Cuando los premios consistan en bienes, el Servicio de Administración Tributaria deberá observar las normas presupuestales aplicables a la adquisición y enajenación de dichos bienes. IV. El Servicio de Administración Tributaria, mediante reglas de carácter general, establecerá las bases para los sorteos, los premios, las fechas, las personas que podrán participar y demás requisitos a que se sujetará su realización.
+III. Cuando los premios consistan en bienes, el Servicio de Administración Tributaria deberá observar las normas presupuestales aplicables a la adquisición y enajenación de dichos bienes.
+
+IV. El Servicio de Administración Tributaria, mediante reglas de carácter general, establecerá las bases para los sorteos, los premios, las fechas, las personas que podrán participar y demás requisitos a que se sujetará su realización.
 
 V. Cuando el monto de los premios a repartir no consista en bienes, la Secretaría de Hacienda y Crédito Público fijará el monto total máximo a repartir por sorteo, previa solicitud que el Servicio de Administración Tributaria formule a la dependencia mencionada.
 

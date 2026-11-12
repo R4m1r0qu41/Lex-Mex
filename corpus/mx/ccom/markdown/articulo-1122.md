@@ -17,7 +17,9 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 # Artículo 1122
 
-Son excepciones procesales las siguientes: I. La incompetencia del juez;
+Son excepciones procesales las siguientes:
+
+I. La incompetencia del juez;
 
 II. La litispendencia;
 

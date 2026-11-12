@@ -29,7 +29,9 @@ IV. Difundir el marco jurídico local, nacional e internacional de protección a
 
 V. Integrar a los sectores público, social y privado en la definición e instrumentación de políticas para la protección de niñas, niños y adolescentes;
 
-VI. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas locales para la protección integral de sus derechos; VII. Establecer en sus presupuestos, rubros destinados a la protección de los derechos de niñas, niños y adolescentes, los cuales tendrán una realización progresiva;
+VI. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas locales para la protección integral de sus derechos;
+
+VII. Establecer en sus presupuestos, rubros destinados a la protección de los derechos de niñas, niños y adolescentes, los cuales tendrán una realización progresiva;
 
 VIII. Garantizar la transversalidad de la perspectiva de derechos de la infancia y la adolescencia en la elaboración de programas, así como en las políticas y acciones para la protección de los derechos de niñas, niños y adolescentes;
 

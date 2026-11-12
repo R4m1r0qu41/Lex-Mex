@@ -17,4 +17,4 @@ source_sha256: e969fde67d7c5adc1c78322e3309fe5a5ecc245489ce3ec259f16063eea0c1db
 
 Las personas afectadas deberán informar a la Secretaría de Relaciones Exteriores y a la Secretaría de Economía, de aquellos casos en que: Párrafo reformado DOF 09-04-2012
 
-I Pudieren verse perjudicadas en sus actividades o inversión, por los efectos de las leyes extranjeras a que se refiere el artículo [1](articulo-1o.md)o., y LEY DE PROTECCIÓN AL COMERCIO Y LA INVERSIÓN DE NORMAS EXTRANJERAS QUE CONTRAVENGAN EL DERECHO INTERNACIONAL II Reciban requerimientos o notificaciones, emitidos con base en las leyes extranjeras a que se refiere el artículo [1](articulo-1o.md)o.
+I Pudieren verse perjudicadas en sus actividades o inversión, por los efectos de las leyes extranjeras a que se refiere el artículo [1](articulo-1o.md)o., y II Reciban requerimientos o notificaciones, emitidos con base en las leyes extranjeras a que se refiere el artículo [1](articulo-1o.md)o.

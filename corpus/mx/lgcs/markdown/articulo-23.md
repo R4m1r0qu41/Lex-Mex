@@ -25,7 +25,9 @@ I. Misión y Visión oficiales del Ente Público;
 
 II. Objetivo u objetivos institucionales y objetivo de la Estrategia anual de Comunicación Social;
 
-III. Metas nacionales y/o Estrategias transversales relacionadas con los objetivos señalados en el inciso anterior, establecidas en el Plan Nacional de Desarrollo; IV. Programa o programas sectoriales o especiales correspondientes al Ente Público, de ser aplicable;
+III. Metas nacionales y/o Estrategias transversales relacionadas con los objetivos señalados en el inciso anterior, establecidas en el Plan Nacional de Desarrollo;
+
+IV. Programa o programas sectoriales o especiales correspondientes al Ente Público, de ser aplicable;
 
 V. Objetivo estratégico o transversal, según corresponda, alineado y vinculado al Plan Nacional de Desarrollo, y
 

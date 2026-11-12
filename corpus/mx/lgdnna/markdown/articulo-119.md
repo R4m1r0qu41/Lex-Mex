@@ -37,6 +37,8 @@ VIII. Difundir y aplicar los protocolos específicos sobre niñas, niños y adol
 
 IX. Coordinarse con las autoridades de los órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
 
-X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes; XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales, y
+X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
+
+XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales, y
 
 XII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el [Sistema Nacional DIF](articulo-4.md) y los [Sistemas de las Entidades](articulo-4.md).

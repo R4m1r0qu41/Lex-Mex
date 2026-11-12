@@ -43,7 +43,9 @@ c) La información y documentación que acredite que cuenta con la infraestructu
 
 d) La relación de sus principales administradores y directivos, incluyendo al contralor normativo, debiendo acompañar el curriculum vitae de los mismos;
 
-V. El proyecto de reglamento interior, conforme al cual ejercerá sus facultades de conformidad con esta Ley y las reglas que al efecto haya emitido la Comisión, y VI. La demás documentación que la Comisión considere necesaria para otorgar su autorización.
+V. El proyecto de reglamento interior, conforme al cual ejercerá sus facultades de conformidad con esta Ley y las reglas que al efecto haya emitido la Comisión, y
+
+VI. La demás documentación que la Comisión considere necesaria para otorgar su autorización.
 
 Las modificaciones que se pretendan efectuar a los estatutos, así como al reglamento interior de la Federación, deberán someterse a la previa aprobación de la Comisión, la cual contará con un plazo de cuarenta y cinco días hábiles para emitir su resolución al respecto. Dicho plazo comenzará a contar, a partir de la fecha en que sean presentados los documentos a la Comisión. Se entenderá que la Comisión resuelve en sentido negativo si no comunica lo contrario a la solicitante, dentro del periodo mencionado.
 

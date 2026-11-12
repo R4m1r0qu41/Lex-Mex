@@ -21,6 +21,8 @@ Principios La asistencia jurídica internacional deberá regirse por los siguien
 
 I. Conexidad. Toda petición de asistencia para ser procedente necesariamente debe estar vinculada a una investigación o proceso en curso;
 
-II. Especificidad. Las solicitudes de asistencia jurídica internacional deben contener hechos concretos y requerimientos precisos; III. Identidad de Normas. Se prestará la asistencia con independencia de que el hecho que motiva la solicitud constituya o no delito según las leyes del Estado requerido. Se exceptúa de lo anterior el supuesto de que la asistencia se solicite para la ejecución de las medidas de aseguramiento o embargo, cateo o registro domiciliario o decomiso o incautación, en cuyo caso será necesario que el hecho que da lugar al procedimiento sea también considerado como delito por la legislación del Estado requerido, y
+II. Especificidad. Las solicitudes de asistencia jurídica internacional deben contener hechos concretos y requerimientos precisos;
+
+III. Identidad de Normas. Se prestará la asistencia con independencia de que el hecho que motiva la solicitud constituya o no delito según las leyes del Estado requerido. Se exceptúa de lo anterior el supuesto de que la asistencia se solicite para la ejecución de las medidas de aseguramiento o embargo, cateo o registro domiciliario o decomiso o incautación, en cuyo caso será necesario que el hecho que da lugar al procedimiento sea también considerado como delito por la legislación del Estado requerido, y
 
 IV. Reciprocidad. Consiste en la colaboración internacional entre Estados soberanos en los que priva la igualdad.

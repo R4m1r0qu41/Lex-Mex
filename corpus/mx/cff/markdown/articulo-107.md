@@ -17,7 +17,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 107
 
-El delito de contrabando será calificado cuando se cometa: I. Con violencia física o moral en las personas.
+El delito de contrabando será calificado cuando se cometa:
+
+I. Con violencia física o moral en las personas.
 
 II. De noche o por lugar no autorizado para la entrada o salida del país de mercancías.
 

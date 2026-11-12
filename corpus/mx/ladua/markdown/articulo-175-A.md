@@ -21,6 +21,8 @@ El Servicio de Administración Tributaria podrá cancelar las autorizaciones oto
 
 I. Cuando se omita obtener y mantener vigentes los permisos y certificados aplicables en materia de seguridad radiológica.
 
-II. Cuando se omita realizar el mantenimiento preventivo y correctivo de la infraestructura o cualquier dispositivo que permita la continuidad de los servicios autorizados, conforme a las disposiciones e instrumentos jurídicos aplicables. III. Las demás que establezca esta Ley y las que se señalen en la autorización.
+II. Cuando se omita realizar el mantenimiento preventivo y correctivo de la infraestructura o cualquier dispositivo que permita la continuidad de los servicios autorizados, conforme a las disposiciones e instrumentos jurídicos aplicables.
+
+III. Las demás que establezca esta Ley y las que se señalen en la autorización.
 
 Artículo adicionado DOF 09-12-2013

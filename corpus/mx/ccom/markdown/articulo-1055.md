@@ -21,7 +21,9 @@ Los juicios mercantiles, son ordinarios, orales, ejecutivos o los especiales que
 
 I. Todos los ocursos de las partes y actuaciones judiciales deberán escribirse en idioma español; fácilmente legibles a simple vista, y deberán estar firmados por los que intervengan en ellos. Cuando alguna de las partes no supiere o no pudiere firmar, impondrá su huella digital, firmando otra persona en su nombre y a su ruego, indicando éstas circunstancias;
 
-II. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción al español; III. En las actuaciones judiciales, las fechas y cantidades se escribirán con letra, y no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin con toda precisión el error cometido;
+II. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción al español;
+
+III. En las actuaciones judiciales, las fechas y cantidades se escribirán con letra, y no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin con toda precisión el error cometido;
 
 IV. Las actuaciones judiciales deberán ser autorizadas bajo pena de nulidad por el funcionario público a quien corresponda dar fe o certificar el acto;
 

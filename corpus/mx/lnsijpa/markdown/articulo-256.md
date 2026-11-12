@@ -25,4 +25,6 @@ II. Los criterios especializados, cuya finalidad sea reducir los motivos, la nec
 
 III. La protección de su bienestar, sano desarrollo, vida digna y proyecto de vida;
 
-IV. La erradicación de los procesos de criminalización y etiquetamiento de las personas adolescentes, derivados de estereotipos, prejuicios, calificativos o cualquier otra connotación discriminatoria o peyorativa, y V. La participación de las personas adolescentes en el diseño de las políticas públicas.
+IV. La erradicación de los procesos de criminalización y etiquetamiento de las personas adolescentes, derivados de estereotipos, prejuicios, calificativos o cualquier otra connotación discriminatoria o peyorativa, y
+
+V. La participación de las personas adolescentes en el diseño de las políticas públicas.

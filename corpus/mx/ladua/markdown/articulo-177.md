@@ -25,7 +25,9 @@ II. Una aeronave con mercancías extranjeras aterrice en lugar no autorizado par
 
 III. Durante el plazo a que se refiere el artículo [108](articulo-108.md), fracción I de esta Ley, la maquiladora o empresa con programa de exportación autorizado por la Secretaría de Economía que hubiera efectuado la importación temporal, no acrediten que las mercancías fueron retornadas al extranjero, se destinaron a otro régimen aduanero o que se encuentran en el domicilio en el cual se llevará a cabo el proceso para su elaboración, transformación o reparación manifestado en su programa. Fracción reformada DOF 30-12-1996. Derogada DOF 31-12-1998. Adicionada DOF 30-12-2002
 
-IV. Se introduzcan o extraigan del país mercancías ocultas o con artificio tal que su naturaleza pueda pasar inadvertida, si su importación o exportación está prohibida o restringida o por la misma deban pagarse los impuestos al comercio exterior. V. Se introduzcan al país mercancías o las extraigan del mismo por lugar no autorizado.
+IV. Se introduzcan o extraigan del país mercancías ocultas o con artificio tal que su naturaleza pueda pasar inadvertida, si su importación o exportación está prohibida o restringida o por la misma deban pagarse los impuestos al comercio exterior.
+
+V. Se introduzcan al país mercancías o las extraigan del mismo por lugar no autorizado.
 
 VI. Se encuentren en la franja o región fronteriza del país, mercancías que en los términos de la fracción XX del artículo [144](articulo-144.md) de esta Ley, deban llevar marbetes o sellos y no los tengan.
 

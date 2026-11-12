@@ -25,7 +25,9 @@ II.- Determinar o recomendar que se proceda a la amonestación, suspensión o re
 
 III.- Acordar la intervención administrativa o gerencial de las entidades con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquéllas violatorias de las leyes que las rigen o de las disposiciones de carácter general que de ellas deriven, en los términos que establecen las propias leyes;
 
-IV.- Imponer sanciones administrativas por infracciones a las leyes que regulan las actividades, entidades y personas sujetas a la supervisión de la Comisión, así como a las disposiciones que emanen de ellas. Dicha facultad podrá delegarse en el Presidente, así como en otros servidores públicos de la Comisión, considerando la naturaleza de la infracción o el monto de las multas. A propuesta del Presidente de la Comisión, las multas administrativas podrán ser condonadas parcial o totalmente por la Junta de Gobierno; V. Autorizar la constitución y operación de aquellas entidades que señalan las leyes y, en su caso, acordar la revocación de dichas autorizaciones, salvo tratándose de sociedades de inversión; Fracción reformada DOF 10-01-2014
+IV.- Imponer sanciones administrativas por infracciones a las leyes que regulan las actividades, entidades y personas sujetas a la supervisión de la Comisión, así como a las disposiciones que emanen de ellas. Dicha facultad podrá delegarse en el Presidente, así como en otros servidores públicos de la Comisión, considerando la naturaleza de la infracción o el monto de las multas. A propuesta del Presidente de la Comisión, las multas administrativas podrán ser condonadas parcial o totalmente por la Junta de Gobierno;
+
+V. Autorizar la constitución y operación de aquellas entidades que señalan las leyes y, en su caso, acordar la revocación de dichas autorizaciones, salvo tratándose de sociedades de inversión; Fracción reformada DOF 10-01-2014
 
 VI.- Autorizar la inscripción en la sección especial del Registro Nacional de Valores e Intermediarios, de valores emitidos en México o por personas morales mexicanas, para ser objeto de oferta en el extranjero;
 

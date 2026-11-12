@@ -25,4 +25,6 @@ I. Los billetes y monedas metálicas extranjeros;
 
 II. Los depósitos, títulos, valores y demás obligaciones pagaderos fuera del territorio nacional, considerados de primer orden en los mercados internacionales, denominados en moneda extranjera y a cargo de gobiernos de países distintos de México, de organismos financieros internacionales o de entidades del exterior, siempre que sean exigibles a plazo no mayor de seis meses o de amplia liquidez;
 
-III. Los créditos a cargo de bancos centrales, exigibles a plazo no mayor de seis meses, cuyo servicio esté al corriente, y IV. Los derechos especiales de giro del Fondo Monetario Internacional.
+III. Los créditos a cargo de bancos centrales, exigibles a plazo no mayor de seis meses, cuyo servicio esté al corriente, y
+
+IV. Los derechos especiales de giro del Fondo Monetario Internacional.

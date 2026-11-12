@@ -25,7 +25,9 @@ II. Licitaciones de acciones representativas del capital social de sociedades me
 
 III. Otorgamiento de concesiones y permisos que en términos de la legislación o disposiciones administrativas requieran la opinión de la Comisión;
 
-IV. Cesiones de concesiones y permisos y venta de acciones de empresas concesionarias o permisionarias, que en términos de la legislación o disposiciones administrativas aplicables requieran de la opinión de la Comisión; sin perjuicio de las obligaciones que, en su caso, correspondan al promovente en términos del Capítulo III de la Ley; V. Otorgamiento de concesiones para administradoras portuarias integrales, terminales marítimas e instalaciones portuarias; aeropuertos; transporte aéreo nacional regular; así como las cesiones de derechos de dichas concesiones;
+IV. Cesiones de concesiones y permisos y venta de acciones de empresas concesionarias o permisionarias, que en términos de la legislación o disposiciones administrativas aplicables requieran de la opinión de la Comisión; sin perjuicio de las obligaciones que, en su caso, correspondan al promovente en términos del Capítulo III de la Ley;
+
+V. Otorgamiento de concesiones para administradoras portuarias integrales, terminales marítimas e instalaciones portuarias; aeropuertos; transporte aéreo nacional regular; así como las cesiones de derechos de dichas concesiones;
 
 VI. Permisos para transporte y almacenamiento de gas natural y de transporte de gas licuado de petróleo por medios de ductos, y
 

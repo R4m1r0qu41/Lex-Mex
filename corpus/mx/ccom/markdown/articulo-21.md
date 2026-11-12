@@ -45,7 +45,9 @@ XII. El cambio de denominación o razón social, domicilio, objeto social, durac
 
 XIII.- (Se deroga). Fracción derogada DOF 04-01-1994
 
-XIV.- Las emisiones de acciones, cédulas y obligaciones de ferrocarriles y de toda clase de sociedades, sean de obras públicas, compañías de crédito ú otras, expresando la serie y número de los títulos de cada emisión, su interés y amortización, la cantidad total de la emisión, y los bienes, obras, derechos ó hipotecas, cuando los hubiere, que se afecten á su pago. También se inscribirán con arreglo á estos preceptos, las emisiones que hicieren los particulares; XV.- (Se deroga). Fracción derogada DOF 23-01-1981
+XIV.- Las emisiones de acciones, cédulas y obligaciones de ferrocarriles y de toda clase de sociedades, sean de obras públicas, compañías de crédito ú otras, expresando la serie y número de los títulos de cada emisión, su interés y amortización, la cantidad total de la emisión, y los bienes, obras, derechos ó hipotecas, cuando los hubiere, que se afecten á su pago. También se inscribirán con arreglo á estos preceptos, las emisiones que hicieren los particulares;
+
+XV.- (Se deroga). Fracción derogada DOF 23-01-1981
 
 XVI.- (Se deroga). Fracción derogada DOF 04-01-1994
 

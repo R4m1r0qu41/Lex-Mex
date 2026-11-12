@@ -21,7 +21,9 @@ Derechos de los [Intervinientes](articulo-3.md) Los Intervinientes en los [Mecan
 
 I. Recibir la información necesaria en relación con los Mecanismos Alternativos y sus alcances;
 
-II. Solicitar al titular del [Órgano](articulo-3.md) o al superior jerárquico del [Facilitador](articulo-3.md) la sustitución de este último, cuando exista conflicto de intereses o alguna otra causa justificada que obstaculice el normal desarrollo del Mecanismo Alternativo; III. Recibir un servicio acorde con los principios y derechos previstos en esta [Ley](articulo-3.md);
+II. Solicitar al titular del [Órgano](articulo-3.md) o al superior jerárquico del [Facilitador](articulo-3.md) la sustitución de este último, cuando exista conflicto de intereses o alguna otra causa justificada que obstaculice el normal desarrollo del Mecanismo Alternativo;
+
+III. Recibir un servicio acorde con los principios y derechos previstos en esta [Ley](articulo-3.md);
 
 IV. No ser objeto de presiones, intimidación, ventaja o coacción para someterse a un Mecanismo Alternativo;
 

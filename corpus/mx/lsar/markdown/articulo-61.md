@@ -27,7 +27,9 @@ III. Por dar a la información objeto de la concesión un uso distinto al autori
 
 IV. Por dejar de cumplir con los términos y condiciones a los que se sujete el otorgamiento de la concesión o por infringir lo dispuesto en esta ley, su reglamento, el título de concesión y demás disposiciones administrativas aplicables a los sistemas de ahorro para el retiro;
 
-V. Por dejar de pagar en forma oportuna los derechos que se hayan fijado a cargo de la empresa operadora; VI. Por dejar de observar los principios de confidencialidad y reserva de la información derivada de los sistemas de ahorro para el retiro, de conformidad con lo establecido en la presente ley y en las disposiciones de carácter general que al efecto sean expedidas por la Comisión;
+V. Por dejar de pagar en forma oportuna los derechos que se hayan fijado a cargo de la empresa operadora;
+
+VI. Por dejar de observar los principios de confidencialidad y reserva de la información derivada de los sistemas de ahorro para el retiro, de conformidad con lo establecido en la presente ley y en las disposiciones de carácter general que al efecto sean expedidas por la Comisión;
 
 VII. Por incumplir de manera grave con los planes de trabajo o con el proyecto informático aprobados por la Comisión;
 

@@ -23,7 +23,9 @@ I. Ser administradas por una institución pública o privada, o por una asociaci
 
 II. Su infraestructura inmobiliaria deberá cumplir con las dimensiones físicas acordes a los servicios que proporcionan y con las medidas de seguridad y protección civil en términos de la legislación aplicable;
 
-III. Ser acordes con el diseño universal y la accesibilidad en términos de la legislación aplicable; IV. Contar con medidas de seguridad, protección y vigilancia necesarios para garantizar la comodidad, higiene, espacio idóneo de acuerdo a la edad, sexo o condición física o mental de niñas, niños y adolescentes alojados, de manera tal que se permita un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables;
+III. Ser acordes con el diseño universal y la accesibilidad en términos de la legislación aplicable;
+
+IV. Contar con medidas de seguridad, protección y vigilancia necesarios para garantizar la comodidad, higiene, espacio idóneo de acuerdo a la edad, sexo o condición física o mental de niñas, niños y adolescentes alojados, de manera tal que se permita un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables;
 
 V. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo en las áreas de dormitorios, sin que por ningún motivo éstos puedan ser compartidos por adultos, salvo que necesiten ser asistidos por algún adulto;
 

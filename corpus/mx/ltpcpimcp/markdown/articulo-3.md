@@ -19,9 +19,11 @@ Para los efectos de esta [Ley](articulo-3.md) se entenderá por:
 
 I. Agencia de Medios o Agencia: Persona física o moral cuya actividad principal es la creación, diseño, planificación y ejecución de campañas publicitarias, así como la contratación de espacios publicitarios por cuenta y orden de anunciantes;
 
-II. Anunciante: Persona física o moral en cuyo interés se realiza la publicidad para dar a conocer las características o beneficios de sus productos y/o servicios; LEY PARA LA TRANSPARENCIA, PREVENCIÓN Y COMBATE DE PRÁCTICAS INDEBIDAS EN MATERIA DE CONTRATACIÓN DE PUBLICIDAD III. Contrato de publicidad: Acuerdo por el que un Anunciante encomienda a una Agencia, mediante una contraprestación, la creación, planificación, ejecución y difusión de contenidos publicitarios;
+II. Anunciante: Persona física o moral en cuyo interés se realiza la publicidad para dar a conocer las características o beneficios de sus productos y/o servicios;
 
-IV. Contrato de difusión publicitaria: Acuerdo por el que, a cambio de una contraprestación, un Medio se obliga en favor de un [Anunciante](articulo-3.md) a permitir la utilización de [Espacios Publicitarios](articulo-3.md);
+III. Contrato de publicidad: Acuerdo por el que un [Anunciante](articulo-3.md) encomienda a una Agencia, mediante una contraprestación, la creación, planificación, ejecución y difusión de contenidos publicitarios;
+
+IV. Contrato de difusión publicitaria: Acuerdo por el que, a cambio de una contraprestación, un Medio se obliga en favor de un Anunciante a permitir la utilización de [Espacios Publicitarios](articulo-3.md);
 
 V. Espacio Publicitario: Lugar o tiempo en los Medios de Comunicación en los que se inserta [Publicidad](articulo-3.md), con el propósito de dar a conocer la existencia o características de un producto o servicio para inducir su comercialización a través de cualquier Medio;
 

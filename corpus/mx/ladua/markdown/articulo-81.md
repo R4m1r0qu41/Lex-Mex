@@ -21,7 +21,9 @@ Los importadores y exportadores, las agencias aduanales o los agentes aduanales,
 
 I. Su descripción, estado y origen.
 
-II. Su valor en aduana, así como el método de valoración utilizado y, en su caso, la existencia de vinculaciones a que se refiere el artículo [68](articulo-68.md) de esta Ley en el caso de importación, o el valor comercial tratándose de exportación. III. Su clasificación arancelaria y el número de identificación comercial. Fracción reformada DOF 01-07-2020
+II. Su valor en aduana, así como el método de valoración utilizado y, en su caso, la existencia de vinculaciones a que se refiere el artículo [68](articulo-68.md) de esta Ley en el caso de importación, o el valor comercial tratándose de exportación.
+
+III. Su clasificación arancelaria y el número de identificación comercial. Fracción reformada DOF 01-07-2020
 
 IV. El monto de las contribuciones causadas con motivo de su importación o exportación y, en su caso, las cuotas compensatorias.
 

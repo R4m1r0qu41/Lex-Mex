@@ -27,7 +27,9 @@ II. Elaborar el anteproyecto del [Programa Nacional](articulo-4.md) para someter
 
 III. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Nacional;
 
-IV. Elaborar y mantener actualizado el Manual de Organización y Operación del Sistema Nacional de Protección Integral; V. Compilar los acuerdos que se tomen en el Sistema Nacional de Protección Integral, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
+IV. Elaborar y mantener actualizado el Manual de Organización y Operación del Sistema Nacional de Protección Integral;
+
+V. Compilar los acuerdos que se tomen en el Sistema Nacional de Protección Integral, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
 
 VI. Apoyar al Sistema Nacional de Protección Integral en la ejecución y seguimiento de los acuerdos y resoluciones emitidos;
 

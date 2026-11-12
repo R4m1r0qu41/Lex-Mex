@@ -19,7 +19,9 @@ source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 
 Sin perjuicio de lo previsto en las disposiciones aplicables a los medios de comunicación, las autoridades federales competentes, en el ámbito de sus respectivas competencias, procurarán que éstos difundan información y materiales relacionados con:
 
-I. El interés social y cultural para niñas, niños y adolescentes, de conformidad con los objetivos de la educación que dispone el artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos; II. La existencia en la sociedad de servicios, instalaciones y oportunidades destinados a niñas, niños y adolescentes;
+I. El interés social y cultural para niñas, niños y adolescentes, de conformidad con los objetivos de la educación que dispone el artículo [3](../../cpeum/markdown/articulo-3o.md)o. de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. La existencia en la sociedad de servicios, instalaciones y oportunidades destinados a niñas, niños y adolescentes;
 
 III. La orientación a niñas, niños y adolescentes en el ejercicio de sus derechos;
 

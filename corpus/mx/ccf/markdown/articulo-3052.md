@@ -39,7 +39,9 @@ a) El documento con el que se acredita el origen de la posesión, si tal documen
 
 b) Un plano autorizado por ingeniero titulado en el que se identifique en forma indubitable el inmueble; y
 
-c) Constancias relativas al estado catastral y predial del inmueble, si existieren. III. Recibida la solicitud el Director del Registro Público de la Propiedad la hará del conocimiento, por correo certificado y con acuse de recibo, de la persona de quien se obtuvo la posesión y de su causante, si fuere conocido, así como de los colindantes, señalándoles un plazo de nueve días hábiles para que manifiesten lo que a sus derechos convenga.
+c) Constancias relativas al estado catastral y predial del inmueble, si existieren.
+
+III. Recibida la solicitud el Director del Registro Público de la Propiedad la hará del conocimiento, por correo certificado y con acuse de recibo, de la persona de quien se obtuvo la posesión y de su causante, si fuere conocido, así como de los colindantes, señalándoles un plazo de nueve días hábiles para que manifiesten lo que a sus derechos convenga.
 
 El Director del Registro Público de la Propiedad, además, mandará publicar edictos para notificar a las personas que pudieren considerarse perjudicadas, a costa del interesado por una sola vez en la Gaceta Oficial del Gobierno del Distrito Federal, y en un periódico de los de mayor circulación, si se tratare de bienes inmuebles urbanos. Si los predios fueren rústicos, se publicarán además por una sola vez en el Diario Oficial de la Federación: (sic DOF 09-04-2012) Párrafo reformado DOF 09-04-2012
 

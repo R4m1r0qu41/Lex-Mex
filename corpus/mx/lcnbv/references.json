@@ -1,19 +1,19 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcnbv:article:12:reference:2145-2147:16:direct",
+    "id": "urn:lex-mx:federal:statute:lcnbv:article:12:reference:2146-2148:16:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:12",
     "source_span": "16",
-    "start_char": 2145,
-    "end_char": 2147,
+    "start_char": 2146,
+    "end_char": 2148,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
     "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:16",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VIII",
-        "start_char": 2118,
-        "end_char": 2131
+        "start_char": 2119,
+        "end_char": 2132
       }
     ],
     "basis": "express_cross_reference",
@@ -55,19 +55,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcnbv:article:16:reference:1655-1656:4:direct",
+    "id": "urn:lex-mx:federal:statute:lcnbv:article:16:reference:1656-1657:4:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:16",
     "source_span": "4",
-    "start_char": 1655,
-    "end_char": 1656,
+    "start_char": 1656,
+    "end_char": 1657,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
     "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:4",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones XIV, XV, XVII, XXIV y XXXV",
-        "start_char": 1657,
-        "end_char": 1694
+        "start_char": 1658,
+        "end_char": 1695
       }
     ],
     "basis": "express_cross_reference",
@@ -78,19 +78,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcnbv:article:16:reference:1697-1698:7:direct",
+    "id": "urn:lex-mx:federal:statute:lcnbv:article:16:reference:1698-1699:7:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:16",
     "source_span": "7",
-    "start_char": 1697,
-    "end_char": 1698,
+    "start_char": 1698,
+    "end_char": 1699,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
     "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:7",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "último párrafo",
-        "start_char": 1717,
-        "end_char": 1731
+        "start_char": 1718,
+        "end_char": 1732
       }
     ],
     "basis": "express_cross_reference",
@@ -101,19 +101,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcnbv:article:16:reference:4052-4053:4:direct",
+    "id": "urn:lex-mx:federal:statute:lcnbv:article:16:reference:4053-4054:4:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:16",
     "source_span": "4",
-    "start_char": 4052,
-    "end_char": 4053,
+    "start_char": 4053,
+    "end_char": 4054,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcnbv",
     "target_provision_id": "urn:lex-mx:federal:statute:lcnbv:article:4",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones XXII y XXIV",
-        "start_char": 4016,
-        "end_char": 4038
+        "start_char": 4017,
+        "end_char": 4039
       }
     ],
     "basis": "express_cross_reference",

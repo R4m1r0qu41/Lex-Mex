@@ -19,7 +19,9 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 Los asientos de inscripción deberán expresar las circunstancias siguientes:
 
-I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el reglamento; II. La naturaleza, extensión y condiciones del derecho de que se trate;
+I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el reglamento;
+
+II. La naturaleza, extensión y condiciones del derecho de que se trate;
 
 III. El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deban expresarse en el título.
 

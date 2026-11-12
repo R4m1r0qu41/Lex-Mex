@@ -19,7 +19,9 @@ source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 
 Corresponden a las autoridades federales y locales de manera concurrente, las atribuciones siguientes:
 
-I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley; II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, de la paz y la educación cívica, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley; Fracción reformada DOF 11-12-2023
+I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
+
+II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, de la paz y la educación cívica, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley; Fracción reformada DOF 11-12-2023
 
 III. Garantizar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables;
 
@@ -43,7 +45,9 @@ XII. Adoptar medidas para la eliminación de usos, costumbres, prácticas cultur
 
 XIII. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes, víctimas de cualquier forma de violencia;
 
-XIV. Garantizar que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes; XV. Propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas;
+XIV. Garantizar que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes;
+
+XV. Propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas;
 
 XVI. Establecer el diseño universal, la accesibilidad y políticas para la prevención, atención y rehabilitación de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable;
 

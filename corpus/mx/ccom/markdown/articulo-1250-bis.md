@@ -19,7 +19,9 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 En el caso de impugnación y objeción de falsedad de un documento, además de lo dispuesto en el [artículo anterior](articulo-1250.md), se observará lo dispuesto en las siguientes reglas:
 
-I. La parte que objete la autenticidad de un documento o lo redarguya de falso, deberá indicar específicamente los motivos y las pruebas; II. Cuando se impugne la autenticidad de un documento privado, o, público sin matriz, deberán señalarse los documentos indubitables para el cotejo, y promover la prueba pericial correspondiente;
+I. La parte que objete la autenticidad de un documento o lo redarguya de falso, deberá indicar específicamente los motivos y las pruebas;
+
+II. Cuando se impugne la autenticidad de un documento privado, o, público sin matriz, deberán señalarse los documentos indubitables para el cotejo, y promover la prueba pericial correspondiente;
 
 III. Sin los requisitos anteriores se tendrá por no objetado ni redargüido o impugnado el instrumento;
 

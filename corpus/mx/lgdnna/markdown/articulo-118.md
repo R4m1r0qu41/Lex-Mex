@@ -33,7 +33,9 @@ VI. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
 VII. Elaborar y aplicar los programas locales a que se refiere esta Ley, así como rendir ante el [Sistema Nacional de Protección Integral](articulo-4.md) un informe anual sobre los avances;
 
-VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen; IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
+VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
+
+IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
 
 X. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia;
 

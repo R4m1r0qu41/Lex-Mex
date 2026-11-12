@@ -25,6 +25,8 @@ II. Entre los consortes;
 
 III. Entre los incapacitados y sus tutores o curadores, mientras dura la tutela;
 
-IV. Entre copropietarios o coposeedores, respecto del bien común. V. Contra los ausentes del Distrito Federal que se encuentren en servicio público; Fracción reformada DOF 23-12-1974
+IV. Entre copropietarios o coposeedores, respecto del bien común.
+
+V. Contra los ausentes del Distrito Federal que se encuentren en servicio público; Fracción reformada DOF 23-12-1974
 
 VI. Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Distrito Federal. Fracción reformada DOF 23-12-1974

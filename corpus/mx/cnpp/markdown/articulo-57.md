@@ -27,7 +27,7 @@ Si el Ministerio Público no comparece a la audiencia o se ausenta de la misma, 
 
 El Ministerio Público sustituto o el nuevo Defensor podrán solicitar al [Órgano jurisdiccional](articulo-3o.md) que aplace el inicio de la audiencia o suspenda la misma por un plazo que no podrá exceder de diez días para la adecuada preparación de su intervención en el juicio. El Órgano jurisdiccional resolverá considerando la complejidad del caso, las circunstancias de la ausencia de la defensa o del Ministerio Público y las posibilidades de aplazamiento.
 
-En el caso de que el Defensor, Asesor jurídico o el Ministerio Público se ausenten de la audiencia sin causa justificada, se les impondrá una multa de diez a cincuenta días de salario mínimo vigente, sin perjuicio de las sanciones administrativas o penales que correspondan.
+En el caso de que el Defensor, [Asesor jurídico](articulo-3o.md) o el Ministerio Público se ausenten de la audiencia sin causa justificada, se les impondrá una multa de diez a cincuenta días de salario mínimo vigente, sin perjuicio de las sanciones administrativas o penales que correspondan.
 
 Si la víctima u ofendido no concurren, o se retiran de la audiencia, la misma continuará sin su presencia, sin perjuicio de que pueda ser citado a comparecer en calidad de testigo.
 

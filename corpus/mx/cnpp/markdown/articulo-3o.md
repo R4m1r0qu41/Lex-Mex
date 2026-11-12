@@ -17,7 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 3o
 
-Glosario Para los efectos de este [Código](articulo-3o.md), según corresponda, se entenderá por: I. Asesor jurídico: Los asesores jurídicos de las víctimas, federales y de las [Entidades federativas](articulo-3o.md);
+Glosario Para los efectos de este [Código](articulo-3o.md), según corresponda, se entenderá por:
+
+I. Asesor jurídico: Los asesores jurídicos de las víctimas, federales y de las [Entidades federativas](articulo-3o.md);
 
 II. Código: El Código Nacional de Procedimientos Penales;
 
@@ -43,7 +45,9 @@ XII. Policía: Los cuerpos de Policía especializados en la investigación de de
 
 XIII. Procurador: El titular del Ministerio Público de la Federación o del Ministerio Público de las Entidades federativas o los Fiscales Generales en las Entidades federativas; Fracción recorrida DOF 25-04-2023
 
-XIV. Procuraduría: La Procuraduría General de la República, las Procuradurías Generales de Justicia y Fiscalías Generales de las Entidades federativas; Fracción recorrida DOF 25-04-2023 XV. Tratados: Los Tratados Internacionales en los que el Estado mexicano sea parte; Fracción recorrida DOF 25-04-2023
+XIV. Procuraduría: La Procuraduría General de la República, las Procuradurías Generales de Justicia y Fiscalías Generales de las Entidades federativas; Fracción recorrida DOF 25-04-2023
+
+XV. Tratados: Los Tratados Internacionales en los que el Estado mexicano sea parte; Fracción recorrida DOF 25-04-2023
 
 XVI. Tribunal de enjuiciamiento: El Órgano jurisdiccional del fuero federal o del fuero común integrado por uno o tres juzgadores, que interviene después del auto de apertura a juicio oral, hasta el dictado y explicación de sentencia, y Fracción recorrida DOF 25-04-2023
 

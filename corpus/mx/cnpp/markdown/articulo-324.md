@@ -21,4 +21,6 @@ Consecuencias de la conclusión del plazo de la investigación complementaria Un
 
 I. Solicitar el sobreseimiento parcial o total;
 
-II. Solicitar la suspensión del proceso, o III. Formular acusación.
+II. Solicitar la suspensión del proceso, o
+
+III. Formular acusación.

@@ -21,7 +21,9 @@ Los trabajadores afiliados tienen derecho a la apertura de su cuenta individual 
 
 Las cuentas individuales de los trabajadores afiliados se integrarán por las siguientes subcuentas:
 
-I. Retiro, cesantía en edad avanzada y vejez; II. Vivienda;
+I. Retiro, cesantía en edad avanzada y vejez;
+
+II. Vivienda;
 
 III. Aportaciones Voluntarias, y
 

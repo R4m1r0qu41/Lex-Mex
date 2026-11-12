@@ -17,4 +17,4 @@ source_sha256: f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62
 
 # Artículo 15
 
-Los Tiempos Oficiales serán utilizados por los [Entes Públicos](articulo-4.md) que tengan acceso a ellos, para la difusión de contenidos de carácter institucional y con fines informativos, educativos, culturales y otros asuntos de interés social.
+Los [Tiempos Oficiales](articulo-4.md) serán utilizados por los [Entes Públicos](articulo-4.md) que tengan acceso a ellos, para la difusión de contenidos de carácter institucional y con fines informativos, educativos, culturales y otros asuntos de interés social.

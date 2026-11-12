@@ -19,7 +19,9 @@ source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 
 No se causarán regalías por ejecución pública cuando concurran de manera conjunta las siguientes circunstancias:
 
-I. Que la ejecución sea mediante la comunicación de una transmisión recibida directamente en un aparato monorreceptor de radio o televisión del tipo comúnmente utilizado en domicilios privados; II. No se efectúe un cobro para ver u oír la transmisión o no forme parte de un conjunto de servicios;
+I. Que la ejecución sea mediante la comunicación de una transmisión recibida directamente en un aparato monorreceptor de radio o televisión del tipo comúnmente utilizado en domicilios privados;
+
+II. No se efectúe un cobro para ver u oír la transmisión o no forme parte de un conjunto de servicios;
 
 III. No se retransmita la transmisión recibida con fines de lucro, y
 

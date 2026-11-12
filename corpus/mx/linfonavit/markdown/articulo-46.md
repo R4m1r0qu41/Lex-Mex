@@ -21,4 +21,6 @@ I.- La demanda de habitación y las necesidades de vivienda, dando preferencia a
 
 II.- La factibilidad y posibilidades reales de llevar a cabo construcciones habitacionales;
 
-III.- El monto de las aportaciones al Fondo proveniente de las diversas regiones y localidades del país; y IV.- El número de trabajadores en las diferentes regiones o localidades del Territorio Nacional.
+III.- El monto de las aportaciones al Fondo proveniente de las diversas regiones y localidades del país; y
+
+IV.- El número de trabajadores en las diferentes regiones o localidades del Territorio Nacional.

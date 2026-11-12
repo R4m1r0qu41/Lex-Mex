@@ -19,7 +19,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 Es improcedente el recurso cuando se haga valer contra actos administrativos:
 
-I. Que no afecten el interés jurídico del recurrente. II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de sentencias.
+I. Que no afecten el interés jurídico del recurrente.
+
+II. Que sean resoluciones dictadas en recurso administrativo o en cumplimiento de sentencias.
 
 III. Que hayan sido impugnados ante el Tribunal Federal de Justicia Fiscal y Administrativa.
 

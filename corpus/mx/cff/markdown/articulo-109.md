@@ -17,7 +17,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 109
 
-Será sancionado con las mismas penas del delito de defraudación fiscal, quien: I. Consigne en las declaraciones que presente para los efectos fiscales, deducciones falsas o ingresos acumulables menores a los realmente obtenidos o valor de actos o actividades menores a los realmente obtenidos o realizados o determinados conforme a las leyes. En la misma forma será sancionada aquella persona física que perciba ingresos acumulables, cuando realice en un ejercicio fiscal erogaciones superiores a los ingresos declarados en el propio ejercicio y no compruebe a la autoridad fiscal el origen de la discrepancia en los plazos y conforme al procedimiento establecido en la Ley del Impuesto sobre la Renta.
+Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
+
+I. Consigne en las declaraciones que presente para los efectos fiscales, deducciones falsas o ingresos acumulables menores a los realmente obtenidos o valor de actos o actividades menores a los realmente obtenidos o realizados o determinados conforme a las leyes. En la misma forma será sancionada aquella persona física que perciba ingresos acumulables, cuando realice en un ejercicio fiscal erogaciones superiores a los ingresos declarados en el propio ejercicio y no compruebe a la autoridad fiscal el origen de la discrepancia en los plazos y conforme al procedimiento establecido en la Ley del Impuesto sobre la Renta.
 
 II. Omita enterar a las autoridades fiscales, dentro del plazo que la ley establezca, las cantidades que por concepto de contribuciones hubiere retenido o recaudado.
 

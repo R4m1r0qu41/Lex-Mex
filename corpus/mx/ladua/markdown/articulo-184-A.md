@@ -21,6 +21,8 @@ Son infracciones relacionadas con la obligación de transmitir la información r
 
 I. Transmitir datos inexactos o falsos, referentes al valor de las mercancías o los demás datos relativos a su comercialización.
 
-II. Transmitir información incompleta o con datos inexactos, en cuanto a la descripción de la mercancía e identificación individual, considerando la mercancía que se presente a despacho. III. Transmitir información relacionada con la transportación de la mercancía, incompleta o con datos inexactos, en cuanto a su descripción e identificación individual y número de contenedor, considerando la mercancía y contenedor presentado a despacho.
+II. Transmitir información incompleta o con datos inexactos, en cuanto a la descripción de la mercancía e identificación individual, considerando la mercancía que se presente a despacho.
+
+III. Transmitir información relacionada con la transportación de la mercancía, incompleta o con datos inexactos, en cuanto a su descripción e identificación individual y número de contenedor, considerando la mercancía y contenedor presentado a despacho.
 
 Artículo adicionado DOF 09-12-2013

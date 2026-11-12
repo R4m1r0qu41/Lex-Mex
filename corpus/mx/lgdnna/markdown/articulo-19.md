@@ -17,7 +17,9 @@ source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 
 # Artículo 19
 
-Niñas, niños y adolescentes, en términos de la legislación civil aplicable, desde su nacimiento, tienen derecho a: I. Contar con nombre y los apellidos que les correspondan, así como a ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primer copia certificada del acta correspondiente, en los términos de las disposiciones aplicables;
+Niñas, niños y adolescentes, en términos de la legislación civil aplicable, desde su nacimiento, tienen derecho a:
+
+I. Contar con nombre y los apellidos que les correspondan, así como a ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primer copia certificada del acta correspondiente, en los términos de las disposiciones aplicables;
 
 II. Contar con nacionalidad, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales;
 

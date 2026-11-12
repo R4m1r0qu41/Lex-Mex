@@ -43,7 +43,9 @@ XI. No incluir a todas las sociedades integradas en la solicitud de autorizació
 
 XII. No presentar los avisos de incorporación o desincorporación al régimen opcional para grupos de sociedades en términos de los artículos [66](../../lisr/markdown/articulo-66.md), cuarto párrafo y [68](../../lisr/markdown/articulo-68.md), quinto párrafo, de la Ley del Impuesto sobre la Renta o presentarlos en forma extemporánea.
 
-XIII. (Se deroga). XIV. No proporcionar la información de las operaciones efectuadas en el año de calendario anterior, a través de fideicomisos por los que se realicen actividades empresariales, de conformidad con el artículo [76](../../lisr/markdown/articulo-76.md), fracción XIII de la Ley del Impuesto sobre la Renta, según sea el caso.
+XIII. (Se deroga).
+
+XIV. No proporcionar la información de las operaciones efectuadas en el año de calendario anterior, a través de fideicomisos por los que se realicen actividades empresariales, de conformidad con el artículo [76](../../lisr/markdown/articulo-76.md), fracción XIII de la Ley del Impuesto sobre la Renta, según sea el caso.
 
 XV. (Se deroga).
 
@@ -95,7 +97,9 @@ XXVII. No proporcionar la información a que se refiere el artículo [32-G](arti
 
 XXVIII. No cumplir con la obligación a que se refiere la fracción IV del artículo [98](../../lisr/markdown/articulo-98.md) de la Ley del Impuesto sobre la Renta.
 
-XXIX. No proporcionar la información señalada en el artículo [30-A](articulo-30-A.md) de este Código o presentarla incompleta o con errores. XXX. No proporcionar o proporcionar de forma extemporánea la documentación comprobatoria que ampare que las acciones objeto de la autorización a que se refiere el artículo [161](../../lisr/markdown/articulo-161.md) de la Ley del Impuesto sobre la Renta, no han salido del grupo de sociedades o no presentar o presentar en forma extemporánea la información o el aviso a que se refieren los artículos [262](../../reg-lisr/markdown/articulo-262.md), fracción IV y [269](../../reg-lisr/markdown/articulo-269.md) del Reglamento de la Ley del Impuesto sobre la Renta.
+XXIX. No proporcionar la información señalada en el artículo [30-A](articulo-30-A.md) de este Código o presentarla incompleta o con errores.
+
+XXX. No proporcionar o proporcionar de forma extemporánea la documentación comprobatoria que ampare que las acciones objeto de la autorización a que se refiere el artículo [161](../../lisr/markdown/articulo-161.md) de la Ley del Impuesto sobre la Renta, no han salido del grupo de sociedades o no presentar o presentar en forma extemporánea la información o el aviso a que se refieren los artículos [262](../../reg-lisr/markdown/articulo-262.md), fracción IV y [269](../../reg-lisr/markdown/articulo-269.md) del Reglamento de la Ley del Impuesto sobre la Renta.
 
 XXXI. No proporcionar la información a que se refieren los artículos [76](../../lisr/markdown/articulo-76.md), fracción XV, [82](../../lisr/markdown/articulo-82.md), fracción VII, [110](../../lisr/markdown/articulo-110.md), fracción VII, [118](../../lisr/markdown/articulo-118.md), fracción V y [128](../../lisr/markdown/articulo-128.md) de la Ley del Impuesto sobre la Renta, o presentarla en forma extemporánea.
 

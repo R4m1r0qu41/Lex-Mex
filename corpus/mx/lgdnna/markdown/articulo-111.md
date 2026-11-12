@@ -19,7 +19,9 @@ source_sha256: 475861976811f45ac5676ccd6b9db68c61b41d7f8d85e4d3d267914ab3fe3822
 
 Son obligaciones de los titulares o responsables legales de los centros de asistencia social:
 
-I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para formar parte del Registro Nacional de Centros de Asistencia Social del [Sistema Nacional DIF](articulo-4.md); II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, el cual actualizarán de manera permanente e informarán de inmediato a la [Procuraduría de Protección](articulo-4.md) de la entidad federativa de que se trate, que a su vez remitirá dicha información a la Procuraduría de Protección Federal y al Sistema DIF de la entidad correspondiente; Fracción reformada DOF 03-06-2019
+I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para formar parte del Registro Nacional de Centros de Asistencia Social del [Sistema Nacional DIF](articulo-4.md);
+
+II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, el cual actualizarán de manera permanente e informarán de inmediato a la [Procuraduría de Protección](articulo-4.md) de la entidad federativa de que se trate, que a su vez remitirá dicha información a la Procuraduría de Protección Federal y al Sistema DIF de la entidad correspondiente; Fracción reformada DOF 03-06-2019
 
 III. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social;
 

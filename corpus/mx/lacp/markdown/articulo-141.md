@@ -25,6 +25,8 @@ II. Permitan que los directivos o empleados de la Sociedad u organismo, alteren 
 
 III. Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito;
 
-IV. Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito; y V. Inciten u ordenen no presentar la petición a que se refiere el Artículo [136 Bis 7](articulo-136-Bis-7.md) de esta Ley a quien esté facultado para ello. Fracción reformada DOF 10-01-2014
+IV. Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito; y
+
+V. Inciten u ordenen no presentar la petición a que se refiere el Artículo [136 Bis 7](articulo-136-Bis-7.md) de esta Ley a quien esté facultado para ello. Fracción reformada DOF 10-01-2014
 
 Artículo adicionado DOF 31-08-2007. Reformado DOF 13-08-2009

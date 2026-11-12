@@ -23,6 +23,8 @@ I. Se hubieren efectuado personalmente;
 
 II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los artículos [101 Bis 4](articulo-101-Bis-4.md) y [101 Bis 12](articulo-101-Bis-12.md);
 
-III. Se hubiere efectuado la última publicación a que se refiere el artículo [101 Bis 11](articulo-101-Bis-11.md), y IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
+III. Se hubiere efectuado la última publicación a que se refiere el artículo [101 Bis 11](articulo-101-Bis-11.md), y
+
+IV. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
 
 Artículo adicionado DOF 10-01-2014

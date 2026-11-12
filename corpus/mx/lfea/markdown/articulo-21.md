@@ -27,4 +27,6 @@ b) Las características generales de los procedimientos para la generación y em
 
 c) La revocación del certificado digital;
 
-II. A que los datos e información que proporcione a la autoridad certificadora sean tratados de manera confidencial, en términos de las disposiciones jurídicas aplicables, y III. A solicitar la modificación de datos y elementos del certificado digital, mediante la revocación de éste, cuando así convenga a sus intereses.
+II. A que los datos e información que proporcione a la autoridad certificadora sean tratados de manera confidencial, en términos de las disposiciones jurídicas aplicables, y
+
+III. A solicitar la modificación de datos y elementos del certificado digital, mediante la revocación de éste, cuando así convenga a sus intereses.

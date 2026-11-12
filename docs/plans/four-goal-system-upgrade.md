@@ -242,3 +242,65 @@ scratch copy `root3` exits 0 with exactly the two accepted gaps (`lftr`,
 `socap-sofipo-dcg-2006`); it would relink `larefam` (46 references, three files), which is not
 applied to the repository. The corpus and monitor code are ready to commit on the operator's word.
 
+## Checkpoint 2026-11-12 (later): committed, held set reviewed
+
+- Committed on the operator's word, after re-running the native gate on the tree (fmt, strict
+  clippy, 508 tests, both validators): `bec9467a9` (monitor-sources) and `92e1e1365` (289
+  reparsed instruments, decisions entry, this plan, the review brief). Post-commit check of
+  `92e1e1365`: no temporal value removed (only `null`/`unknown` replaced); review fields changed
+  only `not_analyzed` to `machine_accepted` (4,486). Wording correction: "31 references newly
+  resolve" in that commit message counts added `resolution_rule: same_article` lines, not a
+  measured count of newly resolved edges.
+- **Held 36 re-run** in a fresh scratch root cloned from `92e1e1365` with a binary built from it
+  (script: session scratchpad `reparse_held.py`; every token-change span listed, every deletion
+  printed with its token count, head and tail, and checked to end in a signature, running title
+  or heading). Result:
+  - **Adopted 30** (`ccf ccom cff cjm cnpp cucb-dcg-2004 lacp ladua lbm lcnbv lfda lfea lgcs
+    lgdnna lgmime lgoaac linfonavit lnmasc-penal lnsijpa log lpcinecdi lrsic lsar ltpcpimcp
+    oaac-dcg-2009 reg-csps reg-lagra-mcdets reg-lfce reg-lftr-mcsre rgic`; 27 change on disk,
+    `cucb-dcg-2004`, `log`, `oaac-dcg-2009` reparse byte-identical). `cjm` gains 546
+    deterministic in-force determinations (`not_analyzed` to `machine_accepted`), as the 51 did in
+    `92e1e1365`; no other review or temporal field changes. `reform-temporal-evidence.json`
+    gains 315 reform-decree transitory entries in 13 instruments; 13 ids are renamed with their
+    text preserved; no evidence text is lost (same check on `92e1e1365`: none lost). Heading
+    context: `ccom` arts. 1390 Ter to Ter 3 gain `Capítulo I` and `ccf` art. 1549 Bis moves from
+    `Capítulo III` to `Capítulo III Bis`, both as the source prints. Every token change is a
+    suffix or running-title deletion of non-legal text: promulgation/signature blocks at the end
+    of the last transitory (12 instruments; 10 of them lose exactly one edge, the CPEUM art. 89
+    citation inside that block, and none loses another; gained: 12 internal fraction edges in
+    `ccom`, `cff`, `ladua`, `reg-lfce`, and `cjm` art. 30 Séptimus to art. 4), a leaked chapter heading now carried in `heading_context` (`ccf`
+    art. 1549), running law titles (`lpcinecdi`, `ltpcpimcp`). `reg-csps` annex label gains the
+    final period the source prints. Validation issue sets identical before and after; no term
+    lost (+4 recovered); no temporal value lost. `verify-fidelity`: pass count equal or higher in
+    all 30 except `ccf` art. 1549 Bis (text unchanged; the chapter heading it shares words with
+    now sits between articles and the matcher anchors on it, an F1/F2 anchoring limit).
+    `link --all` in the scratch root: exit 0, exactly the two accepted gaps, no references file
+    changed (the standing `larefam` relink of 46 references is unchanged and still unapplied).
+  - **`cjm`: corpus repair.** The committed text lacks arts. 30 Sextus and 30 Séptimus entirely
+    (no trace in any provision); the official PDF has them (lines 388 and 414 of the extraction)
+    and the parser now recovers them. The adapter's frozen machine-proposed count was taken from
+    the defective parse; `adapters/diputados/cjm.json` `expected_articles` 952 → 954 by hand, from
+    the source (the `count_baseline` block still records the original proposal). F1 cannot see a
+    missing provision; F2 coverage would.
+  - **`laassp` held for P2.** The reparse is otherwise a repair (13 leaked Título/Capítulo
+    headings leave the text, 120 heading contexts filled), but it appends the reform-decree line
+    "Artículo Segundo a Artículo Cuarto.- ……" (source line 3010, between art. 120 and
+    Transitorios) to art. 120, the only case in the set where non-provision words are added.
+    Six committed instruments already carry the same defect class (`lgec` 49, `lgpdppso` 137,
+    `lgpisdme` 43, `lgtaip` 216, `lsat` transitory octavo, `ladua` transitory noveno). Adopt
+    after milestone **P2** below.
+  - **Still held, 6:** `laassp` (above); `lic`, `lfpccs`, `lfvv` (guards: approved outdated reference, reviewed
+    glossary profiles; JRH); `cue-dcg-2003` (amendment marks (101)–(108) leave the text, an
+    improvement, but six provisions lose `effective_from` 2003-03-20: arts. 15 Bis 2, 40, 54,
+    82 Bis, 84, 84 Bis; needs the reviewer's view); `scap-dcg-2012` (art. 202: the source prints
+    "(261)" mid-sentence, "mediante avisos colocados (261) en lugar visible", and the legend
+    defines no mark 261; the new parse reads it as an amendment mark and validation fails with
+    `unknown_amendment_mark`; source anomaly like D-1, operator decision).
+
+### Added milestone
+
+- **P2. Reform-decree omission lines** ("Artículo(s) Segundo a … .- ……" / "……….." between the
+  last article and Transitorios): classify as decree furniture, not provision text; fixture from
+  `laassp`; reparse `laassp` and the six instruments above; accept only that deletion, then
+  adopt `laassp`.
+

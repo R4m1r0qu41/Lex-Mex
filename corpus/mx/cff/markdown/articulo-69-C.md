@@ -29,6 +29,8 @@ II. Respecto del ejercicio de facultades de comprobación a través de compulsas
 
 III. Respecto de actos derivados de la cumplimentación a resoluciones o sentencias.
 
-IV. Cuando haya transcurrido el plazo de veinte días siguientes a aquél en que se haya levantado el acta final, notificado el oficio de observaciones o la resolución provisional, según sea el caso. V. Tratándose de contribuyentes que se ubiquen en los supuestos a que se refieren el segundo y cuarto párrafos, este último en su parte final, del artículo [69-B](articulo-69-B.md) de este Código.
+IV. Cuando haya transcurrido el plazo de veinte días siguientes a aquél en que se haya levantado el acta final, notificado el oficio de observaciones o la resolución provisional, según sea el caso.
+
+V. Tratándose de contribuyentes que se ubiquen en los supuestos a que se refieren el segundo y cuarto párrafos, este último en su parte final, del artículo [69-B](articulo-69-B.md) de este Código.
 
 El procedimiento de acuerdo conclusivo a que se refiere este artículo, no deberá exceder de un plazo de doce meses contados a partir de que el contribuyente presente la solicitud respectiva ante la Procuraduría de la Defensa del Contribuyente. Párrafo adicionado DOF 12-11-2021

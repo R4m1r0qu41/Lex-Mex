@@ -23,7 +23,9 @@ El Registro Nacional de Centros de Asistencia Social, deberá contar por lo meno
 
 I. Nombre o razón social del Centro de asistencia social;
 
-II. Domicilio del Centro de asistencia social; III. Censo de la población albergada, que contenga sexo, edad, y situación jurídica, y el seguimiento al proceso de reincorporación familiar o social, y
+II. Domicilio del Centro de asistencia social;
+
+III. Censo de la población albergada, que contenga sexo, edad, y situación jurídica, y el seguimiento al proceso de reincorporación familiar o social, y
 
 IV. Relación del personal que labora en el Centro de asistencia social incluyendo al director general y representante legal, así como la figura jurídica bajo la cual opera.
 

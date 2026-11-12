@@ -33,7 +33,9 @@ IV. Recibir créditos de entidades financieras nacionales o extranjeras, organis
 
 V. Efectuar la distribución y pago de productos, servicios y programas gubernamentales;
 
-VI. Constituir depósitos a la vista o a plazo en instituciones de crédito, así como en, Organismos de Integración Financiera Rural, y VII. Las demás operaciones necesarias para la realización de las operaciones señaladas en las fracciones I a VI, anteriores.
+VI. Constituir depósitos a la vista o a plazo en instituciones de crédito, así como en, Organismos de Integración Financiera Rural, y
+
+VII. Las demás operaciones necesarias para la realización de las operaciones señaladas en las fracciones I a VI, anteriores.
 
 Las Sociedades Financieras Comunitarias de nivel de operaciones básico tendrán prohibido recibir en garantía de los préstamos que otorguen a sus Socios, títulos representativos de su capital social.
 

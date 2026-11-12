@@ -19,9 +19,11 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Causas de impedimento Son causas de impedimento de los jueces y magistrados:
 
-I. Haber intervenido en el mismo procedimiento como [Ministerio Público](articulo-3o.md), [Defensor](articulo-3o.md), Asesor jurídico, denunciante o querellante, o haber ejercido la acción penal particular; haber actuado como perito, consultor técnico, testigo o tener interés directo en el procedimiento;
+I. Haber intervenido en el mismo procedimiento como [Ministerio Público](articulo-3o.md), [Defensor](articulo-3o.md), [Asesor jurídico](articulo-3o.md), denunciante o querellante, o haber ejercido la acción penal particular; haber actuado como perito, consultor técnico, testigo o tener interés directo en el procedimiento;
 
-II. Ser cónyuge, concubina o concubinario, conviviente, tener parentesco en línea recta sin limitación de grado, en línea colateral por consanguinidad y por afinidad hasta el segundo grado con alguno de los interesados, o que éste cohabite o haya cohabitado con alguno de ellos; III. Ser o haber sido tutor, curador, haber estado bajo tutela o curatela de alguna de las partes, ser o haber sido administrador de sus bienes por cualquier título;
+II. Ser cónyuge, concubina o concubinario, conviviente, tener parentesco en línea recta sin limitación de grado, en línea colateral por consanguinidad y por afinidad hasta el segundo grado con alguno de los interesados, o que éste cohabite o haya cohabitado con alguno de ellos;
+
+III. Ser o haber sido tutor, curador, haber estado bajo tutela o curatela de alguna de las partes, ser o haber sido administrador de sus bienes por cualquier título;
 
 IV. Cuando él, su cónyuge, concubina, concubinario, conviviente, o cualquiera de sus parientes en los grados que expresa la fracción II de este artículo, tenga un juicio pendiente iniciado con anterioridad con alguna de las partes;
 

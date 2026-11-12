@@ -31,7 +31,9 @@ V.- Las empresas de abastecimientos y suministros;
 
 VI.- Las empresas de construcciones, y trabajos públicos y privados;
 
-VII.- Las empresas de fábricas y manufacturas; VIII.- Las empresas de trasportes de personas o cosas, por tierra o por agua; y las empresas de turismo. Fracción reformada DOF 31-08-1934
+VII.- Las empresas de fábricas y manufacturas;
+
+VIII.- Las empresas de trasportes de personas o cosas, por tierra o por agua; y las empresas de turismo. Fracción reformada DOF 31-08-1934
 
 IX.- Las librerías, y las empresas editoriales y tipográficas;
 

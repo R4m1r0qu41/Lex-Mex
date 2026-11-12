@@ -29,7 +29,9 @@ Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos e
 
 I. Homicidio doloso previsto en los artículos [302](articulo-302.md) en relación al 307, 313, 315, 315 Bis, 320 y 323;
 
-II. Genocidio, previsto en el artículo 149 Bis; III. Violación prevista en los artículos [265](articulo-265.md), [266](articulo-266.md) y 266 Bis;
+II. Genocidio, previsto en el artículo 149 Bis;
+
+III. Violación prevista en los artículos [265](articulo-265.md), [266](articulo-266.md) y 266 Bis;
 
 IV. Traición a la patria, previsto en los artículos [123](articulo-123.md), [124](articulo-124.md), [125](articulo-125.md) y [126](articulo-126.md);
 
@@ -59,7 +61,9 @@ XVI. Enriquecimiento ilícito previsto en el artículo [224](articulo-224.md), e
 
 XVII. Robo al transporte de carga, en cualquiera de sus modalidades, previsto en los artículos 376 Ter y [381](articulo-381.md), fracción XVII. Fracción adicionada DOF 19-02-2021
 
-[Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera: I. Contrabando y su equiparable, de conformidad con lo dispuesto en los artículos [102](articulo-102.md) y [105](articulo-105.md), fracciones I y IV, cuando estén a las sanciones previstas en las fracciones II o III, párrafo segundo, del artículo [104](articulo-104.md), exclusivamente cuando sean calificados;
+[Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal de la Federación, de la siguiente manera:
+
+I. Contrabando y su equiparable, de conformidad con lo dispuesto en los artículos [102](articulo-102.md) y [105](articulo-105.md), fracciones I y IV, cuando estén a las sanciones previstas en las fracciones II o III, párrafo segundo, del artículo [104](articulo-104.md), exclusivamente cuando sean calificados;
 
 II. Defraudación fiscal y su equiparable, de conformidad con lo dispuesto en los artículos [108](articulo-108.md) y [109](articulo-109.md), cuando el monto de lo defraudado supere 3 veces lo dispuesto en la fracción III del artículo [108](../../cff/markdown/articulo-108.md) del Código Fiscal de la Federación, exclusivamente cuando sean calificados, y
 

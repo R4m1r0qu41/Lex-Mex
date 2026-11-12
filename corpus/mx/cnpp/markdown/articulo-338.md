@@ -21,6 +21,8 @@ Coadyuvancia en la acusación Dentro de los tres días siguientes de la notifica
 
 I. Constituirse como coadyuvantes en el proceso;
 
-II. Señalar los vicios formales de la acusación y requerir su corrección; III. Ofrecer los medios de prueba que estime necesarios para complementar la acusación del Ministerio Público, de lo cual se deberá notificar al acusado; Fracción reformada DOF 17-06-2016
+II. Señalar los vicios formales de la acusación y requerir su corrección;
+
+III. Ofrecer los medios de prueba que estime necesarios para complementar la acusación del Ministerio Público, de lo cual se deberá notificar al acusado; Fracción reformada DOF 17-06-2016
 
 IV. Solicitar el pago de la reparación del daño y cuantificar su monto.

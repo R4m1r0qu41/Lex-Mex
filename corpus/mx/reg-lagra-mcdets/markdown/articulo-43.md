@@ -21,4 +21,6 @@ Cuando la [Asamblea](articulo-2º.md) proceda a asignar derechos sobre las tierr
 
 I. Se considerará que la totalidad de las tierras de uso común representan un cien por ciento;
 
-II. A este cien por ciento se restará el porcentaje que se vaya a asignar en proporciones distintas, indicándose el nombre de las personas beneficiadas y el porcentaje que les corresponde, y III. El porcentaje restante se dividirá en partes iguales entre el número de personas a las que les correspondan derechos en partes iguales, mencionándose sus nombres.
+II. A este cien por ciento se restará el porcentaje que se vaya a asignar en proporciones distintas, indicándose el nombre de las personas beneficiadas y el porcentaje que les corresponde, y
+
+III. El porcentaje restante se dividirá en partes iguales entre el número de personas a las que les correspondan derechos en partes iguales, mencionándose sus nombres.

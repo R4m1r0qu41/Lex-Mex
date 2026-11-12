@@ -27,7 +27,9 @@ III. Cuando la pared soporte las cargas y carreras, pasos y armaduras de una de 
 
 IV. Cuando la pared divisoria entre patios, jardines y otras heredades, esté construida de modo que la albardilla caiga hacia una sola de las propiedades;
 
-V. Cuando la pared divisoria construida de mampostería, presenta piedras llamadas pasaderas, que de distancia en distancia salen fuera de la superficie sólo por un lado de la pared, y no por el otro; VI. Cuando la pared fuere divisoria entre un edificio del cual forme parte, y un jardín, campo, corral o sitio sin edificio;
+V. Cuando la pared divisoria construida de mampostería, presenta piedras llamadas pasaderas, que de distancia en distancia salen fuera de la superficie sólo por un lado de la pared, y no por el otro;
+
+VI. Cuando la pared fuere divisoria entre un edificio del cual forme parte, y un jardín, campo, corral o sitio sin edificio;
 
 VII. Cuando una heredad se halle cerrada o defendida por vallados, cercas o setos vivos y las contiguas no lo estén;
 

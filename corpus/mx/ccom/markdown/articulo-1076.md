@@ -39,6 +39,8 @@ V. No ha lugar a la caducidad en los juicios universales de concurso, pero si en
 
 VI. Tampoco opera la caducidad cuando el procedimiento está suspendido por causa de fuerza mayor y el juez y las partes no pueden actuar; así como en los casos en que es necesario esperar una resolución de cuestión previa o conexa por el mismo juez o por otras autoridades; y en los demás casos previstos por la ley;
 
-VII. La resolución que decrete la caducidad será apelable en ambos efectos, en caso de que el juicio admita la alzada. Si la declaratoria se hace en segunda instancia se admitirá reposición, y VIII. Las costas serán a cargo del actor, cuando se decrete la caducidad del juicio en primera instancia. En la segunda instancia serán a cargo del apelante, y en los incidentes las pagará el que lo haya interpuesto. Sin embargo, las costas serán compensables con las que corran a cargo del demandado cuando hubiera opuesto reconvención, compensación, nulidad y en general las excepciones o defensas que tiendan a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
+VII. La resolución que decrete la caducidad será apelable en ambos efectos, en caso de que el juicio admita la alzada. Si la declaratoria se hace en segunda instancia se admitirá reposición, y
+
+VIII. Las costas serán a cargo del actor, cuando se decrete la caducidad del juicio en primera instancia. En la segunda instancia serán a cargo del apelante, y en los incidentes las pagará el que lo haya interpuesto. Sin embargo, las costas serán compensables con las que corran a cargo del demandado cuando hubiera opuesto reconvención, compensación, nulidad y en general las excepciones o defensas que tiendan a variar la situación jurídica que privaba entre las partes antes de la presentación de la demanda.
 
 Artículo reformado DOF 24-05-1996

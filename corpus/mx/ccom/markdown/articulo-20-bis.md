@@ -29,6 +29,8 @@ IV.- Permitir la consulta de los asientos registrales que obren en el Registro, 
 
 V.- Operar el programa informático del sistema registral automatizado en la oficina a su cargo, conforme a lo previsto en este Capítulo, el reglamento respectivo y en los lineamientos que emita la Secretaría;
 
-VI.- Proporcionar facilidades a la Secretaría para vigilar la adecuada operación del Registro Público de Comercio, y VII.- Las demás que se señalen en el presente Capítulo y su reglamento.
+VI.- Proporcionar facilidades a la Secretaría para vigilar la adecuada operación del Registro Público de Comercio, y
+
+VII.- Las demás que se señalen en el presente Capítulo y su reglamento.
 
 Artículo adicionado DOF 29-05-2000

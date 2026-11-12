@@ -21,6 +21,6 @@ Derecho a una defensa y asesoría jurídica adecuada e inmediata La defensa es u
 
 Se entenderá por una defensa técnica, la que debe realizar el Defensor particular que el imputado elija libremente o el Defensor público que le corresponda, para que le asista desde su detención y a lo largo de todo el procedimiento, sin perjuicio de los actos de defensa material que el propio imputado pueda llevar a cabo.
 
-La víctima u ofendido tendrá derecho a contar con un Asesor jurídico gratuito en cualquier etapa del procedimiento, en los términos de la legislación aplicable.
+La víctima u ofendido tendrá derecho a contar con un [Asesor jurídico](articulo-3o.md) gratuito en cualquier etapa del procedimiento, en los términos de la legislación aplicable.
 
 Corresponde al [Órgano jurisdiccional](articulo-3o.md) velar sin preferencias ni desigualdades por la defensa adecuada y técnica del imputado.

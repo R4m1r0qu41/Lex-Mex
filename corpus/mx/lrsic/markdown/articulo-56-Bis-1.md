@@ -25,6 +25,8 @@ I. Las irregularidades o incumplimientos que sean detectados por la Comisión, e
 
 Se entenderá que la irregularidad fue detectada previamente por las autoridades señaladas, cuando se haya notificado a la Sociedad, Entidad Financiera o Sofom E.N.R., según sea el caso, la irregularidad o bien, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
 
-II. Cuando la contravención a la norma de que se trate, corresponda a la comisión de algún delito, o III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
+II. Cuando la contravención a la norma de que se trate, corresponda a la comisión de algún delito, o
+
+III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
 
 Artículo adicionado DOF 10-01-2014

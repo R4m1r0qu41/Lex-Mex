@@ -21,7 +21,9 @@ El Servicio de Administración Tributaria podrá autorizar a particulares para q
 
 I. Validen el cumplimiento de los requisitos establecidos en el artículo [29-A](articulo-29-A.md) de este Código, los establecidos en los complementos de los comprobantes fiscales digitales por Internet, así como las especificaciones en materia de informática y demás documentos que determine el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-II. Asignen el folio del comprobante fiscal digital por Internet. III. Incorporen el sello digital del Servicio de Administración Tributaria.
+II. Asignen el folio del comprobante fiscal digital por Internet.
+
+III. Incorporen el sello digital del Servicio de Administración Tributaria.
 
 Los particulares que deseen obtener la autorización a que se refiere este artículo deberán cumplir con los requisitos y obligaciones que el Servicio de Administración Tributaria establezca mediante reglas de carácter general, además de los que se establezcan en documentos técnicos o normativos correspondientes.
 

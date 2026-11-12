@@ -33,7 +33,9 @@ VI. Omitir o insertar con falsedad en una edición los datos a que se refiere el
 
 VII. Omitir o insertar con falsedad las menciones a que se refiere el artículo [54](articulo-54.md) de la presente Ley;
 
-VIII. No insertar en un fonograma las menciones a que se refiere el artículo [132](articulo-132.md) de la presente Ley; IX. Publicar una obra, estando autorizado para ello, sin mencionar en los ejemplares de ella el nombre del autor, traductor, compilador, adaptador o arreglista;
+VIII. No insertar en un fonograma las menciones a que se refiere el artículo [132](articulo-132.md) de la presente Ley;
+
+IX. Publicar una obra, estando autorizado para ello, sin mencionar en los ejemplares de ella el nombre del autor, traductor, compilador, adaptador o arreglista;
 
 X. Publicar una obra, estando autorizado para ello, con menoscabo de la reputación del autor como tal y, en su caso, del traductor, compilador, arreglista o adaptador;
 

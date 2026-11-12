@@ -21,7 +21,9 @@ Los certificados que emita el Servicio de Administración Tributaria para ser co
 
 I. La mención de que se expiden como tales. Tratándose de certificados de sellos digitales, se deberán especificar las limitantes que tengan para su uso.
 
-II. El código de identificación único del certificado. III. La mención de que fue emitido por el Servicio de Administración Tributaria y una dirección electrónica.
+II. El código de identificación único del certificado.
+
+III. La mención de que fue emitido por el Servicio de Administración Tributaria y una dirección electrónica.
 
 IV. Nombre del titular del certificado y su clave del registro federal de contribuyentes.
 

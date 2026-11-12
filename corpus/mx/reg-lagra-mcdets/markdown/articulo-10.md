@@ -23,4 +23,6 @@ II. El orden del día de los asuntos a tratar;
 
 II. El lugar, fecha y hora de celebración de la [Asamblea](articulo-2º.md);
 
-III. La firma del convocante, o huella digital cuando éste no pudiere hacerlo. Si éste cuenta con sello, deberá también estampado, y IV. La fecha de su expedición.
+III. La firma del convocante, o huella digital cuando éste no pudiere hacerlo. Si éste cuenta con sello, deberá también estampado, y
+
+IV. La fecha de su expedición.

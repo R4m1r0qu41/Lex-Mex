@@ -47,7 +47,9 @@ XII. Señale en el pedimento nombre, denominación o razón social o la clave de
 
 XIII. Presente ante las autoridades aduaneras documentación falsa o alterada. Reforma DOF 12-11-2021: Derogó de la fracción el entonces párrafo segundo
 
-XIV. Con el propósito de obtener un beneficio indebido o en perjuicio del fisco federal, transmita al sistema electrónico previsto en el artículo [36](../../ladua/markdown/articulo-36.md) de la Ley Aduanera información distinta a la declaración en el pedimento o factura, o pretenda acreditar la legal estancia de mercancías de comercio exterior con documentos que contengan información distinta a la transmitida al sistema o permita que se despache mercancía amparada con documentos que contengan información distinta a la transmitida al sistema. XV. Viole los medios de seguridad utilizados por las personas autorizadas para almacenar o transportar mercancías de comercio exterior o tolere su violación.
+XIV. Con el propósito de obtener un beneficio indebido o en perjuicio del fisco federal, transmita al sistema electrónico previsto en el artículo [36](../../ladua/markdown/articulo-36.md) de la Ley Aduanera información distinta a la declaración en el pedimento o factura, o pretenda acreditar la legal estancia de mercancías de comercio exterior con documentos que contengan información distinta a la transmitida al sistema o permita que se despache mercancía amparada con documentos que contengan información distinta a la transmitida al sistema.
+
+XV. Viole los medios de seguridad utilizados por las personas autorizadas para almacenar o transportar mercancías de comercio exterior o tolere su violación.
 
 XVI. Permita que un tercero, cualquiera que sea su carácter, actúe al amparo de su patente de agente aduanal; intervenga en algún despacho aduanero sin autorización de quien legítimamente pueda otorgarla o transfiera o endose documentos a su consignación sin autorización escrita de su mandante, salvo en el caso de corresponsalías entre agentes aduanales.
 

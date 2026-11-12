@@ -21,4 +21,6 @@ Declaración de nulidad Cuando haya sido imposible sanear o convalidar un acto, 
 
 Para decretar la nulidad de un acto y disponer su reposición, no basta la simple infracción de la norma, sino que se requiere, además, que:
 
-I. Se haya ocasionado una afectación real a alguna de las partes, y II. Que la reposición resulte esencial para garantizar el cumplimiento de los derechos o los intereses del sujeto afectado.
+I. Se haya ocasionado una afectación real a alguna de las partes, y
+
+II. Que la reposición resulte esencial para garantizar el cumplimiento de los derechos o los intereses del sujeto afectado.

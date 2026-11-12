@@ -23,7 +23,9 @@ I. Cita de textos, siempre que la cantidad tomada no pueda considerarse como una
 
 II. Reproducción de artículos, fotografías, ilustraciones y comentarios referentes a acontecimientos de actualidad, publicados por la prensa o difundidos por la radio o la televisión, o cualquier otro medio de difusión, si esto no hubiere sido expresamente prohibido por el titular del derecho;
 
-III. Reproducción de partes de la obra, para la crítica e investigación científica, literaria o artística; IV. Reproducción por una sola vez, y en un sólo ejemplar, de una obra literaria o artística, para uso personal y privado de quien la hace y sin fines de lucro.
+III. Reproducción de partes de la obra, para la crítica e investigación científica, literaria o artística;
+
+IV. Reproducción por una sola vez, y en un sólo ejemplar, de una obra literaria o artística, para uso personal y privado de quien la hace y sin fines de lucro.
 
 Las personas morales no podrán valerse de lo dispuesto en esta fracción salvo que se trate de una institución educativa, de investigación, o que no esté dedicada a actividades mercantiles;
 

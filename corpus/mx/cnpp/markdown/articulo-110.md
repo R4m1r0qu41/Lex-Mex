@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 110
 
-Designación de Asesor jurídico En cualquier etapa del procedimiento, las víctimas u ofendidos podrán designar a un Asesor jurídico, el cual deberá ser licenciado en derecho o abogado titulado, quien deberá acreditar su profesión desde el inicio de su intervención mediante cédula profesional. Si la víctima u ofendido no puede designar uno particular, tendrá derecho a uno de oficio.
+Designación de [Asesor jurídico](articulo-3o.md) En cualquier etapa del procedimiento, las víctimas u ofendidos podrán designar a un Asesor jurídico, el cual deberá ser licenciado en derecho o abogado titulado, quien deberá acreditar su profesión desde el inicio de su intervención mediante cédula profesional. Si la víctima u ofendido no puede designar uno particular, tendrá derecho a uno de oficio.
 
 Cuando la víctima u ofendido perteneciere a un pueblo o comunidad indígena, el Asesor jurídico deberá tener conocimiento de su lengua y cultura y, en caso de que no fuere posible, deberá actuar asistido de un intérprete que tenga dicho conocimiento.
 

@@ -17,7 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 485
 
-Causas de extinción de la acción penal La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad se extinguirán por las siguientes causas: I. Cumplimiento de la pena o medida de seguridad;
+Causas de extinción de la acción penal La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad se extinguirán por las siguientes causas:
+
+I. Cumplimiento de la pena o medida de seguridad;
 
 II. Muerte del acusado o sentenciado;
 

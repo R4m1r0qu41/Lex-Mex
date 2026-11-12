@@ -25,7 +25,9 @@ II. Controles internos;
 
 III. Proceso crediticio;
 
-IV. Integración de expedientes de crédito; V. Administración integral de riesgos;
+IV. Integración de expedientes de crédito;
+
+V. Administración integral de riesgos;
 
 VI. Requerimientos de capitalización aplicables en función de los riesgos de crédito y, en su caso, de mercado;
 
@@ -41,7 +43,7 @@ XI. Aquellos otros que juzgue convenientes para proveer la liquidez, solvencia y
 
 La Comisión requerirá del previo acuerdo de su Junta de Gobierno para emitir las disposiciones de carácter general a que se refieren las fracciones I y VI anteriores.
 
-En la emisión de las disposiciones a que se refieren las fracciones III, IV y VIII, tratándose de operaciones que realicen las Sociedades Financieras Populares en Zonas Rurales, la Comisión deberá considerar las restricciones y limitaciones que pudieran existir en dichas zonas, así como mecanismos de control que compensen dicha situación.
+En la emisión de las disposiciones a que se refieren las fracciones III, IV y VIII, tratándose de operaciones que realicen las Sociedades Financieras Populares en [Zonas Rurales](articulo-3o.md), la Comisión deberá considerar las restricciones y limitaciones que pudieran existir en dichas zonas, así como mecanismos de control que compensen dicha situación.
 
 Asimismo, cuando para el mejor cumplimiento de las atribuciones que le confiere el presente Artículo, lo estime conveniente, dicha Comisión podrá solicitar la opinión de la [Secretaría](articulo-3o.md) y del Banco de México.
 

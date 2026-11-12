@@ -19,7 +19,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Requisitos formales y materiales El ejercicio de la acción penal por particular hará las veces de presentación de la querella y deberá sustentarse en audiencia ante el [Juez de control](articulo-3o.md) con los requisitos siguientes:
 
-I. El nombre y el domicilio de la víctima u ofendido; II. Si la víctima o el ofendido son una persona jurídica, se indicará su razón social y su domicilio, así como el de su representante legal;
+I. El nombre y el domicilio de la víctima u ofendido;
+
+II. Si la víctima o el ofendido son una persona jurídica, se indicará su razón social y su domicilio, así como el de su representante legal;
 
 III. El nombre del imputado y, en su caso, cualquier dato que permita su localización;
 

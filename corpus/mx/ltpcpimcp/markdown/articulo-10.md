@@ -25,7 +25,7 @@ b) El Medio que no entregue directamente al Anunciante la factura y la informaci
 
 c) La Agencia que no entregue la información establecida en el artículo [7](articulo-7.md) de esta Ley.
 
-II. Multa hasta por el equivalente de cuatro por ciento de sus ingresos a: LEY PARA LA TRANSPARENCIA, PREVENCIÓN Y COMBATE DE PRÁCTICAS INDEBIDAS EN MATERIA DE CONTRATACIÓN DE PUBLICIDAD a) La Agencia que adquiera [Espacios Publicitarios](articulo-3.md) por cuenta propia para su posterior reventa a un Anunciante;
+II. Multa hasta por el equivalente de cuatro por ciento de sus ingresos a: a) La Agencia que adquiera [Espacios Publicitarios](articulo-3.md) por cuenta propia para su posterior reventa a un Anunciante;
 
 b) La Agencia que recomiende a un Anunciante, o contrate por cuenta y orden de éste, un Medio con el que tiene relaciones financieras, si deliberadamente comunica al Anunciante información falsa o distorsionada sobre las características del Medio referido o de los Medios que le pueden ser sustitutos;
 

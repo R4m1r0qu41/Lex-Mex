@@ -49,7 +49,9 @@ Igual sanción se impondrá a la institución de crédito o administradora que n
 
 XI. Multa de dos mil a veinte mil días de salario a la administradora que retenga el pago de retiros programados;
 
-XII. Multa de cinco mil a veinte mil días de salario a los participantes en los sistemas de ahorro para el retiro que impidan o dificulten a los inspectores de la Comisión, realizar las visitas de inspección correspondientes o se nieguen a proporcionar la información y documentación y, en general, cualquier medio procesable de almacenamiento de datos que se les solicite en ejercicio de sus facultades de supervisión; XIII. Multa de dos mil quinientos a cinco mil días de salario a las administradoras que operen a las sociedades de inversión, que den preferencia a sus intereses o a los de sus empresas frente a los de los trabajadores, que realicen operaciones que impliquen conflicto de interés, o intervengan en aquellas que no se ajusten a los usos y sanas prácticas del mercado de valores;
+XII. Multa de cinco mil a veinte mil días de salario a los participantes en los sistemas de ahorro para el retiro que impidan o dificulten a los inspectores de la Comisión, realizar las visitas de inspección correspondientes o se nieguen a proporcionar la información y documentación y, en general, cualquier medio procesable de almacenamiento de datos que se les solicite en ejercicio de sus facultades de supervisión;
+
+XIII. Multa de dos mil quinientos a cinco mil días de salario a las administradoras que operen a las sociedades de inversión, que den preferencia a sus intereses o a los de sus empresas frente a los de los trabajadores, que realicen operaciones que impliquen conflicto de interés, o intervengan en aquellas que no se ajusten a los usos y sanas prácticas del mercado de valores;
 
 XIV. Multa de cinco mil a veinte mil días de salario a la Sociedad de Inversión que incumpla con el régimen de inversión señalado en los prospectos de información que dé a conocer al público inversionista previamente autorizados por la Comisión, o que establezca un régimen de inversión que no se sujete a lo previsto por esta ley. Párrafo reformado DOF 10-01-2014
 
@@ -69,7 +71,9 @@ XIX. Multa de dos mil quinientos a diez mil días de salario a las Administrador
 
 XX. Pérdida de la participación de capital en beneficio de la Nación, y en perjuicio de las administradoras, sociedades de inversión o empresas operadoras cuando participen en su capital social personas distintas a las autorizadas en los términos de esta ley;
 
-XXI. Multa de doscientos cincuenta a dos mil quinientos días de salario a las administradoras y sociedades de inversión que contravengan lo dispuesto por los artículos [38](articulo-38.md) y [48](articulo-48.md) de esta ley; XXII. Multa de doscientos a un mil días de salario al consejero independiente de una administradora o de una sociedad de inversión que actúe en las sesiones del respectivo consejo de administración en contravención a la presente ley y a las disposiciones que emanen de ella;
+XXI. Multa de doscientos cincuenta a dos mil quinientos días de salario a las administradoras y sociedades de inversión que contravengan lo dispuesto por los artículos [38](articulo-38.md) y [48](articulo-48.md) de esta ley;
+
+XXII. Multa de doscientos a un mil días de salario al consejero independiente de una administradora o de una sociedad de inversión que actúe en las sesiones del respectivo consejo de administración en contravención a la presente ley y a las disposiciones que emanen de ella;
 
 XXIII. Multa de doscientos a un mil días de salario al contralor normativo de una administradora que no lleve a cabo sus funciones de vigilancia conforme lo establece la presente ley.
 

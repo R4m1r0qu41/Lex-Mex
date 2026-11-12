@@ -13,7 +13,7 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf
 source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 ---
 
-> Título TERCERO · Capítulo III
+> Título TERCERO · Capítulo III Bis
 
 # Artículo 1549 Bis
 

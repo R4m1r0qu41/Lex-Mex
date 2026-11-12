@@ -21,7 +21,9 @@ Son justas causas de recusación todas las que constituyen impedimento, con arre
 
 I.- Seguir algún proceso en que sea juez o árbitro, o arbitrador alguno de los litigantes.
 
-II.- Haber seguido el juez, su mujer o sus parientes por consanguinidad o afinidad, en los grados que expresa la fracc. II del art. 1132, una causa criminal contra alguna de las partes; III.- Seguir actualmente con alguna de las partes, el juez o las personas citadas en la fracción anterior, un proceso civil, o no llevar un año de terminado el que antes hubieren seguido;
+II.- Haber seguido el juez, su mujer o sus parientes por consanguinidad o afinidad, en los grados que expresa la fracc. II del art. 1132, una causa criminal contra alguna de las partes;
+
+III.- Seguir actualmente con alguna de las partes, el juez o las personas citadas en la fracción anterior, un proceso civil, o no llevar un año de terminado el que antes hubieren seguido;
 
 IV.- Ser actualmente el juez acreedor, arrendador, comensal o principal de alguna de las partes;
 

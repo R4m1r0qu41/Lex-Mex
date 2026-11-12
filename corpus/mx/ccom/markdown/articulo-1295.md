@@ -17,7 +17,9 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 # Artículo 1295
 
-Para graduar la fuerza probatoria de los libros de los comerciantes, se observarán las reglas siguientes: I. Los libros de los comerciantes probarán contra ellos, sin admitirles prueba en contrario; pero el adversario no podrá aceptar los asientos que le sean favorables y desechar los que le perjudiquen, sino que, habiendo aceptado este medio de prueba, quedará sujeto al resultado que arrojen en su conjunto, tomando en igual consideración todos los asientos relativos a la cuestión litigiosa;
+Para graduar la fuerza probatoria de los libros de los comerciantes, se observarán las reglas siguientes:
+
+I. Los libros de los comerciantes probarán contra ellos, sin admitirles prueba en contrario; pero el adversario no podrá aceptar los asientos que le sean favorables y desechar los que le perjudiquen, sino que, habiendo aceptado este medio de prueba, quedará sujeto al resultado que arrojen en su conjunto, tomando en igual consideración todos los asientos relativos a la cuestión litigiosa;
 
 II. Si en los asientos de los libros llevados por dos comerciantes no hubiere conformidad, y los del uno se hubieren llevado con todas las formalidades expresadas en este Código, y los del otro adolecieren de cualquier defecto o carecieren de los requisitos exigidos por este mismo Código, los asientos de los libros en regla harán fé contra los de los defectuosos, a no demostrarse lo contrario por medio de otras pruebas admisibles en derecho;
 

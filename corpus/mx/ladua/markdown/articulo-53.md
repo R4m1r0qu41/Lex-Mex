@@ -31,7 +31,9 @@ Ill. Los propietarios y empresarios de medios de transporte, los pilotos, capita
 
 IV. Los remitentes de mercancías de la franja o región fronteriza al resto del país, por las diferencias de contribuciones que se deban pagar por este motivo.
 
-V. Los que enajenen las mercancías materia de importación o exportación, en los casos de subrogación establecidos por esta Ley, por los causados por las citadas mercancías. VI. Los almacenes generales de depósito o el titular del local destinado a exposiciones internacionales por las mercancías no arribadas o faltantes, excepto cuando el no arribo de la mercancía o los faltantes se originen por caso fortuito o fuerza mayor, o bien, por las mercancías sobrantes, cuando no presenten los avisos a que se refiere el artículo [119](articulo-119.md) de esta Ley. Fracción reformada DOF 25-06-2018, 19-11-2025
+V. Los que enajenen las mercancías materia de importación o exportación, en los casos de subrogación establecidos por esta Ley, por los causados por las citadas mercancías.
+
+VI. Los almacenes generales de depósito o el titular del local destinado a exposiciones internacionales por las mercancías no arribadas o faltantes, excepto cuando el no arribo de la mercancía o los faltantes se originen por caso fortuito o fuerza mayor, o bien, por las mercancías sobrantes, cuando no presenten los avisos a que se refiere el artículo [119](articulo-119.md) de esta Ley. Fracción reformada DOF 25-06-2018, 19-11-2025
 
 VII. Las personas que hayan obtenido concesión o autorización para prestar los servicios de manejo, almacenaje y custodia de las mercancías de comercio exterior, cuando no cumplan con las obligaciones señaladas en las fracciones VII y VIII del artículo [26](articulo-26.md) de esta Ley. Fracción adicionada DOF 01-01-2002
 
