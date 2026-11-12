@@ -12,9 +12,11 @@
 ## 2026-11-12 four-goal upgrade checkpoint (branch `upgrade/four-goal-2026-11-12`, local, unpushed)
 
 Corpus-wide reparse with the page-break fraction rule: of the 353 instruments with retained,
-hash-matching text, 319 adopted (`92e1e1365`, `a2bd4353b`, `09e4a457f`), 28 reparse unchanged,
-6 held: `laassp` (milestone P2), `lic`, `lfpccs`, `lfvv` (reviewed guards, JRH),
-`cue-dcg-2003`, `scap-dcg-2012` (operator). `cjm` regains arts. 30 Sextus and 30 Séptimus,
+hash-matching text, 320 adopted (`92e1e1365`, `a2bd4353b`, `09e4a457f`; `laassp` with the P2
+elided-decree-article rule in `24d4fc083`, which also cleaned 13 further instruments), 28
+reparse unchanged, 5 held: `lic`, `lfpccs`, `lfvv` (reviewed guards, JRH), `cue-dcg-2003`,
+`scap-dcg-2012` (operator). A full reparse from HEAD reproduces the committed corpus for all
+others, and `link --all` relinks nothing (after `473755e3f`). `cjm` regains arts. 30 Sextus and 30 Séptimus,
 missing from the earlier corpus. New read-only commands: `verify-fidelity`, `audit-qualifiers`,
 `monitor-sources` (`bec9467a9`). Computed by script from the committed JSON at `09e4a457f`: 468
 instruments; 64,861 articles / 3,506 transitories / 30 annexes; 36,111 references (sum of

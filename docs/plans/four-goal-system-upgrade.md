@@ -355,6 +355,20 @@ the 113 restored instruments; (3) re-ingest the 3 changed sources (`cpeum`, `cub
   113th, `socap-sofipo-dcg-2006`, has no retained source (its official file changed at source).
   So item (2) of the next actions is mechanical for 112.
 - **Held now 5:** `lic`, `lfpccs`, `lfvv`, `cue-dcg-2003`, `scap-dcg-2012`.
+- **Committed:** `24d4fc083` (P2 rule, fixtures, 14 instruments) and `473755e3f` (`larefam`,
+  `lfrsp`, this plan), after the native gate (fmt, strict clippy, 511 tests, both validators).
+  Afterwards on the repository: `link --all` exit 0, relinked 0, exactly the two accepted gaps,
+  no file changed (the standing `larefam` relink is gone); `verify-fidelity --all` 52,655 of
+  53,018. Remaining elided-run lines in committed provisions: 2 (`lsat` transitory octavo,
+  `lfisan`), both in the 113 without retained text, so P2 covered every instrument it could.
+- **Batch of 112, prepared, not started.** `extract` rewrites `source-manifest.json`
+  (`extraction_tool` 26.06.0 → 26.11.0), so it must not run in the repository; the probe's
+  hash-matching texts are copied into `.work/` instead. None of the 112 carries human or model
+  temporal state (5,134 `not_analyzed`, 8,825 `machine_accepted`/`deterministic_rule`).
+  Method: "before" `verify-fidelity` on the committed 112; reparse in a fresh root; classify by
+  whole-folder diff; adopt without reading only whitespace-only text changes with identical ids,
+  issues, terms and evidence text; read the source for every id added or removed and every count
+  failure; then rerun the full baseline and `link --all`.
 
 ### Added milestone
 
