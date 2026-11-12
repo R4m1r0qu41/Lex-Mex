@@ -53,6 +53,7 @@ mod fidelity;
 mod public_release;
 mod qualifier_audit;
 mod review_packets;
+mod source_monitor;
 mod standards;
 
 #[derive(Debug, Parser)]
@@ -121,6 +122,10 @@ enum Command {
     /// Prove committed provision text appears in order in the retained source
     /// extraction and classify every gap. Evidence only: writes `.work/` reports.
     VerifyFidelity(fidelity::VerifyFidelityArgs),
+    /// Check whether the official file of each committed instrument still matches its
+    /// recorded hash and whether the Camara de Diputados indexes list instruments the corpus
+    /// lacks. Read-only: writes only `.work/`, never `corpus/`.
+    MonitorSources(source_monitor::MonitorSourcesArgs),
     /// Check each fraction cited by a resolved reference edge against its target
     /// provision text. Evidence only: writes `.work/` reports, never edits edges.
     AuditQualifiers(qualifier_audit::AuditQualifiersArgs),
@@ -442,6 +447,7 @@ fn dispatch(root: &Path, obsidian_vault: Option<&Path>, command: Command) -> Res
         Command::PublicRelease { command } => public_release::run(root, command)?,
         Command::Standards { command } => standards::run_standards_command(root, command)?,
         Command::VerifyFidelity(args) => fidelity::run(root, args)?,
+        Command::MonitorSources(args) => source_monitor::run(root, &args)?,
         Command::AuditQualifiers(args) => qualifier_audit::run(root, args)?,
         Command::AuditFurniture { pdf, json } => run_audit_furniture(root, &pdf, json)?,
         Command::Discover { source } => run_discover(root, &source)?,
