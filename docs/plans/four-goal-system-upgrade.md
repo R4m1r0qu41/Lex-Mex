@@ -460,6 +460,60 @@ Scratch root and classification: session scratchpad `reingest/`, `reingest-class
 root is a preview only and must not be adopted: its manifest `source_sha256` was set by hand
 and `retrieved_at` is stale. An adoption goes through `fetch`, then the usual reparse review.
 
+## Linker qualifier attribution 2026-11-12 (local side branch, closure red)
+
+On branch `upgrade/qualifier-attribution-2026-11-12` (from `9e98455e3`, local): `b68957bbb`
+(rule and test) and `05d15bcd0` (190 instruments, `references.json` only). Not merged into
+`upgrade/four-goal-2026-11-12`, because `link --all` now rejects a third instrument, which the
+closure rule (decisions.md, P1) treats as a failure.
+
+- **Defect.** The last article number of a citation list took every qualifier phrase up to the
+  sentence end (each citation group ends at the next `artículo` header, so a phrase written
+  before a later header fell inside the earlier group). Examples: CCF "artículo 2980 y … la
+  fracción V del artículo 2935" gave 2980 "fracción V"; CFF 92 gave "fracciones XI … XVIII de
+  este artículo" to art. 92; CCOM 18 got "su fracción XX" of art. 21.
+- **Rule** (`last_number_qualifiers` in `crates/lex-link/src/references.rs`): a qualifier
+  belongs to the last number when connector text alone separates them or the previous chained
+  qualifier (punctuation, `y`/`o`/`e`, `su`, ordinal words, `numeral 5`, `Apartado B`, `Base V`,
+  a bare numeral with `Bis`/`Ter`, an inciso letter; after an ordinal mark `2o.`), unless the
+  phrase is followed by an article header or `de este artículo`; after the chain, only a
+  back-reference (`de dicho / del mismo / del citado artículo`, `su segundo párrafo`) with no
+  number, `;` or relative article in between. Non-last numbers and pre-number qualifiers are
+  unchanged. Test `a_later_qualifier_is_not_attached_to_the_previous_citation` (lex-parse) with
+  the source shapes. Gate: fmt, strict clippy, 512 tests, both validators.
+- **Effect, by diff of a scratch `link --all` against the corpus:** 190 instruments,
+  1,192 qualifiers removed, none added; edge ids and every other field identical; references
+  36,105; a second `link --all` relinks 0. Removed: 306 re-attributed (the same span is another
+  edge's pre-qualifier), 48 re-attributed to a `same_article` edge, 42 in amendment notes, 796
+  orphans. The orphans were sampled, not fully reviewed: 60 read at random plus all 68 with a
+  gap under 20 characters. Most are correct removals (the phrase belongs to a later citation,
+  an annex, "este artículo" or "esta fracción"); about 38 sit on edges whose target is already
+  wrong (below); a few percent are correct qualifiers now lost ("excepto fracción I", "de esta
+  Ley, fracciones V y VII", "salvo el de la fracción IV"), the conservative side of the rule.
+  Repository Markdown is byte-identical (it links whole articles; fraction anchors are written
+  only for the Obsidian vault). `audit-qualifiers --all`: labels 11,068 → 10,237, absent
+  679 → 357 (the rest: fraction missing in the target, and the `cue-dcg-2003` audit limit);
+  found at paragraph start 9,769 → 9,305, the difference being wrong attachments that happened
+  to hit an existing fraction. These figures supersede the "204 cases" estimate.
+- **`lgmime` held (operator decision).** Its edge to LGIPE art. 11 Bis
+  (`transitory:vigesimo-octavo:reference:41-47:11-bis:direct`, outdated-reference approval
+  2026-10-16) carries "párrafo 2", which belongs to "44, párrafo 2, de la Ley General de
+  Partidos Políticos"; the rule removes it, and the guard forbids any change to an approved
+  edge. Options: (a) `link lgmime --migrate-protected`, the audited override for a recorded
+  operator migration, with the approval re-recorded; (b) narrow the guard to the fields the
+  approval records (span, target, text hashes; qualifiers are not among them); (c) accept
+  `lgmime` as a third closure gap. Until then `link --all` exits 1 on the side branch.
+- **Parse path finding.** `parse lgmime` regenerates that edge without the guard (drops
+  "párrafo 2", keeps the approval fields) and still validates; parse and link agree for
+  `lrsic`, `ccf`, `cff`, `ifpe-dcg-2021`, `lgpp`. So the approved-edge guard lives only in
+  `link`; a full reparse can change an approved edge silently. Pre-existing; not changed here.
+  The full 465 baseline was not rerun on the side branch.
+- **Separate defects found, not fixed:** (1) truncated lists: a list item the number pattern
+  does not accept ("90, penúltimo párrafo, 110, …", "315, últimos dos supuestos, 316 …") ends
+  the list, so the later articles get no edge (LGPP art. 44 in `lgmime` has none); (2)
+  suffixed numbers read short: "2o.-A", "1o.-C", "14- B" give edges to arts. 2, 1, 14; (3)
+  compound ordinals ("décimo primer párrafo") are read as "primer párrafo".
+
 ### Added milestone
 
 - **P2. Reform-decree omission lines** ("Artículo(s) Segundo a … .- ……" / "……….." between the
