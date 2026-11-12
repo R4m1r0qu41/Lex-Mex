@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf
 source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 ---
 
+> Título Séptimo · Capítulo Cuarto
+
 # Artículo 117
 
 El procedimiento arbitral culminará con el laudo arbitral, y podrá considerarse para efectos de solventar observaciones formuladas por quienes tengan facultades para efectuarlas, sobre las materias objeto de dicho laudo.

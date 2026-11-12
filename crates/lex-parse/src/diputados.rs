@@ -437,6 +437,45 @@ fn is_dot_redacted_decree_article(block: &str, ordinals: &[String]) -> bool {
             .all(|c| c == '.' || c == '…' || c.is_whitespace())
 }
 
+/// An elided run of enactment-decree articles: a heading that names one or
+/// more ordinal decree articles and whose body is only redaction dots or
+/// ellipsis characters — `Artículo Segundo a Artículo Cuarto.- ……..`
+/// (laassp), `Artículo Segundo y Artículo Tercero.- ………` (lgec),
+/// `ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO.- ………` (lbio), `Artículos Tercero a
+/// Vigésimo. ..........` (ladua). The consolidated PDF prints it between the
+/// statute's last article (or last own transitory) and the decree's
+/// `Transitorios`. It is decree apparatus, not statute text. Every word before
+/// the dots must be an article prefix, an ordinal word or the connector `a`/`y`,
+/// and the dots must be a real redaction (three or more, or an ellipsis), so a
+/// genuine ordinal-numbered article with a body never matches.
+fn is_elided_decree_article_run(block: &str, ordinals: &[String]) -> bool {
+    let trimmed = block.trim();
+    let head_len = trimmed
+        .trim_end_matches(|c: char| matches!(c, '.' | '…' | '-' | ':') || c.is_whitespace())
+        .len();
+    let (head, tail) = trimmed.split_at(head_len);
+    let dots = tail.chars().filter(|c| *c == '.').count();
+    if !tail.contains('…') && dots < 3 {
+        return false;
+    }
+    let ordinal_words: std::collections::HashSet<&str> = ordinals
+        .iter()
+        .flat_map(|ordinal| ordinal.split_whitespace())
+        .collect();
+    let words: Vec<String> = head.split_whitespace().map(str::to_uppercase).collect();
+    let is_prefix = |w: &str| matches!(w, "ARTÍCULO" | "ARTÍCULOS" | "ARTICULO" | "ARTICULOS");
+    let Some((first, rest)) = words.split_first() else {
+        return false;
+    };
+    is_prefix(first)
+        && rest
+            .first()
+            .is_some_and(|w| ordinal_words.contains(w.as_str()))
+        && rest.iter().all(|w| {
+            is_prefix(w) || matches!(w.as_str(), "A" | "Y") || ordinal_words.contains(w.as_str())
+        })
+}
+
 /// The body after `ARTÍCULO <ordinal>:`, for the dot-redaction test only.
 fn colon_ordinal_article_body<'a>(block: &'a str, ordinals: &[String]) -> Option<&'a str> {
     let after_prefix = ["Artículo ", "ARTÍCULO ", "Articulo ", "ARTICULO "]
@@ -456,6 +495,7 @@ fn colon_ordinal_article_body<'a>(block: &'a str, ordinals: &[String]) -> Option
 fn is_dropped_decree_block(block: &str, ordinals: &[String], headers: &[String]) -> bool {
     is_decree_article_wrapper(block, ordinals, headers)
         || is_dot_redacted_decree_article(block, ordinals)
+        || is_elided_decree_article_run(block, ordinals)
 }
 
 /// The leading base number of an article label (`70-A` → 70, `1o` → 1),
@@ -1915,6 +1955,13 @@ pub fn parse_diputados_publication(
                 current = Some(ProvisionBuilder::transitory(&number, body));
                 continue;
             }
+            // An elided run of decree articles after the statute's own
+            // transitories (lbio `ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO.- ………`,
+            // ladua `Artículos Tercero a Vigésimo. ..........`) is decree
+            // apparatus: never appended to the last transitory's text.
+            if is_elided_decree_article_run(&block, &ordinals) {
+                continue;
+            }
         } else {
             if is_dropped_decree_block(&block, &ordinals, &options.header_lines) {
                 if let Some(builder) = current.take() {
@@ -2442,8 +2489,9 @@ mod tests {
     use lex_core::ProvisionType;
 
     use super::{
-        DiputadosOptions, is_dot_redacted_decree_article, is_omnibus_enactment_title,
-        parse_diputados, parse_ordinal_article_start, transitory_ordinals,
+        DiputadosOptions, is_dot_redacted_decree_article, is_elided_decree_article_run,
+        is_omnibus_enactment_title, parse_diputados, parse_ordinal_article_start,
+        transitory_ordinals,
     };
 
     const CODIGO_FIXTURE: &str = include_str!("../../../fixtures/diputados/codigo-sample.txt");
@@ -2474,6 +2522,11 @@ mod tests {
         include_str!("../../../fixtures/diputados/dot-redacted-decree-article-sample.txt");
     const COLON_DOT_REDACTED_DECREE_ARTICLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/colon-dot-redacted-decree-article-sample.txt");
+    const ELIDED_DECREE_ARTICLE_RANGE_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/elided-decree-article-range-sample.txt");
+    const ELIDED_DECREE_ARTICLES_AFTER_TRANSITORIES_FIXTURE: &str = include_str!(
+        "../../../fixtures/diputados/elided-decree-articles-after-transitories-sample.txt"
+    );
     const WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/wrapped-running-header-regulation-sample.txt");
     const SUBSTANTIVE_APPENDIX_FIXTURE: &str =
@@ -3129,6 +3182,95 @@ mod tests {
                 .text
                 .ends_with("entrada en vigor del presente Decreto.")
         );
+    }
+
+    #[test]
+    fn elided_decree_article_range_is_not_appended_to_the_last_article() {
+        // Regression for laassp art. 120 (also lgec 49, lgpdppso 137,
+        // lgpisdme 43, lgtaip 216): "Artículo Segundo a Artículo Cuarto.- ……"
+        // between the last article and the decree's Transitorios.
+        let document = parse_diputados(
+            ELIDED_DECREE_ARTICLE_RANGE_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(2025, 4, 16).expect("valid date"),
+        )
+        .expect("elided decree article range fixture parses");
+        let articles: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == ProvisionType::Article)
+            .collect();
+        assert_eq!(articles.len(), 2);
+        assert!(
+            articles[1]
+                .text
+                .ends_with("la forma en que podrán resolver sus controversias."),
+            "{}",
+            articles[1].text
+        );
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 2);
+        assert!(
+            !document
+                .provisions
+                .iter()
+                .any(|p| p.text.contains("Artículo Segundo a Artículo Cuarto"))
+        );
+    }
+
+    #[test]
+    fn elided_decree_articles_after_own_transitories_are_not_appended() {
+        // Regression for ladua transitory noveno (also lsat, lbio, lcne,
+        // lepecfe, lepepm, lgeo, lpte, lse, lsh): an elided run of decree
+        // articles after the law's own transitories, before the decree's.
+        let document = parse_diputados(
+            ELIDED_DECREE_ARTICLES_AFTER_TRANSITORIES_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(1995, 12, 15).expect("valid date"),
+        )
+        .expect("elided decree articles after transitories fixture parses");
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 2);
+        assert!(
+            transitories[1]
+                .text
+                .ends_with("en un plazo que no excederá del 31 de marzo de 1997."),
+            "{}",
+            transitories[1].text
+        );
+    }
+
+    #[test]
+    fn elided_decree_article_run_requires_only_ordinals_and_redaction() {
+        let ordinals = transitory_ordinals();
+        for elided in [
+            "Artículo Segundo a Artículo Cuarto.- ……..",
+            "Artículo Segundo y Artículo Tercero.- ………",
+            "ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO.- ………",
+            "Artículos Tercero a Vigésimo. ..........",
+            "ARTICULOS SEGUNDO A VIGESIMO NOVENO.- ..........",
+            "ARTÍCULO SEGUNDO.- .........",
+        ] {
+            assert!(is_elided_decree_article_run(elided, &ordinals), "{elided}");
+        }
+        for kept in [
+            "Artículo Primero.- Esta Ley es de orden público.",
+            "Artículo Primero.",
+            "Artículo Segundo a Artículo Cuarto.- Se derogan.",
+            "Artículo Segundo..",
+            "Artículo 120.- ……",
+            "Artículos de la presente Ley. ……",
+        ] {
+            assert!(!is_elided_decree_article_run(kept, &ordinals), "{kept}");
+        }
     }
 
     #[test]

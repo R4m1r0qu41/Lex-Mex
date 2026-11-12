@@ -28,30 +28,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:5:term-usage:3957-3967",
+    "id": "urn:lex-mx:federal:statute:laassp:article:5:term-usage:3958-3968",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3957,
-    "end_char": 3967
+    "start_char": 3958,
+    "end_char": 3968
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:5:term-usage:4221-4231",
+    "id": "urn:lex-mx:federal:statute:laassp:article:5:term-usage:4222-4232",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4221,
-    "end_char": 4231
+    "start_char": 4222,
+    "end_char": 4232
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:5:term-usage:4337-4347",
+    "id": "urn:lex-mx:federal:statute:laassp:article:5:term-usage:4338-4348",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:plataforma",
     "span": "Plataforma",
-    "start_char": 4337,
-    "end_char": 4347
+    "start_char": 4338,
+    "end_char": 4348
   },
   {
     "schema_version": "0.1.0",
@@ -271,57 +271,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:1689-1699",
+    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:1690-1700",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1689,
-    "end_char": 1699
+    "start_char": 1690,
+    "end_char": 1700
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:1761-1771",
+    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:1762-1772",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:plataforma",
     "span": "Plataforma",
-    "start_char": 1761,
-    "end_char": 1771
+    "start_char": 1762,
+    "end_char": 1772
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:1988-1998",
+    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:1989-1999",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1988,
-    "end_char": 1998
+    "start_char": 1989,
+    "end_char": 1999
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:2972-2982",
+    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:2973-2983",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2972,
-    "end_char": 2982
+    "start_char": 2973,
+    "end_char": 2983
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:3212-3222",
+    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:3213-3223",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3212,
-    "end_char": 3222
+    "start_char": 3213,
+    "end_char": 3223
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:3490-3498",
+    "id": "urn:lex-mx:federal:statute:laassp:article:21:term-usage:3491-3499",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:hacienda",
     "span": "Hacienda",
-    "start_char": 3490,
-    "end_char": 3498
+    "start_char": 3491,
+    "end_char": 3499
   },
   {
     "schema_version": "0.1.0",
@@ -919,66 +919,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:380-390",
+    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:381-391",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 380,
-    "end_char": 390
+    "start_char": 381,
+    "end_char": 391
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:698-708",
+    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:699-709",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 698,
-    "end_char": 708
+    "start_char": 699,
+    "end_char": 709
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:1615-1625",
+    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:1616-1626",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1615,
-    "end_char": 1625
+    "start_char": 1616,
+    "end_char": 1626
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:3457-3464",
+    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:3458-3465",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:tratados",
     "span": "Tratado",
-    "start_char": 3457,
-    "end_char": 3464
+    "start_char": 3458,
+    "end_char": 3465
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:3638-3645",
+    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:3639-3646",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:tratados",
     "span": "Tratado",
-    "start_char": 3638,
-    "end_char": 3645
+    "start_char": 3639,
+    "end_char": 3646
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:5902-5912",
+    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:5903-5913",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5902,
-    "end_char": 5912
+    "start_char": 5903,
+    "end_char": 5913
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:6493-6500",
+    "id": "urn:lex-mx:federal:statute:laassp:article:39:term-usage:6494-6501",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:39",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:mipymes",
     "span": "Mipymes",
-    "start_char": 6493,
-    "end_char": 6500
+    "start_char": 6494,
+    "end_char": 6501
   },
   {
     "schema_version": "0.1.0",
@@ -991,39 +991,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:40:term-usage:3686-3696",
+    "id": "urn:lex-mx:federal:statute:laassp:article:40:term-usage:3687-3697",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:40",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3686,
-    "end_char": 3696
+    "start_char": 3687,
+    "end_char": 3697
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:40:term-usage:4915-4925",
+    "id": "urn:lex-mx:federal:statute:laassp:article:40:term-usage:4916-4926",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:40",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4915,
-    "end_char": 4925
+    "start_char": 4916,
+    "end_char": 4926
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:40:term-usage:7066-7076",
+    "id": "urn:lex-mx:federal:statute:laassp:article:40:term-usage:7067-7077",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:40",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:plataforma",
     "span": "Plataforma",
-    "start_char": 7066,
-    "end_char": 7076
+    "start_char": 7067,
+    "end_char": 7077
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:40:term-usage:7190-7200",
+    "id": "urn:lex-mx:federal:statute:laassp:article:40:term-usage:7191-7201",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:40",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:plataforma",
     "span": "Plataforma",
-    "start_char": 7190,
-    "end_char": 7200
+    "start_char": 7191,
+    "end_char": 7201
   },
   {
     "schema_version": "0.1.0",
@@ -1153,21 +1153,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:49:term-usage:1305-1315",
+    "id": "urn:lex-mx:federal:statute:laassp:article:49:term-usage:1306-1316",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:49",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:plataforma",
     "span": "Plataforma",
-    "start_char": 1305,
-    "end_char": 1315
+    "start_char": 1306,
+    "end_char": 1316
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:49:term-usage:1978-1988",
+    "id": "urn:lex-mx:federal:statute:laassp:article:49:term-usage:1979-1989",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:49",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:plataforma",
     "span": "Plataforma",
-    "start_char": 1978,
-    "end_char": 1988
+    "start_char": 1979,
+    "end_char": 1989
   },
   {
     "schema_version": "0.1.0",
@@ -1567,12 +1567,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:66:term-usage:5056-5066",
+    "id": "urn:lex-mx:federal:statute:laassp:article:66:term-usage:5057-5067",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:66",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:plataforma",
     "span": "Plataforma",
-    "start_char": 5056,
-    "end_char": 5066
+    "start_char": 5057,
+    "end_char": 5067
   },
   {
     "schema_version": "0.1.0",
@@ -1621,21 +1621,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:71:term-usage:6464-6474",
+    "id": "urn:lex-mx:federal:statute:laassp:article:71:term-usage:6465-6475",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:71",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6464,
-    "end_char": 6474
+    "start_char": 6465,
+    "end_char": 6475
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:71:term-usage:7458-7468",
+    "id": "urn:lex-mx:federal:statute:laassp:article:71:term-usage:7459-7469",
     "provision_id": "urn:lex-mx:federal:statute:laassp:article:71",
     "term_id": "urn:lex-mx:federal:statute:laassp:term:plataforma",
     "span": "Plataforma",
-    "start_char": 7458,
-    "end_char": 7468
+    "start_char": 7459,
+    "end_char": 7469
   },
   {
     "schema_version": "0.1.0",
@@ -1699,15 +1699,6 @@
     "span": "Secretaría",
     "start_char": 557,
     "end_char": 567
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:80:term-usage:872-882",
-    "provision_id": "urn:lex-mx:federal:statute:laassp:article:80",
-    "term_id": "urn:lex-mx:federal:statute:laassp:term:plataforma",
-    "span": "Plataforma",
-    "start_char": 872,
-    "end_char": 882
   },
   {
     "schema_version": "0.1.0",

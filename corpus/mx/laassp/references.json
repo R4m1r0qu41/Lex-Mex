@@ -267,19 +267,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:21:reference:2845-2847:35:direct",
+    "id": "urn:lex-mx:federal:statute:laassp:article:21:reference:2846-2848:35:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
     "source_span": "35",
-    "start_char": 2845,
-    "end_char": 2847,
+    "start_char": 2846,
+    "end_char": 2848,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:35",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "sexto párrafo",
-        "start_char": 2818,
-        "end_char": 2831
+        "start_char": 2819,
+        "end_char": 2832
       }
     ],
     "basis": "express_cross_reference",
@@ -290,11 +290,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:21:reference:2904-2907:134:direct",
+    "id": "urn:lex-mx:federal:statute:laassp:article:21:reference:2905-2908:134:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:21",
     "source_span": "134",
-    "start_char": 2904,
-    "end_char": 2907,
+    "start_char": 2905,
+    "end_char": 2908,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:134",
     "qualifiers": [],
@@ -622,11 +622,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:40:reference:2379-2381:71:direct",
+    "id": "urn:lex-mx:federal:statute:laassp:article:40:reference:2380-2382:71:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:40",
     "source_span": "71",
-    "start_char": 2379,
-    "end_char": 2381,
+    "start_char": 2380,
+    "end_char": 2382,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:71",
     "qualifiers": [],
@@ -638,19 +638,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:40:reference:2384-2386:90:direct",
+    "id": "urn:lex-mx:federal:statute:laassp:article:40:reference:2385-2387:90:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:40",
     "source_span": "90",
-    "start_char": 2384,
-    "end_char": 2386,
+    "start_char": 2385,
+    "end_char": 2387,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:90",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "cuarto párrafo",
-        "start_char": 2388,
-        "end_char": 2402
+        "start_char": 2389,
+        "end_char": 2403
       }
     ],
     "basis": "express_cross_reference",
@@ -661,11 +661,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:40:reference:5094-5096:96:direct",
+    "id": "urn:lex-mx:federal:statute:laassp:article:40:reference:5095-5097:96:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:40",
     "source_span": "96",
-    "start_char": 5094,
-    "end_char": 5096,
+    "start_char": 5095,
+    "end_char": 5097,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:96",
     "qualifiers": [],
@@ -677,11 +677,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:40:reference:5626-5628:66:direct",
+    "id": "urn:lex-mx:federal:statute:laassp:article:40:reference:5627-5629:66:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:40",
     "source_span": "66",
-    "start_char": 5626,
-    "end_char": 5628,
+    "start_char": 5627,
+    "end_char": 5629,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:66",
     "qualifiers": [],
@@ -1145,6 +1145,29 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:article:66:reference:4821-4823:66:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:66",
+    "source_span": "XX",
+    "start_char": 4821,
+    "end_char": 4823,
+    "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
+    "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:66",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "XX",
+        "start_char": 4821,
+        "end_char": 4823
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:laassp:article:68:reference:1492-1494:74:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:68",
     "source_span": "74",
@@ -1223,11 +1246,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:71:reference:5730-5731:4:direct",
+    "id": "urn:lex-mx:federal:statute:laassp:article:71:reference:5731-5732:4:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:71",
     "source_span": "4",
-    "start_char": 5730,
-    "end_char": 5731,
+    "start_char": 5731,
+    "end_char": 5732,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:4",
     "qualifiers": [],
@@ -1239,11 +1262,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:laassp:article:71:reference:5954-5956:67:direct",
+    "id": "urn:lex-mx:federal:statute:laassp:article:71:reference:5955-5957:67:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:71",
     "source_span": "67",
-    "start_char": 5954,
-    "end_char": 5956,
+    "start_char": 5955,
+    "end_char": 5957,
     "target_instrument_id": "urn:lex-mx:federal:statute:laassp",
     "target_provision_id": "urn:lex-mx:federal:statute:laassp:article:67",
     "qualifiers": [],
