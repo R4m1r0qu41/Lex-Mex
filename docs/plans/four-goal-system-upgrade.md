@@ -526,7 +526,19 @@ guards removed (scratchpad `held4/`).
   citation of LFCE 31 Bis; the span and offsets (4292–4298) are unchanged. Art. 187, LRAF
   28 Bis, is untouched.
 - Adopting them means JRH re-confirms the same definitions and the same two stale citations
-  against the re-spaced text, and the recorded hashes and offsets are refreshed.
+  against the re-spaced text, and the recorded hashes are refreshed.
+
+**JRH decisions 2026-11-12 (answers in session):**
+
+1. **`lgmime` approved edge:** migrate it with `link lgmime --migrate-protected`, recorded as a
+   JRH migration. The same edge was refreshed the same way on 2026-10-16.
+2. **`lgmime` temporal:** the instrument is invalid from 2023-06-23. Every provision gets
+   `effective_to` 2023-06-23 and the instrument is not in force. Basis: SCJN AI 71/2023,
+   DOF 24-11-2023.
+3. **Held four (`lic`, `lfpccs`, `lfvv`, `lieps`):** JRH re-confirms the definitions and the
+   stale citations against the re-spaced text. Refresh the recorded hashes and adopt.
+4. **`cpeum` arts. 82, 116 and 122:** they carry the note "Artículo vigente a partir del proceso
+   electoral 2028", shown like the SCJN notes.
 
 ### Added milestone
 
