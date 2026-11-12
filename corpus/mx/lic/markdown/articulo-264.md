@@ -33,7 +33,9 @@ VI. La orden al liquidador judicial de publicar un extracto de la sentencia en e
 
 VII. La orden al liquidador judicial de inscribir la sentencia en el Registro Público de Comercio y de solicitar la cancelación de la inscripción del contrato social;
 
-VIII. La forma y términos en que se notificará la sentencia, y IX. La forma y plazos para impugnar la sentencia de terminación de la liquidación judicial.
+VIII. La forma y términos en que se notificará la sentencia, y
+
+IX. La forma y plazos para impugnar la sentencia de terminación de la liquidación judicial.
 
 La sentencia de terminación de la liquidación judicial se notificará a través del Boletín Judicial o por los estrados del juzgado correspondiente.
 

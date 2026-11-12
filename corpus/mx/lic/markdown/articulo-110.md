@@ -29,7 +29,9 @@ I. El nombre, denominación o razón social del recurrente;
 
 II. Domicilio para oír y recibir toda clase de citas y notificaciones;
 
-III. Los documentos con los que se acredita la personalidad de quien promueve; IV. El acto que se recurre y la fecha de su notificación;
+III. Los documentos con los que se acredita la personalidad de quien promueve;
+
+IV. El acto que se recurre y la fecha de su notificación;
 
 V. Los agravios que se le causen con motivo del acto señalado en la fracción IV anterior, y
 

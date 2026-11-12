@@ -27,7 +27,9 @@ III. Comercialice o ponga en circulación semilla o material de propagación que
 
 IV. Comercialice o ponga en circulación semillas que no cumplen con el procedimiento de calificación establecido en esta Ley, en las Normas Mexicanas y en las Reglas correspondientes;
 
-V. Difunda información falsa o que se preste a confusión respecto de las características de las semillas; VI. Adultere semillas en cualquier fase de su producción, circulación o comercialización;
+V. Difunda información falsa o que se preste a confusión respecto de las características de las semillas;
+
+VI. Adultere semillas en cualquier fase de su producción, circulación o comercialización;
 
 VII. Importe semilla con fines de comercializarla o ponerla en circulación, sin cumplir con los requisitos establecidos en esta Ley;
 

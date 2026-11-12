@@ -17,7 +17,9 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 267
 
-Para el conocimiento y decisión de las controversias que se suscitaren durante la tramitación de la liquidación judicial se plantearán, por el interesado, a través de la vía incidental ante el juez de distrito que conozca de la liquidación judicial de la institución de banca múltiple de que se trate, observándose lo siguiente: I. Se deberán interponer dentro de los diez días siguientes a la realización del acto materia de controversia;
+Para el conocimiento y decisión de las controversias que se suscitaren durante la tramitación de la liquidación judicial se plantearán, por el interesado, a través de la vía incidental ante el juez de distrito que conozca de la liquidación judicial de la institución de banca múltiple de que se trate, observándose lo siguiente:
+
+I. Se deberán interponer dentro de los diez días siguientes a la realización del acto materia de controversia;
 
 II. Del escrito inicial del incidente se correrá traslado por cinco días a la parte o a las partes interesadas en la cuestión. Se tendrá como confesa a la parte que no efectuare el desahogo, salvo prueba en contrario;
 

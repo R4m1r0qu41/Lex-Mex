@@ -583,6 +583,12 @@ guards removed (scratchpad `held4/`).
 4. **`cpeum` arts. 82, 116 and 122:** they carry the note "Artículo vigente a partir del proceso
    electoral 2028", shown like the SCJN notes.
 
+**Held-four outcome.** `lic`, `lfpccs` and `lfvv` were adopted. `lieps` stays held. Its provisions are
+whitespace-only, but the reparse also re-segments its reform-decree evidence
+(`reform-temporal-evidence.json`): 107 entries become 101, 19 ids are removed, 13 are added
+(for example the yearly `Acto DOF 2014-12-22` … `2025-12-22` unico entries) and 2 have their
+text rewritten. That is outside the whitespace re-confirmation and needs its own review.
+
 ### Added milestone
 
 - **P2. Reform-decree omission lines** ("Artículo(s) Segundo a … .- ……" / "……….." between the

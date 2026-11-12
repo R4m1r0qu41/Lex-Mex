@@ -25,6 +25,8 @@ II. El daño causado;
 
 III. Las condiciones económicas del infractor;
 
-IV. La reincidencia si la hubiere; se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, durante un periodo de tres años, contados a partir de la fecha en que la [Secretaría](articulo-3.md) determine mediante una resolución definitiva la comisión de la primera infracción, y siempre que ésta no hubiese sido desvirtuada; V. El carácter intencional o negligente de la conducta infractora; y
+IV. La reincidencia si la hubiere; se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, durante un periodo de tres años, contados a partir de la fecha en que la [Secretaría](articulo-3.md) determine mediante una resolución definitiva la comisión de la primera infracción, y siempre que ésta no hubiese sido desvirtuada;
+
+V. El carácter intencional o negligente de la conducta infractora; y
 
 VI. El beneficio directamente obtenido por el infractor.

@@ -41,7 +41,9 @@ b) Los créditos con garantía real, debiendo observarse al efecto lo dispuesto 
 
 Lo dispuesto en la Ley de Sistemas de Pagos será aplicable no obstante lo previsto en la presente fracción.
 
-IX. La orden a las oficinas de correos, telégrafos y demás empresas que transmitan información o presten el servicio de entrega de documentos, para que se entregue al liquidador judicial la correspondencia de la institución de banca múltiple; X. La orden al liquidador judicial de publicar un extracto de la sentencia por dos veces consecutivas en el Diario Oficial de la Federación y en un periódico de circulación nacional;
+IX. La orden a las oficinas de correos, telégrafos y demás empresas que transmitan información o presten el servicio de entrega de documentos, para que se entregue al liquidador judicial la correspondencia de la institución de banca múltiple;
+
+X. La orden al liquidador judicial de publicar un extracto de la sentencia por dos veces consecutivas en el Diario Oficial de la Federación y en un periódico de circulación nacional;
 
 XI. La orden al liquidador judicial de inscribir la sentencia en el Registro Público de Comercio y en aquéllos registros públicos que estime convenientes;
 

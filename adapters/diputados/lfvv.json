@@ -24,9 +24,9 @@
     "style": "auto_whole",
     "profile": {
       "strategy_version": "glossary-extraction-6",
-      "provision_text_sha256": "c04e2eaff2ab5431f8c54ad7ed4199aad2bc88a8ad1bb7c77692da3ad759275b",
+      "provision_text_sha256": "dc560a071b5c93fe0bc6e97c90b19a951176a401c857fbb39e8a192c22635254",
       "rationale": "Fraction VII writes its term before a semicolon (`Secretaría; La Secretaría…`) where every other fraction uses a colon.",
-      "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1)",
+      "evidence": "docs/decisions.md (2026-10-19, glossary exception profiles, batch 1); re-confirmed by JRH against re-spaced text (docs/held-instruments-review-2026-11-12.md, 2026-11-12)",
       "entries": [
         {
           "fraction": "VII",
@@ -34,7 +34,7 @@
           "terms": [
             {
               "text": "Secretaría",
-              "start_char": 1019
+              "start_char": 1020
             }
           ]
         }

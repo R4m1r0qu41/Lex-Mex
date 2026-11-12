@@ -17,7 +17,9 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 106
 
-A las instituciones de crédito les estará prohibido: I. Se deroga. Fracción derogada DOF 01-02-2008
+A las instituciones de crédito les estará prohibido:
+
+I. Se deroga. Fracción derogada DOF 01-02-2008
 
 II. Se deroga. Fracción reformada DOF 24-06-2002, 13-06-2003. Derogada DOF 01-02-2008
 

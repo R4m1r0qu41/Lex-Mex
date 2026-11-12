@@ -27,7 +27,9 @@ II. Las características de las personas físicas o morales que podrán ser cont
 
 III. Los requisitos respecto de los procesos operativos y de control que las instituciones deberán exigir a los terceros contratados;
 
-IV. El tipo de operaciones que podrán realizarse a través de terceros, quedando facultada la Comisión Nacional Bancaria y de Valores para señalar el tipo de operaciones en los que se requerirá de su autorización previa; V. Los contratos de prestación de servicios o comisiones que celebren en términos de este artículo que la Comisión determine que deberán serle entregados por las instituciones de banca múltiple, así como la forma, condiciones y plazos de dicha entrega;
+IV. El tipo de operaciones que podrán realizarse a través de terceros, quedando facultada la Comisión Nacional Bancaria y de Valores para señalar el tipo de operaciones en los que se requerirá de su autorización previa;
+
+V. Los contratos de prestación de servicios o comisiones que celebren en términos de este artículo que la Comisión determine que deberán serle entregados por las instituciones de banca múltiple, así como la forma, condiciones y plazos de dicha entrega;
 
 VI. Los límites aplicables a las operaciones que podrán llevarse a cabo a través de terceros por cuenta de la propia institución, observando en todo caso, respecto de las operaciones previstas en las fracciones I y II del artículo [46](articulo-46.md) de esta Ley, lo siguiente:
 

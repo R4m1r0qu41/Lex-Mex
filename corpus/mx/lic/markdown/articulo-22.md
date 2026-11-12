@@ -21,7 +21,9 @@ El consejo de administración de las instituciones de banca múltiple estará in
 
 Por consejero independiente deberá entenderse a la persona que sea ajena a la administración de la institución de banca múltiple respectiva, y que reúna los requisitos y condiciones que determine la Comisión Nacional Bancaria y de Valores, mediante disposiciones de carácter general, en las que igualmente se establecerán los supuestos bajo los cuales se considerará que un consejero deja de ser independiente para los efectos de este artículo.
 
-En ningún caso podrán ser consejeros independientes: I. Empleados o directivos de la institución;
+En ningún caso podrán ser consejeros independientes:
+
+I. Empleados o directivos de la institución;
 
 II. Personas que se encuentren en alguno de los supuestos previstos en el artículo [73](articulo-73.md) de esta Ley, o tengan poder de mando;
 

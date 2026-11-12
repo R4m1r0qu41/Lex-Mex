@@ -35,7 +35,9 @@ VII. Impulsar la celebración de contratos y convenios entre empresas sociales y
 
 VIII. Inspeccionar, vigilar y verificar a través del [SNICS](articulo-3.md), el cumplimiento de las disposiciones de esta Ley, su Reglamento, las Normas Oficiales Mexicanas, las Normas Mexicanas, las Reglas, las Guías y demás instrumentos que deriven del presente ordenamiento;
 
-IX. Promover la producción de semillas, dando prioridad a la de los cultivos considerados como básicos y estratégicos en la Ley de Desarrollo Rural Sustentable; X. Promover y aceptar donativos, aportaciones, asignaciones y demás recursos para el Fondo de Apoyos e Incentivos al Sistema Nacional de Semillas;
+IX. Promover la producción de semillas, dando prioridad a la de los cultivos considerados como básicos y estratégicos en la Ley de Desarrollo Rural Sustentable;
+
+X. Promover y aceptar donativos, aportaciones, asignaciones y demás recursos para el Fondo de Apoyos e Incentivos al Sistema Nacional de Semillas;
 
 XI. Promover y apoyar la conformación y consolidación de organizaciones, asociaciones y empresas nacionales productoras y distribuidoras de semillas; Fracción reformada DOF 11-05-2018
 

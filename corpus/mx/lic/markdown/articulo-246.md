@@ -19,7 +19,9 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 El liquidador judicial podrá suscribir un convenio con los acreedores reconocidos, por el que se pacte el pago de sus créditos en forma distinta a la establecida en esta Sección, incluso mediante la dación en pago de los activos de la institución, con arreglo a las siguientes bases:
 
-I. Para la negociación de ese convenio, el liquidador judicial podrá reunirse con los acreedores que estime convenientes y con aquellos que así se lo soliciten, ya sea conjunta o separadamente, y comunicarse con ellos de cualquier forma; II. El liquidador judicial podrá recomendar la realización de los estudios y avalúos que considere necesarios para la negociación del convenio, poniéndolos a disposición de los acreedores reconocidos, por conducto del juez, con excepción de aquella información que tenga el carácter de confidencial en términos de las disposiciones aplicables;
+I. Para la negociación de ese convenio, el liquidador judicial podrá reunirse con los acreedores que estime convenientes y con aquellos que así se lo soliciten, ya sea conjunta o separadamente, y comunicarse con ellos de cualquier forma;
+
+II. El liquidador judicial podrá recomendar la realización de los estudios y avalúos que considere necesarios para la negociación del convenio, poniéndolos a disposición de los acreedores reconocidos, por conducto del juez, con excepción de aquella información que tenga el carácter de confidencial en términos de las disposiciones aplicables;
 
 III. El convenio deberá ser suscrito, por el liquidador judicial y uno, o más acreedores reconocidos que en conjunto sean titulares de un mínimo equivalente al 75 por ciento del total del pasivo reconocido a cargo de la institución, mediante sentencia de reconocimiento, graduación y prelación de créditos, que se encentre pendiente de pago en la fecha en que se firme dicho convenio;
 
