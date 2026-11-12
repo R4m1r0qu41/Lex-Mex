@@ -456,7 +456,9 @@ the corpus records, so it is the operator's decision; each also has an open ques
   69 Bis, 101 Bis, 103 Bis, 152 Bis), 63 spans in 26 provisions, 1 term lost (95 → 94).
   It remains an accepted closure gap either way.
 
-Scratch root and classification: session scratchpad `reingest/`, `reingest-class.json`.
+Scratch root and classification: session scratchpad `reingest/`, `reingest-class.json`. That
+root is a preview only and must not be adopted: its manifest `source_sha256` was set by hand
+and `retrieved_at` is stale. An adoption goes through `fetch`, then the usual reparse review.
 
 ### Added milestone
 
