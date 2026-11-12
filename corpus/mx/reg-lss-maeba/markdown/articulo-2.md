@@ -23,7 +23,9 @@ I. Adquirente: Persona física o moral a la que, previo cumplimiento y acreditac
 
 II. Avalúo: Dictamen técnico en el que se indica el valor de un bien mueble o inmueble a partir de sus características físicas, su ubicación, su uso y de una investigación y análisis del mercado, emitido por el Instituto de Administración y Avalúos de Bienes Nacionales, las instituciones de crédito, los corredores públicos, los agentes especializados en materia de valuación y peritos con cédula profesional o reconocimiento oficial expedido por autoridad competente;
 
-III. Bien o Bienes: Los que el Instituto se adjudique con motivo de la aplicación del procedimiento administrativo de ejecución; IV. Clave Única: Conjunto de dígitos que, de acuerdo a su naturaleza, identifican al bien o bienes;
+III. Bien o Bienes: Los que el Instituto se adjudique con motivo de la aplicación del procedimiento administrativo de ejecución;
+
+IV. Clave Única: Conjunto de dígitos que, de acuerdo a su naturaleza, identifican al bien o bienes;
 
 V. Comité Técnico: Comité Técnico de Administración y [Enajenación](articulo-2.md) de Bienes Adjudicados;
 

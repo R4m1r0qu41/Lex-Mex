@@ -23,6 +23,8 @@ I. Acta de adjudicación y, en su caso, la constancia de su inscripción en el R
 
 II. Copia certificada de las sentencias ejecutoriadas o firmes, resoluciones y demás documentos que acrediten la propiedad de los bienes a favor del [Instituto](../../lss/markdown/articulo-5-A.md);
 
-III. Constancia del registro de los bienes en la contabilidad institucional, y IV. Acuerdos y demás documentos técnicos y legales que permitan la enajenación, sin perjuicio del Instituto.
+III. Constancia del registro de los bienes en la contabilidad institucional, y
+
+IV. Acuerdos y demás documentos técnicos y legales que permitan la enajenación, sin perjuicio del Instituto.
 
 La solicitud y el expediente para la recepción y control de los bienes, podrán presentarse en documentos impresos o en medios magnéticos, digitales, electrónicos, ópticos, magneto ópticos o de cualquier otra naturaleza.

@@ -17,7 +17,9 @@ source_sha256: be4e1666f8a8b3dfdcbbc047aed6542b4982972d1297e2e04dee839e30cc0ce1
 
 # Artículo 2o
 
-Para los efectos de esta ley se entiende por financiamiento la contratación dentro o fuera del país, de créditos, empréstitos o préstamos derivados de: I.- La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a plazo.
+Para los efectos de esta ley se entiende por financiamiento la contratación dentro o fuera del país, de créditos, empréstitos o préstamos derivados de:
+
+I.- La suscripción o emisión de títulos de crédito o cualquier otro documento pagadero a plazo.
 
 II.- La adquisición de bienes, así como la contración de obras o servicios cuyo pago se pacte a plazos.
 

@@ -29,7 +29,9 @@ IV. El impuesto no sea acreditable contra otros impuestos locales o federales.
 
 V. No se traslade en forma expresa y por separado el impuesto a las personas que adquieran los bienes. El traslado del impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo los oficiales.
 
-VI. El impuesto se cause en el momento en que efectivamente se perciban los ingresos y sobre el monto que de ellos se perciba. VII. El impuesto no se aplique en dos o más etapas del proceso de comercialización.
+VI. El impuesto se cause en el momento en que efectivamente se perciban los ingresos y sobre el monto que de ellos se perciba.
+
+VII. El impuesto no se aplique en dos o más etapas del proceso de comercialización.
 
 VIII. (Se deroga). Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 11-07-2008. Derogada DOF 09-12-2013
 

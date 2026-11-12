@@ -27,4 +27,4 @@ III. El heredero declarado judicialmente en los delitos cuyo resultado sea la mu
 
 IV. La persona que hubiere vivido de forma permanente con la víctima durante por lo menos dos años anteriores al hecho, y
 
-V. La persona que haya sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+V. La persona que haya sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización.

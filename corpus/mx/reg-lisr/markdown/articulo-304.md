@@ -23,7 +23,9 @@ I. Los contratos deberán contener el texto íntegro del artículo [185](../../l
 
 En la denominación de estos contratos se deberá especificar que se trata de aquellos que tienen como base pagar un plan que se asemeja a pensiones bajo la modalidad de jubilación o retiro, según sea el caso;
 
-II. Los planes de pensiones que se contengan en los contratos de seguro a que se refiere este artículo, deberán ser individuales, cubrir el riesgo de sobrevivencia y estarán basados en anualidades diferidas, pudiendo además amparar los riesgos de invalidez o fallecimiento del asegurado; III. El plazo de duración de los planes establecidos en el contrato de seguro, estará comprendido entre la fecha de contratación y el inicio del beneficio de la pensión, sin que en ningún caso pueda ser menor a cinco años;
+II. Los planes de pensiones que se contengan en los contratos de seguro a que se refiere este artículo, deberán ser individuales, cubrir el riesgo de sobrevivencia y estarán basados en anualidades diferidas, pudiendo además amparar los riesgos de invalidez o fallecimiento del asegurado;
+
+III. El plazo de duración de los planes establecidos en el contrato de seguro, estará comprendido entre la fecha de contratación y el inicio del beneficio de la pensión, sin que en ningún caso pueda ser menor a cinco años;
 
 IV. La edad de jubilación o retiro para efectos de los contratos de seguros a que se refiere este artículo, en ningún caso podrá ser inferior a cincuenta y cinco años. La edad de jubilación o retiro que se establezca en el contrato de seguro, se considerará como límite para el financiamiento de los planes a que se refiere el presente artículo;
 

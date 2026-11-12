@@ -21,6 +21,8 @@ Para determinar la procedencia de contratar con una dependencia, entidad o perso
 
 I. Realizar la investigación de mercado a que se refiere el artículo [24 Bis](articulo-24-Bis.md) de esta Ley, que permita acreditar que con dicha contratación se aseguran las mejores condiciones para el Estado;
 
-II. Solicitar a la dependencia, entidad o persona de derecho público federal, estatal, municipal o demarcación territorial de la Ciudad de México, que fungirá como contratista, la documentación que acredite que cuenta con la capacidad técnica, material y humana para la realización del objeto del contrato y que, por ello, no requerirá de la contratación con terceros en un porcentaje mayor al señalado en el último párrafo del artículo [1 Bis](articulo-1-Bis.md). Dicha documentación deberá ser entregada antes de la firma del contrato y deberá formar parte del expediente respectivo bajo la responsabilidad de la dependencia o entidad, y III. Verificar y documentar que las atribuciones u objeto de la dependencia o entidad que fungirá como contratista estén relacionadas con el objeto del contrato a celebrarse.
+II. Solicitar a la dependencia, entidad o persona de derecho público federal, estatal, municipal o demarcación territorial de la Ciudad de México, que fungirá como contratista, la documentación que acredite que cuenta con la capacidad técnica, material y humana para la realización del objeto del contrato y que, por ello, no requerirá de la contratación con terceros en un porcentaje mayor al señalado en el último párrafo del artículo [1 Bis](articulo-1-Bis.md). Dicha documentación deberá ser entregada antes de la firma del contrato y deberá formar parte del expediente respectivo bajo la responsabilidad de la dependencia o entidad, y
+
+III. Verificar y documentar que las atribuciones u objeto de la dependencia o entidad que fungirá como contratista estén relacionadas con el objeto del contrato a celebrarse.
 
 Artículo adicionado DOF 16-04-2025

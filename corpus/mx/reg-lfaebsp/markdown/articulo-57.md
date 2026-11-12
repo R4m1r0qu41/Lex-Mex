@@ -19,7 +19,9 @@ source_sha256: 9047ed3a46898bd7423b35e109f9c695e995408ca852aaaa07eb2cb902c9d7a3
 
 El SAE podrá donar los siguientes bienes:
 
-I. Los que le sean transferidos para su donación; II. Los perecederos o de fácil descomposición;
+I. Los que le sean transferidos para su donación;
+
+II. Los perecederos o de fácil descomposición;
 
 III. Aquéllos respecto de los que se realicen los procedimientos de venta, sin que haya sido posible venderlos y, en su caso, se cuente con la autorización previa de la entidad transferente;
 

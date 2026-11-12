@@ -19,6 +19,8 @@ source_sha256: 3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f
 
 El Gabinete Social de la Presidencia de la República podrá celebrar reuniones ordinarias y extraordinarias, a saber:
 
-I. Las reuniones ordinarias deberán celebrarse por lo menos una vez cada tres meses, mismas que serán convocadas por la persona Titular de la Secretaría Ejecutiva, y II. Las reuniones extraordinarias se convocarán en cualquier momento por el Titular del Ejecutivo Federal.
+I. Las reuniones ordinarias deberán celebrarse por lo menos una vez cada tres meses, mismas que serán convocadas por la persona Titular de la Secretaría Ejecutiva, y
+
+II. Las reuniones extraordinarias se convocarán en cualquier momento por el Titular del Ejecutivo Federal.
 
 Artículo adicionado DOF 09-08-2019

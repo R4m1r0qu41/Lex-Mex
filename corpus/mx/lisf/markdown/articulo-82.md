@@ -33,7 +33,9 @@ En ningún caso podrán ser consejeros independientes:
 
 I. Empleados o directivos de la Filial;
 
-II. Accionistas que sin ser empleados o directivos de la Filial, tengan [Poder de Mando](articulo-2.md) sobre los directivos de la misma; III. Socios o empleados de sociedades o asociaciones que presten servicios de asesoría o consultoría a la Filial o a las empresas que pertenezcan al mismo grupo económico del cual forme parte ésta, cuyos ingresos representen el 10% o más de sus ingresos;
+II. Accionistas que sin ser empleados o directivos de la Filial, tengan [Poder de Mando](articulo-2.md) sobre los directivos de la misma;
+
+III. Socios o empleados de sociedades o asociaciones que presten servicios de asesoría o consultoría a la Filial o a las empresas que pertenezcan al mismo grupo económico del cual forme parte ésta, cuyos ingresos representen el 10% o más de sus ingresos;
 
 IV. Clientes, proveedores, deudores, acreedores, socios, consejeros o empleados de una sociedad que sea cliente, proveedor, deudor o acreedor importante de la Filial.
 

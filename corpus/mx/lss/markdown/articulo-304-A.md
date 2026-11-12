@@ -35,7 +35,9 @@ VII. No llevar los registros de nóminas o listas de raya, en los términos que 
 
 VIII. No entregar a sus trabajadores la constancia semanal o quincenal de los días laborados, en caso de estar obligado a ello;
 
-IX. No proporcionar, cuando el Instituto se lo requiera, los elementos necesarios para determinar la existencia, naturaleza y cuantía de las obligaciones a su cargo o hacerlo con documentación alterada o falsa; X. Obstaculizar o impedir, por sí o por interpósita persona, las inspecciones o visitas domiciliarias, así como el procedimiento administrativo de ejecución, que ordene el Instituto;
+IX. No proporcionar, cuando el Instituto se lo requiera, los elementos necesarios para determinar la existencia, naturaleza y cuantía de las obligaciones a su cargo o hacerlo con documentación alterada o falsa;
+
+X. Obstaculizar o impedir, por sí o por interpósita persona, las inspecciones o visitas domiciliarias, así como el procedimiento administrativo de ejecución, que ordene el Instituto;
 
 XI. No cooperar con el Instituto en los términos del artículo 83 de la Ley, en la realización de estudios e investigaciones para determinar factores causales y medidas preventivas de riesgos de trabajo, en proporcionar datos e informes que permitan la elaboración de estadísticas de ocurrencias y en difundir, en el ámbito de sus empresas, las normas sobre prevención de riesgos de trabajo;
 
@@ -57,6 +59,8 @@ XIX. Omitir o presentar extemporáneamente el dictamen por contador público aut
 
 XX. No cumplir o hacerlo extemporáneamente con la obligación de dictaminar por contador público autorizado sus aportaciones ante el Instituto; Fracción reformada DOF 09-07-2009
 
-XXI. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos o bien, omitir notificar al Instituto en los términos del reglamento respectivo, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción, y Fracción reformada DOF 09-07-2009 XXII. No presentar o presentar fuera del plazo legal establecido, la información señalada en el artículo [15](articulo-15.md) A de esta Ley. Fracción adicionada DOF 09-07-2009. Reformada DOF 23-04-2021
+XXI. Notificar en forma extemporánea, hacerlo con datos falsos o incompletos o bien, omitir notificar al Instituto en los términos del reglamento respectivo, el domicilio de cada una de las obras o fase de obra que realicen los patrones que esporádica o permanentemente se dediquen a la industria de la construcción, y Fracción reformada DOF 09-07-2009
+
+XXII. No presentar o presentar fuera del plazo legal establecido, la información señalada en el artículo [15](articulo-15.md) A de esta Ley. Fracción adicionada DOF 09-07-2009. Reformada DOF 23-04-2021
 
 Artículo adicionado DOF 20-12-2001

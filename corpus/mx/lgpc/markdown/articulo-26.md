@@ -27,7 +27,9 @@ III. Proponer la emisión de acuerdos y resoluciones generales, para el funciona
 
 IV. Fungir como órgano de consulta y de coordinación de acciones del gobierno federal y de las entidades federativas para convocar, concertar, inducir e integrar las actividades de los diversos participantes e interesados en la materia, a fin de garantizar la consecución del objetivo del Sistema Nacional;
 
-V. Promover la efectiva coordinación de las instancias que integran el Sistema Nacional y dar seguimiento de las acciones que para tal efecto se establezcan; VI. Proponer el establecimiento de medidas para vincular al sistema nacional con los sistemas de las entidades federativas y municipales de protección civil; Fracción reformada DOF 19-01-2018
+V. Promover la efectiva coordinación de las instancias que integran el Sistema Nacional y dar seguimiento de las acciones que para tal efecto se establezcan;
+
+VI. Proponer el establecimiento de medidas para vincular al sistema nacional con los sistemas de las entidades federativas y municipales de protección civil; Fracción reformada DOF 19-01-2018
 
 VII. Fomentar la participación comprometida y corresponsable de todos los sectores de la sociedad, en la formulación y ejecución de los programas destinados a satisfacer las necesidades de protección civil en el territorio nacional;
 

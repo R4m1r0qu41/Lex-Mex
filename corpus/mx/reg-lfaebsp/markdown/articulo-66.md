@@ -23,7 +23,9 @@ I. Bienes transferidos;
 
 II. Bienes en administración a la fecha de cierre;
 
-III. Bienes vendidos; IV. Bienes destruidos;
+III. Bienes vendidos;
+
+IV. Bienes destruidos;
 
 V. Bienes donados;
 

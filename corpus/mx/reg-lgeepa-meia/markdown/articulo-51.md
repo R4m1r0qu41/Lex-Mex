@@ -21,7 +21,9 @@ La [Secretaría](articulo-3o.md) podrá exigir el otorgamiento de seguros o gara
 
 Se considerará que pueden producirse daños graves a los ecosistemas, cuando:
 
-I. Puedan liberarse sustancias que al contacto con el ambiente se transformen en tóxicas, persistentes y bioacumulables; II. En los lugares en los que se pretenda realizar la obra o actividad existan cuerpos de agua, especies de flora y fauna silvestre o especies endémicas, amenazadas, en peligro de extinción o sujetas a protección especial;
+I. Puedan liberarse sustancias que al contacto con el ambiente se transformen en tóxicas, persistentes y bioacumulables;
+
+II. En los lugares en los que se pretenda realizar la obra o actividad existan cuerpos de agua, especies de flora y fauna silvestre o especies endémicas, amenazadas, en peligro de extinción o sujetas a protección especial;
 
 III. Los proyectos impliquen la realización de actividades consideradas altamente riesgosas conforme a la [Ley](articulo-3o.md), el reglamento respectivo y demás disposiciones aplicables, y
 

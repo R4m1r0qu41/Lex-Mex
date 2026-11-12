@@ -7,8 +7,8 @@ provision_type: article
 number: "3o"
 aliases: ["REG-LFCP — Artículo 3o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCP.pdf
 source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 ---
@@ -21,6 +21,8 @@ El corredor es responsable de que la prestación del servicio se realice con est
 
 I.- Exista prohibición legal o reglamentaria; o
 
-II.- Se trate de días festivos o feriados, u horas inhábiles; o III.- Los clientes no les anticipen los gastos necesarios.
+II.- Se trate de días festivos o feriados, u horas inhábiles; o
+
+III.- Los clientes no les anticipen los gastos necesarios.
 
 La [Secretaría](articulo-2o.md) podrá requerir a los corredores para que coadyuven en la atención de asuntos de interés social, en cuyo caso los honorarios por sus servicios se fijarán de común acuerdo.

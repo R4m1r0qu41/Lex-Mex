@@ -17,7 +17,9 @@ source_sha256: e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68
 
 # Artículo 177
 
-El [Ministerio Público](articulo-2.md) que solicite la medida cautelar: I. Deberá determinar con precisión el o los [Bienes](articulo-2.md) que pide sean objeto de la medida, describiéndolos de ser posible para facilitar su identificación, y
+El [Ministerio Público](articulo-2.md) que solicite la medida cautelar:
+
+I. Deberá determinar con precisión el o los [Bienes](articulo-2.md) que pide sean objeto de la medida, describiéndolos de ser posible para facilitar su identificación, y
 
 II. Deberá acreditar el derecho que le asiste para pedirla.
 

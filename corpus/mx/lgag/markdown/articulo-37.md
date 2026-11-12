@@ -19,6 +19,8 @@ source_sha256: 025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409
 
 La Federación, las entidades federativas y los municipios, en al ámbito de sus competencias, promoverán la participación de todos los sectores sociales involucrados en el manejo y cuidado del agua, principalmente a través de:
 
-I. Difusión de información y promoción de la cultura, educación y capacitación en materia de responsabilidad hídrica; II. Impulso de proyectos y programas de enseñanza hídrica, servicios hidráulicos, contaminación del agua, tratamiento y reúso de aguas residuales, y
+I. Difusión de información y promoción de la cultura, educación y capacitación en materia de responsabilidad hídrica;
+
+II. Impulso de proyectos y programas de enseñanza hídrica, servicios hidráulicos, contaminación del agua, tratamiento y reúso de aguas residuales, y
 
 III. Convenios con instituciones de educación superior, con el objeto de fomentar y promover actividades de investigación en materia del manejo racional del agua.

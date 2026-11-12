@@ -31,7 +31,9 @@ V. No haber sido sentenciado por delitos intencionales patrimoniales o inhabilit
 
 VI. No estar o haber sido sujeto a concurso o declarado en quiebra, o encontrarse inhabilitado para ejercer el comercio, o sentenciado por delitos intencionales patrimoniales.
 
-VII. No tener parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con algún miembro del Consejo de Administración, Consejo de Vigilancia o con el director o gerente general de alguna Sociedad Cooperativa de Ahorro y Préstamo. VIII. No ejercer algún cargo público de elección popular o de dirigencia partidista o sindical.
+VII. No tener parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con algún miembro del Consejo de Administración, Consejo de Vigilancia o con el director o gerente general de alguna Sociedad Cooperativa de Ahorro y Préstamo.
+
+VIII. No ejercer algún cargo público de elección popular o de dirigencia partidista o sindical.
 
 IX. No ser funcionario de las dependencias gubernamentales encargadas de la supervisión y vigilancia de las Sociedades Cooperativas de Ahorro y Préstamo.
 

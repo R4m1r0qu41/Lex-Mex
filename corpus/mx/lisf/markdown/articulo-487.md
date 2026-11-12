@@ -25,7 +25,9 @@ II. Multa por el importe equivalente del 1% al 15% del valor de la emisión de o
 
 III. Multa por el importe equivalente del 1% al 15% del monto del financiamiento convenido con la entidad reaseguradora o reafianzadora, cuando la Institución no obtenga previamente la autorización prevista por los artículos [120](articulo-120.md), fracción I, y [146](articulo-146.md), fracción I, de este ordenamiento, o se viole lo dispuesto por los artículos [294](articulo-294.md), fracción V, y [295](articulo-295.md), fracción V, de la presente Ley;
 
-IV. Multa por el importe equivalente del 1% al 10% del monto del financiamiento concedido en violación a lo previsto por los artículos [294](articulo-294.md), fracción VII, y [295](articulo-295.md), fracción VII, de esta Ley; V. Multa por el equivalente del 5% al 15% de los excedentes que tengan las Instituciones y [Sociedades Mutualistas](articulo-2.md) sobre sus límites máximos de retención, conforme a lo previsto en los artículos [256](articulo-256.md) y [258](articulo-258.md) de la presente Ley;
+IV. Multa por el importe equivalente del 1% al 10% del monto del financiamiento concedido en violación a lo previsto por los artículos [294](articulo-294.md), fracción VII, y [295](articulo-295.md), fracción VII, de esta Ley;
+
+V. Multa por el equivalente del 5% al 15% de los excedentes que tengan las Instituciones y [Sociedades Mutualistas](articulo-2.md) sobre sus límites máximos de retención, conforme a lo previsto en los artículos [256](articulo-256.md) y [258](articulo-258.md) de la presente Ley;
 
 VI. Multa por el equivalente del 80% al 100% del monto de la operación, a las Instituciones y Sociedades Mutualistas por incumplir lo previsto en los artículos [142](articulo-142.md), [163](articulo-163.md) y [342](articulo-342.md), fracción XIII, de esta Ley;
 

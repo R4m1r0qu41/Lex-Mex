@@ -25,7 +25,9 @@ II. Los instrumentos que modifiquen los decretos señalados en la fracción ante
 
 III. Los documentos en los que consten los resúmenes de los programas de manejo;
 
-IV. Los certificados de predios destinados voluntariamente a la conservación, que la [Secretaría](articulo-3o.md) hubiera emitido en términos de lo dispuesto en el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md) de la [Ley](articulo-3o.md) y este Reglamento. Fracción reformada DOF 21-05-2014 V. Los acuerdos de coordinación que se celebren con el objeto de determinar la forma en que deberán ser administradas y manejadas las áreas naturales protegidas;
+IV. Los certificados de predios destinados voluntariamente a la conservación, que la [Secretaría](articulo-3o.md) hubiera emitido en términos de lo dispuesto en el artículo [77 BIS](../../lgeepa/markdown/articulo-77-BIS.md) de la [Ley](articulo-3o.md) y este Reglamento. Fracción reformada DOF 21-05-2014
+
+V. Los acuerdos de coordinación que se celebren con el objeto de determinar la forma en que deberán ser administradas y manejadas las áreas naturales protegidas;
 
 VI. Las concesiones que otorgue la Secretaría, dentro de las áreas naturales protegidas;
 

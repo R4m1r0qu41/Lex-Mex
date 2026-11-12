@@ -21,7 +21,9 @@ Las dependencias y entidades de la administración pública federal centralizada
 
 I. Elaborar y publicar los atlas de riesgo que consideren los escenarios de vulnerabilidad actual y futura ante el cambio climático, tomando en consideración la información del [Atlas Nacional de Vulnerabilidad al Cambio Climático](articulo-3o.md), atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo, así como a las islas, zonas costeras y deltas de ríos; Fracción reformada DOF 15-11-2023
 
-II. Utilizar la información contenida tanto en los atlas de riesgo como en el Atlas Nacional de Vulnerabilidad al Cambio Climático, para la elaboración de los planes de desarrollo urbano, reglamentos de construcción y ordenamiento territorial de las entidades federativas, los municipios; y para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático; Fracción reformada DOF 01-06-2016, 15-11-2023 III. Proponer e impulsar mecanismos de recaudación y obtención de recursos, para destinarlos a la protección y reubicación de los asentamientos humanos más vulnerables ante los efectos del cambio climático;
+II. Utilizar la información contenida tanto en los atlas de riesgo como en el Atlas Nacional de Vulnerabilidad al Cambio Climático, para la elaboración de los planes de desarrollo urbano, reglamentos de construcción y ordenamiento territorial de las entidades federativas, los municipios; y para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático; Fracción reformada DOF 01-06-2016, 15-11-2023
+
+III. Proponer e impulsar mecanismos de recaudación y obtención de recursos, para destinarlos a la protección y reubicación de los asentamientos humanos más vulnerables ante los efectos del cambio climático;
 
 IV. Establecer planes de protección y contingencia ambientales en zonas de alta vulnerabilidad, áreas naturales protegidas y corredores biológicos ante eventos meteorológicos extremos;
 

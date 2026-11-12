@@ -69,7 +69,9 @@ XXII. Establecer Consejos Asesores, de carácter interinstitucional, en los que 
 
 XXIII. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales e internacionales, en asuntos de su competencia, y
 
-XXIV. Coordinar con otras dependencias y entidades de la Administración Pública Federal programas y acciones culturales de carácter comunitario en aquellos municipios donde se identifiquen problemáticas sociales específicas; Fracción adicionada DOF 30-11-2018 XXV. Coordinar, en colaboración con las autoridades correspondientes en las entidades federativas, los municipios y comunidades, acciones de fomento, vinculación, desarrollo y difusión de la producción artística, dentro del territorio nacional y en el extranjero; Fracción adicionada DOF 30-11-2018
+XXIV. Coordinar con otras dependencias y entidades de la Administración Pública Federal programas y acciones culturales de carácter comunitario en aquellos municipios donde se identifiquen problemáticas sociales específicas; Fracción adicionada DOF 30-11-2018
+
+XXV. Coordinar, en colaboración con las autoridades correspondientes en las entidades federativas, los municipios y comunidades, acciones de fomento, vinculación, desarrollo y difusión de la producción artística, dentro del territorio nacional y en el extranjero; Fracción adicionada DOF 30-11-2018
 
 XXVI. Promover la creación artística y el acceso a la cultura, así como el ejercicio de los derechos culturales, y Fracción adicionada DOF 30-11-2018
 

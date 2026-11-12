@@ -27,7 +27,9 @@ II.- Una vez publicado el acuerdo, la Secretaría de Economía verificará que e
 
 III.- Los socios o accionistas entregarán al liquidador todos los bienes, libros y documentos de la sociedad a más tardar dentro de los 15 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación;
 
-IV.- El liquidador llevará a cabo la distribución del remanente del haber social entre los socios o accionistas de forma proporcional a sus aportaciones, si es que lo hubiere en un plazo que no excederá los 45 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación; V.- Los socios o accionistas entregarán al liquidador los títulos de las acciones a más tardar dentro de los 15 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación;
+IV.- El liquidador llevará a cabo la distribución del remanente del haber social entre los socios o accionistas de forma proporcional a sus aportaciones, si es que lo hubiere en un plazo que no excederá los 45 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación;
+
+V.- Los socios o accionistas entregarán al liquidador los títulos de las acciones a más tardar dentro de los 15 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación;
 
 VI.- Una vez liquidada la sociedad, el liquidador publicará el balance final de la sociedad en el sistema electrónico establecido por la Secretaría de Economía previsto en el artículo [50 Bis](../../ccom/markdown/articulo-50-Bis.md) del Código de Comercio, que en ningún caso podrá exceder a los 60 días hábiles siguientes a la fecha de la asamblea de la disolución y liquidación, y
 

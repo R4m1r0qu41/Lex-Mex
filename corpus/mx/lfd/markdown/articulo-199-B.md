@@ -17,7 +17,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 # Artículo 199-B
 
-Por el aprovechamiento de los recursos pesqueros en la pesca deportivo-recreativa, se pagará, el derecho de pesca, por permiso individual, conforme a las siguientes cuotas: I.- Por un día. ................................................................................................................ $203.62
+Por el aprovechamiento de los recursos pesqueros en la pesca deportivo-recreativa, se pagará, el derecho de pesca, por permiso individual, conforme a las siguientes cuotas:
+
+I.- Por un día. ................................................................................................................ $203.62
 
 II.- Por una semana. ...................................................................................................... $510.44
 

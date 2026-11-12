@@ -16,5 +16,3 @@ source_sha256: ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5
 # Octavo
 
 Los derechos de los trabajadores serán respetados y en ningún caso serán afectados por la reorganización que implica el presente ordenamiento.
-
-Artículos Segundo a Vigésimo. ..........

@@ -31,7 +31,7 @@ IV. Determinar y dar a conocer los medios de cumplimiento alternativos a los que
 
 IV bis. Establecer mediante acuerdos publicados en el Diario Oficial de la Federación las excepciones a las que se hace referencia en los artículos [18](../../lfpiorpi/markdown/articulo-18.md), último párrafo, y [23](../../lfpiorpi/markdown/articulo-23.md), segundo párrafo, de la Ley; Fracción adicionada DOF 27-03-2026
 
-V. Participar en la suscripción, en conjunto con el SAT, de los convenios a que se refiere el artículo [32](articulo-32.md) del presente Reglamento; REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA Fracción reformada DOF 27-03-2026
+V. Participar en la suscripción, en conjunto con el SAT, de los convenios a que se refiere el artículo [32](articulo-32.md) del presente Reglamento; Fracción reformada DOF 27-03-2026
 
 VI. Promover entre las Entidades Federativas la implementación coordinada de unidades especializadas en la recepción y análisis de información patrimonial, conforme a sus facultades, y Fracción adicionada DOF 27-03-2026
 

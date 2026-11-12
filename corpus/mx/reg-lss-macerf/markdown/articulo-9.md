@@ -23,7 +23,9 @@ I. Nombre, denominación o razón social completo del patrón, número de su reg
 
 II. Nombre completo, Registro Federal de Contribuyentes, Clave Única del Registro de Población, duración de la jornada, fecha de ingreso al trabajo y tipo de salario, de los trabajadores;
 
-III. Lapso que comprende y periodicidad establecida para el pago de los salarios; REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN IV. Salario base de cotización, importe total del salario devengado, así como conceptos y montos de las deducciones y retenciones efectuadas, y
+III. Lapso que comprende y periodicidad establecida para el pago de los salarios;
+
+IV. Salario base de cotización, importe total del salario devengado, así como conceptos y montos de las deducciones y retenciones efectuadas, y
 
 V. Unidades de tiempo laborado.
 

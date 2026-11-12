@@ -253,11 +253,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:30:reference:1584-1602:31:relative",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:30:reference:1585-1603:31:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:30",
     "source_span": "artículo siguiente",
-    "start_char": 1584,
-    "end_char": 1602,
+    "start_char": 1585,
+    "end_char": 1603,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:31",
     "qualifiers": [],
@@ -269,11 +269,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:33:reference:173-175:28:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:33:reference:174-176:28:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:33",
     "source_span": "28",
-    "start_char": 173,
-    "end_char": 175,
+    "start_char": 174,
+    "end_char": 176,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:28",
     "qualifiers": [],
@@ -411,19 +411,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:5:reference:12411-12413:76:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:5:reference:12412-12414:76:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:5",
     "source_span": "76",
-    "start_char": 12411,
-    "end_char": 12413,
+    "start_char": 12412,
+    "end_char": 12414,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgdfs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgdfs:article:76",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 12415,
-        "end_char": 12427
+        "start_char": 12416,
+        "end_char": 12428
       }
     ],
     "basis": "express_cross_reference",
@@ -434,19 +434,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:5:reference:16070-16072:28:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:5:reference:16072-16074:28:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia:article:5",
     "source_span": "28",
-    "start_char": 16070,
-    "end_char": 16072,
+    "start_char": 16072,
+    "end_char": 16074,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
     "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:28",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XII",
-        "start_char": 16044,
-        "end_char": 16056
+        "start_char": 16046,
+        "end_char": 16058
       }
     ],
     "basis": "express_cross_reference",

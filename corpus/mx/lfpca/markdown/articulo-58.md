@@ -17,7 +17,9 @@ source_sha256: d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e
 
 # Artículo 58
 
-A fin de asegurar el pleno cumplimiento de las resoluciones del [Tribunal](articulo-1-A.md) a que este precepto se refiere, una vez vencido el plazo previsto por el artículo [52](articulo-52.md) de esta Ley, éste podrá actuar de oficio o a petición de parte, conforme a lo siguiente: I. La Sala Regional, la Sección o el Pleno que hubiere pronunciado la sentencia, podrá de oficio, por conducto de su Presidenta o Presidente, en su caso, requerir a la autoridad demandada que informe dentro de los tres días siguientes, respecto al cumplimiento de la sentencia. Se exceptúan de lo dispuesto en este párrafo las sentencias que hubieran señalado efectos, cuando la resolución impugnada derive de un procedimiento oficioso. Párrafo reformado DOF 09-06-2026
+A fin de asegurar el pleno cumplimiento de las resoluciones del [Tribunal](articulo-1-A.md) a que este precepto se refiere, una vez vencido el plazo previsto por el artículo [52](articulo-52.md) de esta Ley, éste podrá actuar de oficio o a petición de parte, conforme a lo siguiente:
+
+I. La Sala Regional, la Sección o el Pleno que hubiere pronunciado la sentencia, podrá de oficio, por conducto de su Presidenta o Presidente, en su caso, requerir a la autoridad demandada que informe dentro de los tres días siguientes, respecto al cumplimiento de la sentencia. Se exceptúan de lo dispuesto en este párrafo las sentencias que hubieran señalado efectos, cuando la resolución impugnada derive de un procedimiento oficioso. Párrafo reformado DOF 09-06-2026
 
 Concluido el término anterior con informe o sin él, la Sala Regional, la Sección o el Pleno de que se trate, decidirá en el plazo de quince días, si hubo incumplimiento injustificado de la sentencia, en cuyo caso procederá como sigue: Párrafo reformado DOF 09-06-2026
 

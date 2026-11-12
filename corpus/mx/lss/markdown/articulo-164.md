@@ -17,7 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 164
 
-Los asegurados que reúnan los requisitos establecidos en esta sección podrán disponer de su cuenta individual con el objeto de disfrutar de una pensión de vejez. Para tal propósito podrán optar por alguna de las opciones siguientes o ambas: Párrafo reformado DOF 16-12-2020 I. Contratar con una compañía de seguros pública, social o privada de su elección una renta vitalicia, que se actualizará anualmente en el mes de febrero conforme al Indice Nacional de Precios al Consumidor, y
+Los asegurados que reúnan los requisitos establecidos en esta sección podrán disponer de su cuenta individual con el objeto de disfrutar de una pensión de vejez. Para tal propósito podrán optar por alguna de las opciones siguientes o ambas: Párrafo reformado DOF 16-12-2020
+
+I. Contratar con una compañía de seguros pública, social o privada de su elección una renta vitalicia, que se actualizará anualmente en el mes de febrero conforme al Indice Nacional de Precios al Consumidor, y
 
 II. Mantener el saldo de su cuenta individual en una Administradora de Fondos para el Retiro y efectuar con cargo a éste, retiros programados.
 

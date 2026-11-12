@@ -21,4 +21,6 @@ Los avalúos y las referencias de valor de los bienes podrán actualizarse en lo
 
 I. Previo al inicio del procedimiento de enajenación de los bienes, si es que no se cuenta con uno vigente;
 
-II. Si a juicio del SAE se considera que, como resultado de caso fortuito o de fuerza mayor, el bien sufrió algún deterioro significativo, o III. Cada dos años, en caso de que se requiera, para renovar las pólizas de seguro correspondientes. Fracción reformada DOF 29-11-2006
+II. Si a juicio del SAE se considera que, como resultado de caso fortuito o de fuerza mayor, el bien sufrió algún deterioro significativo, o
+
+III. Cada dos años, en caso de que se requiera, para renovar las pólizas de seguro correspondientes. Fracción reformada DOF 29-11-2006

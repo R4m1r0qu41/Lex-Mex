@@ -61,6 +61,8 @@ XX. Determinar los indicadores que permitan evaluar la aplicación del presente 
 
 XXI. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios, y Fracción adicionada DOF 07-01-2021
 
-XXII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables. Fracción recorrida DOF 07-01-2021 Las Legislaturas de las entidades federativas, con arreglo a sus respectivas constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley. Párrafo reformado DOF 19-01-2018
+XXII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables. Fracción recorrida DOF 07-01-2021
+
+Las Legislaturas de las entidades federativas, con arreglo a sus respectivas constituciones, expedirán las disposiciones legales que sean necesarias para regular las materias de su competencia previstas en esta Ley. Párrafo reformado DOF 19-01-2018
 
 Los ayuntamientos por su parte, dictarán los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas que correspondan, para que en sus respectivas circunscripciones se cumplan las previsiones del presente ordenamiento.

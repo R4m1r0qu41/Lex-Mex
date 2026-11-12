@@ -139,7 +139,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
     "fraction": "XIII",
     "start_char": 1774,
-    "end_char": 2287,
+    "end_char": 2128,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
     "fraction": "XIV",
-    "start_char": 2287,
-    "end_char": 2671,
+    "start_char": 2128,
+    "end_char": 2512,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
     "fraction": "XV",
-    "start_char": 2671,
-    "end_char": 2917,
+    "start_char": 2512,
+    "end_char": 2758,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
     "fraction": "XVI",
-    "start_char": 2917,
-    "end_char": 3408,
+    "start_char": 2758,
+    "end_char": 3249,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
     "fraction": "XVII",
-    "start_char": 3408,
-    "end_char": 4393,
+    "start_char": 3249,
+    "end_char": 4234,
     "basis": "express_definition"
   }
 ]

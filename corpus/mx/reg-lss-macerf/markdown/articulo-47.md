@@ -21,4 +21,4 @@ El [Instituto](../../lss/markdown/articulo-5-A.md), al recibir el aviso de inscr
 
 El patrón deberá solicitar al trabajador su Clave Única de Registro de Población, la omisión en la presentación de este documento no exime al patrón de la obligación de inscribirlo ante el Instituto.
 
-En el caso de los sujetos obligados se aplicará en lo conducente lo dispuesto en el presente artículo. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN
+En el caso de los sujetos obligados se aplicará en lo conducente lo dispuesto en el presente artículo.

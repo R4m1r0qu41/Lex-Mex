@@ -19,7 +19,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 Por la expedición de certificados de licitud de título y contenido de publicaciones y revistas y el duplicado de los mismos, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Certificado de licitud de título ................................................................................ $4,509.58 II.- Certificado de licitud de contenido ........................................................................ $5,637.19
+I.- Certificado de licitud de título ................................................................................ $4,509.58
+
+II.- Certificado de licitud de contenido ........................................................................ $5,637.19
 
 III.- Duplicado de certificado de licitud de título ........................................................... $2,254.50
 

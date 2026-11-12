@@ -17,7 +17,9 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 # Artículo 8
 
-La solicitud a que se refiere el [artículo anterior](articulo-7.md) deberá contener, como mínimo, la siguiente información: I. Descripción física de los bienes y su estado de conservación. En su caso, señalar los sellos, marcas, cuños, fierros, señales u otros medios que permitan identificarlos individualmente;
+La solicitud a que se refiere el [artículo anterior](articulo-7.md) deberá contener, como mínimo, la siguiente información:
+
+I. Descripción física de los bienes y su estado de conservación. En su caso, señalar los sellos, marcas, cuños, fierros, señales u otros medios que permitan identificarlos individualmente;
 
 II. [Clave Única](articulo-2.md);
 

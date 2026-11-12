@@ -21,7 +21,9 @@ Ningún ejemplar de mamífero marino puede ser sujeto de aprovechamiento extract
 
 Queda prohibida la posesión y utilización de mamíferos marinos para cualquier actividad que no sean las permitidas en este artículo, con excepción de aquellos:
 
-I. Cuya finalidad sea su reproducción para la conservación a través de la recuperación, la reintroducción y la repoblación de especies y poblaciones amenazadas o en peligro de extinción, o II. Que sean rescatados y depositados por las autoridades competentes, y no tengan fines de lucro.
+I. Cuya finalidad sea su reproducción para la conservación a través de la recuperación, la reintroducción y la repoblación de especies y poblaciones amenazadas o en peligro de extinción, o
+
+II. Que sean rescatados y depositados por las autoridades competentes, y no tengan fines de lucro.
 
 Queda prohibida la reproducción de los ejemplares de mamíferos marinos, salvo lo establecido en la fracción I del párrafo segundo del presente artículo.
 

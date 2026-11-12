@@ -244,19 +244,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:reference:1140-1141:128:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:reference:1141-1142:128:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
     "source_span": "I",
-    "start_char": 1140,
-    "end_char": 1141,
+    "start_char": 1141,
+    "end_char": 1142,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 1140,
-        "end_char": 1141
+        "start_char": 1141,
+        "end_char": 1142
       }
     ],
     "basis": "express_cross_reference",
@@ -267,11 +267,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:reference:1522-1540:129:relative",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128:reference:1523-1541:129:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:128",
     "source_span": "artículo siguiente",
-    "start_char": 1522,
-    "end_char": 1540,
+    "start_char": 1523,
+    "end_char": 1541,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:129",
     "qualifiers": [],
@@ -399,11 +399,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133:reference:475-478:134:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133:reference:476-479:134:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:133",
     "source_span": "134",
-    "start_char": 475,
-    "end_char": 478,
+    "start_char": 476,
+    "end_char": 479,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:134",
     "qualifiers": [],
@@ -699,11 +699,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:reference:401-402:6:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16:reference:402-403:6:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:16",
     "source_span": "6",
-    "start_char": 401,
-    "end_char": 402,
+    "start_char": 402,
+    "end_char": 403,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:6",
     "qualifiers": [],
@@ -712,6 +712,29 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20:reference:1280-1281:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20",
+    "source_span": "V",
+    "start_char": 1280,
+    "end_char": 1281,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "V",
+        "start_char": 1280,
+        "end_char": 1281
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
   },
   {
     "schema_version": "0.1.0",
@@ -978,11 +1001,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:88:reference:861-863:28:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:88:reference:862-864:28:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp:article:88",
     "source_span": "28",
-    "start_char": 861,
-    "end_char": 863,
+    "start_char": 862,
+    "end_char": 864,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgeepa",
     "target_provision_id": "urn:lex-mx:federal:statute:lgeepa:article:28",
     "qualifiers": [],

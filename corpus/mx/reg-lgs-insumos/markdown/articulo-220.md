@@ -21,7 +21,9 @@ La asignación del Establecimiento o del lugar para realizar la visita de verifi
 
 I. Por selección aleatoria;
 
-II. Por contingencia o alerta sanitaria; III. Por programas determinados por la autoridad sanitaria, en cuyo caso estará expresamente señalado en la orden de visita correspondiente;
+II. Por contingencia o alerta sanitaria;
+
+III. Por programas determinados por la autoridad sanitaria, en cuyo caso estará expresamente señalado en la orden de visita correspondiente;
 
 IV. Por denuncia de terceros, en los términos del artículo [5](articulo-5o.md)o. de este Reglamento;
 

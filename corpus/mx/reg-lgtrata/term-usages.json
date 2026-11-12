@@ -10,21 +10,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:term-usage:1163-1198",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:term-usage:988-1023",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:enfoque-diferencial-y-especializado",
     "span": "Enfoque Diferencial y Especializado",
-    "start_char": 1163,
-    "end_char": 1198
+    "start_char": 988,
+    "end_char": 1023
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:term-usage:3024-3078",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:term-usage:1893-1915",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:vigilancia-y-monitoreo",
+    "span": "Vigilancia y Monitoreo",
+    "start_char": 1893,
+    "end_char": 1915
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:term-usage:1923-1944",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:anuncios-clasificados",
+    "span": "Anuncios Clasificados",
+    "start_char": 1923,
+    "end_char": 1944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:term-usage:2849-2903",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:fiscalias-y-procuradurias-de-las-entidades-federativas",
     "span": "Fiscalías y Procuradurías de las Entidades Federativas",
-    "start_char": 3024,
-    "end_char": 3078
+    "start_char": 2849,
+    "end_char": 2903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2:term-usage:3471-3492",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:anuncios-clasificados",
+    "span": "Anuncios Clasificados",
+    "start_char": 3471,
+    "end_char": 3492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:3:term-usage:89-111",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:vigilancia-y-monitoreo",
+    "span": "Vigilancia y Monitoreo",
+    "start_char": 89,
+    "end_char": 111
   },
   {
     "schema_version": "0.1.0",
@@ -34,6 +70,24 @@
     "span": "Fiscalía",
     "start_char": 164,
     "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:3:term-usage:199-220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:anuncios-clasificados",
+    "span": "Anuncios Clasificados",
+    "start_char": 199,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:3:term-usage:337-359",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:vigilancia-y-monitoreo",
+    "span": "Vigilancia y Monitoreo",
+    "start_char": 337,
+    "end_char": 359
   },
   {
     "schema_version": "0.1.0",
@@ -91,12 +145,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:10:term-usage:1038-1062",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:10:term-usage:862-886",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral",
     "span": "Atención Médica Integral",
-    "start_char": 1038,
-    "end_char": 1062
+    "start_char": 862,
+    "end_char": 886
   },
   {
     "schema_version": "0.1.0",
@@ -325,30 +379,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40:term-usage:1576-1586",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40:term-usage:1401-1411",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:presidente",
     "span": "Presidente",
-    "start_char": 1576,
-    "end_char": 1586
+    "start_char": 1401,
+    "end_char": 1411
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40:term-usage:2075-2085",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40:term-usage:1900-1910",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:presidente",
     "span": "Presidente",
-    "start_char": 2075,
-    "end_char": 2085
+    "start_char": 1900,
+    "end_char": 1910
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40:term-usage:2105-2123",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40:term-usage:1930-1948",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:40",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
     "span": "Reglamento Interno",
-    "start_char": 2105,
-    "end_char": 2123
+    "start_char": 1930,
+    "end_char": 1948
   },
   {
     "schema_version": "0.1.0",
@@ -415,21 +469,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:2079-2088",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:1903-1912",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
     "span": "Albergues",
-    "start_char": 2079,
-    "end_char": 2088
+    "start_char": 1903,
+    "end_char": 1912
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:2635-2644",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:2459-2468",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
     "span": "Albergues",
-    "start_char": 2635,
-    "end_char": 2644
+    "start_char": 2459,
+    "end_char": 2468
   },
   {
     "schema_version": "0.1.0",
@@ -568,21 +622,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60:term-usage:313-331",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60:term-usage:137-155",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:invitados-expertos",
     "span": "Invitados Expertos",
-    "start_char": 313,
-    "end_char": 331
+    "start_char": 137,
+    "end_char": 155
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60:term-usage:403-421",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60:term-usage:227-245",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno",
     "span": "Reglamento Interno",
-    "start_char": 403,
-    "end_char": 421
+    "start_char": 227,
+    "end_char": 245
   },
   {
     "schema_version": "0.1.0",
@@ -667,21 +721,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72:term-usage:1729-1738",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72:term-usage:1554-1563",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
     "span": "Albergues",
-    "start_char": 1729,
-    "end_char": 1738
+    "start_char": 1554,
+    "end_char": 1563
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72:term-usage:2071-2080",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72:term-usage:1896-1905",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
     "span": "Albergues",
-    "start_char": 2071,
-    "end_char": 2080
+    "start_char": 1896,
+    "end_char": 1905
   },
   {
     "schema_version": "0.1.0",
@@ -694,12 +748,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:73:term-usage:984-1003",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:73:term-usage:809-828",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:73",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglas-de-operacion",
     "span": "Reglas de Operación",
-    "start_char": 984,
-    "end_char": 1003
+    "start_char": 809,
+    "end_char": 828
   },
   {
     "schema_version": "0.1.0",

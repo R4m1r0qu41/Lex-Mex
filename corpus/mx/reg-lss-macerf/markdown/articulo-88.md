@@ -21,7 +21,7 @@ Para los efectos del artículo [231](../../lss/markdown/articulo-231.md) de la [
 
 I. Individual:
 
-a).- Declaración expresa firmada por el asegurado, surtiendo efecto al término de la anualidad pagada, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN b).- No pagar la cuota anual al momento en que corresponda la renovación.
+a).- Declaración expresa firmada por el asegurado, surtiendo efecto al término de la anualidad pagada, y b).- No pagar la cuota anual al momento en que corresponda la renovación.
 
 II. Colectiva:
 

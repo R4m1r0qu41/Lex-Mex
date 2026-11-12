@@ -25,7 +25,9 @@ II. La identificación de la zona donde se pretende liberar experimentalmente el
 
 III. Un estudio de los posibles riesgos que la liberación de los OGMs pudiera generar al medio ambiente y a la diversidad biológica. Además, en los casos que sean de la competencia de la [SAGARPA](articulo-3.md), el estudio deberá contener lo relativo a los posibles riesgos que la liberación de dichos organismos pudieran causar a la sanidad animal, vegetal o acuícola;
 
-IV. Las medidas y procedimientos de monitoreo de la actividad y de bioseguridad, que se llevarán a cabo al momento de realizarla y las posteriores a la liberación; V. En su caso, los antecedentes de liberación de los OGMs de que se trate en otros países;
+IV. Las medidas y procedimientos de monitoreo de la actividad y de bioseguridad, que se llevarán a cabo al momento de realizarla y las posteriores a la liberación;
+
+V. En su caso, los antecedentes de liberación de los OGMs de que se trate en otros países;
 
 VI. En su caso, se presentarán consideraciones sobre los riesgos de las alternativas tecnológicas con las que se cuente para contender con el problema para el cual se construyó el organismo genéticamente modificado que se pretende liberar, y
 

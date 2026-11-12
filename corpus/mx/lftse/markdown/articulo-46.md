@@ -31,9 +31,7 @@ V.- Por resolución del Tribunal Federal de Conciliación y Arbitraje, en los ca
 
 a) Cuando el trabajador incurriere en faltas de probidad u honradez o en actos de violencia, amagos, injurias, o malos tratamientos contra sus jefes o compañeros o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio.
 
-b) Cuando faltare por más de tres días consecutivos a sus labores sin causa justificada. LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL c) Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo.
+b) Cuando faltare por más de tres días consecutivos a sus labores sin causa justificada. c) Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo.
 
 d) Por cometer actos inmorales durante el trabajo.
 

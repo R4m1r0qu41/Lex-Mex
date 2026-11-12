@@ -17,7 +17,9 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 # Artículo 24
 
-Para efecto de los permisos previstos en la fracción II del artículo [20](articulo-20.md), en adición a los requisitos que señala el artículo [21](articulo-21.md), el solicitante deberá acompañar a su solicitud la información y documentación siguiente: I. Aquellos a que se refieren las fracciones I, párrafo primero, II, III, V, VII, IX, X, XI, XII y XVI del artículo [22](articulo-22.md) del presente Reglamento;
+Para efecto de los permisos previstos en la fracción II del artículo [20](articulo-20.md), en adición a los requisitos que señala el artículo [21](articulo-21.md), el solicitante deberá acompañar a su solicitud la información y documentación siguiente:
+
+I. Aquellos a que se refieren las fracciones I, párrafo primero, II, III, V, VII, IX, X, XI, XII y XVI del artículo [22](articulo-22.md) del presente Reglamento;
 
 II. Exhibir los documentos, certificados por fedatario público, que acrediten la propiedad o legal posesión del inmueble en el que se vaya a instalar el establecimiento;
 

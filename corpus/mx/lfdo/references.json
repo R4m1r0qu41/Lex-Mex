@@ -46,19 +46,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1:reference:817-818:11-bis-1:direct",
+    "id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1:reference:818-819:11-bis-1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1",
     "source_span": "I",
-    "start_char": 817,
-    "end_char": 818,
+    "start_char": 818,
+    "end_char": 819,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfdo",
     "target_provision_id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 817,
-        "end_char": 818
+        "start_char": 818,
+        "end_char": 819
       }
     ],
     "basis": "express_cross_reference",
@@ -69,19 +69,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1:reference:821-824:11-bis-1:direct",
+    "id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1:reference:822-825:11-bis-1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1",
     "source_span": "III",
-    "start_char": 821,
-    "end_char": 824,
+    "start_char": 822,
+    "end_char": 825,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfdo",
     "target_provision_id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "III",
-        "start_char": 821,
-        "end_char": 824
+        "start_char": 822,
+        "end_char": 825
       }
     ],
     "basis": "express_cross_reference",

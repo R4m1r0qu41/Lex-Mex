@@ -31,7 +31,9 @@ II. En el caso de personas físicas que obtengan ingresos por otorgar el uso o g
 
 El impuesto sobre los ingresos por otorgar el uso o goce temporal de bienes inmuebles corresponderá a la Entidad Federativa en donde se encuentre ubicado el inmueble de que se trate, con independencia de que el contribuyente tenga su domicilio fiscal fuera de dicha Entidad Federativa.
 
-III. En el caso de personas físicas que obtengan ingresos por enajenación de bienes inmuebles, la tasa del impuesto que se podrá establecer será entre el 2% y el 5%, y se deberá aplicar sobre la ganancia obtenida por la enajenación de inmuebles ubicados en la Entidad Federativa de que se trate, con independencia de que el contribuyente tenga su domicilio fiscal fuera de dicha Entidad Federativa. IV. Tratándose de personas físicas que obtengan ingresos por actividades empresariales, la tasa del impuesto que se podrá establecer será entre el 2% y el 5%.
+III. En el caso de personas físicas que obtengan ingresos por enajenación de bienes inmuebles, la tasa del impuesto que se podrá establecer será entre el 2% y el 5%, y se deberá aplicar sobre la ganancia obtenida por la enajenación de inmuebles ubicados en la Entidad Federativa de que se trate, con independencia de que el contribuyente tenga su domicilio fiscal fuera de dicha Entidad Federativa.
+
+IV. Tratándose de personas físicas que obtengan ingresos por actividades empresariales, la tasa del impuesto que se podrá establecer será entre el 2% y el 5%.
 
 Las Entidades Federativas que establezcan el impuesto a que se refiere esta fracción, únicamente podrán gravar la utilidad gravable obtenida por los contribuyentes, por los establecimientos, sucursales o agencias que se encuentren en la Entidad Federativa de que se trate.
 

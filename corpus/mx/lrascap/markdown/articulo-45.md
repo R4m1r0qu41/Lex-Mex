@@ -19,7 +19,9 @@ source_sha256: b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644
 
 El [Comité Técnico](articulo-2.md) del [Fondo de Protección](articulo-2.md) estará integrado por nueve representantes del sector de las Sociedades Cooperativas de Ahorro y Préstamo que deberán cumplir con los requisitos señalados en el Artículo [46](articulo-46.md) siguiente. El contrato constitutivo del Fondo de Protección deberá prever que las designaciones de los integrantes del Comité Técnico se efectúen previa opinión favorable de la [Comisión](articulo-2.md).
 
-Al efecto, la [Confederación](articulo-2.md) deberá asegurarse que dichas designaciones promuevan una adecuada representatividad del sector, para lo cual el Comité Técnico deberá integrarse con la proporcionalidad siguiente: I. La Confederación elegirá a cinco de sus integrantes y sus respectivos suplentes. Las bases constitutivas de esta deberán estipular de manera expresa el procedimiento a seguir para la elección de los candidatos, a fin de asegurar la adecuada representatividad de estos.
+Al efecto, la [Confederación](articulo-2.md) deberá asegurarse que dichas designaciones promuevan una adecuada representatividad del sector, para lo cual el Comité Técnico deberá integrarse con la proporcionalidad siguiente:
+
+I. La Confederación elegirá a cinco de sus integrantes y sus respectivos suplentes. Las bases constitutivas de esta deberán estipular de manera expresa el procedimiento a seguir para la elección de los candidatos, a fin de asegurar la adecuada representatividad de estos.
 
 II. Las [Federaciones](articulo-2.md) elegirán a cuatro de sus integrantes y sus respectivos suplentes, de conformidad con lo siguiente:
 

@@ -85,7 +85,9 @@ c) Prestar servicios de caja de seguridad.
 
 d) Ofrecer el servicio de abono y descuento en nómina.
 
-e) Realizar la compra venta de divisas en ventanilla por cuenta propia o de terceros. III. Sociedades Cooperativas de Ahorro y Préstamo con nivel de operaciones III:
+e) Realizar la compra venta de divisas en ventanilla por cuenta propia o de terceros.
+
+III. Sociedades Cooperativas de Ahorro y Préstamo con nivel de operaciones III:
 
 a) Las operaciones señaladas en las fracciones I y II anteriores.
 

@@ -370,6 +370,27 @@ the 113 restored instruments; (3) re-ingest the 3 changed sources (`cpeum`, `cub
   issues, terms and evidence text; read the source for every id added or removed and every count
   failure; then rerun the full baseline and `link --all`.
 
+## Checkpoint 2026-11-12 (batch of 112)
+
+- Texts copied into `.work/` after re-checking each SHA-256 against the manifest (112 of 112).
+  First-ever fidelity check of the committed 112 ("before"): 13,837 of 13,959 provisions pass,
+  93 instruments fully pass.
+- Reparse in a fresh root from `0e70a0510`, classified by whole-folder diff (script
+  `classify.py` in the session scratchpad). **Held 2:** `lieps` (parse stops: glossary profile
+  reviewed against different text; JRH) and `lftr` (recorded `repealed`, an accepted closure
+  gap; the reparse adds 3 ids and fails validation; operator). **Adopted 110:** 107 change,
+  3 reparse byte-identical (`reg-lieps`, `reg-lss-rfar`, `servinv-dcg-2013`). Every token change
+  (340 spans in 56 instruments) is a deletion of non-legal text, by class: running law titles in
+  capitals (232; 186 mid-provision, 46 at the end), leaked Título/Capítulo/Sección headings at
+  the end of a provision (56, the heading now in `heading_context`; 294 heading contexts filled,
+  none replaced), promulgation and signature blocks (53, all suffixes), elided decree-article
+  runs (2: `lsat`, `lfisan`, closing the P2 remainder). No id added or removed, no validation
+  issue added, no term lost, no reform-evidence text lost. 44 edges lost, all inside deleted
+  text (38 the CPEUM art. 89 citation in promulgation blocks, the rest in running titles); 37
+  gained. Temporal: 98 provisions gain `deterministic_rule`/`machine_accepted` (81 `unknown` to
+  `effective`, 17 repeal markers already `repealed`); no value lost. `verify-fidelity` on the
+  110: 13,430 → 13,433 of 13,551 pass, 92 → 94 instruments fully pass, none worse.
+
 ### Added milestone
 
 - **P2. Reform-decree omission lines** ("Artículo(s) Segundo a … .- ……" / "……….." between the

@@ -19,7 +19,9 @@ source_sha256: 8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06
 
 En el certificado de seguro de caución se consignarán:
 
-I. El nombre y domicilio de la empresa de seguros, del contratante del seguro y del asegurado; II. Las obligaciones legales o contractuales del contratante del seguro materia del riesgo asegurado;
+I. El nombre y domicilio de la empresa de seguros, del contratante del seguro y del asegurado;
+
+II. Las obligaciones legales o contractuales del contratante del seguro materia del riesgo asegurado;
 
 III. La suma asegurada o, en su caso, el monto convenido de la indemnización;
 

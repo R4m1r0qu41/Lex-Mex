@@ -31,7 +31,9 @@ IV. La forma en que el beneficiario deberá acreditar a la Institución el incum
 
 V. El momento de inicio de la fianza y, en su caso, su vigencia;
 
-VI. Las demás cláusulas que deban regir la póliza de acuerdo con las disposiciones legales, reglamentarias y administrativas aplicables, y VII. La firma del representante de la Institución.
+VI. Las demás cláusulas que deban regir la póliza de acuerdo con las disposiciones legales, reglamentarias y administrativas aplicables, y
+
+VII. La firma del representante de la Institución.
 
 El beneficiario, al ejercitar su derecho, deberá comprobar por escrito que la póliza fue otorgada. En caso de pérdida o extravío, el beneficiario podrá exigir a la Institución de que se trate, que le proporcione, a su costa, un duplicado de la póliza emitida a su favor.
 

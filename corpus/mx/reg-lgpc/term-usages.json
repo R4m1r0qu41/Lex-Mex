@@ -19,30 +19,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3021-3027",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3022-3028",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
     "span": "Alerta",
-    "start_char": 3021,
-    "end_char": 3027
+    "start_char": 3022,
+    "end_char": 3028
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3148-3155",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3149-3156",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
     "span": "Alertas",
-    "start_char": 3148,
-    "end_char": 3155
+    "start_char": 3149,
+    "end_char": 3156
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3274-3281",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2:term-usage:3275-3282",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:alerta",
     "span": "Alertas",
-    "start_char": 3274,
-    "end_char": 3281
+    "start_char": 3275,
+    "end_char": 3282
   },
   {
     "schema_version": "0.1.0",
@@ -280,12 +280,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:43:term-usage:492-495",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:43:term-usage:493-496",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:43",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:ley",
     "span": "Ley",
-    "start_char": 492,
-    "end_char": 495
+    "start_char": 493,
+    "end_char": 496
   },
   {
     "schema_version": "0.1.0",
@@ -649,12 +649,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71:term-usage:1111-1129",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71:term-usage:1112-1130",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:71",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:cuerpos-de-auxilio",
     "span": "Cuerpos de Auxilio",
-    "start_char": 1111,
-    "end_char": 1129
+    "start_char": 1112,
+    "end_char": 1130
   },
   {
     "schema_version": "0.1.0",
@@ -676,12 +676,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:76:term-usage:1515-1529",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpc:article:76:term-usage:1516-1530",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:76",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgpc:term:autoproteccion",
     "span": "Autoprotección",
-    "start_char": 1515,
-    "end_char": 1529
+    "start_char": 1516,
+    "end_char": 1530
   },
   {
     "schema_version": "0.1.0",

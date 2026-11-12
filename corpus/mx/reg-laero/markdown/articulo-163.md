@@ -23,7 +23,9 @@ I. Elaborar y aprobar el Programa Nacional de Seguridad Aeroportuaria que debe e
 
 II. Determinar los lineamientos y reglas de coordinación entre las diferentes autoridades adscritas al aeródromo en el desarrollo de sus funciones y, en su caso, con cualquier otra autoridad federal, estatal o municipal que se requiera;
 
-III. Señalar los lineamientos y reglas de coordinación entre las autoridades mencionadas en la fracción anterior, para la constitución y funcionamiento de los centros operativos de emergencia; IV. Determinar las acciones y aplicar medidas a seguir cuando se presente una contingencia o emergencia, conforme a las disposiciones aplicables;
+III. Señalar los lineamientos y reglas de coordinación entre las autoridades mencionadas en la fracción anterior, para la constitución y funcionamiento de los centros operativos de emergencia;
+
+IV. Determinar las acciones y aplicar medidas a seguir cuando se presente una contingencia o emergencia, conforme a las disposiciones aplicables;
 
 V. Expedir su reglamento interno;
 

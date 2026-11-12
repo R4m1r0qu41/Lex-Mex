@@ -23,6 +23,8 @@ I. Los datos de identificación del expediente en que se actúa;
 
 II. El tipo de actividad que autoriza;
 
-III. El lapso durante el cual se autoriza la medida; IV. En caso necesario, la autorización expresa para instalar o remover cualquier instrumento o medio de intervención, y
+III. El lapso durante el cual se autoriza la medida;
+
+IV. En caso necesario, la autorización expresa para instalar o remover cualquier instrumento o medio de intervención, y
 
 V. Cualquier apreciación que el juez considere necesaria.

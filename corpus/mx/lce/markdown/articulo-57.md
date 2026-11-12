@@ -26,5 +26,3 @@ II. No imponer cuota compensatoria provisional y continuar con la investigación
 III. Dar por concluida la investigación administrativa cuando no existan pruebas suficientes de la discriminación de precios o subvención, del daño alegado o de la relación causal entre ambos. Fracción reformada DOF 13-03-2003
 
 La resolución preliminar deberá publicarse en el Diario Oficial de la Federación y posteriormente notificarse a las partes interesadas de que se tenga conocimiento. Párrafo reformado DOF 13-03-2003
-
-Sección segunda Resolución final

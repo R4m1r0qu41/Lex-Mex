@@ -21,7 +21,9 @@ Para efectos de esta Ley, por Seguridad Nacional se entienden las acciones desti
 
 I. La protección de la nación mexicana frente a las amenazas y riesgos que enfrente nuestro país;
 
-II. La preservación de la soberanía e independencia nacionales y la defensa del territorio; III. El mantenimiento del orden constitucional y el fortalecimiento de las instituciones democráticas de gobierno;
+II. La preservación de la soberanía e independencia nacionales y la defensa del territorio;
+
+III. El mantenimiento del orden constitucional y el fortalecimiento de las instituciones democráticas de gobierno;
 
 IV. El mantenimiento de la unidad de las partes integrantes de la Federación señaladas en el artículo [43](../../cpeum/markdown/articulo-43.md) de la Constitución Política de los Estados Unidos Mexicanos;
 

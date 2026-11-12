@@ -29,7 +29,9 @@ Los depósitos a que se refiere esta fracción, no conferirán a los menores el 
 
 II. Otorgar préstamos a sus Socios.
 
-III. Transmisión de dinero con sus Socios, siempre que en la realización de tales operaciones se sujeten a las disposiciones aplicables en dicha materia, así como que una de las partes, ya sea el ordenante o el beneficiario, sea Socio de la respectiva Sociedad Cooperativa de Ahorro y Préstamo. IV. Recibir créditos de entidades financieras nacionales o extranjeras, organismos internacionales, así como instituciones integrantes de la Administración Pública y Federal o Estatal y fideicomisos públicos. Fracción reformada DOF 10-01-2014
+III. Transmisión de dinero con sus Socios, siempre que en la realización de tales operaciones se sujeten a las disposiciones aplicables en dicha materia, así como que una de las partes, ya sea el ordenante o el beneficiario, sea Socio de la respectiva Sociedad Cooperativa de Ahorro y Préstamo.
+
+IV. Recibir créditos de entidades financieras nacionales o extranjeras, organismos internacionales, así como instituciones integrantes de la Administración Pública y Federal o Estatal y fideicomisos públicos. Fracción reformada DOF 10-01-2014
 
 V. Efectuar la distribución y pago de productos, servicios y programas gubernamentales.
 

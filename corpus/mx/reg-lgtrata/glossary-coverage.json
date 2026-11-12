@@ -8,10 +8,11 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
-      "provision_text_sha256": "93dea9ebefa72269081d82d6369029a80452dcc0a68d5573b8444aa597e898c9",
+      "provision_text_sha256": "23528b10b159079daaa7a13a9f8377227858e41d8f7d58de05ddbd94f5e515fd",
       "method": "established_pass",
       "fractions": [
         "I",
+        "II",
         "III",
         "IV",
         "V",
@@ -26,13 +27,14 @@
         "XIV",
         "XV",
         "XVI",
-        "XVII"
+        "XVII",
+        "XVIII"
       ],
       "unread_fractions": [],
-      "term_count": 16
+      "term_count": 18
     }
   ],
   "imports": [],
-  "term_count": 16,
-  "usage_count": 84
+  "term_count": 18,
+  "usage_count": 90
 }

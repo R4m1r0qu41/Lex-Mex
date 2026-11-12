@@ -29,7 +29,9 @@ C. Secretaría de Medio Ambiente y Recursos Naturales; Inciso reformado DOF 22-0
 
 D. Secretaría de Energía; Inciso reformado DOF 22-05-2014
 
-E. Secretaría de Economía; Inciso reformado DOF 22-05-2014 F. Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Inciso reformado DOF 22-05-2014
+E. Secretaría de Economía; Inciso reformado DOF 22-05-2014
+
+F. Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; Inciso reformado DOF 22-05-2014
 
 G. Secretaría de Comunicaciones y Transportes;
 

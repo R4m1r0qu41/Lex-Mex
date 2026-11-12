@@ -25,6 +25,8 @@ I. Nombre del promovente;
 
 II. Fecha de la presentación de la solicitud;
 
-III. Nombre del proyecto e identificación de los elementos que lo integran; IV. Tipo de estudio presentado: informe preventivo o manifestación de impacto ambiental y su modalidad, y
+III. Nombre del proyecto e identificación de los elementos que lo integran;
+
+IV. Tipo de estudio presentado: informe preventivo o manifestación de impacto ambiental y su modalidad, y
 
 V. Lugar en donde se pretende llevar a cabo la obra o la actividad, indicando el Estado y el Municipio.

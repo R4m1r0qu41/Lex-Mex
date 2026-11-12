@@ -27,7 +27,9 @@ III. Buena Fe: Conducta diligente y prudente exenta de culpa en todo acto o nego
 
 IV. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
-V. Cuenta Especial: La cuenta en la que la [Autoridad Administradora](articulo-2.md), en el ámbito federal, depositará las cantidades remanentes una vez aplicados los recursos federales correspondientes en términos del artículo [234](articulo-234.md) de esta Ley, hasta en tanto se determine su destino final por el [Gabinete Social de la Presidencia de la República](articulo-2.md) o bien, por la autoridad que determinen las Entidades Federativas; VI. Disposición Anticipada: Asignación de los Bienes durante el proceso de extinción de dominio previo a la emisión de la resolución definitiva para su uso, usufructo, asignación o aprovechamiento de los Bienes, para programas sociales o políticas públicas prioritarias;
+V. Cuenta Especial: La cuenta en la que la [Autoridad Administradora](articulo-2.md), en el ámbito federal, depositará las cantidades remanentes una vez aplicados los recursos federales correspondientes en términos del artículo [234](articulo-234.md) de esta Ley, hasta en tanto se determine su destino final por el [Gabinete Social de la Presidencia de la República](articulo-2.md) o bien, por la autoridad que determinen las Entidades Federativas;
+
+VI. Disposición Anticipada: Asignación de los Bienes durante el proceso de extinción de dominio previo a la emisión de la resolución definitiva para su uso, usufructo, asignación o aprovechamiento de los Bienes, para programas sociales o políticas públicas prioritarias;
 
 VII. Entidades Federativas: Las partes integrantes de la Federación a que se refiere el artículo 43 de la [Constitución](articulo-2.md);
 
@@ -55,6 +57,8 @@ XVIII. Parte Actora: El [Ministerio Público](articulo-2.md) que ejercite la acc
 
 XIX. Persona Afectada: Cualquier persona física o jurídica que alegue una vulneración a su derecho en relación con el bien objeto del procedimiento de extinción de dominio;
 
-XX. Parte Demandada: Aquella o aquellas personas físicas o jurídicas titulares de los Bienes objeto de extinción de dominio, en los términos establecidos en el artículo 22 de la Constitución y esta Ley; XXI. Venta Anticipada: La enajenación de Bienes previo a la emisión de la sentencia definitiva en materia de extinción de dominio;
+XX. Parte Demandada: Aquella o aquellas personas físicas o jurídicas titulares de los Bienes objeto de extinción de dominio, en los términos establecidos en el artículo 22 de la Constitución y esta Ley;
+
+XXI. Venta Anticipada: La enajenación de Bienes previo a la emisión de la sentencia definitiva en materia de extinción de dominio;
 
 XXII. Víctima u Ofendido: Para efectos de esta Ley, se considerará como el titular del bien jurídico lesionado o puesto en peligro con la ejecución del Hecho Ilícito que fue sustento para el ejercicio de la acción de extinción de dominio, o bien, la persona que haya sufrido algún daño directo o menoscabo económico, físico, mental, emocional o, en general, cualquier puesta en peligro o lesión a sus bienes jurídicos o derechos, como consecuencia de los casos señalados en esta Ley.

@@ -55,48 +55,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:993-1000",
+    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:994-1001",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo",
     "span": "Archivo",
-    "start_char": 993,
-    "end_char": 1000
+    "start_char": 994,
+    "end_char": 1001
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:2518-2521",
+    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:2519-2522",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
     "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
     "span": "Ley",
-    "start_char": 2518,
-    "end_char": 2521
+    "start_char": 2519,
+    "end_char": 2522
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:4001-4016",
+    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:4003-4018",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
     "span": "Archivo General",
-    "start_char": 4001,
-    "end_char": 4016
+    "start_char": 4003,
+    "end_char": 4018
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:9295-9310",
+    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:9298-9313",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
     "span": "Archivo General",
-    "start_char": 9295,
-    "end_char": 9310
+    "start_char": 9298,
+    "end_char": 9313
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:9369-9384",
+    "id": "urn:lex-mx:federal:statute:lga:article:4:term-usage:9372-9387",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:4",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
     "span": "Archivo General",
-    "start_char": 9369,
-    "end_char": 9384
+    "start_char": 9372,
+    "end_char": 9387
   },
   {
     "schema_version": "0.1.0",
@@ -271,12 +271,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:30:term-usage:643-646",
+    "id": "urn:lex-mx:federal:statute:lga:article:30:term-usage:644-647",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:30",
     "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
     "span": "Ley",
-    "start_char": 643,
-    "end_char": 646
+    "start_char": 644,
+    "end_char": 647
   },
   {
     "schema_version": "0.1.0",
@@ -289,21 +289,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:31:term-usage:2001-2016",
+    "id": "urn:lex-mx:federal:statute:lga:article:31:term-usage:2002-2017",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:31",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
     "span": "Archivo General",
-    "start_char": 2001,
-    "end_char": 2016
+    "start_char": 2002,
+    "end_char": 2017
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:31:term-usage:2110-2126",
+    "id": "urn:lex-mx:federal:statute:lga:article:31:term-usage:2111-2127",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:31",
     "term_id": "urn:lex-mx:federal:statute:lga:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 2110,
-    "end_char": 2126
+    "start_char": 2111,
+    "end_char": 2127
   },
   {
     "schema_version": "0.1.0",
@@ -829,39 +829,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:73:term-usage:481-497",
+    "id": "urn:lex-mx:federal:statute:lga:article:73:term-usage:482-498",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:73",
     "term_id": "urn:lex-mx:federal:statute:lga:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 481,
-    "end_char": 497
+    "start_char": 482,
+    "end_char": 498
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:73:term-usage:503-519",
+    "id": "urn:lex-mx:federal:statute:lga:article:73:term-usage:504-520",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:73",
     "term_id": "urn:lex-mx:federal:statute:lga:term:consejos-locales",
     "span": "Consejos Locales",
-    "start_char": 503,
-    "end_char": 519
+    "start_char": 504,
+    "end_char": 520
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:73:term-usage:972-988",
+    "id": "urn:lex-mx:federal:statute:lga:article:73:term-usage:973-989",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:73",
     "term_id": "urn:lex-mx:federal:statute:lga:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 972,
-    "end_char": 988
+    "start_char": 973,
+    "end_char": 989
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:73:term-usage:1110-1113",
+    "id": "urn:lex-mx:federal:statute:lga:article:73:term-usage:1111-1114",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:73",
     "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
     "span": "Ley",
-    "start_char": 1110,
-    "end_char": 1113
+    "start_char": 1111,
+    "end_char": 1114
   },
   {
     "schema_version": "0.1.0",
@@ -1270,12 +1270,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:106:term-usage:4653-4656",
+    "id": "urn:lex-mx:federal:statute:lga:article:106:term-usage:4655-4658",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:106",
     "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
     "span": "Ley",
-    "start_char": 4653,
-    "end_char": 4656
+    "start_char": 4655,
+    "end_char": 4658
   },
   {
     "schema_version": "0.1.0",
@@ -1387,30 +1387,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:110:term-usage:420-438",
+    "id": "urn:lex-mx:federal:statute:lga:article:110:term-usage:421-439",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:110",
     "term_id": "urn:lex-mx:federal:statute:lga:term:organo-de-gobierno",
     "span": "Órgano de Gobierno",
-    "start_char": 420,
-    "end_char": 438
+    "start_char": 421,
+    "end_char": 439
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:110:term-usage:694-712",
+    "id": "urn:lex-mx:federal:statute:lga:article:110:term-usage:695-713",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:110",
     "term_id": "urn:lex-mx:federal:statute:lga:term:organo-de-gobierno",
     "span": "Órgano de Gobierno",
-    "start_char": 694,
-    "end_char": 712
+    "start_char": 695,
+    "end_char": 713
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:110:term-usage:875-893",
+    "id": "urn:lex-mx:federal:statute:lga:article:110:term-usage:876-894",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:110",
     "term_id": "urn:lex-mx:federal:statute:lga:term:organo-de-gobierno",
     "span": "Órgano de Gobierno",
-    "start_char": 875,
-    "end_char": 893
+    "start_char": 876,
+    "end_char": 894
   },
   {
     "schema_version": "0.1.0",
@@ -1459,66 +1459,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:214-229",
+    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:215-230",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:112",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
     "span": "Archivo General",
-    "start_char": 214,
-    "end_char": 229
+    "start_char": 215,
+    "end_char": 230
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:377-395",
+    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:378-396",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:112",
     "term_id": "urn:lex-mx:federal:statute:lga:term:organo-de-gobierno",
     "span": "Órgano de Gobierno",
-    "start_char": 377,
-    "end_char": 395
+    "start_char": 378,
+    "end_char": 396
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:446-461",
+    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:447-462",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:112",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
     "span": "Archivo General",
-    "start_char": 446,
-    "end_char": 461
+    "start_char": 447,
+    "end_char": 462
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:481-499",
+    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:482-500",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:112",
     "term_id": "urn:lex-mx:federal:statute:lga:term:organo-de-gobierno",
     "span": "Órgano de Gobierno",
-    "start_char": 481,
-    "end_char": 499
+    "start_char": 482,
+    "end_char": 500
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:587-602",
+    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:588-603",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:112",
     "term_id": "urn:lex-mx:federal:statute:lga:term:archivo-general",
     "span": "Archivo General",
-    "start_char": 587,
-    "end_char": 602
+    "start_char": 588,
+    "end_char": 603
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:640-658",
+    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:641-659",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:112",
     "term_id": "urn:lex-mx:federal:statute:lga:term:organo-de-gobierno",
     "span": "Órgano de Gobierno",
-    "start_char": 640,
-    "end_char": 658
+    "start_char": 641,
+    "end_char": 659
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:694-697",
+    "id": "urn:lex-mx:federal:statute:lga:article:112:term-usage:695-698",
     "provision_id": "urn:lex-mx:federal:statute:lga:article:112",
     "term_id": "urn:lex-mx:federal:statute:lga:term:ley",
     "span": "Ley",
-    "start_char": 694,
-    "end_char": 697
+    "start_char": 695,
+    "end_char": 698
   },
   {
     "schema_version": "0.1.0",

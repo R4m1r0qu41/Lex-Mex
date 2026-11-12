@@ -23,4 +23,6 @@ Previo análisis y opinión del Consejo Asesor del área natural protegida de qu
 
 I. Las condiciones naturales y originales del área hayan cambiado debido a la presencia de fenómenos naturales y se requiera el planteamiento de estrategias y acciones distintas a las establecidas en el programa vigente;
 
-II. Técnicamente se demuestre que no pueden cumplirse estrategias o acciones establecidas en el programa vigente, o III. Técnicamente se demuestre la necesidad de adecuar la delimitación, extensión o ubicación de las subzonas señaladas en la declaratoria correspondiente.
+II. Técnicamente se demuestre que no pueden cumplirse estrategias o acciones establecidas en el programa vigente, o
+
+III. Técnicamente se demuestre la necesidad de adecuar la delimitación, extensión o ubicación de las subzonas señaladas en la declaratoria correspondiente.

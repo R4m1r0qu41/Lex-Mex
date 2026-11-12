@@ -21,7 +21,9 @@ Las inversiones cuya deducción autoriza este Título, excepto las reguladas por
 
 I. 5% para construcciones.
 
-II. 10% para gastos de instalación. III. 30% para equipo de cómputo electrónico, consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida, usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente, así como para el equipo periférico de dicho equipo de cómputo, tal como unidades de discos ópticos, impresoras, lectores ópticos, graficadores, unidades de respaldo, lectores de código de barras, digitalizadores, unidades de almacenamiento externo, así como monitores y teclados conectados a un equipo de cómputo.
+II. 10% para gastos de instalación.
+
+III. 30% para equipo de cómputo electrónico, consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida, usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente, así como para el equipo periférico de dicho equipo de cómputo, tal como unidades de discos ópticos, impresoras, lectores ópticos, graficadores, unidades de respaldo, lectores de código de barras, digitalizadores, unidades de almacenamiento externo, así como monitores y teclados conectados a un equipo de cómputo.
 
 IV. 10% para equipo y bienes muebles tangibles, no comprendidas en las fracciones anteriores.
 

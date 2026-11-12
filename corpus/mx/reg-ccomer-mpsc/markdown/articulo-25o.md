@@ -23,7 +23,9 @@ I. Reincida en cualquiera de las conductas u omisiones a que se refiere el [art�
 
 II. Cambie su domicilio, objeto social o estatutos sin dar aviso previo a la Secretaría, dentro del plazo previsto en el artículo [21](articulo-21o.md)o. del presente Reglamento;
 
-III. Omita notificar a la Secretaría la iniciación de la prestación de servicios de certificación dentro de los cuarenta y cinco días naturales siguientes al comienzo de dicha actividad; IV. Omita remitir a la Secretaría una copia de cada Certificado por él generado;
+III. Omita notificar a la Secretaría la iniciación de la prestación de servicios de certificación dentro de los cuarenta y cinco días naturales siguientes al comienzo de dicha actividad;
+
+IV. Omita remitir a la Secretaría una copia de cada Certificado por él generado;
 
 V. Omita poner a disposición del Firmante los dispositivos de generación de los Datos de Creación y de verificación de la Firma Electrónica, o
 

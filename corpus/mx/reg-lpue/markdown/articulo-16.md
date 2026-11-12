@@ -29,7 +29,9 @@ IV. El proyecto general y el proyecto ejecutivo correspondientes, así como los 
 
 V. La descripción de los servicios que se pretendan prestar;
 
-VI. La acreditación de que cuenta con los recursos financieros, materiales y humanos para realizar el proyecto, cuando existan obras por construir; VII. La copia certificada de los títulos de propiedad de los terrenos colindantes a la zona federal marítimo terrestre de que se trate, inscritos en el Registro Público de la Propiedad correspondiente;
+VI. La acreditación de que cuenta con los recursos financieros, materiales y humanos para realizar el proyecto, cuando existan obras por construir;
+
+VII. La copia certificada de los títulos de propiedad de los terrenos colindantes a la zona federal marítimo terrestre de que se trate, inscritos en el Registro Público de la Propiedad correspondiente;
 
 VIII. La garantía de trámite mediante cualquier forma prevista por el artículo [48](../../ltf/markdown/articulo-48.md) de la Ley de Tesorería de la Federación, por la cantidad equivalente a noventa y cinco veces la Unidad de Medida y Actualización;
 

@@ -33,7 +33,9 @@ El Comité podrá autorizar un monto de hasta 10 millones de pesos a proyectos a
 
 En el caso de los proyectos de inversión en la edición y publicación de obras literarias nacionales, el beneficio no podrá exceder de 500 mil pesos por proyecto de inversión ni de 2 millones de pesos por contribuyente. Fracción reformada DOF 09-12-2019
 
-III. El Comité Interinstitucional a que se refiere la fracción I de este artículo publicará a más tardar el último día de febrero de cada ejercicio fiscal, el monto del estímulo fiscal distribuido durante el ejercicio anterior, así como los contribuyentes beneficiados y los proyectos por los cuales fueron merecedores de dicho beneficio. IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional a que se refiere la fracción I de este artículo.
+III. El Comité Interinstitucional a que se refiere la fracción I de este artículo publicará a más tardar el último día de febrero de cada ejercicio fiscal, el monto del estímulo fiscal distribuido durante el ejercicio anterior, así como los contribuyentes beneficiados y los proyectos por los cuales fueron merecedores de dicho beneficio.
+
+IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional a que se refiere la fracción I de este artículo.
 
 El estímulo fiscal a que se refiere este artículo, no podrá aplicarse conjuntamente con otros tratamientos fiscales que otorguen beneficios o estímulos fiscales.
 

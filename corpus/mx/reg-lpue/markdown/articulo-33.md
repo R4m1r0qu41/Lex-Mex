@@ -23,7 +23,9 @@ I. El cesionario titular deberá estar al corriente en el cumplimiento de las ob
 
 II. La duración de la prórroga solicitada no podrá exceder la vigencia de la concesión de la administración portuaria integral de que se trate;
 
-III. La vigencia de la prórroga se podrá otorgar hasta por un plazo igual al otorgado en el contrato original, y IV. La solicitud de prórroga deberá presentarse ante la administración portuaria integral de que se trate, durante la última tercera parte del plazo original de vigencia y a más tardar seis meses antes de su conclusión, acompañando el programa de inversión y mantenimiento, tanto en materia de infraestructura como de equipamiento, que justifique el periodo solicitado en la prórroga.
+III. La vigencia de la prórroga se podrá otorgar hasta por un plazo igual al otorgado en el contrato original, y
+
+IV. La solicitud de prórroga deberá presentarse ante la administración portuaria integral de que se trate, durante la última tercera parte del plazo original de vigencia y a más tardar seis meses antes de su conclusión, acompañando el programa de inversión y mantenimiento, tanto en materia de infraestructura como de equipamiento, que justifique el periodo solicitado en la prórroga.
 
 El programa de inversión de infraestructura y mantenimiento deberá contener lo siguiente:
 

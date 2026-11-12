@@ -31,7 +31,9 @@ c) La situación patrimonial, tratándose de personas físicas, o los estados fi
 
 d) La información que permita verificar que cuentan con honorabilidad e historial crediticio y de negocios satisfactorios;
 
-III. Programa estratégico para la implementación de las políticas y normas a que se refiere el inciso b), de la fracción I del artículo [70](articulo-70.md) de esta Ley; IV. Nombres, nacionalidad, domicilios y ocupaciones de los probables consejeros y funcionarios, quienes deberán cumplir con los requisitos establecidos en los artículos del 56 al 58 de este ordenamiento;
+III. Programa estratégico para la implementación de las políticas y normas a que se refiere el inciso b), de la fracción I del artículo [70](articulo-70.md) de esta Ley;
+
+IV. Nombres, nacionalidad, domicilios y ocupaciones de los probables consejeros y funcionarios, quienes deberán cumplir con los requisitos establecidos en los artículos del 56 al 58 de este ordenamiento;
 
 V. Plan de actividades que, como mínimo, contemple:
 

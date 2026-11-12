@@ -20,5 +20,3 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 La vigencia de las medidas de salvaguarda podrá ser hasta de cuatro años y prorrogable hasta por seis años más, siempre que se justifique la necesidad de la misma, tomando en consideración el cumplimiento del programa de ajuste de la producción nacional.
 
 Artículo reformado DOF 13-03-2003
-
-Sección segunda Circunstancias críticas

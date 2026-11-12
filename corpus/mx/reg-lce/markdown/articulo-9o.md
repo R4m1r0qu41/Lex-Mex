@@ -35,7 +35,9 @@ VII. La exigencia del cumplimiento de las normas oficiales mexicanas por las aut
 
 VIII. El establecimiento de medidas de regulación y restricción no arancelarias de emergencia, establecidas conforme lo previsto en el artículo [19](../../lce/markdown/articulo-19.md) de la Ley;
 
-IX. El establecimiento de medidas de salvaguarda; X. El establecimiento de medidas en materia aduanera que afecten el comercio exterior;
+IX. El establecimiento de medidas de salvaguarda;
+
+X. El establecimiento de medidas en materia aduanera que afecten el comercio exterior;
 
 XI. El establecimiento de medidas de simplificación y eficiencia administrativa en materia de comercio exterior;
 

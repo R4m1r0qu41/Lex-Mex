@@ -31,7 +31,9 @@ V.- Lugar, fecha y hora en que los interesados podrán obtener las bases de lici
 
 VI.- Los criterios claros y detallados para la adjudicación del bien;
 
-VII.- Forma y términos para la formalización de la operación y entrega física del bien. En el caso de inmuebles, los gastos, incluyendo los de escrituración, serán por cuenta y responsabilidad absoluta del adquirente. Tratándose de contribuciones, éstas se enterarán por cada una de las partes que las causen; VIII.- El señalamiento de las causas de descalificación de la licitación;
+VII.- Forma y términos para la formalización de la operación y entrega física del bien. En el caso de inmuebles, los gastos, incluyendo los de escrituración, serán por cuenta y responsabilidad absoluta del adquirente. Tratándose de contribuciones, éstas se enterarán por cada una de las partes que las causen;
+
+VIII.- El señalamiento de las causas de descalificación de la licitación;
 
 IX.- La indicación de que ninguna de las condiciones de las bases de licitación, así como las proposiciones presentadas por los licitantes, podrán ser negociadas;
 

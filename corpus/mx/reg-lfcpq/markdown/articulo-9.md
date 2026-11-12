@@ -29,4 +29,4 @@ III. Denominación y, en su caso, cantidad o volumen del precursor químico o pr
 
 IV. Descripción de los hechos y fecha de presentación de la comunicación.
 
-La Secretaría de Salud integrará a la base de datos la información que reciba conforme a este artículo. REGLAMENTO DE LA LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS El Consejo dará aviso sobre el comunicado a que se refiere este artículo a la dependencia competente, la cual deberá verificar los datos que contenga y, en su caso, aplicar las medidas conducentes en términos de las disposiciones legales aplicables.
+La Secretaría de Salud integrará a la base de datos la información que reciba conforme a este artículo. El Consejo dará aviso sobre el comunicado a que se refiere este artículo a la dependencia competente, la cual deberá verificar los datos que contenga y, en su caso, aplicar las medidas conducentes en términos de las disposiciones legales aplicables.

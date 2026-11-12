@@ -23,4 +23,6 @@ I. Los estímulos deberán otorgarse en los términos que dispongan el artículo
 
 II. Los recursos para cubrir los estímulos deberán estar previstos en sus respectivos presupuestos;
 
-III. Los esquemas para el otorgamiento de los estímulos en las dependencias y entidades deberán contar con la autorización de la [Secretaría](articulo-2.md), por lo que respecta al control presupuestario, y IV. Los estímulos sólo podrán ser cubiertos a los servidores públicos que cuenten con nombramiento y ocupen una plaza presupuestaria.
+III. Los esquemas para el otorgamiento de los estímulos en las dependencias y entidades deberán contar con la autorización de la [Secretaría](articulo-2.md), por lo que respecta al control presupuestario, y
+
+IV. Los estímulos sólo podrán ser cubiertos a los servidores públicos que cuenten con nombramiento y ocupen una plaza presupuestaria.

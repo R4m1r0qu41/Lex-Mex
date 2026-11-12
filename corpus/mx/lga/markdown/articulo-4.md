@@ -21,7 +21,9 @@ Para los efectos de esta [Ley](articulo-4.md) se entenderá por:
 
 I. Acervo: Al conjunto de documentos producidos y recibidos por los sujetos obligados en el ejercicio de sus atribuciones y funciones con independencia del soporte, espacio o lugar que se resguarden;
 
-II. Actividad archivística: Al conjunto de acciones encaminadas a administrar, organizar, conservar y difundir documentos de archivo; III. Archivo: Al conjunto organizado de documentos producidos o recibidos por los sujetos obligados en el ejercicio de sus atribuciones y funciones, con independencia del soporte, espacio o lugar que se resguarden;
+II. Actividad archivística: Al conjunto de acciones encaminadas a administrar, organizar, conservar y difundir documentos de archivo;
+
+III. Archivo: Al conjunto organizado de documentos producidos o recibidos por los sujetos obligados en el ejercicio de sus atribuciones y funciones, con independencia del soporte, espacio o lugar que se resguarden;
 
 IV. Archivo de concentración: Al integrado por documentos transferidos desde las áreas o unidades productoras, cuyo uso y consulta es esporádica y que permanecen en él hasta su disposición documental;
 
@@ -49,7 +51,9 @@ XV. Consejos Locales: A los consejos de archivos de las entidades federativas;
 
 XVI. Consejo Nacional: Al Consejo Nacional de Archivos;
 
-XVII. Consejo Técnico: Al Consejo Técnico y Científico Archivístico; XVIII. Conservación de archivos: Al conjunto de procedimientos y medidas destinados a asegurar la prevención de alteraciones físicas de los documentos en papel y la preservación de los documentos digitales a largo plazo;
+XVII. Consejo Técnico: Al Consejo Técnico y Científico Archivístico;
+
+XVIII. Conservación de archivos: Al conjunto de procedimientos y medidas destinados a asegurar la prevención de alteraciones físicas de los documentos en papel y la preservación de los documentos digitales a largo plazo;
 
 XIX. Consulta de documentos: A las actividades relacionadas con la implantación de controles de acceso a los documentos debidamente organizados que garantizan el derecho que tienen los usuarios mediante la atención de requerimientos;
 
@@ -75,7 +79,9 @@ XXIX. Expediente: A la unidad documental compuesta por documentos de archivo, or
 
 XXX. Expediente electrónico: Al conjunto de documentos electrónicos correspondientes a un procedimiento administrativo, cualquiera que sea el tipo de información que contengan;
 
-XXXI. Ficha técnica de valoración documental: Al instrumento que permite identificar, analizar y establecer el contexto y valoración de la serie documental; XXXII. Firma electrónica avanzada: Al conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
+XXXI. Ficha técnica de valoración documental: Al instrumento que permite identificar, analizar y establecer el contexto y valoración de la serie documental;
+
+XXXII. Firma electrónica avanzada: Al conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
 
 XXXIII. Fondo: Al conjunto de documentos producidos orgánicamente por un sujeto obligado que se identifica con el nombre de este último;
 
@@ -99,7 +105,9 @@ XLII. Organización: Al conjunto de operaciones intelectuales y mecánicas desti
 
 XLIII. Órgano de Gobierno: Al Órgano de Gobierno del Archivo General;
 
-XLIV. Órgano de Vigilancia: Al Órgano de Vigilancia del Archivo General; XLV. Patrimonio documental: A los documentos que, por su naturaleza, no son sustituibles y dan cuenta de la evolución del Estado y de las personas e instituciones que han contribuido en su desarrollo; además de transmitir y heredar información significativa de la vida intelectual, social, política, económica, cultural y artística de una comunidad, incluyendo aquellos que hayan pertenecido o pertenezcan a los archivos de los órganos federales, entidades federativas, municipios, alcaldías de la Ciudad de México, casas curales o cualquier otra organización, sea religiosa o civil;
+XLIV. Órgano de Vigilancia: Al Órgano de Vigilancia del Archivo General;
+
+XLV. Patrimonio documental: A los documentos que, por su naturaleza, no son sustituibles y dan cuenta de la evolución del Estado y de las personas e instituciones que han contribuido en su desarrollo; además de transmitir y heredar información significativa de la vida intelectual, social, política, económica, cultural y artística de una comunidad, incluyendo aquellos que hayan pertenecido o pertenezcan a los archivos de los órganos federales, entidades federativas, municipios, alcaldías de la Ciudad de México, casas curales o cualquier otra organización, sea religiosa o civil;
 
 XLVI. Plazo de conservación: Al periodo de guarda de la documentación en los archivos de trámite y concentración, que consiste en la combinación de la vigencia documental y, en su caso, el término precautorio y periodo de reserva que se establezcan de conformidad con la normatividad aplicable;
 

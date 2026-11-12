@@ -21,6 +21,8 @@ La obtención de un [Certificado](articulo-2.md) comprenderá las siguientes eta
 
 I. Solicitud de Certificado;
 
-II. Presentación del [Informe de Auditoría Ambiental](articulo-2.md); III. [Plan de Acción](articulo-2.md), en su caso, y
+II. Presentación del [Informe de Auditoría Ambiental](articulo-2.md);
+
+III. [Plan de Acción](articulo-2.md), en su caso, y
 
 IV. Certificación.

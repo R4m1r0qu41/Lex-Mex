@@ -33,6 +33,8 @@ VI. La recolección de basura y desechos;
 
 VII. La eliminación de aguas residuales;
 
-VIII. La lavandería; IX. Las reparaciones a flote, y
+VIII. La lavandería;
+
+IX. Las reparaciones a flote, y
 
 X. Las demás actividades conexas con la operación portuaria que la Secretaría determine mediante acuerdo que publicará en el Diario Oficial de la Federación.

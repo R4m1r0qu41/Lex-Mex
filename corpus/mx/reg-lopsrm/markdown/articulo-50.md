@@ -25,7 +25,9 @@ El Comité de Testigos Sociales tendrá las siguientes funciones:
 
 I. Opinar sobre el registro de los interesados en el padrón público de testigos sociales, así como de la cancelación del mismo;
 
-II. Opinar sobre la designación del o los testigos sociales que participarán en los procedimientos de contratación a que se refiere el primer párrafo del artículo [27 Bis](../../lopsrm/markdown/articulo-27-Bis.md) de la Ley o en alguna otra disposición aplicable; III. Revisar y formular propuestas al proyecto de tabulador de las contraprestaciones que se cubrirán a los testigos sociales;
+II. Opinar sobre la designación del o los testigos sociales que participarán en los procedimientos de contratación a que se refiere el primer párrafo del artículo [27 Bis](../../lopsrm/markdown/articulo-27-Bis.md) de la Ley o en alguna otra disposición aplicable;
+
+III. Revisar y formular propuestas al proyecto de tabulador de las contraprestaciones que se cubrirán a los testigos sociales;
 
 IV. Coadyuvar con la Secretaría de la Función Pública en la evaluación de la participación de los testigos sociales en los procedimientos de contratación en los que intervengan;
 

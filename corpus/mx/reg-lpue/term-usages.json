@@ -46,30 +46,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:2:term-usage:1191-1196",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:2:term-usage:1192-1197",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpue:term:carga",
     "span": "Carga",
-    "start_char": 1191,
-    "end_char": 1196
+    "start_char": 1192,
+    "end_char": 1197
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:2:term-usage:1926-1929",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:2:term-usage:1927-1930",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpue:term:ley",
     "span": "Ley",
-    "start_char": 1926,
-    "end_char": 1929
+    "start_char": 1927,
+    "end_char": 1930
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:2:term-usage:2082-2085",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:2:term-usage:2083-2086",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpue:term:ley",
     "span": "Ley",
-    "start_char": 2082,
-    "end_char": 2085
+    "start_char": 2083,
+    "end_char": 2086
   },
   {
     "schema_version": "0.1.0",
@@ -361,21 +361,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:33:term-usage:2331-2344",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:33:term-usage:2332-2345",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpue:term:administrador",
     "span": "Administrador",
-    "start_char": 2331,
-    "end_char": 2344
+    "start_char": 2332,
+    "end_char": 2345
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:33:term-usage:2761-2764",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:33:term-usage:2762-2765",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpue:term:ley",
     "span": "Ley",
-    "start_char": 2761,
-    "end_char": 2764
+    "start_char": 2762,
+    "end_char": 2765
   },
   {
     "schema_version": "0.1.0",
@@ -847,12 +847,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:52:term-usage:1095-1103",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:article:52:term-usage:1096-1104",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:52",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpue:term:operadores",
     "span": "Operador",
-    "start_char": 1095,
-    "end_char": 1103
+    "start_char": 1096,
+    "end_char": 1104
   },
   {
     "schema_version": "0.1.0",

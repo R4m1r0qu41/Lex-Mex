@@ -29,4 +29,6 @@ IV.- La introducción de cultivos compatibles con los ecosistemas y que favorezc
 
 V.- La regulación ecológica de los asentamientos humanos; Fracción reformada DOF 13-12-1996
 
-VI.- La prevención de los fenómenos de erosión, deterioro de las propiedades físicas, químicas o biológicas del suelo y la pérdida duradera de la vegetación natural, y Fracción adicionada DOF 13-12-1996 VII.- La regeneración, recuperación y rehabilitación de las zonas afectadas por fenómenos de degradación o desertificación, a fin de restaurarlas. Fracción adicionada DOF 13-12-1996
+VI.- La prevención de los fenómenos de erosión, deterioro de las propiedades físicas, químicas o biológicas del suelo y la pérdida duradera de la vegetación natural, y Fracción adicionada DOF 13-12-1996
+
+VII.- La regeneración, recuperación y rehabilitación de las zonas afectadas por fenómenos de degradación o desertificación, a fin de restaurarlas. Fracción adicionada DOF 13-12-1996

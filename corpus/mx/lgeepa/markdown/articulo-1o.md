@@ -29,7 +29,9 @@ IV.- La preservación y protección de la biodiversidad, así como el establecim
 
 V.- El aprovechamiento sustentable, la preservación y, en su caso, la restauración del suelo, el agua y los demás recursos naturales, de manera que sean compatibles la obtención de beneficios económicos y las actividades de la sociedad con la preservación de los ecosistemas;
 
-VI.- La prevención y el control de la contaminación del aire, agua y suelo; VII.- Garantizar la participación corresponsable de las personas, en forma individual o colectiva, en la preservación y restauración del equilibrio ecológico y la protección al ambiente;
+VI.- La prevención y el control de la contaminación del aire, agua y suelo;
+
+VII.- Garantizar la participación corresponsable de las personas, en forma individual o colectiva, en la preservación y restauración del equilibrio ecológico y la protección al ambiente;
 
 VIII.- El ejercicio de las atribuciones que en materia ambiental corresponde a la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, bajo el principio de concurrencia previsto en el Artículo 73 fracción XXIX - G de la Constitución; Fracción reformada DOF 19-01-2018
 

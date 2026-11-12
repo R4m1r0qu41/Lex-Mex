@@ -27,6 +27,8 @@ I. Cada senador, comenzando por el ubicado del lado derecho del Presidente en el
 
 II. Un Secretario registra los votos a favor y otro los votos en contra y las abstenciones;
 
-III. Acto seguido el Secretario pregunta si falta alguien de emitir su voto y, en su caso, lo registra; y IV. Al término de lo anterior, votan los integrantes de la Mesa; el Presidente lo hace al final.
+III. Acto seguido el Secretario pregunta si falta alguien de emitir su voto y, en su caso, lo registra; y
+
+IV. Al término de lo anterior, votan los integrantes de la Mesa; el Presidente lo hace al final.
 
 4. Al concluir la votación la Secretaría informa el resultado al Presidente, quien hace la declaratoria correspondiente y ordena el trámite que procede.

@@ -23,7 +23,9 @@ I. El Secretario de Economía, quien lo presidirá;
 
 II. El Secretario de Hacienda y Crédito Público;
 
-III. El Secretario de Educación Pública; IV. El Secretario del Trabajo y Previsión Social;
+III. El Secretario de Educación Pública;
+
+IV. El Secretario del Trabajo y Previsión Social;
 
 V. El Secretario de Agricultura y Desarrollo Rural; Fracción reformada DOF 13-08-2019
 

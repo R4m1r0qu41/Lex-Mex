@@ -41,7 +41,9 @@ X. Orientar las políticas dirigidas al incremento de la productividad y la comp
 
 XI. Proponer mecanismos para el seguimiento y evaluación de las recomendaciones, acuerdos y las matrices de compromisos con indicadores de desempeño en términos del artículo [17](articulo-17.md) de esta Ley;
 
-XII. Establecer subcomités encargados del análisis, discusión y elaboración de recomendaciones y otras acciones requeridas para atender temas específicos del ámbito de su competencia considerados como prioritarios; así como subcomités encargados del diseño, elaboración e implementación de las políticas sectoriales y regionales; XIII. Establecer los convenios y las matrices de compromisos con acciones e indicadores de desempeño a que se refiere el artículo [17](articulo-17.md) de esta Ley;
+XII. Establecer subcomités encargados del análisis, discusión y elaboración de recomendaciones y otras acciones requeridas para atender temas específicos del ámbito de su competencia considerados como prioritarios; así como subcomités encargados del diseño, elaboración e implementación de las políticas sectoriales y regionales;
+
+XIII. Establecer los convenios y las matrices de compromisos con acciones e indicadores de desempeño a que se refiere el artículo [17](articulo-17.md) de esta Ley;
 
 XIV. Promover una relación estrecha y constante entre las instituciones de educación media superior y superior y la planta productiva de su región o de ciertos sectores específicos;
 

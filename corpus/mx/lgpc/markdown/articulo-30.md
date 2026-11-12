@@ -19,7 +19,9 @@ source_sha256: d8dd1de3627b899bb4faf31c2812c3d5f14f7108be153d5aa8dd549b9136184a
 
 Corresponde al Secretario Técnico:
 
-I. Suplir al secretario ejecutivo en sus ausencias; II. Elaborar y someter a la consideración del secretario ejecutivo, el proyecto de calendario de sesiones del [Consejo Nacional](articulo-2.md) y el proyecto de orden del día de cada sesión, para que en su momento sean sometidos a la aprobación del Consejo Nacional;
+I. Suplir al secretario ejecutivo en sus ausencias;
+
+II. Elaborar y someter a la consideración del secretario ejecutivo, el proyecto de calendario de sesiones del [Consejo Nacional](articulo-2.md) y el proyecto de orden del día de cada sesión, para que en su momento sean sometidos a la aprobación del Consejo Nacional;
 
 III. Coordinar la realización de los trabajos específicos y acciones que determine el Consejo Nacional;
 

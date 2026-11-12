@@ -21,7 +21,9 @@ Serán sancionados los servidores públicos de la [Comisión](articulo-2.md), co
 
 I. Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito.
 
-II. Permitan que los directivos o empleados de la Sociedad, alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito. III. Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito.
+II. Permitan que los directivos o empleados de la Sociedad, alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito.
+
+III. Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito.
 
 IV. Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito.
 

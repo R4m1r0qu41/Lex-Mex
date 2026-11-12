@@ -25,4 +25,6 @@ II. Las bases para la asesoría, promoción y apoyo para la ejecución de los Pr
 
 III. Las bases para el acopio, organización, análisis y difusión de la información regional, de las Entidades Federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México que se integre al Sistema General de Información y Consulta para la Planeación sobre los Sectores Productivos y Cadenas Productivas; Fracción reformada DOF 24-05-2018
 
-IV. El establecimiento y promoción de mecanismos que fomenten el desarrollo de proveedores y distribuidores del Sector Público y los Sectores, y REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA V. Las demás acciones e instrumentos de apoyo a las MIPYMES que la Secretaría acuerde con los gobiernos de las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México. Fracción reformada DOF 24-05-2018
+IV. El establecimiento y promoción de mecanismos que fomenten el desarrollo de proveedores y distribuidores del Sector Público y los Sectores, y
+
+V. Las demás acciones e instrumentos de apoyo a las MIPYMES que la Secretaría acuerde con los gobiernos de las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México. Fracción reformada DOF 24-05-2018

@@ -35,7 +35,7 @@ III. En el caso de sustitución patronal que no implique cambio de actividad, la
 
 IV. En los casos de fusión, invariablemente la empresa fusionante deberá proporcionar la información relativa a los riesgos de trabajo terminados en el último periodo anual previo a la fusión.
 
-Cuando la fusión no implique cambio de clase, pero la empresa fusionada y la fusionante tuvieren primas diferentes, las cuotas del Seguro de Riesgos de Trabajo deberán cubrirse con base en los REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN casos concretos de riesgos de trabajo terminados en el último periodo anual de la fusionante y la fusionada, y se fijará la nueva prima conforme al artículo [38](articulo-38.md) de este Reglamento, debiéndose comparar dicha prima con la que tuviera la empresa fusionante.
+Cuando la fusión no implique cambio de clase, pero la empresa fusionada y la fusionante tuvieren primas diferentes, las cuotas del Seguro de Riesgos de Trabajo deberán cubrirse con base en los casos concretos de riesgos de trabajo terminados en el último periodo anual de la fusionante y la fusionada, y se fijará la nueva prima conforme al artículo [38](articulo-38.md) de este Reglamento, debiéndose comparar dicha prima con la que tuviera la empresa fusionante.
 
 La prima resultante, definida en la forma indicada en el párrafo anterior, persistirá hasta el último día del mes de febrero posterior a la fusión.
 

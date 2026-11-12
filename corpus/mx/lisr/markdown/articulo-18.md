@@ -31,7 +31,9 @@ En los casos de reducción de capital o de liquidación, de sociedades mercantil
 
 En los casos de fusión o escisión de sociedades, no se considerará ingreso acumulable la ganancia derivada de dichos actos, cuando se cumplan los requisitos establecidos en el artículo [14-B](../../cff/markdown/articulo-14-B.md) del Código Fiscal de la Federación.
 
-V. Los pagos que se perciban por recuperación de un crédito deducido por incobrable. VI. La cantidad que se recupere por seguros, fianzas o responsabilidades a cargo de terceros, tratándose de pérdidas de bienes del contribuyente.
+V. Los pagos que se perciban por recuperación de un crédito deducido por incobrable.
+
+VI. La cantidad que se recupere por seguros, fianzas o responsabilidades a cargo de terceros, tratándose de pérdidas de bienes del contribuyente.
 
 VII. Las cantidades que el contribuyente obtenga como indemnización para resarcirlo de la disminución que en su productividad haya causado la muerte, accidente o enfermedad de técnicos o dirigentes.
 

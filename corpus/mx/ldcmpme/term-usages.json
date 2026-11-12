@@ -784,48 +784,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1438-1441",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1439-1442",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:12",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:ley",
     "span": "Ley",
-    "start_char": 1438,
-    "end_char": 1441
+    "start_char": 1439,
+    "end_char": 1442
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1490-1497",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1491-1498",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:12",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:mipymes",
     "span": "MIPYMES",
-    "start_char": 1490,
-    "end_char": 1497
+    "start_char": 1491,
+    "end_char": 1498
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1677-1696",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1678-1697",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:12",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:cadenas-productivas",
     "span": "Cadenas Productivas",
-    "start_char": 1677,
-    "end_char": 1696
+    "start_char": 1678,
+    "end_char": 1697
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1846-1849",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1847-1850",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:12",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:ley",
     "span": "Ley",
-    "start_char": 1846,
-    "end_char": 1849
+    "start_char": 1847,
+    "end_char": 1850
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1929-1938",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:12:term-usage:1930-1939",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:12",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:programas",
     "span": "Programas",
-    "start_char": 1929,
-    "end_char": 1938
+    "start_char": 1930,
+    "end_char": 1939
   },
   {
     "schema_version": "0.1.0",
@@ -1189,75 +1189,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1470-1477",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1471-1478",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:consejo",
     "span": "Consejo",
-    "start_char": 1470,
-    "end_char": 1477
+    "start_char": 1471,
+    "end_char": 1478
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1541-1549",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1542-1550",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:sectores",
     "span": "Sectores",
-    "start_char": 1541,
-    "end_char": 1549
+    "start_char": 1542,
+    "end_char": 1550
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1606-1609",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1607-1610",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:ley",
     "span": "Ley",
-    "start_char": 1606,
-    "end_char": 1609
+    "start_char": 1607,
+    "end_char": 1610
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1643-1653",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1644-1654",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1643,
-    "end_char": 1653
+    "start_char": 1644,
+    "end_char": 1654
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1769-1776",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1770-1777",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:consejo",
     "span": "Consejo",
-    "start_char": 1769,
-    "end_char": 1776
+    "start_char": 1770,
+    "end_char": 1777
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1893-1911",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:1894-1912",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:consejo-estatal",
     "span": "Consejos Estatales",
-    "start_char": 1893,
-    "end_char": 1911
+    "start_char": 1894,
+    "end_char": 1912
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:2214-2221",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:2215-2222",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:consejo",
     "span": "Consejo",
-    "start_char": 2214,
-    "end_char": 2221
+    "start_char": 2215,
+    "end_char": 2222
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:2299-2309",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:18:term-usage:2300-2310",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:18",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2299,
-    "end_char": 2309
+    "start_char": 2300,
+    "end_char": 2310
   },
   {
     "schema_version": "0.1.0",
@@ -1459,30 +1459,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:22:term-usage:1140-1147",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:22:term-usage:1141-1148",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:22",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:mipymes",
     "span": "MIPYMES",
-    "start_char": 1140,
-    "end_char": 1147
+    "start_char": 1141,
+    "end_char": 1148
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:22:term-usage:1220-1227",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:22:term-usage:1221-1228",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:22",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:mipymes",
     "span": "MIPYMES",
-    "start_char": 1220,
-    "end_char": 1227
+    "start_char": 1221,
+    "end_char": 1228
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldcmpme:article:22:term-usage:1309-1316",
+    "id": "urn:lex-mx:federal:statute:ldcmpme:article:22:term-usage:1310-1317",
     "provision_id": "urn:lex-mx:federal:statute:ldcmpme:article:22",
     "term_id": "urn:lex-mx:federal:statute:ldcmpme:term:mipymes",
     "span": "MIPYMES",
-    "start_char": 1309,
-    "end_char": 1316
+    "start_char": 1310,
+    "end_char": 1317
   },
   {
     "schema_version": "0.1.0",

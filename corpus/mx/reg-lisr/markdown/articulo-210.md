@@ -21,6 +21,8 @@ Para efectos del artículo [124](../../lisr/markdown/articulo-124.md), párrafo 
 
 I. Las obras de arte;
 
-II. Los automóviles cuya antigüedad de año modelo sea de 25 o más años a la fecha de la enajenación, y III. Los metales y piedras preciosas, las perlas y las manufacturas de joyería hechas con cualquiera de los citados bienes, siempre que dichos metales, piedras y perlas representen más del 50% del valor de las materias primas incorporadas.
+II. Los automóviles cuya antigüedad de año modelo sea de 25 o más años a la fecha de la enajenación, y
+
+III. Los metales y piedras preciosas, las perlas y las manufacturas de joyería hechas con cualquiera de los citados bienes, siempre que dichos metales, piedras y perlas representen más del 50% del valor de las materias primas incorporadas.
 
 Tratándose de bienes distintos de los señalados en las fracciones anteriores los contribuyentes podrán no disminuir el costo de adquisición en función de los años transcurridos, sólo mediante autorización previa de la autoridad fiscal.

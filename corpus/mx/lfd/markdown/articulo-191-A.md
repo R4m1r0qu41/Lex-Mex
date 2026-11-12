@@ -43,7 +43,9 @@ IV. Por el otorgamiento de una concesión para acuacultura comercial ...........
 
 V. Por la expedición de permiso para acuacultura de fomento ............................... $11,663.97 Fracción adicionada DOF 31-12-2000. Reformada DOF 30-12-2002
 
-VI. Por el otorgamiento de permiso para acuacultura didáctica ................................ . $3,946.17 Fracción adicionada DOF 31-12-2000. Reformada DOF 30-12-2002, 18-11-2010 VII. Por el otorgamiento de autorización para la sustitución de titular de los derechos de la concesión acuícola ................................................................................................................. $2,912.43 Fracción adicionada DOF 31-12-2000
+VI. Por el otorgamiento de permiso para acuacultura didáctica ................................ . $3,946.17 Fracción adicionada DOF 31-12-2000. Reformada DOF 30-12-2002, 18-11-2010
+
+VII. Por el otorgamiento de autorización para la sustitución de titular de los derechos de la concesión acuícola ................................................................................................................. $2,912.43 Fracción adicionada DOF 31-12-2000
 
 VIII. Por el otorgamiento de un permiso para acuacultura comercial .......................... $5,328.85 Fracción adicionada DOF 31-12-2000. Derogada DOF 27-11-2009. Adicionada DOF 09-12-2019
 

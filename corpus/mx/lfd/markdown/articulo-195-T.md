@@ -31,7 +31,9 @@ IV. Para talleres dedicados a la reparación de armas de fuego o gas ...........
 
 B. Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-I. De importación o exportación de armas, cartuchos y elementos constitutivos ............................................................................................... $21,836.78 II. Para la compra de cartuchos deportivos a los expendios autorizados ....... $3,378.37
+I. De importación o exportación de armas, cartuchos y elementos constitutivos ............................................................................................... $21,836.78
+
+II. Para la compra de cartuchos deportivos a los expendios autorizados ....... $3,378.37
 
 III. Por la ampliación de vigencia de un permiso ordinario de importación o exportación de armas y municiones ..................................................................................... $9,831.31
 
@@ -73,7 +75,9 @@ a). Por su revalidación .......................................................
 
 II. Anual para club o asociación de deportistas de tiro y cacería .................. $29,464.65
 
-III. Por el registro de un arma de fuego ............................................................... $201.30 IV. Por la expedición de cada constancia de registro .......................................... $622.24
+III. Por el registro de un arma de fuego ............................................................... $201.30
+
+IV. Por la expedición de cada constancia de registro .......................................... $622.24
 
 F. Por la expedición o revalidación de cada licencia para la portación de arma de fuego:
 

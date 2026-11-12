@@ -59,7 +59,9 @@ XIX. Ingreso devengado: el que se realiza cuando existe jurídicamente el derech
 
 XX. Inventario: la relación o lista de bienes muebles e inmuebles y mercancías comprendidas en el activo, la cual debe mostrar la descripción de los mismos, códigos de identificación y sus montos por grupos y clasificaciones específicas;
 
-XXI. Lista de cuentas: la relación ordenada y detallada de las cuentas contables, mediante la cual se clasifican el activo, pasivo y hacienda pública o patrimonio, los ingresos y gastos públicos, y cuentas denominadas de orden o memoranda; XXII. Manuales de contabilidad: los documentos conceptuales, metodológicos y operativos que contienen, como mínimo, su finalidad, el marco jurídico, lineamientos técnicos y el catálogo de cuentas, y la estructura básica de los principales estados financieros a generarse en el sistema;
+XXI. Lista de cuentas: la relación ordenada y detallada de las cuentas contables, mediante la cual se clasifican el activo, pasivo y hacienda pública o patrimonio, los ingresos y gastos públicos, y cuentas denominadas de orden o memoranda;
+
+XXII. Manuales de contabilidad: los documentos conceptuales, metodológicos y operativos que contienen, como mínimo, su finalidad, el marco jurídico, lineamientos técnicos y el catálogo de cuentas, y la estructura básica de los principales estados financieros a generarse en el sistema;
 
 XXIII. Normas contables: los lineamientos, metodologías y procedimientos técnicos, dirigidos a dotar a los entes públicos de las herramientas necesarias para registrar correctamente las operaciones que afecten su contabilidad, con el propósito de generar información veraz y oportuna para la toma de decisiones y la formulación de estados financieros institucionales y consolidados;
 

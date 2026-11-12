@@ -19,7 +19,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 Durante el tiempo en que el trabajador deje de estar sujeto a una relación laboral, tendrá derecho a:
 
-I. Realizar aportaciones a su cuenta individual, y II. Retirar parcialmente por situación de desempleo los recursos de la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez, a partir del cuadragésimo sexto día natural contado desde el día en que quedó desempleado, en los siguientes términos:
+I. Realizar aportaciones a su cuenta individual, y
+
+II. Retirar parcialmente por situación de desempleo los recursos de la Subcuenta de Retiro, Cesantía en Edad Avanzada y Vejez, a partir del cuadragésimo sexto día natural contado desde el día en que quedó desempleado, en los siguientes términos:
 
 a) Si su cuenta individual tiene al menos tres años de haber sido abierta y tiene un mínimo de doce bimestres de cotización al [Instituto](articulo-5-A.md) acreditados en dicha cuenta, podrá retirar en una exhibición la cantidad que resulte al equivalente a treinta días de su último salario base de cotización, con un límite de diez veces el salario mínimo mensual general que rija en el Distrito Federal, o
 

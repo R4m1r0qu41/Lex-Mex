@@ -21,6 +21,8 @@ Las recomendaciones dirigidas a las dependencias y entidades únicamente serán 
 
 I. Cuando se trate de programas y acciones en materia de la política nacional de fomento económico a que se refiere el artículo [8](articulo-8.md), fracciones I, II y III;
 
-II. El [Comité](articulo-4.md) haya considerado los aspectos previstos en el artículo [16](articulo-16.md), fracciones I, II y IV de esta Ley, con la opinión de la dependencia o entidad de que se trate, y III. La recomendación se haya emitido con el voto favorable de cuando menos dos de los integrantes a que se refiere el artículo [12](articulo-12.md), fracciones II a VI de esta Ley.
+II. El [Comité](articulo-4.md) haya considerado los aspectos previstos en el artículo [16](articulo-16.md), fracciones I, II y IV de esta Ley, con la opinión de la dependencia o entidad de que se trate, y
+
+III. La recomendación se haya emitido con el voto favorable de cuando menos dos de los integrantes a que se refiere el artículo [12](articulo-12.md), fracciones II a VI de esta Ley.
 
 Las recomendaciones a que se refiere este artículo no podrán tener en ningún caso como objeto las materias relacionadas con ingresos y egresos del Estado, ni comercio exterior.

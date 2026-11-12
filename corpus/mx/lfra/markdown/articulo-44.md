@@ -19,6 +19,4 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 Las sentencias y convenios derivados del procedimiento judicial de responsabilidad ambiental serán públicos.
 
-SECCIÓN 5
-
-Del [Fondo](articulo-2o.md)
+SECCIÓN 5 Del [Fondo](articulo-2o.md)

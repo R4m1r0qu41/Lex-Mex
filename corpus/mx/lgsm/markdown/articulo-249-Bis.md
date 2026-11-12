@@ -19,7 +19,9 @@ source_sha256: 72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3
 
 Las sociedades podrán llevar a cabo su disolución y liquidación conforme al procedimiento contemplado en el artículo [249 Bis 1](articulo-249-Bis-1.md), siempre y cuando la sociedad:
 
-I.- Esté conformada exclusivamente por socios o accionistas que sean personas físicas; II.- No se ubique en el supuesto contemplado en el artículo [3](articulo-3o.md) de esta Ley;
+I.- Esté conformada exclusivamente por socios o accionistas que sean personas físicas;
+
+II.- No se ubique en el supuesto contemplado en el artículo [3](articulo-3o.md) de esta Ley;
 
 III.- Hubiere publicado en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo [50 Bis](../../ccom/markdown/articulo-50-Bis.md) del Código de Comercio y las disposiciones para su operación, el aviso de inscripción en el libro especial de los socios o registro de acciones de registro con la estructura accionaria vigente por lo menos 15 días hábiles previos a la fecha de la asamblea mediante la cual se acuerde la disolución. Para tales efectos la información contenida en el aviso de la inscripción tendrá carácter confidencial;
 

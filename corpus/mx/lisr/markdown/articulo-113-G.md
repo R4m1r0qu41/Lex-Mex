@@ -21,7 +21,9 @@ Los contribuyentes sujetos al régimen previsto en esta Sección tendrán las ob
 
 I. Solicitar su inscripción en el Registro Federal de Contribuyentes y mantenerlo actualizado.
 
-II. Contar con firma electrónica avanzada y buzón tributario activo. III. Contar con comprobantes fiscales digitales por Internet por la totalidad de sus ingresos efectivamente cobrados.
+II. Contar con firma electrónica avanzada y buzón tributario activo.
+
+III. Contar con comprobantes fiscales digitales por Internet por la totalidad de sus ingresos efectivamente cobrados.
 
 IV. Obtener y conservar comprobantes fiscales digitales por Internet que amparen sus gastos e inversiones.
 

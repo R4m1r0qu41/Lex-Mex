@@ -21,7 +21,9 @@ Las asambleas tendrán las facultades siguientes:
 
 I.- Discutir, aprobar, modificar o reprobar el balance general correspondiente al ejercicio social clausurado y de tomar con estos motivos, las medidas que juzguen oportunas.
 
-II.- Proceder al reparto de utilidades. III.- Nombrar y remover a los gerentes.
+II.- Proceder al reparto de utilidades.
+
+III.- Nombrar y remover a los gerentes.
 
 IV.- Designar, en su caso, el Consejo de Vigilancia.
 

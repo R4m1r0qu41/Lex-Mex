@@ -31,7 +31,9 @@ V. Abordadores mecánicos para pasajeros: pasillos telescópicos, salas móviles
 
 VI. Edificio terminal: para pasajeros y para carga, áreas indispensables para oficinas de tráfico y operaciones de transportistas y autoridades, señalamientos e información al pasajero, mostradores y bandas para equipaje, servicios sanitarios; en las modalidades de acceso, uso o, en su caso, arrendamiento;
 
-VII. Estacionamientos: para automóviles y para los vehículos de los servicios de transporte terrestre al público; VIII. Seguridad y vigilancia: revisión de pasajeros y su equipaje de mano; control de accesos, patrullaje y vigilancia de edificios e instalaciones, bienes y otros que se establezcan de conformidad con las disposiciones legales aplicables;
+VII. Estacionamientos: para automóviles y para los vehículos de los servicios de transporte terrestre al público;
+
+VIII. Seguridad y vigilancia: revisión de pasajeros y su equipaje de mano; control de accesos, patrullaje y vigilancia de edificios e instalaciones, bienes y otros que se establezcan de conformidad con las disposiciones legales aplicables;
 
 IX. Rescate y extinción de incendios;
 

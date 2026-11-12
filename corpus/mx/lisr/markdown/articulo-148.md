@@ -21,7 +21,9 @@ Para los efectos de este Capítulo, no serán deducibles:
 
 I. Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de terceros ni los de contribuciones en la parte subsidiada o que originalmente correspondan a terceros, conforme a las disposiciones relativas, excepto tratándose de aportaciones pagadas al Instituto Mexicano del Seguro Social a cargo de los patrones.
 
-Tampoco serán deducibles las cantidades provenientes del subsidio para el empleo que entregue el contribuyente, en su carácter de retenedor, a las personas que le presten servicios personales subordinados ni los accesorios de las contribuciones, a excepción de los recargos que el contribuyente hubiere pagado efectivamente, inclusive mediante compensación. II. Las inversiones en casas habitación, en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, en aviones y embarcaciones, que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente ni los pagos por el uso o goce temporal de dichos bienes.
+Tampoco serán deducibles las cantidades provenientes del subsidio para el empleo que entregue el contribuyente, en su carácter de retenedor, a las personas que le presten servicios personales subordinados ni los accesorios de las contribuciones, a excepción de los recargos que el contribuyente hubiere pagado efectivamente, inclusive mediante compensación.
+
+II. Las inversiones en casas habitación, en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, en aviones y embarcaciones, que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente ni los pagos por el uso o goce temporal de dichos bienes.
 
 III. En ningún caso serán deducibles las inversiones o los pagos por el uso o goce temporal de automóviles.
 

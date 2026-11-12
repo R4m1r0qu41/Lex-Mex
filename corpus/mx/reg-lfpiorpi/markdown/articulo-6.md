@@ -21,4 +21,4 @@ Para determinar el monto o valor de los actos u operaciones a que se refiere el 
 
 Asimismo, para efectos del párrafo anterior, tratándose de actos u operaciones de comercio exterior, de conformidad con lo establecido en la fracción XIV del artículo [17](../../lfpiorpi/markdown/articulo-17.md) de la Ley, se deberá de considerar el monto o valor en aduana de las mercancías.
 
-Para determinar el monto de los actos u operaciones a que se refiere el artículo [32](../../lfpiorpi/markdown/articulo-32.md) de la Ley, deberán considerarse las contribuciones y demás accesorios que en dicho acto u operación se generen. Párrafo adicionado DOF 27-03-2026 REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+Para determinar el monto de los actos u operaciones a que se refiere el artículo [32](../../lfpiorpi/markdown/articulo-32.md) de la Ley, deberán considerarse las contribuciones y demás accesorios que en dicho acto u operación se generen. Párrafo adicionado DOF 27-03-2026

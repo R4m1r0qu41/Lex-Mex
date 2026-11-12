@@ -23,6 +23,8 @@ I. El aprovechamiento y manejo de los recursos naturales renovables, siempre que
 
 II. La investigación científica;
 
-III. La educación ambiental, y IV. El desarrollo de actividades turísticas.
+III. La educación ambiental, y
+
+IV. El desarrollo de actividades turísticas.
 
 Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la [Secretaría](articulo-3o.md), conforme a las disposiciones legales y reglamentarias aplicables.

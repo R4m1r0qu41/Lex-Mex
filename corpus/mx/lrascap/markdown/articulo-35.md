@@ -21,7 +21,9 @@ La [Comisión](articulo-2.md) contará con facultades de inspección y vigilanci
 
 Para tal efecto, la citada Comisión podrá:
 
-I. Requerir toda clase de información y documentación relacionada con la prestación de este tipo de servicios. II. Practicar visitas de inspección.
+I. Requerir toda clase de información y documentación relacionada con la prestación de este tipo de servicios.
+
+II. Practicar visitas de inspección.
 
 III. Requerir la comparecencia de Socios, representantes y demás empleados de las personas morales que presten servicios de auditoría externa.
 

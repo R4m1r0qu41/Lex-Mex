@@ -17,8 +17,6 @@ source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
 
 # Artículo 74 BIS 8
 
-El resultado de las pruebas que realice el tercero autorizado, se hará constar en un dictamen que será firmado, bajo su responsabilidad, por la persona facultada para ello. Dichos dictámenes tendrán validez ante la Secretaría conforme a las funciones que le hayan sido autorizadas al
-
-tercero.
+El resultado de las pruebas que realice el tercero autorizado, se hará constar en un dictamen que será firmado, bajo su responsabilidad, por la persona facultada para ello. Dichos dictámenes tendrán validez ante la Secretaría conforme a las funciones que le hayan sido autorizadas al tercero.
 
 Artículo adicionado DOF 02-04-2014

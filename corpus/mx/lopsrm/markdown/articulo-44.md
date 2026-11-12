@@ -33,6 +33,8 @@ V. Los plazos para la visita al sitio de los trabajos, la junta de aclaraciones 
 
 VI. Se deroga. Fracción derogada DOF 28-05-2009
 
-VII. A las demás disposiciones de esta Ley que resulten aplicables a la licitación pública. Fracción reformada DOF 28-05-2009 Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 28-05-2009 y reformado DOF 16-01-2012)
+VII. A las demás disposiciones de esta Ley que resulten aplicables a la licitación pública. Fracción reformada DOF 28-05-2009
+
+Reforma DOF 16-04-2025: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 28-05-2009 y reformado DOF 16-01-2012)
 
 Artículo reformado DOF 07-07-2005

@@ -17,7 +17,9 @@ source_sha256: b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5
 
 # Artículo 95 Bis
 
-No podrán ser objeto de conciliación las desavenencias derivadas de: I. Los contratos formalizados con motivo de obras públicas y servicios relacionados con las mismas, a los que no les sea aplicable esta Ley, como los casos referidos en el artículo [1 Bis](articulo-1-Bis.md) de esta Ley;
+No podrán ser objeto de conciliación las desavenencias derivadas de:
+
+I. Los contratos formalizados con motivo de obras públicas y servicios relacionados con las mismas, a los que no les sea aplicable esta Ley, como los casos referidos en el artículo [1 Bis](articulo-1-Bis.md) de esta Ley;
 
 II. Los contratos que hayan sido administrativamente rescindidos, sin perjuicio de que se solicite conciliación respecto del finiquito que deban formular las dependencias y entidades, como consecuencia de la rescisión determinada;
 

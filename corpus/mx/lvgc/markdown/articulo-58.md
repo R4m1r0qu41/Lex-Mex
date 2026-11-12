@@ -27,7 +27,9 @@ En todo caso, las personas que pretendan hacer uso de esta franquicia deberán a
 
 Cualquier abuso en el goce de esta franquicia inhabilitará a la negociación o persona que resulte responsable haberlo cometido por el plazo de un año, para volver a gozar de ella;
 
-III. Las tarifas transitorias de personas pasajeras en viajes de recreo; Fracción reformada DOF 16-07-2025 IV. Las tarifas reducidas cuando se trate de una extensión kilométrica que la persona pasajera podrá recorrer en cualquier dirección, en determinado período de tiempo o con el carácter de abonos. Fracción reformada DOF 16-07-2025
+III. Las tarifas transitorias de personas pasajeras en viajes de recreo; Fracción reformada DOF 16-07-2025
+
+IV. Las tarifas reducidas cuando se trate de una extensión kilométrica que la persona pasajera podrá recorrer en cualquier dirección, en determinado período de tiempo o con el carácter de abonos. Fracción reformada DOF 16-07-2025
 
 V. El transporte o cuotas reducidas, de efectos de primera necesidad a los lugares donde sean indispensables por causa de calamidad pública, por carestía proveniente de maniobras de especulación comercial y de otros motivos de interés general que lo ameriten, a juicio de la Secretaría de Economía; Fracción reformada DOF 09-04-2012
 

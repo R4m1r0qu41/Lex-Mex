@@ -35,7 +35,9 @@ VII. Comprobar oportunamente la reunión de todos los elementos materiales para 
 
 VIII. Exigir al permisionario o al responsable del establecimiento o evento que impida la presencia de personas armadas dentro del recinto donde se llevará o lleve a cabo el evento y, en su caso, solicitar el auxilio de la fuerza pública, así como advertir al permisionario sobre las prohibiciones que establecen la Ley y el presente Reglamento;
 
-IX. Verificar que el representante del permisionario tenga acreditada su personalidad para dirigir el evento; X. Encausar convenientemente el desarrollo del evento para que se realice con transparencia y legalidad;
+IX. Verificar que el representante del permisionario tenga acreditada su personalidad para dirigir el evento;
+
+X. Encausar convenientemente el desarrollo del evento para que se realice con transparencia y legalidad;
 
 XI. Verificar que los eventos para los que sean comisionados se desarrollen de conformidad con las condiciones establecidas en el permiso y, en su caso, reorientar legalmente su curso si advierten que no se han satisfecho los lineamientos autorizados, debiendo tomar en cuenta las protestas de los participantes formuladas con anterioridad al mismo, durante su celebración y posteriormente a su realización;
 
@@ -61,7 +63,9 @@ XXI. Evitar que se realicen actos que tengan como finalidad el incumplimiento de
 
 XXII. Evitar que se cometan irregularidades que propicien la manipulación de resultados del evento en perjuicio de los participantes;
 
-XXIII. Informar a la Secretaría de las anomalías que haya notado personalmente o de aquellas que le hayan sido indicadas por el permisionario o los participantes; XXIV. Ejecutar, en los términos y condiciones que prevé este Reglamento, la clausura del establecimiento o lugar en el que se realicen eventos;
+XXIII. Informar a la Secretaría de las anomalías que haya notado personalmente o de aquellas que le hayan sido indicadas por el permisionario o los participantes;
+
+XXIV. Ejecutar, en los términos y condiciones que prevé este Reglamento, la clausura del establecimiento o lugar en el que se realicen eventos;
 
 XXV. Presentar denuncia ante las autoridades competentes, en aquellos casos en los que exista la presunción de un hecho previsto como ilícito;
 

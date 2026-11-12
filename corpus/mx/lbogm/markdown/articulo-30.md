@@ -21,7 +21,9 @@ El programa para el desarrollo de la bioseguridad y la biotecnología deberá co
 
 I. Investigación científica;
 
-II. Innovación y desarrollo tecnológico; III. Formación de investigadores, tecnólogos y profesionales de alto nivel;
+II. Innovación y desarrollo tecnológico;
+
+III. Formación de investigadores, tecnólogos y profesionales de alto nivel;
 
 IV. Apoyo a los centros públicos de investigación;
 

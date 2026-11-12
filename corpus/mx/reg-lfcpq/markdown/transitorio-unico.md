@@ -16,5 +16,3 @@ source_sha256: 3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055
 # ÚNICO
 
 El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de septiembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- La Secretaria de Relaciones Exteriores, Rosario Green Macías.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Ángel Gurría Treviño.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.- El Secretario de Salud, Juan Ramón de la Fuente.- Rúbrica.

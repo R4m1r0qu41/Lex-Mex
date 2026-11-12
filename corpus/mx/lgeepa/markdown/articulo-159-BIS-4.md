@@ -23,6 +23,8 @@ I.- Se considere por disposición legal que la información es confidencial o qu
 
 II.- Se trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia, pendientes de resolución;
 
-III.- Se trate de información aportada por terceros cuando los mismos no estén obligados por disposición legal a proporcionarla, o IV.- Se trate de información sobre inventarios e insumos y tecnologías de proceso, incluyendo la descripción del mismo.
+III.- Se trate de información aportada por terceros cuando los mismos no estén obligados por disposición legal a proporcionarla, o
+
+IV.- Se trate de información sobre inventarios e insumos y tecnologías de proceso, incluyendo la descripción del mismo.
 
 Artículo adicionado DOF 13-12-1996

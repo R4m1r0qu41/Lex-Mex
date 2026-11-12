@@ -24,19 +24,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13:reference:619-621:10:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13:reference:620-622:10:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:13",
     "source_span": "10",
-    "start_char": 619,
-    "end_char": 621,
+    "start_char": 620,
+    "end_char": 622,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lss-maeba:article:10",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",
-        "start_char": 623,
-        "end_char": 634
+        "start_char": 624,
+        "end_char": 635
       }
     ],
     "basis": "express_cross_reference",

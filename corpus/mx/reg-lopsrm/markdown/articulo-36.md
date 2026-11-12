@@ -21,6 +21,8 @@ En la convocatoria a la licitación pública e invitación a cuando menos tres p
 
 Previo a la firma del contrato, el licitante a quien se le haya adjudicado el mismo deberá presentar, para su cotejo, original o copia certificada de los siguientes documentos:
 
-l. Tratándose de persona moral, testimonio de la escritura pública en la que conste que fue constituida conforme a las leyes mexicanas y que tiene su domicilio en el territorio nacional, o II. Tratándose de persona física, copia certificada del acta de nacimiento o, en su caso, carta de naturalización respectiva, expedida por la autoridad competente, así como la documentación con la que acredite tener su domicilio legal en el territorio nacional.
+l. Tratándose de persona moral, testimonio de la escritura pública en la que conste que fue constituida conforme a las leyes mexicanas y que tiene su domicilio en el territorio nacional, o
+
+II. Tratándose de persona física, copia certificada del acta de nacimiento o, en su caso, carta de naturalización respectiva, expedida por la autoridad competente, así como la documentación con la que acredite tener su domicilio legal en el territorio nacional.
 
 En el caso de que en las licitaciones públicas la convocante requiera de la incorporación de materiales, maquinaria y equipo de instalación permanente nacional, en términos de lo dispuesto por el último párrafo del artículo [30](../../lopsrm/markdown/articulo-30.md) de la [Ley](articulo-2.md), se deberá señalar en la convocatoria a la licitación pública la forma precisa conforme a la cual se verificará el cumplimiento de dicho requisito.

@@ -35,7 +35,9 @@ VI. Que puedan impugnarse por medio de algún recurso o medio de defensa, con ex
 
 VII. Conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente, cuando la ley disponga que debe agotarse la misma vía.
 
-Para los efectos de esta fracción, se entiende que hay conexidad siempre que concurran las causas de acumulación previstas en el artículo [31](articulo-31.md) de esta Ley. VIII. Que hayan sido impugnados en un procedimiento judicial.
+Para los efectos de esta fracción, se entiende que hay conexidad siempre que concurran las causas de acumulación previstas en el artículo [31](articulo-31.md) de esta Ley.
+
+VIII. Que hayan sido impugnados en un procedimiento judicial.
 
 IX. Contra reglamentos.
 

@@ -19,7 +19,7 @@ source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 
 Son embarcaciones y artefactos navales mexicanos, los abanderados y matriculados en alguna capitanía de puerto, a solicitud de su propietario o naviero, previa verificación de las condiciones de seguridad del mismo y presentación de la dimisión de bandera del país de origen, de acuerdo con el reglamento respectivo.
 
-La embarcación o artefacto naval se inscribirá en el Registro Nacional de Embarcaciones y se le expedirá un certificado de matrícula, cuyo original deberá permanecer a bordo como documento probatorio de su nacionalidad mexicana. Párrafo reformado DOF 19-12-2016
+La embarcación o artefacto naval se inscribirá en el Registro Nacional de [Embarcaciones](articulo-2.md) y se le expedirá un certificado de matrícula, cuyo original deberá permanecer a bordo como documento probatorio de su nacionalidad mexicana. Párrafo reformado DOF 19-12-2016
 
 Para su matriculación, las embarcaciones y artefactos navales se clasifican:
 

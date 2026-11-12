@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf
 source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 ---
 
-> Título SEGUNDO
+> Título SEGUNDO · Capítulo III
 
 # Artículo 21
 
-Las Coordinaciones Regionales serán las áreas geográficas que servirán de base para el despliegue de la Guardia Nacional en el territorio nacional. Capítulo IV De la Composición y Actuación de la Guardia Nacional
+Las Coordinaciones Regionales serán las áreas geográficas que servirán de base para el despliegue de la Guardia Nacional en el territorio nacional.

@@ -41,7 +41,7 @@
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lss:article:159",
-      "provision_text_sha256": "cbb4a8f163a8f9213698c2bab49639699c03530e24b72aa0972b722f9cb35b3c",
+      "provision_text_sha256": "5e892b84b72752639825906f9761f104979ce70f59781fb1704817d25a170a3f",
       "method": "auto_established",
       "fractions": [
         "I",
@@ -52,7 +52,8 @@
         "VI"
       ],
       "unread_fractions": [
-        "VII"
+        "VII",
+        "VIII"
       ],
       "term_count": 6
     }

@@ -33,7 +33,9 @@ VI.- Realizar o autorizar todas las operaciones en que se haga uso del crédito 
 
 VII. Planear, coordinar, evaluar y vigilar el sistema bancario del país, que comprende a la Banca Nacional de Desarrollo y las demás instituciones encargadas de prestar el servicio de banca y crédito; Fracción parcialmente “sin efecto” DOF 23-12-1993. Reformada DOF 30-11-2018
 
-VIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones y actividades auxiliares del crédito; Fracción reformada DOF 25-05-1992 IX.- Determinar los criterios y montos globales de los estímulos fiscales, escuchando para ello a las dependencias responsables de los sectores correspondientes y administrar su aplicación en los casos en que lo competa a otra Secretaría;
+VIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones y actividades auxiliares del crédito; Fracción reformada DOF 25-05-1992
+
+IX.- Determinar los criterios y montos globales de los estímulos fiscales, escuchando para ello a las dependencias responsables de los sectores correspondientes y administrar su aplicación en los casos en que lo competa a otra Secretaría;
 
 X. Establecer y revisar los precios y tarifas de los bienes y servicios de la administración pública federal, o bien, las bases para fijarlos, escuchando a la Secretaría de Economía y con la participación de las dependencias que correspondan; Fracción reformada DOF 08-12-2005
 
@@ -59,7 +61,9 @@ XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documen
 
 XXI. Establecer normas, políticas y lineamientos en materia de desincorporación de activos de la Administración Pública Federal; Fracción reformada DOF 28-12-1994, 02-01-2013, 18-07-2016
 
-XXII. Se deroga. Fracción derogada DOF 28-12-1994. Adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018. Derogada DOF 03-05-2023 XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
+XXII. Se deroga. Fracción derogada DOF 28-12-1994. Adicionada DOF 02-01-2013. Derogada DOF 18-07-2016. Adicionada DOF 30-11-2018. Derogada DOF 03-05-2023
+
+XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
 XXIV. Ejercer el control presupuestario de los servicios personales y establecer normas y lineamientos en materia de control del gasto en ese rubro; Fracción derogada DOF 25-05-1992. Adicionada DOF 28-12-1994. Reformada DOF 10-04-2003, 02-01-2013, 18-07-2016
 
@@ -77,7 +81,9 @@ XXX. Regular la adquisición, arrendamiento, enajenación, destino o afectación
 
 XXXI. Reivindicar los bienes propiedad de la Nación, en los términos de las disposiciones aplicables, y Fracción adicionada DOF 02-01-2013. Reformada DOF 18-07-2016. Recorrida (antes fracción XXXIII) DOF 30-11-2018
 
-XXXII. Nombrar y remover a las personas titulares de las Unidades de Administración y Finanzas o equivalentes, así como, en su caso, a las personas servidoras públicas de los dos niveles jerárquicos inmediatos inferiores adscritas a dichas unidades. Asimismo, proponer al órgano de gobierno de las entidades paraestatales de la Administración Pública Federal, el nombramiento y la remoción de las personas titulares de sus Unidades de Administración y Finanzas o equivalentes; Fracción adicionada DOF 28-11-2024 XXXIII. Fungir como área consolidadora de los procedimientos de compra de bienes y contratación de servicios que se determinen en términos de las disposiciones jurídicas aplicables.
+XXXII. Nombrar y remover a las personas titulares de las Unidades de Administración y Finanzas o equivalentes, así como, en su caso, a las personas servidoras públicas de los dos niveles jerárquicos inmediatos inferiores adscritas a dichas unidades. Asimismo, proponer al órgano de gobierno de las entidades paraestatales de la Administración Pública Federal, el nombramiento y la remoción de las personas titulares de sus Unidades de Administración y Finanzas o equivalentes; Fracción adicionada DOF 28-11-2024
+
+XXXIII. Fungir como área consolidadora de los procedimientos de compra de bienes y contratación de servicios que se determinen en términos de las disposiciones jurídicas aplicables.
 
 Para tales efectos, llevará a cabo los actos de planeación, investigación de mercado y procedimientos de contratación correspondientes, y Fracción adicionada DOF 28-11-2024
 

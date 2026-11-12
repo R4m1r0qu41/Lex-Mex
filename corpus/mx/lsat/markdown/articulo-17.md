@@ -17,7 +17,9 @@ source_sha256: ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5
 
 # Artículo 17
 
-El Servicio Fiscal de Carrera se regirá por los principios siguientes: I. Igualdad de oportunidades para el ingreso y la promoción en el servicio, con base en la experiencia, desempeño, aptitudes, conocimientos y capacidades de los funcionarios fiscales. Para ello, estos procesos se realizarán con base en concursos de oposición y la evaluación de los elementos mencionados;
+El Servicio Fiscal de Carrera se regirá por los principios siguientes:
+
+I. Igualdad de oportunidades para el ingreso y la promoción en el servicio, con base en la experiencia, desempeño, aptitudes, conocimientos y capacidades de los funcionarios fiscales. Para ello, estos procesos se realizarán con base en concursos de oposición y la evaluación de los elementos mencionados;
 
 II. Especialización y profesionalización en cada actividad, conforme a un catálogo de puestos específicos, en el que se determine la naturaleza, funciones, adscripción, requisitos, salario y prestaciones de cada puesto;
 

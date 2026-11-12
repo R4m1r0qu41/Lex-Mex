@@ -17,7 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 275
 
-El anteproyecto de presupuesto al que se refiere el [artículo anterior](articulo-274.md) deberá contener un reporte de la Dirección General que incluya, al menos, la siguiente información: I. El análisis del impacto que el presupuesto que se proponga tendrá para el [Instituto](articulo-5-A.md) en un horizonte de mediano plazo;
+El anteproyecto de presupuesto al que se refiere el [artículo anterior](articulo-274.md) deberá contener un reporte de la Dirección General que incluya, al menos, la siguiente información:
+
+I. El análisis del impacto que el presupuesto que se proponga tendrá para el [Instituto](articulo-5-A.md) en un horizonte de mediano plazo;
 
 II. El presupuesto asignado por programas, señalando prioridades, objetivos, metas y unidades responsables de su ejercicio, así como su valuación estimada por programa, y los mecanismos e indicadores de evaluación para cada programa;
 

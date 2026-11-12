@@ -41,7 +41,7 @@ d).- Cirugía de senos paranasales y nariz.
 
 e).- Cirugía de varicocele.
 
-f).- Hemorroidectomía y cirugía de fístulas rectales y prolapso de recto. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN g).- Amigdalectomía y adenoidectomía.
+f).- Hemorroidectomía y cirugía de fístulas rectales y prolapso de recto. g).- Amigdalectomía y adenoidectomía.
 
 h).- Cirugía de hernias, excepto hernia de disco intervertebral.
 

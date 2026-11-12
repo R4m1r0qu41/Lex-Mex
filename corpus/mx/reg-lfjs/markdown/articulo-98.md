@@ -19,7 +19,9 @@ source_sha256: 694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3
 
 Los números premiados podrán obtenerse mediante alguna de las siguientes mecánicas de sorteos:
 
-I. Por tómbola; II. Por formación de números;
+I. Por tómbola;
+
+II. Por formación de números;
 
 III. De acuerdo con la terminación de los números premiados en un sorteo de la Lotería Nacional, o Fracción reformada DOF 16-11-2023
 

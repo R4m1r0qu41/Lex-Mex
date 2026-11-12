@@ -21,4 +21,4 @@ La incorporación al Seguro de Salud para la Familia podrá efectuarse en forma 
 
 I. La individual se formalizará a través de los formatos impresos que para este propósito establezca el [Instituto](../../lss/markdown/articulo-5-A.md), mismos que surtirán los efectos de un convenio, debiendo ser suscritos por el propio interesado, y
 
-II. La colectiva se formalizará, previa solicitud, mediante la celebración de un convenio, el cual deberá ser suscrito por el Instituto y el representante legal de la persona moral que se obliga al pago de las cuotas de los sujetos de aseguramiento, y comprenderá un mínimo de cincuenta personas. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN
+II. La colectiva se formalizará, previa solicitud, mediante la celebración de un convenio, el cual deberá ser suscrito por el Instituto y el representante legal de la persona moral que se obliga al pago de las cuotas de los sujetos de aseguramiento, y comprenderá un mínimo de cincuenta personas.

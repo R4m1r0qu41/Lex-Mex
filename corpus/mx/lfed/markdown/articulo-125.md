@@ -19,7 +19,9 @@ source_sha256: e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68
 
 Las fotografías, escritos, copias fotostáticas, notas taquigráficas y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia, deberán ofrecerse:
 
-I. Exhibiendo aquellos instrumentos que se encuentren en poder del oferente; II. Asumiendo la carga procesal de exhibir aquellos aparatos, dispositivos y en general, cualquier medio necesario para la reproducción en audiencia judicial de aquellos elementos aportados por la ciencia que así lo requieran, y
+I. Exhibiendo aquellos instrumentos que se encuentren en poder del oferente;
+
+II. Asumiendo la carga procesal de exhibir aquellos aparatos, dispositivos y en general, cualquier medio necesario para la reproducción en audiencia judicial de aquellos elementos aportados por la ciencia que así lo requieran, y
 
 III. Concatenando el medio de prueba con la pericial, en el caso que así se requiera. En tal caso, deberán cumplirse, además, con los requisitos del ofrecimiento de aquella.
 

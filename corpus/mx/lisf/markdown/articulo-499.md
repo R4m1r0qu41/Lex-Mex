@@ -33,7 +33,9 @@ II. Los consejeros, funcionarios o empleados de una Institución o Sociedad Mutu
 
 III. Las personas que para obtener préstamos de una Institución o Sociedad Mutualista, presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrecen en garantía sea inferior al importe del crédito, resultando quebranto o perjuicio patrimonial para la Institución o Sociedad Mutualista;
 
-IV. Los acreditados que desvíen un crédito concedido por alguna Institución o Sociedad Mutualista a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito o de condiciones preferenciales en el mismo; V. Los consejeros, funcionarios o empleados de la Institución o Sociedad Mutualista, o quienes intervengan directamente en el otorgamiento del préstamo que, conociendo los vicios que señala la fracción III de este artículo, concedan el préstamo, si el monto de la alteración hubiere sido determinante para concederlo;
+IV. Los acreditados que desvíen un crédito concedido por alguna Institución o Sociedad Mutualista a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento del crédito o de condiciones preferenciales en el mismo;
+
+V. Los consejeros, funcionarios o empleados de la Institución o Sociedad Mutualista, o quienes intervengan directamente en el otorgamiento del préstamo que, conociendo los vicios que señala la fracción III de este artículo, concedan el préstamo, si el monto de la alteración hubiere sido determinante para concederlo;
 
 VI. Los consejeros, funcionarios o empleados de una Institución, o quienes intervengan directamente en el otorgamiento de la póliza de fianza que, conociendo la falsedad sobre el monto de los activos o pasivos de una entidad o persona física o moral, autoricen la expedición de una póliza de fianza. La misma sanción se aplicará a los agentes de fianzas que intermedien en la colocación de la póliza de fianza, siempre y cuando conozcan la falsedad, y
 

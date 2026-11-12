@@ -27,7 +27,9 @@ La autoridad ejecutora facultada para ello en los términos de las disposiciones
 
 Tratándose del Distrito Federal, de los Estados y de los Municipios, el requerimiento de pago, lo llevarán a cabo en los términos anteriores, las autoridades ejecutoras correspondientes.
 
-En consecuencia, no surtirán efecto los requerimientos que se hagan a los agentes de seguros, ni los efectuados por autoridades distintas de las ejecutoras facultadas para ello; III. Dentro de un plazo de treinta días contado a partir del día siguiente a aquél en que surta efectos la notificación del requerimiento de pago, la Institución de Seguros deberá comprobar, ante la autoridad ejecutora correspondiente, que hizo el pago o que demandó la nulidad del requerimiento de pago, en los términos de la fracción IV de este artículo.
+En consecuencia, no surtirán efecto los requerimientos que se hagan a los agentes de seguros, ni los efectuados por autoridades distintas de las ejecutoras facultadas para ello;
+
+III. Dentro de un plazo de treinta días contado a partir del día siguiente a aquél en que surta efectos la notificación del requerimiento de pago, la Institución de Seguros deberá comprobar, ante la autoridad ejecutora correspondiente, que hizo el pago o que demandó la nulidad del requerimiento de pago, en los términos de la fracción IV de este artículo.
 
 En caso contrario, dentro de los veinticinco días hábiles siguientes al vencimiento de dicho plazo, la autoridad ejecutora de que se trate con conocimiento de la Institución de Seguros, solicitará a la [Comisión](articulo-2.md) que ordene se rematen valores propiedad de la Institución de Seguros, bastantes para cubrir el importe del requerimiento de pago, más la indemnización por mora que hasta ese momento se hubiera generado. La Comisión requerirá a la Institución de Seguros para que, en un plazo de cinco días hábiles, acredite haber hecho el pago correspondiente o demandado la nulidad del mismo, apercibiéndola de que de no comprobar alguno de esos supuestos ordenará el remate solicitado.
 

@@ -15,4 +15,4 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 # Noveno
 
-La presente Ley deroga los delitos objeto de la misma, en el [Código Penal](articulo-4o.md) Federal y Leyes Federales. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+La presente Ley deroga los delitos objeto de la misma, en el [Código Penal](articulo-4o.md) Federal y Leyes Federales.

@@ -19,6 +19,4 @@ source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744
 
 Los terceros propietarios o poseedores de los inmuebles en los que se haya ocasionado el daño estarán obligados a permitir las medidas precautorias que resuelva el órgano jurisdiccional. En todo caso tendrán derecho de repetir respecto a la persona que resulta responsable de ocasionar dichos daños.
 
-SECCIÓN 3
-
-De los elementos de prueba
+SECCIÓN 3 De los elementos de prueba

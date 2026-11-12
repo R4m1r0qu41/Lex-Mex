@@ -25,7 +25,9 @@ II. Los ingresos recabados u obtenidos por el Gobierno Federal, atendiendo al or
 
 III. Los ingresos recabados u obtenidos conforme a la clasificación institucional de los recursos;
 
-IV. Los ingresos excedentes a los previstos en la Ley de Ingresos de la Federación, sin considerar las aportaciones de seguridad social; V. Dentro del Informe trimestral, un comparativo que presente las variaciones de los ingresos obtenidos al trimestre por cada concepto indicado en la fracción I del presente artículo respecto a las estimaciones de ingresos publicadas en el Diario Oficial de la Federación para el Ejercicio Fiscal que corresponda, así como las razones que expliquen estas variaciones, y
+IV. Los ingresos excedentes a los previstos en la Ley de Ingresos de la Federación, sin considerar las aportaciones de seguridad social;
+
+V. Dentro del Informe trimestral, un comparativo que presente las variaciones de los ingresos obtenidos al trimestre por cada concepto indicado en la fracción I del presente artículo respecto a las estimaciones de ingresos publicadas en el Diario Oficial de la Federación para el Ejercicio Fiscal que corresponda, así como las razones que expliquen estas variaciones, y
 
 VI. Los avances en el cumplimiento de las metas respectivas establecidas en el programa a que hace referencia el artículo [21](articulo-21.md) de esta Ley, así como un análisis de costo-efectividad de las acciones llevadas a cabo para el cumplimiento de los objetivos y metas.
 

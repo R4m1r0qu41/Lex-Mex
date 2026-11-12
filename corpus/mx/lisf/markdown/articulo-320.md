@@ -17,7 +17,9 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 # Artículo 320
 
-La [Comisión](articulo-2.md), con independencia de las sanciones que proceda imponer, de que pueda ordenar la adopción de una o varias de las medidas de control a que se refiere el artículo [324](articulo-324.md) de la presente Ley, o de que actúe en términos de lo previsto en el artículo [383](articulo-383.md) de este ordenamiento, procederá conforme a lo señalado en este artículo cuando advierta que la situación financiera de una [Institución](articulo-2.md) presenta faltantes en alguno de los siguientes parámetros de solvencia: I. En la cobertura de la [Base de Inversión](articulo-2.md), en términos de lo previsto en los artículos [231](articulo-231.md), [250](articulo-250.md) y [252](articulo-252.md) de esta Ley;
+La [Comisión](articulo-2.md), con independencia de las sanciones que proceda imponer, de que pueda ordenar la adopción de una o varias de las medidas de control a que se refiere el artículo [324](articulo-324.md) de la presente Ley, o de que actúe en términos de lo previsto en el artículo [383](articulo-383.md) de este ordenamiento, procederá conforme a lo señalado en este artículo cuando advierta que la situación financiera de una [Institución](articulo-2.md) presenta faltantes en alguno de los siguientes parámetros de solvencia:
+
+I. En la cobertura de la [Base de Inversión](articulo-2.md), en términos de lo previsto en los artículos [231](articulo-231.md), [250](articulo-250.md) y [252](articulo-252.md) de esta Ley;
 
 II. En los [Fondos Propios Admisibles](articulo-2.md) necesarios para respaldar el requerimiento de capital de solvencia, en términos de lo señalado por los artículos [241](articulo-241.md), [250](articulo-250.md) y [252](articulo-252.md) de este ordenamiento, o
 

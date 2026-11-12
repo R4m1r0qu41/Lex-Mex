@@ -49,11 +49,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:11:reference:4497-4499:17:direct",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:11:reference:4498-4500:17:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:liispcen:article:11",
     "source_span": "17",
-    "start_char": 4497,
-    "end_char": 4499,
+    "start_char": 4498,
+    "end_char": 4500,
     "target_instrument_id": "urn:lex-mx:federal:statute:liispcen",
     "target_provision_id": "urn:lex-mx:federal:statute:liispcen:article:17",
     "qualifiers": [],
@@ -157,19 +157,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:15:reference:570-572:12:direct",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:15:reference:571-573:12:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:liispcen:article:15",
     "source_span": "12",
-    "start_char": 570,
-    "end_char": 572,
+    "start_char": 571,
+    "end_char": 573,
     "target_instrument_id": "urn:lex-mx:federal:statute:liispcen",
     "target_provision_id": "urn:lex-mx:federal:statute:liispcen:article:12",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones II",
-        "start_char": 574,
-        "end_char": 587
+        "start_char": 575,
+        "end_char": 588
       }
     ],
     "basis": "express_cross_reference",

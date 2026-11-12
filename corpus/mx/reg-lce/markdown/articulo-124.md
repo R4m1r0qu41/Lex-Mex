@@ -23,7 +23,9 @@ I. La autoridad competente que emite el acto;
 
 II. El nombre o razón social y domicilio del solicitante o de los solicitantes de la investigación;
 
-III. El nombre o razón social y domicilio del o de los importadores y de los exportadores de los que se tenga conocimiento; IV. El país o países de origen o procedencia de la mercancía idéntica, similar o directamente competidora;
+III. El nombre o razón social y domicilio del o de los importadores y de los exportadores de los que se tenga conocimiento;
+
+IV. El país o países de origen o procedencia de la mercancía idéntica, similar o directamente competidora;
 
 V. La descripción del procedimiento de que se trata;
 

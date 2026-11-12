@@ -149,7 +149,9 @@ II. Obras de exploración, excluyendo las de prospección gravimétrica, geológ
 
 III. Beneficio de minerales y disposición final de sus residuos en presas de jales, excluyendo las plantas de beneficio que no utilicen sustancias consideradas como peligrosas y el relleno hidráulico de obras mineras subterráneas.
 
-M) INSTALACIONES DE TRATAMIENTO, CONFINAMIENTO O ELIMINACIÓN DE RESIDUOS PELIGROSOS, ASÍ COMO RESIDUOS RADIOACTIVOS: I. Construcción y operación de plantas para el confinamiento y centros de disposición final de residuos peligrosos;
+M) INSTALACIONES DE TRATAMIENTO, CONFINAMIENTO O ELIMINACIÓN DE RESIDUOS PELIGROSOS, ASÍ COMO RESIDUOS RADIOACTIVOS:
+
+I. Construcción y operación de plantas para el confinamiento y centros de disposición final de residuos peligrosos;
 
 II. Construcción y operación de plantas para el tratamiento, reuso, reciclaje o eliminación de residuos peligrosos, con excepción de aquellas en las que la eliminación de dichos residuos se realice dentro de las instalaciones del generador, en las que las aguas residuales del proceso de separación se destinen a la planta de tratamiento del generador y en las que los lodos producto del tratamiento sean dispuestos de acuerdo con las normas jurídicas aplicables, y
 
@@ -173,7 +175,9 @@ II. Reforestación o instalación de viveros con especies exóticas, híbridos o
 
 O) CAMBIOS DE USO DEL SUELO DE ÁREAS FORESTALES, ASÍ COMO EN SELVAS Y ZONAS ÁRIDAS:
 
-I. Cambio de uso del suelo para actividades agropecuarias, acuícolas, de desarrollo inmobiliario, de infraestructura urbana, de vías generales de comunicación o para el establecimiento de instalaciones comerciales, industriales o de servicios en predios con vegetación forestal, con excepción de la construcción de vivienda unifamiliar y del establecimiento de instalaciones comerciales o de servicios en predios menores a 1000 metros cuadrados, cuando su construcción no implique el derribo de arbolado en una superficie mayor a 500 metros cuadrados, o la eliminación o fragmentación del hábitat de ejemplares de flora o fauna sujetos a un régimen de protección especial de conformidad con las normas oficiales mexicanas y otros instrumentos jurídicos aplicables; II. Cambio de uso del suelo de áreas forestales a cualquier otro uso, con excepción de las actividades agropecuarias de autoconsumo familiar, que se realicen en predios con pendientes inferiores al cinco por ciento, cuando no impliquen la agregación ni el desmonte de más del veinte por ciento de la superficie total y ésta no rebase 2 hectáreas en zonas templadas y 5 en zonas áridas, y
+I. Cambio de uso del suelo para actividades agropecuarias, acuícolas, de desarrollo inmobiliario, de infraestructura urbana, de vías generales de comunicación o para el establecimiento de instalaciones comerciales, industriales o de servicios en predios con vegetación forestal, con excepción de la construcción de vivienda unifamiliar y del establecimiento de instalaciones comerciales o de servicios en predios menores a 1000 metros cuadrados, cuando su construcción no implique el derribo de arbolado en una superficie mayor a 500 metros cuadrados, o la eliminación o fragmentación del hábitat de ejemplares de flora o fauna sujetos a un régimen de protección especial de conformidad con las normas oficiales mexicanas y otros instrumentos jurídicos aplicables;
+
+II. Cambio de uso del suelo de áreas forestales a cualquier otro uso, con excepción de las actividades agropecuarias de autoconsumo familiar, que se realicen en predios con pendientes inferiores al cinco por ciento, cuando no impliquen la agregación ni el desmonte de más del veinte por ciento de la superficie total y ésta no rebase 2 hectáreas en zonas templadas y 5 en zonas áridas, y
 
 III. Los demás cambios de uso del suelo, en terrenos o áreas con uso de suelo forestal, con excepción de la modificación de suelos agrícolas o pecuarios en forestales, agroforestales o silvopastoriles, mediante la utilización de especies nativas.
 

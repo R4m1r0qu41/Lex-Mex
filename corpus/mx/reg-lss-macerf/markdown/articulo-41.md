@@ -17,4 +17,4 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 41
 
-El patrón podrá presentar el escrito a que se refiere la fracción IV del artículo [33](articulo-33.md) de este Reglamento, respecto de la resolución que rectifique su clasificación, su prima o bien determine esta última, dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN respectiva, siempre y cuando no haya interpuesto algún medio de defensa contra la mencionada resolución.
+El patrón podrá presentar el escrito a que se refiere la fracción IV del artículo [33](articulo-33.md) de este Reglamento, respecto de la resolución que rectifique su clasificación, su prima o bien determine esta última, dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva, siempre y cuando no haya interpuesto algún medio de defensa contra la mencionada resolución.

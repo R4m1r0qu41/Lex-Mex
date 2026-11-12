@@ -25,7 +25,9 @@ II. Área responsable de la contratación: la facultada en la dependencia o enti
 
 III. Área responsable de la ejecución de los trabajos: la facultada en la dependencia o entidad para llevar la administración, control y seguimiento de los trabajos hasta la conclusión definitiva de los contratos de obras públicas o de servicios relacionados con las mismas;
 
-IV. Área requirente: la que en la dependencia o entidad solicite o requiera formalmente la contratación de obras públicas o servicios relacionados con las mismas, o bien aquélla que los utilizará; V. Área técnica: la que en la dependencia o entidad elabora las especificaciones que se deberán incluir en el procedimiento de contratación, evalúa la parte técnica de la proposición y responde a las dudas que se presenten en la junta de aclaraciones;
+IV. Área requirente: la que en la dependencia o entidad solicite o requiera formalmente la contratación de obras públicas o servicios relacionados con las mismas, o bien aquélla que los utilizará;
+
+V. Área técnica: la que en la dependencia o entidad elabora las especificaciones que se deberán incluir en el procedimiento de contratación, evalúa la parte técnica de la proposición y responde a las dudas que se presenten en la junta de aclaraciones;
 
 VI. Avance financiero: el porcentaje de los trabajos pagados respecto del importe contractual;
 

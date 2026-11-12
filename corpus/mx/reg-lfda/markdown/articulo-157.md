@@ -17,7 +17,9 @@ source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 
 # Artículo 157
 
-El escrito de queja deberá presentarse ante el [Instituto](articulo-2o.md) y contener: I. Nombre del promovente y, en su caso, el de su representante;
+El escrito de queja deberá presentarse ante el [Instituto](articulo-2o.md) y contener:
+
+I. Nombre del promovente y, en su caso, el de su representante;
 
 II. Domicilio para oír y recibir notificaciones;
 

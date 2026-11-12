@@ -23,7 +23,9 @@ I. La extinción de dominio de [Bienes](articulo-2.md) a favor del Estado por co
 
 II. El procedimiento correspondiente;
 
-III. Los mecanismos para que las autoridades administren los Bienes sujetos al proceso de extinción de dominio, incluidos sus productos, rendimientos, frutos y accesorios; IV. Los mecanismos para que, atendiendo al interés público, las autoridades lleven a cabo la disposición, uso, usufructo, enajenación y [Monetización](articulo-2.md) de los Bienes sujetos al proceso de extinción de dominio, incluidos sus productos, rendimientos, frutos y accesorios, y
+III. Los mecanismos para que las autoridades administren los Bienes sujetos al proceso de extinción de dominio, incluidos sus productos, rendimientos, frutos y accesorios;
+
+IV. Los mecanismos para que, atendiendo al interés público, las autoridades lleven a cabo la disposición, uso, usufructo, enajenación y [Monetización](articulo-2.md) de los Bienes sujetos al proceso de extinción de dominio, incluidos sus productos, rendimientos, frutos y accesorios, y
 
 V. Los criterios para el destino de los Bienes cuyo dominio se declare extinto en sentencia y, en su caso, la destrucción de los mismos.
 
@@ -55,7 +57,9 @@ Los contemplados en el Código Penal Federal, en su artículo 205 Bis.
 
 f) Delitos por hechos de corrupción.
 
-[Los contemplados en el Título Décimo, Delitos por hechos de corrupción, Capítulo I del Código Penal Federal.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 22-06-2021 y publicada DOF 06-01-2022 g) Encubrimiento.
+[Los contemplados en el Título Décimo, Delitos por hechos de corrupción, Capítulo I del Código Penal Federal.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 22-06-2021 y publicada DOF 06-01-2022
+
+g) Encubrimiento.
 
 [Los contemplados en el artículo [400](../../cpf/markdown/articulo-400.md), del Código Penal Federal.] Párrafo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 22-06-2021 y publicada DOF 06-01-2022
 

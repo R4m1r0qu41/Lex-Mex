@@ -271,66 +271,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:309-315",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:310-316",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:9",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 309,
-    "end_char": 315
+    "start_char": 310,
+    "end_char": 316
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:720-728",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:721-729",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:9",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 720,
-    "end_char": 728
+    "start_char": 721,
+    "end_char": 729
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:792-802",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:793-803",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:9",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:federaciones",
     "span": "Federación",
-    "start_char": 792,
-    "end_char": 802
+    "start_char": 793,
+    "end_char": 803
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:996-1026",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:997-1027",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:9",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 996,
-    "end_char": 1026
+    "start_char": 997,
+    "end_char": 1027
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:1312-1342",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:1313-1343",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:9",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 1312,
-    "end_char": 1342
+    "start_char": 1313,
+    "end_char": 1343
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:1533-1541",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:1534-1542",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:9",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1533,
-    "end_char": 1541
+    "start_char": 1534,
+    "end_char": 1542
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:1612-1631",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:9:term-usage:1613-1632",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:9",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
     "span": "Fondo de Protección",
-    "start_char": 1612,
-    "end_char": 1631
+    "start_char": 1613,
+    "end_char": 1632
   },
   {
     "schema_version": "0.1.0",
@@ -820,21 +820,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:14:term-usage:2064-2070",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:14:term-usage:2065-2071",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:14",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 2064,
-    "end_char": 2070
+    "start_char": 2065,
+    "end_char": 2071
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:14:term-usage:2256-2262",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:14:term-usage:2257-2263",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:14",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 2256,
-    "end_char": 2262
+    "start_char": 2257,
+    "end_char": 2263
   },
   {
     "schema_version": "0.1.0",
@@ -1216,75 +1216,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:5177-5183",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:5178-5184",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:19",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 5177,
-    "end_char": 5183
+    "start_char": 5178,
+    "end_char": 5184
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:5644-5650",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:5645-5651",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:19",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 5644,
-    "end_char": 5650
+    "start_char": 5645,
+    "end_char": 5651
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:5778-5786",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:5779-5787",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:19",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 5778,
-    "end_char": 5786
+    "start_char": 5779,
+    "end_char": 5787
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:6086-6094",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:6087-6095",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:19",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 6086,
-    "end_char": 6094
+    "start_char": 6087,
+    "end_char": 6095
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:6288-6296",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:6289-6297",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:19",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 6288,
-    "end_char": 6296
+    "start_char": 6289,
+    "end_char": 6297
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:6779-6785",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:6780-6786",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:19",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 6779,
-    "end_char": 6785
+    "start_char": 6780,
+    "end_char": 6786
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:6911-6917",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:6912-6918",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:19",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 6911,
-    "end_char": 6917
+    "start_char": 6912,
+    "end_char": 6918
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:7072-7078",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:19:term-usage:7073-7079",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:19",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 7072,
-    "end_char": 7078
+    "start_char": 7073,
+    "end_char": 7079
   },
   {
     "schema_version": "0.1.0",
@@ -1576,30 +1576,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:26:term-usage:2084-2090",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:26:term-usage:2085-2091",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:26",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 2084,
-    "end_char": 2090
+    "start_char": 2085,
+    "end_char": 2091
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:26:term-usage:2153-2159",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:26:term-usage:2154-2160",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:26",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 2153,
-    "end_char": 2159
+    "start_char": 2154,
+    "end_char": 2160
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:26:term-usage:3004-3010",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:26:term-usage:3005-3011",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:26",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 3004,
-    "end_char": 3010
+    "start_char": 3005,
+    "end_char": 3011
   },
   {
     "schema_version": "0.1.0",
@@ -1630,84 +1630,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:233-263",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:234-264",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:28",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 233,
-    "end_char": 263
+    "start_char": 234,
+    "end_char": 264
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:474-482",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:475-483",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:28",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 474,
-    "end_char": 482
+    "start_char": 475,
+    "end_char": 483
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:632-662",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:633-663",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:28",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 632,
-    "end_char": 662
+    "start_char": 633,
+    "end_char": 663
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:678-686",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:679-687",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:28",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 678,
-    "end_char": 686
+    "start_char": 679,
+    "end_char": 687
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:860-874",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:861-875",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:28",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 860,
-    "end_char": 874
+    "start_char": 861,
+    "end_char": 875
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:1134-1148",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:1135-1149",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:28",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 1134,
-    "end_char": 1148
+    "start_char": 1135,
+    "end_char": 1149
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:1400-1408",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:1401-1409",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:28",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1400,
-    "end_char": 1408
+    "start_char": 1401,
+    "end_char": 1409
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:1417-1447",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:1418-1448",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:28",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 1417,
-    "end_char": 1447
+    "start_char": 1418,
+    "end_char": 1448
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:1915-1923",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:28:term-usage:1916-1924",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:28",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1915,
-    "end_char": 1923
+    "start_char": 1916,
+    "end_char": 1924
   },
   {
     "schema_version": "0.1.0",
@@ -1792,75 +1792,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:1352-1360",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:1353-1361",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1352,
-    "end_char": 1360
+    "start_char": 1353,
+    "end_char": 1361
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:1692-1705",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:1693-1706",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:zona-rural",
     "span": "Zonas Rurales",
-    "start_char": 1692,
-    "end_char": 1705
+    "start_char": 1693,
+    "end_char": 1706
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:1710-1718",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:1711-1719",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1710,
-    "end_char": 1718
+    "start_char": 1711,
+    "end_char": 1719
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2002-2010",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2003-2011",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2002,
-    "end_char": 2010
+    "start_char": 2003,
+    "end_char": 2011
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2044-2054",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2045-2055",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2044,
-    "end_char": 2054
+    "start_char": 2045,
+    "end_char": 2055
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2307-2315",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2308-2316",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2307,
-    "end_char": 2315
+    "start_char": 2308,
+    "end_char": 2316
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2618-2626",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2619-2627",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2618,
-    "end_char": 2626
+    "start_char": 2619,
+    "end_char": 2627
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2685-2693",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:31:term-usage:2686-2694",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:31",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2685,
-    "end_char": 2693
+    "start_char": 2686,
+    "end_char": 2694
   },
   {
     "schema_version": "0.1.0",
@@ -2008,21 +2008,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:35:term-usage:888-894",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:35:term-usage:889-895",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:35",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 888,
-    "end_char": 894
+    "start_char": 889,
+    "end_char": 895
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:35:term-usage:1552-1558",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:35:term-usage:1553-1559",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:35",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 1552,
-    "end_char": 1558
+    "start_char": 1553,
+    "end_char": 1559
   },
   {
     "schema_version": "0.1.0",
@@ -2116,12 +2116,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:38:term-usage:1991-1999",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:38:term-usage:1992-2000",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:38",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1991,
-    "end_char": 1999
+    "start_char": 1992,
+    "end_char": 2000
   },
   {
     "schema_version": "0.1.0",
@@ -2332,66 +2332,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:616-629",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:617-630",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:45",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:confederacion",
     "span": "Confederación",
-    "start_char": 616,
-    "end_char": 629
+    "start_char": 617,
+    "end_char": 630
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:891-903",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:892-904",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:45",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:federaciones",
     "span": "Federaciones",
-    "start_char": 891,
-    "end_char": 903
+    "start_char": 892,
+    "end_char": 904
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:1274-1286",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:1275-1287",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:45",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:federaciones",
     "span": "Federaciones",
-    "start_char": 1274,
-    "end_char": 1286
+    "start_char": 1275,
+    "end_char": 1287
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:1561-1573",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:1562-1574",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:45",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:federaciones",
     "span": "Federaciones",
-    "start_char": 1561,
-    "end_char": 1573
+    "start_char": 1562,
+    "end_char": 1574
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:1853-1865",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:1854-1866",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:45",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:federaciones",
     "span": "Federaciones",
-    "start_char": 1853,
-    "end_char": 1865
+    "start_char": 1854,
+    "end_char": 1866
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:2061-2074",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:2062-2075",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:45",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:confederacion",
     "span": "Confederación",
-    "start_char": 2061,
-    "end_char": 2074
+    "start_char": 2062,
+    "end_char": 2075
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:2307-2320",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:45:term-usage:2308-2321",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:45",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:confederacion",
     "span": "Confederación",
-    "start_char": 2307,
-    "end_char": 2320
+    "start_char": 2308,
+    "end_char": 2321
   },
   {
     "schema_version": "0.1.0",
@@ -2404,39 +2404,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:46:term-usage:1823-1842",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:46:term-usage:1824-1843",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:46",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
     "span": "Fondo de Protección",
-    "start_char": 1823,
-    "end_char": 1842
+    "start_char": 1824,
+    "end_char": 1843
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:46:term-usage:1848-1861",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:46:term-usage:1849-1862",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:46",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:confederacion",
     "span": "Confederación",
-    "start_char": 1848,
-    "end_char": 1861
+    "start_char": 1849,
+    "end_char": 1862
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:46:term-usage:1942-1956",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:46:term-usage:1943-1957",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:46",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 1942,
-    "end_char": 1956
+    "start_char": 1943,
+    "end_char": 1957
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:46:term-usage:2117-2131",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:46:term-usage:2118-2132",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:46",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 2117,
-    "end_char": 2131
+    "start_char": 2118,
+    "end_char": 2132
   },
   {
     "schema_version": "0.1.0",
@@ -2611,66 +2611,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:127-157",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:128-158",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:48",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 127,
-    "end_char": 157
+    "start_char": 128,
+    "end_char": 158
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:273-315",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:274-316",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:48",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-proteccion-al-ahorro-cooperativo",
     "span": "Comité de Protección al Ahorro Cooperativo",
-    "start_char": 273,
-    "end_char": 315
+    "start_char": 274,
+    "end_char": 316
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:366-385",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:367-386",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:48",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
     "span": "Fondo de Protección",
-    "start_char": 366,
-    "end_char": 385
+    "start_char": 367,
+    "end_char": 386
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:1010-1052",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:1011-1053",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:48",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-proteccion-al-ahorro-cooperativo",
     "span": "Comité de Protección al Ahorro Cooperativo",
-    "start_char": 1010,
-    "end_char": 1052
+    "start_char": 1011,
+    "end_char": 1053
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:1325-1339",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:1326-1340",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:48",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 1325,
-    "end_char": 1339
+    "start_char": 1326,
+    "end_char": 1340
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:1345-1353",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:1346-1354",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:48",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1345,
-    "end_char": 1353
+    "start_char": 1346,
+    "end_char": 1354
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:1426-1445",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:48:term-usage:1427-1446",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:48",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
     "span": "Fondo de Protección",
-    "start_char": 1426,
-    "end_char": 1445
+    "start_char": 1427,
+    "end_char": 1446
   },
   {
     "schema_version": "0.1.0",
@@ -2854,120 +2854,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:741-771",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:742-772",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 741,
-    "end_char": 771
+    "start_char": 742,
+    "end_char": 772
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:876-886",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:877-887",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:federaciones",
     "span": "Federación",
-    "start_char": 876,
-    "end_char": 886
+    "start_char": 877,
+    "end_char": 887
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:1015-1029",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:1016-1030",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 1015,
-    "end_char": 1029
+    "start_char": 1016,
+    "end_char": 1030
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:1873-1887",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:1874-1888",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 1873,
-    "end_char": 1887
+    "start_char": 1874,
+    "end_char": 1888
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:1951-1959",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:1952-1960",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1951,
-    "end_char": 1959
+    "start_char": 1952,
+    "end_char": 1960
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2508-2522",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2509-2523",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 2508,
-    "end_char": 2522
+    "start_char": 2509,
+    "end_char": 2523
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2712-2720",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2713-2721",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2712,
-    "end_char": 2720
+    "start_char": 2713,
+    "end_char": 2721
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2781-2789",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2782-2790",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2781,
-    "end_char": 2789
+    "start_char": 2782,
+    "end_char": 2790
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2899-2929",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2900-2930",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 2899,
-    "end_char": 2929
+    "start_char": 2900,
+    "end_char": 2930
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2950-2958",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:2951-2959",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2950,
-    "end_char": 2958
+    "start_char": 2951,
+    "end_char": 2959
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:3200-3230",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:3201-3231",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 3200,
-    "end_char": 3230
+    "start_char": 3201,
+    "end_char": 3231
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:3518-3526",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:3519-3527",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 3518,
-    "end_char": 3526
+    "start_char": 3519,
+    "end_char": 3527
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:3884-3903",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:52:term-usage:3885-3904",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:52",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
     "span": "Fondo de Protección",
-    "start_char": 3884,
-    "end_char": 3903
+    "start_char": 3885,
+    "end_char": 3904
   },
   {
     "schema_version": "0.1.0",
@@ -3484,93 +3484,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:704-723",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:705-724",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
     "span": "Fondo de Protección",
-    "start_char": 704,
-    "end_char": 723
+    "start_char": 705,
+    "end_char": 724
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:876-895",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:877-896",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
     "span": "Fondo de Protección",
-    "start_char": 876,
-    "end_char": 895
+    "start_char": 877,
+    "end_char": 896
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:921-935",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:922-936",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 921,
-    "end_char": 935
+    "start_char": 922,
+    "end_char": 936
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:992-1011",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:993-1012",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
     "span": "Fondo de Protección",
-    "start_char": 992,
-    "end_char": 1011
+    "start_char": 993,
+    "end_char": 1012
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1032-1040",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1033-1041",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1032,
-    "end_char": 1040
+    "start_char": 1033,
+    "end_char": 1041
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1045-1059",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1046-1060",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
     "span": "Comité Técnico",
-    "start_char": 1045,
-    "end_char": 1059
+    "start_char": 1046,
+    "end_char": 1060
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1065-1095",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1066-1096",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 1065,
-    "end_char": 1095
+    "start_char": 1066,
+    "end_char": 1096
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1254-1260",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1255-1261",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 1254,
-    "end_char": 1260
+    "start_char": 1255,
+    "end_char": 1261
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1443-1462",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1444-1463",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
     "span": "Fondo de Protección",
-    "start_char": 1443,
-    "end_char": 1462
+    "start_char": 1444,
+    "end_char": 1463
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1672-1680",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:58:term-usage:1673-1681",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:58",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1672,
-    "end_char": 1680
+    "start_char": 1673,
+    "end_char": 1681
   },
   {
     "schema_version": "0.1.0",
@@ -4375,165 +4375,165 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:303-309",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:304-310",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 303,
-    "end_char": 309
+    "start_char": 304,
+    "end_char": 310
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:722-728",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:723-729",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 722,
-    "end_char": 728
+    "start_char": 723,
+    "end_char": 729
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:924-930",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:925-931",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 924,
-    "end_char": 930
+    "start_char": 925,
+    "end_char": 931
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:2149-2159",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:2150-2160",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2149,
-    "end_char": 2159
+    "start_char": 2150,
+    "end_char": 2160
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:2221-2229",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:2222-2230",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2221,
-    "end_char": 2229
+    "start_char": 2222,
+    "end_char": 2230
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:2694-2700",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:2695-2701",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 2694,
-    "end_char": 2700
+    "start_char": 2695,
+    "end_char": 2701
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:2708-2718",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:2709-2719",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2708,
-    "end_char": 2718
+    "start_char": 2709,
+    "end_char": 2719
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:3297-3302",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:3298-3303",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socio",
-    "start_char": 3297,
-    "end_char": 3302
+    "start_char": 3298,
+    "end_char": 3303
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:3354-3364",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:3355-3365",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3354,
-    "end_char": 3364
+    "start_char": 3355,
+    "end_char": 3365
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:4163-4193",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:4164-4194",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 4163,
-    "end_char": 4193
+    "start_char": 4164,
+    "end_char": 4194
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:4493-4501",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:4494-4502",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 4493,
-    "end_char": 4501
+    "start_char": 4494,
+    "end_char": 4502
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:4696-4701",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:4697-4702",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socio",
-    "start_char": 4696,
-    "end_char": 4701
+    "start_char": 4697,
+    "end_char": 4702
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:4967-4972",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:4968-4973",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socio",
-    "start_char": 4967,
-    "end_char": 4972
+    "start_char": 4968,
+    "end_char": 4973
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:5786-5816",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:5787-5817",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 5786,
-    "end_char": 5816
+    "start_char": 5787,
+    "end_char": 5817
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:6141-6149",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:6142-6150",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 6141,
-    "end_char": 6149
+    "start_char": 6142,
+    "end_char": 6150
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:6297-6307",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:6298-6308",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6297,
-    "end_char": 6307
+    "start_char": 6298,
+    "end_char": 6308
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:6316-6324",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:6317-6325",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 6316,
-    "end_char": 6324
+    "start_char": 6317,
+    "end_char": 6325
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:6549-6579",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:72:term-usage:6550-6580",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:72",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 6549,
-    "end_char": 6579
+    "start_char": 6550,
+    "end_char": 6580
   },
   {
     "schema_version": "0.1.0",
@@ -5113,147 +5113,147 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:2654-2684",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:2655-2685",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
     "span": "Comité de Supervisión Auxiliar",
-    "start_char": 2654,
-    "end_char": 2684
+    "start_char": 2655,
+    "end_char": 2685
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:2689-2731",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:2690-2732",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-proteccion-al-ahorro-cooperativo",
     "span": "Comité de Protección al Ahorro Cooperativo",
-    "start_char": 2689,
-    "end_char": 2731
+    "start_char": 2690,
+    "end_char": 2732
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:2740-2748",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:2741-2749",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2740,
-    "end_char": 2748
+    "start_char": 2741,
+    "end_char": 2749
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:2831-2839",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:2832-2840",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 2831,
-    "end_char": 2839
+    "start_char": 2832,
+    "end_char": 2840
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:3331-3339",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:3332-3340",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 3331,
-    "end_char": 3339
+    "start_char": 3332,
+    "end_char": 3340
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:3628-3636",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:3629-3637",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 3628,
-    "end_char": 3636
+    "start_char": 3629,
+    "end_char": 3637
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4034-4042",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4035-4043",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 4034,
-    "end_char": 4042
+    "start_char": 4035,
+    "end_char": 4043
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4220-4228",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4221-4229",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 4220,
-    "end_char": 4228
+    "start_char": 4221,
+    "end_char": 4229
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4339-4347",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4340-4348",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 4339,
-    "end_char": 4347
+    "start_char": 4340,
+    "end_char": 4348
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4598-4606",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4599-4607",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 4598,
-    "end_char": 4606
+    "start_char": 4599,
+    "end_char": 4607
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4879-4889",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:4880-4890",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:federaciones",
     "span": "Federación",
-    "start_char": 4879,
-    "end_char": 4889
+    "start_char": 4880,
+    "end_char": 4890
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:5197-5205",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:5198-5206",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 5197,
-    "end_char": 5205
+    "start_char": 5198,
+    "end_char": 5206
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:5579-5585",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:5580-5586",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:socio",
     "span": "Socios",
-    "start_char": 5579,
-    "end_char": 5585
+    "start_char": 5580,
+    "end_char": 5586
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:5883-5891",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:5884-5892",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 5883,
-    "end_char": 5891
+    "start_char": 5884,
+    "end_char": 5892
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:6010-6018",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:6011-6019",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 6010,
-    "end_char": 6018
+    "start_char": 6011,
+    "end_char": 6019
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:6199-6207",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:84:term-usage:6200-6208",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:84",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 6199,
-    "end_char": 6207
+    "start_char": 6200,
+    "end_char": 6208
   },
   {
     "schema_version": "0.1.0",
@@ -5437,30 +5437,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:91:term-usage:1217-1259",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:91:term-usage:1218-1260",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:91",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-proteccion-al-ahorro-cooperativo",
     "span": "Comité de Protección al Ahorro Cooperativo",
-    "start_char": 1217,
-    "end_char": 1259
+    "start_char": 1218,
+    "end_char": 1260
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:91:term-usage:1450-1492",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:91:term-usage:1451-1493",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:91",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-proteccion-al-ahorro-cooperativo",
     "span": "Comité de Protección al Ahorro Cooperativo",
-    "start_char": 1450,
-    "end_char": 1492
+    "start_char": 1451,
+    "end_char": 1493
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:91:term-usage:1498-1506",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:91:term-usage:1499-1507",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:91",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 1498,
-    "end_char": 1506
+    "start_char": 1499,
+    "end_char": 1507
   },
   {
     "schema_version": "0.1.0",
@@ -5608,39 +5608,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:93:term-usage:2983-2993",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:93:term-usage:2984-2994",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:93",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2983,
-    "end_char": 2993
+    "start_char": 2984,
+    "end_char": 2994
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:93:term-usage:3001-3009",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:93:term-usage:3002-3010",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:93",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 3001,
-    "end_char": 3009
+    "start_char": 3002,
+    "end_char": 3010
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:93:term-usage:3797-3805",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:93:term-usage:3798-3806",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:93",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 3797,
-    "end_char": 3805
+    "start_char": 3798,
+    "end_char": 3806
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lrascap:article:93:term-usage:5815-5823",
+    "id": "urn:lex-mx:federal:statute:lrascap:article:93:term-usage:5817-5825",
     "provision_id": "urn:lex-mx:federal:statute:lrascap:article:93",
     "term_id": "urn:lex-mx:federal:statute:lrascap:term:comision",
     "span": "Comisión",
-    "start_char": 5815,
-    "end_char": 5823
+    "start_char": 5817,
+    "end_char": 5825
   },
   {
     "schema_version": "0.1.0",

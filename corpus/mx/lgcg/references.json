@@ -744,19 +744,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcg:article:78:reference:761-763:47:direct",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:78:reference:762-764:47:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgcg:article:78",
     "source_span": "47",
-    "start_char": 761,
-    "end_char": 763,
+    "start_char": 762,
+    "end_char": 764,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:47",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción II",
-        "start_char": 765,
-        "end_char": 776
+        "start_char": 766,
+        "end_char": 777
       }
     ],
     "basis": "express_cross_reference",
@@ -767,19 +767,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcg:article:78:reference:1662-1664:47:direct",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:78:reference:1663-1665:47:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgcg:article:78",
     "source_span": "47",
-    "start_char": 1662,
-    "end_char": 1664,
+    "start_char": 1663,
+    "end_char": 1665,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:47",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 1636,
-        "end_char": 1648
+        "start_char": 1637,
+        "end_char": 1649
       }
     ],
     "basis": "express_cross_reference",

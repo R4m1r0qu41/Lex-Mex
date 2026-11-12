@@ -21,7 +21,9 @@ Se desechará por improcedente el recurso:
 
 I. Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el propio acto impugnado;
 
-II. Contra actos que no afecten los intereses jurídicos del promovente; III. Contra actos consumados de un modo irreparable;
+II. Contra actos que no afecten los intereses jurídicos del promovente;
+
+III. Contra actos consumados de un modo irreparable;
 
 IV. Contra actos consentidos expresamente; y
 

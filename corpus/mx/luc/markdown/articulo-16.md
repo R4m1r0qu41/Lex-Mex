@@ -17,7 +17,9 @@ source_sha256: 3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938
 
 # Artículo 16
 
-Las sociedades que se autoricen para operar como uniones, deberán constituirse en forma de sociedad anónima de capital variable, organizadas con arreglo a la Ley General de Sociedades Mercantiles, en todo lo que no esté previsto por esta Ley y, particularmente de acuerdo con las siguientes disposiciones que son de aplicación especial: I. Tendrán por objeto las operaciones a que se refiere el artículo [40](articulo-40.md) de este ordenamiento;
+Las sociedades que se autoricen para operar como uniones, deberán constituirse en forma de sociedad anónima de capital variable, organizadas con arreglo a la Ley General de Sociedades Mercantiles, en todo lo que no esté previsto por esta Ley y, particularmente de acuerdo con las siguientes disposiciones que son de aplicación especial:
+
+I. Tendrán por objeto las operaciones a que se refiere el artículo [40](articulo-40.md) de este ordenamiento;
 
 II. La duración de la sociedad será indefinida;
 

@@ -21,6 +21,8 @@ El [Consejo Aduanero](articulo-1.md) se sujetará a lo siguiente:
 
 I. Para la validez de sus sesiones se requerirá la asistencia de tres personas integrantes, entre ellos la persona Presidenta del Consejo Aduanero y la persona representante de la Secretaría Anticorrupción y Buen Gobierno;
 
-II. Los acuerdos y decisiones serán válidos si se tiene el voto por mayoría de las personas integrantes presentes en la sesión; en caso de empate, la persona que presida tendrá el voto de calidad, y III. De cada sesión que se celebre, la persona Secretaria Técnica deberá levantar una minuta que contendrá el orden del día, el nombre y cargo de los asistentes a la sesión, los asuntos tratados, los acuerdos tomados en la misma, lo cual obrará en sus archivos, debiendo ésta recabar las firmas de los asistentes.
+II. Los acuerdos y decisiones serán válidos si se tiene el voto por mayoría de las personas integrantes presentes en la sesión; en caso de empate, la persona que presida tendrá el voto de calidad, y
+
+III. De cada sesión que se celebre, la persona Secretaria Técnica deberá levantar una minuta que contendrá el orden del día, el nombre y cargo de los asistentes a la sesión, los asuntos tratados, los acuerdos tomados en la misma, lo cual obrará en sus archivos, debiendo ésta recabar las firmas de los asistentes.
 
 Artículo adicionado DOF 23-02-2026

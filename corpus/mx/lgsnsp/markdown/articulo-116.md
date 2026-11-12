@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf
 source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
 ---
 
-> Título OCTAVO
+> Título OCTAVO · Capítulo I
 
 # Artículo 116
 
-Corresponde a la Auditoría Superior de la Federación auditar y fiscalizar los recursos federales que ejerzan la federación, las entidades federativas y los municipios en materia de seguridad pública, en términos de las disposiciones aplicables. Capítulo II Visitas de verificación y revisiones de gabinete
+Corresponde a la Auditoría Superior de la Federación auditar y fiscalizar los recursos federales que ejerzan la federación, las entidades federativas y los municipios en materia de seguridad pública, en términos de las disposiciones aplicables.

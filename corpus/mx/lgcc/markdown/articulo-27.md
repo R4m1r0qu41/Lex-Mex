@@ -25,6 +25,8 @@ II. Fortalecer la resiliencia y resistencia de los sistemas naturales y humanos;
 
 III. Minimizar riesgos y daños, considerando los escenarios actuales y futuros del cambio climático;
 
-IV. Identificar la vulnerabilidad y capacidad de adaptación y transformación de los sistemas ecológicos, físicos y sociales y aprovechar oportunidades generadas por nuevas condiciones climáticas; V. Establecer mecanismos de atención inmediata y expedita en zonas impactadas por los efectos del cambio climático como parte de los planes y acciones de protección civil, y
+IV. Identificar la vulnerabilidad y capacidad de adaptación y transformación de los sistemas ecológicos, físicos y sociales y aprovechar oportunidades generadas por nuevas condiciones climáticas;
+
+V. Establecer mecanismos de atención inmediata y expedita en zonas impactadas por los efectos del cambio climático como parte de los planes y acciones de protección civil, y
 
 VI. Facilitar y fomentar la seguridad alimentaria, la productividad agrícola, ganadera, pesquera, acuícola, la preservación de los ecosistemas y de los recursos naturales.

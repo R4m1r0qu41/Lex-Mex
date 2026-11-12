@@ -25,4 +25,6 @@ II. Propiedad de terceros;
 
 III. Personas;
 
-IV. Pérdida total o parcial de carga, equipaje y correo, y V. Infraestructura, instalaciones y equipo.
+IV. Pérdida total o parcial de carga, equipaje y correo, y
+
+V. Infraestructura, instalaciones y equipo.

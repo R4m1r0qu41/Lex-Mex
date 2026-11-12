@@ -23,7 +23,9 @@ I. Denominación social o nombre, según corresponda, registro federal de contri
 
 II. El nombre de los socios y administradores de la sociedad mercantil prestadora de los servicios, los que deberán acompañar una manifestación suscrita por cada uno, bajo protesta de decir verdad, de que no se encuentran en los supuestos del artículo [22](../../laero/markdown/articulo-22.md) de la [Ley](articulo-2.md);
 
-III. La descripción de los servicios que prestarán; IV. Los términos y condiciones conforme a los cuales el prestador de servicios podrá utilizar las instalaciones del aeródromo, así como la delimitación y descripción de las áreas específicas que, en su caso, tenga asignadas;
+III. La descripción de los servicios que prestarán;
+
+IV. Los términos y condiciones conforme a los cuales el prestador de servicios podrá utilizar las instalaciones del aeródromo, así como la delimitación y descripción de las áreas específicas que, en su caso, tenga asignadas;
 
 V. Vigencia del contrato, la que en ningún caso podrá ser superior a la vigencia de la concesión o del permiso;
 
@@ -53,6 +55,8 @@ XVII. La forma y términos en que el prestador de servicios podrá retirar sus e
 
 XVIII. La manifestación de que la terminación del contrato no extingue las obligaciones contraídas por el prestador durante su vigencia;
 
-XIX. En su caso, los términos conforme a los cuales el prestador de servicios podrá fijar las tarifas por los servicios que preste, y XX. Una cláusula que prevea que las partes están de acuerdo en que dicho contrato surtirá efectos sólo si se obtiene la autorización de la Secretaría.
+XIX. En su caso, los términos conforme a los cuales el prestador de servicios podrá fijar las tarifas por los servicios que preste, y
+
+XX. Una cláusula que prevea que las partes están de acuerdo en que dicho contrato surtirá efectos sólo si se obtiene la autorización de la Secretaría.
 
 Lo dispuesto en el presente artículo, con excepción de las fracciones VII, IX, X y XI, será aplicable a los contratos que celebre el concesionario o permisionario de un aeródromo civil de servicio al público, con terceros, para que estos últimos presten servicios comerciales.

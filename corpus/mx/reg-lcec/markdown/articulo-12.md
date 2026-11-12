@@ -17,7 +17,9 @@ source_sha256: 76a5d189cd607e352b2cc39a92c4ad2d46f6d4628cd6e300030d92cf2191a88c
 
 # Artículo 12
 
-La solicitud para constituir una nueva Cámara deberá presentarse por escrito ante la Secretaría o Confederación que corresponda, la que contendrá: I. Lugar y fecha de su emisión;
+La solicitud para constituir una nueva Cámara deberá presentarse por escrito ante la Secretaría o Confederación que corresponda, la que contendrá:
+
+I. Lugar y fecha de su emisión;
 
 II. Nombre, denominación o razón social del Grupo Promotor;
 

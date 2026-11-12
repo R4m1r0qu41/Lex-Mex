@@ -7,7 +7,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:3",
     "fraction": "I",
     "start_char": 49,
-    "end_char": 453,
+    "end_char": 454,
     "basis": "express_definition"
   },
   {
@@ -17,8 +17,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lffmaa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:3",
     "fraction": "II",
-    "start_char": 453,
-    "end_char": 948,
+    "start_char": 454,
+    "end_char": 949,
     "basis": "express_definition"
   },
   {
@@ -28,8 +28,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lffmaa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lffmaa:article:3",
     "fraction": "III",
-    "start_char": 948,
-    "end_char": 1181,
+    "start_char": 949,
+    "end_char": 1182,
     "basis": "express_definition"
   }
 ]

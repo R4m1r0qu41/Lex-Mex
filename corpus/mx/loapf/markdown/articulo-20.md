@@ -25,7 +25,9 @@ La Secretaría de Hacienda y Crédito Público conducirá y coordinará la opera
 
 Las personas titulares de las Unidades de Administración y Finanzas o equivalentes nombrarán y removerán, en los términos de las disposiciones jurídicas aplicables, al personal de su adscripción; ello sin perjuicio de lo previsto en el artículo [31](articulo-31.md), fracción XXXII, de esta Ley. Párrafo reformado DOF 28-11-2024
 
-Los puestos correspondientes a las personas titulares de las Unidades de Administración y Finanzas o equivalentes en las dependencias y entidades paraestatales, así como de los dos niveles jerárquicos inmediatos inferiores, son de libre designación, en términos de las disposiciones jurídicas aplicables. Párrafo reformado DOF 28-11-2024 A los órganos administrativos desconcentrados que cuenten con Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes les es aplicable lo previsto en este artículo. Párrafo reformado DOF 28-11-2024
+Los puestos correspondientes a las personas titulares de las Unidades de Administración y Finanzas o equivalentes en las dependencias y entidades paraestatales, así como de los dos niveles jerárquicos inmediatos inferiores, son de libre designación, en términos de las disposiciones jurídicas aplicables. Párrafo reformado DOF 28-11-2024
+
+A los órganos administrativos desconcentrados que cuenten con Unidades de Administración y Finanzas o áreas que realicen funciones equivalentes les es aplicable lo previsto en este artículo. Párrafo reformado DOF 28-11-2024
 
 Las disposiciones de este artículo no son aplicables a las Secretarías de Marina y de la Defensa Nacional, ni a las Empresas Públicas del Estado, las que se rigen conforme a las disposiciones legales que les sean aplicables. Párrafo reformado DOF 18-03-2025
 

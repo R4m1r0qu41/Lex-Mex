@@ -21,6 +21,6 @@ Los [Entes Públicos](articulo-2.md) no podrán contraer, directa o indirectamen
 
 Para efectos de lo anterior, los entes públicos, sólo podrán destinar hasta un 0.15 por ciento del monto de los Financiamientos para cubrir los [Gastos y costos relacionados con la contratación](articulo-2.md). Párrafo adicionado DOF 10-05-2022
 
-Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas, el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva realizada.
+Cuando las Obligaciones se deriven de esquemas de [Asociaciones Público-Privadas](articulo-2.md), el destino podrá ser la contratación de servicios, cuyo componente de pago incluya la Inversión pública productiva realizada.
 
 Lo dispuesto en este Capítulo no será aplicable a la contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, los cuales se regirán por lo acordado entre las partes en el convenio correspondiente, incluyendo aquellos rubros o destinos para atender a la población afectada por desastres naturales en los términos de las leyes, reglas de operación, y lineamientos aplicables, así como por la Ley de Coordinación Fiscal. Párrafo reformado DOF 30-01-2018

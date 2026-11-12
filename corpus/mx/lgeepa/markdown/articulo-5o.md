@@ -27,7 +27,9 @@ III.- La atención de los asuntos que afecten el equilibrio ecológico en el ter
 
 IV.- La atención de los asuntos que, originados en el territorio nacional o las zonas sujetas a la soberanía o jurisdicción de la nación afecten el equilibrio ecológico del territorio o de las zonas sujetas a la soberanía o jurisdicción de otros Estados, o a las zonas que estén más allá de la jurisdicción de cualquier Estado;
 
-V.- La expedición de las normas oficiales mexicanas y la vigilancia de su cumplimiento en las materias previstas en esta Ley; VI.- La regulación y el control de las actividades consideradas como altamente riesgosas, y de la generación, manejo y disposición final de materiales y residuos peligrosos para el ambiente o los ecosistemas, así como para la preservación de los recursos naturales, de conformidad con esta Ley, otros ordenamientos aplicables y sus disposiciones reglamentarias;
+V.- La expedición de las normas oficiales mexicanas y la vigilancia de su cumplimiento en las materias previstas en esta Ley;
+
+VI.- La regulación y el control de las actividades consideradas como altamente riesgosas, y de la generación, manejo y disposición final de materiales y residuos peligrosos para el ambiente o los ecosistemas, así como para la preservación de los recursos naturales, de conformidad con esta Ley, otros ordenamientos aplicables y sus disposiciones reglamentarias;
 
 VII.- La participación en la prevención y el control de emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
@@ -53,7 +55,9 @@ XVII.- La integración del Sistema Nacional de Información Ambiental y de Recur
 
 XVIII.- La emisión de recomendaciones a autoridades Federales, Estatales y Municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
 
-XIX.- La vigilancia y promoción, en el ámbito de su competencia, del cumplimiento de esta Ley y los demás ordenamientos que de ella se deriven; XX.- La atención de los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas; Fracción reformada DOF 28-01-2011
+XIX.- La vigilancia y promoción, en el ámbito de su competencia, del cumplimiento de esta Ley y los demás ordenamientos que de ella se deriven;
+
+XX.- La atención de los asuntos que afecten el equilibrio ecológico de dos o más entidades federativas; Fracción reformada DOF 28-01-2011
 
 XXI.- La formulación y ejecución de acciones de mitigación y adaptación al cambio climático, y Fracción adicionada DOF 28-01-2011
 

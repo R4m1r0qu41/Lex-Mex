@@ -51,7 +51,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "fraction": "V",
     "start_char": 1368,
-    "end_char": 1564,
+    "end_char": 1565,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "fraction": "VI",
-    "start_char": 1564,
-    "end_char": 2005,
+    "start_char": 1565,
+    "end_char": 2006,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "fraction": "VII",
-    "start_char": 2005,
-    "end_char": 2456,
+    "start_char": 2006,
+    "end_char": 2457,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "fraction": "VIII",
-    "start_char": 2456,
-    "end_char": 2855,
+    "start_char": 2457,
+    "end_char": 2856,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "fraction": "IX",
-    "start_char": 2855,
-    "end_char": 3220,
+    "start_char": 2856,
+    "end_char": 3221,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "fraction": "X",
-    "start_char": 3220,
-    "end_char": 3306,
+    "start_char": 3221,
+    "end_char": 3307,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "fraction": "XI",
-    "start_char": 3306,
-    "end_char": 3470,
+    "start_char": 3307,
+    "end_char": 3471,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne:article:2",
     "fraction": "XII",
-    "start_char": 3470,
-    "end_char": 3536,
+    "start_char": 3471,
+    "end_char": 3537,
     "basis": "express_definition"
   }
 ]

@@ -37,12 +37,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:3:term-usage:4032-4038",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:3:term-usage:4033-4039",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:article:3",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:comite",
     "span": "Comité",
-    "start_char": 4032,
-    "end_char": 4038
+    "start_char": 4033,
+    "end_char": 4039
   },
   {
     "schema_version": "0.1.0",
@@ -226,12 +226,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:liispcen:article:11:term-usage:5027-5041",
+    "id": "urn:lex-mx:federal:statute:liispcen:article:11:term-usage:5028-5042",
     "provision_id": "urn:lex-mx:federal:statute:liispcen:article:11",
     "term_id": "urn:lex-mx:federal:statute:liispcen:term:competitividad",
     "span": "Competitividad",
-    "start_char": 5027,
-    "end_char": 5041
+    "start_char": 5028,
+    "end_char": 5042
   },
   {
     "schema_version": "0.1.0",

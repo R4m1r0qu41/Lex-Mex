@@ -33,7 +33,9 @@ VI. Integralidad y transversalidad, adoptando un enfoque de coordinación y coop
 
 VII. Participación ciudadana, en la formulación, ejecución, monitoreo y evaluación de la [Estrategia Nacional](articulo-3o.md), planes y programas de mitigación y adaptación a los efectos del cambio climático;
 
-VIII. Responsabilidad ambiental, quien realice obras o actividades que afecten o puedan afectar al medio ambiente, estará obligado a prevenir, minimizar, mitigar, reparar, restaurar y, en última instancia, a la compensación de los daños que cause; IX. El uso de instrumentos económicos en la mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático incentiva la protección, preservación y restauración del ambiente; el aprovechamiento sustentable de los recursos naturales, además de generar beneficios económicos a quienes los implementan;
+VIII. Responsabilidad ambiental, quien realice obras o actividades que afecten o puedan afectar al medio ambiente, estará obligado a prevenir, minimizar, mitigar, reparar, restaurar y, en última instancia, a la compensación de los daños que cause;
+
+IX. El uso de instrumentos económicos en la mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático incentiva la protección, preservación y restauración del ambiente; el aprovechamiento sustentable de los recursos naturales, además de generar beneficios económicos a quienes los implementan;
 
 X. Transparencia, acceso a la información y a la justicia, considerando que los distintos órdenes de gobierno deben facilitar y fomentar la concientización de la población, poniendo a su disposición la información relativa al cambio climático y proporcionando acceso efectivo a los procedimientos judiciales y administrativos pertinentes atendiendo a las disposiciones jurídicas aplicables;
 

@@ -21,7 +21,9 @@ Cuando en las dependencias y entidades existan áreas que por sí mismas realice
 
 Para efectos del primer párrafo del artículo [43](../../lopsrm/markdown/articulo-43.md) de la Ley, se considerará que existe fraccionamiento de las operaciones cuando se presenten las siguientes circunstancias:
 
-I. Todas estén fundadas en el artículo [43](../../lopsrm/markdown/articulo-43.md) de la Ley y la suma de sus importes superen el monto máximo indicado en el Presupuesto de Egresos de la Federación para cada procedimiento de excepción; II. Los trabajos objeto de las contrataciones se refieran a la misma obra o proyecto. Lo anterior no resultará aplicable en los casos en que el [Área responsable de la contratación](articulo-2.md), justifique técnicamente la conveniencia de contratar por especialidad;
+I. Todas estén fundadas en el artículo [43](../../lopsrm/markdown/articulo-43.md) de la Ley y la suma de sus importes superen el monto máximo indicado en el Presupuesto de Egresos de la Federación para cada procedimiento de excepción;
+
+II. Los trabajos objeto de las contrataciones se refieran a la misma obra o proyecto. Lo anterior no resultará aplicable en los casos en que el [Área responsable de la contratación](articulo-2.md), justifique técnicamente la conveniencia de contratar por especialidad;
 
 III. El Área responsable de la contratación o el [Área requirente](articulo-2.md) pudieron prever las contrataciones de las obras o servicios en un solo procedimiento, sin que se haya realizado de esta forma;
 

@@ -95,7 +95,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "fraction": "IX",
     "start_char": 1068,
-    "end_char": 1115,
+    "end_char": 1116,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "fraction": "X",
-    "start_char": 1115,
-    "end_char": 1348,
+    "start_char": 1116,
+    "end_char": 1349,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "fraction": "XI",
-    "start_char": 1348,
-    "end_char": 1377,
+    "start_char": 1349,
+    "end_char": 1378,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "fraction": "XII",
-    "start_char": 1377,
-    "end_char": 1448,
+    "start_char": 1378,
+    "end_char": 1449,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "fraction": "XIII",
-    "start_char": 1448,
-    "end_char": 1727,
+    "start_char": 1449,
+    "end_char": 1728,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "fraction": "XIV",
-    "start_char": 1727,
-    "end_char": 1852,
+    "start_char": 1728,
+    "end_char": 1853,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "fraction": "XV",
-    "start_char": 1852,
-    "end_char": 1993,
+    "start_char": 1853,
+    "end_char": 1994,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
     "fraction": "XVI",
-    "start_char": 1993,
-    "end_char": 2151,
+    "start_char": 1994,
+    "end_char": 2152,
     "basis": "express_definition"
   }
 ]

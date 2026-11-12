@@ -17,7 +17,9 @@ source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 
 # Artículo 17
 
-En el Registro Público Marítimo Nacional se inscribirán los siguientes actos jurídicos de conformidad con los requisitos que determine el reglamento respectivo: I.- Los correspondientes a navieros y agentes navieros mexicanos, así como los operadores, para cuya inscripción bastará acompañar sus estatutos sociales o, actas de nacimiento;
+En el Registro Público Marítimo Nacional se inscribirán los siguientes actos jurídicos de conformidad con los requisitos que determine el reglamento respectivo:
+
+I.- Los correspondientes a navieros y agentes navieros mexicanos, así como los operadores, para cuya inscripción bastará acompañar sus estatutos sociales o, actas de nacimiento;
 
 II.- Los contratos de adquisición, enajenación o cesión, así como los constitutivos de derechos reales, traslativos o extintivos de propiedad, sus modalidades, hipotecas y gravámenes sobre las embarcaciones mexicanas; mismos que deberán constar en instrumento público otorgado ante notario o corredor público;
 

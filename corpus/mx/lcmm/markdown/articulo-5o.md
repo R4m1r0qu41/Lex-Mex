@@ -19,7 +19,9 @@ source_sha256: 873553817446789f00863e9cbc4a25bfbbf762cafa2dafd504577eb897796954
 
 La Casa de Moneda de México realizará, además, las siguientes actividades:
 
-I.- Diseñar y producir las medallas que otorga el Gobierno Mexicano, conforme a la Ley de Premios, Estímulos y Recompensas Civiles, así como otras medallas conmemorativas que determinen las leyes o para fines oficiales y particulares. II.- Elaborar piezas y placas de metales preciosos, conforme a los programas aprobados por la Secretaría de Hacienda y Crédito Público en coordinación con el Banco de México.
+I.- Diseñar y producir las medallas que otorga el Gobierno Mexicano, conforme a la Ley de Premios, Estímulos y Recompensas Civiles, así como otras medallas conmemorativas que determinen las leyes o para fines oficiales y particulares.
+
+II.- Elaborar piezas y placas de metales preciosos, conforme a los programas aprobados por la Secretaría de Hacienda y Crédito Público en coordinación con el Banco de México.
 
 III.- Guardar y custodiar la moneda y los metales que le entregue en depósito el Banco de México y, en su caso, otras instituciones.
 

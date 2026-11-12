@@ -879,19 +879,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:74-bis-4:reference:523-526:102:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:74-bis-4:reference:524-527:102:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:74-bis-4",
     "source_span": "102",
-    "start_char": 523,
-    "end_char": 526,
+    "start_char": 524,
+    "end_char": 527,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:102",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 494,
-        "end_char": 509
+        "start_char": 495,
+        "end_char": 510
       }
     ],
     "basis": "express_cross_reference",
@@ -902,19 +902,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:74-bis-4:reference:742-745:102:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:74-bis-4:reference:743-746:102:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:74-bis-4",
     "source_span": "102",
-    "start_char": 742,
-    "end_char": 745,
+    "start_char": 743,
+    "end_char": 746,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:102",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 713,
-        "end_char": 728
+        "start_char": 714,
+        "end_char": 729
       }
     ],
     "basis": "express_cross_reference",
@@ -1060,11 +1060,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:88:reference:1426-1427:3:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:88:reference:1427-1428:3:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:88",
     "source_span": "3",
-    "start_char": 1426,
-    "end_char": 1427,
+    "start_char": 1427,
+    "end_char": 1428,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:3",
     "qualifiers": [],

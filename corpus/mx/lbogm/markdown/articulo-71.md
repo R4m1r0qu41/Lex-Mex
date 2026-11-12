@@ -21,7 +21,9 @@ No tendrán el carácter de confidencial:
 
 I. La descripción general de los OGMs;
 
-II. La identificación del interesado o responsable de la actividad; III. La finalidad y el lugar o lugares de la actividad;
+II. La identificación del interesado o responsable de la actividad;
+
+III. La finalidad y el lugar o lugares de la actividad;
 
 IV. Los sistemas y las medidas de bioseguridad, monitoreo, control y emergencia, y
 

@@ -17,7 +17,9 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 # Artículo 385
 
-Las visitas de inspección que la [Comisión](articulo-2.md) efectúe en términos de lo previsto en el artículo [382](articulo-382.md) de la presente Ley, podrán ser ordinarias, especiales o de investigación: I. Las visitas ordinarias, se llevarán a cabo a las [Instituciones](articulo-2.md) y [Sociedades Mutualistas](articulo-2.md) de conformidad con el programa anual que la Comisión establezca al efecto;
+Las visitas de inspección que la [Comisión](articulo-2.md) efectúe en términos de lo previsto en el artículo [382](articulo-382.md) de la presente Ley, podrán ser ordinarias, especiales o de investigación:
+
+I. Las visitas ordinarias, se llevarán a cabo a las [Instituciones](articulo-2.md) y [Sociedades Mutualistas](articulo-2.md) de conformidad con el programa anual que la Comisión establezca al efecto;
 
 II. Las visitas especiales, serán aquellas que sin estar incluidas en el programa anual referido en la fracción I de este artículo, se practiquen a las Instituciones y Sociedades Mutualistas, así como a las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión, en cualquiera de los supuestos siguientes:
 

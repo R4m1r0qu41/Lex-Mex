@@ -37,12 +37,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:24:term-usage:1364-1374",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:24:term-usage:1365-1375",
     "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1364,
-    "end_char": 1374
+    "start_char": 1365,
+    "end_char": 1375
   },
   {
     "schema_version": "0.1.0",

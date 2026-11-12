@@ -33,6 +33,8 @@ VI. Emitir lineamientos para determinar los procedimientos, requisitos y demás 
 
 VII. Emitir lineamientos para la operación y consulta de la base de datos de los bienes transferidos al SAE;
 
-VIII. Emitir lineamientos para la donación de bienes; IX. Expedir los manuales para regular la integración y funcionamiento de los [Comités](articulo-1.md) a que se refiere el artículo [8](articulo-8.md) de este Reglamento, y
+VIII. Emitir lineamientos para la donación de bienes;
+
+IX. Expedir los manuales para regular la integración y funcionamiento de los [Comités](articulo-1.md) a que se refiere el artículo [8](articulo-8.md) de este Reglamento, y
 
 X. Emitir lineamientos que sean necesarios para aplicar lo dispuesto por los artículos [89](../../lfaebsp/markdown/articulo-89.md) y [90](../../lfaebsp/markdown/articulo-90.md) de la Ley, sin perjuicio de las disposiciones jurídicas aplicables en la materia. Fracción reformada DOF 29-11-2006

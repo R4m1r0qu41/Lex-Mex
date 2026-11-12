@@ -145,21 +145,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:2915-2925",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:2916-2926",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2915,
-    "end_char": 2925
+    "start_char": 2916,
+    "end_char": 2926
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:3616-3629",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3:term-usage:3617-3630",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:3",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:base-de-datos",
     "span": "Base de datos",
-    "start_char": 3616,
-    "end_char": 3629
+    "start_char": 3617,
+    "end_char": 3630
   },
   {
     "schema_version": "0.1.0",
@@ -361,48 +361,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3085-3095",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3086-3096",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3085,
-    "end_char": 3095
+    "start_char": 3086,
+    "end_char": 3096
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3855-3865",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3856-3866",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3855,
-    "end_char": 3865
+    "start_char": 3856,
+    "end_char": 3866
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3886-3893",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3887-3894",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:agencia",
     "span": "Agencia",
-    "start_char": 3886,
-    "end_char": 3893
+    "start_char": 3887,
+    "end_char": 3894
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3948-3999",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:3949-4000",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:sustancias-sujetas-a-reporte-de-competencia-federal",
     "span": "Sustancias sujetas a reporte de competencia federal",
-    "start_char": 3948,
-    "end_char": 3999
+    "start_char": 3949,
+    "end_char": 4000
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:4016-4052",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10:term-usage:4017-4053",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:article:10",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc:term:actividades-del-sector-hidrocarburos",
     "span": "Actividades del Sector Hidrocarburos",
-    "start_char": 4016,
-    "end_char": 4052
+    "start_char": 4017,
+    "end_char": 4053
   },
   {
     "schema_version": "0.1.0",

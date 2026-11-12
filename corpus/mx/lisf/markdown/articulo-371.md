@@ -21,7 +21,9 @@ El titular de la [Secretaría](articulo-2.md) nombrará al Presidente de la [Com
 
 I. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
-II. Haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera; III. No ser accionista, ni desempeñar el cargo de consejero, comisario, auditor externo, actuario independiente que dictamine sobre la situación y suficiencia de las reservas técnicas, apoderado, funcionario, empleado o agente de cualquiera de las [Instituciones](articulo-2.md) y [Sociedades Mutualistas](articulo-2.md), así como de las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión.
+II. Haber ocupado, por lo menos durante cinco años, cargos de alto nivel en el sistema financiero mexicano o en las dependencias, organismos o instituciones que ejerzan funciones de autoridad en materia financiera;
+
+III. No ser accionista, ni desempeñar el cargo de consejero, comisario, auditor externo, actuario independiente que dictamine sobre la situación y suficiencia de las reservas técnicas, apoderado, funcionario, empleado o agente de cualquiera de las [Instituciones](articulo-2.md) y [Sociedades Mutualistas](articulo-2.md), así como de las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión.
 
 No se incumplirá este requisito cuando se tengan inversiones en términos de lo dispuesto por el artículo [372](../../lmv/markdown/articulo-372.md) de la Ley del Mercado de Valores;
 

@@ -21,7 +21,9 @@ Durante todas las etapas del proceso penal, especialmente cuando se presuma que 
 
 Asimismo, se tomarán medidas para prevenir cualquier riesgo de revictimización durante las diligencias, limitando la exposición pública de las víctimas.
 
-Entre éstas medidas se incluirán, de manera enunciativa pero no limitativa y de manera única o combinada, de acuerdo a las necesidades de las víctimas y de las características y el entorno del delito cometido, las siguientes: LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS I. Mecanismos judiciales y administrativos que les permitan obtener reparación mediante procedimientos expeditos, justos, poco costosos, accesibles y que privilegien en todo momento su seguridad, dignidad y protección a sus derechos humanos e informarles de sus derechos para obtener reparación mediante estos mecanismos; Fracción reformada DOF 07-06-2024
+Entre éstas medidas se incluirán, de manera enunciativa pero no limitativa y de manera única o combinada, de acuerdo a las necesidades de las víctimas y de las características y el entorno del delito cometido, las siguientes:
+
+I. Mecanismos judiciales y administrativos que les permitan obtener reparación mediante procedimientos expeditos, justos, poco costosos, accesibles y que privilegien en todo momento su seguridad, dignidad y protección a sus derechos humanos e informarles de sus derechos para obtener reparación mediante estos mecanismos; Fracción reformada DOF 07-06-2024
 
 II. Mantenerlas informadas en su idioma de su papel en cada momento del proceso, así como del alcance, el desarrollo cronológico y la marcha de las actuaciones y de la decisión de sus causas;
 

@@ -19,7 +19,9 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 Para los efectos del presente Reglamento, además de las definiciones señaladas en el artículo [4](../../lgtrata/markdown/articulo-4o.md)o. de la Ley, se entenderá por:
 
-I. Albergues, Casas de Medio Camino y Refugios: Establecimientos que otorgan Asistencia y Protección a las víctimas, ofendidos y testigos de los delitos previstos en la Ley, así como, resguardo y hospedaje temporal a fin de promover su integración social y productiva, con independencia de la denominación que le otorgue cada dependencia y entidad de la Administración Pública Federal o la [Fiscalía](articulo-2.md), en términos de lo dispuesto por el artículo [113](../../lgtrata/markdown/articulo-113.md), fracción VIII, de la Ley; REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS II. Anuncios Clasificados: Publicidad que oferta y demanda bienes, productos y servicios que por su contenido se considere ilícita o engañosa, de acuerdo a lo establecido en el artículo [4](../../lgtrata/markdown/articulo-4o.md), fracciones XV y XVI, de la Ley;
+I. Albergues, Casas de Medio Camino y Refugios: Establecimientos que otorgan Asistencia y Protección a las víctimas, ofendidos y testigos de los delitos previstos en la Ley, así como, resguardo y hospedaje temporal a fin de promover su integración social y productiva, con independencia de la denominación que le otorgue cada dependencia y entidad de la Administración Pública Federal o la [Fiscalía](articulo-2.md), en términos de lo dispuesto por el artículo [113](../../lgtrata/markdown/articulo-113.md), fracción VIII, de la Ley;
+
+II. Anuncios Clasificados: Publicidad que oferta y demanda bienes, productos y servicios que por su contenido se considere ilícita o engañosa, de acuerdo a lo establecido en el artículo [4](../../lgtrata/markdown/articulo-4o.md), fracciones XV y XVI, de la Ley;
 
 III. Atención Médica Integral: Aquella que comprende actividades preventivas, curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias, con [Enfoque Diferencial y Especializado](articulo-2.md);
 
@@ -33,7 +35,7 @@ VII. Invitados Expertos: Aquellas personas que por su experiencia laboral o acad
 
 VIII. Lengua de Señas Mexicana: La lengua prevista en el artículo [2](../../lgipd/markdown/articulo-2.md), fracción XVII, de la Ley General para la Inclusión de las Personas con Discapacidad;
 
-IX. Lineamientos: Los Lineamientos para la Vigilancia y Monitoreo de los Anuncios Clasificados;
+IX. Lineamientos: Los Lineamientos para la [Vigilancia y Monitoreo](articulo-2.md) de los [Anuncios Clasificados](articulo-2.md);
 
 X. Medios Electrónicos: Mecanismos, herramientas, instalaciones, equipamientos o sistemas que permiten reproducir, almacenar o transmitir, documentos, datos, imágenes o informaciones, a través de cualquier red de comunicación abierta o restringida, como lo son, de manera enunciativa, televisión, radio y cine;
 
@@ -49,4 +51,6 @@ XV. Reglamento Interno: El Reglamento Interno de la Comisión previsto en el art
 
 XVI. Reglas de Operación: Las reglas de operación del Fondo;
 
-XVII. Representaciones de México en el Exterior: Las Embajadas y Consulados de México en el exterior, y REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS XVIII. Vigilancia y Monitoreo: El proceso de supervisión que realizan las autoridades a Anuncios Clasificados que se trasmitan a través de cualquier medio de comunicación, y que tiene por objeto detectar la posible comisión de algún delito de los tipificados en la Ley.
+XVII. Representaciones de México en el Exterior: Las Embajadas y Consulados de México en el exterior, y
+
+XVIII. Vigilancia y Monitoreo: El proceso de supervisión que realizan las autoridades a Anuncios Clasificados que se trasmitan a través de cualquier medio de comunicación, y que tiene por objeto detectar la posible comisión de algún delito de los tipificados en la Ley.

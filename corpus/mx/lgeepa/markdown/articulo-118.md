@@ -17,7 +17,9 @@ source_sha256: 0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc
 
 # Artículo 118
 
-Los criterios para la prevención y control de la contaminación del agua serán considerados en: I.- La expedición de normas oficiales mexicanas para el uso, tratamiento y disposición de aguas residuales, para evitar riesgos y daños a la salud pública; Fracción reformada DOF 13-12-1996
+Los criterios para la prevención y control de la contaminación del agua serán considerados en:
+
+I.- La expedición de normas oficiales mexicanas para el uso, tratamiento y disposición de aguas residuales, para evitar riesgos y daños a la salud pública; Fracción reformada DOF 13-12-1996
 
 II.- La formulación de las normas oficiales mexicanas que deberá satisfacer el tratamiento del agua para el uso y consumo humano, así como para la infiltración y descarga de aguas residuales en cuerpos receptores considerados aguas nacionales; Fracción reformada DOF 13-12-1996
 

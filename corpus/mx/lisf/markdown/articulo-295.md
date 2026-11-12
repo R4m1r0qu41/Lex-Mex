@@ -19,7 +19,9 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 A las [Instituciones de Fianzas](articulo-2.md) les estará prohibido:
 
-I. Dar en garantía los bienes de su activo, a excepción del efectivo o valores que requieran para asegurar el cumplimiento de las obligaciones que correspondan a la realización de las operaciones de reporto y de préstamo de valores señaladas en la fracción XII del artículo [144](articulo-144.md) de este ordenamiento; II. Obtener préstamos, a excepción hecha de los derivados de:
+I. Dar en garantía los bienes de su activo, a excepción del efectivo o valores que requieran para asegurar el cumplimiento de las obligaciones que correspondan a la realización de las operaciones de reporto y de préstamo de valores señaladas en la fracción XII del artículo [144](articulo-144.md) de este ordenamiento;
+
+II. Obtener préstamos, a excepción hecha de los derivados de:
 
 a) La emisión que hagan de obligaciones subordinadas u otros títulos de crédito, conforme a lo dispuesto en los artículos [144](articulo-144.md), fracción XVI, y [160](articulo-160.md) de la presente Ley;
 

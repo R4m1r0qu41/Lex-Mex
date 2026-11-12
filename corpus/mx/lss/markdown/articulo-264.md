@@ -35,7 +35,9 @@ VII. Autorizar la celebración de convenios relativos al pago de cuotas, pudiend
 
 VIII. Conceder, rechazar y modificar las pensiones, que conforme a esta Ley le corresponde otorgar al Instituto, pudiendo delegar estas facultades a las dependencias competentes;
 
-IX. Nombrar y remover a los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta Ley, que ocupen el nivel jerárquico inmediato inferior al Director General del Instituto; Fracción reformada DOF 20-12-2001 X. Aprobar las bases para la celebración de convenios de incorporación voluntaria al régimen obligatorio;
+IX. Nombrar y remover a los trabajadores de confianza a que se refiere el artículo [256](articulo-256.md) de esta Ley, que ocupen el nivel jerárquico inmediato inferior al Director General del Instituto; Fracción reformada DOF 20-12-2001
+
+X. Aprobar las bases para la celebración de convenios de incorporación voluntaria al régimen obligatorio;
 
 XI. Discutir, y en su caso, aprobar el programa de actividades que someta a su consideración el Director General; Fracción reformada DOF 20-12-2001
 

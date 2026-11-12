@@ -21,7 +21,9 @@ El concesionario o permisionario debe destinar frecuencias en su banda privada p
 
 I. La seguridad y vigilancia;
 
-II. Las operaciones; III. El cuerpo de rescate y extinción de incendio;
+II. Las operaciones;
+
+III. El cuerpo de rescate y extinción de incendio;
 
 IV. El abastecimiento de combustibles, y
 

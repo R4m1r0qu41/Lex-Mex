@@ -23,7 +23,9 @@ I. Vencimiento del plazo establecido en el título o de la prórroga que se hubi
 
 II. Renuncia del titular;
 
-III. Revocación; IV. Rescate;
+III. Revocación;
+
+IV. Rescate;
 
 V. Desaparición del objeto o de la finalidad de la concesión;
 

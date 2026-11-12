@@ -1,5 +1,35 @@
 [
   {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:1996-12-24:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 1996-12-24",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:1996-12-24:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 1996-12-24",
+    "text": "El segundo párrafo del artículo 10 A de la Ley de Inversión Extranjera entrará en vigor a los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la Federación. En este plazo deberá publicarse la lista a que se refiere dicho precepto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2006-07-28:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2006-07-28",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2009-06-02:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2009-06-02",
+    "text": "El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2011-12-15:transitory:primero",
+    "label": "Transitorio PRIMERO — Decreto DOF 2011-12-15",
+    "text": "El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2011-12-15:transitory:segundo",
+    "label": "Transitorio SEGUNDO — Decreto DOF 2011-12-15",
+    "text": "Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis meses contados a partir de su publicación en el Diario Oficial de la Federación."
+  },
+  {
     "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2014-06-13:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2014-06-13",
     "text": "El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación."
@@ -13,6 +43,26 @@
     "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2014-06-13:transitory:tercero",
     "label": "Transitorio Tercero — Decreto DOF 2014-06-13",
     "text": "Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo a los derechos de minorías, a partir del décimo día hábil posterior a la fecha de publicación del presente decreto. Por lo anterior, todas las sociedades que se constituyan a partir del día antes referido tendrán que respetar los nuevos derechos de minorías en sus estatutos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2016-03-14:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2016-03-14",
+    "text": "El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2018-01-24:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2018-01-24",
+    "text": "El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2018-06-14:transitory:unico",
+    "label": "Transitorio Único — Decreto DOF 2018-06-14",
+    "text": "El presente Decreto entrará en vigor a los seis meses contados a partir del día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2022-12-27:transitory:unico",
+    "label": "Transitorio ÚNICO — Acuerdo DOF 2022-12-27",
+    "text": "El presente Acuerdo entrará en vigor el 1 de enero de 2023."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2023-10-20:transitory:primero",
@@ -33,5 +83,20 @@
     "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2023-10-20:transitory:cuarto",
     "label": "Transitorio Cuarto — Decreto DOF 2023-10-20",
     "text": "Las sociedades constituidas antes de la reforma referida en el artículo tercero transitorio, deberán sujetarse a dicha disposición publicando las convocatorias en el sistema electrónico establecido por la Secretaría de Economía conforme a lo dispuesto en el artículo 50 Bis del Código de Comercio con los requisitos establecidos en dicha reforma, independientemente de que sus estatutos contemplen que se realizarán por otro medio."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2023-12-28:transitory:unico",
+    "label": "Transitorio ÚNICO — Acuerdo DOF 2023-12-28",
+    "text": "El presente Acuerdo entrará en vigor el 1 de enero de 2024."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2024-12-30:transitory:unico",
+    "label": "Transitorio ÚNICO — Acuerdo DOF 2024-12-30",
+    "text": "El presente Acuerdo entra en vigor el 1 de enero de 2025."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgsm:amendment:2025-12-26:transitory:unico",
+    "label": "Transitorio ÚNICO — Acuerdo DOF 2025-12-26",
+    "text": "El presente Acuerdo entra en vigor el 1 de enero de 2026."
   }
 ]

@@ -19,7 +19,9 @@ source_sha256: 025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409
 
 Es objeto de esta [Ley](articulo-4.md):
 
-I. Definir el contenido del derecho humano al agua y establecer las disposiciones que garantizan su acceso equitativo y su uso sustentable; II. Promover, respetar, proteger y garantizar el derecho humano al agua para consumo personal y doméstico, su acceso, disposición y saneamiento acorde con la Constitución y los tratados internacionales en materia de derechos humanos de los que el Estado mexicano sea parte;
+I. Definir el contenido del derecho humano al agua y establecer las disposiciones que garantizan su acceso equitativo y su uso sustentable;
+
+II. Promover, respetar, proteger y garantizar el derecho humano al agua para consumo personal y doméstico, su acceso, disposición y saneamiento acorde con la Constitución y los tratados internacionales en materia de derechos humanos de los que el Estado mexicano sea parte;
 
 III. Establecer las instancias, instrumentos y procedimientos para la participación de la Federación, entidades federativas y municipios en la tutela del derecho humano al agua;
 

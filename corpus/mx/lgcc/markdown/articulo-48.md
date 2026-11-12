@@ -33,4 +33,6 @@ VI. Designar a los integrantes del [Consejo](articulo-3o.md) Consultivo de Cambi
 
 VII. Suscribir los memorandos de entendimiento y demás documentos que pudieran contribuir a un mejor desempeño de las funciones de la comisión;
 
-VIII. Promover el desarrollo de proyectos del mecanismo de desarrollo limpio en el país con las contrapartes de la comisión en otras naciones, así como sus fuentes de financiamiento, y IX. Las demás que se determinen en el Reglamento Interno de la [Comisión](articulo-3o.md) o se atribuyan al Presidente por consenso.
+VIII. Promover el desarrollo de proyectos del mecanismo de desarrollo limpio en el país con las contrapartes de la comisión en otras naciones, así como sus fuentes de financiamiento, y
+
+IX. Las demás que se determinen en el Reglamento Interno de la [Comisión](articulo-3o.md) o se atribuyan al Presidente por consenso.

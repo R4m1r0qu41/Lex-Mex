@@ -25,7 +25,9 @@ a) Nombre y categoría;
 
 b) Antecedentes de protección, y
 
-c) Superficie, delimitación, zonas y subzonas. II. Análisis de la problemática que genera la propuesta de modificación en la cual se incluyan los escenarios actual y original;
+c) Superficie, delimitación, zonas y subzonas.
+
+II. Análisis de la problemática que genera la propuesta de modificación en la cual se incluyan los escenarios actual y original;
 
 III. Propuesta de modificación de la declaratoria;
 

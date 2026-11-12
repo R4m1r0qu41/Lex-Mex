@@ -27,7 +27,9 @@ III. Determinar la conveniencia de aplicar alguna de las reservas contenidas en 
 
 IV. Determinar la conveniencia de efectuar un procedimiento de contratación internacional abierta cuando la dependencia o entidad no esté obligada a llevarla a cabo bajo la cobertura de Tratados y se acredite fehacientemente que no existe en el país un contratista nacional o que el o los existentes no cuentan con la capacidad para la ejecución de los trabajos, o cuando sea conveniente en términos de precio.
 
-No se cuenta con la capacidad para la ejecución de los trabajos cuando el o los contratistas no pueden atender el requerimiento de la dependencia o entidad en lo que respecto de la cantidad, calidad y oportunidad, o cuando el precio no es aceptable, y V. Determinar la conveniencia de efectuar un procedimiento de contratación internacional abierta si se acredita fehacientemente que en el territorio nacional o en los países con los cuales el Estado mexicano tiene celebrado un tratado de libre comercio con capítulo de contrataciones públicas, no existe contratista o que el o los existentes no cuentan con la capacidad para la ejecución de los trabajos, o si es conveniente en términos de precio, conforme al segundo párrafo de la fracción anterior.
+No se cuenta con la capacidad para la ejecución de los trabajos cuando el o los contratistas no pueden atender el requerimiento de la dependencia o entidad en lo que respecto de la cantidad, calidad y oportunidad, o cuando el precio no es aceptable, y
+
+V. Determinar la conveniencia de efectuar un procedimiento de contratación internacional abierta si se acredita fehacientemente que en el territorio nacional o en los países con los cuales el Estado mexicano tiene celebrado un tratado de libre comercio con capítulo de contrataciones públicas, no existe contratista o que el o los existentes no cuentan con la capacidad para la ejecución de los trabajos, o si es conveniente en términos de precio, conforme al segundo párrafo de la fracción anterior.
 
 La investigación de mercado y su resultado deben documentarse e integrarse al expediente de contratación correspondiente.
 

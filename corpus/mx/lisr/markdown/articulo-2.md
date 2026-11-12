@@ -41,7 +41,9 @@ III. Actúe sujeto a instrucciones detalladas o al control general del residente
 
 IV. Ejerza actividades que económicamente corresponden al residente en el extranjero y no a sus propias actividades.
 
-V. Perciba sus remuneraciones independientemente del resultado de sus actividades. VI. Efectúe operaciones con el residente en el extranjero utilizando precios o montos de contraprestaciones distintos de los que hubieran usado partes no relacionadas en operaciones comparables.
+V. Perciba sus remuneraciones independientemente del resultado de sus actividades.
+
+VI. Efectúe operaciones con el residente en el extranjero utilizando precios o montos de contraprestaciones distintos de los que hubieran usado partes no relacionadas en operaciones comparables.
 
 Se presume que una persona física o moral no es un agente independiente, cuando actúe exclusiva o casi exclusivamente por cuenta de residentes en el extranjero que sean sus partes relacionadas. Párrafo adicionado DOF 09-12-2019
 

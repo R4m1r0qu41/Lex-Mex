@@ -89,7 +89,9 @@ XVIII. Las personas morales que distribuyan anticipos o rendimientos en los tér
 
 XIX. Tratándose de contribuyentes que estén obligados o hayan optado por dictaminarse en los términos del artículo [32-A](../../cff/markdown/articulo-32-A.md) del Código Fiscal de la Federación, deberán dar a conocer en la Asamblea General Ordinaria de Accionistas un reporte en el que se informe sobre el cumplimiento de las obligaciones fiscales a su cargo en el ejercicio fiscal al que corresponda el dictamen. Párrafo reformado DOF 12-11-2021
 
-La obligación prevista en el párrafo anterior, se tendrá por cumplida si en la Asamblea referida se distribuye entre los accionistas y se da lectura al informe sobre la revisión de la situación fiscal a que se refiere la fracción III del artículo [52](../../cff/markdown/articulo-52.md) del Código Fiscal de la Federación. XX. Informar a las autoridades fiscales, a través de los medios y formatos que para tal efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general, la enajenación de acciones o títulos valor que representen la propiedad de bienes emitidas por el contribuyente, efectuada entre residentes en el extranjero sin establecimiento permanente en México.
+La obligación prevista en el párrafo anterior, se tendrá por cumplida si en la Asamblea referida se distribuye entre los accionistas y se da lectura al informe sobre la revisión de la situación fiscal a que se refiere la fracción III del artículo [52](../../cff/markdown/articulo-52.md) del Código Fiscal de la Federación.
+
+XX. Informar a las autoridades fiscales, a través de los medios y formatos que para tal efecto señale el Servicio de Administración Tributaria mediante reglas de carácter general, la enajenación de acciones o títulos valor que representen la propiedad de bienes emitidas por el contribuyente, efectuada entre residentes en el extranjero sin establecimiento permanente en México.
 
 La información a que se refiere esta fracción, deberá presentarse a más tardar durante el mes siguiente a la fecha en la que ocurra la operación, y deberá contener por lo menos los siguientes datos:
 

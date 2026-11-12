@@ -19,7 +19,9 @@ source_sha256: a4becbaa8039573e226e916618697661f1294aa26dac434a01144ba65b13699e
 
 En los casos de caducidad por las causas expresadas en las fracciones V, VI, y VII del artículo [29](articulo-29.md), si el Gobierno no considera conveniente hacer por su cuenta la explotación de la vía, procederá, en subasta pública, a la venta de ésta con todos sus bienes muebles e inmuebles, conforme a las bases siguientes:
 
-I. La Secretaría de Infraestructura, Comunicaciones y Transportes designará peritos que hagan el avalúo de la vía de comunicación con todos sus bienes, el cual servirá de base para el remate; Fracción reformada DOF 09-04-2012, 16-07-2025 II.- Se publicarán edictos convocando para el remate, en el "Diario Oficial" de la Federación y en uno de los periódicos de mayor circulación en el país, tres veces, de diez en diez días;
+I. La Secretaría de Infraestructura, Comunicaciones y Transportes designará peritos que hagan el avalúo de la vía de comunicación con todos sus bienes, el cual servirá de base para el remate; Fracción reformada DOF 09-04-2012, 16-07-2025
+
+II.- Se publicarán edictos convocando para el remate, en el "Diario Oficial" de la Federación y en uno de los periódicos de mayor circulación en el país, tres veces, de diez en diez días;
 
 III. Las posturas deberán ser aprobadas por la Secretaría de Infraestructura, Comunicaciones y Transportes; Fracción reformada DOF 09-04-2012, 16-07-2025
 

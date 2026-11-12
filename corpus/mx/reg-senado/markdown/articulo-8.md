@@ -29,7 +29,9 @@ IV. Formar parte de un grupo parlamentario;
 
 V. Elegir y ser electos para integrar los órganos del Senado o la Comisión Permanente, así como de aquellos otros establecidos conforme a la Constitución y las leyes;
 
-VI. Ser electos o designados para participar en delegaciones, foros, consultas, reuniones y ceremonias de carácter oficial, en el país o en el extranjero; VII. Solicitar, por sí mismos o por conducto del órgano legislativo competente, a las autoridades y entidades de orden público, la información necesaria para el adecuado desarrollo de la función legislativa;
+VI. Ser electos o designados para participar en delegaciones, foros, consultas, reuniones y ceremonias de carácter oficial, en el país o en el extranjero;
+
+VII. Solicitar, por sí mismos o por conducto del órgano legislativo competente, a las autoridades y entidades de orden público, la información necesaria para el adecuado desarrollo de la función legislativa;
 
 VIII. Solicitar y recibir información de las instancias administrativas, parlamentarias y de investigación del Senado;
 

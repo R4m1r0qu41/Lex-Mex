@@ -39,7 +39,7 @@ IX. El delito comprenda más de una víctima;
 
 X. Cuando el autor del delito:
 
-a) Sea miembro de la delincuencia organizada; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS b) Haya suministrado a la víctima substancias de las prohibidas por la Ley General de Salud;
+a) Sea miembro de la delincuencia organizada; b) Haya suministrado a la víctima substancias de las prohibidas por la Ley General de Salud;
 
 c) Tenga una posición de responsabilidad o confianza respecto de la víctima;
 

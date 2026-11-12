@@ -19,7 +19,9 @@ source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 
 Los contribuyentes que opten por pagar el impuesto sobre la renta en términos de esta Sección, deberán cumplir con lo siguiente:
 
-I. Encontrarse activos en el Registro Federal de Contribuyentes. II. En el caso de reanudación de actividades, que en el ejercicio inmediato anterior, los ingresos amparados en comprobantes fiscales digitales por Internet no hayan excedido de tres millones quinientos mil pesos.
+I. Encontrarse activos en el Registro Federal de Contribuyentes.
+
+II. En el caso de reanudación de actividades, que en el ejercicio inmediato anterior, los ingresos amparados en comprobantes fiscales digitales por Internet no hayan excedido de tres millones quinientos mil pesos.
 
 III. Encontrarse al corriente en el cumplimiento de sus obligaciones fiscales de conformidad con lo previsto en el artículo [32-D](../../cff/markdown/articulo-32-D.md) del Código Fiscal de la Federación.
 

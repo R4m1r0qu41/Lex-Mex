@@ -21,7 +21,9 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Aprovechamiento extractivo: La utilización de ejemplares, partes o derivados de especies silvestres, mediante colecta, captura o caza.
 
-II. Aprovechamiento no extractivo: Las actividades directamente relacionadas con la vida silvestre en su hábitat natural que no impliquen la remoción de ejemplares, partes o derivados, y que, de no ser adecuadamente reguladas, pudieran causar impactos significativos sobre eventos biológicos, poblaciones o hábitat de las especies silvestres. III. Capacidad de carga: Estimación de la tolerancia de un ecosistema al uso de sus componentes, tal que no rebase su capacidad de recuperarse en el corto plazo sin la aplicación de medidas de restauración o recuperación para restablecer el equilibrio ecológico.
+II. Aprovechamiento no extractivo: Las actividades directamente relacionadas con la vida silvestre en su hábitat natural que no impliquen la remoción de ejemplares, partes o derivados, y que, de no ser adecuadamente reguladas, pudieran causar impactos significativos sobre eventos biológicos, poblaciones o hábitat de las especies silvestres.
+
+III. Capacidad de carga: Estimación de la tolerancia de un ecosistema al uso de sus componentes, tal que no rebase su capacidad de recuperarse en el corto plazo sin la aplicación de medidas de restauración o recuperación para restablecer el equilibrio ecológico.
 
 IV. Captura: La extracción de ejemplares vivos de fauna silvestre del hábitat en que se encuentran.
 
@@ -43,7 +45,9 @@ XII. Derivados: Los materiales generados por los ejemplares a través de proceso
 
 XIII. Duplicados: Cada uno de los ejemplares de una especie o partes de ellos, producto de una misma colecta científica. Fracción recorrida DOF 05-11-2013
 
-XIV. Ejemplares o poblaciones exóticos: Aquellos que se encuentran fuera de su ámbito de distribución natural, lo que incluye a los híbridos y modificados. Fracción recorrida DOF 05-11-2013 XV. Ejemplares o poblaciones ferales: Aquellos pertenecientes a especies domésticas que al quedar fuera del control del hombre, se establecen en el hábitat natural de la vida silvestre. Fracción recorrida DOF 05-11-2013
+XIV. Ejemplares o poblaciones exóticos: Aquellos que se encuentran fuera de su ámbito de distribución natural, lo que incluye a los híbridos y modificados. Fracción recorrida DOF 05-11-2013
+
+XV. Ejemplares o poblaciones ferales: Aquellos pertenecientes a especies domésticas que al quedar fuera del control del hombre, se establecen en el hábitat natural de la vida silvestre. Fracción recorrida DOF 05-11-2013
 
 XVI. Ejemplares o poblaciones nativos: Aquellos pertenecientes a especies silvestres que se encuentran dentro de su ámbito de distribución natural. Fracción recorrida DOF 05-11-2013
 
@@ -63,7 +67,9 @@ XXIII. Hábitat: El sitio específico en un medio ambiente físico, ocupado por 
 
 XXIV. Licencia de caza: El documento mediante el cual la autoridad competente acredita que una persona está calificada, tanto por sus conocimientos sobre los instrumentos y medios de las actividades cinegéticas, como de las regulaciones en la materia, para realizar la caza deportiva en el territorio nacional. Fracción recorrida DOF 06-04-2010, 05-11-2013
 
-XXV. Legítimo poseedor: El poseedor de buena fe en los términos del Código Civil Federal. Fracción reformada y recorrida DOF 06-04-2010. Recorrida DOF 05-11-2013 XXVI. Maltrato: Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor, deterioro físico o sufrimiento, que afecte el bienestar, ponga en peligro la vida del animal, o afecte gravemente su salud o integridad física, así como la exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin. Fracción adicionada DOF 05-11-2013
+XXV. Legítimo poseedor: El poseedor de buena fe en los términos del Código Civil Federal. Fracción reformada y recorrida DOF 06-04-2010. Recorrida DOF 05-11-2013
+
+XXVI. Maltrato: Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor, deterioro físico o sufrimiento, que afecte el bienestar, ponga en peligro la vida del animal, o afecte gravemente su salud o integridad física, así como la exposición a condiciones de sobreexplotación de su capacidad física con cualquier fin. Fracción adicionada DOF 05-11-2013
 
 XXVII. Manejo: Aplicación de métodos y técnicas para la conservación y aprovechamiento sustentable de la vida silvestre y su hábitat. Fracción recorrida DOF 06-04-2010, 05-11-2013
 
@@ -83,7 +89,9 @@ XXXIV. Parte: La porción, fragmento o componente de un ejemplar. Para efectos d
 
 XXXV. Plan de manejo: El documento técnico operativo de las Unidades de [Manejo](articulo-3o.md) para la [Conservación](articulo-3o.md) de [Vida Silvestre](articulo-3o.md) sujeto a aprobación de la Secretaría, que describe y programa actividades para el manejo de especies silvestres particulares y sus hábitats y establece metas e indicadores de éxito en función del hábitat y las poblaciones. Fracción recorrida DOF 06-04-2010, 05-11-2013
 
-XXXVI. Población: El conjunto de individuos de una especie silvestre que comparten el mismo hábitat. Se considera la unidad básica de manejo de las especies silvestres en vida libre. Fracción recorrida DOF 06-04-2010, 05-11-2013 XXXVII. Predio: Unidad territorial delimitada por un polígono que puede contener cuerpos de agua o ser parte de ellos. Fracción recorrida DOF 06-04-2010, 05-11-2013
+XXXVI. Población: El conjunto de individuos de una especie silvestre que comparten el mismo hábitat. Se considera la unidad básica de manejo de las especies silvestres en vida libre. Fracción recorrida DOF 06-04-2010, 05-11-2013
+
+XXXVII. Predio: Unidad territorial delimitada por un polígono que puede contener cuerpos de agua o ser parte de ellos. Fracción recorrida DOF 06-04-2010, 05-11-2013
 
 XXXVIII. Recuperación: El restablecimiento de los procesos naturales y de los parámetros genéticos, demográficos o ecológicos de una población o especie, con referencia a su estado al iniciar las actividades de recuperación, así como a su abundancia local, estructura y dinámica en el pasado, para retornar a cumplir con su papel ecológico y evolutivo con la consecuente mejoría en la calidad del hábitat. Fracción recorrida DOF 06-04-2010, 05-11-2013
 
@@ -103,7 +111,9 @@ XLIV. Servicios ambientales: Los beneficios de interés social que se derivan de
 
 XLV. Tasa de aprovechamiento: La cantidad de ejemplares, partes o derivados que se pueden extraer dentro de un área y un período determinados, de manera que no se afecte el mantenimiento del recurso y su potencial productivo en el largo plazo. Fracción recorrida DOF 06-04-2010, 05-11-2013
 
-XLVI. Traslocación: La liberación planificada al hábitat natural de ejemplares de la misma especie, que se realiza para sustituir poblaciones desaparecidas de una subespecie silvestre distinta y de la cual ya no existen ejemplares en condiciones de ser liberados. Fracción recorrida DOF 06-04-2010, 05-11-2013 XLVII. Trato Digno y Respetuoso: Las medidas que esta Ley y su Reglamento, así como Tratados Internacionales, las normas ambientales y las normas oficiales mexicanas establecen para evitar dolor, deterioro físico o sufrimiento, durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento o sacrificio. Fracción adicionada DOF 05-11-2013
+XLVI. Traslocación: La liberación planificada al hábitat natural de ejemplares de la misma especie, que se realiza para sustituir poblaciones desaparecidas de una subespecie silvestre distinta y de la cual ya no existen ejemplares en condiciones de ser liberados. Fracción recorrida DOF 06-04-2010, 05-11-2013
+
+XLVII. Trato Digno y Respetuoso: Las medidas que esta Ley y su Reglamento, así como Tratados Internacionales, las normas ambientales y las normas oficiales mexicanas establecen para evitar dolor, deterioro físico o sufrimiento, durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento o sacrificio. Fracción adicionada DOF 05-11-2013
 
 XLVIII. Unidades de manejo para la conservación de vida silvestre: Los predios e instalaciones registrados que operan de conformidad con un plan de manejo aprobado y dentro de los cuales se da seguimiento permanente al estado del hábitat y de poblaciones o ejemplares que ahí se distribuyen. Fracción recorrida DOF 06-04-2010, 05-11-2013
 

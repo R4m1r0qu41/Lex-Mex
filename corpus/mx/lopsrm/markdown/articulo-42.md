@@ -21,7 +21,9 @@ Las dependencias y entidades, bajo su responsabilidad, podrán contratar obras p
 
 I. El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, el licenciamiento exclusivo de patentes, derechos de autor u otros derechos exclusivos; Fracción reformada DOF 07-07-2005
 
-II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del país como consecuencia de caso fortuito o de fuerza mayor; Fracción reformada DOF 07-07-2005 III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, entre otros, de vida, de salud, medio ambiente, servicios públicos o económicos, debidamente justificados; Fracción reformada DOF 16-04-2025
+II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del país como consecuencia de caso fortuito o de fuerza mayor; Fracción reformada DOF 07-07-2005
+
+III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, entre otros, de vida, de salud, medio ambiente, servicios públicos o económicos, debidamente justificados; Fracción reformada DOF 16-04-2025
 
 IV. Se realicen con fines exclusivamente militares o para la armada, o su contratación mediante licitación pública ponga en riesgo la seguridad nacional o la seguridad pública, en los términos de las leyes de la materia; Fracción reformada DOF 07-07-2005, 28-05-2009
 

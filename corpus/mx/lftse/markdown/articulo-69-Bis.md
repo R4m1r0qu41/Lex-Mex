@@ -45,9 +45,9 @@ XI. Proporcionar apoyo o servicios institucionales para actividades de campaña 
 
 XII. Realizar aportaciones o solicitar contribuciones a subordinados para financiar campañas o actividades sindicales.
 
-XIII. Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical. LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
+XIII. Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical.
 
-ARTÍCULO 123 CONSTITUCIONAL XIV. Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales.
+XIV. Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales.
 
 XV. Omitir colaborar o prestar auxilio en los procesos de verificación, vigilancia o supervisión sindical cuando la autoridad lo requiera.
 

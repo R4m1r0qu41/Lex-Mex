@@ -19,7 +19,9 @@ source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2
 
 1. La moción de procedimiento tiene como propósito reclamar las resoluciones del Presidente que se apartan de la normatividad aplicable. Para ello se consulta el voto del Pleno, conforme a lo siguiente:
 
-I. En términos del artículo 68 de la Ley, la moción se presenta al Presidente por un senador con el apoyo de al menos otros cinco; II. El Presidente precisa los términos de la consulta que se somete al Pleno, conforme a la moción presentada;
+I. En términos del artículo 68 de la Ley, la moción se presenta al Presidente por un senador con el apoyo de al menos otros cinco;
+
+II. El Presidente precisa los términos de la consulta que se somete al Pleno, conforme a la moción presentada;
 
 III. Se forma una lista hasta con dos oradores a favor y dos en contra. Cada uno de ellos interviene hasta por cinco minutos; y
 

@@ -1,102 +1,102 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:4444-4454",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:4446-4456",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4444,
-    "end_char": 4454
+    "start_char": 4446,
+    "end_char": 4456
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:4701-4711",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:4703-4713",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4701,
-    "end_char": 4711
+    "start_char": 4703,
+    "end_char": 4713
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:8681-8687",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:8684-8690",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:manejo",
     "span": "Manejo",
-    "start_char": 8681,
-    "end_char": 8687
+    "start_char": 8684,
+    "end_char": 8690
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:8696-8708",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:8699-8711",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:conservacion",
     "span": "Conservación",
-    "start_char": 8696,
-    "end_char": 8708
+    "start_char": 8699,
+    "end_char": 8711
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:8712-8726",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:8715-8729",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:vida-silvestre",
     "span": "Vida Silvestre",
-    "start_char": 8712,
-    "end_char": 8726
+    "start_char": 8715,
+    "end_char": 8729
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:8753-8763",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:3:term-usage:8756-8766",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 8753,
-    "end_char": 8763
+    "start_char": 8756,
+    "end_char": 8766
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:2199-2213",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:2200-2214",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:vida-silvestre",
     "span": "Vida Silvestre",
-    "start_char": 2199,
-    "end_char": 2213
+    "start_char": 2200,
+    "end_char": 2214
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:2569-2575",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:2570-2576",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:manejo",
     "span": "Manejo",
-    "start_char": 2569,
-    "end_char": 2575
+    "start_char": 2570,
+    "end_char": 2576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:2584-2596",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:2585-2597",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:conservacion",
     "span": "Conservación",
-    "start_char": 2584,
-    "end_char": 2596
+    "start_char": 2585,
+    "end_char": 2597
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:2600-2614",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:2601-2615",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:vida-silvestre",
     "span": "Vida Silvestre",
-    "start_char": 2600,
-    "end_char": 2614
+    "start_char": 2601,
+    "end_char": 2615
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:4887-4897",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:9:term-usage:4889-4899",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4887,
-    "end_char": 4897
+    "start_char": 4889,
+    "end_char": 4899
   },
   {
     "schema_version": "0.1.0",
@@ -1108,12 +1108,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:67:term-usage:867-877",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:67:term-usage:868-878",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:67",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 867,
-    "end_char": 877
+    "start_char": 868,
+    "end_char": 878
   },
   {
     "schema_version": "0.1.0",
@@ -1666,39 +1666,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:122:term-usage:1161-1171",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:122:term-usage:1162-1172",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:122",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1161,
-    "end_char": 1171
+    "start_char": 1162,
+    "end_char": 1172
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:122:term-usage:1764-1774",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:122:term-usage:1765-1775",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:122",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1764,
-    "end_char": 1774
+    "start_char": 1765,
+    "end_char": 1775
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:122:term-usage:2288-2298",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:122:term-usage:2289-2299",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:122",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2288,
-    "end_char": 2298
+    "start_char": 2289,
+    "end_char": 2299
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgvs:article:122:term-usage:3610-3620",
+    "id": "urn:lex-mx:federal:statute:lgvs:article:122:term-usage:3612-3622",
     "provision_id": "urn:lex-mx:federal:statute:lgvs:article:122",
     "term_id": "urn:lex-mx:federal:statute:lgvs:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3610,
-    "end_char": 3620
+    "start_char": 3612,
+    "end_char": 3622
   },
   {
     "schema_version": "0.1.0",

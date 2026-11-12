@@ -21,7 +21,9 @@ Con independencia de lo establecido en los capítulos I a IV de esta Ley, respec
 
 I. Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo; Fracción reformada DOF 09-12-2013
 
-II. Fondo de Aportaciones para los Servicios de Salud; III. Fondo de Aportaciones para la Infraestructura Social;
+II. Fondo de Aportaciones para los Servicios de Salud;
+
+III. Fondo de Aportaciones para la Infraestructura Social;
 
 IV. Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal; Fracción reformada DOF 31-12-1998, 31-12-2000
 

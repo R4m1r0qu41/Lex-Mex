@@ -71,7 +71,9 @@ r) Las previsiones de gasto que correspondan al Programa de Ciencia, Tecnología
 
 s) Las previsiones de gasto que correspondan a la Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía, a que se refiere el artículo 25 de la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética; Inciso adicionado DOF 19-01-2012
 
-t) Las previsiones de gasto que correspondan para la Atención a Grupos Vulnerables; Inciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014 u) Las previsiones de gasto que correspondan a la Mitigación de los efectos del Cambio Climático, y Inciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014
+t) Las previsiones de gasto que correspondan para la Atención a Grupos Vulnerables; Inciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014
+
+u) Las previsiones de gasto que correspondan a la Mitigación de los efectos del Cambio Climático, y Inciso adicionado DOF 19-01-2012. Reformado DOF 24-01-2014
 
 v) Las previsiones de gasto que correspondan a la Atención de Niños, Niñas y Adolescentes; Inciso adicionado DOF 24-01-2014
 

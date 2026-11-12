@@ -19,7 +19,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 La autoridad fiscal podrá proceder a determinar presuntivamente el volumen del agua, en los siguientes casos: Párrafo reformado DOF 01-01-2002
 
-I.- No se tenga instalado aparato de medición. II. No funcione el aparato de medición y tal circunstancia no se haya informado dentro del plazo que se establece en el artículo [225](articulo-225.md) de esta Ley o habiéndolo informado dicho aparato no se hubiera reparado dentro del trimestre siguiente. Fracción reformada DOF 20-12-1991, 18-11-2010
+I.- No se tenga instalado aparato de medición.
+
+II. No funcione el aparato de medición y tal circunstancia no se haya informado dentro del plazo que se establece en el artículo [225](articulo-225.md) de esta Ley o habiéndolo informado dicho aparato no se hubiera reparado dentro del trimestre siguiente. Fracción reformada DOF 20-12-1991, 18-11-2010
 
 III. Estén rotos los sellos o se haya alterado o desajustado el funcionamiento, del aparato de medición. Fracción reformada DOF 18-11-2010
 

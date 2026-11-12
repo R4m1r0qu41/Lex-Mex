@@ -25,6 +25,8 @@ II. Por el estudio y trámite de la solicitud de concesión en territorio insula
 
 III. (Se deroga). Fracción reformada DOF 01-01-2002. Derogada DOF 18-11-2010
 
-IV. Por la expedición de la concesión en territorio insular .......................................... $5,271.89 V. (Se deroga). Fracción adicionada DOF 01-01-2002. Derogada DOF 18-11-2010 Reforma DOF 18-11-2010: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 30-12-2002)
+IV. Por la expedición de la concesión en territorio insular .......................................... $5,271.89
+
+V. (Se deroga). Fracción adicionada DOF 01-01-2002. Derogada DOF 18-11-2010 Reforma DOF 18-11-2010: Derogó del artículo el entonces párrafo segundo (antes adicionado DOF 30-12-2002)
 
 Artículo adicionado DOF 15-12-1995

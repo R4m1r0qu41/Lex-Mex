@@ -17,7 +17,9 @@ source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 
 # Artículo 141
 
-El naviero u operador tendrá la obligación de entregar al pasajero el boleto respectivo, el cual deberá contar al menos con los siguientes requisitos: I. Nombre y domicilio del naviero u operador;
+El naviero u operador tendrá la obligación de entregar al pasajero el boleto respectivo, el cual deberá contar al menos con los siguientes requisitos:
+
+I. Nombre y domicilio del naviero u operador;
 
 II. En su caso, nombre del pasajero;
 

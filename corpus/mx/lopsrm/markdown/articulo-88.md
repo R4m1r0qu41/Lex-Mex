@@ -23,7 +23,9 @@ En su solicitud el inconforme deberá expresar las razones por las cuales estima
 
 Solicitada la suspensión correspondiente, la autoridad que conozca de la inconformidad deberá acordar lo siguiente:
 
-I. Concederá o negará provisionalmente la suspensión; en el primer caso, fijará las condiciones y efectos de la medida, y II. Dentro de los tres días hábiles siguientes a que se haya recibido el informe previo de la convocante, se pronunciará respecto de la suspensión definitiva.
+I. Concederá o negará provisionalmente la suspensión; en el primer caso, fijará las condiciones y efectos de la medida, y
+
+II. Dentro de los tres días hábiles siguientes a que se haya recibido el informe previo de la convocante, se pronunciará respecto de la suspensión definitiva.
 
 El acuerdo relativo a la suspensión contendrá las consideraciones y fundamentos legales en que se apoye para concederla o negarla.
 

@@ -23,7 +23,9 @@ I. Los dispositivos de protección y control de accesos a las zonas restringida 
 
 II. Las medidas de acceso y de control del movimiento de personas y vehículos en las zonas restringidas;
 
-III. La revisión de los pasajeros y su equipaje de mano, antes del ingreso al área estéril; IV. En su caso, la revisión de equipaje facturado, no acompañado, no reclamado o en transferencia, considerando los procedimientos necesarios para las excepciones que procedan y, en su caso, revisiones a pasajeros de llegada en vuelos internacionales, conforme al plan de contingencia;
+III. La revisión de los pasajeros y su equipaje de mano, antes del ingreso al área estéril;
+
+IV. En su caso, la revisión de equipaje facturado, no acompañado, no reclamado o en transferencia, considerando los procedimientos necesarios para las excepciones que procedan y, en su caso, revisiones a pasajeros de llegada en vuelos internacionales, conforme al plan de contingencia;
 
 V. La revisión o, en su caso, el control de pasajeros en tránsito o en transferencia en las áreas destinadas para tal fin;
 

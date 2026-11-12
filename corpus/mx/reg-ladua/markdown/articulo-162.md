@@ -25,4 +25,6 @@ II. Anexar copia del título de propiedad o del certificado de registro otorgado
 
 III. Declaración firmada bajo protesta de decir verdad, en la que se comprometan a retornar la casa rodante dentro del plazo autorizado y a no realizar actos u omisiones que configuren infracciones o delitos por el indebido uso o destino de las mismas;
 
-IV. Realizar el pago correspondiente por concepto del trámite para la importación temporal de casas rodantes, y V. Cumplir con los demás requisitos que señale el SAT mediante Reglas.
+IV. Realizar el pago correspondiente por concepto del trámite para la importación temporal de casas rodantes, y
+
+V. Cumplir con los demás requisitos que señale el SAT mediante Reglas.

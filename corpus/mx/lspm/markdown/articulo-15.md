@@ -17,7 +17,9 @@ source_sha256: f8a66009368493d0c964c21f4cb165c39d5bb3b1236058511547f9c3cca6e5cc
 
 # Artículo 15
 
-Queda prohibida la circulación por correo de los siguientes envíos y correspondencia: I.- Los cerrados que en su envoltura y los abiertos que por su texto, forma, mecanismo o aplicación sean contrarios a la Ley, a la moral o a las buenas costumbres.
+Queda prohibida la circulación por correo de los siguientes envíos y correspondencia:
+
+I.- Los cerrados que en su envoltura y los abiertos que por su texto, forma, mecanismo o aplicación sean contrarios a la Ley, a la moral o a las buenas costumbres.
 
 II.- Los que contengan materias corrosivas, inflamables, explosivas o cualquier otra que puedan causar daños. Fracción reformada DOF 19-01-2023
 

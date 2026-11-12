@@ -23,7 +23,9 @@ La Secretaría establecerá las disposiciones generales para la utilización de 
 
 I. Los trámites presupuestarios que podrán llevarse a cabo y las autorizaciones correspondientes que podrán emitirse;
 
-II. Las especificaciones de los equipos y sistemas electrónicos y las unidades administrativas que estarán facultadas para autorizar su uso; III. Los requisitos y obligaciones que deberán cumplir los servidores públicos autorizados para realizar los trámites y, en su caso, para emitir las autorizaciones correspondientes;
+II. Las especificaciones de los equipos y sistemas electrónicos y las unidades administrativas que estarán facultadas para autorizar su uso;
+
+III. Los requisitos y obligaciones que deberán cumplir los servidores públicos autorizados para realizar los trámites y, en su caso, para emitir las autorizaciones correspondientes;
 
 IV. Los medios de identificación electrónica que hagan constar la validez de los trámites y autorizaciones llevados a cabo por los servidores públicos autorizados, y
 

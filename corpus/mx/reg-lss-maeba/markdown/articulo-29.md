@@ -19,7 +19,9 @@ source_sha256: 9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd
 
 Para la integración de los expedientes del procedimiento de enajenación de los bienes, la Jefatura Delegacional de Servicios Administrativos o, en su caso, el tercero especializado designado para tales efectos, deberá considerar, como mínimo, la información siguiente:
 
-I. La documentación que sirvió de base para la recepción, control y custodia del bien; II. Las fotografías que describan su estado físico;
+I. La documentación que sirvió de base para la recepción, control y custodia del bien;
+
+II. Las fotografías que describan su estado físico;
 
 III. Los acuerdos y demás documentos que acrediten las decisiones que, en su caso, haya tomado el [Comité Técnico](articulo-2.md) sobre el bien;
 

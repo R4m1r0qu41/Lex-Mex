@@ -35,7 +35,9 @@ VI. Efectuar con fines de cobertura, sin que en ningún caso actúe como interme
 
 VII. Emitir cartas de crédito con base en el otorgamiento de créditos o previa recepción de su importe; Fracción reformada DOF 10-01-2014
 
-VIII. Constituir depósitos en instituciones de crédito y entidades financieras del exterior; IX. Efectuar operaciones de factoraje financiero con sus socios o con las empresas de las que éstos tengan control;
+VIII. Constituir depósitos en instituciones de crédito y entidades financieras del exterior;
+
+IX. Efectuar operaciones de factoraje financiero con sus socios o con las empresas de las que éstos tengan control;
 
 X. Celebrar contratos de arrendamiento financiero con sus socios y adquirir los bienes que sean objeto de tales contratos;
 
@@ -57,7 +59,9 @@ XVII. Proporcionar de manera directa servicios de distribución de acciones a la
 
 XVIII. Adquirir títulos representativos del capital de sociedades mercantiles, incluyendo aquéllas que les presten servicios complementarios o auxiliares en su administración, o en la realización de su objeto, así como de sociedades inmobiliarias que sean propietarias o administradoras de bienes destinados a sus oficinas, previa autorización de la [Comisión](articulo-3.md); dichas sociedades deberán ajustarse, en cuanto a los servicios u operaciones que la Comisión repute complementarios o auxiliares de las operaciones que sean propias de las uniones, a las disposiciones de carácter general que dicte la misma Comisión, y a su inspección y vigilancia y, en consecuencia, deberán cubrir las cuotas de inspección y vigilancia correspondientes;
 
-XIX. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda; XX. Dar en arrendamiento sus bienes muebles e inmuebles, cuando concurran circunstancias que lo justifiquen;
+XIX. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda;
+
+XX. Dar en arrendamiento sus bienes muebles e inmuebles, cuando concurran circunstancias que lo justifiquen;
 
 XXI. Tomar a su cargo o contratar la construcción o administración de obras de propiedad de sus socios para uso de los mismos, cuando esas obras sean necesarias para el objeto directo de sus empresas, negociaciones o industrias;
 

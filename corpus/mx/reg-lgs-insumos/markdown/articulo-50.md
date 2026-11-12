@@ -21,6 +21,8 @@ source_sha256: e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6
 
 I. Médicos;
 
-II. Homeópatas; III. Cirujanos dentistas, para casos odontológicos, y
+II. Homeópatas;
+
+III. Cirujanos dentistas, para casos odontológicos, y
 
 IV. Médicos veterinarios, cuando los prescriban para aplicarse en animales.

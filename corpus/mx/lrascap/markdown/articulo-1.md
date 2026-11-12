@@ -23,4 +23,6 @@ I. Regular, promover y facilitar la captación de fondos o recursos monetarios y
 
 II. Regular, promover y facilitar las actividades y operaciones de estas últimas, su sano y equilibrado desarrollo;
 
-III. Proteger los intereses de los Socios ahorradores, y IV. Establecer los términos en que el Estado ejercerá las facultades de supervisión, regulación y sanción, en términos de la presente Ley.
+III. Proteger los intereses de los Socios ahorradores, y
+
+IV. Establecer los términos en que el Estado ejercerá las facultades de supervisión, regulación y sanción, en términos de la presente Ley.

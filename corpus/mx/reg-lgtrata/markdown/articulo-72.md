@@ -17,7 +17,9 @@ source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694
 
 # Artículo 72
 
-Los recursos del Fondo se destinarán a los siguientes rubros en las proporciones que determine anualmente el Comité Técnico a propuesta de la Dirección General de Estrategias para la Atención de Derechos Humanos de la Secretaría: REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS I. En términos del artículo [81](../../lgtrata/markdown/articulo-81.md), último párrafo, de la Ley, por lo que respecta al monto que determine el juzgador en sentencia ejecutoriada para la reparación del daño a las víctimas y ofendidos por los daños ocasionados por cualquiera de los delitos en materia de trata de personas que la Ley establece como del fuero federal y que no se haya podido hacer efectivo al sentenciado, el cual deberá cubrir lo siguiente:
+Los recursos del Fondo se destinarán a los siguientes rubros en las proporciones que determine anualmente el Comité Técnico a propuesta de la Dirección General de Estrategias para la Atención de Derechos Humanos de la Secretaría:
+
+I. En términos del artículo [81](../../lgtrata/markdown/articulo-81.md), último párrafo, de la Ley, por lo que respecta al monto que determine el juzgador en sentencia ejecutoriada para la reparación del daño a las víctimas y ofendidos por los daños ocasionados por cualquiera de los delitos en materia de trata de personas que la Ley establece como del fuero federal y que no se haya podido hacer efectivo al sentenciado, el cual deberá cubrir lo siguiente:
 
 a) Costos de tratamientos médicos, medicinas, exámenes clínicos e intervenciones necesarias, prótesis o aparatos ortopédicos y órtesis;
 

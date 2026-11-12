@@ -33,7 +33,9 @@ VI. Presidir y conducir las sesiones del Órgano de Gobierno;
 
 VII. Emitir disposiciones o reglas de carácter general y dictar lineamientos y medidas específicas para la interpretación y aplicación de la normatividad de la Procuraduría, así como, para el desarrollo y mejor desempeño de las actividades de la propia Procuraduría;
 
-VIII. Delegar facultades en los funcionarios de la Procuraduría en los términos del Estatuto Orgánico; IX. Ejercer la representación legal de la Procuraduría y, en su caso, otorgar poderes de representación de la misma, en los términos establecidos en el Estatuto Orgánico;
+VIII. Delegar facultades en los funcionarios de la Procuraduría en los términos del Estatuto Orgánico;
+
+IX. Ejercer la representación legal de la Procuraduría y, en su caso, otorgar poderes de representación de la misma, en los términos establecidos en el Estatuto Orgánico;
 
 X. Elaborar el proyecto de Estatuto Orgánico de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, así como de cualquier disposición modificatoria al mismo, y someterla a la aprobación del Órgano de Gobierno;
 

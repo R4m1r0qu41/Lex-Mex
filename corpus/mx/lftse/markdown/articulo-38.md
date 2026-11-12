@@ -25,9 +25,9 @@ II.- Del cobro de cuotas sindicales o de aportación de fondos para la constituc
 
 III.- De los descuentos ordenados por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado con motivo de obligaciones contraídas por los trabajadores;
 
-IV.- De los descuentos ordenados por autoridad judicial competente, para cubrir alimentos que fueren exigidos al trabajador, y LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
+IV.- De los descuentos ordenados por autoridad judicial competente, para cubrir alimentos que fueren exigidos al trabajador, y
 
-ARTÍCULO 123 CONSTITUCIONAL V.- De cubrir obligaciones a cargo del trabajador, en las que haya consentido, derivadas de la adquisición o del uso de habitaciones legalmente consideras como baratas, siempre que la afectación se haga mediante fideicomiso en institución nacional de crédito autorizada al efecto.
+V.- De cubrir obligaciones a cargo del trabajador, en las que haya consentido, derivadas de la adquisición o del uso de habitaciones legalmente consideras como baratas, siempre que la afectación se haga mediante fideicomiso en institución nacional de crédito autorizada al efecto.
 
 VI.- Del pago de abonos para cubrir préstamos provenientes del fondo de la vivienda destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del 20% del salario. Fracción adicionada DOF 28-12-1972
 

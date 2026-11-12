@@ -27,6 +27,8 @@ III. Celebrarán convenios de concertación con organizaciones sociales y privad
 
 IV. Celebrarán convenios con medios de comunicación masiva para la promoción de las acciones de prevención y gestión integral de los residuos;
 
-V. Promoverán el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y gestión integral de los residuos; VI. Impulsarán la conciencia ecológica y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la comunidad para la prevención y gestión integral de los residuos, así como el uso de materiales que cumplan con criterios de eficiencia ambiental y tecnológica. Para ello, podrán celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y Fracción reformada DOF 05-12-2014
+V. Promoverán el reconocimiento a los esfuerzos más destacados de la sociedad en materia de prevención y gestión integral de los residuos;
+
+VI. Impulsarán la conciencia ecológica y la aplicación de la presente Ley, a través de la realización de acciones conjuntas con la comunidad para la prevención y gestión integral de los residuos, así como el uso de materiales que cumplan con criterios de eficiencia ambiental y tecnológica. Para ello, podrán celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y Fracción reformada DOF 05-12-2014
 
 VII. Concertarán acciones e inversiones con los sectores social y privado, instituciones académicas, grupos y organizaciones sociales y demás personas físicas y morales interesadas.

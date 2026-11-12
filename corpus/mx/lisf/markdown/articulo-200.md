@@ -17,7 +17,9 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 # Artículo 200
 
-Las [Instituciones de Seguros](articulo-2.md), al realizar su actividad, deberán observar los siguientes principios: I. Ofrecer y celebrar contratos en relación a las operaciones autorizadas, en términos de las disposiciones legales aplicables y conforme a las sanas prácticas en materia de seguros, con el propósito de lograr una adecuada selección de los riesgos que se asuman;
+Las [Instituciones de Seguros](articulo-2.md), al realizar su actividad, deberán observar los siguientes principios:
+
+I. Ofrecer y celebrar contratos en relación a las operaciones autorizadas, en términos de las disposiciones legales aplicables y conforme a las sanas prácticas en materia de seguros, con el propósito de lograr una adecuada selección de los riesgos que se asuman;
 
 II. Determinar, sobre bases técnicas, las primas netas de riesgo a fin de garantizar, con un elevado grado de certidumbre, el cumplimiento de las obligaciones que al efecto contraigan con los asegurados;
 

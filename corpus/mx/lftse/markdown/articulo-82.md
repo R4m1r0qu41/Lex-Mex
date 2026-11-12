@@ -21,6 +21,4 @@ Los sindicatos se disolverán:
 
 I.- Por el voto de las dos terceras partes de los miembros que los integren y
 
-II.- Porque dejen de reunir los requisitos señalados por el Artículo [71](articulo-71.md). LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL
+II.- Porque dejen de reunir los requisitos señalados por el Artículo [71](articulo-71.md).

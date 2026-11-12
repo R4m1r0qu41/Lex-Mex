@@ -161,7 +161,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "XII",
     "start_char": 3783,
-    "end_char": 3820,
+    "end_char": 3821,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "XIII",
-    "start_char": 3820,
-    "end_char": 5043,
+    "start_char": 3821,
+    "end_char": 5044,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "XIV",
-    "start_char": 5043,
-    "end_char": 5523,
+    "start_char": 5044,
+    "end_char": 5524,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "XIV Bis",
-    "start_char": 5523,
-    "end_char": 5809,
+    "start_char": 5524,
+    "end_char": 5810,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "XV",
-    "start_char": 5809,
-    "end_char": 6823,
+    "start_char": 5810,
+    "end_char": 6824,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "XVI",
-    "start_char": 6823,
-    "end_char": 6871,
+    "start_char": 6824,
+    "end_char": 6872,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "XVII",
-    "start_char": 6871,
-    "end_char": 6918,
+    "start_char": 6872,
+    "end_char": 6919,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:2",
     "fraction": "XVIII",
-    "start_char": 6918,
-    "end_char": 7200,
+    "start_char": 6919,
+    "end_char": 7201,
     "basis": "express_definition"
   }
 ]

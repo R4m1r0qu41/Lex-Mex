@@ -43,7 +43,9 @@ b) Por dividendos y repartos periódicos de utilidades;
 
 c) Por siniestros ocurridos y no reportados, así como por los gastos de ajuste asignados a los siniestros, y
 
-d) Por las operaciones de que trata la fracción XXI del artículo [118](articulo-118.md) de la presente Ley; III. En el caso de la reserva matemática especial, hacer la provisión de los recursos necesarios para que las [Instituciones de Seguros](articulo-2.md) hagan frente a las posibles mejoras en la esperanza de vida que se traduzcan en incrementos en los índices de supervivencia de la población asegurada;
+d) Por las operaciones de que trata la fracción XXI del artículo [118](articulo-118.md) de la presente Ley;
+
+III. En el caso de la reserva matemática especial, hacer la provisión de los recursos necesarios para que las [Instituciones de Seguros](articulo-2.md) hagan frente a las posibles mejoras en la esperanza de vida que se traduzcan en incrementos en los índices de supervivencia de la población asegurada;
 
 IV. En el caso de la reserva para fluctuación de inversiones, apoyar a las Instituciones de Seguros ante posibles variaciones de largo plazo en los rendimientos de sus inversiones;
 

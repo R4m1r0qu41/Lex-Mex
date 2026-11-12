@@ -25,7 +25,9 @@ a) Mujeres, adolescentes y niñas, igualdad sustantiva y transversalización de 
 
 b) Prevención, atención y erradicación de las violencias contra las mujeres, adolescentes y niñas.
 
-c) Sistema de cuidados; II. Formular, coordinar, proponer, articular, fortalecer, vigilar y monitorear las políticas públicas con enfoque de género, interseccionalidad y de derechos humanos, que aseguren la igualdad sustantiva, el derecho a una vida libre de violencia y el derecho al cuidado en los procesos de las dependencias y entidades de la Administración Pública Federal y de las autoridades estatales y municipales, para garantizar la observancia de estos principios en los tres Poderes de la Unión;
+c) Sistema de cuidados;
+
+II. Formular, coordinar, proponer, articular, fortalecer, vigilar y monitorear las políticas públicas con enfoque de género, interseccionalidad y de derechos humanos, que aseguren la igualdad sustantiva, el derecho a una vida libre de violencia y el derecho al cuidado en los procesos de las dependencias y entidades de la Administración Pública Federal y de las autoridades estatales y municipales, para garantizar la observancia de estos principios en los tres Poderes de la Unión;
 
 III. Diseñar, proponer, implementar, monitorear y evaluar acciones afirmativas, programas, proyectos y acciones para el avance de los derechos de las mujeres;
 
@@ -47,7 +49,9 @@ XI. Promover, realizar y vincular estudios e investigaciones para la instrumenta
 
 XII. Promover y realizar campañas nacionales de sensibilización y prevención de las violencias contra las mujeres, así como de sus derechos, con la colaboración de los sectores público, privado y social;
 
-XIII. Difundir y promover el cumplimiento de las obligaciones establecidas en los instrumentos internacionales en los que México sea parte, entre los poderes públicos federales, relacionados con las materias objetivo de la Secretaría de las Mujeres; XIV. Participar en foros nacionales e internacionales respecto de las materias competencia de la Secretaría, así como proponer a la Secretaría de Relaciones Exteriores la celebración de tratados y acuerdos internacionales en tales materias;
+XIII. Difundir y promover el cumplimiento de las obligaciones establecidas en los instrumentos internacionales en los que México sea parte, entre los poderes públicos federales, relacionados con las materias objetivo de la Secretaría de las Mujeres;
+
+XIV. Participar en foros nacionales e internacionales respecto de las materias competencia de la Secretaría, así como proponer a la Secretaría de Relaciones Exteriores la celebración de tratados y acuerdos internacionales en tales materias;
 
 XV. Impulsar la cooperación nacional e internacional, para el apoyo financiero y técnico en materia de igualdad de género, derecho a una vida libre de violencia para las mujeres e igualdad sustantiva, derecho al cuidado, de conformidad con las disposiciones aplicables, y
 

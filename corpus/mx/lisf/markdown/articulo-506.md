@@ -21,7 +21,9 @@ Se impondrá pena de prisión de uno a doce años y multa de 500 a 5,000 [Días 
 
 I. Las personas que con el propósito de obtener la expedición de una póliza de seguro de caución o una póliza de fianza, para sí o para otra persona, proporcionen a una [Institución](articulo-2.md) datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la Institución;
 
-II. Los agentes de seguros o los médicos que dolosamente o con ánimo de lucrar, oculten a una [Institución de Seguros](articulo-2.md) la existencia de hechos cuyo conocimiento habría impedido la celebración de un contrato de seguro; III. Las personas que para obtener la expedición de una póliza de fianza presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrece en garantía sea inferior al importe de la fianza, y
+II. Los agentes de seguros o los médicos que dolosamente o con ánimo de lucrar, oculten a una [Institución de Seguros](articulo-2.md) la existencia de hechos cuyo conocimiento habría impedido la celebración de un contrato de seguro;
+
+III. Las personas que para obtener la expedición de una póliza de fianza presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que ofrece en garantía sea inferior al importe de la fianza, y
 
 IV. Las personas que falsifiquen pólizas o certificados de seguros, o pólizas de fianzas, así como a las personas que las ofrezcan o actúen como intermediarios.
 

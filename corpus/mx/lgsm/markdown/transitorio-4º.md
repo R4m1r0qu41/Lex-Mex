@@ -20,7 +20,3 @@ Se derogan el Título Segundo del Libro Segundo del Código de Comercio de 15 de
 Lo que comunico a usted para su publicación y demás fines.
 
 Sufragio Efectivo. No Reelección.
-
-México, D. F., a 1o. de agosto de 1934.- El Subsecretario de Gobernación, Encargado del Despacho, Juan G. Cabral.- Rúbrica.
-
-Al C.....

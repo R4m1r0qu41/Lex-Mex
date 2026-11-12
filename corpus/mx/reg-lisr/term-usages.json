@@ -370,12 +370,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:24:term-usage:1474-1477",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:24:term-usage:1475-1478",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1474,
-    "end_char": 1477
+    "start_char": 1475,
+    "end_char": 1478
   },
   {
     "schema_version": "0.1.0",
@@ -1126,12 +1126,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:69:term-usage:1219-1222",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:69:term-usage:1220-1223",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:69",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1219,
-    "end_char": 1222
+    "start_char": 1220,
+    "end_char": 1223
   },
   {
     "schema_version": "0.1.0",
@@ -1972,48 +1972,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:671-674",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:672-675",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:114",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 671,
-    "end_char": 674
+    "start_char": 672,
+    "end_char": 675
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:1480-1488",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:1481-1489",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:114",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:impuesto",
     "span": "Impuesto",
-    "start_char": 1480,
-    "end_char": 1488
+    "start_char": 1481,
+    "end_char": 1489
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:1593-1596",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:1594-1597",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:114",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1593,
-    "end_char": 1596
+    "start_char": 1594,
+    "end_char": 1597
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:1792-1800",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:1793-1801",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:114",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:impuesto",
     "span": "Impuesto",
-    "start_char": 1792,
-    "end_char": 1800
+    "start_char": 1793,
+    "end_char": 1801
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:2810-2813",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:114:term-usage:2811-2814",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:114",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 2810,
-    "end_char": 2813
+    "start_char": 2811,
+    "end_char": 2814
   },
   {
     "schema_version": "0.1.0",
@@ -3106,84 +3106,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2244-2247",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2245-2248",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:165",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 2244,
-    "end_char": 2247
+    "start_char": 2245,
+    "end_char": 2248
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2373-2381",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2374-2382",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:165",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:impuesto",
     "span": "Impuesto",
-    "start_char": 2373,
-    "end_char": 2381
+    "start_char": 2374,
+    "end_char": 2382
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2442-2445",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2443-2446",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:165",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 2442,
-    "end_char": 2445
+    "start_char": 2443,
+    "end_char": 2446
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2592-2595",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2593-2596",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:165",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 2592,
-    "end_char": 2595
+    "start_char": 2593,
+    "end_char": 2596
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2948-2956",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:2949-2957",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:165",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:impuesto",
     "span": "Impuesto",
-    "start_char": 2948,
-    "end_char": 2956
+    "start_char": 2949,
+    "end_char": 2957
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:3247-3250",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:3248-3251",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:165",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3247,
-    "end_char": 3250
+    "start_char": 3248,
+    "end_char": 3251
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:3438-3441",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:3439-3442",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:165",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3438,
-    "end_char": 3441
+    "start_char": 3439,
+    "end_char": 3442
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:3788-3791",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:3789-3792",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:165",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3788,
-    "end_char": 3791
+    "start_char": 3789,
+    "end_char": 3792
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:3914-3917",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:165:term-usage:3915-3918",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:165",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3914,
-    "end_char": 3917
+    "start_char": 3915,
+    "end_char": 3918
   },
   {
     "schema_version": "0.1.0",
@@ -4690,21 +4690,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:221:term-usage:731-734",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:221:term-usage:732-735",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 731,
-    "end_char": 734
+    "start_char": 732,
+    "end_char": 735
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:221:term-usage:1026-1029",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:221:term-usage:1027-1030",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:221",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1026,
-    "end_char": 1029
+    "start_char": 1027,
+    "end_char": 1030
   },
   {
     "schema_version": "0.1.0",
@@ -5428,57 +5428,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:1678-1681",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:1679-1682",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:259",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1678,
-    "end_char": 1681
+    "start_char": 1679,
+    "end_char": 1682
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2310-2313",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2311-2314",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:259",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 2310,
-    "end_char": 2313
+    "start_char": 2311,
+    "end_char": 2314
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2411-2419",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2412-2420",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:259",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:impuesto",
     "span": "Impuesto",
-    "start_char": 2411,
-    "end_char": 2419
+    "start_char": 2412,
+    "end_char": 2420
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2472-2475",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2473-2476",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:259",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 2472,
-    "end_char": 2475
+    "start_char": 2473,
+    "end_char": 2476
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2565-2573",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2566-2574",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:259",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:impuesto",
     "span": "Impuesto",
-    "start_char": 2565,
-    "end_char": 2573
+    "start_char": 2566,
+    "end_char": 2574
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2811-2814",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:259:term-usage:2812-2815",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:259",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 2811,
-    "end_char": 2814
+    "start_char": 2812,
+    "end_char": 2815
   },
   {
     "schema_version": "0.1.0",
@@ -6472,138 +6472,138 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:755-758",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:756-759",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 755,
-    "end_char": 758
+    "start_char": 756,
+    "end_char": 759
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:1530-1533",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:1531-1534",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1530,
-    "end_char": 1533
+    "start_char": 1531,
+    "end_char": 1534
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:1638-1641",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:1639-1642",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1638,
-    "end_char": 1641
+    "start_char": 1639,
+    "end_char": 1642
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:1764-1767",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:1765-1768",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1764,
-    "end_char": 1767
+    "start_char": 1765,
+    "end_char": 1768
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:1869-1872",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:1870-1873",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1869,
-    "end_char": 1872
+    "start_char": 1870,
+    "end_char": 1873
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:2989-2992",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:2990-2993",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 2989,
-    "end_char": 2992
+    "start_char": 2990,
+    "end_char": 2993
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:3171-3174",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:3172-3175",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3171,
-    "end_char": 3174
+    "start_char": 3172,
+    "end_char": 3175
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:3964-3967",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:3965-3968",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3964,
-    "end_char": 3967
+    "start_char": 3965,
+    "end_char": 3968
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:4166-4169",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:4167-4170",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 4166,
-    "end_char": 4169
+    "start_char": 4167,
+    "end_char": 4170
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:4283-4286",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:4285-4288",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 4283,
-    "end_char": 4286
+    "start_char": 4285,
+    "end_char": 4288
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:4658-4661",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:4660-4663",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 4658,
-    "end_char": 4661
+    "start_char": 4660,
+    "end_char": 4663
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:4836-4839",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:4838-4841",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 4836,
-    "end_char": 4839
+    "start_char": 4838,
+    "end_char": 4841
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:5162-5165",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:5164-5167",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 5162,
-    "end_char": 5165
+    "start_char": 5164,
+    "end_char": 5167
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:5295-5298",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:5297-5300",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 5295,
-    "end_char": 5298
+    "start_char": 5297,
+    "end_char": 5300
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:5356-5359",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:299:term-usage:5358-5361",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:299",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 5356,
-    "end_char": 5359
+    "start_char": 5358,
+    "end_char": 5361
   },
   {
     "schema_version": "0.1.0",
@@ -6733,21 +6733,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:304:term-usage:3061-3064",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:304:term-usage:3062-3065",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:304",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3061,
-    "end_char": 3064
+    "start_char": 3062,
+    "end_char": 3065
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:304:term-usage:3552-3555",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:304:term-usage:3553-3556",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:304",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3552,
-    "end_char": 3555
+    "start_char": 3553,
+    "end_char": 3556
   },
   {
     "schema_version": "0.1.0",
@@ -6958,66 +6958,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:844-847",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:845-848",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:311",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 844,
-    "end_char": 847
+    "start_char": 845,
+    "end_char": 848
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:1749-1752",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:1750-1753",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:311",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 1749,
-    "end_char": 1752
+    "start_char": 1750,
+    "end_char": 1753
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:2326-2329",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:2327-2330",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:311",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 2326,
-    "end_char": 2329
+    "start_char": 2327,
+    "end_char": 2330
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:3223-3226",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:3224-3227",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:311",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3223,
-    "end_char": 3226
+    "start_char": 3224,
+    "end_char": 3227
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:3951-3954",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:3952-3955",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:311",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 3951,
-    "end_char": 3954
+    "start_char": 3952,
+    "end_char": 3955
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:4059-4067",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:4060-4068",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:311",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:impuesto",
     "span": "Impuesto",
-    "start_char": 4059,
-    "end_char": 4067
+    "start_char": 4060,
+    "end_char": 4068
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:4191-4194",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:article:311:term-usage:4192-4195",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:311",
     "term_id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
     "span": "Ley",
-    "start_char": 4191,
-    "end_char": 4194
+    "start_char": 4192,
+    "end_char": 4195
   },
   {
     "schema_version": "0.1.0",

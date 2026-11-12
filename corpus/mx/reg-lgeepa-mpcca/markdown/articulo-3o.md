@@ -27,6 +27,8 @@ III.- Derogada.
 
 IV.- Derogada.
 
-V.- Derogada. VI.- Derogada.
+V.- Derogada.
+
+VI.- Derogada.
 
 VII.- Derogada. Fracciones I a VII derogadas DOF 31-10-2014

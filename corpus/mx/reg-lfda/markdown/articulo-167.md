@@ -23,7 +23,9 @@ I. Nombre y domicilio de la sociedad que promueve la solicitud o, en su caso, el
 
 II. Nombre y domicilio de la cámara, grupo o asociación de usuarios o, en su caso, el de la sociedad o sociedades a quienes resultaría aplicable la tarifa;
 
-III. Forma de explotación, así como la clase de establecimientos para los cuales resultará aplicable la tarifa, y IV. Consideraciones de hecho y de derecho en que funda la tarifa propuesta, misma que deberá: Párrafo reformado DOF 14-09-2005
+III. Forma de explotación, así como la clase de establecimientos para los cuales resultará aplicable la tarifa, y
+
+IV. Consideraciones de hecho y de derecho en que funda la tarifa propuesta, misma que deberá: Párrafo reformado DOF 14-09-2005
 
 a) Basarse en criterios objetivos y determinables mediante una simple operación aritmética;
 
