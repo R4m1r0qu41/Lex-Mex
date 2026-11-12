@@ -334,14 +334,7 @@
     "end_char": 6028,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsh",
     "target_provision_id": "urn:lex-mx:federal:statute:lsh:article:111",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso g",
-        "start_char": 6801,
-        "end_char": 6809
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -561,14 +554,7 @@
     "end_char": 1255,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsh",
     "target_provision_id": "urn:lex-mx:federal:statute:lsh:article:136",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones V",
-        "start_char": 1315,
-        "end_char": 1327
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -623,14 +609,7 @@
     "end_char": 424,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsh",
     "target_provision_id": "urn:lex-mx:federal:statute:lsh:article:136",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 497,
-        "end_char": 508
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -691,12 +670,6 @@
         "text": "primer párrafo",
         "start_char": 262,
         "end_char": 276
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 367,
-        "end_char": 381
       }
     ],
     "basis": "express_cross_reference",
@@ -1187,12 +1160,6 @@
         "text": "fracción I",
         "start_char": 82,
         "end_char": 92
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo cuarto",
-        "start_char": 168,
-        "end_char": 182
       }
     ],
     "basis": "express_cross_reference",
@@ -1521,12 +1488,6 @@
         "text": "último párrafo",
         "start_char": 4126,
         "end_char": 4140
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "cuarto párrafo",
-        "start_char": 4235,
-        "end_char": 4249
       }
     ],
     "basis": "express_cross_reference",

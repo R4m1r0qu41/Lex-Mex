@@ -1283,14 +1283,7 @@
     "end_char": 34,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic",
     "target_provision_id": "urn:lex-mx:federal:statute:lic:article:120",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XI",
-        "start_char": 244,
-        "end_char": 255
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1312,12 +1305,6 @@
         "text": "fracción XII",
         "start_char": 348,
         "end_char": 360
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción X",
-        "start_char": 446,
-        "end_char": 456
       }
     ],
     "basis": "express_cross_reference",

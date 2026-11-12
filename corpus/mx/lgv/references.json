@@ -14,12 +14,6 @@
         "text": "párrafo tercero",
         "start_char": 160,
         "end_char": 175
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXIX",
-        "start_char": 190,
-        "end_char": 203
       }
     ],
     "basis": "express_cross_reference",

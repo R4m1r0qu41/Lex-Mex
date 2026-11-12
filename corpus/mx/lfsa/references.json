@@ -1027,36 +1027,6 @@
         "text": "Fracción III",
         "start_char": 1161,
         "end_char": 1173
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "Fracción IV",
-        "start_char": 1178,
-        "end_char": 1189
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "Fracción V",
-        "start_char": 1194,
-        "end_char": 1204
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "Fracción VI",
-        "start_char": 1209,
-        "end_char": 1220
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "Fracción VII, C",
-        "start_char": 1225,
-        "end_char": 1240
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "Fracción VIII, C",
-        "start_char": 1242,
-        "end_char": 1258
       }
     ],
     "basis": "express_cross_reference",

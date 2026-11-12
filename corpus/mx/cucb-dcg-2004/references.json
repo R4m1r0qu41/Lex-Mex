@@ -2844,12 +2844,6 @@
         "text": "fracción II",
         "start_char": 1799,
         "end_char": 1810
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 1931,
-        "end_char": 1943
       }
     ],
     "basis": "express_cross_reference",
@@ -2919,12 +2913,6 @@
         "text": "fracción II",
         "start_char": 3957,
         "end_char": 3968
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 4078,
-        "end_char": 4090
       }
     ],
     "basis": "express_cross_reference",
@@ -3195,12 +3183,6 @@
         "text": "fracción X",
         "start_char": 2400,
         "end_char": 2410
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 2433,
-        "end_char": 2444
       }
     ],
     "basis": "express_cross_reference",
@@ -3258,12 +3240,6 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "target_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:157",
     "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 3327,
-        "end_char": 3337
-      },
       {
         "qualifier_type": "subsection",
         "text": "inciso d",
@@ -3705,14 +3681,7 @@
     "end_char": 1980,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "target_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 2068,
-        "end_char": 2080
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4482,14 +4451,7 @@
     "end_char": 57,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "target_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 349,
-        "end_char": 363
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4891,18 +4853,6 @@
         "text": "fracción I",
         "start_char": 1850,
         "end_char": 1860
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 2311,
-        "end_char": 2325
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2332,
-        "end_char": 2342
       }
     ],
     "basis": "express_cross_reference",
@@ -5426,20 +5376,7 @@
     "end_char": 362,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "target_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:134",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 388,
-        "end_char": 398
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 424,
-        "end_char": 438
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5455,14 +5392,7 @@
     "end_char": 462,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
     "target_provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:142",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 545,
-        "end_char": 557
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -1736,14 +1736,7 @@
     "end_char": 203,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgdfs",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:199",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 287,
-        "end_char": 301
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2527,14 +2520,7 @@
     "end_char": 761,
     "target_instrument_id": "urn:lex-mx:federal:statute:lagra",
     "target_provision_id": "urn:lex-mx:federal:statute:lagra:article:31",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 803,
-        "end_char": 814
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4084,14 +4070,7 @@
     "end_char": 79,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgdfs",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgdfs:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II, III, IV y V",
-        "start_char": 149,
-        "end_char": 175
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

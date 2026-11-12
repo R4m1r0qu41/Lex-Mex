@@ -297,14 +297,7 @@
     "end_char": 52,
     "target_instrument_id": "urn:lex-mx:federal:statute:lft",
     "target_provision_id": "urn:lex-mx:federal:statute:lft:article:153-u",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VIII",
-        "start_char": 164,
-        "end_char": 177
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -676,18 +669,6 @@
         "text": "fracciones XII, XV, XVII, XX, XXI y XXXI",
         "start_char": 336,
         "end_char": 376
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II, IV, VI, VII, VIII, IX, X, XII, XIII y XIV",
-        "start_char": 398,
-        "end_char": 457
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 472,
-        "end_char": 483
       }
     ],
     "basis": "express_cross_reference",

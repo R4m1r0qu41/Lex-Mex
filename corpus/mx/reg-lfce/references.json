@@ -396,14 +396,7 @@
     "end_char": 2449,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfce",
     "target_provision_id": "urn:lex-mx:federal:statute:lfce:article:21",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2558,
-        "end_char": 2568
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -535,12 +528,6 @@
         "text": "fracción III",
         "start_char": 38,
         "end_char": 50
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 69,
-        "end_char": 84
       }
     ],
     "basis": "express_cross_reference",

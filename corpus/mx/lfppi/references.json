@@ -1158,12 +1158,6 @@
         "text": "fracción XVI",
         "start_char": 320,
         "end_char": 332
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XVII",
-        "start_char": 353,
-        "end_char": 366
       }
     ],
     "basis": "express_cross_reference",
@@ -3413,14 +3407,7 @@
     "end_char": 1490,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfppi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfppi:article:41",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 1757,
-        "end_char": 1774
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -120,12 +120,6 @@
         "text": "fracción II",
         "start_char": 1410,
         "end_char": 1421
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 1629,
-        "end_char": 1641
       }
     ],
     "basis": "express_cross_reference",

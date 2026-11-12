@@ -24,20 +24,7 @@
     "end_char": 450,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 497,
-        "end_char": 505
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 513,
-        "end_char": 524
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -270,12 +257,6 @@
         "text": "fracciones III y V",
         "start_char": 697,
         "end_char": 715
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II, V, VI y VII",
-        "start_char": 840,
-        "end_char": 864
       }
     ],
     "basis": "express_cross_reference",
@@ -552,20 +533,7 @@
     "end_char": 220,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 240,
-        "end_char": 248
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 256,
-        "end_char": 267
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -690,26 +658,7 @@
     "end_char": 1311,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-laero:article:9",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 1369,
-        "end_char": 1377
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1385,
-        "end_char": 1396
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 1402,
-        "end_char": 1413
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1622,12 +1571,6 @@
         "text": "fracción II",
         "start_char": 278,
         "end_char": 289
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 436,
-        "end_char": 450
       }
     ],
     "basis": "express_cross_reference",

@@ -829,32 +829,7 @@
     "end_char": 659,
     "target_instrument_id": "urn:lex-mx:federal:statute:luc",
     "target_provision_id": "urn:lex-mx:federal:statute:luc:article:80",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 954,
-        "end_char": 968
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 980,
-        "end_char": 992
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1160,
-        "end_char": 1174
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 1176,
-        "end_char": 1184
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1456,14 +1431,7 @@
     "end_char": 6437,
     "target_instrument_id": "urn:lex-mx:federal:statute:luc",
     "target_provision_id": "urn:lex-mx:federal:statute:luc:article:110",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos i",
-        "start_char": 7107,
-        "end_char": 7116
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2008,14 +1976,7 @@
     "end_char": 2818,
     "target_instrument_id": "urn:lex-mx:federal:statute:luc",
     "target_provision_id": "urn:lex-mx:federal:statute:luc:article:15",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2954,
-        "end_char": 2964
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2037,12 +1998,6 @@
         "text": "fracción I",
         "start_char": 2954,
         "end_char": 2964
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 3134,
-        "end_char": 3144
       }
     ],
     "basis": "express_cross_reference",
@@ -3116,14 +3071,7 @@
     "end_char": 1181,
     "target_instrument_id": "urn:lex-mx:federal:statute:luc",
     "target_provision_id": "urn:lex-mx:federal:statute:luc:article:65",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y XII",
-        "start_char": 1448,
-        "end_char": 1466
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3162,14 +3110,7 @@
     "end_char": 971,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:177",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 1157,
-        "end_char": 1172
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

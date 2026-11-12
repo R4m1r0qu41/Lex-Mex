@@ -1591,12 +1591,6 @@
         "text": "fracción IV",
         "start_char": 439,
         "end_char": 450
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 728,
-        "end_char": 738
       }
     ],
     "basis": "express_cross_reference",
@@ -1738,14 +1732,7 @@
     "end_char": 88,
     "target_instrument_id": "urn:lex-mx:federal:statute:lse",
     "target_provision_id": "urn:lex-mx:federal:statute:lse:article:91",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VIII",
-        "start_char": 173,
-        "end_char": 186
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1861,12 +1848,6 @@
         "text": "fracción II",
         "start_char": 33,
         "end_char": 44
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 223,
-        "end_char": 233
       }
     ],
     "basis": "express_cross_reference",

@@ -1834,14 +1834,7 @@
     "end_char": 1103,
     "target_instrument_id": "urn:lex-mx:federal:statute:ltosf",
     "target_provision_id": "urn:lex-mx:federal:statute:ltosf:article:11",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 1435,
-        "end_char": 1447
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

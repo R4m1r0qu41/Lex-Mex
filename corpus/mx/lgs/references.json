@@ -894,14 +894,7 @@
     "end_char": 63,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:247",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 124,
-        "end_char": 134
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2276,14 +2269,7 @@
     "end_char": 1262,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:316",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II, III, IV y V",
-        "start_char": 1338,
-        "end_char": 1364
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2780,14 +2766,7 @@
     "end_char": 45,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:380",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XI",
-        "start_char": 92,
-        "end_char": 103
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6028,14 +6007,7 @@
     "end_char": 353,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:77-bis-13",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II y III",
-        "start_char": 518,
-        "end_char": 540
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -6319,14 +6291,7 @@
     "end_char": 564,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:5",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 574,
-        "end_char": 584
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

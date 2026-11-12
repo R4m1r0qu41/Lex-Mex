@@ -532,14 +532,7 @@
     "end_char": 44,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-senado",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:76",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción X",
-        "start_char": 65,
-        "end_char": 75
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

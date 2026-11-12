@@ -1046,12 +1046,6 @@
         "text": "inciso b",
         "start_char": 3434,
         "end_char": 3442
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y III",
-        "start_char": 3514,
-        "end_char": 3533
       }
     ],
     "basis": "express_cross_reference",

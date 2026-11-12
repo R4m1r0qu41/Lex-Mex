@@ -466,20 +466,7 @@
     "end_char": 1224,
     "target_instrument_id": "urn:lex-mx:federal:statute:lacp",
     "target_provision_id": "urn:lex-mx:federal:statute:lacp:article:117",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 1493,
-        "end_char": 1501
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1509,
-        "end_char": 1519
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -729,20 +716,7 @@
     "end_char": 6283,
     "target_instrument_id": "urn:lex-mx:federal:statute:lacp",
     "target_provision_id": "urn:lex-mx:federal:statute:lacp:article:131",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 6887,
-        "end_char": 6896
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 6914,
-        "end_char": 6928
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1121,18 +1095,6 @@
         "text": "fracciones III y IV",
         "start_char": 7293,
         "end_char": 7312
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 7495,
-        "end_char": 7506
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 7608,
-        "end_char": 7620
       }
     ],
     "basis": "express_cross_reference",
@@ -1156,48 +1118,6 @@
         "text": "fracción III",
         "start_char": 7608,
         "end_char": 7620
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer y segundo párrafos",
-        "start_char": 7808,
-        "end_char": 7833
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 7841,
-        "end_char": 7853
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 8029,
-        "end_char": 8043
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 8045,
-        "end_char": 8053
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 8086,
-        "end_char": 8100
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 8107,
-        "end_char": 8118
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos e",
-        "start_char": 8120,
-        "end_char": 8129
       }
     ],
     "basis": "express_cross_reference",
@@ -2082,12 +2002,6 @@
         "text": "fracción II",
         "start_char": 1221,
         "end_char": 1232
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1429,
-        "end_char": 1439
       }
     ],
     "basis": "express_cross_reference",
@@ -2244,12 +2158,6 @@
         "text": "fracción I",
         "start_char": 2283,
         "end_char": 2293
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 2413,
-        "end_char": 2428
       }
     ],
     "basis": "express_cross_reference",
@@ -2651,12 +2559,6 @@
         "text": "fracción I",
         "start_char": 4080,
         "end_char": 4090
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 4172,
-        "end_char": 4183
       }
     ],
     "basis": "express_cross_reference",
@@ -3001,12 +2903,6 @@
         "text": "fracción II",
         "start_char": 1563,
         "end_char": 1574
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 1685,
-        "end_char": 1700
       }
     ],
     "basis": "express_cross_reference",
@@ -4172,14 +4068,7 @@
     "end_char": 830,
     "target_instrument_id": "urn:lex-mx:federal:statute:lacp",
     "target_provision_id": "urn:lex-mx:federal:statute:lacp:article:21",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos c",
-        "start_char": 938,
-        "end_char": 947
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4554,20 +4443,7 @@
     "end_char": 494,
     "target_instrument_id": "urn:lex-mx:federal:statute:lacp",
     "target_provision_id": "urn:lex-mx:federal:statute:lacp:article:105",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 556,
-        "end_char": 571
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 578,
-        "end_char": 589
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4739,14 +4615,7 @@
     "end_char": 487,
     "target_instrument_id": "urn:lex-mx:federal:statute:lacp",
     "target_provision_id": "urn:lex-mx:federal:statute:lacp:article:10",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones VIII y IX",
-        "start_char": 522,
-        "end_char": 542
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

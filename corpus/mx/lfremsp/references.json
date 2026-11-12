@@ -24,14 +24,7 @@
     "end_char": 58,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:127",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 96,
-        "end_char": 107
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

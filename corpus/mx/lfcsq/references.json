@@ -278,12 +278,6 @@
         "text": "inciso a",
         "start_char": 1678,
         "end_char": 1686
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 1820,
-        "end_char": 1829
       }
     ],
     "basis": "express_cross_reference",
@@ -336,12 +330,6 @@
         "text": "inciso a",
         "start_char": 2638,
         "end_char": 2646
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 2690,
-        "end_char": 2701
       }
     ],
     "basis": "express_cross_reference",

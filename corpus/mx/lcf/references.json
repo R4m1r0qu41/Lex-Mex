@@ -244,14 +244,7 @@
     "end_char": 524,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 534,
-        "end_char": 546
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -343,12 +336,6 @@
         "text": "inciso B",
         "start_char": 1628,
         "end_char": 1636
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1647,
-        "end_char": 1658
       }
     ],
     "basis": "express_cross_reference",
@@ -420,12 +407,6 @@
         "text": "fracción XXX",
         "start_char": 2583,
         "end_char": 2595
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 2720,
-        "end_char": 2734
       }
     ],
     "basis": "express_cross_reference",
@@ -1086,14 +1067,7 @@
     "end_char": 3067,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:77-bis-16",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 3239,
-        "end_char": 3253
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1436,14 +1410,7 @@
     "end_char": 81,
     "target_instrument_id": "urn:lex-mx:federal:statute:lieps",
     "target_provision_id": "urn:lex-mx:federal:statute:lieps:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 86,
-        "end_char": 97
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1777,14 +1744,7 @@
     "end_char": 1554,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:52",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 1621,
-        "end_char": 1636
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1861,12 +1821,6 @@
         "text": "fracciones III y VIII",
         "start_char": 84,
         "end_char": 105
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "quinto párrafo",
-        "start_char": 814,
-        "end_char": 828
       }
     ],
     "basis": "express_cross_reference",
@@ -2001,14 +1955,7 @@
     "end_char": 167,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:25",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones V y VII",
-        "start_char": 181,
-        "end_char": 199
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2111,14 +2058,7 @@
     "end_char": 321,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y III",
-        "start_char": 327,
-        "end_char": 345
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2150,14 +2090,7 @@
     "end_char": 1544,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y III",
-        "start_char": 1550,
-        "end_char": 1568
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

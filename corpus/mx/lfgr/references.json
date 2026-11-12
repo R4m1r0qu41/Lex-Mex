@@ -612,14 +612,7 @@
     "end_char": 361,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfgr",
     "target_provision_id": "urn:lex-mx:federal:statute:lfgr:article:47",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones IV, VI y VII",
-        "start_char": 369,
-        "end_char": 392
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -379,14 +379,7 @@
     "end_char": 834,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmin",
     "target_provision_id": "urn:lex-mx:federal:statute:lmin:article:40",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 857,
-        "end_char": 869
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

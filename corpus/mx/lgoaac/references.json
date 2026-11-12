@@ -436,14 +436,7 @@
     "end_char": 53,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:11",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IX",
-        "start_char": 241,
-        "end_char": 252
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1224,14 +1217,7 @@
     "end_char": 3410,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:177",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 3596,
-        "end_char": 3611
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1317,12 +1303,6 @@
         "text": "fracción I",
         "start_char": 572,
         "end_char": 582
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 732,
-        "end_char": 746
       }
     ],
     "basis": "express_cross_reference",
@@ -3132,14 +3112,7 @@
     "end_char": 1838,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:90",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 2157,
-        "end_char": 2171
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3343,20 +3316,7 @@
     "end_char": 1679,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:87-b-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1798,
-        "end_char": 1808
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso s",
-        "start_char": 1810,
-        "end_char": 1818
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3673,26 +3633,7 @@
     "end_char": 622,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:52",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 729,
-        "end_char": 741
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 910,
-        "end_char": 924
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 926,
-        "end_char": 934
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3714,36 +3655,6 @@
         "text": "fracciones XI",
         "start_char": 1412,
         "end_char": 1425
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 1469,
-        "end_char": 1481
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos l",
-        "start_char": 1483,
-        "end_char": 1492
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos i",
-        "start_char": 1504,
-        "end_char": 1513
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos m",
-        "start_char": 1526,
-        "end_char": 1535
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos l",
-        "start_char": 1549,
-        "end_char": 1558
       }
     ],
     "basis": "express_cross_reference",
@@ -3767,42 +3678,6 @@
         "text": "incisos l) y n)",
         "start_char": 1549,
         "end_char": 1564
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 1647,
-        "end_char": 1659
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso j",
-        "start_char": 1661,
-        "end_char": 1669
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso g",
-        "start_char": 1676,
-        "end_char": 1684
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso k",
-        "start_char": 1692,
-        "end_char": 1700
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso j",
-        "start_char": 1707,
-        "end_char": 1715
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 1722,
-        "end_char": 1730
       }
     ],
     "basis": "express_cross_reference",
@@ -4370,14 +4245,7 @@
     "end_char": 7848,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:88-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 8607,
-        "end_char": 8616
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4517,14 +4385,7 @@
     "end_char": 7430,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgoaac",
     "target_provision_id": "urn:lex-mx:federal:statute:lgoaac:article:88-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 8189,
-        "end_char": 8198
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

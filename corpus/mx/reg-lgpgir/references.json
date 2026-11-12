@@ -1035,14 +1035,7 @@
     "end_char": 32,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "target_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:17",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción X",
-        "start_char": 235,
-        "end_char": 245
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

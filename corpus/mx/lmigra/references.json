@@ -1075,14 +1075,7 @@
     "end_char": 14,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmigra",
     "target_provision_id": "urn:lex-mx:federal:statute:lmigra:article:10",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II, III y VI",
-        "start_char": 20,
-        "end_char": 46
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1121,14 +1114,7 @@
     "end_char": 78,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmigra",
     "target_provision_id": "urn:lex-mx:federal:statute:lmigra:article:21",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 123,
-        "end_char": 137
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1199,14 +1185,7 @@
     "end_char": 195,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmigra",
     "target_provision_id": "urn:lex-mx:federal:statute:lmigra:article:117",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 200,
-        "end_char": 214
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

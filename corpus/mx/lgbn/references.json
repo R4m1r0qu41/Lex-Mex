@@ -565,12 +565,6 @@
         "text": "último párrafo",
         "start_char": 383,
         "end_char": 397
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 590,
-        "end_char": 605
       }
     ],
     "basis": "express_cross_reference",

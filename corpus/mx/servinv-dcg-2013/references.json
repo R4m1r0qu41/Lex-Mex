@@ -78,12 +78,6 @@
         "text": "segundo párrafo",
         "start_char": 655,
         "end_char": 670
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 743,
-        "end_char": 757
       }
     ],
     "basis": "express_cross_reference",
@@ -1130,18 +1124,6 @@
         "text": "inciso g",
         "start_char": 1258,
         "end_char": 1266
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XIII",
-        "start_char": 1315,
-        "end_char": 1328
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 1330,
-        "end_char": 1338
       }
     ],
     "basis": "express_cross_reference",
@@ -1860,38 +1842,7 @@
     "end_char": 200,
     "target_instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
     "target_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:50",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 224,
-        "end_char": 238
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 240,
-        "end_char": 250
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 267,
-        "end_char": 281
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones III, V y VII",
-        "start_char": 283,
-        "end_char": 306
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 308,
-        "end_char": 322
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2447,44 +2398,7 @@
     "end_char": 273,
     "target_instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
     "target_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:53",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 316,
-        "end_char": 330
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II",
-        "start_char": 333,
-        "end_char": 346
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo y tercer párrafos",
-        "start_char": 354,
-        "end_char": 379
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 396,
-        "end_char": 410
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II, IV, VI, VII",
-        "start_char": 412,
-        "end_char": 441
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer y segundo párrafos",
-        "start_char": 443,
-        "end_char": 468
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

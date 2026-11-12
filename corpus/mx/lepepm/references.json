@@ -99,12 +99,6 @@
         "text": "fracción II",
         "start_char": 1464,
         "end_char": 1475
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 1626,
-        "end_char": 1637
       }
     ],
     "basis": "express_cross_reference",
@@ -671,12 +665,6 @@
         "text": "párrafo quinto",
         "start_char": 135,
         "end_char": 149
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos sexto y séptimo",
-        "start_char": 171,
-        "end_char": 195
       }
     ],
     "basis": "express_cross_reference",

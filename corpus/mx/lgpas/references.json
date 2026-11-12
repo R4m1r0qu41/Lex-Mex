@@ -8,14 +8,7 @@
     "end_char": 83,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:27",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXIX",
-        "start_char": 357,
-        "end_char": 370
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

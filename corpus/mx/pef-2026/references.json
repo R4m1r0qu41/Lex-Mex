@@ -118,24 +118,6 @@
         "text": "último párrafo",
         "start_char": 80465,
         "end_char": 80479
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 80551,
-        "end_char": 80562
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 80564,
-        "end_char": 80572
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 80575,
-        "end_char": 80589
       }
     ],
     "basis": "express_cross_reference",
@@ -857,14 +839,7 @@
     "end_char": 510,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfremsp",
     "target_provision_id": "urn:lex-mx:federal:statute:lfremsp:article:7",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones XXXIII, XXXIV y XLVI",
-        "start_char": 580,
-        "end_char": 611
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1690,14 +1665,7 @@
     "end_char": 6706,
     "target_instrument_id": "urn:lex-mx:federal:statute:lcf",
     "target_provision_id": "urn:lex-mx:federal:statute:lcf:article:38",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 6950,
-        "end_char": 6958
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2011,12 +1979,6 @@
         "text": "inciso d",
         "start_char": 6143,
         "end_char": 6151
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "sexto párrafo",
-        "start_char": 6222,
-        "end_char": 6235
       }
     ],
     "basis": "express_cross_reference",
@@ -2255,14 +2217,7 @@
     "end_char": 54,
     "target_instrument_id": "urn:lex-mx:federal:statute:lges",
     "target_provision_id": "urn:lex-mx:federal:statute:lges:article:64",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXI",
-        "start_char": 242,
-        "end_char": 254
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

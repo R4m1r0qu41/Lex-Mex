@@ -120,14 +120,7 @@
     "end_char": 36,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:91",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II, IV, V, VI y VII",
-        "start_char": 276,
-        "end_char": 309
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1510,18 +1503,6 @@
         "text": "párrafo segundo",
         "start_char": 588,
         "end_char": 603
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 656,
-        "end_char": 668
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 684,
-        "end_char": 699
       }
     ],
     "basis": "express_cross_reference",
@@ -2413,20 +2394,7 @@
     "end_char": 243,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:6",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y VI",
-        "start_char": 290,
-        "end_char": 307
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 309,
-        "end_char": 323
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2442,14 +2410,7 @@
     "end_char": 350,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:91",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 384,
-        "end_char": 394
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

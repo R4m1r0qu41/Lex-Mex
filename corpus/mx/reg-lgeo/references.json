@@ -146,12 +146,6 @@
         "text": "inciso e",
         "start_char": 4350,
         "end_char": 4358
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IX",
-        "start_char": 4366,
-        "end_char": 4377
       }
     ],
     "basis": "express_cross_reference",
@@ -565,14 +559,7 @@
     "end_char": 66,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgeo",
     "target_provision_id": "urn:lex-mx:federal:statute:lgeo:article:48",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 82,
-        "end_char": 92
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

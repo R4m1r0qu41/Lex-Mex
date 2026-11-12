@@ -800,18 +800,6 @@
         "text": "fracción I",
         "start_char": 3609,
         "end_char": 3619
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II y III",
-        "start_char": 3636,
-        "end_char": 3658
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 3674,
-        "end_char": 3689
       }
     ],
     "basis": "express_cross_reference",
@@ -829,20 +817,7 @@
     "end_char": 3769,
     "target_instrument_id": "urn:lex-mx:federal:code:cmpp",
     "target_provision_id": "urn:lex-mx:federal:code:cmpp:article:315",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones IV",
-        "start_char": 3826,
-        "end_char": 3839
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II y III",
-        "start_char": 3854,
-        "end_char": 3876
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -959,32 +934,7 @@
     "end_char": 4438,
     "target_instrument_id": "urn:lex-mx:federal:code:cmpp",
     "target_provision_id": "urn:lex-mx:federal:code:cmpp:article:364",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 4447,
-        "end_char": 4457
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 4479,
-        "end_char": 4496
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 4503,
-        "end_char": 4513
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 4526,
-        "end_char": 4543
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1078,20 +1028,7 @@
     "end_char": 4728,
     "target_instrument_id": "urn:lex-mx:federal:code:cmpp",
     "target_provision_id": "urn:lex-mx:federal:code:cmpp:article:398",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 4750,
-        "end_char": 4764
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 4767,
-        "end_char": 4781
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

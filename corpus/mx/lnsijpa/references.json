@@ -188,12 +188,6 @@
         "text": "primer párrafo",
         "start_char": 1468,
         "end_char": 1482
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II y III",
-        "start_char": 1531,
-        "end_char": 1553
       }
     ],
     "basis": "express_cross_reference",

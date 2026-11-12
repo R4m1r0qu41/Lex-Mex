@@ -40,20 +40,7 @@
     "end_char": 8776,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lemefagn",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lemefagn:article:16",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso b",
-        "start_char": 8856,
-        "end_char": 8864
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 8872,
-        "end_char": 8882
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

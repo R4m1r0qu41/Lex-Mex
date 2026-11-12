@@ -1307,12 +1307,6 @@
         "text": "párrafo segundo",
         "start_char": 2252,
         "end_char": 2267
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones LXIII, LXIV y LXV",
-        "start_char": 2451,
-        "end_char": 2479
       }
     ],
     "basis": "express_cross_reference",
@@ -1408,14 +1402,7 @@
     "end_char": 760,
     "target_instrument_id": "urn:lex-mx:federal:statute:lan",
     "target_provision_id": "urn:lex-mx:federal:statute:lan:article:22",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 1033,
-        "end_char": 1048
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

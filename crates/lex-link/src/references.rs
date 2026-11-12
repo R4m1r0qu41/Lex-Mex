@@ -37,6 +37,29 @@ struct ReferencePatterns {
     /// with no single deterministic target, so it stays unlinked.
     relative_article: Regex,
     roman: Regex,
+    /// Text allowed between an article number and its first post-number
+    /// qualifier, or between two chained qualifiers: punctuation, `y`/`o`/
+    /// `e`, `su`/`en su`, and the unqualified items `numeral 5`, `Apartado
+    /// B` (quoted or not), `Base V`, a bare fraction numeral with any `Bis`/
+    /// `Ter` suffix, an inciso letter, or an
+    /// ordinal word of a paragraph list (`28, antepenúltimo, penúltimo y
+    /// último párrafos`).
+    qualifier_connector: Regex,
+    /// An article header (`del artículo 198`, `del citado artículo 142`,
+    /// `del artículo anterior`), or an own-article marker (`de este
+    /// artículo`), right after a qualifier phrase: the phrase scopes that
+    /// other citation, never an earlier one.
+    qualifier_scopes_following: Regex,
+    /// A back-reference without a number right after a qualifier phrase:
+    /// `de dicho artículo`, `del mismo precepto`.
+    qualifier_points_back: Regex,
+    /// `su`/`sus` right before a qualifier phrase: `su segundo párrafo`.
+    possessive_before: Regex,
+    /// Text that names another citation: a digit (any numbered article), `;`,
+    /// or a relative article. A bare `dicho artículo` names no other one.
+    intervening_citation: Regex,
+    /// Ordinal mark written right after an article number: `2o.`, `7a`.
+    ordinal_mark: Regex,
 }
 
 impl ReferencePatterns {
@@ -94,6 +117,20 @@ impl ReferencePatterns {
                 r"(?i)\bfracci(?:ón|ones)\s+[IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*\b",
             )?,
             subsection: Regex::new(r"(?i)\bincisos?\s+[a-z](?:\s*(?:,|y|o)\s*[a-z])*\b")?,
+            qualifier_connector: Regex::new(
+                r#"^(?:[\s,()"“”]|\b(?i:y|e|o|su|sus|en|bis|ter|qu[aá]ter)\b|\b(?i:antepenúltimo|penúltimo|último|primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo)\b|\b(?i:numeral(?:es)?)\s+\d+(?:\.\d+)*\b|\b(?i:apartados?)\s+[A-Z]\b|\b(?i:bases?)\s+[IVXLCDM]+\b|\b[IVXLCDM]+\b|\b[a-z]\))*$"#,
+            )?,
+            qualifier_scopes_following: Regex::new(
+                r"(?i)^\)?\s*,?\s*(?:(?:de(?:l|\s+los|\s+las|\s+la)?\s+)?(?:(?:dicho|mismo|citado|referido|mencionado|aludido|señalado|indicado)\s+)?(?:artículos?|arts?\.)\s*(?:\d|anterior\b|siguiente\b|que\s+precede\b)|(?:de\s+(?:este|ese)|del\s+presente)\s+(?:artículo|precepto)\b)",
+            )?,
+            qualifier_points_back: Regex::new(
+                r"(?i)^\)?\s*,?\s*de(?:l)?\s+(?:ese\s+)?(?:dicho|mismo|citado|referido|mencionado|aludido|señalado|indicado)\s+(?:artículo|precepto)\b",
+            )?,
+            possessive_before: Regex::new(r"(?i)\bsus?\s+$")?,
+            intervening_citation: Regex::new(
+                r"(?i)\d|;|\bart[íi]culos?\s+(?:anterior|siguiente|que\s+precede)\b",
+            )?,
+            ordinal_mark: Regex::new(r"^[oaºª]\.?")?,
         })
     }
 }
@@ -1001,20 +1038,28 @@ fn direct_reference_edges(
                 .get(index + 1)
                 .map_or(group.len(), regex::Match::start);
             let qualifier_text = &group[number_match.end()..qualifier_end];
-            let qualifier_text = if index + 1 == accepted.len() {
-                &qualifier_text[..qualifier_boundary(qualifier_text)]
-            } else {
-                qualifier_text
-            };
             // A qualifier written before the header scopes over the whole
             // article list, so it attaches to every direct edge.
             let mut qualifiers = pre_qualifiers.to_vec();
-            qualifiers.extend(extract_qualifiers(
-                source.text,
-                group_start + number_match.end(),
-                qualifier_text,
-                patterns,
-            ));
+            let base = group_start + number_match.end();
+            if index + 1 == accepted.len() {
+                // The last number's slice runs to the sentence end, so only
+                // the qualifiers that belong to it are kept.
+                let sentence = &qualifier_text[..qualifier_boundary(qualifier_text)];
+                qualifiers.extend(last_number_qualifiers(
+                    source.text,
+                    base,
+                    sentence,
+                    patterns,
+                ));
+            } else {
+                qualifiers.extend(extract_qualifiers(
+                    source.text,
+                    base,
+                    qualifier_text,
+                    patterns,
+                ));
+            }
             let target_provision_id =
                 canonical_article_id(target_instrument_id, number_match.as_str());
             let resolution_status = reference_resolution_status(
@@ -1361,6 +1406,100 @@ fn fraction_labels(text: &str) -> HashSet<&str> {
             fraction_start
                 .captures(paragraph)
                 .map(|captures| captures.get(1).expect("label").as_str())
+        })
+        .collect()
+}
+
+/// Post-number qualifiers of a list's last article number. `sentence` is the
+/// text after the number up to the sentence end; `base` is its byte offset in
+/// `source_text`.
+///
+/// A qualifier belongs to the number when connector text alone separates it
+/// from the number (after an ordinal mark, `2o.`) or from the previous
+/// chained qualifier: `184, fracción II`; `7, fracciones II, inciso b),
+/// numeral 5, segundo párrafo`. A chained phrase followed by an article
+/// header or by `de este artículo` scopes that other citation, so it ends the
+/// chain together with the comma-joined phrases before it: `197 y fracción II
+/// del artículo 198`.
+///
+/// After the chain ends, a phrase still belongs to the number only when it
+/// points back to it (`el primer párrafo de dicho artículo`, `su segundo
+/// párrafo`) and no other citation, number or `;` stands between: `2980 y
+/// los créditos a que se refiere la fracción V del artículo 2935` gives 2980
+/// no qualifier.
+fn last_number_qualifiers(
+    source_text: &str,
+    base: usize,
+    sentence: &str,
+    patterns: &ReferencePatterns,
+) -> Vec<ReferenceQualifier> {
+    let searches = [
+        (&patterns.paragraph, ReferenceQualifierType::Paragraph),
+        (&patterns.fraction, ReferenceQualifierType::Fraction),
+        (&patterns.subsection, ReferenceQualifierType::Subsection),
+    ];
+    let mut spans: Vec<(usize, usize, ReferenceQualifierType)> = searches
+        .into_iter()
+        .flat_map(|(regex, qualifier_type)| {
+            regex
+                .find_iter(sentence)
+                .map(move |item| (item.start(), item.end(), qualifier_type.clone()))
+        })
+        .collect();
+    spans.sort_by_key(|(start, _, _)| *start);
+    let lead = patterns
+        .ordinal_mark
+        .find(sentence)
+        .map_or(0, |item| item.end());
+    let mut kept: Vec<(usize, usize, ReferenceQualifierType)> = Vec::new();
+    let mut end = lead;
+    let mut chain_end = None;
+    let mut run_start = 0;
+    // The citation group ends where the next `artículo` header starts, so
+    // what follows a phrase is read from the full text, not the group.
+    let rest = &source_text[base..];
+    for (start, stop, qualifier_type) in spans {
+        if start < end {
+            continue;
+        }
+        let after = &rest[stop..];
+        let scopes_other = patterns.qualifier_scopes_following.is_match(after);
+        if chain_end.is_none() {
+            let gap = &sentence[end..start];
+            if patterns.qualifier_connector.is_match(gap) {
+                if !gap.chars().all(|character| {
+                    character.is_whitespace() || matches!(character, ',' | '(' | ')')
+                }) {
+                    run_start = kept.len();
+                }
+                end = stop;
+                if scopes_other {
+                    kept.truncate(run_start);
+                    chain_end = Some(stop);
+                } else {
+                    kept.push((start, stop, qualifier_type));
+                }
+                continue;
+            }
+            chain_end = Some(end);
+        }
+        let points_back = !scopes_other
+            && (patterns.qualifier_points_back.is_match(after)
+                || patterns.possessive_before.is_match(&sentence[..start]));
+        let between = &sentence[chain_end.unwrap_or(end)..start];
+        if points_back && !patterns.intervening_citation.is_match(between) {
+            kept.push((start, stop, qualifier_type));
+        }
+        end = stop;
+    }
+    kept.into_iter()
+        .map(|(start, stop, qualifier_type)| {
+            anchored_qualifier(
+                source_text,
+                base + start,
+                &sentence[start..stop],
+                qualifier_type,
+            )
         })
         .collect()
 }

@@ -79,14 +79,7 @@
     "end_char": 99,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lopgr",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lopgr:article:3",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 222,
-        "end_char": 237
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -443,14 +436,7 @@
     "end_char": 356,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfdo",
     "target_provision_id": "urn:lex-mx:federal:statute:lfdo:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXI",
-        "start_char": 551,
-        "end_char": 563
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -617,14 +603,7 @@
     "end_char": 481,
     "target_instrument_id": "urn:lex-mx:federal:code:cpf",
     "target_provision_id": "urn:lex-mx:federal:code:cpf:article:287",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 651,
-        "end_char": 662
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

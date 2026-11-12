@@ -14,12 +14,6 @@
         "text": "fracción V",
         "start_char": 39,
         "end_char": 49
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXIX",
-        "start_char": 75,
-        "end_char": 88
       }
     ],
     "basis": "express_cross_reference",
@@ -170,14 +164,7 @@
     "end_char": 1462,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:25",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "Párrafo Octavo",
-        "start_char": 1585,
-        "end_char": 1599
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -673,14 +673,7 @@
     "end_char": 570,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lsh",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lsh:article:96",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones VI, VII y VIII",
-        "start_char": 630,
-        "end_char": 655
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1497,12 +1490,6 @@
         "text": "fracción I",
         "start_char": 229,
         "end_char": 239
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II y III",
-        "start_char": 298,
-        "end_char": 317
       }
     ],
     "basis": "express_cross_reference",
@@ -2715,14 +2702,7 @@
     "end_char": 991,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lsh",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lsh:article:229",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 1236,
-        "end_char": 1251
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4785,12 +4765,6 @@
         "text": "tercer párrafo",
         "start_char": 42,
         "end_char": 56
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones III",
-        "start_char": 169,
-        "end_char": 183
       }
     ],
     "basis": "express_cross_reference",

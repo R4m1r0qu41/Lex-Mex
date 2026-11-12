@@ -1548,12 +1548,6 @@
         "text": "fracciones III y IV",
         "start_char": 1838,
         "end_char": 1857
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 1893,
-        "end_char": 1905
       }
     ],
     "basis": "express_cross_reference",

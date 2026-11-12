@@ -561,14 +561,7 @@
     "end_char": 28,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfpc",
     "target_provision_id": "urn:lex-mx:federal:statute:lfpc:article:32",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 59,
-        "end_char": 73
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

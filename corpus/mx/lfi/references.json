@@ -454,14 +454,7 @@
     "end_char": 893,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:39",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 978,
-        "end_char": 989
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -937,14 +930,7 @@
     "end_char": 1149,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:17",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 1197,
-        "end_char": 1211
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1224,14 +1210,7 @@
     "end_char": 4351,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:34-bis-5",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 4555,
-        "end_char": 4567
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1253,12 +1232,6 @@
         "text": "fracción VII",
         "start_char": 4555,
         "end_char": 4567
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 4737,
-        "end_char": 4749
       }
     ],
     "basis": "express_cross_reference",
@@ -2499,14 +2472,7 @@
     "end_char": 1234,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:32",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1309,
-        "end_char": 1323
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2586,14 +2552,7 @@
     "end_char": 6041,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:32",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 6095,
-        "end_char": 6109
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4056,14 +4015,7 @@
     "end_char": 2087,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:33",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 2233,
-        "end_char": 2245
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4628,18 +4580,6 @@
         "text": "fracciones I",
         "start_char": 702,
         "end_char": 714
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 882,
-        "end_char": 896
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 898,
-        "end_char": 906
       }
     ],
     "basis": "express_cross_reference",
@@ -4769,14 +4709,7 @@
     "end_char": 138,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:86-bis-4",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 272,
-        "end_char": 284
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5600,14 +5533,7 @@
     "end_char": 7220,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:84",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos a",
-        "start_char": 7799,
-        "end_char": 7808
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

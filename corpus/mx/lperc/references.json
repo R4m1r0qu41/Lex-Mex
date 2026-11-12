@@ -575,14 +575,7 @@
     "end_char": 847,
     "target_instrument_id": "urn:lex-mx:federal:statute:lperc",
     "target_provision_id": "urn:lex-mx:federal:statute:lperc:article:6",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 901,
-        "end_char": 913
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

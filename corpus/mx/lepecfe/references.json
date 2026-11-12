@@ -100,20 +100,7 @@
     "end_char": 868,
     "target_instrument_id": "urn:lex-mx:federal:statute:lepecfe",
     "target_provision_id": "urn:lex-mx:federal:statute:lepecfe:article:16",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos g",
-        "start_char": 1501,
-        "end_char": 1510
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1523,
-        "end_char": 1534
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -135,12 +122,6 @@
         "text": "fracción II",
         "start_char": 1523,
         "end_char": 1534
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VI",
-        "start_char": 1686,
-        "end_char": 1697
       }
     ],
     "basis": "express_cross_reference",
@@ -206,14 +187,7 @@
     "end_char": 137,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
     "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 206,
-        "end_char": 221
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -815,12 +789,6 @@
         "text": "párrafo quinto",
         "start_char": 150,
         "end_char": 164
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos sexto y séptimo",
-        "start_char": 186,
-        "end_char": 210
       }
     ],
     "basis": "express_cross_reference",
@@ -844,12 +812,6 @@
         "text": "párrafos sexto y séptimo",
         "start_char": 186,
         "end_char": 210
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo cuarto",
-        "start_char": 232,
-        "end_char": 246
       }
     ],
     "basis": "express_cross_reference",
@@ -896,12 +858,6 @@
         "text": "párrafo quinto",
         "start_char": 1428,
         "end_char": 1442
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos sexto y séptimo",
-        "start_char": 1464,
-        "end_char": 1488
       }
     ],
     "basis": "express_cross_reference",
@@ -925,12 +881,6 @@
         "text": "párrafos sexto y séptimo",
         "start_char": 1464,
         "end_char": 1488
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo cuarto",
-        "start_char": 1510,
-        "end_char": 1524
       }
     ],
     "basis": "express_cross_reference",

@@ -504,12 +504,6 @@
         "text": "fracción IV",
         "start_char": 576,
         "end_char": 587
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 660,
-        "end_char": 674
       }
     ],
     "basis": "express_cross_reference",

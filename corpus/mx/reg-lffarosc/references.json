@@ -338,14 +338,7 @@
     "end_char": 422,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lffarosc",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lffarosc:article:39",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 452,
-        "end_char": 463
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

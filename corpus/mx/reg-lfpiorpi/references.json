@@ -216,12 +216,6 @@
         "text": "segundo párrafo",
         "start_char": 37,
         "end_char": 52
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XIV",
-        "start_char": 136,
-        "end_char": 148
       }
     ],
     "basis": "express_cross_reference",
@@ -262,14 +256,7 @@
     "end_char": 487,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
     "target_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:17",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 705,
-        "end_char": 720
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -398,14 +385,7 @@
     "end_char": 714,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic",
     "target_provision_id": "urn:lex-mx:federal:statute:lic:article:115",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 881,
-        "end_char": 896
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -663,12 +643,6 @@
         "text": "fracción XXIV",
         "start_char": 238,
         "end_char": 251
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II, III, VI y VII",
-        "start_char": 402,
-        "end_char": 433
       }
     ],
     "basis": "express_cross_reference",
@@ -1008,12 +982,6 @@
         "text": "fracción XVI",
         "start_char": 88,
         "end_char": 100
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 193,
-        "end_char": 201
       }
     ],
     "basis": "express_cross_reference",
@@ -1779,12 +1747,6 @@
         "text": "fracciones I y III",
         "start_char": 162,
         "end_char": 180
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 270,
-        "end_char": 281
       }
     ],
     "basis": "express_cross_reference",

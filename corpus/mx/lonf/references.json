@@ -170,12 +170,6 @@
         "text": "fracción II",
         "start_char": 103,
         "end_char": 114
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 134,
-        "end_char": 145
       }
     ],
     "basis": "express_cross_reference",

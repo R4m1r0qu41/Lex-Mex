@@ -650,12 +650,6 @@
         "text": "inciso f",
         "start_char": 2984,
         "end_char": 2992
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IX",
-        "start_char": 3000,
-        "end_char": 3011
       }
     ],
     "basis": "express_cross_reference",

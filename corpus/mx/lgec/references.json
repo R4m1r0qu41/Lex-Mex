@@ -14,18 +14,6 @@
         "text": "párrafo sexto",
         "start_char": 144,
         "end_char": 157
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafos primero y séptimo",
-        "start_char": 163,
-        "end_char": 189
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXIX",
-        "start_char": 197,
-        "end_char": 210
       }
     ],
     "basis": "express_cross_reference",

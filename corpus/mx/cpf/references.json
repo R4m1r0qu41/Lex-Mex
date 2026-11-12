@@ -2589,12 +2589,6 @@
         "text": "segundo párrafo",
         "start_char": 199,
         "end_char": 214
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo",
-        "start_char": 239,
-        "end_char": 254
       }
     ],
     "basis": "express_cross_reference",
@@ -2618,12 +2612,6 @@
         "text": "segundo párrafo",
         "start_char": 239,
         "end_char": 254
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 280,
-        "end_char": 290
       }
     ],
     "basis": "express_cross_reference",
@@ -3346,14 +3334,7 @@
     "end_char": 1158,
     "target_instrument_id": "urn:lex-mx:federal:code:cpf",
     "target_provision_id": "urn:lex-mx:federal:code:cpf:article:52",
-    "qualifiers": [
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso e",
-        "start_char": 1232,
-        "end_char": 1240
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4487,14 +4468,7 @@
     "end_char": 591,
     "target_instrument_id": "urn:lex-mx:federal:code:cpf",
     "target_provision_id": "urn:lex-mx:federal:code:cpf:article:377",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 771,
-        "end_char": 786
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4574,14 +4548,7 @@
     "end_char": 70,
     "target_instrument_id": "urn:lex-mx:federal:code:cpf",
     "target_provision_id": "urn:lex-mx:federal:code:cpf:article:371",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 76,
-        "end_char": 90
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -5148,20 +5115,7 @@
     "end_char": 2795,
     "target_instrument_id": "urn:lex-mx:federal:code:cpf",
     "target_provision_id": "urn:lex-mx:federal:code:cpf:article:52",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 2863,
-        "end_char": 2875
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo primero",
-        "start_char": 2877,
-        "end_char": 2892
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
