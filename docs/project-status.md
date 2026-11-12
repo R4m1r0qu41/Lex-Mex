@@ -15,13 +15,18 @@ Corpus-wide reparse with the page-break fraction rule: of the 353 instruments wi
 hash-matching text, 320 adopted (`92e1e1365`, `a2bd4353b`, `09e4a457f`; `laassp` with the P2
 elided-decree-article rule in `24d4fc083`, which also cleaned 13 further instruments), 28
 reparse unchanged, 5 held: `lic`, `lfpccs`, `lfvv` (reviewed guards, JRH), `cue-dcg-2003`,
-`scap-dcg-2012` (operator). A full reparse from HEAD reproduces the committed corpus for all
-others, and `link --all` relinks nothing (after `473755e3f`). `cjm` regains arts. 30 Sextus and 30 Séptimus,
+`scap-dcg-2012` (operator). A second batch of 112 instruments whose retained text was restored
+(hash-verified) adds 110 more (`b9f4d319f`); held there: `lieps` (parse guard, JRH) and `lftr`
+(accepted closure gap). A full reparse of all 465 instruments with text from `b9f4d319f`
+reproduces the committed corpus for every instrument except those 7 held, and `link --all`
+relinks nothing. `cjm` regains arts. 30 Sextus and 30 Séptimus,
 missing from the earlier corpus. New read-only commands: `verify-fidelity`, `audit-qualifiers`,
-`monitor-sources` (`bec9467a9`). Computed by script from the committed JSON at `09e4a457f`: 468
-instruments; 64,861 articles / 3,506 transitories / 30 annexes; 36,111 references (sum of
-`validation.json` counts); temporal status `effective` 32,253, `unknown` 30,591, `repealed`
-5,551, `partially_repealed` 2. `verify-fidelity --all`: 52,655 of 53,018 provisions pass. No
+`monitor-sources` (`bec9467a9`). Computed by script from the committed JSON at `b9f4d319f`: 468
+instruments; 64,861 articles / 3,506 transitories / 30 annexes; 36,105 references (sum of
+`validation.json` counts); temporal status `effective` 32,334, `unknown` 30,510, `repealed`
+5,551, `partially_repealed` 2. `verify-fidelity --all`: 66,495 of 66,977 provisions pass, 382
+of 468 instruments fully (1 input missing, `socap-sofipo-dcg-2006`; 2 sources changed at
+origin, `cpeum`, `cub-dcg-2005`). No
 push, deploy or legal review. Live state and next actions:
 [four-goal plan](plans/four-goal-system-upgrade.md).
 

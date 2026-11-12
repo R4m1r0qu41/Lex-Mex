@@ -314,8 +314,8 @@ applied to the repository. The corpus and monitor code are ready to commit on th
   2026-11-12 entry of `docs/decisions.md` (machine-accepted repeal of a marker provision inside an
   in-force instrument), which still needs the reviewer.
 
-**Next actions, in order:** (1) ~~P2 parser repair, then adopt `laassp`~~ done, see below; (2) extract and reparse
-the 113 restored instruments; (3) re-ingest the 3 changed sources (`cpeum`, `cub-dcg-2005`,
+**Next actions, in order:** (1) ~~P2 parser repair, then adopt `laassp`~~ done, see below; (2) ~~extract and reparse
+the 113 restored instruments~~ 110 adopted in `b9f4d319f`, see "batch of 112"; (3) re-ingest the 3 changed sources (`cpeum`, `cub-dcg-2005`,
 `socap-sofipo-dcg-2006`); (4) finish the vault export (operator: permissions on `Corpus/`);
 (5) linker qualifier attribution (204 cases); (6) operator/JRH: `cue-dcg-2003` dates,
 `scap-dcg-2012` mark (261), the `lic`/`lfpccs`/`lfvv` guards, in-force rule cases.
@@ -390,6 +390,29 @@ the 113 restored instruments; (3) re-ingest the 3 changed sources (`cpeum`, `cub
   gained. Temporal: 98 provisions gain `deterministic_rule`/`machine_accepted` (81 `unknown` to
   `effective`, 17 repeal markers already `repealed`); no value lost. `verify-fidelity` on the
   110: 13,430 → 13,433 of 13,551 pass, 92 → 94 instruments fully pass, none worse.
+- **Committed** `b9f4d319f` (the 110 plus this plan) after the native gate (fmt, strict clippy,
+  511 tests, both validators), commit made by the `mech` runner. **Full baseline from
+  `b9f4d319f`** (fresh root, release binary, parse/derive-temporal/validate/export over all
+  465 with text): output equals the committed corpus for every instrument except the held
+  ones — `cue-dcg-2003` (47 files), `lftr` (59) and `scap-dcg-2012` (5) differ; `lic`,
+  `lfpccs`, `lfvv`, `lieps` stop at their parse guards; `lftr` and `scap-dcg-2012` fail
+  validation as recorded. On the repository afterwards: `link --all` exit 0, relinked 0,
+  unchanged 466, rejected exactly the 2 accepted gaps, references 36,105 → 36,105, no file
+  changed. `verify-fidelity --all` (now covers 465 inputs; 1 missing, `socap-sofipo-dcg-2006`;
+  2 source-hash mismatches, the changed `cpeum` and `cub-dcg-2005`): 66,495 of 66,977
+  provisions pass (54,458 exact, 12,037 modulo classified gaps; 364 unclassified gap, 84 not
+  located, 32 diverged, 2 text not in source), 382 of 468 instruments fully pass.
+  `audit-qualifiers --all`: 11,068 labels, 9,769 at paragraph start, 620 mid-paragraph, 679
+  absent, 20 qualifiers without labels. Corpus totals by script at `b9f4d319f`: 64,861 articles
+  / 3,506 transitories / 30 annexes (unchanged), 36,105 references (−6), temporal status
+  `effective` 32,334 (+81), `unknown` 30,510 (−81), `repealed` 5,551, `partially_repealed` 2.
+- **Held now 7:** `lic`, `lfpccs`, `lfvv`, `lieps` (parse guards, JRH); `cue-dcg-2003`,
+  `scap-dcg-2012` (operator); `lftr` (accepted closure gap, operator).
+- **Next actions, in order:** (1) re-ingest the 3 changed sources (`cpeum`, `cub-dcg-2005`,
+  `socap-sofipo-dcg-2006`) — this is a fetch of new official files and so a decision about
+  which version the corpus records; (2) finish the vault export (operator: permissions on
+  `Corpus/`); (3) linker qualifier attribution (204 cases); (4) operator/JRH: the seven held
+  instruments above and the in-force rule cases.
 
 ### Added milestone
 
