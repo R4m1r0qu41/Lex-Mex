@@ -104,3 +104,16 @@ Retired release paths 404; Google indexing `index.html?release=` URLs; explicit 
 - **Facts established this round.** The release's recorded reform dates match Diputados (LRITF and LIC 2025-11-14, the DOF 14-11-2025 the organic agent saw; ITF-DCG 2026-07-06; IFPE-DCG none); sources were retrieved 2026-07-12, so a monitor is needed. The 870 sitemap lines were committed by hand (`7a08afb`, `115b472`); no generator exists.
 - **Questions for the operator that do not block M1:** (a) whether to retire the `/lex-mex/` 307 (closed: no home-page edit is needed, because the home already links `/lex-mex/agents/`, which the Worker renders and which now links the hubs); (b) Spanish wording for the visible status tokens `effective` and `machine_accepted`; (c) whether "Ley Fintech" may be used as an `alternateName`; (d) confirm that removing meta keywords (in `3dd532d`) is intended, since the website `AGENTS.md` says to keep keywords as separate SEO fields.
 - **Open items.** "Fix all" noted; two need your decision when we get there: what a retired-release URL does (proposal: 301 to the stable URL) and the "not in collection" response wording. `CF_API_TOKEN` expires 2026-11-11 (tomorrow): export it today if you want the analytics check, otherwise let it lapse.
+
+## 6. Status 2026-11-11: M1 live, then freeze
+
+- Production: Worker version `aa207c17` (website `1ddfde5`, branch `discoverability-agent-pages`, not on `main`; `3dd532d` still held). Rollback to pre-M1: `wrangler rollback eb73a863-5694-4260-ad78-ba912955b7cc`. Live verifier 7754/7754.
+- Reviews: Codex audited `8385d7e..fd2144c` (one P2, fixed) and the deployed code (one finding, the ETag, fixed in `d53919f`). `d53919f..1ddfde5` (Ley Fintech, fresh-agent fixes 1-4) has had no Codex review.
+- Fresh-agent runs 2026-11-11 against `a550ea9a`: batch-v1 browse 7/8 (Q05 partial, Q10 correct refusal); organic: Lex-Mex not found (mLey recommended).
+- **Operator decision: temporary freeze on further website/Worker changes.** Next is a full Fable 5.2 review of the data and producer issues, to improve the system as a whole before more surface work:
+  - extraction defects (DCG-IFPE art. 7 fr. I duplicated phrase; LRITF art. 22 fractions II/III merged);
+  - missing `source_recorded_reform_date` for the DCG instruments;
+  - search: literal matching misses morphology (autorizar/autorización); topic labels or stemming needed;
+  - references resolve to whole articles only, not fractions/paragraphs;
+  - signed reader page: relative `./llms.txt` link and the signed agents sitemap listing 870 pinned URLs;
+  - full SEO upgrade for leg4ll4bs.com and Lex-Mex (operator note); Search Console/Bing registration still pending.
