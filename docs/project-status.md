@@ -28,7 +28,9 @@ instruments; 64,861 articles / 3,506 transitories / 30 annexes; 36,105 reference
 of 468 instruments fully (input missing: `socap-sofipo-dcg-2006`; retained text not matching
 its manifest hash: `cub-dcg-2005`, `lfiiedb`). Separately, `monitor-sources` finds three
 official files changed at origin (`cpeum`, `cub-dcg-2005`, `socap-sofipo-dcg-2006`), not yet
-re-ingested. No
+re-ingested. A linker repair that removes 1,192 qualifiers attached to the wrong citation
+waits on the local branch `upgrade/qualifier-attribution-2026-11-12` for an operator decision
+on `lgmime`'s approved edge (see the plan). No
 push, deploy or legal review. Live state and next actions:
 [four-goal plan](plans/four-goal-system-upgrade.md).
 

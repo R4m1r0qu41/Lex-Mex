@@ -460,6 +460,17 @@ Scratch root and classification: session scratchpad `reingest/`, `reingest-class
 root is a preview only and must not be adopted: its manifest `source_sha256` was set by hand
 and `retrieved_at` is stale. An adoption goes through `fetch`, then the usual reparse review.
 
+## Linker qualifier attribution (on a side branch, awaiting the operator)
+
+The repair of next action (3) is committed on the local branch
+`upgrade/qualifier-attribution-2026-11-12` (`b68957bbb` rule and test, `05d15bcd0` 190
+instruments, `2de9893c7` record), not on this branch: it removes 1,192 misattributed
+qualifiers, but `link --all` then rejects `lgmime`, whose operator-approved LGIPE art. 11 Bis
+edge carries one of them. The operator chooses among a recorded migration
+(`link lgmime --migrate-protected`), narrowing the guard to the approved fields, or a third
+accepted gap; the full record is in that branch's copy of this plan. This branch stays at the
+clean closure (relinked 0, the 2 accepted gaps).
+
 ### Added milestone
 
 - **P2. Reform-decree omission lines** ("Artículo(s) Segundo a … .- ……" / "……….." between the
