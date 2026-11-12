@@ -425,6 +425,39 @@ the 113 restored instruments~~ 110 adopted in `b9f4d319f`, see "batch of 112"; (
   `Corpus/`); (3) linker qualifier attribution (204 cases); (4) operator/JRH: the seven held
   instruments above and the in-force rule cases.
 
+## Re-ingest preview 2026-11-12 (scratch only; nothing written to the repository)
+
+The three official files that `monitor-sources` found changed (`.work/monitor/<slug>/<sha>.pdf`,
+SHA-256 re-checked) were run through extract, parse, derive-temporal, validate and export in
+an isolated scratch root with its own `.work/`, then classified against the committed folders.
+None of the three carries human or model review state (only `not_analyzed` or
+`machine_accepted`/`deterministic_rule`). Adopting any of them changes which official version
+the corpus records, so it is the operator's decision; each also has an open question:
+
+- **`cpeum`** (Diputados, Last-Modified 2026-10-09): validates; no id added or removed; 15
+  spans in arts. 82, 116, 122 only, the reform DOF 07-10-2026 (gender-inclusive wording; the
+  President, governors and the Head of Government of Mexico City must not hold or acquire
+  another nationality; "Párrafo reformado DOF 07-10-2026" marks); `latest_reform_date`
+  null → 2026-10-07; no edge or term change; `reform-temporal-evidence.json` gains the decree's
+  six transitories (`cpeum:amendment:2026-10-07:transitory:primero` … `sexto`). The three
+  articles stay `unknown` / `not_analyzed`. The decree enters into force the day after
+  publication, but applies from the 2028 electoral process and not to current officeholders
+  (Transitorios Segundo, Tercero), so how those three provisions are dated is a temporal
+  question for JRH, not something the deterministic rule should settle.
+- **`cub-dcg-2005`** (CNBV, reform 2026-11-06): validates; no id change; 169 spans in 22
+  provisions (18 articles, chiefly 91 Bis 1, 172 Bis 37–39, 68, 92; transitories quinto to
+  décimo); 4 edges lost, 9 gained; terms unchanged. The transitory diffs move footnote text
+  ("A continuación se transcribe la disposición …") between transitories, which looks like a
+  page-layout shift; read against the source before adopting.
+- **`socap-sofipo-dcg-2006`** (CNBV): fails validation. The new official file's reform legend
+  goes from 90 to 92 with no entry (91), yet marks arts. 44, 65, 100, 149, 205 Bis 13 and
+  209 Bis 9 with "(91)"; the committed version (fetched 2026-07-13) defined (91). A source
+  defect, like `scap-dcg-2012`'s "(261)". Otherwise: 7 articles added (47 Bis, 48 Bis, 66 Bis,
+  69 Bis, 101 Bis, 103 Bis, 152 Bis), 63 spans in 26 provisions, 1 term lost (95 → 94).
+  It remains an accepted closure gap either way.
+
+Scratch root and classification: session scratchpad `reingest/`, `reingest-class.json`.
+
 ### Added milestone
 
 - **P2. Reform-decree omission lines** ("Artículo(s) Segundo a … .- ……" / "……….." between the
