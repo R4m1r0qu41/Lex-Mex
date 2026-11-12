@@ -108,7 +108,7 @@ Retired release paths 404; Google indexing `index.html?release=` URLs; explicit 
 ## 6. Status 2026-11-11: M1 live, then freeze
 
 - Production: Worker version `aa207c17` (website `1ddfde5`, branch `discoverability-agent-pages`, not on `main`; `3dd532d` still held). Rollback to pre-M1: `wrangler rollback eb73a863-5694-4260-ad78-ba912955b7cc`. Live verifier 7754/7754.
-- Reviews: Codex audited `8385d7e..fd2144c` (one P2, fixed) and the deployed code (one finding, the ETag, fixed in `d53919f`). `d53919f..1ddfde5` (Ley Fintech, fresh-agent fixes 1-4) has had no Codex review.
+- Reviews: Codex audited `8385d7e..fd2144c` (one P2, fixed) and the deployed code (one finding, the ETag, fixed in `d53919f`). `50594ba..1ddfde5` (ETag fix, Ley Fintech, fresh-agent fixes 1-4) has had no Codex review; the second Codex verdict was relayed by the operator.
 - Fresh-agent runs 2026-11-11 against `a550ea9a`: batch-v1 browse 7/8 (Q05 partial, Q10 correct refusal); organic: Lex-Mex not found (mLey recommended).
 - **Operator decision: temporary freeze on further website/Worker changes.** Next is a full Fable 5.2 review of the data and producer issues, to improve the system as a whole before more surface work:
   - extraction defects (DCG-IFPE art. 7 fr. I duplicated phrase; LRITF art. 22 fractions II/III merged);
@@ -117,3 +117,5 @@ Retired release paths 404; Google indexing `index.html?release=` URLs; explicit 
   - references resolve to whole articles only, not fractions/paragraphs;
   - signed reader page: relative `./llms.txt` link and the signed agents sitemap listing 870 pinned URLs;
   - full SEO upgrade for leg4ll4bs.com and Lex-Mex (operator note); Search Console/Bing registration still pending.
+  - Worker limits to check in the review: the out-of-collection 404, slug checks, coverage list and llms.txt all read `catalog({limit:10})`, so past ten instruments a covered instrument would be misreported (matters for the full corpus); hub JSON-LD uses the short name as `legislationIdentifier` while articles use the URN.
+  - Unsigned reader label live since `1ddfde5`: `historical_superseded_reference_outdated` is shown as "referencia histórica a un texto sustituido" (Claude's gloss, pending operator sign-off).
