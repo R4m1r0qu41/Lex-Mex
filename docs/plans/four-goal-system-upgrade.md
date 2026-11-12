@@ -297,6 +297,19 @@ applied to the repository. The corpus and monitor code are ready to commit on th
     defines no mark 261; the new parse reads it as an amendment mark and validation fails with
     `unknown_amendment_mark`; source anomaly like D-1, operator decision).
 
+- **Committed** after the native gate passed on the tree (fmt, strict clippy, 508 tests,
+  `validate lritf`, `ifpe-dcg-2021`, `cjm`): `a2bd4353b` (`cjm` and its adapter) and `09e4a457f`
+  (26 instruments and the entry above). Evidence over the repository after both: `verify-fidelity
+  --all` 52,655 of 53,018 provisions pass (was 52,652 of 53,016), 287 instruments fully pass
+  (was 286); `audit-qualifiers --all` 11,074 cited fractions: at a paragraph start 9,653 (was
+  9,618), merged mid-paragraph 723 (was 752), absent 698 (was 700).
+
+**Next actions, in order:** (1) P2 parser repair, then adopt `laassp`; (2) extract and reparse
+the 113 restored instruments; (3) re-ingest the 3 changed sources (`cpeum`, `cub-dcg-2005`,
+`socap-sofipo-dcg-2006`); (4) finish the vault export (operator: permissions on `Corpus/`);
+(5) linker qualifier attribution (204 cases); (6) operator/JRH: `cue-dcg-2003` dates,
+`scap-dcg-2012` mark (261), the `lic`/`lfpccs`/`lfvv` guards, in-force rule cases.
+
 ### Added milestone
 
 - **P2. Reform-decree omission lines** ("Artículo(s) Segundo a … .- ……" / "……….." between the
