@@ -303,12 +303,58 @@ applied to the repository. The corpus and monitor code are ready to commit on th
   --all` 52,655 of 53,018 provisions pass (was 52,652 of 53,016), 287 instruments fully pass
   (was 286); `audit-qualifiers --all` 11,074 cited fractions: at a paragraph start 9,653 (was
   9,618), merged mid-paragraph 723 (was 752), absent 698 (was 700).
+- **Correction (supersedes "in-force determinations" above, in the handoff section and in the
+  messages of `92e1e1365` and `a2bd4353b`).** Classified by script: of the 4,486 provisions in
+  `92e1e1365` that gained `temporal_basis: deterministic_rule`, 3,963 moved `unknown` to
+  `effective` (1,766 with an `effective_from` date, 2,197 without one) and 523 were already
+  `repealed` (522) or `partially_repealed` (1) and only gained the basis and
+  `machine_accepted`. All 546 in `cjm` (`a2bd4353b`) are of that second kind: "(Se deroga)"
+  articles already `repealed`, none made `effective`. The rule is the existing `derive-temporal`
+  repeal classification, not a new one, but it bears on the open "(Se deroga)" point in the
+  2026-11-12 entry of `docs/decisions.md` (machine-accepted repeal of a marker provision inside an
+  in-force instrument), which still needs the reviewer.
 
-**Next actions, in order:** (1) P2 parser repair, then adopt `laassp`; (2) extract and reparse
+**Next actions, in order:** (1) ~~P2 parser repair, then adopt `laassp`~~ done, see below; (2) extract and reparse
 the 113 restored instruments; (3) re-ingest the 3 changed sources (`cpeum`, `cub-dcg-2005`,
 `socap-sofipo-dcg-2006`); (4) finish the vault export (operator: permissions on `Corpus/`);
 (5) linker qualifier attribution (204 cases); (6) operator/JRH: `cue-dcg-2003` dates,
 `scap-dcg-2012` mark (261), the `lic`/`lfpccs`/`lfvv` guards, in-force rule cases.
+
+## Checkpoint 2026-11-12 (P2 and baseline)
+
+- **Baseline.** A fresh root and release binary from `3b5dabeb4` ran parse, derive-temporal,
+  validate and export over all 353 checkable instruments: the output equals the committed corpus
+  except the held instruments (`laassp`, `cue-dcg-2003`, `scap-dcg-2012` differ; `lic`, `lfpccs`,
+  `lfvv` stop at their guards; `scap-dcg-2012` fails validation as recorded) and two committed
+  files not reproducible from HEAD: `larefam` (glossary coverage, term usages, art. 14 Markdown:
+  the committed corpus links "Militar" and "Ejército" inside the names "Dirección General de
+  Educación Militar" and "Universidad del Ejército"; HEAD drops those two false usages; the
+  committed state came from the prior session's scratch root) and `lfrsp`
+  (`reform-temporal-evidence.json`: HEAD labels the 1995-05-26 entries "Acto DOF" instead of
+  "Sección transitoria 2, Decreto"; the source is the Ley Orgánica del Poder Judicial de la
+  Federación, a law, so HEAD's label is the accurate one; 14 ids renamed, no text lost). The
+  prior session's "28 unchanged" compared provisions and references only, which is why `lfrsp`
+  was not caught. Both are refreshed to HEAD's output.
+- **P2 built.** `is_elided_decree_article_run` in `diputados.rs`: a block whose words are only an
+  article prefix, ordinal words and the connectors `a`/`y`, and whose body is only redaction
+  dots (three or more) or ellipsis, is decree apparatus; dropped in the article loop (with the
+  existing single-ordinal rule) and skipped at the statute-transitory fallthrough. Fixtures
+  `elided-decree-article-range-sample.txt` (laassp shape) and
+  `elided-decree-articles-after-transitories-sample.txt` (ladua shape), plus a predicate test with
+  negative cases. Source scope: 100 such lines in the retained texts; the committed corpus
+  already omitted 87; 13 were in a provision, all in hash-matching instruments.
+- **P2 result** (all 353 reparsed against the baseline): exactly 14 instruments change (the 13
+  plus `laassp`), each by removing that one line as a suffix of one provision and its Markdown:
+  `laassp` art. 120, `lgec` 49, `lgpdppso` 137, `lgpisdme` 43, `lgtaip` 216; last transitory of
+  `ladua`, `lbio`, `lcne`, `lepecfe`, `lepepm`, `lgeo`, `lpte`, `lse`, `lsh`. Issue sets, terms,
+  references and `verify-fidelity` counts unchanged in all 14. `laassp` is now adopted with its
+  earlier reviewed changes (13 leaked headings removed, 120 heading contexts filled, one internal
+  fraction edge gained).
+- **Extraction probe for the 113** (isolated scratch root, real `.work/` untouched): `extract`
+  with pdftotext 26.11.0 reproduces the manifest `extracted_text_sha256` exactly for 112; the
+  113th, `socap-sofipo-dcg-2006`, has no retained source (its official file changed at source).
+  So item (2) of the next actions is mechanical for 112.
+- **Held now 5:** `lic`, `lfpccs`, `lfvv`, `cue-dcg-2003`, `scap-dcg-2012`.
 
 ### Added milestone
 

@@ -23,4 +23,4 @@ I. Tener como mínimo 8 años de Servicio a la fecha prevista para el ascenso de
 
 II. Haber prestado 5 años de servicios como mínimo en la especialidad, y
 
-III. Acreditar los conocimientos de su especialidad mediante certificado expedido por la Dirección General de Educación [Militar](articulo-2.md) y Rectoría de la Universidad del [Ejército](articulo-2.md), Fuerza Aérea y Guardia Nacional. Fracción reformada DOF 16-07-2025
+III. Acreditar los conocimientos de su especialidad mediante certificado expedido por la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional. Fracción reformada DOF 16-07-2025

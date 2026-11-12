@@ -289,24 +289,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:14:term-usage:581-588",
-    "provision_id": "urn:lex-mx:federal:statute:larefam:article:14",
-    "term_id": "urn:lex-mx:federal:statute:larefam:term:militares",
-    "span": "Militar",
-    "start_char": 581,
-    "end_char": 588
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:14:term-usage:622-630",
-    "provision_id": "urn:lex-mx:federal:statute:larefam:article:14",
-    "term_id": "urn:lex-mx:federal:statute:larefam:term:ejercito",
-    "span": "Ejército",
-    "start_char": 622,
-    "end_char": 630
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:larefam:article:15:term-usage:308-311",
     "provision_id": "urn:lex-mx:federal:statute:larefam:article:15",
     "term_id": "urn:lex-mx:federal:statute:larefam:term:ley",
