@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Cuarto
@@ -29,7 +29,9 @@ Para poder proceder penalmente por delitos federales contra las personas titular
 
 Las declaraciones y resoluciones de la (sic DOF 28-12-1982) Cámaras de Diputados (sic DOF 28-12- 1982) Senadores son inatacables.
 
-El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto. En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
+El efecto de la declaración de que ha lugar a proceder contra el inculpado será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
+
+En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
 
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
 

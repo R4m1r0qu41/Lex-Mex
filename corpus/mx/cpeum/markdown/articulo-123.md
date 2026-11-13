@@ -10,7 +10,7 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Sexto
@@ -105,7 +105,9 @@ XX. La resolución de las diferencias o los conflictos entre trabajadores y patr
 
 Antes de acudir a los tribunales laborales, los trabajadores y patrones deberán asistir a la instancia conciliatoria correspondiente. En el orden local, la función conciliatoria estará a cargo de los Centros de Conciliación, especializados e imparciales que se instituyan en las entidades federativas. Dichos centros tendrán personalidad jurídica y patrimonio propios. Contarán con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. Se regirán por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración y funcionamiento se determinará en las leyes locales.
 
-La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria, con fecha y hora debidamente fijadas de manera expedita. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto. La ley establecerá las reglas para que los convenios laborales adquieran condición de cosa juzgada, así como para su ejecución. En el orden federal, la función conciliatoria estará a cargo de un organismo descentralizado. Al organismo descentralizado le corresponderá además, el registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados.
+La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria, con fecha y hora debidamente fijadas de manera expedita. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto. La ley establecerá las reglas para que los convenios laborales adquieran condición de cosa juzgada, así como para su ejecución.
+
+En el orden federal, la función conciliatoria estará a cargo de un organismo descentralizado. Al organismo descentralizado le corresponderá además, el registro de todos los contratos colectivos de trabajo y las organizaciones sindicales, así como todos los procesos administrativos relacionados.
 
 El organismo descentralizado federal también tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública de los sindicatos y conocerá de los recursos de revisión que interpongan los particulares respecto de las resoluciones de los mismos. Párrafo adicionado DOF 20-12-2024
 
@@ -145,9 +147,7 @@ a) Las que estipulen una jornada inhumana por lo notoriamente excesiva, dada la 
 
 b) Las que fijen un salario que no sea remunerador a juicio de los tribunales laborales. Inciso reformado DOF 24-02-2017
 
-c) Las que estipulen un plazo mayor de una semana para la percepción del jornal.
-
-d) Las que señalen un lugar de recreo, fonda, café, taberna, cantina o tienda para efectuar el pago del salario, cuando no se trate de empleados en esos establecimientos.
+c) Las que estipulen un plazo mayor de una semana para la percepción del jornal. d) Las que señalen un lugar de recreo, fonda, café, taberna, cantina o tienda para efectuar el pago del salario, cuando no se trate de empleados en esos establecimientos.
 
 e) Las que entrañen obligación directa o indirecta de adquirir los artículos de consumo en tiendas o lugares determinados.
 
@@ -175,9 +175,7 @@ a) Ramas industriales y servicios. Encabezado de inciso reformado DOF 27-06-1990
 
 4. Hulera;
 
-5. Azucarera;
-
-6. Minera;
+5. Azucarera; 6. Minera;
 
 7. Metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos;
 
@@ -205,7 +203,9 @@ a) Ramas industriales y servicios. Encabezado de inciso reformado DOF 27-06-1990
 
 19. Maderera básica, que comprende la producción de aserradero y la fabricación de triplay o aglutinados de madera; Fe de erratas al numeral DOF 13-01-1978
 
-20. Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y 21. Tabacalera, que comprende el beneficio o fabricación de productos de tabaco;
+20. Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y
+
+21. Tabacalera, que comprende el beneficio o fabricación de productos de tabaco;
 
 22. Servicios de banca y crédito. Numeral adicionado DOF 27-06-1990
 
@@ -213,9 +213,7 @@ b) Empresas:
 
 1. Aquéllas que sean administradas en forma directa o descentralizada por el Gobierno Federal;
 
-2. Aquéllas que actúen en virtud de un contrato o concesión federal y las industrias que les sean conexas; y
-
-3. Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
+2. Aquéllas que actúen en virtud de un contrato o concesión federal y las industrias que les sean conexas; y 3. Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
 c) Materias:
 
@@ -257,7 +255,9 @@ X. Los trabajadores tendrán el derecho de asociarse para la defensa de sus inte
 
 XI. La seguridad social se organizará conforme a las siguientes bases mínimas:
 
-a) Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte. b) En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la ley.
+a) Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
+
+b) En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la ley.
 
 c) Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un mes de descanso antes de la fecha fijada aproximadamente para el parto y de otros dos después del mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos. Además, disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles. Inciso reformado DOF 31-12-1974
 

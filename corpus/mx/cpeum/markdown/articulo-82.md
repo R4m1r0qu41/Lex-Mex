@@ -10,16 +10,22 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
+
+> **Nota del revisor (JRH):** Artículo vigente a partir del proceso electoral 2028. Fundamento: «Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.»
 
 > Título Tercero · Capítulo III
 
 # Artículo 82
 
-Para ser Presidente se requiere:
+Para ser Presidente o Presidenta se requiere: Párrafo reformado DOF 07-10-2026
 
-I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, hijo de padre o madre mexicanos y haber residido en el país al menos durante veinte años. Fracción reformada DOF 01-07-1994
+I. Ser ciudadano o ciudadana mexicana por nacimiento, en pleno goce de sus derechos, hijo o hija de padre o madre mexicanos; no tener ni adquirir otra nacionalidad y, en caso de tenerla renunciar a ella previo a solicitar su registro como candidato o candidata en los términos que establezca la ley, y haber residido en el país al menos durante veinte años.
+
+Quien ejerza el cargo no podrá adquirir ni solicitar otra nacionalidad, ni invocar ante autoridad extranjera una nacionalidad distinta de la mexicana.
+
+Quedan comprendidos en esta prohibición el uso de pasaporte o documento de identidad expedido por un Estado extranjero, el ejercicio de los derechos políticos inherentes a la ciudadanía ante este y el acogerse a su protección diplomática. La contravención de esta disposición se sancionará en los términos del Título Cuarto de esta Constitución. Fracción reformada DOF 01-07-1994, 07-10-2026
 
 II. Tener 35 años cumplidos al tiempo de la elección;
 

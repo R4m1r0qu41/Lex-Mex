@@ -2114,6 +2114,13 @@ fn validate_repeal_config(
     manifest: &SourceManifest,
     raw: &str,
 ) -> Result<()> {
+    for note in &config.provision_notes {
+        anyhow::ensure!(
+            note.matches_source(&manifest.source_sha256, raw),
+            "provision note does not match retained source bytes/quote: {}",
+            note.provision_id
+        );
+    }
     if let Some(notice) = &config.source_repeal_notice {
         if notice.successor_clause.is_some() {
             anyhow::ensure!(
@@ -2165,6 +2172,15 @@ fn validate_persisted_repeal_evidence(root: &Path, corpus: &Corpus) -> Result<()
     Ok(())
 }
 
+/// A reviewed repeal notice is the only way parse records an instrument as repealed.
+fn parsed_instrument_status(config: &SourceConfig) -> InstrumentStatus {
+    if config.source_repeal_notice.is_some() {
+        InstrumentStatus::Repealed
+    } else {
+        InstrumentStatus::InForce
+    }
+}
+
 fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     let paths = &context.paths;
     let config = &context.config;
@@ -2205,12 +2221,9 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         source_sha256: manifest.source_sha256,
         extracted_text_sha256,
         parser_version: env!("CARGO_PKG_VERSION").to_owned(),
-        status: if config.source_repeal_notice.is_some() {
-            InstrumentStatus::Repealed
-        } else {
-            InstrumentStatus::InForce
-        },
+        status: parsed_instrument_status(config),
         source_repeal_notice: config.source_repeal_notice.clone(),
+        provision_notes: config.provision_notes.clone(),
         issuing_authorities: config.issuing_authorities.clone(),
         formal_publication_url: config
             .formal_source
@@ -3114,6 +3127,12 @@ fn preserve_intake_decisions(context: &InstrumentContext) -> Result<()> {
             anyhow::ensure!(
                 context.config.source_repeal_notice.as_ref() == Some(&notice),
                 "refusing to replace or clear persisted instrument repeal decision"
+            );
+        }
+        for note in prior.provision_notes {
+            anyhow::ensure!(
+                context.config.provision_notes.contains(&note),
+                "refusing to replace or clear persisted reviewer provision note"
             );
         }
     }
@@ -6143,6 +6162,7 @@ mod tests {
                 parser_version: "test".to_owned(),
                 status: InstrumentStatus::InForce,
                 source_repeal_notice: None,
+                provision_notes: Vec::new(),
                 issuing_authorities: Vec::new(),
                 formal_publication_url: None,
                 formal_publication_code: None,

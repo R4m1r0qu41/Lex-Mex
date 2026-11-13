@@ -584,6 +584,56 @@ pub struct SourceRepealNotice {
     pub decision_source_sha256: String,
 }
 
+/// A short reviewer-authored note on one provision (for example, a deferred
+/// application date a reform decree sets). It is presentation metadata kept
+/// apart from the official text: it never changes `text` or any temporal
+/// field. It binds to the whitespace-normalized provision text, so a
+/// reflow that changes no words does not invalidate it.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct ProvisionNote {
+    pub provision_id: String,
+    pub provision_text_sha256: String,
+    pub note: String,
+    pub source_sha256: String,
+    pub source_basis: String,
+    pub reviewer: String,
+    pub captured_at: String,
+    pub rationale: String,
+    pub decision_source: String,
+    pub decision_source_sha256: String,
+}
+
+impl ProvisionNote {
+    pub fn validate(&self) -> Result<(), String> {
+        let schema: serde_json::Value = serde_json::from_str(include_str!(
+            "../../../schemas/reviewer-provision-note.schema.json"
+        ))
+        .map_err(|e| e.to_string())?;
+        jsonschema::validator_for(&schema)
+            .map_err(|e| e.to_string())?
+            .validate(&serde_json::to_value(self).map_err(|e| e.to_string())?)
+            .map_err(|e| e.to_string())?;
+        if chrono::DateTime::parse_from_rfc3339(&self.captured_at).is_err() {
+            return Err("invalid reviewer provision note".to_owned());
+        }
+        Ok(())
+    }
+
+    /// The hash this note binds to for `text`.
+    #[must_use]
+    pub fn text_hash(text: &str) -> String {
+        evidence_sha256(&normalized_whitespace(text))
+    }
+
+    /// True when the note's source quote appears in the retained source text.
+    #[must_use]
+    pub fn matches_source(&self, source_hash: &str, raw: &str) -> bool {
+        self.source_sha256 == source_hash
+            && normalized_whitespace(raw).contains(&normalized_whitespace(&self.source_basis))
+    }
+}
+
 /// Exact abrogating provision of the successor instrument, bound by canonical text hash.
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
 #[serde(deny_unknown_fields)]
@@ -704,6 +754,9 @@ pub struct Instrument {
     pub status: InstrumentStatus,
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub source_repeal_notice: Option<SourceRepealNotice>,
+    /// Reviewer notes on individual provisions, kept apart from the text.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub provision_notes: Vec<ProvisionNote>,
     /// Authorities that jointly issued the instrument. Empty for instruments
     /// recorded before joint-issuer support (for example, statutes enacted by
     /// Congress and recorded only through their operational publisher).
@@ -1592,6 +1645,26 @@ fn validate_review_metadata(corpus: &Corpus) -> Result<(), String> {
             return Err("source-backed repeal notice/status identity mismatch".to_owned());
         }
     }
+    let mut noted = std::collections::HashSet::new();
+    for note in &corpus.instrument.provision_notes {
+        note.validate()?;
+        let bound = corpus.provisions.iter().any(|p| {
+            p.id == note.provision_id
+                && ProvisionNote::text_hash(&p.text) == note.provision_text_sha256
+        });
+        if !bound || note.source_sha256 != corpus.instrument.source_sha256 {
+            return Err(format!(
+                "reviewer provision note does not bind: {}",
+                note.provision_id
+            ));
+        }
+        if !noted.insert((&note.provision_id, &note.note)) {
+            return Err(format!(
+                "duplicate reviewer provision note: {}",
+                note.provision_id
+            ));
+        }
+    }
     for edge in &corpus.references {
         if let Some(approval) = &edge.outdated_reference_approval {
             approval.validate()?;
@@ -2224,6 +2297,39 @@ mod publication_metadata_tests {
         assert!(serialized.get("reviewer_supplied_at").is_none());
         // Header-basis notices must not serialize the successor-clause field.
         assert!(serialized.get("successor_clause").is_none());
+    }
+
+    #[test]
+    fn provision_note_binds_to_words_not_whitespace_and_to_its_source_quote() {
+        let raw = include_str!("../../../fixtures/diputados/cpeum-2028-application-transitory.txt");
+        let text = "Para ser Presidente se requiere:\n\nI. Ser ciudadano.";
+        let note = ProvisionNote {
+            provision_id: "urn:lex-mx:federal:constitution:cpeum:article:82".to_owned(),
+            provision_text_sha256: ProvisionNote::text_hash(text),
+            note: "Artículo vigente a partir del proceso electoral 2028.".to_owned(),
+            source_sha256: "a".repeat(64),
+            source_basis: "Segundo. Lo dispuesto en este Decreto será aplicable a partir del proceso electoral correspondiente al año 2028.".to_owned(),
+            reviewer: "JRH".to_owned(),
+            captured_at: "2026-11-13T05:00:00Z".to_owned(),
+            rationale: "r".to_owned(),
+            decision_source: "docs/x.md".to_owned(),
+            decision_source_sha256: "b".repeat(64),
+        };
+        assert!(note.validate().is_ok());
+        assert!(note.matches_source(&"a".repeat(64), raw));
+        assert!(!note.matches_source(&"c".repeat(64), raw));
+        // A reflow that changes no words keeps the binding; a word change breaks it.
+        assert_eq!(
+            ProvisionNote::text_hash("Para ser Presidente se requiere: I.  Ser ciudadano."),
+            note.provision_text_sha256
+        );
+        assert_ne!(
+            ProvisionNote::text_hash("Para ser Presidenta se requiere: I. Ser ciudadana."),
+            note.provision_text_sha256
+        );
+        let mut empty = note.clone();
+        empty.note = " ".to_owned();
+        assert!(empty.validate().is_err());
     }
 
     #[test]

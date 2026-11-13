@@ -622,6 +622,7 @@ mod tests {
             parser_version: "0.1.0".to_owned(),
             status: lex_core::InstrumentStatus::InForce,
             source_repeal_notice: None,
+            provision_notes: Vec::new(),
             issuing_authorities: Vec::new(),
             formal_publication_url: None,
             formal_publication_code: None,
