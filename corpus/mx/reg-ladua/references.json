@@ -6769,7 +6769,14 @@
     "end_char": 347,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-ladua",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:72",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 369,
+        "end_char": 379
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

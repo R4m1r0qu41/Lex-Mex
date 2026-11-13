@@ -934,7 +934,14 @@
     "end_char": 4438,
     "target_instrument_id": "urn:lex-mx:federal:code:cmpp",
     "target_provision_id": "urn:lex-mx:federal:code:cmpp:article:364",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 4447,
+        "end_char": 4457
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

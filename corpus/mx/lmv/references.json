@@ -3919,7 +3919,14 @@
     "end_char": 2114,
     "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
     "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:191",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 2124,
+        "end_char": 2138
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

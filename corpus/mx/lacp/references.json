@@ -4615,7 +4615,14 @@
     "end_char": 487,
     "target_instrument_id": "urn:lex-mx:federal:statute:lacp",
     "target_provision_id": "urn:lex-mx:federal:statute:lacp:article:10",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones VIII y IX",
+        "start_char": 522,
+        "end_char": 542
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
