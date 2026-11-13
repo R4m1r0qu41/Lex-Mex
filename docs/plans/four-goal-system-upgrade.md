@@ -681,3 +681,14 @@ the holds are listed. No guard is changed yet. This is a design item for review.
   The vault's own git now shows 12,940 changed paths, not committed (operator's vault).
 - **Codex handoff**: `AI/60_Evaluations/provider-handoffs/pending/codex/2026-11-12-lex-mex-four-goal-upgrade-review.md`
   (Agent Vault `157a575`).
+
+### Codex review delivered 2026-11-12
+
+At `ee4f730c3`, independent review is recorded in
+`docs/four-goal-upgrade-codex-review-2026-11-12.md`. Native fmt, strict clippy,
+workspace tests and LRITF/IFPE/CPEUM validators passed. LIC approval differences
+and the 190-file qualifier-only migration were independently checked.
+Change requests: preserve documented valid qualifier shapes and provide an
+audited re-confirmation path instead of removing persisted references.
+Next action: bounded fixes/design for these two findings, then re-review.
+JRH temporal decisions and held instruments remain unchanged.
