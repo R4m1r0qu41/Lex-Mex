@@ -774,3 +774,15 @@ neither header location nor instrument identity and accepts trailing text; revie
 the authority, and the limit is recorded here (no change). Item 6: integration tests for removing a
 persisted note and for a stale or missing note target are queued with the next `provision_notes`
 change.
+
+### Codex bounded re-review 2026-11-13
+
+Report: `docs/four-goal-upgrade-codex-re-review-2026-11-13.md`, reviewed at
+`5a2dc3673`. Item 3 accepted for the named qualifier shapes (independently
+confirmed +13 qualifiers, 11 instruments, no other edge changes). Item 5 remains
+change-requested: re-confirmation accepts relocation to a repeated identical
+citation and does not bind persisted prior text to its approved hash. Both
+reproduced against the compiled core. Native gate: 517 tests, strict clippy,
+fmt and LRITF/IFPE/LIC validators passed. Next review action: repair both item 5
+checks with negative regressions, then bounded re-review. Other work queues
+and JRH decisions remain unchanged.
