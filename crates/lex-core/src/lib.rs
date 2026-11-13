@@ -643,25 +643,73 @@ pub fn check_reconfirmation<T: Serialize>(
     if field(&candidate, "reconfirms") != evidence {
         return Err("re-confirmation does not carry the prior decision's evidence".to_owned());
     }
+    if field(&prior, "source_text_sha256") != serde_json::json!(evidence_sha256(prior_text)) {
+        return Err(
+            "re-confirmation refused: the persisted text does not bind to the prior decision"
+                .to_owned(),
+        );
+    }
     if normalized_whitespace(prior_text) != normalized_whitespace(new_text) {
         return Err("re-confirmation refused: the provision's words changed".to_owned());
     }
     if field(&candidate, "source_text_sha256") != serde_json::json!(evidence_sha256(new_text)) {
         return Err("re-confirmation does not bind to the reparsed text".to_owned());
     }
-    let offset = |k: &str| {
-        field(&candidate, k)
-            .as_u64()
-            .and_then(|n| usize::try_from(n).ok())
+    let offset =
+        |v: &serde_json::Value, k: &str| field(v, k).as_u64().and_then(|n| usize::try_from(n).ok());
+    let span_at = |text: &str, v: &serde_json::Value| -> Option<(usize, usize, String)> {
+        let (s, e) = offset(v, "start_char").zip(offset(v, "end_char"))?;
+        (s < e).then(|| (s, e, text.chars().skip(s).take(e - s).collect()))
     };
-    let span: Option<String> = offset("start_char")
-        .zip(offset("end_char"))
-        .filter(|(s, e)| s < e)
-        .map(|(s, e)| new_text.chars().skip(s).take(e - s).collect());
-    if span.as_deref() != field(&candidate, "source_span").as_str() {
-        return Err("re-confirmation offsets do not point at the cited span".to_owned());
+    let cited = field(&candidate, "source_span");
+    let Some((prior_start, prior_end, prior_span)) = span_at(prior_text, &prior) else {
+        return Err("re-confirmation refused: the prior offsets are invalid".to_owned());
+    };
+    if prior_span.as_str() != cited.as_str().unwrap_or_default() {
+        return Err(
+            "re-confirmation refused: the prior offsets do not cover the cited span".to_owned(),
+        );
+    }
+    // The same occurrence after the reflow: map the prior offsets by counting
+    // non-whitespace characters, so a repeated citation cannot be swapped.
+    let expected = reflowed_offset(prior_text, new_text, prior_start, false)
+        .zip(reflowed_offset(prior_text, new_text, prior_end, true));
+    let Some((start, end, span)) = span_at(new_text, &candidate) else {
+        return Err("re-confirmation offsets are invalid".to_owned());
+    };
+    if expected != Some((start, end)) || span.as_str() != cited.as_str().unwrap_or_default() {
+        return Err(
+            "re-confirmation offsets do not point at the same occurrence of the cited span"
+                .to_owned(),
+        );
     }
     Ok(())
+}
+
+/// The character offset in `new_text` of the character at `offset` in
+/// `prior_text`, when the two differ only in whitespace. A start maps to the
+/// position of the same non-whitespace character; an end maps to just after
+/// the last non-whitespace character before it.
+fn reflowed_offset(prior_text: &str, new_text: &str, offset: usize, is_end: bool) -> Option<usize> {
+    let solid = prior_text
+        .chars()
+        .take(offset)
+        .filter(|c| !c.is_whitespace())
+        .count();
+    let mut seen = 0;
+    for (index, character) in new_text.chars().enumerate() {
+        if character.is_whitespace() {
+            continue;
+        }
+        if !is_end && seen == solid {
+            return Some(index);
+        }
+        seen += 1;
+        if is_end && seen == solid {
+            return Some(index + 1);
+        }
+    }
+    (!is_end && seen == solid).then(|| new_text.chars().count())
 }
 
 /// A short reviewer-authored note on one provision (for example, a deferred
@@ -2431,6 +2479,68 @@ mod publication_metadata_tests {
         let mut moved = candidate;
         moved.start_char = 0;
         assert!(check_reconfirmation(&prior, &moved, "art 31 bis LFCE", new_text).is_err());
+    }
+
+    #[test]
+    fn a_reconfirmation_keeps_the_same_occurrence_and_binds_the_prior_text() {
+        // Codex re-review 2026-11-13: repeated identical citations and a
+        // persisted text that no longer matches the prior decision.
+        let prior_text = "art 31 bis y art 31 bis";
+        let new_text = "art  31 bis y art 31 bis";
+        let prior = LegalOperatorReview {
+            source_provision_id: "urn:lex-mx:federal:statute:lic:article:194".to_owned(),
+            target_instrument_id: "urn:lex-mx:federal:statute:lfce".to_owned(),
+            target_provision_id: "urn:lex-mx:federal:statute:lfce:article:31-bis".to_owned(),
+            source_span: "31 bis".to_owned(),
+            start_char: 4,
+            end_char: 10,
+            source_text_sha256: evidence_sha256(prior_text),
+            reviewer: "Operator".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            note: "Fixture note".to_owned(),
+            decision_source: "docs/a.md".to_owned(),
+            decision_source_sha256: "a".repeat(64),
+            reconfirms: None,
+        };
+        let evidence = ReconfirmedEvidence {
+            source_text_sha256: prior.source_text_sha256.clone(),
+            reviewer: prior.reviewer.clone(),
+            captured_at: prior.captured_at.clone(),
+            decision_source: prior.decision_source.clone(),
+            decision_source_sha256: prior.decision_source_sha256.clone(),
+        };
+        let candidate = |start: usize, end: usize| LegalOperatorReview {
+            source_text_sha256: evidence_sha256(new_text),
+            start_char: start,
+            end_char: end,
+            reviewer: "JRH".to_owned(),
+            captured_at: "2026-11-13T00:00:00Z".to_owned(),
+            reconfirms: Some(evidence.clone()),
+            ..prior.clone()
+        };
+        // The first citation after the reflow sits at 5..11.
+        assert!(check_reconfirmation(&prior, &candidate(5, 11), prior_text, new_text).is_ok());
+        // Moving the decision to the second, identical citation is refused.
+        assert!(check_reconfirmation(&prior, &candidate(18, 24), prior_text, new_text).is_err());
+        // A persisted text that does not bind to the prior hash is refused.
+        let mut stale = prior.clone();
+        stale.source_text_sha256 = "b".repeat(64);
+        let mut stale_candidate = candidate(5, 11);
+        stale_candidate
+            .reconfirms
+            .as_mut()
+            .unwrap()
+            .source_text_sha256 = "b".repeat(64);
+        assert!(check_reconfirmation(&stale, &stale_candidate, prior_text, new_text).is_err());
+        // Prior offsets that do not cover the cited span are refused.
+        let mut misplaced = prior.clone();
+        misplaced.start_char = 0;
+        misplaced.end_char = 6;
+        let mut misplaced_candidate = candidate(0, 6);
+        misplaced_candidate.start_char = 0;
+        assert!(
+            check_reconfirmation(&misplaced, &misplaced_candidate, prior_text, new_text).is_err()
+        );
     }
 
     #[test]

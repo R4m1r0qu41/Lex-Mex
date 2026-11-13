@@ -3212,6 +3212,7 @@ fn reconfirmed<T: serde::Serialize>(
     .iter()
     .map(|k| ((*k).to_owned(), field(&prior_value, k).unwrap_or_default()))
     .collect();
+    let mut refusal = None;
     for candidate in configured {
         let Some(claimed) = evidence(candidate) else {
             continue;
@@ -3225,13 +3226,23 @@ fn reconfirmed<T: serde::Serialize>(
         }
         let (prior_text, new_text) = texts(candidate)
             .context("re-confirmation needs the persisted and the reparsed provision text")?;
-        lex_core::check_reconfirmation(prior, candidate, &prior_text, &new_text)
-            .map_err(anyhow::Error::msg)?;
-        println!(
-            "re-confirmed persisted decision (prior text {})",
-            claimed["source_text_sha256"]
-        );
-        return Ok(true);
+        // Repeated identical citations give several candidates for one edge;
+        // only the one at the same occurrence re-confirms this decision.
+        match lex_core::check_reconfirmation(prior, candidate, &prior_text, &new_text) {
+            Ok(()) => {
+                println!(
+                    "re-confirmed persisted decision (prior text {})",
+                    claimed["source_text_sha256"]
+                );
+                return Ok(true);
+            }
+            Err(reason) => {
+                refusal.get_or_insert(reason);
+            }
+        }
+    }
+    if let Some(reason) = refusal {
+        bail!(reason);
     }
     Ok(false)
 }
@@ -6963,14 +6974,19 @@ mod tests {
         assert!(preserve_intake_decisions(&context, &corpus.provisions).is_ok());
     }
 
-    #[test]
-    fn persisted_decisions_migrate_only_through_an_audited_reconfirmation() {
+    /// One persisted stale-citation approval on "Texto uno dos" (span "dos").
+    fn reconfirmation_fixture() -> (
+        tempfile::TempDir,
+        InstrumentContext,
+        Corpus,
+        lex_core::OutdatedReferenceApproval,
+    ) {
         let temp = tempfile::tempdir().unwrap();
         let config = load_config(
             &Path::new(env!("CARGO_MANIFEST_DIR")).join("../../adapters/diputados/lritf.json"),
         )
         .unwrap();
-        let mut context = InstrumentContext {
+        let context = InstrumentContext {
             config,
             paths: Paths::new(temp.path(), "lritf", SourceFormat::Pdf),
             root: temp.path().to_path_buf(),
@@ -7017,6 +7033,12 @@ mod tests {
             resolution_rule: None,
         });
         write_canonical(&corpus, &context.paths.corpus).unwrap();
+        (temp, context, corpus, prior)
+    }
+
+    #[test]
+    fn persisted_decisions_migrate_only_through_an_audited_reconfirmation() {
+        let (_temp, mut context, corpus, prior) = reconfirmation_fixture();
         // The reparse separates the words with a line break; no word changes.
         let mut reparsed = corpus.provisions.clone();
         reparsed[0].text = "Texto\nuno  dos".to_owned();
@@ -7066,6 +7088,61 @@ mod tests {
         let mut unbound = reconfirmed;
         unbound.source_text_sha256 = "e".repeat(64);
         assert!(check(vec![unbound], &reparsed).is_err());
+    }
+
+    #[test]
+    fn repeated_citations_reconfirm_only_at_their_own_occurrence() {
+        let (_temp, mut context, corpus, prior) = reconfirmation_fixture();
+        let corpus_dir = context.paths.corpus.clone();
+        let mut check = |candidates: Vec<lex_core::OutdatedReferenceApproval>,
+                         text: &[lex_core::Provision]| {
+            context.config.outdated_reference_approvals = candidates;
+            preserve_intake_decisions(&context, text)
+        };
+        // Two persisted decisions on repeated identical citations (same target
+        // and span, different occurrences): each needs its own candidate, in
+        // any order, and one candidate cannot stand in for both.
+        let mut twice = corpus.clone();
+        twice.provisions[0].text = "Texto dos uno dos".to_owned();
+        let mut second = prior.clone();
+        second.source_text_sha256 = lex_core::evidence_sha256("Texto dos uno dos");
+        let mut first = second.clone();
+        first.start_char = 6;
+        first.end_char = 9;
+        second.start_char = 14;
+        second.end_char = 17;
+        twice.references = [&first, &second]
+            .iter()
+            .enumerate()
+            .map(|(i, approval)| lex_core::ReferenceEdge {
+                id: format!("fixture-edge-{i}"),
+                start_char: approval.start_char,
+                end_char: approval.end_char,
+                outdated_reference_approval: Some((*approval).clone()),
+                ..corpus.references[0].clone()
+            })
+            .collect();
+        write_canonical(&twice, &corpus_dir).unwrap();
+        let mut reflowed = twice.provisions.clone();
+        reflowed[0].text = "Texto  dos uno\ndos".to_owned();
+        let renew = |approval: &lex_core::OutdatedReferenceApproval, start: usize| {
+            lex_core::OutdatedReferenceApproval {
+                source_text_sha256: lex_core::evidence_sha256("Texto  dos uno\ndos"),
+                start_char: start,
+                end_char: start + 3,
+                reviewer: "JRH".to_owned(),
+                reconfirms: Some(lex_core::ReconfirmedEvidence {
+                    source_text_sha256: approval.source_text_sha256.clone(),
+                    reviewer: approval.reviewer.clone(),
+                    captured_at: approval.captured_at.clone(),
+                    decision_source: approval.decision_source.clone(),
+                    decision_source_sha256: approval.decision_source_sha256.clone(),
+                }),
+                ..approval.clone()
+            }
+        };
+        assert!(check(vec![renew(&second, 15), renew(&first, 7)], &reflowed).is_ok());
+        assert!(check(vec![renew(&first, 7)], &reflowed).is_err());
     }
 
     #[test]
