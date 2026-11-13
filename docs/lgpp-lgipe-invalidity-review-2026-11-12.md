@@ -17,6 +17,9 @@ preceding article (a parser defect, fixed separately; non-legal).
 - LGIPE art. 80's four article-level notes belong to arts. 80 Bis to 80 Quinquies, which the decree
   added and the ruling suppressed. Art. 80 itself is in force. 20 such folded articles exist, all in
   LGIPE; none elsewhere in the corpus.
+- The loose search finds 240 LGIPE provisions, the table 238. The two others (arts. 272 and 284)
+  carry only the notes of folded suppressed articles (272 Bis to Sexies, 284 Bis and Ter), listed
+  below; the host articles themselves are in force.
 - The 2 LGPP and 10 LGIPE provisions missing from the first draft print "Derogación del artículo
   declarada inválida y recupera su vigencia" (11) or "Recorrido del inciso declarado inválido" (1):
   the 2023 repeal or renumbering was invalidated, so the prior text is in force.

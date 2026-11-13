@@ -692,3 +692,58 @@ Change requests: preserve documented valid qualifier shapes and provide an
 audited re-confirmation path instead of removing persisted references.
 Next action: bounded fixes/design for these two findings, then re-review.
 JRH temporal decisions and held instruments remain unchanged.
+
+## 2026-11-13: Codex change requests, decision routing, MCP tests
+
+**Decision routing (JRH).** Recorded in `AGENTS.md` ("Decision routing"): only strict legal
+questions go to JRH; everything else is resolved by the agents from the surrounding context and
+recorded. Applied here: the LGPP/LGIPE caveats were settled from the text; only the status
+classification stays with JRH.
+
+**Codex item 5, audited re-confirmation.** `reconfirms` on `outdated_reference_approval` and
+`legal_operator_review` (schema `reference-edge.schema.json`, `lex_core::ReconfirmedEvidence`,
+`check_reconfirmation`, guard `preserve_intake_decisions`). Replay of the real case: `lic` as of
+`136fb83bf^` with `references.json` present and `reconfirms` in the adapter parses and reproduces
+the committed references exactly apart from the two new blocks; without `reconfirms` it refuses.
+The public release cannot carry it (reference allowlist); the database stores the record whole.
+The committed `lic` data is not rewritten (Codex: no rollback needed).
+
+**Codex item 3, qualifier shapes.** Every removal in `05d15bcd0` was listed with the text
+between the number and the phrase (1,132 anchored). Restored, with tests beside the leakage
+tests: the self-designation `de esta Ley,` (and `del presente Código`, …) between number and
+qualifier, and exception connectors (`excepto`, `salvo el de la`, `con excepción de la/del`),
+consistent with the accepted `salvo … su segundo párrafo`. An excepted part followed by its own
+`que` clause is not attached (LFPC art. 66 leakage found in review). Relink: 10 instruments, 10
+qualifiers added, none removed, no other field changed, Markdown identical, closure unchanged.
+Still lost on purpose: qualifiers after `2o.-A` / `32-A` (the edge targets art. 2 or 32, not the
+suffixed article; target defect, below), and qualifiers that scope a later citation.
+Limitation: an exception qualifier reads the same as a positive one; there is no exclusion flag.
+D-8 of the 10: all fractions found in their target except `cmpp` (edge already on the wrong
+target, below) and `lacp` art. 10 fraction IX (merged mid-line in the corpus text).
+
+**Follow-ups found (non-legal, agents' queue).**
+1. Ordinal-suffixed articles `2o.-A`, `32-A` resolve to the bare number (about 46 citations).
+2. `cmpp` art. 164 cites arts. 362–367 of another code ("deberes especiales de marinos") and is
+   resolved to CMPP's own articles.
+3. Fractions printed `VI.-` are not recognized by the Obsidian fraction anchors
+   (`fraction_labels`); `lacp` art. 10 fraction IX is merged mid-line.
+4. LGIPE: 20 suppressed articles (`[Artículo 80 Bis. Suprimido]` …) are folded into the
+   preceding article; split them as their own provisions (parser fix with fixture).
+5. MCP findings in `docs/mcp-agent-tests-2026-11-13.md` (instrument discovery, `release_id`
+   contract, reviewer notes absent from the release).
+
+**Decree-list pilot (Diputados `ref/<slug>.htm`, read-only).** Retained `.work/ref-pages/lic.htm`
+(SHA-256 `68f53f62…`, ISO-8859-1) and `lieps.htm` (`84e10255…`). Each page lists every reform
+decree (number, title, DOF date) and, for LIEPS, the SHCP quota *acuerdos*. Compared with the
+decree groups in `reform-temporal-evidence.json` (date plus `decree-N` for same-day decrees):
+- `lic`: 49 of 50 decrees. The missing #39 (DOF 13-08-2009) issued the Ley para Regular las
+  Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; the LIC PDF prints only its
+  "Fracción adicionada" marks, not its transitories, so the gap is expected.
+- `lieps` (held): the committed evidence files the yearly quota *acuerdos* under the preceding
+  decree (2013-12-20 holds the 2017–2019 acuerdos; 2021-11-12 those of 2022–2025). The held
+  reparse gives each acuerdo its own group under its own DOF date, matching the page; that is the
+  correct segmentation. But it also drops the transitories of the 1984-12-31 and 1988-12-31
+  decrees, which the page lists. Neither version is right; `lieps` stays held until the parser
+  keeps those two (agents' queue, fixture from the retained text). Not a JRH question.
+- A decree-list comparison script exists only in scratch; making it a read-only command
+  (`check-decrees <slug>`) is the next step if more instruments are piloted.
