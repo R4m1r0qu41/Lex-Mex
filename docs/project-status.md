@@ -28,9 +28,12 @@ instruments; 64,861 articles / 3,506 transitories / 30 annexes; 36,105 reference
 of 468 instruments fully (input missing: `socap-sofipo-dcg-2006`; retained text not matching
 its manifest hash: `cub-dcg-2005`, `lfiiedb`). Separately, `monitor-sources` finds three
 official files changed at origin (`cpeum`, `cub-dcg-2005`, `socap-sofipo-dcg-2006`), not yet
-re-ingested. A linker repair that removes 1,192 qualifiers attached to the wrong citation
-waits on the local branch `upgrade/qualifier-attribution-2026-11-12` for an operator decision
-on `lgmime`'s approved edge (see the plan). No
+re-ingested. JRH decisions of 2026-11-12 are applied (`7e3416fab`..`f36ac6c11`): the
+qualifier-attribution repair (1,192 wrong qualifiers removed) is merged; `lic`, `lfpccs`, `lfvv`
+are adopted after re-confirmation; `lgmime` is recorded as declared invalid by the SCJN
+(AI 71/2023, effects 23-06-2023), status `repealed` with an invalidity note, provision
+`effective_to` not yet applied (needs a notice effects-date field). A 465 reparse then differs
+only in the 4 still held: `lieps`, `cue-dcg-2003`, `scap-dcg-2012`, `lftr`. No
 push, deploy or legal review. Live state and next actions:
 [four-goal plan](plans/four-goal-system-upgrade.md).
 
