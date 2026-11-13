@@ -3199,12 +3199,28 @@ fn reconfirmed<T: serde::Serialize>(
             .and_then(|v| v.get("reconfirms").cloned())
     };
     let prior_value = serde_json::to_value(prior)?;
-    let prior_hash = prior_value.get("source_text_sha256");
+    let field = |v: &serde_json::Value, k: &str| v.get(k).cloned();
+    // Several decisions can share one provision (one text hash), so the
+    // candidate must name this edge and carry this decision's full evidence.
+    let prior_evidence: serde_json::Map<String, serde_json::Value> = [
+        "source_text_sha256",
+        "reviewer",
+        "captured_at",
+        "decision_source",
+        "decision_source_sha256",
+    ]
+    .iter()
+    .map(|k| ((*k).to_owned(), field(&prior_value, k).unwrap_or_default()))
+    .collect();
     for candidate in configured {
         let Some(claimed) = evidence(candidate) else {
             continue;
         };
-        if claimed.get("source_text_sha256") != prior_hash {
+        let candidate_value = serde_json::to_value(candidate)?;
+        let same_edge = ["source_provision_id", "target_provision_id", "source_span"]
+            .iter()
+            .all(|k| field(&candidate_value, k) == field(&prior_value, k));
+        if !same_edge || claimed != serde_json::Value::Object(prior_evidence.clone()) {
             continue;
         }
         let (prior_text, new_text) = texts(candidate)
@@ -7021,29 +7037,35 @@ mod tests {
             }),
             ..prior.clone()
         };
-        let mut check = |candidate: lex_core::OutdatedReferenceApproval,
+        let mut check = |candidates: Vec<lex_core::OutdatedReferenceApproval>,
                          text: &[lex_core::Provision]| {
-            context.config.outdated_reference_approvals = vec![candidate];
+            context.config.outdated_reference_approvals = candidates;
             preserve_intake_decisions(&context, text)
         };
         // Authorized: same edge, prior evidence carried, words unchanged.
-        assert!(check(reconfirmed.clone(), &reparsed).is_ok());
+        assert!(check(vec![reconfirmed.clone()], &reparsed).is_ok());
+        // A second decision in the same article (same text hash) whose own
+        // re-confirmation comes first does not cause a refusal of this one.
+        let mut other = reconfirmed.clone();
+        other.target_provision_id = "urn:lex-mx:federal:statute:lmv:article:9".to_owned();
+        other.reconfirms.as_mut().unwrap().decision_source = "other".to_owned();
+        assert!(check(vec![other, reconfirmed.clone()], &reparsed).is_ok());
         // Without the prior evidence the replacement is an ordinary refusal.
         let mut bare = reconfirmed.clone();
         bare.reconfirms = None;
-        assert!(check(bare, &reparsed).is_err());
+        assert!(check(vec![bare], &reparsed).is_err());
         // A changed rationale is not a re-confirmation.
         let mut changed = reconfirmed.clone();
         changed.rationale.push_str(" changed");
-        assert!(check(changed, &reparsed).is_err());
+        assert!(check(vec![changed], &reparsed).is_err());
         // Changed words refuse even with the evidence attached.
         let mut reworded = reparsed.clone();
         reworded[0].text = "Texto tres dos".to_owned();
-        assert!(check(reconfirmed.clone(), &reworded).is_err());
+        assert!(check(vec![reconfirmed.clone()], &reworded).is_err());
         // The new hash must bind to the reparsed text.
         let mut unbound = reconfirmed;
         unbound.source_text_sha256 = "e".repeat(64);
-        assert!(check(unbound, &reparsed).is_err());
+        assert!(check(vec![unbound], &reparsed).is_err());
     }
 
     #[test]

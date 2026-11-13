@@ -539,6 +539,12 @@
         "text": "inciso a",
         "start_char": 240,
         "end_char": 248
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 256,
+        "end_char": 267
       }
     ],
     "basis": "express_cross_reference",

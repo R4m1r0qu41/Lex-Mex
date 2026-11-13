@@ -4775,6 +4775,12 @@
         "text": "segundo párrafo",
         "start_char": 5516,
         "end_char": 5531
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 5538,
+        "end_char": 5548
       }
     ],
     "basis": "express_cross_reference",

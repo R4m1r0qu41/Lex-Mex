@@ -16875,6 +16875,12 @@
         "text": "párrafo segundo",
         "start_char": 3325,
         "end_char": 3340
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 3347,
+        "end_char": 3357
       }
     ],
     "basis": "express_cross_reference",

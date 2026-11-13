@@ -118,7 +118,7 @@ impl ReferencePatterns {
             )?,
             subsection: Regex::new(r"(?i)\bincisos?\s+[a-z](?:\s*(?:,|y|o)\s*[a-z])*\b")?,
             qualifier_connector: Regex::new(
-                r#"^(?:[\s,()"“”]|\b(?i:y|e|o|su|sus|en|bis|ter|qu[aá]ter)\b|\b(?i:antepenúltimo|penúltimo|último|primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo)\b|\b(?i:numeral(?:es)?)\s+\d+(?:\.\d+)*\b|\b(?i:apartados?)\s+[A-Z]\b|\b(?i:bases?)\s+[IVXLCDM]+\b|\b[IVXLCDM]+\b|\b[a-z]\)|\b(?i:de\s+(?:esta|la\s+presente)\s+(?:ley|ordenanza)|de\s+este\s+(?:código|reglamento|ordenamiento|decreto)|del\s+presente\s+(?:código|reglamento|ordenamiento|decreto))\b|\b(?i:excepto|salvo\s+(?:el|la|los|las)\s+de\s+(?:la|las|el|los)|con\s+excepción\s+(?:de\s+(?:la|las|el|los)|del))\b)*$"#,
+                r#"^(?:[\s,()"“”]|\b(?i:y|e|o|su|sus|en|bis|ter|qu[aá]ter)\b|\b(?i:antepenúltimo|penúltimo|último|primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo)\b|\b(?i:numeral(?:es)?)\s+\d+(?:\.\d+)*\b|\b(?i:apartados?)\s+[A-Z]\b|\b(?i:bases?)\s+[IVXLCDM]+\b|\b[IVXLCDM]+\b|\b[a-z]\)|\b(?i:de\s+(?:esta|la\s+presente)\s+(?:ley|ordenanza)|de\s+este\s+(?:código|reglamento|ordenamiento|decreto)|del\s+presente\s+(?:código|reglamento|ordenamiento|decreto))\b|\b(?i:de\s+(?:la|las|los|el)|del)\b|\b(?i:excepto|salvo\s+(?:el|la|los|las)\s+de\s+(?:la|las|el|los)|con\s+excepción\s+(?:de\s+(?:la|las|el|los)|del))\b)*$"#,
             )?,
             qualifier_scopes_following: Regex::new(
                 r"(?i)^\)?\s*,?\s*(?:(?:de(?:l|\s+los|\s+las|\s+la)?\s+)?(?:(?:dicho|mismo|citado|referido|mencionado|aludido|señalado|indicado)\s+)?(?:artículos?|arts?\.)\s*(?:\d|anterior\b|siguiente\b|que\s+precede\b)|(?:de\s+(?:este|ese)|del\s+presente)\s+(?:artículo|precepto)\b)",
@@ -1413,6 +1413,9 @@ fn fraction_labels(text: &str) -> HashSet<&str> {
 static EXCEPTION_WORD: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
     Regex::new(r"(?i)\b(?:excepto|salvo|excepción)\b").expect("static regex")
 });
+static OF_CONNECTOR: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+    Regex::new(r"(?i)\b(?:de\s+(?:la|las|los|el)|del)\s*$").expect("static regex")
+});
 static RELATIVE_AFTER: std::sync::LazyLock<Regex> =
     std::sync::LazyLock::new(|| Regex::new(r"(?i)^\s*,?\s*que\b").expect("static regex"));
 
@@ -1477,12 +1480,20 @@ fn last_number_qualifiers(
             // artículo 128 TER`) is the citing provision's part, not the
             // cited article's (LFPC art. 66).
             let exception_clause = EXCEPTION_WORD.is_match(gap) && RELATIVE_AFTER.is_match(after);
+            // `de la` / `del` joins an inner part to its containing part
+            // (`inciso a) de la fracción IV`), never the number to its first
+            // qualifier: `3o. y de la fracción XXIX-F del artículo 73`.
+            let opens_with_of =
+                kept.is_empty() && OF_CONNECTOR.is_match(gap) && !EXCEPTION_WORD.is_match(gap);
             if exception_clause {
                 chain_end = Some(stop);
                 end = stop;
                 continue;
             }
-            if patterns.qualifier_connector.is_match(gap) {
+            // An opening `de la` is not a connector; the phrase may still
+            // point back below (`de los párrafos segundo y tercero del citado
+            // artículo`).
+            if !opens_with_of && patterns.qualifier_connector.is_match(gap) {
                 if !gap.chars().all(|character| {
                     character.is_whitespace() || matches!(character, ',' | '(' | ')')
                 }) {

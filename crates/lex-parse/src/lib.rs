@@ -2353,7 +2353,8 @@ Ciudad de México, a 1 de octubre de 2025.
         const ID: &str = "urn:lex-mx:federal:statute:fix";
         let numbers = [
             "2980", "2935", "197", "198", "9", "18", "20", "21", "15", "153", "78", "7", "5", "28",
-            "30", "38", "25", "362", "363", "364", "365", "434", "128",
+            "30", "38", "25", "362", "363", "364", "365", "434", "128", "8", "324", "3", "73",
+            "88", "151", "33",
         ];
         let known: Vec<String> = numbers
             .iter()
@@ -2438,6 +2439,24 @@ Ciudad de México, a 1 de octubre de 2025.
         // citing provision (LFPC art. 66 citing art. 128).
         let text = "Artículo 1.- Se sancionará conforme a lo dispuesto en el artículo 128, con excepción de la fracción VI que se sancionará conforme al artículo 21 de esta Ley.";
         assert_eq!(qualifiers_of(text, "128"), none);
+        // An inner part stays with its containing part (REG-LAERO art. 9,
+        // CUB art. 324): the chain continues through `de la`.
+        let text = "Artículo 1.- En términos de los artículos 8 y 9, con excepción del inciso a) de la fracción IV de este último, del presente Reglamento.";
+        assert_eq!(qualifiers_of(text, "9"), ["inciso a", "fracción IV"]);
+        let text = "Artículo 1.- Los aspectos del artículo 324, con excepción del párrafo segundo de la fracción I, de las presentes disposiciones.";
+        assert_eq!(
+            qualifiers_of(text, "324"),
+            ["párrafo segundo", "fracción I"]
+        );
+        // `de la` / `del` right after the number opens a later citation
+        // (LGMHCTI art. 3o and 73; LISR arts. 88 and 151).
+        let text = "Artículo 1.- Con fundamento en el artículo 3o. y de la fracción XXIX-F del artículo 73 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "3"), none);
+        let text = "Artículo 1.- Lo dispuesto en el artículo 88 y del párrafo décimo segundo del artículo 151 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "88"), none);
+        // A back-reference opened by `de los` still belongs (REG-LMIN art. 33).
+        let text = "Artículo 1.- El supuesto del artículo 33 de este Reglamento, para determinar el ganador en los términos de los párrafos segundo y tercero del citado artículo.";
+        assert_eq!(qualifiers_of(text, "33"), ["párrafos segundo y tercero"]);
         // The self-designation does not carry a later citation's qualifier.
         let text = "Artículo 1.- Lo previsto en el artículo 25 de esta Ley, fracción V del artículo 30 de esta Ley.";
         assert_eq!(qualifiers_of(text, "25"), none);
