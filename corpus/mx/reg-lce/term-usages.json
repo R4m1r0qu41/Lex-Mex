@@ -3115,12 +3115,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lce:transitory:segundo:term-usage:311-325",
+    "id": "urn:lex-mx:federal:regulation:reg-lce:transitory:segundo:term-usage:310-324",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lce:transitory:segundo",
     "term_id": "urn:lex-mx:federal:regulation:reg-lce:term:comision-mixta",
     "span": "Comisión Mixta",
-    "start_char": 311,
-    "end_char": 325
+    "start_char": 310,
+    "end_char": 324
   },
   {
     "schema_version": "0.1.0",

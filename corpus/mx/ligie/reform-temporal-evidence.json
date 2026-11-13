@@ -52,7 +52,22 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:ligie:amendment:2023-01-06:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2023-01-06",
-    "text": "Se abroga el Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, y el"
+    "text": "Se abroga el Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, y el Decreto por el que se exenta el pago de arancel de importación a las mercancías que se indican, publicados en el Diario Oficial de la Federación el 19 de octubre y 18 de noviembre de 2022, respectivamente.\n\nLas menciones que se hagan en reglas de carácter general y demás disposiciones administrativas al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, se entenderán hechas al presente decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ligie:amendment:2023-01-06:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2023-01-06",
+    "text": "El registro en el \"Padrón de Importadores de Productos de la Canasta Básica” de las Empresas Importadoras de Productos de la Canasta Básica, conforme al Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica e insumos que se indican, publicado en el Diario Oficial de la Federación el 19 de octubre de 2022, será válido y mantendrá su vigencia en los términos del presente decreto.\n\nLas Empresas Importadoras de Productos de la Canasta Básica, a las que se refiere el párrafo anterior, podrán solicitar por escrito ante el Servicio de Administración Tributaria la adición de fracciones arancelarias a su registro, siempre y cuando cumplan con las disposiciones del presente decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ligie:amendment:2023-01-06:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2023-01-06",
+    "text": "Las Empresas Importadoras de Productos de la Canasta Básica registradas en el \"Padrón de Importadores de Productos de la Canasta Básica\", que acrediten haber celebrado un contrato para la adquisición de las mercancías referidas en los artículos Primero y Segundo de este ordenamiento durante su vigencia, podrán aplicar los beneficios contenidos en el presente decreto hasta el 31 de marzo de 2027, siempre que a más tardar el 8 de enero de 2027 presenten ante el Servicio de Administración Tributaria dichos contratos, incluyendo en el caso de contratos marco, las órdenes de compra relacionadas, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.\n\nArtículo reformado DOF 27-12-2023, 31-12-2024, 31-12-2025"
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ligie:amendment:2023-01-06:transitory:quinto",
+    "label": "Transitorio Quinto — Decreto DOF 2023-01-06",
+    "text": "El Servicio de Administración Tributaria emitirá o modificará las reglas de carácter general y la Agencia Nacional de Aduanas de México las reglas de operación, que resulten necesarias para la debida y correcta aplicación del presente decreto."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:ligie:amendment:2023-01-16:transitory:unico",
@@ -82,7 +97,12 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:ligie:amendment:2023-08-15:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2023-08-15",
-    "text": "Se derogan los artículos Segundo y Tercero, y los transitorios Segundo, Tercero y Sexto del “Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, el Decreto para el apoyo de la competitividad de la industria automotriz terminal y el impulso al desarrollo del mercado interno de automóviles, el Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, el Decreto de la zona libre de Chetumal, el Decreto por el que se establecen diversos Programas de Promoción Sectorial, el"
+    "text": "Se derogan los artículos Segundo y Tercero, y los transitorios Segundo, Tercero y Sexto del “Decreto por el que se modifica la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, el Decreto para el apoyo de la competitividad de la industria automotriz terminal y el impulso al desarrollo del mercado interno de automóviles, el Decreto para el Fomento de la Industria Manufacturera, Maquiladora y de Servicios de Exportación, el Decreto por el que se establece el impuesto general de importación para la región fronteriza y la franja fronteriza norte, el Decreto de la zona libre de Chetumal, el Decreto por el que se establecen diversos Programas de Promoción Sectorial, el Decreto por el que se regula la importación definitiva de vehículos usados y los diversos por los que se establecen aranceles-cupo”, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2022."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ligie:amendment:2023-08-15:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2023-08-15",
+    "text": "Para los efectos del “Decreto por el que se establecen diversos Programas de Promoción Sectorial”, publicado en el Diario Oficial de la Federación el 2 de agosto de 2002 y sus modificaciones posteriores, a partir de la entrada en vigor del presente ordenamiento y hasta el 31 de julio de 2025, en los programas a que se refieren las fracciones I, II y XIX del artículo 5 de dicho decreto quedan incluidas las siguientes fracciones arancelarias:\n\nI. En el programa de la industria eléctrica, las fracciones arancelarias 7208.39.01, 7208.51.04 y 7211.29.99;\n\nII. En el programa de la industria electrónica, la fracción arancelaria 7225.19.99, únicamente para los efectos de la fracción II, inciso b, del artículo 5 del decreto a que se refiere este transitorio, y\n\nIII. En los programas de las industrias automotriz y de autopartes, las fracciones arancelarias 7208.26.01, 7208.27.01, 7209.16.01, 7209.17.01, 7211.29.99, y 7225.30.91 y 7225.40.91."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:ligie:amendment:2023-12-27:transitory:primero",

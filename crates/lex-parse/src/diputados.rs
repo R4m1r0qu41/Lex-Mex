@@ -987,6 +987,7 @@ fn publisher_title_lines(lines: &[&str]) -> std::collections::HashSet<usize> {
     publisher_title_lines
 }
 
+#[allow(clippy::too_many_lines)]
 fn normalized_blocks(
     raw: &str,
     options: &DiputadosOptions,
@@ -1053,7 +1054,10 @@ fn normalized_blocks(
         // silently absorbed into unrelated content across a page break
         // (confirmed against lfd's real committed source), so only force a
         // split there, where the false-positive risk is negligible.
-        if crossed_page_furniture && (is_reform_ley_heading(line) || is_short_ley_title_line(line))
+        if crossed_page_furniture
+            && (is_reform_ley_heading(line)
+                || is_short_ley_title_line(line)
+                || opens_erratum_after_sentence(line, &current))
         {
             flush_block(&mut current, &mut blocks);
             crossed_page_furniture = false;
@@ -1102,7 +1106,10 @@ fn normalized_blocks(
         let continues_sentence = !current.is_empty()
             && !current.trim_end().ends_with(['.', ';', ':'])
             && headings.matches_only_with_separator(line);
-        if !continues_sentence && is_immediate_structural(line, options, headings) {
+        if !continues_sentence
+            && !cites_decree_mid_sentence(line, &current)
+            && is_immediate_structural(line, options, headings)
+        {
             flush_block(&mut current, &mut blocks);
             blocks.push(collapse_whitespace(line));
             continue;
@@ -1126,6 +1133,27 @@ fn normalized_blocks(
     }
     flush_block(&mut current, &mut blocks);
     blocks
+}
+
+/// An erratum notice that opens the next page after a finished sentence is its
+/// own appendix title, not the tail of the transitory the page break
+/// interrupted (lieps: `ARTICULO UNICO.- La presente Ley entrará en vigor…1989.`
+/// + page furniture + `FE de erratas a la Ley que establece…`).
+fn opens_erratum_after_sentence(line: &str, current: &str) -> bool {
+    is_erratum_title_line(line) && current.trim_end().ends_with('.')
+}
+
+/// A title-case decree name that a wrapped line happens to begin with is a
+/// citation when the open block stops mid-sentence (lieps, Ley de Ingresos 2017
+/// transitory Cuarto: `…a que se refiere el` / `Decreto por el que se reforman y
+/// adicionan … Constitución…`). The uppercase `DECRETO ` appendix title is
+/// unaffected.
+fn cites_decree_mid_sentence(line: &str, current: &str) -> bool {
+    is_decree_heading(line)
+        && !line.starts_with("DECRETO ")
+        && current
+            .trim_end()
+            .ends_with(|c: char| c.is_lowercase() || c == ',')
 }
 
 /// A paragraph opening with a Roman fraction marker: `III. `, `IV.- `,
@@ -2183,8 +2211,35 @@ fn is_reform_transitory_section_header(block: &str) -> bool {
         return true;
     }
     let uppercase = block.to_uppercase();
-    uppercase.starts_with("ARTÍCULOS TRANSITORIOS DEL DECRETO")
+    if uppercase.starts_with("ARTÍCULOS TRANSITORIOS DEL DECRETO")
         || uppercase.starts_with("ARTICULOS TRANSITORIOS DEL DECRETO")
+    {
+        return true;
+    }
+    // A section heading that names the law whose transitories follow
+    // (lieps, DOF 01-01-2002 and 30-12-2002: `Disposiciones Transitorias de
+    // la Ley del Impuesto Especial sobre Producción y Servicios`; DOF
+    // 15-11-2016: `Transitorios de la Ley de Ingresos de la Federación para
+    // el Ejercicio Fiscal de 2017`). A short title-shaped line only: no
+    // closing period, no further sentence.
+    [
+        "DISPOSICIONES TRANSITORIAS DE LA LEY ",
+        "TRANSITORIOS DE LA LEY ",
+    ]
+    .iter()
+    .any(|prefix| uppercase.starts_with(prefix))
+        && block.chars().count() <= 160
+        && !block.trim_end().ends_with(['.', ':', ';', ','])
+}
+
+/// The title of an erratum notice in a reform appendix (`Fe de erratas de la
+/// Ley…`, `FE de erratas a la Ley…`). A margin amendment mark (`Fe de erratas
+/// al artículo DOF 21-12-1928`) carries its DOF date and is not a title.
+fn is_erratum_title_line(line: &str) -> bool {
+    (line.starts_with("Fe de erratas ") || line.starts_with("FE de erratas "))
+        && !line
+            .match_indices("DOF ")
+            .any(|(at, _)| line[at + 4..].starts_with(|c: char| c.is_ascii_digit()))
 }
 
 /// An all-caps `LEY <title>` line in the reform appendix is an amending act
@@ -2305,6 +2360,7 @@ pub fn extract_reform_evidence(
     let mut decree_occurrence: Option<usize> = None;
     let mut transitory_section_occurrence = 0;
     let mut section_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
+    let mut open_start_article_shaped = false;
     let mut decrees_by_date: std::collections::HashMap<NaiveDate, usize> =
         std::collections::HashMap::new();
     let mut current: Option<ReformEvidenceBuilder> = None;
@@ -2442,13 +2498,31 @@ pub fn extract_reform_evidence(
             // Código Fiscal…`). An `Artículo` heading that repeats an ordinal
             // already read in this section is such an article, so the section
             // has ended.
+            // A section headed by the law it belongs to can open with the
+            // decree article that wraps it (lfd, DOF 11-12-2013: `ARTÍCULO
+            // SEXTO.- En relación con las modificaciones … se estará a lo
+            // siguiente:` then `Primero.` … `Sexto.`). An `Artículo` start
+            // followed at once by a bare `Primero` is such a wrapper, so the
+            // nested series is its own section and cannot collide with it.
+            let article_shaped = is_article_shaped_word(&block);
+            if !article_shaped
+                && slug(&ordinal) == "primero"
+                && open_start_article_shaped
+                && current
+                    .as_ref()
+                    .is_some_and(|builder| builder.blocks.len() == 1)
+            {
+                transitory_section_occurrence += 1;
+                section_ordinals.clear();
+            }
             let repeated = !section_ordinals.insert(slug(&ordinal));
-            if repeated && is_article_shaped_word(&block) {
+            if repeated && article_shaped {
                 flush_reform(&options.instrument_id, &mut current, &mut evidence);
                 in_transitories = false;
                 continue;
             }
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
+            open_start_article_shaped = article_shaped;
             let date = publication_date.ok_or_else(|| {
                 anyhow::anyhow!(
                     "found reform transitory {ordinal:?} without its Diario Oficial publication date after decree heading {:?}",
@@ -2539,6 +2613,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/article-quintus-sample.txt");
     const REFORM_ORDINAL_FIRST_DAY_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-ordinal-first-day-publication-sample.txt");
+    const LIEPS_REFORM_GROUPING_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/lieps-reform-appendix-grouping-sample.txt");
     const REFORM_LEY_HEADING_ACROSS_PAGE_FURNITURE_FIXTURE: &str = include_str!(
         "../../../fixtures/diputados/reform-ley-heading-across-page-furniture-sample.txt"
     );
@@ -3737,6 +3813,156 @@ mod tests {
         assert_eq!(
             evidence[6].label,
             "Transitorio Único — Decreto 2 DOF 2023-09-22"
+        );
+    }
+
+    #[test]
+    fn lieps_appendix_groups_each_decree_under_its_own_publication_date() {
+        // Retained LIEPS source (fixtures/diputados/lieps-reform-appendix-grouping-provenance.md).
+        // Three defects, each checked against the Diputados decree list:
+        // 1. An erratum title after a page break was read as part of the
+        //    1988 `ARTICULO UNICO`, then the whole block as a new act, so the
+        //    transitory was lost.
+        // 2. `Disposiciones Transitorias de la Ley …` / `Transitorios de la
+        //    Ley …` headings were not section headers, so the 2002 and 2016
+        //    transitories were never isolated.
+        // 3. A wrapped line beginning `Decreto por el que` inside transitory
+        //    Cuarto was read as a new decree, and the date it cites
+        //    (20-12-2013) replaced the real one (15-11-2016).
+        let evidence = super::extract_reform_evidence(
+            LIEPS_REFORM_GROUPING_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:lieps",
+                "Ley del Impuesto Especial sobre Producción y Servicios",
+            ),
+        )
+        .expect("lieps appendix fixture parses");
+
+        let ids: Vec<&str> = evidence
+            .iter()
+            .map(|item| {
+                item.provision_id
+                    .strip_prefix("urn:lex-mx:federal:statute:lieps:amendment:")
+                    .expect("amendment id")
+            })
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "1988-12-31:transitory:unico",
+                "2002-01-01:transitory:segundo",
+                "2016-11-15:transitory:primero",
+                "2016-11-15:transitory:cuarto",
+                "2016-11-15:section-2:transitory:unico",
+            ]
+        );
+        assert_eq!(
+            evidence[0].text,
+            "La presente Ley entrará en vigor el día 1o. de enero de 1989."
+        );
+        assert!(evidence.iter().all(|item| !item.text.contains("erratas")));
+        assert!(
+            evidence
+                .iter()
+                .all(|item| !item.provision_id.contains("2013-12-20"))
+        );
+        // The citation stays inside the transitory that makes it.
+        assert!(evidence[3].text.contains(
+            "a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución"
+        ));
+    }
+
+    #[test]
+    fn a_wrapping_decree_article_keeps_its_nested_transitories_in_their_own_section() {
+        // lfpca, DOF 27-01-2017 (retained source, abridged): the law-named
+        // section opens with the decree article that introduces the nested
+        // series; its ordinal (Segundo) recurs inside the series.
+        let source = "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA\n\n\
+DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Muestra.\n\
+Publicado en el Diario Oficial de la Federación el 27 de enero de 2017\n\n\
+       DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE MUESTRA\n\n\
+  Artículo Segundo.- En relación con las modificaciones a que se refiere el artículo Primero de este\n\
+Decreto, se estará a lo siguiente:\n\n\
+   Primero.- La Junta de Gobierno adscribirá tres Salas Regionales Especializadas.\n\n\
+    Segundo.- La Junta de Gobierno emitirá los acuerdos necesarios.\n\n\
+                                   Transitorios\n\n\
+   Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación.\n\n\
+   Segundo.- Las erogaciones se cubrirán con cargo al presupuesto aprobado.\n";
+        let evidence = super::extract_reform_evidence(
+            source,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley Federal de Muestra",
+            ),
+        )
+        .expect("a wrapping decree article must not collide with its nested series");
+        let ids: Vec<&str> = evidence
+            .iter()
+            .map(|item| {
+                item.provision_id
+                    .strip_prefix("urn:lex-mx:federal:statute:sample:amendment:2017-01-27:")
+                    .expect("amendment id")
+            })
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "transitory:segundo",
+                "section-2:transitory:primero",
+                "section-2:transitory:segundo",
+                "section-3:transitory:primero",
+                "section-3:transitory:segundo",
+            ]
+        );
+        assert!(
+            evidence[0]
+                .text
+                .starts_with("En relación con las modificaciones")
+        );
+    }
+
+    #[test]
+    fn an_erratum_margin_mark_is_not_an_erratum_title() {
+        // ccf 1899, lscs 144: the mark after a page break stays with its text.
+        assert!(super::is_erratum_title_line(
+            "FE de erratas a la Ley que establece, reforma, adiciona y deroga diversas disposiciones"
+        ));
+        assert!(!super::is_erratum_title_line(
+            "Fe de erratas al artículo DOF 21-12-1928"
+        ));
+        assert!(!super::is_erratum_title_line(
+            "Fe de erratas a la fracción DOF 18-02-1988. Reformada por Ley DOF 07-05-1997"
+        ));
+    }
+
+    #[test]
+    fn a_title_case_decree_heading_after_a_finished_sentence_still_opens_an_act() {
+        // The citation guard applies only mid-sentence: after a blank line or
+        // a finished sentence, `Decreto por el que …` is still a title.
+        let source = "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA\n\n\
+Decreto por el que se reforma la Ley de Muestra.\n\
+Publicado en el Diario Oficial de la Federación el 3 de marzo de 2010\n\n\
+TRANSITORIO\n\n\
+Único. El presente Decreto entrará en vigor al día siguiente.\n\
+Decreto por el que se adiciona la Ley de Muestra.\n\
+Publicado en el Diario Oficial de la Federación el 4 de abril de 2011\n\n\
+TRANSITORIO\n\n\
+Único. El presente Decreto entrará en vigor el 1 de mayo de 2011.\n";
+        let evidence = super::extract_reform_evidence(
+            source,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+        )
+        .expect("title-case decree headings parse");
+        let ids: Vec<&str> = evidence
+            .iter()
+            .map(|item| item.provision_id.as_str())
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "urn:lex-mx:federal:statute:sample:amendment:2010-03-03:transitory:unico",
+                "urn:lex-mx:federal:statute:sample:amendment:2011-04-04:transitory:unico",
+            ]
         );
     }
 

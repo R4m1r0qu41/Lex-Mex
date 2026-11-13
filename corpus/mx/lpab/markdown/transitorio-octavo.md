@@ -23,8 +23,4 @@ I. El [Instituto](articulo-5o.md) asumirá los créditos otorgados por el Banco 
 
 II. El Gobierno Federal quebrantará el crédito otorgado por Nacional Financiera, en su carácter de agente financiero del Gobierno Federal, al Fideicomiso a que se refiere el artículo [122](../../lic/markdown/articulo-122.md) de la Ley de Instituciones de Crédito vigente hasta antes de la entrada en vigor del presente Decreto, y
 
-III. No se aprueba la solicitud de consolidar a la deuda pública las obligaciones contraídas por los Fondos señalados, ni los avales u obligaciones solidarias otorgados al efecto por el Gobierno Federal, presentada en el artículo Cuarto Transitorio del Artículo Segundo de la Iniciativa de
-
-Decreto por el que se expiden la Ley Federal del Fondo de Garantía de Depósitos y la Ley de la
-
-[Comisión](articulo-5o.md) para la Recuperación de [Bienes](articulo-5o.md), y se reforman, adicionan y derogan diversas disposiciones de las leyes del Banco de México, de Instituciones de Crédito, del Mercado de Valores, para Regular las Agrupaciones Financieras y General de Deuda Pública.
+III. No se aprueba la solicitud de consolidar a la deuda pública las obligaciones contraídas por los Fondos señalados, ni los avales u obligaciones solidarias otorgados al efecto por el Gobierno Federal, presentada en el artículo Cuarto Transitorio del Artículo Segundo de la Iniciativa de Decreto por el que se expiden la Ley Federal del Fondo de Garantía de Depósitos y la Ley de la [Comisión](articulo-5o.md) para la Recuperación de [Bienes](articulo-5o.md), y se reforman, adicionan y derogan diversas disposiciones de las leyes del Banco de México, de Instituciones de Crédito, del Mercado de Valores, para Regular las Agrupaciones Financieras y General de Deuda Pública.

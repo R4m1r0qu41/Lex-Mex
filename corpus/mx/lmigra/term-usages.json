@@ -3700,12 +3700,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lmigra:transitory:septimo:term-usage:370-382",
+    "id": "urn:lex-mx:federal:statute:lmigra:transitory:septimo:term-usage:369-381",
     "provision_id": "urn:lex-mx:federal:statute:lmigra:transitory:septimo",
     "term_id": "urn:lex-mx:federal:statute:lmigra:term:constitucion",
     "span": "Constitución",
-    "start_char": 370,
-    "end_char": 382
+    "start_char": 369,
+    "end_char": 381
   },
   {
     "schema_version": "0.1.0",
