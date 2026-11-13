@@ -205,9 +205,15 @@ fn append_source_repeal_notice(output: &mut String, corpus: &Corpus) {
             );
             return;
         }
+        // An SCJN invalidity declaration ends force without abrogating the law.
+        let label = if notice.source_note.starts_with("Declaratoria de invalidez") {
+            "Ley declarada inválida por la SCJN (no abrogada) — texto histórico."
+        } else {
+            "Ley abrogada — texto histórico."
+        };
         let _ = write!(
             output,
-            "> **Ley abrogada — texto histórico.** {}\n> Fuente formal: [Diario Oficial de la Federación]({}). No se infieren fechas ni efectos por disposición.\n\n",
+            "> **{label}** {}\n> Fuente formal: [Diario Oficial de la Federación]({}). No se infieren fechas ni efectos por disposición.\n\n",
             notice.source_note, notice.formal_publication_url
         );
     }
@@ -1811,6 +1817,15 @@ mod tests {
         );
         let article = super::standard_markdown(&corpus, &targets, &terms, &corpus.provisions[0]);
         assert!(article.contains("Ley abrogada — texto histórico"));
+        let mut invalidated = corpus.clone();
+        if let Some(notice) = invalidated.instrument.source_repeal_notice.as_mut() {
+            notice.source_note =
+                "Declaratoria de invalidez del Decreto DOF 02-03-2023 que expidió esta Ley"
+                    .to_owned();
+        }
+        let index = super::markdown_index(&invalidated, &targets, &terms, false);
+        assert!(index.contains("Ley declarada inválida por la SCJN (no abrogada)"));
+        assert!(!index.contains("Ley abrogada"));
         assert_eq!(
             corpus.provisions[0].temporal_status,
             TemporalStatus::Unknown

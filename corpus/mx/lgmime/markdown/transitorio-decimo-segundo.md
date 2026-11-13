@@ -13,6 +13,9 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf
 source_sha256: 94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143
 ---
 
+> **Ley declarada inválida por la SCJN (no abrogada) — texto histórico.** Declaratoria de invalidez del Decreto DOF 02-03-2023 que expidió esta Ley, por Sentencia de la SCJN publicada en el Diario Oficial de la Federación el 24 de noviembre de 2023
+> Fuente formal: [Diario Oficial de la Federación](https://dof.gob.mx/nota_detalle.php?codigo=5709440&fecha=24/11/2023). No se infieren fechas ni efectos por disposición.
+
 # Décimo Segundo
 
 Entre enero y mayo de 2023, el Consejo General tomará opinión de los órganos desconcentrados con relación al perfil y competencias idóneas de los vocales operativos, con el fin de que, a más tardar el 1o. de junio siguiente, se tenga concluido el diseño del proceso de evaluación de los actuales vocales de las Juntas Distritales para determinar de entre ellos, quiénes ocuparán el cargo de vocal operativo en las oficinas auxiliares que se instalarán con motivo de la entrada en vigor del presente Decreto.

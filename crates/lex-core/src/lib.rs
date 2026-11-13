@@ -596,6 +596,20 @@ fn normalized_whitespace(text: &str) -> String {
     text.split_whitespace().collect::<Vec<_>>().join(" ")
 }
 
+/// A header-basis note quotes one of the Cámara's two printed headers that end
+/// an instrument's force: `Ley Abrogada DOF dd-mm-yyyy`, or an SCJN invalidity
+/// declaration `Declaratoria de invalidez del Decreto DOF dd-mm-yyyy …` (the
+/// decree date; the effects date comes from the ruling, never from this note).
+fn header_repeal_note_is_dated(note: &str) -> bool {
+    let parses = |date: &str| chrono::NaiveDate::parse_from_str(date, "%d-%m-%Y").is_ok();
+    if let Some(date) = note.strip_prefix("Ley Abrogada DOF ") {
+        return parses(date);
+    }
+    note.strip_prefix("Declaratoria de invalidez del Decreto DOF ")
+        .and_then(|rest| rest.get(..10).filter(|_| rest.len() > 10))
+        .is_some_and(parses)
+}
+
 impl SourceRepealNotice {
     pub fn validate(&self) -> Result<(), String> {
         let schema: serde_json::Value = serde_json::from_str(include_str!(
@@ -612,12 +626,7 @@ impl SourceRepealNotice {
                 || host.ends_with(".dof.gob.mx")
                 || host == "sidof.segob.gob.mx")
             || match &self.successor_clause {
-                None => self
-                    .source_note
-                    .strip_prefix("Ley Abrogada DOF ")
-                    .is_none_or(|date| {
-                        chrono::NaiveDate::parse_from_str(date, "%d-%m-%Y").is_err()
-                    }),
+                None => !header_repeal_note_is_dated(&self.source_note),
                 Some(clause) => self
                     .successor_instrument_id
                     .as_ref()
@@ -2215,6 +2224,43 @@ mod publication_metadata_tests {
         assert!(serialized.get("reviewer_supplied_at").is_none());
         // Header-basis notices must not serialize the successor-clause field.
         assert!(serialized.get("successor_clause").is_none());
+    }
+
+    #[test]
+    fn source_repeal_notice_accepts_a_printed_scjn_invalidity_header() {
+        let raw = include_str!("../../../fixtures/diputados/lgmime-invalidity-header.txt");
+        let notice = SourceRepealNotice {
+            source_note: "Declaratoria de invalidez del Decreto DOF 02-03-2023 que expidió esta \
+                Ley, por Sentencia de la SCJN publicada en el Diario Oficial de la Federación el \
+                24 de noviembre de 2023"
+                .to_owned(),
+            source_sha256: "a".repeat(64),
+            formal_publication_url: "https://dof.gob.mx/nota_detalle.php?codigo=5709440"
+                .parse()
+                .unwrap(),
+            formal_source_sha256: "b".repeat(64),
+            successor_instrument_id: None,
+            successor_clause: None,
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-11-12T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only; invalidated, not abrogated".to_owned(),
+            decision_source: "fixture decision".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        };
+        assert!(notice.matches_source(&"a".repeat(64), raw));
+        let mut undated = notice.clone();
+        undated.source_note = "Declaratoria de invalidez del Decreto DOF".to_owned();
+        assert!(undated.validate().is_err());
+        let mut bare = notice.clone();
+        bare.source_note = "Declaratoria de invalidez del Decreto DOF 02-03-2023".to_owned();
+        assert!(
+            bare.validate().is_err(),
+            "the note must quote beyond the date"
+        );
+        let mut other = notice;
+        other.source_note = "Declaratoria de invalidez del artículo 5".to_owned();
+        assert!(other.validate().is_err());
     }
 
     fn successor_corpus_and_notice() -> (Corpus, SourceRepealNotice) {

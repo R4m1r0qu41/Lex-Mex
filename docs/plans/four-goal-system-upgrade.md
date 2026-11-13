@@ -583,6 +583,34 @@ guards removed (scratchpad `held4/`).
 4. **`cpeum` arts. 82, 116 and 122:** they carry the note "Artículo vigente a partir del proceso
    electoral 2028", shown like the SCJN notes.
 
+**`lgmime` invalidity, as applied 2026-11-12.** Record:
+`docs/federal-lgmime-invalidity-decision-2026-11-12.md`.
+
+- **Done at the instrument level.** `lgmime` now carries a header-basis `source_repeal_notice`
+  quoting the printed "Declaratoria de invalidez del Decreto DOF 02-03-2023 …". The ruling is
+  the formal source (DOF nota 5709440, retained in `.work/lgmime-invalidity/`), the reviewer
+  is JRH, and no successor is recorded. Status is `repealed`.
+- **Code.** `header_repeal_note_is_dated` (lex-core) accepts the printed invalidity header
+  beside "Ley Abrogada DOF …"; test
+  `source_repeal_notice_accepts_a_printed_scjn_invalidity_header`, fixture
+  `fixtures/diputados/lgmime-invalidity-header.txt`. The exporter banner reads "Ley declarada
+  inválida por la SCJN (no abrogada) — texto histórico" instead of "Ley abrogada".
+- **Not done: `effective_to` 2023-06-23 on the 100 provisions.** Three things block it:
+  - No provision in the corpus has an `effective_to`.
+  - `parse` resets temporal fields, and `derive-temporal` re-derives the 70 articles as
+    `effective` from 2023-03-03.
+  - `review open` / `resolve --resolution lawyer-override` needs a stored
+    `temporal-analysis-result.json`, which only the model-analysis path writes, and that path
+    runs through Codex. So JRH's date has no durable deterministic home.
+  - The proposed design is an optional, reviewer-supplied effects date on the repeal notice
+    (for an invalidity, the date taken from the ruling). `derive-temporal` would then set
+    `temporal_status: repealed` and `effective_to` on every provision of a noticed instrument.
+    That is a boundary change (schema, types, derive rule, fixture, docs), made as its own
+    milestone. The `reg-lfmn` notice deliberately carries no dates, so the field must stay
+    optional.
+- **Precedent kept:** like `reg-lfmn`, the instrument is `repealed` while its articles still
+  read `effective`.
+
 **Held-four outcome.** `lic`, `lfpccs` and `lfvv` were adopted. `lieps` stays held. Its provisions are
 whitespace-only, but the reparse also re-segments its reform-decree evidence
 (`reform-temporal-evidence.json`): 107 entries become 101, 19 ids are removed, 13 are added
