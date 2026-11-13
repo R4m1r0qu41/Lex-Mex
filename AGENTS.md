@@ -66,6 +66,19 @@ provenance, implementation, validation, and escalation rules.
   committed LRITF corpus. Do not impersonate or infer JRH approval.
 - Do not represent repository output as official law or legal advice.
 
+## Decision routing (JRH, 2026-11-13)
+
+- JRH is the operator and the legal reviewer. Only strict legal questions go to JRH: which
+  law governs, whether an SCJN invalidation or a repeal stands, temporal status and dates
+  that require legal judgment. Everything non-legal (parsing, segmentation, linking, guards,
+  tooling, data design, presentation) is the agents' responsibility to work out and record.
+- Before asking, read the context first. Most answers are near where the question arises:
+  the page or two around the provision, the decree the note cites, the trail the reference
+  follows. Do not survey the whole corpus for a local question. Ask JRH only when the
+  context, once checked, still leaves the legal answer unclear.
+- Agents' non-legal decisions are still recorded (plan, `docs/decisions.md` or the commit),
+  with the evidence. Legal decisions still need JRH's word and are never inferred.
+
 ## Implementation discipline
 
 - Add a regression fixture for every material parser defect.
