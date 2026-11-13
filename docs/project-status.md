@@ -27,14 +27,18 @@ instruments; 64,861 articles / 3,506 transitories / 30 annexes; 36,105 reference
 5,551, `partially_repealed` 2. `verify-fidelity --all`: 66,495 of 66,977 provisions pass, 382
 of 468 instruments fully (input missing: `socap-sofipo-dcg-2006`; retained text not matching
 its manifest hash: `cub-dcg-2005`, `lfiiedb`). Separately, `monitor-sources` finds three
-official files changed at origin (`cpeum`, `cub-dcg-2005`, `socap-sofipo-dcg-2006`), not yet
-re-ingested. JRH decisions of 2026-11-12 are applied (`7e3416fab`..`f36ac6c11`): the
+official files changed at origin (`cpeum`, `cub-dcg-2005`, `socap-sofipo-dcg-2006`); `cpeum` was
+re-ingested on 2026-11-12 (`a461a41c0`, with JRH's 2028 application note on arts. 82, 116, 122);
+the two DCGs wait for the DCG pass. JRH decisions of 2026-11-12 are applied (`7e3416fab`..`f36ac6c11`): the
 qualifier-attribution repair (1,192 wrong qualifiers removed) is merged; `lic`, `lfpccs`, `lfvv`
 are adopted after re-confirmation; `lgmime` is recorded as declared invalid by the SCJN
 (AI 71/2023, effects 23-06-2023), status `repealed` with an invalidity note, provision
 `effective_to` deferred by JRH (not in force is what matters). A 465 reparse then differs
-only in the 4 still held: `lieps`, `cue-dcg-2003`, `scap-dcg-2012`, `lftr`. No
-push, deploy or legal review. Live state and next actions:
+only in the 4 still held: `lieps`, `cue-dcg-2003`, `scap-dcg-2012`, `lftr`. Codex reviewed the
+branch on 2026-11-12 (`docs/four-goal-upgrade-codex-review-2026-11-12.md`); its two change
+requests (audited re-confirmation, lost qualifier shapes) were addressed on 2026-11-13 and await
+re-review. Decision routing (JRH, `AGENTS.md`): only strict legal questions go to JRH; the open
+one is the LGPP/LGIPE status table. Branch pushed at `ee4f730c3`; later commits local. No deploy. Live state and next actions:
 [four-goal plan](plans/four-goal-system-upgrade.md).
 
 ## 2026-10-16 reverse-linking checkpoint

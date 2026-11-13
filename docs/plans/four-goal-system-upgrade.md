@@ -709,13 +709,18 @@ The public release cannot carry it (reference allowlist); the database stores th
 The committed `lic` data is not rewritten (Codex: no rollback needed).
 
 **Codex item 3, qualifier shapes.** Every removal in `05d15bcd0` was listed with the text
-between the number and the phrase (1,132 anchored). Restored, with tests beside the leakage
+between the number and the phrase (1,132 anchored; the 246 with a gap under 40 characters were
+sorted by shape, the other 886 were not read). Restored, with tests beside the leakage
 tests: the self-designation `de esta Ley,` (and `del presente Código`, …) between number and
 qualifier, and exception connectors (`excepto`, `salvo el de la`, `con excepción de la/del`),
 consistent with the accepted `salvo … su segundo párrafo`. An excepted part followed by its own
 `que` clause is not attached (LFPC art. 66 leakage found in review). Relink: 10 instruments, 10
 qualifiers added, none removed, no other field changed, Markdown identical, closure unchanged.
-Still lost on purpose: qualifiers after `2o.-A` / `32-A` (the edge targets art. 2 or 32, not the
+Second pass (advisor): `de la` / `del` between two qualifiers continues the chain (`inciso a) de la
+fracción IV`, `párrafo segundo de la fracción I`), but never opens it (`3o. y de la fracción XXIX-F
+del artículo 73`, LISR 88/151), and an opening `de los` still reaches the back-reference test
+(REG-LMIN 33). Relink: 3 more qualifiers (reg-laero 9, cff 142, cub-dcg-2005 324), none removed; a
+second `link --all` relinks 0. Known losses among the sorted shapes: qualifiers after `2o.-A` / `32-A` (the edge targets art. 2 or 32, not the
 suffixed article; target defect, below), and qualifiers that scope a later citation.
 Limitation: an exception qualifier reads the same as a positive one; there is no exclusion flag.
 D-8 of the 10: all fractions found in their target except `cmpp` (edge already on the wrong
@@ -743,7 +748,20 @@ decree groups in `reform-temporal-evidence.json` (date plus `decree-N` for same-
   decree (2013-12-20 holds the 2017–2019 acuerdos; 2021-11-12 those of 2022–2025). The held
   reparse gives each acuerdo its own group under its own DOF date, matching the page; that is the
   correct segmentation. But it also drops the transitories of the 1984-12-31 and 1988-12-31
-  decrees, which the page lists. Neither version is right; `lieps` stays held until the parser
-  keeps those two (agents' queue, fixture from the retained text). Not a JRH question.
+  decrees, which the page lists. Neither version is right; `lieps` stays held (agents' queue,
+  fixtures from the retained text). Not a JRH question.
+- `lieps`, full comparison (`.work/ref-pages/compare.py`, decree section of the page; the 13
+  acuerdo dates all appear elsewhere on the page). Page: 46 decrees on 44 dates.
+  - Both parses date one group `2013-12-20`, a date the page does not list. Its transitory ("El
+    presente Decreto entrará en vigor conforme a lo siguiente…") belongs to the decree the PDF
+    heads "Publicado en el Diario Oficial de la Federación el 11 de diciembre de 2013" (page #41).
+    Dating defect.
+  - #43 (DOF 15-11-2016, Ley de Ingresos 2017): the PDF prints only an elision; expected gap.
+  - #27 (DOF 30-12-2002): printed with its Artículo Único; no transitories isolated. Unexplained.
+  - #26 (DOF 01-01-2002 on the page): no matching header in the PDF text. Unexplained.
+  - 1984-12-31 and 1988-12-31: both decrees are printed; the held parse drops their transitories
+    (not folded into another entry).
+  Adoption criterion for `lieps`: every page decree whose transitories the PDF prints has a group
+  under its own DOF date, acuerdos under their own dates, no group on a date the page lacks.
 - A decree-list comparison script exists only in scratch; making it a read-only command
   (`check-decrees <slug>`) is the next step if more instruments are piloted.
