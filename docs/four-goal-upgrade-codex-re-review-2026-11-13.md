@@ -72,3 +72,51 @@ unbound prior text: Ok(())
 
 Thus both negative cases are accepted by the guard. Parent execution was the
 fallback after the delegated Cargo probe could not run in the sandbox.
+
+## Follow-up review — guard fixes at 6bf0f9615
+
+Handoff and working HEAD both bind to
+`6bf0f9615defe7dc397c638169473da237e66c69`; initial worktree clean.
+The reviewed diff from `548101bb7` changes core/CLI guards, regression tests and
+the held-source contract documentation. No corpus changes are included.
+
+- **Prior-text finding addressed:** `crates/lex-core/src/lib.rs:646` verifies
+  the persisted text's SHA-256 against the prior decision before comparing
+  normalized words. Candidate text binding remains enforced separately.
+- **Occurrence finding addressed:** `crates/lex-core/src/lib.rs:665` checks the
+  prior cited span, then `:675` maps both offsets through the whitespace reflow.
+  Candidate offsets must equal that mapping, so an identical later citation
+  cannot inherit the earlier decision. Mapping counts Rust characters, consistent
+  with the reference offsets, rather than UTF-8 bytes.
+- **Repeated-candidate routing addressed:** `crates/lex-cli/src/main.rs:3229`
+  tries the matching candidates until the occurrence check succeeds, preserving
+  a refusal if none succeeds. The regression supplies the second occurrence's
+  candidate first and verifies that a single candidate cannot satisfy both
+  persisted decisions. The core regression also covers valid reflow and misplaced
+  prior offsets.
+
+Scope remains unchanged: valid persisted reference records, one level of prior
+evidence, no acquisition refresh, and exact cited-span text (internal span
+whitespace changes are refused). A database round trip and the full LIC scratch
+replay were not independently repeated in this review. These limits do not
+reopen the two repaired findings.
+
+**Validation:** the mechanical delegate ran `cargo fmt --check`,
+`cargo clippy --workspace --all-targets -- -D warnings`, `cargo test --workspace`,
+and `cargo run --locked -p lex-cli -- validate` for lritf, ifpe-dcg-2021 and lic;
+all passed. LRITF/IFPE have zero issues; LIC remains valid with two issues.
+Both new named regressions were separately confirmed (one passed in lex-core,
+one in lex-cli). The standalone rustc probe against the current compiled core
+exited 0 and returned:
+
+```text
+moved to second occurrence: Err("re-confirmation offsets do not point at the same occurrence of the cited span")
+unbound prior text: Err("re-confirmation refused: the persisted text does not bind to the prior decision")
+```
+
+**Verdict: accept item 5 within the stated scope.** Both findings from the
+preceding re-review are closed. Item 3 remains accepted. No new blocking finding
+in this bounded diff. This is not approval of the remaining upgrade work or a
+legal-status decision. Only review documentation and the execution plan changed
+in this session; no code/corpus edits, commits, pushes, merges or deployments.
+Next action: resume the existing LIEPS grouping work queue.
