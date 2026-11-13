@@ -584,6 +584,86 @@ pub struct SourceRepealNotice {
     pub decision_source_sha256: String,
 }
 
+/// The prior decision's evidence, kept inside a re-confirmed record.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct ReconfirmedEvidence {
+    pub source_text_sha256: String,
+    pub reviewer: String,
+    pub captured_at: String,
+    pub decision_source: String,
+    pub decision_source_sha256: String,
+}
+
+/// Fields a re-confirmation may change. Everything else (target, span,
+/// source hash, rationale or note) must stay identical.
+const RECONFIRMABLE_FIELDS: [&str; 8] = [
+    "source_text_sha256",
+    "reviewer",
+    "captured_at",
+    "reviewer_supplied_at",
+    "decision_source",
+    "decision_source_sha256",
+    "start_char",
+    "end_char",
+];
+
+/// Accept `candidate` as an audited re-confirmation of the persisted
+/// `prior` decision. The words of the source provision must be unchanged
+/// (`prior_text` is the persisted text, `new_text` the reparsed one); the
+/// candidate must carry the prior evidence, bind to the new text, and still
+/// point its offsets at the same cited span. Any other change is refused.
+pub fn check_reconfirmation<T: Serialize>(
+    prior: &T,
+    candidate: &T,
+    prior_text: &str,
+    new_text: &str,
+) -> Result<(), String> {
+    let value = |v: &T| serde_json::to_value(v).map_err(|e| e.to_string());
+    let (prior, candidate) = (value(prior)?, value(candidate)?);
+    let field = |v: &serde_json::Value, k: &str| v.get(k).cloned().unwrap_or_default();
+    let mut stripped = [prior.clone(), candidate.clone()];
+    for v in &mut stripped {
+        if let Some(map) = v.as_object_mut() {
+            for k in RECONFIRMABLE_FIELDS.iter().chain(&["reconfirms"]) {
+                map.remove(*k);
+            }
+        }
+    }
+    if stripped[0] != stripped[1] {
+        return Err("re-confirmation changes more than the allowed evidence fields".to_owned());
+    }
+    let evidence = serde_json::json!({
+        "source_text_sha256": field(&prior, "source_text_sha256"),
+        "reviewer": field(&prior, "reviewer"),
+        "captured_at": field(&prior, "captured_at"),
+        "decision_source": field(&prior, "decision_source"),
+        "decision_source_sha256": field(&prior, "decision_source_sha256"),
+    });
+    if field(&candidate, "reconfirms") != evidence {
+        return Err("re-confirmation does not carry the prior decision's evidence".to_owned());
+    }
+    if normalized_whitespace(prior_text) != normalized_whitespace(new_text) {
+        return Err("re-confirmation refused: the provision's words changed".to_owned());
+    }
+    if field(&candidate, "source_text_sha256") != serde_json::json!(evidence_sha256(new_text)) {
+        return Err("re-confirmation does not bind to the reparsed text".to_owned());
+    }
+    let offset = |k: &str| {
+        field(&candidate, k)
+            .as_u64()
+            .and_then(|n| usize::try_from(n).ok())
+    };
+    let span: Option<String> = offset("start_char")
+        .zip(offset("end_char"))
+        .filter(|(s, e)| s < e)
+        .map(|(s, e)| new_text.chars().skip(s).take(e - s).collect());
+    if span.as_deref() != field(&candidate, "source_span").as_str() {
+        return Err("re-confirmation offsets do not point at the cited span".to_owned());
+    }
+    Ok(())
+}
+
 /// A short reviewer-authored note on one provision (for example, a deferred
 /// application date a reform decree sets). It is presentation metadata kept
 /// apart from the official text: it never changes `text` or any temporal
@@ -997,6 +1077,9 @@ pub struct OutdatedReferenceApproval {
     pub rationale: String,
     pub decision_source: String,
     pub decision_source_sha256: String,
+    /// Evidence of the decision this record re-confirms after a text reflow.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub reconfirms: Option<ReconfirmedEvidence>,
 }
 
 impl OutdatedReferenceApproval {
@@ -1063,6 +1146,9 @@ pub struct LegalOperatorReview {
     pub note: String,
     pub decision_source: String,
     pub decision_source_sha256: String,
+    /// Evidence of the decision this record re-confirms after a text reflow.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub reconfirms: Option<ReconfirmedEvidence>,
 }
 
 impl LegalOperatorReview {
@@ -2297,6 +2383,54 @@ mod publication_metadata_tests {
         assert!(serialized.get("reviewer_supplied_at").is_none());
         // Header-basis notices must not serialize the successor-clause field.
         assert!(serialized.get("successor_clause").is_none());
+    }
+
+    #[test]
+    fn a_legal_operator_review_reconfirms_only_with_its_prior_evidence() {
+        let prior = LegalOperatorReview {
+            source_provision_id: "urn:lex-mx:federal:statute:lic:article:194".to_owned(),
+            target_instrument_id: "urn:lex-mx:federal:statute:lfce".to_owned(),
+            target_provision_id: "urn:lex-mx:federal:statute:lfce:article:31-bis".to_owned(),
+            source_span: "31 bis".to_owned(),
+            start_char: 4,
+            end_char: 10,
+            source_text_sha256: evidence_sha256("art 31 bis LFCE"),
+            reviewer: "Operator".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            note: "Fixture note".to_owned(),
+            decision_source: "docs/a.md".to_owned(),
+            decision_source_sha256: "a".repeat(64),
+            reconfirms: None,
+        };
+        let new_text = "art  31 bis\nLFCE";
+        let candidate = LegalOperatorReview {
+            source_text_sha256: evidence_sha256(new_text),
+            start_char: 5,
+            end_char: 11,
+            reviewer: "JRH".to_owned(),
+            captured_at: "2026-11-13T00:00:00Z".to_owned(),
+            decision_source: "docs/b.md".to_owned(),
+            decision_source_sha256: "b".repeat(64),
+            reconfirms: Some(ReconfirmedEvidence {
+                source_text_sha256: prior.source_text_sha256.clone(),
+                reviewer: prior.reviewer.clone(),
+                captured_at: prior.captured_at.clone(),
+                decision_source: prior.decision_source.clone(),
+                decision_source_sha256: prior.decision_source_sha256.clone(),
+            }),
+            ..prior.clone()
+        };
+        assert!(check_reconfirmation(&prior, &candidate, "art 31 bis LFCE", new_text).is_ok());
+        // The evidence survives serialization (database payloads store the record whole).
+        let round: LegalOperatorReview =
+            serde_json::from_str(&serde_json::to_string(&candidate).unwrap()).unwrap();
+        assert_eq!(round, candidate);
+        let mut renoted = candidate.clone();
+        renoted.note = "Another note".to_owned();
+        assert!(check_reconfirmation(&prior, &renoted, "art 31 bis LFCE", new_text).is_err());
+        let mut moved = candidate;
+        moved.start_char = 0;
+        assert!(check_reconfirmation(&prior, &moved, "art 31 bis LFCE", new_text).is_err());
     }
 
     #[test]

@@ -1885,6 +1885,7 @@ Ciudad de México, a 1 de octubre de 2025.
             rationale: "Explicit fixture approval for this one stale citation".to_owned(),
             decision_source: "fixture decision; not a canonical operator resolution".to_owned(),
             decision_source_sha256: "c".repeat(64),
+            reconfirms: None,
         };
         super::apply_outdated_reference_approvals(
             &mut edges,
@@ -2065,6 +2066,7 @@ Ciudad de México, a 1 de octubre de 2025.
             note: "Fixture note: the reviewer names a different current article.".to_owned(),
             decision_source: "fixture decision".to_owned(),
             decision_source_sha256: "c".repeat(64),
+            reconfirms: None,
         };
         super::apply_legal_operator_reviews(
             &mut edges,
@@ -2351,7 +2353,7 @@ Ciudad de México, a 1 de octubre de 2025.
         const ID: &str = "urn:lex-mx:federal:statute:fix";
         let numbers = [
             "2980", "2935", "197", "198", "9", "18", "20", "21", "15", "153", "78", "7", "5", "28",
-            "30", "38",
+            "30", "38", "25", "362", "363", "364", "365", "434", "128",
         ];
         let known: Vec<String> = numbers
             .iter()
@@ -2415,6 +2417,31 @@ Ciudad de México, a 1 de octubre de 2025.
         // arts. 27 Bis and 28).
         let text = "Artículo 1.- Las previstas en los artículos 28, antepenúltimo, penúltimo y último párrafos, 30, segundo y último párrafos, y 38 de esta Ley.";
         assert_eq!(qualifiers_of(text, "28"), ["último párrafos"]);
+
+        // Codex review 2026-11-12, item 3: valid shapes the repair lost.
+        // The self-designation `de esta Ley` sits between the number and its
+        // qualifier (LCF art. 25 citation).
+        let text = "Artículo 1.- Las instituciones a que se refiere el artículo 25 de esta Ley, fracciones V y VII, respectivamente.";
+        assert_eq!(qualifiers_of(text, "25"), ["fracciones V y VII"]);
+        // An exception names part of the same article (CMPP art. 364); kept as
+        // a qualifier, like the possessive `salvo … su segundo párrafo` above.
+        let text = "Artículo 1.- Los previstos en los artículos 362, 363, 364 excepto fracción I, primera parte, 365 de este Código.";
+        assert_eq!(qualifiers_of(text, "364"), ["fracción I"]);
+        // `salvo el de la` names an excepted part of the same article (LFT art. 434).
+        let text = "Artículo 1.- Las causas señaladas en el artículo 434, salvo el de la fracción IV, de esta Ley.";
+        assert_eq!(qualifiers_of(text, "434"), ["fracción IV"]);
+        // An exception that names another article's part stays with that article.
+        let text = "Artículo 1.- Lo dispuesto en el artículo 18, excepto fracción II del artículo 20 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "18"), none);
+        assert_eq!(qualifiers_of(text, "20"), ["fracción II"]);
+        // An excepted fraction with its own relative clause belongs to the
+        // citing provision (LFPC art. 66 citing art. 128).
+        let text = "Artículo 1.- Se sancionará conforme a lo dispuesto en el artículo 128, con excepción de la fracción VI que se sancionará conforme al artículo 21 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "128"), none);
+        // The self-designation does not carry a later citation's qualifier.
+        let text = "Artículo 1.- Lo previsto en el artículo 25 de esta Ley, fracción V del artículo 30 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "25"), none);
+        assert_eq!(qualifiers_of(text, "30"), ["fracción V"]);
     }
 
     #[test]

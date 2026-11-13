@@ -3119,7 +3119,10 @@ fn additive_terms(
 /// every instrument committed under `corpus/mx/`.
 /// Intake decisions are immutable under ordinary reparse/relink. A changed or
 /// removed approval needs an explicit audited migration, not a missing config key.
-fn preserve_intake_decisions(context: &InstrumentContext) -> Result<()> {
+fn preserve_intake_decisions(
+    context: &InstrumentContext,
+    provisions: &[lex_core::Provision],
+) -> Result<()> {
     let instrument_path = context.paths.corpus.join("instrument.json");
     if instrument_path.is_file() {
         let prior: Instrument = read_json(&instrument_path)?;
@@ -3139,25 +3142,82 @@ fn preserve_intake_decisions(context: &InstrumentContext) -> Result<()> {
     let references_path = context.paths.corpus.join("references.json");
     if references_path.is_file() {
         let prior: Vec<lex_core::ReferenceEdge> = read_json(&references_path)?;
+        let prior_provisions_path = context.paths.corpus.join("provisions.json");
+        let prior_provisions: Vec<lex_core::Provision> = if prior_provisions_path.is_file() {
+            read_json(&prior_provisions_path)?
+        } else {
+            Vec::new()
+        };
+        let texts = |id: &str| {
+            let text = |list: &[lex_core::Provision]| {
+                list.iter().find(|p| p.id == id).map(|p| p.text.clone())
+            };
+            text(&prior_provisions).zip(text(provisions))
+        };
         for edge in prior {
             if let Some(approval) = edge.outdated_reference_approval {
+                let kept = context
+                    .config
+                    .outdated_reference_approvals
+                    .contains(&approval)
+                    || reconfirmed(
+                        &approval,
+                        &context.config.outdated_reference_approvals,
+                        |a| texts(&a.source_provision_id),
+                    )?;
                 anyhow::ensure!(
-                    context
-                        .config
-                        .outdated_reference_approvals
-                        .contains(&approval),
+                    kept,
                     "refusing to replace or clear persisted stale-reference decision"
                 );
             }
             if let Some(review) = edge.legal_operator_review {
+                let kept = context.config.legal_operator_reviews.contains(&review)
+                    || reconfirmed(&review, &context.config.legal_operator_reviews, |r| {
+                        texts(&r.source_provision_id)
+                    })?;
                 anyhow::ensure!(
-                    context.config.legal_operator_reviews.contains(&review),
+                    kept,
                     "refusing to replace or clear persisted legal operator review"
                 );
             }
         }
     }
     Ok(())
+}
+
+/// A configured decision that names `prior` in its `reconfirms` evidence
+/// replaces it only through `lex_core::check_reconfirmation`; a failed check
+/// is an error, not a silent refusal, so the operator sees why.
+fn reconfirmed<T: serde::Serialize>(
+    prior: &T,
+    configured: &[T],
+    texts: impl Fn(&T) -> Option<(String, String)>,
+) -> Result<bool> {
+    let evidence = |v: &T| {
+        serde_json::to_value(v)
+            .ok()
+            .and_then(|v| v.get("reconfirms").cloned())
+    };
+    let prior_value = serde_json::to_value(prior)?;
+    let prior_hash = prior_value.get("source_text_sha256");
+    for candidate in configured {
+        let Some(claimed) = evidence(candidate) else {
+            continue;
+        };
+        if claimed.get("source_text_sha256") != prior_hash {
+            continue;
+        }
+        let (prior_text, new_text) = texts(candidate)
+            .context("re-confirmation needs the persisted and the reparsed provision text")?;
+        lex_core::check_reconfirmation(prior, candidate, &prior_text, &new_text)
+            .map_err(anyhow::Error::msg)?;
+        println!(
+            "re-confirmed persisted decision (prior text {})",
+            claimed["source_text_sha256"]
+        );
+        return Ok(true);
+    }
+    Ok(false)
 }
 
 fn extract_instrument_references(
@@ -3167,7 +3227,7 @@ fn extract_instrument_references(
     provisions: &[lex_core::Provision],
     siblings: &[(&str, &Corpus)],
 ) -> Result<Vec<lex_core::ReferenceEdge>> {
-    preserve_intake_decisions(context)?;
+    preserve_intake_decisions(context, provisions)?;
     anyhow::ensure!(
         context.config.reference_policy.as_deref() != Some("internal")
             || (context.config.outdated_reference_approvals.is_empty()
@@ -6831,6 +6891,7 @@ mod tests {
             rationale: "Fixture only".to_owned(),
             decision_source: "fixture".to_owned(),
             decision_source_sha256: "c".repeat(64),
+            reconfirms: None,
         };
         corpus.references.push(lex_core::ReferenceEdge {
             schema_version: SCHEMA_VERSION.to_owned(),
@@ -6851,16 +6912,16 @@ mod tests {
             resolution_rule: None,
         });
         write_canonical(&corpus, &context.paths.corpus).unwrap();
-        assert!(preserve_intake_decisions(&context).is_err());
+        assert!(preserve_intake_decisions(&context, &corpus.provisions).is_err());
         context
             .config
             .outdated_reference_approvals
             .push(approval.clone());
-        assert!(preserve_intake_decisions(&context).is_ok());
+        assert!(preserve_intake_decisions(&context, &corpus.provisions).is_ok());
         context.config.outdated_reference_approvals[0]
             .rationale
             .push_str(" changed");
-        assert!(preserve_intake_decisions(&context).is_err());
+        assert!(preserve_intake_decisions(&context, &corpus.provisions).is_err());
         context.config.outdated_reference_approvals[0] = approval;
         let notice = lex_core::SourceRepealNotice {
             source_note: "Ley Abrogada DOF 16-07-2025".to_owned(),
@@ -6881,9 +6942,108 @@ mod tests {
         corpus.instrument.status = InstrumentStatus::Repealed;
         corpus.instrument.source_repeal_notice = Some(notice.clone());
         write_canonical(&corpus, &context.paths.corpus).unwrap();
-        assert!(preserve_intake_decisions(&context).is_err());
+        assert!(preserve_intake_decisions(&context, &corpus.provisions).is_err());
         context.config.source_repeal_notice = Some(notice);
-        assert!(preserve_intake_decisions(&context).is_ok());
+        assert!(preserve_intake_decisions(&context, &corpus.provisions).is_ok());
+    }
+
+    #[test]
+    fn persisted_decisions_migrate_only_through_an_audited_reconfirmation() {
+        let temp = tempfile::tempdir().unwrap();
+        let config = load_config(
+            &Path::new(env!("CARGO_MANIFEST_DIR")).join("../../adapters/diputados/lritf.json"),
+        )
+        .unwrap();
+        let mut context = InstrumentContext {
+            config,
+            paths: Paths::new(temp.path(), "lritf", SourceFormat::Pdf),
+            root: temp.path().to_path_buf(),
+        };
+        let mut corpus = fixture_corpus(
+            &context.config.instrument_id,
+            "Fixture",
+            "LRITF",
+            "Texto uno dos",
+        );
+        let prior = lex_core::OutdatedReferenceApproval {
+            source_provision_id: corpus.provisions[0].id.clone(),
+            target_instrument_id: "urn:lex-mx:federal:statute:lmv".to_owned(),
+            target_provision_id: "urn:lex-mx:federal:statute:lmv:article:16-bis-7".to_owned(),
+            source_span: "dos".to_owned(),
+            start_char: 10,
+            end_char: 13,
+            source_text_sha256: lex_core::evidence_sha256("Texto uno dos"),
+            source_sha256: corpus.instrument.source_sha256.clone(),
+            reviewer: "Fixture reviewer".to_owned(),
+            captured_at: "2026-10-16T00:00:00Z".to_owned(),
+            reviewer_supplied_at: None,
+            rationale: "Fixture only".to_owned(),
+            decision_source: "fixture".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+            reconfirms: None,
+        };
+        corpus.references.push(lex_core::ReferenceEdge {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: "fixture-edge".to_owned(),
+            source_provision_id: prior.source_provision_id.clone(),
+            source_span: prior.source_span.clone(),
+            start_char: 10,
+            end_char: 13,
+            target_instrument_id: prior.target_instrument_id.clone(),
+            target_provision_id: prior.target_provision_id.clone(),
+            qualifiers: vec![],
+            basis: lex_core::Basis::ExpressCrossReference,
+            confidence: 1.0,
+            resolution_status: ReferenceResolutionStatus::HistoricalSupersededReferenceOutdated,
+            reference_form: lex_core::ReferenceForm::Direct,
+            outdated_reference_approval: Some(prior.clone()),
+            legal_operator_review: None,
+            resolution_rule: None,
+        });
+        write_canonical(&corpus, &context.paths.corpus).unwrap();
+        // The reparse separates the words with a line break; no word changes.
+        let mut reparsed = corpus.provisions.clone();
+        reparsed[0].text = "Texto\nuno  dos".to_owned();
+        let reconfirmed = lex_core::OutdatedReferenceApproval {
+            source_text_sha256: lex_core::evidence_sha256("Texto\nuno  dos"),
+            start_char: 11,
+            end_char: 14,
+            reviewer: "JRH".to_owned(),
+            captured_at: "2026-11-13T00:00:00Z".to_owned(),
+            decision_source: "docs/reconfirmation.md".to_owned(),
+            decision_source_sha256: "d".repeat(64),
+            reconfirms: Some(lex_core::ReconfirmedEvidence {
+                source_text_sha256: prior.source_text_sha256.clone(),
+                reviewer: prior.reviewer.clone(),
+                captured_at: prior.captured_at.clone(),
+                decision_source: prior.decision_source.clone(),
+                decision_source_sha256: prior.decision_source_sha256.clone(),
+            }),
+            ..prior.clone()
+        };
+        let mut check = |candidate: lex_core::OutdatedReferenceApproval,
+                         text: &[lex_core::Provision]| {
+            context.config.outdated_reference_approvals = vec![candidate];
+            preserve_intake_decisions(&context, text)
+        };
+        // Authorized: same edge, prior evidence carried, words unchanged.
+        assert!(check(reconfirmed.clone(), &reparsed).is_ok());
+        // Without the prior evidence the replacement is an ordinary refusal.
+        let mut bare = reconfirmed.clone();
+        bare.reconfirms = None;
+        assert!(check(bare, &reparsed).is_err());
+        // A changed rationale is not a re-confirmation.
+        let mut changed = reconfirmed.clone();
+        changed.rationale.push_str(" changed");
+        assert!(check(changed, &reparsed).is_err());
+        // Changed words refuse even with the evidence attached.
+        let mut reworded = reparsed.clone();
+        reworded[0].text = "Texto tres dos".to_owned();
+        assert!(check(reconfirmed.clone(), &reworded).is_err());
+        // The new hash must bind to the reparsed text.
+        let mut unbound = reconfirmed;
+        unbound.source_text_sha256 = "e".repeat(64);
+        assert!(check(unbound, &reparsed).is_err());
     }
 
     #[test]

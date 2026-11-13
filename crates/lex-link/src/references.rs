@@ -118,7 +118,7 @@ impl ReferencePatterns {
             )?,
             subsection: Regex::new(r"(?i)\bincisos?\s+[a-z](?:\s*(?:,|y|o)\s*[a-z])*\b")?,
             qualifier_connector: Regex::new(
-                r#"^(?:[\s,()"“”]|\b(?i:y|e|o|su|sus|en|bis|ter|qu[aá]ter)\b|\b(?i:antepenúltimo|penúltimo|último|primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo)\b|\b(?i:numeral(?:es)?)\s+\d+(?:\.\d+)*\b|\b(?i:apartados?)\s+[A-Z]\b|\b(?i:bases?)\s+[IVXLCDM]+\b|\b[IVXLCDM]+\b|\b[a-z]\))*$"#,
+                r#"^(?:[\s,()"“”]|\b(?i:y|e|o|su|sus|en|bis|ter|qu[aá]ter)\b|\b(?i:antepenúltimo|penúltimo|último|primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo)\b|\b(?i:numeral(?:es)?)\s+\d+(?:\.\d+)*\b|\b(?i:apartados?)\s+[A-Z]\b|\b(?i:bases?)\s+[IVXLCDM]+\b|\b[IVXLCDM]+\b|\b[a-z]\)|\b(?i:de\s+(?:esta|la\s+presente)\s+(?:ley|ordenanza)|de\s+este\s+(?:código|reglamento|ordenamiento|decreto)|del\s+presente\s+(?:código|reglamento|ordenamiento|decreto))\b|\b(?i:excepto|salvo\s+(?:el|la|los|las)\s+de\s+(?:la|las|el|los)|con\s+excepción\s+(?:de\s+(?:la|las|el|los)|del))\b)*$"#,
             )?,
             qualifier_scopes_following: Regex::new(
                 r"(?i)^\)?\s*,?\s*(?:(?:de(?:l|\s+los|\s+las|\s+la)?\s+)?(?:(?:dicho|mismo|citado|referido|mencionado|aludido|señalado|indicado)\s+)?(?:artículos?|arts?\.)\s*(?:\d|anterior\b|siguiente\b|que\s+precede\b)|(?:de\s+(?:este|ese)|del\s+presente)\s+(?:artículo|precepto)\b)",
@@ -1410,6 +1410,12 @@ fn fraction_labels(text: &str) -> HashSet<&str> {
         .collect()
 }
 
+static EXCEPTION_WORD: std::sync::LazyLock<Regex> = std::sync::LazyLock::new(|| {
+    Regex::new(r"(?i)\b(?:excepto|salvo|excepción)\b").expect("static regex")
+});
+static RELATIVE_AFTER: std::sync::LazyLock<Regex> =
+    std::sync::LazyLock::new(|| Regex::new(r"(?i)^\s*,?\s*que\b").expect("static regex"));
+
 /// Post-number qualifiers of a list's last article number. `sentence` is the
 /// text after the number up to the sentence end; `base` is its byte offset in
 /// `source_text`.
@@ -1466,6 +1472,16 @@ fn last_number_qualifiers(
         let scopes_other = patterns.qualifier_scopes_following.is_match(after);
         if chain_end.is_none() {
             let gap = &sentence[end..start];
+            // An excepted part followed by its own relative clause (`con
+            // excepción de la fracción VI que se sancionará conforme al
+            // artículo 128 TER`) is the citing provision's part, not the
+            // cited article's (LFPC art. 66).
+            let exception_clause = EXCEPTION_WORD.is_match(gap) && RELATIVE_AFTER.is_match(after);
+            if exception_clause {
+                chain_end = Some(stop);
+                end = stop;
+                continue;
+            }
             if patterns.qualifier_connector.is_match(gap) {
                 if !gap.chars().all(|character| {
                     character.is_whitespace() || matches!(character, ',' | '(' | ')')

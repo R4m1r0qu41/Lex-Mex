@@ -206,6 +206,40 @@
         "decision_source_sha256": {
           "type": "string",
           "pattern": "^[a-f0-9]{64}$"
+        },
+        "reconfirms": {
+          "description": "Evidence of the prior decision this record re-confirms after a text reflow (words unchanged).",
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "source_text_sha256",
+            "reviewer",
+            "captured_at",
+            "decision_source",
+            "decision_source_sha256"
+          ],
+          "properties": {
+            "source_text_sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "reviewer": {
+              "type": "string",
+              "minLength": 1
+            },
+            "captured_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "decision_source": {
+              "type": "string",
+              "minLength": 1
+            },
+            "decision_source_sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          }
         }
       }
     },
@@ -275,6 +309,40 @@
         "decision_source_sha256": {
           "type": "string",
           "pattern": "^[a-f0-9]{64}$"
+        },
+        "reconfirms": {
+          "description": "Evidence of the prior decision this record re-confirms after a text reflow (words unchanged).",
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "source_text_sha256",
+            "reviewer",
+            "captured_at",
+            "decision_source",
+            "decision_source_sha256"
+          ],
+          "properties": {
+            "source_text_sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "reviewer": {
+              "type": "string",
+              "minLength": 1
+            },
+            "captured_at": {
+              "type": "string",
+              "format": "date-time"
+            },
+            "decision_source": {
+              "type": "string",
+              "minLength": 1
+            },
+            "decision_source_sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            }
+          }
         }
       }
     }
