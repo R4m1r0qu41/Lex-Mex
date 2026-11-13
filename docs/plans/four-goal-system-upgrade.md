@@ -786,3 +786,16 @@ reproduced against the compiled core. Native gate: 517 tests, strict clippy,
 fmt and LRITF/IFPE/LIC validators passed. Next review action: repair both item 5
 checks with negative regressions, then bounded re-review. Other work queues
 and JRH decisions remain unchanged.
+
+### Item 5 guard fixes — Codex follow-up 2026-11-13
+
+At `6bf0f9615`, the prior-hash and repeated-occurrence fixes were independently
+reviewed. The original compiled-core probes now refuse both cases with the
+expected errors. Native fmt, strict clippy, workspace tests and LRITF/IFPE/LIC
+validators pass (LIC retains two warnings). Evidence and final verdict:
+`docs/four-goal-upgrade-codex-re-review-2026-11-13.md`, follow-up section.
+The reviewed scope remains whitespace-only re-confirmation with exact citation
+text and unchanged acquisition. Next action after review closure: resume the
+existing LIEPS grouping work queue; legal decisions and other holds are unchanged.
+
+**Parser overview for independent review (2026-11-13):** `docs/parser-overview-for-independent-review-2026-11-13.md`.
