@@ -741,7 +741,9 @@ target, below) and `lacp` art. 10 fraction IX (merged mid-line in the corpus tex
 (SHA-256 `68f53f62…`, ISO-8859-1) and `lieps.htm` (`84e10255…`). Each page lists every reform
 decree (number, title, DOF date) and, for LIEPS, the SHCP quota *acuerdos*. Compared with the
 decree groups in `reform-temporal-evidence.json` (date plus `decree-N` for same-day decrees):
-- `lic`: 49 of 50 decrees. The missing #39 (DOF 13-08-2009) issued the Ley para Regular las
+- `lic`: 49 of 50 decrees. Its 11 `section-N` entries (1999-01-19, 2014-01-10) were read against the
+  source; the ones checked belong to their own decree (per-article transitory blocks). Contents of
+  the other groups were not checked. The missing #39 (DOF 13-08-2009) issued the Ley para Regular las
   Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; the LIC PDF prints only its
   "Fracción adicionada" marks, not its transitories, so the gap is expected.
 - `lieps` (held): the committed evidence files the yearly quota *acuerdos* under the preceding
@@ -753,15 +755,22 @@ decree groups in `reform-temporal-evidence.json` (date plus `decree-N` for same-
 - `lieps`, full comparison (`.work/ref-pages/compare.py`, decree section of the page; the 13
   acuerdo dates all appear elsewhere on the page). Page: 46 decrees on 44 dates.
   - Both parses date one group `2013-12-20`, a date the page does not list. Its transitory ("El
-    presente Decreto entrará en vigor conforme a lo siguiente…") belongs to the decree the PDF
-    heads "Publicado en el Diario Oficial de la Federación el 11 de diciembre de 2013" (page #41).
-    Dating defect.
-  - #43 (DOF 15-11-2016, Ley de Ingresos 2017): the PDF prints only an elision; expected gap.
+    presente Decreto entrará en vigor conforme a lo siguiente…") sits under the header "Publicado en
+    el Diario Oficial de la Federación el 15 de noviembre de 2016" (Ley de Ingresos 2017, page #43).
+    Dating defect; #43 is therefore not an elision gap.
   - #27 (DOF 30-12-2002): printed with its Artículo Único; no transitories isolated. Unexplained.
-  - #26 (DOF 01-01-2002 on the page): no matching header in the PDF text. Unexplained.
+  - #26: the PDF heads it "Publicada en el Diario Oficial de la Federación el 1º de enero de 2002"
+    (ordinal sign `º`) and prints its transitories (fractions XIII, XIV …); neither parse has them.
+    Likely the `1º` date form.
   - 1984-12-31 and 1988-12-31: both decrees are printed; the held parse drops their transitories
-    (not folded into another entry).
+    (searched as substrings in every held entry: not folded elsewhere).
   Adoption criterion for `lieps`: every page decree whose transitories the PDF prints has a group
   under its own DOF date, acuerdos under their own dates, no group on a date the page lacks.
 - A decree-list comparison script exists only in scratch; making it a read-only command
   (`check-decrees <slug>`) is the next step if more instruments are piloted.
+
+**Codex items 4 and 6 (accepted with follow-ups).** Item 4: the SCJN header predicate checks
+neither header location nor instrument identity and accepts trailing text; reviewer approval stays
+the authority, and the limit is recorded here (no change). Item 6: integration tests for removing a
+persisted note and for a stale or missing note target are queued with the next `provision_notes`
+change.
