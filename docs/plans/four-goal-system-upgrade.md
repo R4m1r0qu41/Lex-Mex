@@ -851,3 +851,15 @@ text and unchanged acquisition. Next action after review closure: resume the
 existing LIEPS grouping work queue; legal decisions and other holds are unchanged.
 
 **Parser overview for independent review (2026-11-13):** `docs/parser-overview-for-independent-review-2026-11-13.md`.
+
+### Codex LIEPS review 2026-11-13
+
+Reviewed `64afb12eb` and `191f8299d` at HEAD `191f8299d` for main. Lint commit
+accepted; parser commit change-requested: title-case decree suppression can lose
+a prior transitory when a true new act follows a comma-ended block, despite its
+independent publication line. Synthetic Cargo probe reproduced the loss. Native
+gate passes (523 tests and LRITF/IFPE/LIEPS validators); 13 provision changes are
+whitespace-only and 55 LIEPS adapter starts independently align. Report:
+`docs/lieps-transitory-grouping-codex-review-2026-11-13.md`.
+Next review action: narrow title suppression, add boundary regression and re-review.
+Four unrelated untracked prompt files preserved; no merge/commit/push this session.
