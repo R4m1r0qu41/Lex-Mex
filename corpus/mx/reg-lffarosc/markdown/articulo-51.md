@@ -35,6 +35,8 @@ VII. Llevar el archivo del Consejo;
 
 VIII. Expedir los documentos que acrediten la personalidad de los Consejeros;
 
-IX. Firmar, junto con el Presidente, todos los acuerdos y resoluciones que emita el Consejo; X. Dar a conocer las minutas de las reuniones cuando le sean solicitadas al Consejo, y
+IX. Firmar, junto con el Presidente, todos los acuerdos y resoluciones que emita el Consejo;
+
+X. Dar a conocer las minutas de las reuniones cuando le sean solicitadas al Consejo, y
 
 Xl. Las demás que establezca el Manual de Operación del Consejo Técnico Consultivo.

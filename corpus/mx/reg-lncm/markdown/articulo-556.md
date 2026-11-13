@@ -25,4 +25,6 @@ II. Los navegantes que utilizan la zona;
 
 III. Las Autoridades Marítimas Portuarias locales;
 
-IV. Los prestadores del Servicio Profesional de Pilotaje, y V. En su caso, las autoridades competentes y organizaciones, que se ocupen de la pesca, de las actividades de exploración o explotación mar adentro y de la protección del medio marino, según proceda.
+IV. Los prestadores del Servicio Profesional de Pilotaje, y
+
+V. En su caso, las autoridades competentes y organizaciones, que se ocupen de la pesca, de las actividades de exploración o explotación mar adentro y de la protección del medio marino, según proceda.

@@ -25,7 +25,9 @@ II. Gestionar la seguridad vial y la movilidad urbana, interurbana, rural e insu
 
 III. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
 
-IV. Participar con las autoridades federales, de los municipios y de las demarcaciones territoriales de la Ciudad de México, en la planeación, diseño, instrumentación e implementación de la Estrategia Nacional y de los Convenios de Coordinación Metropolitanos, en los términos previstos en esta Ley y demás disposiciones legales aplicables; V. Armonizar los programas de ordenamiento territorial que le competen con lo dispuesto en ésta y otras leyes aplicables;
+IV. Participar con las autoridades federales, de los municipios y de las demarcaciones territoriales de la Ciudad de México, en la planeación, diseño, instrumentación e implementación de la Estrategia Nacional y de los Convenios de Coordinación Metropolitanos, en los términos previstos en esta Ley y demás disposiciones legales aplicables;
+
+V. Armonizar los programas de ordenamiento territorial que le competen con lo dispuesto en ésta y otras leyes aplicables;
 
 VI. Celebrar convenios de coordinación con la Federación, otras entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, para la implementación de acciones específicas, obras e inversiones en la materia;
 
@@ -51,7 +53,9 @@ XVI. Armonizar las leyes o los reglamentos de tránsito aplicables en su territo
 
 XVII. Diseñar e implementar, de manera conjunta con las entidades federativas colindantes, mecanismos de coordinación para el cobro de infracciones de tránsito;
 
-XVIII. Crear, administrar y mantener actualizados sus indicadores y bases de datos en materia de movilidad y seguridad vial que se incorpore al [Sistema de Información Territorial y Urbano](articulo-3.md) a los que se refiere esta Ley; XIX. Realizar los operativos de control de uso de distractores durante la conducción de vehículos, sistemas de retención infantil, cascos en motociclistas, control de velocidad y de alcoholimetría, en el ámbito de su competencia y de acuerdo a los lineamientos establecidos por el Sistema Nacional;
+XVIII. Crear, administrar y mantener actualizados sus indicadores y bases de datos en materia de movilidad y seguridad vial que se incorpore al [Sistema de Información Territorial y Urbano](articulo-3.md) a los que se refiere esta Ley;
+
+XIX. Realizar los operativos de control de uso de distractores durante la conducción de vehículos, sistemas de retención infantil, cascos en motociclistas, control de velocidad y de alcoholimetría, en el ámbito de su competencia y de acuerdo a los lineamientos establecidos por el Sistema Nacional;
 
 XX. Instrumentar y articular, en concordancia con la política nacional, las acciones necesarias para disminuir las muertes, lesiones graves y discapacidades ocasionadas por siniestros de tránsito;
 

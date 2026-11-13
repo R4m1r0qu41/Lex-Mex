@@ -31,7 +31,9 @@ IV. El importe de la indemnización se fijará con base en el avalúo mencionado
 
 V. El decreto de expropiación se publicará en el Diario Oficial de la Federación, en el órgano oficial de la localidad respectiva y se notificará personalmente a los titulares de los inmuebles, bienes y derechos expropiados.
 
-De ignorarse quienes son los titulares, su domicilio o localización, surtirá efectos de notificación personal una segunda publicación del decreto en el mismo Diario Oficial de la Federación y en el órgano oficial de la localidad respectiva. Entre la primera y segunda publicaciones deberán transcurrir no menos de cinco ni más de veinte días hábiles; VI. La autoridad administrativa procederá a la ocupación de los inmuebles, bienes y derechos expropiados y, en su caso, dará posesión de los mismos al desarrollador del proyecto, a partir del día de notificación del respectivo decreto de expropiación.
+De ignorarse quienes son los titulares, su domicilio o localización, surtirá efectos de notificación personal una segunda publicación del decreto en el mismo Diario Oficial de la Federación y en el órgano oficial de la localidad respectiva. Entre la primera y segunda publicaciones deberán transcurrir no menos de cinco ni más de veinte días hábiles;
+
+VI. La autoridad administrativa procederá a la ocupación de los inmuebles, bienes y derechos expropiados y, en su caso, dará posesión de los mismos al desarrollador del proyecto, a partir del día de notificación del respectivo decreto de expropiación.
 
 En caso de bienes sujetos al régimen comunal o ejidal, éstos sólo podrán ser ocupados previo pago o depósito del importe de la indemnización, que se hará de preferencia en el Fondo Nacional de Fomento Ejidal o, en su defecto, mediante garantía suficiente;
 

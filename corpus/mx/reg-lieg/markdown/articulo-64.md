@@ -19,7 +19,9 @@ source_sha256: 6bc8cda0b37a72c2315dd3f5c48abd50b4a96c14b0e718a3374f04a4abffcb7d
 
 Los Comités Técnicos Consultivos como órganos de participación y consulta, realizarán las funciones siguientes:
 
-Efectuarán el análisis y diagnóstico de los requerimientos de información para apoyar la planeación del desarrollo económico y social del País; II. Procurarán la congruencia entre las prioridades del Plan Nacional de Desarrollo de Estadística y de Información Geográfica con las que se establezcan para los demás planes que se generen en los sistemas nacionales;
+Efectuarán el análisis y diagnóstico de los requerimientos de información para apoyar la planeación del desarrollo económico y social del País;
+
+II. Procurarán la congruencia entre las prioridades del Plan Nacional de Desarrollo de Estadística y de Información Geográfica con las que se establezcan para los demás planes que se generen en los sistemas nacionales;
 
 III. Recomendarán las modificaciones que requiera el Plan Nacional de Desarrollo de Estadística y de Información Geográfica, como consecuencia del análisis y evaluación permanente del mismo;
 

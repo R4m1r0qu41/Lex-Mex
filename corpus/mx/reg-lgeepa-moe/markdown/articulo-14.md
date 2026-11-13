@@ -17,7 +17,9 @@ source_sha256: d25fabb2d2e90d9f76028717f83c442d05a4f64024f13461285bda8ebd389a04
 
 # Artículo 14
 
-La bitácora ambiental deberá incluir: I. El convenio de coordinación, sus anexos y, en su caso, las modificaciones que se realicen a los mismos;
+La bitácora ambiental deberá incluir:
+
+I. El convenio de coordinación, sus anexos y, en su caso, las modificaciones que se realicen a los mismos;
 
 II. El programa de ordenamiento ecológico;
 

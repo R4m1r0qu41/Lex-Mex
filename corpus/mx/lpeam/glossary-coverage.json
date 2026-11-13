@@ -8,9 +8,10 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lpeam:article:5",
-      "provision_text_sha256": "5d663cb979b73a16a79feac8ee5e8a73a9874872ba7bc0e5239c1f4da5e329ce",
+      "provision_text_sha256": "30f1ba4a1cf596330d24aa645cca468150baefbc75dc5963eee9979361316a29",
       "method": "established_pass",
       "fractions": [
+        "I",
         "II",
         "III",
         "IV",
@@ -30,10 +31,10 @@
         "XVIII"
       ],
       "unread_fractions": [],
-      "term_count": 17
+      "term_count": 18
     }
   ],
   "imports": [],
-  "term_count": 17,
+  "term_count": 18,
   "usage_count": 134
 }

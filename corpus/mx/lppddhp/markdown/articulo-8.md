@@ -7,8 +7,8 @@ provision_type: article
 number: "8"
 aliases: ["LPPDDHP — Artículo 8"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf
 source_sha256: 060468c7fa389756fc5706ce2d475a105bb9bb0149fc6a9079a018bc3b4f6e21
 ---
@@ -19,7 +19,9 @@ source_sha256: 060468c7fa389756fc5706ce2d475a105bb9bb0149fc6a9079a018bc3b4f6e21
 
 La Junta de Gobierno contará con las siguientes atribuciones:
 
-I. Determinar, decretar, evaluar, suspender y en su caso, modificar las Medidas Preventivas y las Medidas de Protección, a partir de la información elaborada por las unidades de la Coordinación; II. Evaluar, suspender y en su caso, modificar las Medidas Urgentes de Protección, a partir de la información elaborada por las unidades de la Coordinación;
+I. Determinar, decretar, evaluar, suspender y en su caso, modificar las Medidas Preventivas y las Medidas de Protección, a partir de la información elaborada por las unidades de la Coordinación;
+
+II. Evaluar, suspender y en su caso, modificar las Medidas Urgentes de Protección, a partir de la información elaborada por las unidades de la Coordinación;
 
 III. Aprobar los manuales y protocolos de Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección elaborados por la Coordinación;
 

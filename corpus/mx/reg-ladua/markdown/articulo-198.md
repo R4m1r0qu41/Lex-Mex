@@ -29,6 +29,8 @@ III. Acreditar que residen en la franja o región fronteriza;
 
 IV. Garantizar al [SAT](articulo-1.md) el pago de los créditos fiscales que pudieran causarse por exceder los plazos autorizados para el retorno del vehículo o por la comisión de las infracciones previstas en la Ley en relación con la internación temporal, en los términos y condiciones que en su caso señale el SAT mediante Reglas;
 
-V. Cubrir las cantidades que para los trámites de internación determine el SAT, y VI. Declarar bajo protesta de decir verdad, que el interesado se compromete a retornar el vehículo de que se trate dentro del plazo autorizado y a no realizar actos u omisiones que configuren infracciones o delitos por el indebido uso o destino del mismo.
+V. Cubrir las cantidades que para los trámites de internación determine el SAT, y
+
+VI. Declarar bajo protesta de decir verdad, que el interesado se compromete a retornar el vehículo de que se trate dentro del plazo autorizado y a no realizar actos u omisiones que configuren infracciones o delitos por el indebido uso o destino del mismo.
 
 Para registrar el retorno del vehículo internado temporalmente, y obtener el comprobante de dicho retorno, el interesado deberá presentarse con su vehículo en las aduanas fronterizas del territorio nacional.

@@ -37,4 +37,6 @@ VII. Presentar al Pleno de la Comisión Ejecutiva los informes relacionados con 
 
 VIII. Someter al Pleno de la Comisión Ejecutiva la contratación de auditores externos para realizar la auditoría externa de manera anual al Fondo, y entregar para su conocimiento y aprobación el resultado de la misma;
 
-IX. Presentar para aprobación del Pleno de la Comisión Ejecutiva los estados financieros del fondo elaborados por el fiduciario y realizar las observaciones a que haya lugar, y X. Las demás que señalen las disposiciones aplicables a los fideicomisos públicos.
+IX. Presentar para aprobación del Pleno de la Comisión Ejecutiva los estados financieros del fondo elaborados por el fiduciario y realizar las observaciones a que haya lugar, y
+
+X. Las demás que señalen las disposiciones aplicables a los fideicomisos públicos.

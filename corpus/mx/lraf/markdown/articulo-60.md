@@ -17,7 +17,9 @@ source_sha256: e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a
 
 # Artículo 60
 
-El nombramiento del director general de la [Sociedad Controladora](articulo-5o.md) y de los funcionarios con las dos jerarquías inmediatas inferiores a la de este último deberá recaer en personas que cuenten con honorabilidad e historial crediticio satisfactorio en términos de las disposiciones de carácter general que al efecto emita la [Comisión Supervisora](articulo-5o.md). Asimismo, dichas personas, cuando menos, deberán de reunir los requisitos siguientes: I. Ser residente en territorio nacional, en términos de lo dispuesto por el Código Fiscal de la Federación;
+El nombramiento del director general de la [Sociedad Controladora](articulo-5o.md) y de los funcionarios con las dos jerarquías inmediatas inferiores a la de este último deberá recaer en personas que cuenten con honorabilidad e historial crediticio satisfactorio en términos de las disposiciones de carácter general que al efecto emita la [Comisión Supervisora](articulo-5o.md). Asimismo, dichas personas, cuando menos, deberán de reunir los requisitos siguientes:
+
+I. Ser residente en territorio nacional, en términos de lo dispuesto por el Código Fiscal de la Federación;
 
 II. Haber prestado por lo menos cinco años sus servicios en puestos de alto nivel decisorio, cuyo desempeño requiera conocimiento y experiencia en materia financiera y administrativa;
 

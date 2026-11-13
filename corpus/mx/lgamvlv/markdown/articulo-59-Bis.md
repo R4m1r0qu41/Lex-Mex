@@ -7,8 +7,8 @@ provision_type: article
 number: "59 Bis"
 aliases: ["LGAMVLV — Artículo 59 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -17,7 +17,9 @@ source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 
 # Artículo 59 Bis
 
-Corresponde a los [Centros de Justicia para las Mujeres](articulo-5.md), con base en los principios establecidos en la presente ley: I. Diseñar y ejecutar acciones orientadas a la prevención de la violencia contra las mujeres y la atención de las mujeres, adolescentes y niñas víctimas de violencia;
+Corresponde a los [Centros de Justicia para las Mujeres](articulo-5.md), con base en los principios establecidos en la presente ley:
+
+I. Diseñar y ejecutar acciones orientadas a la prevención de la violencia contra las mujeres y la atención de las mujeres, adolescentes y niñas víctimas de violencia;
 
 II. Diseñar e implementar acciones que eviten la victimización secundaria de las mujeres víctimas de violencia;
 

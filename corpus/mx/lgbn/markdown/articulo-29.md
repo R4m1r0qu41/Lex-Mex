@@ -47,7 +47,9 @@ XIII.- Emitir la declaratoria por la que la Federación adquiera el dominio de l
 
 XIV.- Llevar el registro de los responsables inmobiliarios de las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, así como de los servidores públicos equivalentes en las demás instituciones destinatarias; Fracción reformada DOF 20-05-2021
 
-XV.- Vigilar el uso y aprovechamiento de los inmuebles donados por la Federación y, en caso procedente, ejercer el derecho de reversión sobre los bienes donados; XVI.- Examinar en las auditorías y revisiones que practique, la información y documentación jurídica y contable relacionada con las operaciones inmobiliarias que realicen las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, a fin de verificar el cumplimiento de esta Ley y de las disposiciones que de ella emanen. Fracción reformada DOF 20-05-2021
+XV.- Vigilar el uso y aprovechamiento de los inmuebles donados por la Federación y, en caso procedente, ejercer el derecho de reversión sobre los bienes donados;
+
+XVI.- Examinar en las auditorías y revisiones que practique, la información y documentación jurídica y contable relacionada con las operaciones inmobiliarias que realicen las dependencias, las unidades administrativas de la Presidencia de la República y las entidades, a fin de verificar el cumplimiento de esta Ley y de las disposiciones que de ella emanen. Fracción reformada DOF 20-05-2021
 
 XVII.- Emitir los criterios para determinar los valores aplicables a cada tipo de operación a que se refieren los artículos [143](articulo-143.md) y [144](articulo-144.md) de esta Ley, entre los que las dependencias y entidades podrán elegir el que consideren conveniente;
 

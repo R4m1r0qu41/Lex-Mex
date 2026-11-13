@@ -31,7 +31,7 @@ GRUPO 03 SILVICULTURA FRACCIÓN ACTIVIDAD CLASE 031 Explotación de bosques made
 
 Comprende a las empresas que se dedican a la plantación, repoblación y conservación de bosques, corte de árboles (excepto aserraderos), extracción de leña y cortezas, producción de carbón vegetal, extracción de chicle crudo y otras savias, recolección de frutas, flores, hongos, hierbas, carrizos y otras materias forestales silvestres. Incluye a las empresas que se dedican a prestar servicios de explotación forestal, tales como: estimación de volúmenes de madera, protección de bosques y otros.
 
-GRUPO 04 PESCA REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN FRACCIÓN ACTIVIDAD CLASE 041 Pesca de altura y costera. IV
+GRUPO 04 PESCA FRACCIÓN ACTIVIDAD CLASE 041 Pesca de altura y costera. IV
 
 Comprende a las empresas que se dedican a la pesca comercial y/o deportiva, de altura y costera. Incluye la pesca en esteros o estuarios.
 
@@ -53,7 +53,7 @@ Comprende a las empresas que se dedican a la caza, captura y preservación de an
 
 DIVISIÓN 1 INDUSTRIAS EXTRACTIVAS GRUPO 11 EXTRACCIÓN Y BENEFICIO DE CARBÓN MINERAL, GRAFITO Y MINERALES NO METÁLICOS; EXCEPTO SAL FRACCIÓN ACTIVIDAD CLASE 111 Extracción y beneficio de carbón mineral, grafito y minerales no V metálicos en minas de profundidad.
 
-Comprende a las empresas que se dedican a la extracción a profundidad, con o sin beneficio de carbón mineral, grafito y otros minerales no metálicos; no se incluye la sal. Se considera también en esta fracción la extracción de azufre, excepto cuando este mineral se obtenga mediante la inyección de agua caliente, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN clasificada en la fracción 113.
+Comprende a las empresas que se dedican a la extracción a profundidad, con o sin beneficio de carbón mineral, grafito y otros minerales no metálicos; no se incluye la sal. Se considera también en esta fracción la extracción de azufre, excepto cuando este mineral se obtenga mediante la inyección de agua caliente, clasificada en la fracción 113.
 
 112 Beneficio de minerales no metálicos. V
 
@@ -75,7 +75,7 @@ Comprende a las empresas que se dedican a la exploración y/o extracción de pet
 
 GRUPO 13 EXTRACCIÓN Y BENEFICIO DE MINERALES METÁLICOS FRACCIÓN ACTIVIDAD CLASE 131 Extracción y beneficio de minerales metálicos, en minas de V profundidad.
 
-Comprende a las empresas que se dedican a la extracción a profundidad, con o sin beneficio de hierro, oro, plata, mercurio, antimonio, cobre, plomo, zinc y otros minerales metálicos. 132 Beneficio de minerales metálicos. V REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas dedicadas al beneficio sin procesos de extracción de hierro, oro, plata, mercurio, antimonio, cobre, plomo, zinc y otros minerales metálicos.
+Comprende a las empresas que se dedican a la extracción a profundidad, con o sin beneficio de hierro, oro, plata, mercurio, antimonio, cobre, plomo, zinc y otros minerales metálicos. 132 Beneficio de minerales metálicos. V Comprende a las empresas dedicadas al beneficio sin procesos de extracción de hierro, oro, plata, mercurio, antimonio, cobre, plomo, zinc y otros minerales metálicos.
 
 Debe entenderse por "Beneficio" a las operaciones y tratamientos como trituración, molienda, pulverización, cribado, concentración, calcinación, flotación, clasificación, lixiviación, aglomeración de concentrados (nódulos, pelets, briquetas y similares) y otros sistemas de beneficio de minerales metálicos.
 
@@ -95,7 +95,7 @@ Comprende a las empresas que se dedican con empleo de maquinaria y/o equipo moto
 
 202 Beneficio de otros granos, fabricación y envasado. V
 
-Comprende a las empresas que se dedican al beneficio de café, cacao; tostado y molienda de café; fabricación y envasado de café REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN soluble y té; desgrane, descascarado, limpieza, secado y pulido de arroz y otros granos, incluye la limpieza y envasado de lenteja, frijol, haba, garbanzo y otros productos agrícolas; así como el beneficio de especias. Excepto la fabricación de harinas clasificadas por separado en la fracción 2016.
+Comprende a las empresas que se dedican al beneficio de café, cacao; tostado y molienda de café; fabricación y envasado de café soluble y té; desgrane, descascarado, limpieza, secado y pulido de arroz y otros granos, incluye la limpieza y envasado de lenteja, frijol, haba, garbanzo y otros productos agrícolas; así como el beneficio de especias. Excepto la fabricación de harinas clasificadas por separado en la fracción 2016.
 
 203 Producción de azúcar. V
 
@@ -115,7 +115,7 @@ Comprende a las empresas que se dedican con empleo de maquinaria y/o equipo moto
 
 207 Elaboración, preparación, conservación, envasado y/o empacado IV de pescados, mariscos y otros productos marinos.
 
-Comprende a las empresas que se dedican con empleo de maquinaria y/o equipo motorizado, a la elaboración, preparación, conservación, envasado y/o empacado de pescados, mariscos y otros productos de especies marinas. Incluye la deshidratación, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN congelación, salado, ahumado y otros tratamientos similares, así como la elaboración de harinas y aceites a base de especies marinas.
+Comprende a las empresas que se dedican con empleo de maquinaria y/o equipo motorizado, a la elaboración, preparación, conservación, envasado y/o empacado de pescados, mariscos y otros productos de especies marinas. Incluye la deshidratación, congelación, salado, ahumado y otros tratamientos similares, así como la elaboración de harinas y aceites a base de especies marinas.
 
 208 Elaboración de productos a base de cereales. III
 
@@ -137,7 +137,7 @@ Comprende a las empresas que se dedican a la fabricación de aceites vegetales c
 
 Comprende a las empresas que se dedican a la fabricación con empleo de maquinaria y/o equipo motorizado, de almidones, féculas, levaduras, malta, extractos de malta y productos similares. Cuando estos productos se fabriquen de manera simultánea en la industria cervecera, se clasificarán en la fracción 212.
 
-2013 Elaboración, preparación, envasado y/o empacado de otros III REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN productos alimenticios.
+2013 Elaboración, preparación, envasado y/o empacado de otros III productos alimenticios.
 
 Comprende a las empresas que preparan, elaboran, envasan y/o empacan con empleo de maquinaria y/o equipo motorizado, otros productos alimenticios no incluidos en las fracciones anteriores. Incluye hielo, helados, paletas, nieves, sal comestible, mostaza, vinagre y otros condimentos.
 
@@ -159,7 +159,7 @@ Comprende a las empresas que elaboran y/o envasan vinos, sidras, aguardientes, l
 
 Comprende a las empresas que elaboran y/o envasan cerveza y otras bebidas a base de malta. Incluye la elaboración de malta, extractos de malta y productos similares cuando se fabriquen de manera simultánea en la industria cervecera.
 
-213 Elaboración y/o envase de refrescos, aguas gaseosas y IV REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN purificadas.
+213 Elaboración y/o envase de refrescos, aguas gaseosas y IV purificadas.
 
 Comprende a las empresas dedicadas a la elaboración y/o envase de refrescos, aguas purificadas y aguas minerales. Incluye la elaboración y envase de concentrados de pulpa de frutas, así como el almacenamiento y/o distribución, cuando se desarrollen en forma simultánea a la industria refresquera o de purificación de agua.
 
@@ -181,7 +181,7 @@ Comprende a las empresas que se dedican con empleo de maquinaria y/o equipo moto
 
 234 Fabricación, preparación, hilado, tejido y acabado de textiles de V fibras duras.
 
-Comprende a las empresas que se dedican con empleo de REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN maquinaria y/o equipo motorizado, a la fabricación, preparación, hilado, tejido y acabado de productos de henequén, palma, cáñamo, yute, ixtle, fibra de coco, lechuguilla y otras fibras duras similares. Incluye la fabricación de cables, cuerdas, cordelería, tapetes, alfombras y otros productos textiles de fibras duras.
+Comprende a las empresas que se dedican con empleo de maquinaria y/o equipo motorizado, a la fabricación, preparación, hilado, tejido y acabado de productos de henequén, palma, cáñamo, yute, ixtle, fibra de coco, lechuguilla y otras fibras duras similares. Incluye la fabricación de cables, cuerdas, cordelería, tapetes, alfombras y otros productos textiles de fibras duras.
 
 235 Trabajos de hilados y/o tejidos sin maquinaria ni equipo II motorizado.
 
@@ -203,7 +203,7 @@ Comprende a las empresas que se dedican a la confección y/o reparación de pren
 
 Comprende a las empresas que con procesos de producción en serie, se dedican a la confección de prendas de vestir con telas, pieles, cuero y materiales sucedáneos ya elaborados. Incluye la fabricación de ropa interior o exterior, guantes, pañuelos, corbatas, sombreros, gorros y similares.
 
-243 Otros artículos confeccionados con textiles y materiales diversos. II REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas que se dedican a la confección de artículos diversos con telas, cuero, piel y sucedáneos ya elaborados. Se considera la confección de almohadas, cojines, bolsas, costales, sábanas, manteles, servilletas, cubreasientos, vestiduras, forros, fundas, banderines, cortinas, artículos de lona, toldos de protección, elaboración de bordados, forrado de botones, deshilados, plizados, trou-trou y otros artículos similares. Excepto prendas de vestir; fabricación, armado o ensamble de muebles tapizados, clasificados por separado.
+243 Otros artículos confeccionados con textiles y materiales diversos. II Comprende a las empresas que se dedican a la confección de artículos diversos con telas, cuero, piel y sucedáneos ya elaborados. Se considera la confección de almohadas, cojines, bolsas, costales, sábanas, manteles, servilletas, cubreasientos, vestiduras, forros, fundas, banderines, cortinas, artículos de lona, toldos de protección, elaboración de bordados, forrado de botones, deshilados, plizados, trou-trou y otros artículos similares. Excepto prendas de vestir; fabricación, armado o ensamble de muebles tapizados, clasificados por separado.
 
 GRUPO 25 FABRICACIÓN DE CALZADO E INDUSTRIA DEL CUERO FRACCIÓN ACTIVIDAD CLASE 251 Fabricación de calzado, con maquinaria y/o equipo motorizado. III
 
@@ -227,7 +227,7 @@ Comprende a las empresas que se dedican a la fabricación con procesos mecanizad
 
 256 Curtido y acabado de cuero y piel, con uso exclusivo de V maquinaria y/o equipo motorizado.
 
-Comprende a las empresas que con la utilización exclusiva de maquinaria y/o equipo motorizado, realizan la totalidad del REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN proceso productivo para el curtido y acabado de cuero y piel de animales.
+Comprende a las empresas que con la utilización exclusiva de maquinaria y/o equipo motorizado, realizan la totalidad del proceso productivo para el curtido y acabado de cuero y piel de animales.
 
 GRUPO 26 INDUSTRIA Y PRODUCTOS DE MADERA Y CORCHO; EXCEPTO MUEBLES FRACCIÓN ACTIVIDAD CLASE 261 Fabricación de productos de aserradero. V
 
@@ -245,7 +245,7 @@ Comprende a las empresas que sin empleo de maquinaria ni equipo motorizado, se d
 
 Comprende a las empresas que con empleo de maquinaria y/o equipo motorizado, se dedican a fabricar artículos de corcho, cestería ornamental y decoración; sombreros de palma, escobas, escobillas, escobetas, cepillos, plumeros, brochas, pinceles y similares, a base de palma, vara, carrizo y mimbre. Excepto muebles.
 
-GRUPO 27 FABRICACIÓN Y/O REPARACIÓN DE MUEBLES DE MADERA Y SUS PARTES; EXCEPTO LOS DE METAL Y DE PLÁSTICO MOLDEADO FRACCIÓN ACTIVIDAD CLASE 271 Fabricación y/o reparación de muebles de madera y sus partes. V REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas que se dedican a la fabricación y/o reparación de muebles de madera y sus partes para uso doméstico, comercial, industrial o de oficinas. Incluye la fabricación, ensamble y/o reparación de armazones, bastidores, colchones, sofás, sofás cama, mamparas, persianas y otros; así como el tapizado de muebles en general. Excepto la fabricación de muebles de plástico moldeado o metal, clasificados en las fracciones 322 y 353, respectivamente.
+GRUPO 27 FABRICACIÓN Y/O REPARACIÓN DE MUEBLES DE MADERA Y SUS PARTES; EXCEPTO LOS DE METAL Y DE PLÁSTICO MOLDEADO FRACCIÓN ACTIVIDAD CLASE 271 Fabricación y/o reparación de muebles de madera y sus partes. V Comprende a las empresas que se dedican a la fabricación y/o reparación de muebles de madera y sus partes para uso doméstico, comercial, industrial o de oficinas. Incluye la fabricación, ensamble y/o reparación de armazones, bastidores, colchones, sofás, sofás cama, mamparas, persianas y otros; así como el tapizado de muebles en general. Excepto la fabricación de muebles de plástico moldeado o metal, clasificados en las fracciones 322 y 353, respectivamente.
 
 GRUPO 28 INDUSTRIA DEL PAPEL FRACCIÓN ACTIVIDAD CLASE 281 Fabricación de papel y/o cartón y sus derivados. IV
 
@@ -259,7 +259,7 @@ Comprende a las empresas que se dedican a realizar trabajos de edición, impresi
 
 GRUPO 30 INDUSTRIA QUÍMICA FRACCIÓN ACTIVIDAD CLASE 301 Fabricación de sustancias químicas e industriales; excepto III abonos.
 
-Comprende a las empresas que con productos petroquímicos básicos y/o materias primas elementales o compuestas derivadas de la carboquímica básica y de las industrias extractivas, se dedican por cualquier método a la fabricación de productos químicos orgánicos e inorgánicos básicos; incluye la fabricación REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN de pigmentos y materias colorantes, carbón activado, gases industriales, ácidos, óxidos, bases, sales y otras sustancias químicas industriales; excepto abonos y productos clasificados en las fracciones subsecuentes del Grupo 30.
+Comprende a las empresas que con productos petroquímicos básicos y/o materias primas elementales o compuestas derivadas de la carboquímica básica y de las industrias extractivas, se dedican por cualquier método a la fabricación de productos químicos orgánicos e inorgánicos básicos; incluye la fabricación de pigmentos y materias colorantes, carbón activado, gases industriales, ácidos, óxidos, bases, sales y otras sustancias químicas industriales; excepto abonos y productos clasificados en las fracciones subsecuentes del Grupo 30.
 
 302 Fabricación de abonos, fertilizantes y plaguicidas. IV
 
@@ -281,7 +281,7 @@ Comprende a las empresas que se dedican a la industrialización de materias prim
 
 Comprende a las empresas que se dedican a la fabricación de jabones, detergentes, desinfectantes, lustradores, aromatizantes ambientales y otros productos para lavado y aseo.
 
-308 Fabricación de perfumes y cosméticos. II REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas que se dedican a la formulación, elaboración y/o envase de esencias, perfumes, cosméticos, lociones, desodorantes, fijadores para el cabello y otros productos de tocador.
+308 Fabricación de perfumes y cosméticos. II Comprende a las empresas que se dedican a la formulación, elaboración y/o envase de esencias, perfumes, cosméticos, lociones, desodorantes, fijadores para el cabello y otros productos de tocador.
 
 309 Fabricación de aceites y grasas vegetales y animales no IV comestibles, para usos industriales.
 
@@ -309,7 +309,7 @@ Comprende a las empresas que se dedican a la fabricación de fibras celulósicas
 
 GRUPO 31 REFINACIÓN DEL PETRÓLEO Y DERIVADOS DEL CARBÓN MINERAL FRACCIÓN ACTIVIDAD CLASE 311 Refinación del petróleo crudo y petroquímica básica. IV
 
-Se considera la refinación del petróleo crudo y a la industria REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN petroquímica básica, aunque su manejo esté reservado en forma exclusiva al Estado. Incluye la fabricación de gasolinas, aceites pesados, asfaltos, parafinas y otros productos derivados de la refinación del petróleo crudo.
+Se considera la refinación del petróleo crudo y a la industria petroquímica básica, aunque su manejo esté reservado en forma exclusiva al Estado. Incluye la fabricación de gasolinas, aceites pesados, asfaltos, parafinas y otros productos derivados de la refinación del petróleo crudo.
 
 312 Fabricación de lubricantes y aditivos. III
 
@@ -329,7 +329,7 @@ Comprende a las empresas que con compuestos provenientes de la industria químic
 
 323 Fabricación de productos de látex. V
 
-Comprende a las empresas que a base de látex natural, se dedican mediante el proceso industrial de inmersión, a la fabricación de productos para usos quirúrgicos, higiénico y farmacéutico, domésticos e industriales, tales como sondas, catéteres, protectores para prótesis, calzones, preservativos, tetillas para biberón, guantes, globos y otros productos diversos. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN GRUPO 33 FABRICACIÓN DE PRODUCTOS DE MINERALES NO METÁLICOS; EXCEPTO DEL PETRÓLEO Y DEL CARBÓN MINERAL FRACCIÓN ACTIVIDAD CLASE 331 Manufactura de artículos de alfarería y cerámica. III
+Comprende a las empresas que a base de látex natural, se dedican mediante el proceso industrial de inmersión, a la fabricación de productos para usos quirúrgicos, higiénico y farmacéutico, domésticos e industriales, tales como sondas, catéteres, protectores para prótesis, calzones, preservativos, tetillas para biberón, guantes, globos y otros productos diversos. GRUPO 33 FABRICACIÓN DE PRODUCTOS DE MINERALES NO METÁLICOS; EXCEPTO DEL PETRÓLEO Y DEL CARBÓN MINERAL FRACCIÓN ACTIVIDAD CLASE 331 Manufactura de artículos de alfarería y cerámica. III
 
 Comprende a las empresas que se dedican a la manufactura de artículos de alfarería y cerámica. Incluye a los fabricantes de moldes, modelos y artículos de yeso. Excepto la fabricación de artículos de loza y porcelana; muebles sanitarios y sus accesorios; productos de arcilla para la construcción y ladrillos, clasificados por separado.
 
@@ -351,7 +351,7 @@ Comprende a las empresas que fabrican cal y/o yeso. Incluye a aquéllas que en f
 
 337 Fabricación de productos a base de asbesto. V
 
-Comprende a las empresas que se dedican a la fabricación de hilos, tejidos, prendas de vestir, empalmes de asbesto, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN empaques, envolturas, productos para usos calorífugos, guarniciones de fricción (segmentos, discos, arandelas, cintas, planchas, placas, rollos y artículos análogos para frenos, embragues o aplicaciones similares) y otros productos de asbesto.
+Comprende a las empresas que se dedican a la fabricación de hilos, tejidos, prendas de vestir, empalmes de asbesto, empaques, envolturas, productos para usos calorífugos, guarniciones de fricción (segmentos, discos, arandelas, cintas, planchas, placas, rollos y artículos análogos para frenos, embragues o aplicaciones similares) y otros productos de asbesto.
 
 338 Fabricación de productos abrasivos. III
 
@@ -371,7 +371,7 @@ Comprende a las empresas que, con procesos continuos automatizados, se dedican a
 
 3313 Fabricación de vidrio y/o productos de vidrio, con procesos II continuos automatizados.
 
-Comprende a las empresas que se dedican por medio de procesos continuos automatizados, a la fabricación y regeneración de vidrio para obtener materiales y productos como vidrio en masa, en bolas, barras, varillas o tubos, templado, refractario, colado, laminado, estirado o soplado, chapado, desbastado o pulido de superficie no lisa, vidrio multicelular en bloques, baldosas, placas, paneles y formas análogas, recipientes para transporte o envase, tapones y otros dispositivos de cierre, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN ampollas, objetos para laboratorio, higiene, farmacia, artísticos, decorativos, ornamentales, espejos, cristalería tallada y otros. Incluye la fabricación de fibras y lana de vidrio, así como la manufactura de estos materiales.
+Comprende a las empresas que se dedican por medio de procesos continuos automatizados, a la fabricación y regeneración de vidrio para obtener materiales y productos como vidrio en masa, en bolas, barras, varillas o tubos, templado, refractario, colado, laminado, estirado o soplado, chapado, desbastado o pulido de superficie no lisa, vidrio multicelular en bloques, baldosas, placas, paneles y formas análogas, recipientes para transporte o envase, tapones y otros dispositivos de cierre, ampollas, objetos para laboratorio, higiene, farmacia, artísticos, decorativos, ornamentales, espejos, cristalería tallada y otros. Incluye la fabricación de fibras y lana de vidrio, así como la manufactura de estos materiales.
 
 3315 Fabricación de productos de asbesto-cemento. V
 
@@ -391,7 +391,7 @@ Comprende a las empresas que se dedican a la fabricación de productos primarios
 
 342 Industrias básicas del hierro, acero y metales no ferrosos, con V procesos automatizados.
 
-Comprende a las empresas que, con la utilización exclusiva de procesos automatizados, se dedican a la fabricación de productos primarios de hierro, acero y metales no ferrosos, tales como: ferroaleaciones, arrabio, fierro esponja, aceros especiales, planchón, tocho, palanquilla, varilla corrugada, alambrón, barras, rieles, plancha, tubos y otros productos primarios de hierro o acero y de metales no ferrosos. Incluye a empresas que realicen todo el proceso de transformación o parte de él, desde la fundición, afinación y refinación, hasta la fase de productos semiacabados por laminación, vaciado, moldeado, extrusión, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN trefilado, forjado y otros procesos para obtener alambre, perfiles estructurales, láminas, hojas, cintas, hojalata, cañerías, piezas fundidas y otros; así como a las dedicadas al aprovechamiento de chatarra para obtener piezas fundidas y coladas.
+Comprende a las empresas que, con la utilización exclusiva de procesos automatizados, se dedican a la fabricación de productos primarios de hierro, acero y metales no ferrosos, tales como: ferroaleaciones, arrabio, fierro esponja, aceros especiales, planchón, tocho, palanquilla, varilla corrugada, alambrón, barras, rieles, plancha, tubos y otros productos primarios de hierro o acero y de metales no ferrosos. Incluye a empresas que realicen todo el proceso de transformación o parte de él, desde la fundición, afinación y refinación, hasta la fase de productos semiacabados por laminación, vaciado, moldeado, extrusión, trefilado, forjado y otros procesos para obtener alambre, perfiles estructurales, láminas, hojas, cintas, hojalata, cañerías, piezas fundidas y otros; así como a las dedicadas al aprovechamiento de chatarra para obtener piezas fundidas y coladas.
 
 No se incluye en esta fracción a aquellas empresas cuyos procesos de trabajo no sean automatizados o lo sean parcialmente. Igualmente, se excluye a las empresas que tengan algunas líneas de producción totalmente automatizadas, pero que cuenten con otras que no lo sean, clasificadas en la fracción 341.
 
@@ -407,7 +407,7 @@ Comprende a las empresas que se dedican a la fabricación y/o reparación de pue
 
 Comprende a las empresas dedicadas a fabricar, ensamblar y/o reparar unidades terminadas o partes de muebles y equipos metálicos y sus partes para uso doméstico, comercial, de oficina, profesional y científico como gabinetes, camas, ataúdes, mesas, sillería, escritorios, archiveros, estanterías, cajas fuertes, cajas de seguridad, libreros, muebles y equipo para restaurantes, peluquerías, salas de belleza, centros comerciales y hospitales.
 
-354 Fabricación y/o reparación de estructuras metálicas, tanques, V REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN calderas y similares.
+354 Fabricación y/o reparación de estructuras metálicas, tanques, V calderas y similares.
 
 Comprende a las empresas que se dedican a la fabricación y/o reparación de estructuras metálicas, tanques, calderas, recipientes de placa metálica estacionarios o para montarse sobre vehículos de transporte. Incluye estructuras para puentes, juegos electromecánicos, depósitos elevados, hangares, torres, castilletes, columnas y otros sistemas de soporte estructurales.
 
@@ -429,7 +429,7 @@ Comprende a las empresas que se dedican a la fabricación de agujas, alfileres, 
 
 359 Fabricación de baterías de cocina, cucharas, cuchillos y V tenedores.
 
-Comprende a las empresas que se dedican a la fabricación de ollas, sartenes, charolas, ollas express, cafeteras, moldes para REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN hornear, cazuelas, cucharas, tenedores, cuchillos, abrelatas, destapadores, peladores, rebanadores y otros artefactos de uso doméstico similares.
+Comprende a las empresas que se dedican a la fabricación de ollas, sartenes, charolas, ollas express, cafeteras, moldes para hornear, cazuelas, cucharas, tenedores, cuchillos, abrelatas, destapadores, peladores, rebanadores y otros artefactos de uso doméstico similares.
 
 3510 Fabricación de otros productos metálicos maquinados. V
 
@@ -445,7 +445,7 @@ Comprende a las empresas que se dedican a la fabricación y/o ensamble de sembra
 
 362 Fabricación y/o ensamble de maquinaria, equipo e implementos IV para las industrias de alimentos, bebidas, tabacalera, textil, calzado, madera, cuero, impresión, hule, plástico, productos de minerales no metálicos (excepto cemento), metal mecánica y maquinaria y equipo de uso común a varias industrias.
 
-Comprende a las empresas que se dedican a la fabricación y/o ensamble de implementos, equipos y máquinas especiales para las industrias señaladas. Incluye la fabricación de bombas, motores (excepto los eléctricos y automotrices), compresores, centrifugadores, aparatos de filtración, calefacción y refrigeración, equipos de elevación, carga, descarga y manipulación (carretillas, polipastos, grúas, montacargas, escaleras electromecánicas, bandas transportadoras, elevadores para personas y mercancías y otros), básculas, herramientas neumáticas (pistolas REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN aerográficas, extintores, aparatos de chorro de arena) y otros equipos y máquinas de uso común a varias industrias.
+Comprende a las empresas que se dedican a la fabricación y/o ensamble de implementos, equipos y máquinas especiales para las industrias señaladas. Incluye la fabricación de bombas, motores (excepto los eléctricos y automotrices), compresores, centrifugadores, aparatos de filtración, calefacción y refrigeración, equipos de elevación, carga, descarga y manipulación (carretillas, polipastos, grúas, montacargas, escaleras electromecánicas, bandas transportadoras, elevadores para personas y mercancías y otros), básculas, herramientas neumáticas (pistolas aerográficas, extintores, aparatos de chorro de arena) y otros equipos y máquinas de uso común a varias industrias.
 
 No se considera en esta fracción la fabricación y/o ensamble de implementos, equipos y máquinas clasificados por separado.
 
@@ -469,7 +469,7 @@ Comprende a las empresas que se dedican a la fabricación de partes y piezas sue
 
 367 Reparación y/o mantenimiento de maquinaria y equipo en general. III Comprende a las empresas que se dedican a la reparación y/o mantenimiento de maquinaria y equipo en general. Excepto empresas que se dediquen a la instalación de maquinaria y equipo en general, clasificadas en la fracción 843.
 
-GRUPO 37 FABRICACIÓN Y/O ENSAMBLE DE MAQUINARIA, EQUIPOS, APARATOS, ACCESORIOS Y ARTÍCULOS ELÉCTRICOS, ELECTRÓNICOS Y SUS PARTES REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN FRACCIÓN ACTIVIDAD CLASE 371 Fabricación y/o ensamble de maquinaria y equipo para generación IV y transformación de energía eléctrica.
+GRUPO 37 FABRICACIÓN Y/O ENSAMBLE DE MAQUINARIA, EQUIPOS, APARATOS, ACCESORIOS Y ARTÍCULOS ELÉCTRICOS, ELECTRÓNICOS Y SUS PARTES FRACCIÓN ACTIVIDAD CLASE 371 Fabricación y/o ensamble de maquinaria y equipo para generación IV y transformación de energía eléctrica.
 
 Comprende a las empresas que se dedican a la fabricación y/o ensamble de generadores, motogeneradores, motorreductores, transformadores, reguladores, alternadores, rectificadores, motores eléctricos, punteadoras, soldadoras eléctricas y otros equipos y máquinas para generación y transformación de energía eléctrica. Excepto la fabricación y/o ensamble de partes para el sistema eléctrico de vehículos automóviles, clasificadas en la fracción 384.
 
@@ -485,7 +485,7 @@ Comprende a las empresas que se dedican a la fabricación y/o grabado de discos 
 
 Comprende a las empresas que se dedican a la fabricación y/o ensamble de unidades terminadas o partes de batidoras, tostadores, freidoras, sartenetas, cafeteras, hornos de microondas, planchas, licuadoras, extractores de jugo, aspiradoras, enceradoras, máquinas para afeitar, cortar y secar el pelo, ventiladores y otros aparatos eléctricos similares para uso doméstico o comercial. Incluye a las empresas que además de fabricar alguno(s) de los aparatos anteriormente señalados, fabrican y/o ensamblan refrigeradores, lavadoras, estufas y otros equipos similares para uso doméstico. Las empresas que se dedican en forma exclusiva a fabricar y/o ensamblar refrigeradores, lavadoras, estufas y otros equipos similares, se clasifican por separado en la fracción 3712.
 
-375 Fabricación, reconstrucción y/o ensamble de acumuladores IV eléctricos. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas que se dedican a la fabricación, reconstrucción y/o ensamble de acumuladores eléctricos (húmedos) para usos diversos.
+375 Fabricación, reconstrucción y/o ensamble de acumuladores IV eléctricos. Comprende a las empresas que se dedican a la fabricación, reconstrucción y/o ensamble de acumuladores eléctricos (húmedos) para usos diversos.
 
 376 Fabricación y/o ensamble de pilas (secas), componentes III eléctricos y electrónicos diversos.
 
@@ -509,7 +509,7 @@ Comprende a las empresas que se dedican a la fabricación de luminarias que prov
 
 3711 Fabricación en serie o con procesos continuos de acumuladores III eléctricos.
 
-Comprende a las empresas que se dedican, mediante procesos continuos o líneas de producción en serie, a la fabricación y/o ensamble de acumuladores eléctricos (húmedos) para usos diversos. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN 3712 Fabricación y/o ensamble de refrigeradores, estufas, lavadoras, IV secadoras y otros aparatos de línea blanca.
+Comprende a las empresas que se dedican, mediante procesos continuos o líneas de producción en serie, a la fabricación y/o ensamble de acumuladores eléctricos (húmedos) para usos diversos. 3712 Fabricación y/o ensamble de refrigeradores, estufas, lavadoras, IV secadoras y otros aparatos de línea blanca.
 
 Comprende a las empresas que se dedican en forma exclusiva a la fabricación y/o ensamble de aparatos eléctricos para uso comercial y doméstico, tales como: refrigeradores, congeladores, estufas, hornos, lavadoras, secadoras, lava-vajillas y otros similares de línea blanca. Incluye calentadores.
 
@@ -531,7 +531,7 @@ Comprende a las empresas que se dedican a la fabricación y/o ensamble de bobina
 
 385 Fabricación y/o ensamble de bicicletas y otros vehículos de pedal. IV
 
-Comprende a las empresas que se dedican a la fabricación y/o ensamble de bicicletas, triciclos y otros vehículos de pedal similares para transporte de personas o mercancías. Excepto REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN motocicletas clasificadas en la fracción 388.
+Comprende a las empresas que se dedican a la fabricación y/o ensamble de bicicletas, triciclos y otros vehículos de pedal similares para transporte de personas o mercancías. Excepto motocicletas clasificadas en la fracción 388.
 
 386 Fabricación, ensamble y/o reparación de carros de ferrocarril, V equipo ferroviario y sus partes.
 
@@ -551,7 +551,7 @@ Comprende a las empresas que se dedican a la fabricación y/o ensamble de motore
 
 3810 Fabricación de conjuntos mecánicos y sus partes para IV automóviles, autobuses, camiones y motocicletas.
 
-Comprende a las empresas que se dedican a la fabricación en serie de conjuntos mecánicos tales como: sistemas de transmisión, de dirección, de suspensión, de embrague, de frenos y otros, así como sus partes. Incluye a las empresas que se dedican exclusivamente a la fabricación de partes metálicas para motores de combustión interna (gasolina o diesel), tales como: monoblocks, pistones, bielas, anillos, engranes, cigüeñales, árboles de levas, cabezas de cilindros, balancines, bujes, inyectores, bombas (de enfriamiento, lubricación y combustible), múltiples (de admisión y escape), poleas, tapas cojinete (de cigüeñal y de árbol de levas), válvulas (para admisión y escape), carcazas, retenes de sello de aceite, flechas, camisas para cilindro, filtros (para aceite, combustibles y aire) y carburadores. Excepto empresas que fabriquen partes para motor, como tornillos, tuercas, arandelas, bandas, mangueras, cables, partes REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN metálicas para soporte y otras, clasificadas por separado.
+Comprende a las empresas que se dedican a la fabricación en serie de conjuntos mecánicos tales como: sistemas de transmisión, de dirección, de suspensión, de embrague, de frenos y otros, así como sus partes. Incluye a las empresas que se dedican exclusivamente a la fabricación de partes metálicas para motores de combustión interna (gasolina o diesel), tales como: monoblocks, pistones, bielas, anillos, engranes, cigüeñales, árboles de levas, cabezas de cilindros, balancines, bujes, inyectores, bombas (de enfriamiento, lubricación y combustible), múltiples (de admisión y escape), poleas, tapas cojinete (de cigüeñal y de árbol de levas), válvulas (para admisión y escape), carcazas, retenes de sello de aceite, flechas, camisas para cilindro, filtros (para aceite, combustibles y aire) y carburadores. Excepto empresas que fabriquen partes para motor, como tornillos, tuercas, arandelas, bandas, mangueras, cables, partes metálicas para soporte y otras, clasificadas por separado.
 
 GRUPO 39 OTRAS INDUSTRIAS MANUFACTURERAS FRACCIÓN ACTIVIDAD CLASE 390 Fabricación, ensamble y/o reparación de equipos, aparatos III científicos y profesionales e instrumentos de medida y control.
 
@@ -571,7 +571,7 @@ Comprende a las empresas que con empleo de maquinaria y/o equipo motorizado, se 
 
 395 Fabricación y/o ensamble de instrumentos musicales, paraguas, II juguetes y artículos deportivos, sin maquinaria ni equipo motorizado.
 
-Comprende a las empresas que sin empleo de maquinaria ni equipo motorizado, se dedican a la fabricación y/o ensamble de instrumentos musicales, paraguas, juguetes (excepto los de REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN madera), artículos deportivos y otros similares.
+Comprende a las empresas que sin empleo de maquinaria ni equipo motorizado, se dedican a la fabricación y/o ensamble de instrumentos musicales, paraguas, juguetes (excepto los de madera), artículos deportivos y otros similares.
 
 396 Fabricación de lápices, gomas, plumas y bolígrafos. III
 
@@ -597,7 +597,7 @@ DIVISIÓN 4 INDUSTRIA DE LA CONSTRUCCIÓN GRUPO 41 CONSTRUCCIÓN DE EDIFICACIONE
 
 Comprende a las empresas que se dedican a la construcción, reparación, reformas y reconstrucciones de edificaciones residenciales y no residenciales, excepto cuando se trate de obra pública.
 
-Se incluye la construcción de casas, conjuntos habitacionales, hoteles, moteles, instalaciones y edificaciones comerciales, de oficinas y servicios tales como bancos, consultorios, tiendas de REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN autoservicio, hospitales, cuarteles, iglesias, escuelas, teatros, cines y similares.
+Se incluye la construcción de casas, conjuntos habitacionales, hoteles, moteles, instalaciones y edificaciones comerciales, de oficinas y servicios tales como bancos, consultorios, tiendas de autoservicio, hospitales, cuarteles, iglesias, escuelas, teatros, cines y similares.
 
 No se considerarán dentro de esta fracción, sino de la 412, las edificaciones realizadas por patrones personas morales, así como por patrones personas físicas, cuando éstos acrediten de manera fehaciente que se dedican normalmente a actividades de construcción.
 
@@ -607,7 +607,7 @@ Comprende a las empresas que se dedican a la construcción, reparación, reforma
 
 Se considera la construcción de instalaciones y edificaciones agropecuarias, industriales, edificaciones especiales relacionadas con el transporte (estaciones de pasajeros y otras) y edificaciones industriales especiales (centrales telefónicas, telegráficas o eléctricas, industria química y otras). Obras de colección, disposición y tratamiento de aguas negras, potabilizadoras y redes de distribución; camellones, banquetas, calles, avenidas, bulevares, viaductos, pasos a desnivel, sistemas de señalamiento, alumbrado público y otras obras de urbanización y saneamiento; líneas telegráficas, telefónicas, incluso cables submarinos, télex, red de microondas, torres transmisoras de radio y televisión, tendido de líneas para transmisión por cable y otros similares, incluso radares y microondas; caminos, brechas, carreteras, autopistas, pistas de aeropuertos, sistemas ferroviarios y transporte urbano eléctrico, estructura de vías para transporte ferroviario, urbano, suburbano e interurbano, estaciones subterráneas y vías férreas (metro); oleoductos, gasoductos y conductos similares y otras obras de comunicación y transportes; presas, estaciones de bombeo, acueductos y redes de distribución de agua, canales y obras de riego, obras para control de inundaciones (malecones, diques pluviales y otras), dragado y eliminación de rocas submarinas, puertos, muelles, desembarcaderos, diques rompeolas y similares; canales de navegación y otras obras marítimas; estadios, campos y canchas deportivas; perforación de pozos de agua, petroleros o de gas; lagos y estanques artificiales; instalación y remodelación de esculturas, monumentos y otras obras de ingeniería civil no especificadas.
 
-Se incluyen las edificaciones a que se refiere la fracción 411, cuando se trate de obra pública, cuando sean realizadas por personas morales o cuando, tratándose de personas físicas, éstas acrediten de manera fehaciente que se dedican REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN normalmente a actividades de construcción.
+Se incluyen las edificaciones a que se refiere la fracción 411, cuando se trate de obra pública, cuando sean realizadas por personas morales o cuando, tratándose de personas físicas, éstas acrediten de manera fehaciente que se dedican normalmente a actividades de construcción.
 
 GRUPO 42 TRABAJOS REALIZADOS POR CONTRATISTAS ESPECIALIZADOS FRACCIÓN ACTIVIDAD CLASE 421 Instalaciones sanitarias, eléctricas, de gas y de aire IV acondicionado.
 
@@ -625,7 +625,7 @@ Comprende a las empresas que se dedican a la instalación de ventanería, herrer
 
 Comprende a las empresas que se dedican a la instalación de revestimientos de interiores o exteriores de obras de construcción en general con mezclas de cemento, yeso o cal, materiales pétreos o vidriados, pinturas, madera, impermeabilizantes, materiales térmicos o acústicos, elementos ornamentales y otros materiales o partes no especificados, vinculados al acabado o remodelación de obras de construcción. Incluye a los rotulistas que realicen trabajos en interiores y exteriores de inmuebles sobre muros, paredes, paneles y similares y/o empresas que instalen los anuncios publicitarios, así como sus elementos de suspensión o sustentación.
 
-DIVISIÓN 5 INDUSTRIA ELÉCTRICA Y CAPTACIÓN Y SUMINISTRO DE AGUA POTABLE GRUPO 50 GENERACIÓN, TRANSMISIÓN Y DISTRIBUCIÓN DE ENERGÍA REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN ELÉCTRICA FRACCIÓN ACTIVIDAD CLASE 500 Generación, transmisión y distribución de energía eléctrica. IV
+DIVISIÓN 5 INDUSTRIA ELÉCTRICA Y CAPTACIÓN Y SUMINISTRO DE AGUA POTABLE GRUPO 50 GENERACIÓN, TRANSMISIÓN Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA FRACCIÓN ACTIVIDAD CLASE 500 Generación, transmisión y distribución de energía eléctrica. IV
 
 Comprende a las empresas que realizan la generación, transmisión y distribución de energía eléctrica.
 
@@ -643,7 +643,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 613 Compraventa de alimentos, bebidas y/o productos del tabaco, con III transporte.
 
-Comprende a las empresas que se dedican a la compra, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de alimentos, bebidas y/o productos del tabaco, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías. Incluye exclusivamente el almacenamiento, venta y distribución de hielo, aguas purificadas y refrescos con transporte. Excepto supermercados o tiendas de autoservicio y empresas que se dedican a prestar el servicio de transporte, clasificados por separado.
+Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de alimentos, bebidas y/o productos del tabaco, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías. Incluye exclusivamente el almacenamiento, venta y distribución de hielo, aguas purificadas y refrescos con transporte. Excepto supermercados o tiendas de autoservicio y empresas que se dedican a prestar el servicio de transporte, clasificados por separado.
 
 614 Compraventa e introducción de animales vivos. III
 
@@ -659,7 +659,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 623 Compraventa de prendas y accesorios de vestir y artículos para I su confección, con transporte.
 
-Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de prendas y accesorios de vestir y artículos para su confección que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías. Excepto supermercados o tiendas de autoservicio y empresas que se dedican a prestar el servicio de transporte, clasificados por REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN separado.
+Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de prendas y accesorios de vestir y artículos para su confección que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías. Excepto supermercados o tiendas de autoservicio y empresas que se dedican a prestar el servicio de transporte, clasificados por separado.
 
 624 Expendios de ventas al menudeo de artículos de uso personal. I
 
@@ -679,7 +679,7 @@ Comprende a las empresas que se dedican a la compra y expendio al menudeo de med
 
 628 Compraventa de medicamentos, productos farmacéuticos, I químico-farmacéuticos y de perfumería, sin transporte.
 
-Comprende a las empresas que se dedican a la compra, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de medicamentos, productos farmacéuticos, químico- farmacéuticos, de perfumería, veterinarios y similares, que no cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías. Excepto supermercados o tiendas de autoservicio y establecimientos con transporte, clasificados por separado.
+Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de medicamentos, productos farmacéuticos, químico- farmacéuticos, de perfumería, veterinarios y similares, que no cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías. Excepto supermercados o tiendas de autoservicio y establecimientos con transporte, clasificados por separado.
 
 629 Compraventa de medicamentos, productos farmacéuticos, II químico-farmacéuticos y de perfumería, con transporte.
 
@@ -695,7 +695,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 6212 Compraventa de papelería, útiles escolares y de oficina; libros, II periódicos y revistas, con transporte.
 
-Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de papelería, útiles escolares y de oficina; libros, periódicos, revistas y similares, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías. Excepto supermercados o tiendas de autoservicio y empresas que se dedican a prestar el servicio de transporte, clasificadas por separado. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN GRUPO 63 COMPRAVENTA DE ARTÍCULOS PARA EL HOGAR FRACCIÓN ACTIVIDAD CLASE 631 Expendios de ventas al menudeo de máquinas, muebles, I aparatos e instrumentos para el hogar, sus refacciones y accesorios.
+Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de papelería, útiles escolares y de oficina; libros, periódicos, revistas y similares, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías. Excepto supermercados o tiendas de autoservicio y empresas que se dedican a prestar el servicio de transporte, clasificadas por separado. GRUPO 63 COMPRAVENTA DE ARTÍCULOS PARA EL HOGAR FRACCIÓN ACTIVIDAD CLASE 631 Expendios de ventas al menudeo de máquinas, muebles, I aparatos e instrumentos para el hogar, sus refacciones y accesorios.
 
 Comprende a las empresas que se dedican a la compra y expendio al menudeo de estufas, lavadoras, refrigeradores, cocinas integrales, aparatos eléctricos y electrónicos, radios, televisores, videocaseteras, máquinas de coser y tejer de uso doméstico, salas, recámaras, comedores y similares; incluso sus refacciones y accesorios. Excepto muebles para baño, oficinas, comercio y tiendas de departamentos especializados por línea de mercancías, almacenes y establecimientos con transporte, clasificados por separado.
 
@@ -709,7 +709,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 634 Expendios de ventas al menudeo de otros artículos para el hogar. I
 
-Comprende a las empresas que se dedican a la compra y expendio al menudeo de cristalería, loza, cuchillería y otros REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN utensilios de comedor y cocina, de diversos materiales; alfombras, linóleums, pisos vinílicos, tapices, losetas vinílicas, cortinas, persianas; discos, discos compactos, cintas magnéticas para sonidos e imágenes; obras de arte, tales como: pinturas, esculturas; artículos religiosos, artesanías, antigüedades, plantas y flores naturales o artificiales. Incluye los denominados bazares. Excepto tiendas de departamentos especializados por línea de mercancías, almacenes y establecimientos con transporte, clasificados por separado.
+Comprende a las empresas que se dedican a la compra y expendio al menudeo de cristalería, loza, cuchillería y otros utensilios de comedor y cocina, de diversos materiales; alfombras, linóleums, pisos vinílicos, tapices, losetas vinílicas, cortinas, persianas; discos, discos compactos, cintas magnéticas para sonidos e imágenes; obras de arte, tales como: pinturas, esculturas; artículos religiosos, artesanías, antigüedades, plantas y flores naturales o artificiales. Incluye los denominados bazares. Excepto tiendas de departamentos especializados por línea de mercancías, almacenes y establecimientos con transporte, clasificados por separado.
 
 635 Compraventa de otros artículos para el hogar, sin transporte. I
 
@@ -721,7 +721,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 GRUPO 64 COMPRAVENTA EN TIENDAS DE AUTOSERVICIO Y DE DEPARTAMENTOS ESPECIALIZADOS POR LÍNEA DE MERCANCÍAS FRACCIÓN ACTIVIDAD CLASE 641 Supermercados, tiendas de autoservicio y de departamentos II especializados por línea de mercancías.
 
-Comprende a las empresas consideradas o denominadas como supermercados, tiendas de autoservicio y tiendas de REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN departamentos especializados por línea de mercancías, que se dedican a la compraventa de artículos o productos misceláneos.
+Comprende a las empresas consideradas o denominadas como supermercados, tiendas de autoservicio y tiendas de departamentos especializados por línea de mercancías, que se dedican a la compraventa de artículos o productos misceláneos.
 
 GRUPO 65 COMPRAVENTA DE GASES, COMBUSTIBLES Y LUBRICANTES FRACCIÓN ACTIVIDAD CLASE 651 Compraventa, envasado y/o distribución de gases para uso V doméstico, industrial y medicinal.
 
@@ -741,7 +741,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 GRUPO 66 COMPRAVENTA DE MATERIAS PRIMAS, MATERIALES Y AUXILIARES FRACCIÓN ACTIVIDAD CLASE 661 Expendios de ventas al menudeo de materias primas II agropecuarias.
 
-Comprende a las empresas que se dedican a la compra y expendio al menudeo de algodón en pluma, semillas para siembra, cueros y pieles sin curtir, fibras textiles naturales, tabaco REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN en rama, corcho, copra, chicle y otras materias primas agropecuarias. Incluye guanos, forrajes y alimentos balanceados para animales. Excepto almacenes y establecimientos con transporte, clasificados por separado.
+Comprende a las empresas que se dedican a la compra y expendio al menudeo de algodón en pluma, semillas para siembra, cueros y pieles sin curtir, fibras textiles naturales, tabaco en rama, corcho, copra, chicle y otras materias primas agropecuarias. Incluye guanos, forrajes y alimentos balanceados para animales. Excepto almacenes y establecimientos con transporte, clasificados por separado.
 
 662 Compraventa de materias primas agropecuarias, sin transporte. III
 
@@ -755,7 +755,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de cemento, cal, yeso, arena, grava, piedra, tabiques, ladrillos, mosaicos, losetas, azulejos, tejas, láminas acanaladas y lisas, tinacos, muebles sanitarios y otros similares; madera en diversas formas, tales como: postes, polines, vigas, tableros macizos, aglomerados, triplay y similares; varilla, alambre, alambrón, mallas metálicas, tubería, perfiles metálicos, barra, placa; vaciados o partes fundidas, valvulería, herramientas, cuchillería, herrajes, cerrajería, tornillería, artículos de plomería, soldadura, empaques y otros materiales o suministros similares, que no cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías. Incluye productos de fibra de vidrio, PVC y otros. Excepto empresas que preparen las mercancías mencionadas para su venta (con procesos de corte, soldadura u otros) y almacenes o empresas con transporte, clasificados por separado.
 
-665 Compraventa de materiales para construcción tales como: IV madera, aceros y productos de ferretería, con transporte y/o REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN preparación de mercancías.
+665 Compraventa de materiales para construcción tales como: IV madera, aceros y productos de ferretería, con transporte y/o preparación de mercancías.
 
 Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de cemento, cal, yeso, arena, grava, piedra, tabiques, ladrillos, mosaicos, losetas, azulejos, tejas, láminas acanaladas y lisas, tinacos, muebles sanitarios y otros similares; madera en diversas formas, tales como: postes, polines, vigas, tableros macizos, aglomerados, triplay y similares; varilla, alambre, alambrón, mallas metálicas, tubería, perfiles metálicos, barra, placa, vaciados o partes fundidas, valvulería, herramientas, cuchillería, herrajes, cerrajería, tornillería, artículos de plomería, soldadura, empaques y otros materiales o suministros, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías, así como empresas que preparen para su venta las mercancías mencionadas (con procesos de corte, soldadura, doblado u otros). Incluye productos de fibra de vidrio, PVC y otros. Excepto empresas que se dedican a prestar el servicio de transporte, clasificadas por separado.
 
@@ -771,7 +771,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de vidrio, cristales, espejos y lunas, que no instalen ni cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías.
 
-669 Compraventa de vidrio plano, cristales, espejos y lunas, con V transporte y/o servicios de instalación. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de vidrio, cristales, espejos y lunas, que instalen y/o cuenten con transporte para la distribución o equipo para el movimiento de las mercancías. Excepto empresas que se dedican a prestar el servicio de transporte, clasificadas por separado.
+669 Compraventa de vidrio plano, cristales, espejos y lunas, con V transporte y/o servicios de instalación. Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de vidrio, cristales, espejos y lunas, que instalen y/o cuenten con transporte para la distribución o equipo para el movimiento de las mercancías. Excepto empresas que se dedican a prestar el servicio de transporte, clasificadas por separado.
 
 6610 Compraventa de fertilizantes, plaguicidas y productos químicos II (no explosivos) en envases cerrados, sin transporte.
 
@@ -791,7 +791,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 6614 Compraventa de papel y cartón nuevos, sin transporte. II
 
-Comprende a las empresas que se dedican a la compra, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de papel y cartón nuevos, que no cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías.
+Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de papel y cartón nuevos, que no cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías.
 
 6615 Compraventa de papel y cartón nuevos, con transporte. III
 
@@ -809,7 +809,7 @@ GRUPO 67 COMPRAVENTA DE MAQUINARIA, EQUIPO, INSTRUMENTOS, APARATOS, HERRAMIENTAS
 
 Comprende a las empresas que se dedican a la compra y expendio al menudeo de refacciones y accesorios para maquinaria y/o equipo industrial en general. Excepto almacenes y establecimientos con transporte, clasificados por separado.
 
-672 Compraventa de maquinaria, equipo y sus refacciones y/o II accesorios para la producción de bienes, sin transporte. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de maquinaria y equipo industrial en general, sus refacciones y/o accesorios, que no cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías.
+672 Compraventa de maquinaria, equipo y sus refacciones y/o II accesorios para la producción de bienes, sin transporte. Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de maquinaria y equipo industrial en general, sus refacciones y/o accesorios, que no cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías.
 
 673 Compraventa de maquinaria, equipo y sus refacciones y/o III accesorios para la producción de bienes, con transporte y/o servicios de reparación o mantenimiento.
 
@@ -825,7 +825,7 @@ Comprende a las empresas que se dedican a la compra y expendio al menudeo de equ
 
 676 Compraventa de equipo, mobiliario, sus partes y/o accesorios I para la prestación de servicios y el comercio, sin transporte.
 
-Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de equipo y mobiliario, sus partes y/o accesorios para oficinas y comercios, hoteles, restaurantes, peluquerías, salones de belleza, billares, boliches y otro equipo y mobiliario para la prestación de servicios y el comercio, que no cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN 677 Compraventa de equipo, mobiliario, sus partes y/o accesorios II para la prestación de servicios y el comercio, con transporte y/o servicios de instalación, reparación y mantenimiento.
+Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de equipo y mobiliario, sus partes y/o accesorios para oficinas y comercios, hoteles, restaurantes, peluquerías, salones de belleza, billares, boliches y otro equipo y mobiliario para la prestación de servicios y el comercio, que no cuenten con transporte para la distribución ni equipo para el movimiento de las mercancías. 677 Compraventa de equipo, mobiliario, sus partes y/o accesorios II para la prestación de servicios y el comercio, con transporte y/o servicios de instalación, reparación y mantenimiento.
 
 Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de equipo y mobiliario, sus partes y/o accesorios para oficinas y comercios, hoteles, restaurantes, peluquerías, salones de belleza, billares, boliches y otro equipo y mobiliario para la prestación de servicios y el comercio, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías o con servicios de instalación, reparación y mantenimiento. Excepto empresas que se dedican a prestar el servicio de transporte, clasificadas por separado.
 
@@ -841,7 +841,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de básculas, balanzas, aparatos e instrumentos médicos, quirúrgicos, de laboratorio, de prótesis, de ortopedia y otros aparatos e instrumentos técnicos científicos de medida y control, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías o con servicios de instalación, reparación o mantenimiento. Excepto empresas que se dedican a prestar el servicio de transporte, clasificadas por separado.
 
-6711 Compraventa de equipo de cómputo o de procesamiento II REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN electrónico de datos y sus periféricos, con servicios de instalación, reparación y/o mantenimiento.
+6711 Compraventa de equipo de cómputo o de procesamiento II electrónico de datos y sus periféricos, con servicios de instalación, reparación y/o mantenimiento.
 
 Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de equipo de cómputo o de procesamiento electrónico de datos; servicios de instalación, reparación y/o mantenimiento; incluye los equipos denominados periféricos, como son las impresoras, unidades de cintas y discos o disquetes, mouse, digitalizadores, scanners, monitores, modems, plotters, ampliadores de memoria, teclados y otros similares.
 
@@ -857,7 +857,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 683 Compraventa de equipo de transporte, sus refacciones, III accesorios y/o partes, con transporte y/o servicios de instalación, reparación o mantenimiento.
 
-Comprende a las empresas que se dedican a la compra, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de equipos de transporte, nuevos o usados (automóviles, autobuses, camiones, motocicletas, bicicletas, aeronaves, embarcaciones y otros equipos de transporte) y/o sus refacciones, accesorios o partes, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías o con servicios de instalación, reparación y mantenimiento; incluye empresas que se dedican al desmantelamiento o deshuese de equipo de transporte para poner sus partes o mecanismos a la venta. Excepto empresas que se dedican a prestar el servicio de transporte, clasificadas por separado.
+Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de equipos de transporte, nuevos o usados (automóviles, autobuses, camiones, motocicletas, bicicletas, aeronaves, embarcaciones y otros equipos de transporte) y/o sus refacciones, accesorios o partes, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías o con servicios de instalación, reparación y mantenimiento; incluye empresas que se dedican al desmantelamiento o deshuese de equipo de transporte para poner sus partes o mecanismos a la venta. Excepto empresas que se dedican a prestar el servicio de transporte, clasificadas por separado.
 
 GRUPO 69 COMPRAVENTA DE INMUEBLES Y ARTÍCULOS DIVERSOS FRACCIÓN ACTIVIDAD CLASE 691 Compraventa de bienes inmuebles. I
 
@@ -875,7 +875,7 @@ Comprende a las empresas que se dedican a la compra, almacenamiento y venta al m
 
 Comprende a las empresas que se dedican a la compra, almacenamiento y venta al menudeo, medio mayoreo y/o mayoreo de artículos diversos no clasificados, que cuenten con transporte para la distribución y/o equipo para el movimiento de las mercancías o que presten los servicios de instalación, reparación y mantenimiento. Excepto empresas que se dedican a prestar el servicio de transporte, clasificadas por separado.
 
-DIVISIÓN 7 TRANSPORTES Y COMUNICACIONES GRUPO 71 TRANSPORTE TERRESTRE FRACCIÓN ACTIVIDAD CLASE 711 Transporte de pasajeros. IV REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas que se dedican a prestar servicios de transporte urbano, suburbano y foráneo de pasajeros en autobuses, vehículos de ruleteo, escolares, turísticos y otros especializados. Excepto ambulancias, clasificadas en la fracción 942.
+DIVISIÓN 7 TRANSPORTES Y COMUNICACIONES GRUPO 71 TRANSPORTE TERRESTRE FRACCIÓN ACTIVIDAD CLASE 711 Transporte de pasajeros. IV Comprende a las empresas que se dedican a prestar servicios de transporte urbano, suburbano y foráneo de pasajeros en autobuses, vehículos de ruleteo, escolares, turísticos y otros especializados. Excepto ambulancias, clasificadas en la fracción 942.
 
 712 Transporte de carga. V
 
@@ -895,7 +895,7 @@ Comprende a las empresas que se dedican a prestar servicios relacionados con el 
 
 GRUPO 73 TRANSPORTE AÉREO FRACCIÓN ACTIVIDAD CLASE 730 Transporte aéreo. II
 
-Comprende a las empresas que se dedican a prestar servicios de transportación aérea, de carga y/o pasajeros, incluyendo servicios diversos a bordo de las aeronaves; así como la explotación de aeropuertos, campos de aterrizaje e instalaciones para la navegación aérea, escuelas y academias de aeronavegación, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN trabajos de aerofotografía, publicidad, propaganda y otros servicios de transporte aéreo no especificados.
+Comprende a las empresas que se dedican a prestar servicios de transportación aérea, de carga y/o pasajeros, incluyendo servicios diversos a bordo de las aeronaves; así como la explotación de aeropuertos, campos de aterrizaje e instalaciones para la navegación aérea, escuelas y academias de aeronavegación, trabajos de aerofotografía, publicidad, propaganda y otros servicios de transporte aéreo no especificados.
 
 GRUPO 74 SERVICIOS CONEXOS AL TRANSPORTE FRACCIÓN ACTIVIDAD CLASE 740 Administración de vías de comunicación, terminales y servicios II auxiliares.
 
@@ -919,7 +919,7 @@ Comprende a las empresas que se dedican al alquiler de aeronaves, carros de ferr
 
 755 Servicios con transporte de agencias de gestión aduanal, de IV mensajería y paquetería, de equipajes, viajes, turísticas y otras actividades relacionadas con los transportes en general.
 
-Comprende a las empresas que se dedican a prestar servicios turísticos, de representación y gestión aduanal, de equipajes, organización y promoción de viajes, venta de boletos y reservación para hospedaje, que cuenten con operadores de vehículos y/o transporte para su distribución y entrega. Incluye a las empresas que se dedican a la recepción, almacenamiento, REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN manipulación de carga y embalaje, distribución y entrega de mensajería y paquetería; así como a las academias o escuelas de manejo y otras actividades relacionadas con los transportes en general no clasificadas anteriormente. Excepto las que se dedican exclusivamente a la transportación turística de pasajeros, que se clasifican en la fracción 711.
+Comprende a las empresas que se dedican a prestar servicios turísticos, de representación y gestión aduanal, de equipajes, organización y promoción de viajes, venta de boletos y reservación para hospedaje, que cuenten con operadores de vehículos y/o transporte para su distribución y entrega. Incluye a las empresas que se dedican a la recepción, almacenamiento, manipulación de carga y embalaje, distribución y entrega de mensajería y paquetería; así como a las academias o escuelas de manejo y otras actividades relacionadas con los transportes en general no clasificadas anteriormente. Excepto las que se dedican exclusivamente a la transportación turística de pasajeros, que se clasifican en la fracción 711.
 
 GRUPO 76 COMUNICACIONES FRACCIÓN ACTIVIDAD CLASE 760 Comunicaciones. II
 
@@ -935,7 +935,7 @@ Comprende a las empresas que se dedican a prestar servicios de asesoramiento de 
 
 GRUPO 83 SERVICIOS RELACIONADOS CON INMUEBLES FRACCIÓN ACTIVIDAD CLASE 830 Servicios relacionados con inmuebles. I
 
-Comprende a las empresas que se dedican al alquiler de terrenos, locales, edificios, piso para comercios ambulantes en tianguis y bazares. Incluye los servicios de corredores de bienes raíces y administración de inmuebles, que no cuenten con REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN personal para mantenimiento y/o limpieza de los mismos.
+Comprende a las empresas que se dedican al alquiler de terrenos, locales, edificios, piso para comercios ambulantes en tianguis y bazares. Incluye los servicios de corredores de bienes raíces y administración de inmuebles, que no cuenten con personal para mantenimiento y/o limpieza de los mismos.
 
 GRUPO 84 SERVICIOS PROFESIONALES Y TÉCNICOS FRACCIÓN ACTIVIDAD CLASE 841 Servicios profesionales y técnicos. I
 
@@ -955,7 +955,7 @@ Comprende a las empresas que se dedican a prestar servicios de laboratorio, en f
 
 Incluye a los centros de verificación de emisión de contaminantes automotrices, que no proporcionen los servicios de reparación, lavado, engrasado, estacionamiento de vehículos, ni servicios mecánicos y/o de hojalatería, que se clasifican por separado en la fracción 891.
 
-GRUPO 85 SERVICIOS DE ALQUILER; EXCEPTO DE INMUEBLES FRACCIÓN ACTIVIDAD CLASE 851 Servicios de alquiler de maquinaria y equipo agrícola. III REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas que se dedican al alquiler de maquinaria y equipo agrícola.
+GRUPO 85 SERVICIOS DE ALQUILER; EXCEPTO DE INMUEBLES FRACCIÓN ACTIVIDAD CLASE 851 Servicios de alquiler de maquinaria y equipo agrícola. III Comprende a las empresas que se dedican al alquiler de maquinaria y equipo agrícola.
 
 852 Servicios de alquiler de maquinaria y equipo para la construcción V con operadores.
 
@@ -981,7 +981,7 @@ GRUPO 86 SERVICIOS DE ALOJAMIENTO TEMPORAL FRACCIÓN ACTIVIDAD CLASE 860 Servici
 
 Comprende a las empresas que prestan servicios de alojamiento en hoteles, moteles, campamentos para casas móviles, casas de huéspedes, departamentos, albergues juveniles, centros vacacionales, centros para socios (tiempos compartidos) y otros establecimientos de hospedaje.
 
-GRUPO 87 PREPARACIÓN Y SERVICIO DE ALIMENTOS Y BEBIDAS FRACCIÓN ACTIVIDAD CLASE REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN 871 Preparación y servicio de alimentos. II
+GRUPO 87 PREPARACIÓN Y SERVICIO DE ALIMENTOS Y BEBIDAS FRACCIÓN ACTIVIDAD CLASE 871 Preparación y servicio de alimentos. II
 
 Comprende a las empresas que se dedican a la preparación y a prestar servicios de alimentos en restaurantes, cafés, fondas, cocinas económicas, loncherías, ostionerías, rosticerías, pizzerías, taquerías, torterías, neverías, refresquerías, merenderos, cenadurías y similares, que cuenten o no con el servicio de entrega a domicilio. Incluye a aquellas empresas que además de prestar los servicios antes mencionados, simultáneamente preparen y sirvan bebidas alcohólicas. Excepto empresas que se dedican a la preparación y servicio de bebidas en cantinas, bares, cervecerías y otros similares, clasificadas en la fracción 872.
 
@@ -1001,7 +1001,7 @@ Comprende a las empresas que se dedican a la producción, distribución, alquile
 
 Comprende a las empresas que se dedican a promover y presentar espectáculos en hipódromos, galgódromos, autódromos, velódromos, lienzos charros, palenques, plazas de toros y similares.
 
-884 Servicios de centros nocturnos, salones de baile y casinos. II REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN Comprende a las empresas que ofrecen la preparación y servicio de alimentos y bebidas alcohólicas, presentación de espectáculos y variedades en centros nocturnos, salones de baile, discotecas, casinos y similares.
+884 Servicios de centros nocturnos, salones de baile y casinos. II Comprende a las empresas que ofrecen la preparación y servicio de alimentos y bebidas alcohólicas, presentación de espectáculos y variedades en centros nocturnos, salones de baile, discotecas, casinos y similares.
 
 885 Promoción y montaje de exposiciones de pintura y escultura. I
 
@@ -1021,7 +1021,7 @@ Comprende a las empresas que prestan servicios de reparación o mantenimiento de
 
 893 Servicios de reparación de artículos de uso doméstico y personal, IV con maquinaria y/o equipo motorizado.
 
-Comprende a las empresas que prestan servicios de reparación o REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN mantenimiento de artículos de uso doméstico y personal, con empleo de maquinaria y/o equipo motorizado. Incluye talleres de reparación de calzado, afiladurías y cerrajerías.
+Comprende a las empresas que prestan servicios de reparación o mantenimiento de artículos de uso doméstico y personal, con empleo de maquinaria y/o equipo motorizado. Incluye talleres de reparación de calzado, afiladurías y cerrajerías.
 
 894 Servicios para el aseo personal y sanitarios. II
 
@@ -1045,7 +1045,7 @@ Comprende a las empresas que prestan el servicio de limpieza en exteriores de in
 
 899 Servicios de fumigación, desinfección y control de plagas. III
 
-Comprende a las empresas que realizan actividades de fumigación, desinfección y control de plagas en plantaciones agrícolas, establecimientos industriales, comerciales, de servicios y del hogar. Excepto la desinfección y erradicación de plagas propias del ganado y la aerotecnia agrícola, clasificadas por REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN separado.
+Comprende a las empresas que realizan actividades de fumigación, desinfección y control de plagas en plantaciones agrícolas, establecimientos industriales, comerciales, de servicios y del hogar. Excepto la desinfección y erradicación de plagas propias del ganado y la aerotecnia agrícola, clasificadas por separado.
 
 8910 Aerotecnia agrícola. V
 
@@ -1067,7 +1067,7 @@ Comprende a las empresas que se dedican exclusivamente a prestar servicios de es
 
 DIVISIÓN 9 SERVICIOS SOCIALES Y COMUNALES GRUPO 91 SERVICIOS DE ENSEÑANZA, INVESTIGACIÓN CIENTÍFICA Y DIFUSIÓN CULTURAL FRACCIÓN ACTIVIDAD CLASE 911 Servicios de enseñanza académica, capacitación, investigación I científica y difusión cultural.
 
-Comprende a las empresas que prestan servicios de guardería, enseñanza preprimaria, primaria, secundaria, media-superior (preparatoria, vocacional), subprofesional, profesional, enseñanza comercial, idiomas y cursos por correspondencia; capacitación técnica de oficios y artesanías; música, danza y otras artes; servicios de investigación científica; bibliotecas, museos, jardines botánicos y otros servicios similares de difusión cultural. Excepto academias o escuelas de manejo de vehículos y de cultura física (gimnasios) clasificadas en las fracciones 755 y 881, respectivamente. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN GRUPO 92 SERVICIOS MÉDICOS, ASISTENCIA SOCIAL Y VETERINARIOS FRACCIÓN ACTIVIDAD CLASE 921 Servicios médicos. I
+Comprende a las empresas que prestan servicios de guardería, enseñanza preprimaria, primaria, secundaria, media-superior (preparatoria, vocacional), subprofesional, profesional, enseñanza comercial, idiomas y cursos por correspondencia; capacitación técnica de oficios y artesanías; música, danza y otras artes; servicios de investigación científica; bibliotecas, museos, jardines botánicos y otros servicios similares de difusión cultural. Excepto academias o escuelas de manejo de vehículos y de cultura física (gimnasios) clasificadas en las fracciones 755 y 881, respectivamente. GRUPO 92 SERVICIOS MÉDICOS, ASISTENCIA SOCIAL Y VETERINARIOS FRACCIÓN ACTIVIDAD CLASE 921 Servicios médicos. I
 
 Comprende a las empresas que se dedican a proporcionar servicios médicos en hospitales, sanatorios, clínicas generales, maternidades, consultorios y clínicas dentales, incluso servicios de obstetricia y enfermería. Excepto las empresas que además de los servicios médicos, cuenten con transporte; operadores para traslado de pacientes; laboratorios de análisis químico-biológicos; bancos de sangre; servicios radiológicos, radioterapéuticos y otros similares, clasificados en la fracción 922.
 
@@ -1085,7 +1085,7 @@ Comprende a las empresas que se dedican a proporcionar servicios de veterinaria,
 
 GRUPO 93 AGRUPACIONES MERCANTILES, PROFESIONALES, CÍVICAS, POLÍTICAS, LABORALES Y RELIGIOSAS FRACCIÓN ACTIVIDAD CLASE 931 Asociaciones y organizaciones comerciales, profesionales, I cívicas, laborales y políticas.
 
-Comprende asociaciones y organizaciones tales como: cámaras industriales, de comercio, agricultores, ganaderos, abogados, actuarios, médicos, ingenieros; cívicas, fraternidades, clubes literarios e históricos, políticas, sindicales, laborales y otras REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN asociaciones y organizaciones similares.
+Comprende asociaciones y organizaciones tales como: cámaras industriales, de comercio, agricultores, ganaderos, abogados, actuarios, médicos, ingenieros; cívicas, fraternidades, clubes literarios e históricos, políticas, sindicales, laborales y otras asociaciones y organizaciones similares.
 
 933 Organizaciones religiosas. I
 
@@ -1099,7 +1099,7 @@ Cuando se trate de la incorporación parcial al I.M.S.S. de servicios generales 
 
 942 Seguridad pública. III
 
-Comprende a las entidades de servicios de vigilancia, investigación policiaca, incluso regularización de tránsito, combate de incendios y otros de esa índole. Así como de servicios de corrección y rehabilitación social. Incluye a las empresas que prestan en forma exclusiva el servicio de ambulancias para traslado de enfermos, personas accidentadas y otros servicios similares. REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN 943 Seguridad social. II
+Comprende a las entidades de servicios de vigilancia, investigación policiaca, incluso regularización de tránsito, combate de incendios y otros de esa índole. Así como de servicios de corrección y rehabilitación social. Incluye a las empresas que prestan en forma exclusiva el servicio de ambulancias para traslado de enfermos, personas accidentadas y otros servicios similares. 943 Seguridad social. II
 
 Comprende a las instituciones públicas que tienen por finalidad prestar asistencia médica, proteger los medios de subsistencia y prestar servicios sociales para el bienestar individual y colectivo.
 

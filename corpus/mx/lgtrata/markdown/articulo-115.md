@@ -21,7 +21,9 @@ Corresponde a los municipios y a las demarcaciones territoriales de la Ciudad de
 
 I. Instrumentar políticas y acciones para prevenir y erradicar la esclavitud, la trata de personas o demás delitos previstos en esta Ley;
 
-II. Apoyar la creación de programas de sensibilización y capacitación para las y los servidores públicos y funcionarios que puedan estar en contacto con posibles víctimas de los delitos previstos en esta Ley; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS III. Apoyar la creación de refugios o modelos de protección y asistencia de emergencia, hasta que la autoridad competente tome conocimiento del hecho y proceda a proteger y asistir a la víctima, ofendido o testigo de los delitos previstos en esta Ley;
+II. Apoyar la creación de programas de sensibilización y capacitación para las y los servidores públicos y funcionarios que puedan estar en contacto con posibles víctimas de los delitos previstos en esta Ley;
+
+III. Apoyar la creación de refugios o modelos de protección y asistencia de emergencia, hasta que la autoridad competente tome conocimiento del hecho y proceda a proteger y asistir a la víctima, ofendido o testigo de los delitos previstos en esta Ley;
 
 IV. Detectar y prevenir la trata de personas y demás delitos previstos en esta Ley, en el territorio bajo su responsabilidad, a través de la autorización de funcionamiento de establecimientos como bares, clubs nocturnos, lugares de espectáculos, recintos feriales o deportivos, salones de masajes, hoteles, baños, vapores, loncherías, restaurantes, vía pública, cafés internet y otros, así como a través de la vigilancia e inspección de estos negocios, y
 

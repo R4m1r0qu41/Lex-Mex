@@ -23,6 +23,8 @@ II. Dirección General de Investigación Criminal en Fiscalías Centrales;
 
 III. Dirección General de Investigación Criminal en Fiscalías Desconcentradas;
 
-IV. Dirección Ejecutiva de Administración; V. El Centro de Arraigo, y
+IV. Dirección Ejecutiva de Administración;
+
+V. El Centro de Arraigo, y
 
 VI. El Grupo Especial de Reacción e Intervención (GERI).

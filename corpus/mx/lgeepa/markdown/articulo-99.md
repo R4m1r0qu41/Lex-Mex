@@ -29,7 +29,9 @@ IV. La determinación de usos, reservas y destinos en predios forestales;
 
 V.- El establecimiento de zonas y reservas forestales; Fracción reformada DOF 13-12-1996
 
-VI. La determinación o modificación de los límites establecidos en los coeficientes de agostadero; VII.- Las disposiciones, lineamientos técnicos y programas de protección y restauración de suelos en las actividades agropecuarias, forestales e hidráulicas; Fracción reformada DOF 13-12-1996
+VI. La determinación o modificación de los límites establecidos en los coeficientes de agostadero;
+
+VII.- Las disposiciones, lineamientos técnicos y programas de protección y restauración de suelos en las actividades agropecuarias, forestales e hidráulicas; Fracción reformada DOF 13-12-1996
 
 VIII. El establecimiento de distritos de conservación del suelo;
 

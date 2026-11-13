@@ -27,7 +27,9 @@ III. Haga proselitismo o presione objetivamente a los electores el día de la jo
 
 IV. Obstaculice o interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electorales;
 
-V. Recoja en cualquier tiempo, sin causa prevista por la ley, credenciales para votar de los ciudadanos; VI. Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
+V. Recoja en cualquier tiempo, sin causa prevista por la ley, credenciales para votar de los ciudadanos;
+
+VI. Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
 
 VII. El día de la jornada electoral viole, de cualquier manera, el derecho del ciudadano a emitir su voto en secreto;
 

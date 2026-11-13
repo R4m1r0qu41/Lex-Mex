@@ -33,7 +33,9 @@ V. Determinar las características y especificaciones técnicas de los caminos y
 
 VI. Expedir las normas oficiales mexicanas de caminos y puentes así como de vehículos de autotransporte y sus servicios auxiliares;
 
-VII. Derogada Fracción derogada DOF 04-01-1999 VIII. Establecer las bases generales de regulación tarifaria.
+VII. Derogada Fracción derogada DOF 04-01-1999
+
+VIII. Establecer las bases generales de regulación tarifaria.
 
 Las motocicletas deberán pagar el 50 por ciento del peaje que paguen los automóviles, y
 

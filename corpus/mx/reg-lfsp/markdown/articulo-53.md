@@ -21,7 +21,9 @@ La autoridad, practicará las visitas de verificación, en los términos previst
 
 I. En el caso de no encontrarse el Prestador de Servicios o su representante legal, se dejará citatorio en el domicilio en que se actúa, para el efecto de que se espere al verificador, señalando día y hora en que habrá de practicarse la diligencia, apercibido que, de no hacerlo, se entenderá la diligencia con quién se encuentre o, en su caso, se estimará que existe oposición a la práctica de la misma, cuando no se permita el acceso o no se den las facilidades necesarias para desarrollar la visita de verificación;
 
-II. Los Centros de Capacitación, los Prestadores de Servicios y el personal directivo, administrativo u operativo sujetos de verificación, deberán de identificarse plenamente y señalar la función que desempeñen dentro de la empresa; III. Cuando no sea posible terminar la visita de verificación el día de su inicio, se cerrará el acta fijándose día y hora para su continuación;
+II. Los Centros de Capacitación, los Prestadores de Servicios y el personal directivo, administrativo u operativo sujetos de verificación, deberán de identificarse plenamente y señalar la función que desempeñen dentro de la empresa;
+
+III. Cuando no sea posible terminar la visita de verificación el día de su inicio, se cerrará el acta fijándose día y hora para su continuación;
 
 IV. La persona visitada está obligada a exhibir, cuando proceda y conforme a la orden respectiva, las facturas, contratos de prestación de servicios o documentos análogos, con los que acredite la prestación de servicios en los términos que tiene autorizados.
 

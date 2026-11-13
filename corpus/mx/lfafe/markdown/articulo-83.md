@@ -7,8 +7,8 @@ provision_type: article
 number: "83"
 aliases: ["LFAFE — Artículo 83"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf
 source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 ---
@@ -21,7 +21,9 @@ A la persona que, sin licencia vigente, porte un arma de las reservadas para el 
 
 I.- Prisión de tres meses a un año y multa de una a diez veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos i) y m) del artículo [11](articulo-11.md) de esta [Ley](articulo-1o-Bis.md);
 
-II.- Prisión de cinco a diez años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de armas, sus piezas o componentes comprendidas en los incisos a) y b) del artículo [11](articulo-11.md) de esta Ley; III.- Prisión de seis a quince años y multa de ciento cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos c), d) y e) del artículo [11](articulo-11.md) de esta Ley, y
+II.- Prisión de cinco a diez años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de armas, sus piezas o componentes comprendidas en los incisos a) y b) del artículo [11](articulo-11.md) de esta Ley;
+
+III.- Prisión de seis a quince años y multa de ciento cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de las armas comprendidas en los incisos c), d) y e) del artículo [11](articulo-11.md) de esta Ley, y
 
 IV.- Prisión de veinte a treinta años y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, cuando se trate de los comprendidos en los incisos g), h), j), k) y l) del artículo [11](articulo-11.md) y [11 Bis](articulo-11-Bis.md) de esta Ley.
 

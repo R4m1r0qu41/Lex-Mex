@@ -27,7 +27,9 @@ III. Actualizar las bases técnicas del sistema;
 
 IV. Precisar los elementos mínimos que deben contener los manuales de contabilidad;
 
-V. Definir la forma y términos en que los entes públicos integrarán y consolidarán la información presupuestaria y contable; VI. Programar los estudios que se consideren indispensables en apoyo del desarrollo normativo y la modernización de la gestión pública, en materia de contabilidad gubernamental;
+V. Definir la forma y términos en que los entes públicos integrarán y consolidarán la información presupuestaria y contable;
+
+VI. Programar los estudios que se consideren indispensables en apoyo del desarrollo normativo y la modernización de la gestión pública, en materia de contabilidad gubernamental;
 
 VII. Realizar los procesos de consulta no vinculantes sobre los proyectos de normas contables ante las instituciones públicas y colegiadas que se estimen necesarios;
 

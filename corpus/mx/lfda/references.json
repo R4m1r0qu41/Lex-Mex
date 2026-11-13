@@ -251,19 +251,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfda:article:114-quinquies:reference:613-616:148:direct",
+    "id": "urn:lex-mx:federal:statute:lfda:article:114-quinquies:reference:614-617:148:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfda:article:114-quinquies",
     "source_span": "148",
-    "start_char": 613,
-    "end_char": 616,
+    "start_char": 614,
+    "end_char": 617,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfda",
     "target_provision_id": "urn:lex-mx:federal:statute:lfda:article:148",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VIII",
-        "start_char": 618,
-        "end_char": 631
+        "start_char": 619,
+        "end_char": 632
       }
     ],
     "basis": "express_cross_reference",
@@ -274,19 +274,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfda:article:114-quinquies:reference:634-637:209:direct",
+    "id": "urn:lex-mx:federal:statute:lfda:article:114-quinquies:reference:635-638:209:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfda:article:114-quinquies",
     "source_span": "209",
-    "start_char": 634,
-    "end_char": 637,
+    "start_char": 635,
+    "end_char": 638,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfda",
     "target_provision_id": "urn:lex-mx:federal:statute:lfda:article:209",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VI",
-        "start_char": 639,
-        "end_char": 650
+        "start_char": 640,
+        "end_char": 651
       }
     ],
     "basis": "express_cross_reference",
@@ -473,11 +473,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfda:article:184:reference:341-344:179:direct",
+    "id": "urn:lex-mx:federal:statute:lfda:article:184:reference:342-345:179:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfda:article:184",
     "source_span": "179",
-    "start_char": 341,
-    "end_char": 344,
+    "start_char": 342,
+    "end_char": 345,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfda",
     "target_provision_id": "urn:lex-mx:federal:statute:lfda:article:179",
     "qualifiers": [],
@@ -521,19 +521,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfda:article:188:reference:2054-2055:188:direct",
+    "id": "urn:lex-mx:federal:statute:lfda:article:188:reference:2055-2056:188:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfda:article:188",
     "source_span": "I",
-    "start_char": 2054,
-    "end_char": 2055,
+    "start_char": 2055,
+    "end_char": 2056,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfda",
     "target_provision_id": "urn:lex-mx:federal:statute:lfda:article:188",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 2054,
-        "end_char": 2055
+        "start_char": 2055,
+        "end_char": 2056
       }
     ],
     "basis": "express_cross_reference",
@@ -592,19 +592,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfda:article:204:reference:380-397:203:relative",
+    "id": "urn:lex-mx:federal:statute:lfda:article:204:reference:381-398:203:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lfda:article:204",
     "source_span": "artículo anterior",
-    "start_char": 380,
-    "end_char": 397,
+    "start_char": 381,
+    "end_char": 398,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfda",
     "target_provision_id": "urn:lex-mx:federal:statute:lfda:article:203",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VIII",
-        "start_char": 362,
-        "end_char": 375
+        "start_char": 363,
+        "end_char": 376
       }
     ],
     "basis": "express_cross_reference",
@@ -1005,14 +1005,7 @@
     "end_char": 462,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfda",
     "target_provision_id": "urn:lex-mx:federal:statute:lfda:article:87",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción VII",
-        "start_char": 478,
-        "end_char": 490
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

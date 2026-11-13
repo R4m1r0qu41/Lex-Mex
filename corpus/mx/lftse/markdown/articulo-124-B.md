@@ -23,6 +23,4 @@ I.- Conocer, tramitar y resolver los conflictos individuales que se susciten ent
 
 II.- Las demás que les confieran las Leyes.
 
-Artículo adicionado DOF 12-01-1984 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL
+Artículo adicionado DOF 12-01-1984

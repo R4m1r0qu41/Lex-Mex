@@ -19,7 +19,9 @@ source_sha256: 56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410
 
 Durante la Declaratoria por situación de emergencia, la autoridad que la declara deberá, en el ámbito de su competencia, establecer al menos las siguientes acciones:
 
-I. Elaborar un plan de respuesta y atención inmediata a la emergencia; II. Realizar los inventarios de los recursos alimentarios disponibles en los almacenes de la localidad correspondiente, de manera periódica y sistemática, y asegurar su renovación, a fin de calcular la forma en que se deberá racionar su consumo a corto y mediano plazo, entre la población afectada, asegurándose que en ningún caso haya descomposición de los productos de las reservas estratégicas;
+I. Elaborar un plan de respuesta y atención inmediata a la emergencia;
+
+II. Realizar los inventarios de los recursos alimentarios disponibles en los almacenes de la localidad correspondiente, de manera periódica y sistemática, y asegurar su renovación, a fin de calcular la forma en que se deberá racionar su consumo a corto y mediano plazo, entre la población afectada, asegurándose que en ningún caso haya descomposición de los productos de las reservas estratégicas;
 
 III. Ejecutar las acciones a que se refiere la fracción IV del artículo [104](articulo-104.md) de esta Ley, apegándose estrictamente a lo dispuesto en la Declaratoria de actuación;
 

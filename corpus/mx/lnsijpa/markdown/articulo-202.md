@@ -21,7 +21,9 @@ Legitimación Se reconoce legitimidad para formular las peticiones ante las dire
 
 I. La persona adolescente en internamiento;
 
-II. Los familiares hasta el cuarto grado de parentesco por consanguinidad de la persona adolescente en internamiento, su cónyuge o concubinario; III. Los visitantes;
+II. Los familiares hasta el cuarto grado de parentesco por consanguinidad de la persona adolescente en internamiento, su cónyuge o concubinario;
+
+III. Los visitantes;
 
 IV. Los defensores públicos o privados;
 

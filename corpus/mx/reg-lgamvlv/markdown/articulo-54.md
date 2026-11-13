@@ -7,8 +7,8 @@ provision_type: article
 number: "54"
 aliases: ["REG-LGAMVLV — Artículo 54"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf
 source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 ---
@@ -31,7 +31,9 @@ V. Difundir los resultados de la [Política Nacional Integral](articulo-2.md), a
 
 VI. Vigilar que los medios de comunicación favorezcan la erradicación de la Violencia contra las Mujeres y sancionar a dichos medios que no cumplan con esta obligación en términos de la Ley;
 
-VII. Dar seguimiento a los trabajos del grupo interinstitucional y multidisciplinario, así como la implementación de la declaratoria de la alerta de violencia de género; VIII. Elaborar y ejecutar políticas y programas para prevenir la comisión de delitos vinculados con la Violencia contra las Mujeres, en el ámbito de su competencia;
+VII. Dar seguimiento a los trabajos del grupo interinstitucional y multidisciplinario, así como la implementación de la declaratoria de la alerta de violencia de género;
+
+VIII. Elaborar y ejecutar políticas y programas para prevenir la comisión de delitos vinculados con la Violencia contra las Mujeres, en el ámbito de su competencia;
 
 IX. Diseñar y aplicar medidas de readaptación social con Perspectiva de Género que permitan prevenir la Violencia contra las Mujeres, en congruencia con el Programa;
 

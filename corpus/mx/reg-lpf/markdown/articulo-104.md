@@ -25,7 +25,9 @@ II. Proponer la participación con otras autoridades competentes en el seguimien
 
 III. Supervisar que el desempeño de los Integrantes en las intervenciones de comunicaciones privadas, las operaciones encubiertas y usuarios simulados, se haya ajustado a las disposiciones legales aplicables, una vez concluida la operación, preservando la secrecía de la información;
 
-IV. Asentar constancia por escrito de todas sus actuaciones; V. Tramitar las peticiones y sugerencias de los particulares sobre el trámite y el mejoramiento de los servicios a cargo de la Institución;
+IV. Asentar constancia por escrito de todas sus actuaciones;
+
+V. Tramitar las peticiones y sugerencias de los particulares sobre el trámite y el mejoramiento de los servicios a cargo de la Institución;
 
 VI. Ejecutar procedimientos de inspección para detectar deficiencias, irregularidades o faltas en la aplicación de procesos en las distintas áreas de la Institución, así como en el cumplimiento de las obligaciones de sus Integrantes;
 

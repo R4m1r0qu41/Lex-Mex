@@ -27,4 +27,4 @@ En caso de reincidencia, se aplicará multa hasta por el doble del límite máxi
 
 La Secretaría de Relaciones Exteriores fijará el monto de la sanción, considerando las circunstancias pertinentes del infractor y el grado en que resulten afectados el comercio o la inversión, según la Secretaría de Economía. Párrafo reformado DOF 09-04-2012
 
-LEY DE PROTECCIÓN AL COMERCIO Y LA INVERSIÓN DE NORMAS EXTRANJERAS QUE CONTRAVENGAN EL DERECHO INTERNACIONAL El procedimiento de imposición de las sanciones administrativas se regirá por la Ley Federal del Procedimiento Administrativo.
+El procedimiento de imposición de las sanciones administrativas se regirá por la Ley Federal del Procedimiento Administrativo.

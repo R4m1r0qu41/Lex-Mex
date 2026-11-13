@@ -31,7 +31,9 @@ V. Identificar a los responsables que cuenten con políticas de privacidad aline
 
 VI. Facilitar la coordinación entre los distintos esquemas de autorregulación reconocidos internacionalmente;
 
-VII. Facilitar las transferencias con responsables que cuenten con esquemas de autorregulación como puerto seguro; VIII. Promover el compromiso de los responsables con la rendición de cuentas y adopción de políticas internas consistentes con criterios externos, así como para auspiciar mecanismos para implementar políticas de privacidad, incluyendo herramientas, transparencia, supervisión interna continua, evaluaciones de riesgo, verificaciones externas y sistemas de remediación, y
+VII. Facilitar las transferencias con responsables que cuenten con esquemas de autorregulación como puerto seguro;
+
+VIII. Promover el compromiso de los responsables con la rendición de cuentas y adopción de políticas internas consistentes con criterios externos, así como para auspiciar mecanismos para implementar políticas de privacidad, incluyendo herramientas, transparencia, supervisión interna continua, evaluaciones de riesgo, verificaciones externas y sistemas de remediación, y
 
 IX. Encauzar mecanismos de solución alternativa de controversias entre responsables, titulares y terceras personas, como son los de conciliación y mediación.
 

@@ -47,7 +47,9 @@ II. Las determinaciones sobre el otorgamiento de las Constancias de Mayoría y V
 
 III. Los resultados consignados en las actas de cómputo de entidad federativa, por error aritmético.
 
-e) En la elección de senadores por el principio de representación proporcional, los resultados consignados en las actas de cómputo de entidad federativa respectivas: I. Por nulidad de la votación recibida en una o varias casillas; o
+e) En la elección de senadores por el principio de representación proporcional, los resultados consignados en las actas de cómputo de entidad federativa respectivas:
+
+I. Por nulidad de la votación recibida en una o varias casillas; o
 
 II. Por error aritmético.
 

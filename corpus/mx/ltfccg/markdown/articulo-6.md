@@ -27,7 +27,9 @@ I. Importe del préstamo y forma de entrega del mismo;
 
 II. Forma de amortización;
 
-III. La tasa de interés ordinaria, moratoria y el Costo Anual Total; IV. Comisiones aplicables;
+III. La tasa de interés ordinaria, moratoria y el Costo Anual Total;
+
+IV. Comisiones aplicables;
 
 V. Aceptación expresa por parte de la Entidad que otorga el crédito, de que recibirá el pago adelantado del mismo por parte de cualquiera otra Entidad y le cederá todos sus derechos derivados del contrato correspondiente, así como la aceptación expresa de que admitirá la sustitución de deudor, en términos de los artículos [13](articulo-13.md) y [14](articulo-14.md) de la presente Ley; Fracción reformada DOF 13-06-2003
 

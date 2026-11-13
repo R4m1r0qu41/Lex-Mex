@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lftaipg:article:2",
-      "provision_text_sha256": "b0e287ad006a6a56091700f75d82d1415db5d2403ab0b5b48bd4c55399c59dff",
+      "provision_text_sha256": "982d8b1f0da2c052b2940fc0fa43f65ccf10735c10d5cc2e360a92a06b61ba6f",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -16,13 +16,14 @@
         "III",
         "IV",
         "V",
-        "VI"
+        "VI",
+        "VII"
       ],
       "unread_fractions": [],
-      "term_count": 6
+      "term_count": 7
     }
   ],
   "imports": [],
-  "term_count": 6,
+  "term_count": 7,
   "usage_count": 0
 }

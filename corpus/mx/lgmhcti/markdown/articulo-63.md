@@ -33,7 +33,9 @@ VI. Impulsar y apoyar la ciencia básica y de frontera en todas las áreas y cam
 
 VII. Promover y articular la incidencia de las actividades públicas en materia de humanidades, ciencias, tecnologías e innovación en la prevención, atención y solución de problemáticas nacionales;
 
-VIII. Promover y apoyar el desarrollo de tecnologías estratégicas de vanguardia y el impulso a la innovación abierta; IX. Promover y garantizar el acceso abierto a la información que derive de la investigación humanística y científica, el desarrollo tecnológico y la innovación apoyados con recursos públicos;
+VIII. Promover y apoyar el desarrollo de tecnologías estratégicas de vanguardia y el impulso a la innovación abierta;
+
+IX. Promover y garantizar el acceso abierto a la información que derive de la investigación humanística y científica, el desarrollo tecnológico y la innovación apoyados con recursos públicos;
 
 X. Otorgar, con cargo a su presupuesto, apoyos para el desarrollo, mantenimiento y optimización de infraestructuras y equipamientos destinados a la investigación humanística y científica, el desarrollo tecnológico y la innovación;
 

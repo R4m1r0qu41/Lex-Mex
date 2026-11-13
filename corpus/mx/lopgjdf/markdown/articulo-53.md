@@ -29,7 +29,9 @@ IV. Opinar acerca de los planes y programas de estudio para la formación inicia
 
 V. Vigilar la calidad de la educación que se imparta en el Instituto, incluyendo la de su plantilla de profesores e instructores;
 
-VI. Fungir como órgano asesor de la Procuraduría en materia de política criminal y de reforma penal; VII. Emitir opinión en torno a los proyectos de investigación sobre temas relacionados con las ciencias penales y la política criminal que presenten los investigadores del Instituto, y,
+VI. Fungir como órgano asesor de la Procuraduría en materia de política criminal y de reforma penal;
+
+VII. Emitir opinión en torno a los proyectos de investigación sobre temas relacionados con las ciencias penales y la política criminal que presenten los investigadores del Instituto, y,
 
 VIII. Las demás que establezcan las normas reglamentarias y demás disposiciones legales aplicables.
 

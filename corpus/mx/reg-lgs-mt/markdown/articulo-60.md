@@ -21,7 +21,9 @@ Los responsables de los Bancos de Tejidos tendrán las siguientes funciones:
 
 I. Vigilar que la Preservación y almacenamiento de los Tejidos se realice de acuerdo con lo establecido en la [Ley](articulo-2.md), el presente Reglamento, los manuales internos de procedimientos aprobados en cada banco y demás disposiciones jurídicas aplicables;
 
-II. Vigilar que la calidad de los Tejidos cumpla con los estándares internacionales establecidos para garantizar las condiciones óptimas del Trasplante; III. Implementar y ejecutar acciones de Procuración de Tejidos que se encuentren bajo su resguardo, las cuales deberán ser acreditables;
+II. Vigilar que la calidad de los Tejidos cumpla con los estándares internacionales establecidos para garantizar las condiciones óptimas del Trasplante;
+
+III. Implementar y ejecutar acciones de Procuración de Tejidos que se encuentren bajo su resguardo, las cuales deberán ser acreditables;
 
 IV. Garantizar la Trazabilidad de los Tejidos, de conformidad con las funciones que realiza el banco;
 

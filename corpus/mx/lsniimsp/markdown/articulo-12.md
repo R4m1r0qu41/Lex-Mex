@@ -21,7 +21,9 @@ Atribuciones de la persona titular de la [Secretaría](articulo-2.md) De acuerdo
 
 Cuando lo considere necesario, de manera directa o a través de convenio, la Secretaría solicitará información a particulares, bajo los mecanismos que esta Ley prevé, y en apego a lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
 
-Adicionalmente, corresponde a la persona titular de la Secretaría, el ejercicio de las siguientes atribuciones: I. Proponer acciones y acuerdos al Gabinete Federal de Seguridad y al [Consejo Nacional](articulo-2.md) para el mejor funcionamiento del Sistema Nacional y de la [Plataforma](articulo-2.md), así como, en el marco de sus atribuciones, encargarse de su ejecución y seguimiento;
+Adicionalmente, corresponde a la persona titular de la Secretaría, el ejercicio de las siguientes atribuciones:
+
+I. Proponer acciones y acuerdos al Gabinete Federal de Seguridad y al [Consejo Nacional](articulo-2.md) para el mejor funcionamiento del Sistema Nacional y de la [Plataforma](articulo-2.md), así como, en el marco de sus atribuciones, encargarse de su ejecución y seguimiento;
 
 II. Desarrollar, fortalecer y mantener las relaciones interinstitucionales con las instituciones públicas del Estado mexicano y las privadas, así como coordinar su colaboración para los fines de la presente Ley, sin perjuicio de las que en el ámbito de su competencia desarrollen otras instituciones o dependencias;
 
@@ -39,7 +41,9 @@ VII. Elaborar y proponer criterios de análisis criminal y actuación policial q
 
 VIII. Proponer normas y procedimientos de protección de los sistemas de información crítica del Estado mexicano;
 
-IX. Desarrollar o adquirir plataformas digitales y sistemas informáticos para llevar a cabo la integración, sistematización, el análisis y aprovechamiento de la información que se genere a través de los mecanismos del Sistema Nacional previstos en esta Ley, mediante el personal de confianza acreditado y certificado que considere necesario; X. Emitir los lineamientos generales para que las instancias competentes del Sistema Nacional presten auxilio y colaboración a las instituciones de seguridad pública y de procuración e impartición de justicia, así como en cualquier otra rama del Estado que se requiera;
+IX. Desarrollar o adquirir plataformas digitales y sistemas informáticos para llevar a cabo la integración, sistematización, el análisis y aprovechamiento de la información que se genere a través de los mecanismos del Sistema Nacional previstos en esta Ley, mediante el personal de confianza acreditado y certificado que considere necesario;
+
+X. Emitir los lineamientos generales para que las instancias competentes del Sistema Nacional presten auxilio y colaboración a las instituciones de seguridad pública y de procuración e impartición de justicia, así como en cualquier otra rama del Estado que se requiera;
 
 XI. Realizar acciones de vinculación con la Fiscalía General de la República y con las fiscalías y procuradurías estatales, los órganos del Poder Judicial de la Federación y los poderes judiciales estatales, utilizando los insumos y productos generados por el Sistema Nacional para el cumplimiento de los fines del proceso penal;
 

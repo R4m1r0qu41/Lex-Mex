@@ -23,7 +23,9 @@ I. Implementar las políticas, programas, lineamientos y directrices para la org
 
 II. Aprobar criterios para homologar la organización y conservación de los archivos locales;
 
-III. Aprobar las campañas de difusión sobre la importancia de los archivos como fuente de información esencial y como parte de la memoria colectiva; IV. En el marco del Consejo Nacional, los Consejos Locales podrán proponer las disposiciones que regulen la creación y uso de sistemas automatizados, para la gestión documental y administración de archivos para los sujetos obligados del ámbito local, que contribuyan a la organización y conservación homogénea de sus archivos;
+III. Aprobar las campañas de difusión sobre la importancia de los archivos como fuente de información esencial y como parte de la memoria colectiva;
+
+IV. En el marco del Consejo Nacional, los Consejos Locales podrán proponer las disposiciones que regulen la creación y uso de sistemas automatizados, para la gestión documental y administración de archivos para los sujetos obligados del ámbito local, que contribuyan a la organización y conservación homogénea de sus archivos;
 
 V. Establecer mecanismos de coordinación con los sujetos obligados de los municipios o de las alcaldías, según corresponda;
 

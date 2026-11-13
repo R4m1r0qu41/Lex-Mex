@@ -47,7 +47,9 @@ XIII. Elaborar los proyectos de lineamientos para la aplicación de los procedim
 
 XIV. Generar estadísticas en materia de actuación policial de la Institución, con base en el levantamiento de encuestas y en la explotación de registros administrativos, en coordinación con las unidades administrativas correspondientes;
 
-XV. Proponer políticas en materia de actuación policial de la Institución mediante la realización de estudios prospectivos sobre las causas estructurales de faltas administrativas, su reincidencia y el análisis de estadísticas de conductas infractoras; XVI. Promover en la Institución la disciplina y observancia a los principios de principios de legalidad, objetividad, eficiencia, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos;
+XV. Proponer políticas en materia de actuación policial de la Institución mediante la realización de estudios prospectivos sobre las causas estructurales de faltas administrativas, su reincidencia y el análisis de estadísticas de conductas infractoras;
+
+XVI. Promover en la Institución la disciplina y observancia a los principios de principios de legalidad, objetividad, eficiencia, honradez, y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos;
 
 XVII. Impulsar, en el ámbito de su competencia, la impartición de cursos, conferencias y demás actos persuasivos sobre actuación policial;
 

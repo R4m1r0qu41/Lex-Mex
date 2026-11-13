@@ -29,7 +29,9 @@ IV. Abstenerse de solicitar una contraprestación, dádiva o gratificación para
 
 V. Ratificar o rectificar en su caso, los informes o dictámenes que sean impugnados;
 
-VI. Aclarar o ampliar los dictámenes o informes que le solicite el Ministerio Público; VII. Recibir y atender los llamados del Ministerio Público, en los que solicite su intervención;
+VI. Aclarar o ampliar los dictámenes o informes que le solicite el Ministerio Público;
+
+VII. Recibir y atender los llamados del Ministerio Público, en los que solicite su intervención;
 
 VIII. Abstenerse de intervenir en asuntos que no sean de su especialidad;
 

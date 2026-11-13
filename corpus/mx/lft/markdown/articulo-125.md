@@ -21,6 +21,8 @@ Para determinar la participación de cada trabajador se observarán las normas s
 
 I. Una comisión integrada por igual número de representantes de los trabajadores y del patrón formulará un proyecto, que determine la participación de cada trabajador y lo fijará en lugar visible del establecimiento. A este fin, el patrón pondrá a disposición de la Comisión la lista de asistencia y de raya de los trabajadores y los demás elementos de que disponga;
 
-II. Si los representantes de los trabajadores y del patrón no se ponen de acuerdo, decidirá el Inspector del Trabajo; III. Los trabajadores podrán hacer las observaciones que juzguen conveniente, dentro de un término de quince días; y
+II. Si los representantes de los trabajadores y del patrón no se ponen de acuerdo, decidirá el Inspector del Trabajo;
+
+III. Los trabajadores podrán hacer las observaciones que juzguen conveniente, dentro de un término de quince días; y
 
 IV. Si se formulan objeciones, serán resueltas por la misma comisión a que se refiere la fracción I, dentro de un término de quince días.

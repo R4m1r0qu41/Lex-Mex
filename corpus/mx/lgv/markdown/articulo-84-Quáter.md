@@ -7,8 +7,8 @@ provision_type: article
 number: "84 Quáter"
 aliases: ["LGV — Artículo 84 Quáter"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,7 +17,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 84 Quáter
 
-La organización y funcionamiento de la Junta de Gobierno se regirá por lo dispuesto en esta Ley y las demás disposiciones aplicables, estará integrada de la siguiente manera:
+La organización y funcionamiento de la Junta de Gobierno se regirá por lo dispuesto en esta [Ley](articulo-6.md) y las demás disposiciones aplicables, estará integrada de la siguiente manera:
 
 I. Una persona representante de las siguientes secretarías de Estado: Párrafo reformado DOF 28-04-2022
 

@@ -31,7 +31,9 @@ V. Opinar, en los casos de la educación que impartan los particulares, en relac
 
 VI. Conocer el nombre del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijas, hijos o pupilos, misma que será proporcionada por la autoridad escolar;
 
-VII. Conocer los criterios y resultados de las evaluaciones de la escuela a la que asistan sus hijas, hijos o pupilos; VIII. Conocer de los planes y programas de estudio proporcionados por el plantel educativo, sobre los cuales podrán emitir su opinión;
+VII. Conocer los criterios y resultados de las evaluaciones de la escuela a la que asistan sus hijas, hijos o pupilos;
+
+VIII. Conocer de los planes y programas de estudio proporcionados por el plantel educativo, sobre los cuales podrán emitir su opinión;
 
 IX. Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución;
 

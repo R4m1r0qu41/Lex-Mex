@@ -19,7 +19,9 @@ source_sha256: a4e37974114bed9b3882be9b609e1a2b3fffcad3834b03c9729ad6528ad06a5e
 
 El [Programa de Desarrollo](articulo-3.md) incluirá:
 
-I. Las acciones de ordenamiento territorial y las características de las obras de infraestructura de transporte, de comunicaciones, de logística, energética, hidráulica, ambiental y otras que se requieren ejecutar en el exterior de la [Zona](articulo-3.md) para la operación de la misma y, en su caso, otras que sean complemento a la infraestructura exterior, y II. Las políticas públicas y acciones complementarias que se ejecutarán para:
+I. Las acciones de ordenamiento territorial y las características de las obras de infraestructura de transporte, de comunicaciones, de logística, energética, hidráulica, ambiental y otras que se requieren ejecutar en el exterior de la [Zona](articulo-3.md) para la operación de la misma y, en su caso, otras que sean complemento a la infraestructura exterior, y
+
+II. Las políticas públicas y acciones complementarias que se ejecutarán para:
 
 a) El fortalecimiento del capital humano, a través de la educación, capacitación y adiestramiento a nivel local, para la incorporación de trabajadores en los sectores industriales y de innovación en la Zona y su [Área de Influencia](articulo-3.md), así como para promover el talento y la provisión de servicios de soporte para empresas e industrias con el aprovechamiento de las tecnologías de información y comunicación.
 

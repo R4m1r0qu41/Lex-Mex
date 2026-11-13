@@ -21,7 +21,9 @@ Los Registradores calificarán bajo su responsabilidad los documentos que se pre
 
 I. Cuando el título presentado no sea de los que deben inscribirse o anotarse;
 
-II. Cuando el documento no revista las formas extrínsecas que establezca la Ley; III. Cuando los funcionarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
+II. Cuando el documento no revista las formas extrínsecas que establezca la Ley;
+
+III. Cuando los funcionarios ante quienes se haya otorgado o rectificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos;
 
 IV. Cuando el contenido del documento sea contrario a las leyes prohibitivas o de interés público;
 

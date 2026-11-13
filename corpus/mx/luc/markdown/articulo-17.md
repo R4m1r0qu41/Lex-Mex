@@ -41,7 +41,9 @@ c) Las previsiones de cobertura geográfica;
 
 d) El estudio de viabilidad financiera de la sociedad, y
 
-e) Las bases relativas a su organización y control interno. V. Comprobante de depósito en moneda nacional constituido en institución de crédito o de valores gubernamentales por su valor de mercado, a favor de la Tesorería de la Federación, por una cantidad igual al diez por ciento del capital mínimo según su nivel de operaciones exigido para su constitución, según esta Ley.
+e) Las bases relativas a su organización y control interno.
+
+V. Comprobante de depósito en moneda nacional constituido en institución de crédito o de valores gubernamentales por su valor de mercado, a favor de la Tesorería de la Federación, por una cantidad igual al diez por ciento del capital mínimo según su nivel de operaciones exigido para su constitución, según esta Ley.
 
 VI. La demás documentación e información relacionada que la Comisión requiera para tal efecto.
 

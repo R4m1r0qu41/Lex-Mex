@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
-      "provision_text_sha256": "c62b88fd2540b1caf619a589b4c1d7196519be025fb95367fbcec79fecf4e1e1",
+      "provision_text_sha256": "fa89ab851dddde1ac3c363222b5fa93653e83d409e36190f5e7a42f37bf049c7",
       "method": "wider_pass",
       "fractions": [
         "I",
@@ -42,5 +42,5 @@
   ],
   "imports": [],
   "term_count": 24,
-  "usage_count": 402
+  "usage_count": 401
 }

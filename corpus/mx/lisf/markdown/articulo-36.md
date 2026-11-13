@@ -23,7 +23,9 @@ I. Fianzas de fidelidad, en alguno o algunos de los subramos siguientes:
 
 a) Individuales, y
 
-b) Colectivas; II. Fianzas judiciales, en alguno o algunos de los subramos siguientes:
+b) Colectivas;
+
+II. Fianzas judiciales, en alguno o algunos de los subramos siguientes:
 
 a) Judiciales penales;
 

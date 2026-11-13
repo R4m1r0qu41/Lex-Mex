@@ -25,7 +25,9 @@ II. Renuncia expresa de la persona permisionaria, siempre que no se afecten dere
 
 III. Caducidad;
 
-IV. Revocación; V. Desaparición del objeto o de la finalidad del permiso;
+IV. Revocación;
+
+V. Desaparición del objeto o de la finalidad del permiso;
 
 VI. Disolución, liquidación o quiebra de la persona moral permisionaria;
 

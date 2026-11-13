@@ -109,228 +109,228 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1317-1332",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1318-1333",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:autorregulacion",
     "span": "Autorregulación",
-    "start_char": 1317,
-    "end_char": 1332
+    "start_char": 1318,
+    "end_char": 1333
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1352-1371",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1353-1372",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:desempeno-ambiental",
     "span": "Desempeño Ambiental",
-    "start_char": 1352,
-    "end_char": 1371
+    "start_char": 1353,
+    "end_char": 1372
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1423-1445",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1424-1446",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:terminos-de-referencia",
     "span": "Términos de Referencia",
-    "start_char": 1423,
-    "end_char": 1445
+    "start_char": 1424,
+    "end_char": 1446
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1663-1670",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1664-1671",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:empresa",
     "span": "Empresa",
-    "start_char": 1663,
-    "end_char": 1670
+    "start_char": 1664,
+    "end_char": 1671
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1800-1819",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1801-1820",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:desempeno-ambiental",
     "span": "Desempeño Ambiental",
-    "start_char": 1800,
-    "end_char": 1819
+    "start_char": 1801,
+    "end_char": 1820
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1933-1952",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:1934-1953",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
     "span": "Auditoría Ambiental",
-    "start_char": 1933,
-    "end_char": 1952
+    "start_char": 1934,
+    "end_char": 1953
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2093-2100",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2094-2101",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:empresa",
     "span": "Empresa",
-    "start_char": 2093,
-    "end_char": 2100
+    "start_char": 2094,
+    "end_char": 2101
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2240-2252",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2241-2253",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 2240,
-    "end_char": 2252
+    "start_char": 2241,
+    "end_char": 2253
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2271-2278",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2272-2279",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:agencia",
     "span": "Agencia",
-    "start_char": 2271,
-    "end_char": 2278
+    "start_char": 2272,
+    "end_char": 2279
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2313-2320",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2314-2321",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:empresa",
     "span": "Empresa",
-    "start_char": 2313,
-    "end_char": 2320
+    "start_char": 2314,
+    "end_char": 2321
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2341-2349",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2342-2350",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:programa",
     "span": "Programa",
-    "start_char": 2341,
-    "end_char": 2349
+    "start_char": 2342,
+    "end_char": 2350
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2362-2381",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2363-2382",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
     "span": "Auditoría Ambiental",
-    "start_char": 2362,
-    "end_char": 2381
+    "start_char": 2363,
+    "end_char": 2382
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2489-2496",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2490-2497",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:empresa",
     "span": "Empresa",
-    "start_char": 2489,
-    "end_char": 2496
+    "start_char": 2490,
+    "end_char": 2497
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2502-2514",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2503-2515",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 2502,
-    "end_char": 2514
+    "start_char": 2503,
+    "end_char": 2515
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2533-2540",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2534-2541",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:agencia",
     "span": "Agencia",
-    "start_char": 2533,
-    "end_char": 2540
+    "start_char": 2534,
+    "end_char": 2541
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2685-2692",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2686-2693",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:empresa",
     "span": "Empresa",
-    "start_char": 2685,
-    "end_char": 2692
+    "start_char": 2686,
+    "end_char": 2693
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2824-2843",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2825-2844",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
     "span": "Auditoría Ambiental",
-    "start_char": 2824,
-    "end_char": 2843
+    "start_char": 2825,
+    "end_char": 2844
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2877-2884",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:2878-2885",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:empresa",
     "span": "Empresa",
-    "start_char": 2877,
-    "end_char": 2884
+    "start_char": 2878,
+    "end_char": 2885
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3032-3054",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3033-3055",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:terminos-de-referencia",
     "span": "Términos de Referencia",
-    "start_char": 3032,
-    "end_char": 3054
+    "start_char": 3033,
+    "end_char": 3055
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3092-3099",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3093-3100",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:empresa",
     "span": "Empresa",
-    "start_char": 3092,
-    "end_char": 3099
+    "start_char": 3093,
+    "end_char": 3100
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3728-3747",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3729-3748",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
     "span": "Auditoría Ambiental",
-    "start_char": 3728,
-    "end_char": 3747
+    "start_char": 3729,
+    "end_char": 3748
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3871-3890",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:3873-3892",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
     "span": "Auditoría Ambiental",
-    "start_char": 3871,
-    "end_char": 3890
+    "start_char": 3873,
+    "end_char": 3892
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:4092-4111",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:4094-4113",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
     "span": "Auditoría Ambiental",
-    "start_char": 4092,
-    "end_char": 4111
+    "start_char": 4094,
+    "end_char": 4113
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:4530-4552",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:4532-4554",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
     "span": "Auditorías Ambientales",
-    "start_char": 4530,
-    "end_char": 4552
+    "start_char": 4532,
+    "end_char": 4554
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:4555-4579",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2:term-usage:4557-4581",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:diagnostico-ambiental",
     "span": "Diagnósticos Ambientales",
-    "start_char": 4555,
-    "end_char": 4579
+    "start_char": 4557,
+    "end_char": 4581
   },
   {
     "schema_version": "0.1.0",
@@ -1009,12 +1009,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:11:term-usage:155-169",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:11:term-usage:156-170",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:plan-de-accion",
     "span": "Plan de Acción",
-    "start_char": 155,
-    "end_char": 169
+    "start_char": 156,
+    "end_char": 170
   },
   {
     "schema_version": "0.1.0",
@@ -3421,66 +3421,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:437-456",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:438-457",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditor-coordinador",
     "span": "Auditor Coordinador",
-    "start_char": 437,
-    "end_char": 456
+    "start_char": 438,
+    "end_char": 457
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:471-491",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:472-492",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditor-especialista",
     "span": "Auditor Especialista",
-    "start_char": 471,
-    "end_char": 491
+    "start_char": 472,
+    "end_char": 492
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:734-753",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:735-754",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:auditoria-ambiental",
     "span": "Auditoría Ambiental",
-    "start_char": 734,
-    "end_char": 753
+    "start_char": 735,
+    "end_char": 754
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:1094-1106",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:1095-1107",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 1094,
-    "end_char": 1106
+    "start_char": 1095,
+    "end_char": 1107
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:1125-1132",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:1126-1133",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:agencia",
     "span": "Agencia",
-    "start_char": 1125,
-    "end_char": 1132
+    "start_char": 1126,
+    "end_char": 1133
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:1417-1429",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:1418-1430",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:procuraduria",
     "span": "Procuraduría",
-    "start_char": 1417,
-    "end_char": 1429
+    "start_char": 1418,
+    "end_char": 1430
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:1448-1455",
+    "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34:term-usage:1449-1456",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:article:34",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa:term:agencia",
     "span": "Agencia",
-    "start_char": 1448,
-    "end_char": 1455
+    "start_char": 1449,
+    "end_char": 1456
   },
   {
     "schema_version": "0.1.0",

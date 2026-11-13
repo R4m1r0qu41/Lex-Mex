@@ -23,7 +23,9 @@ I. No cubra los pagos que conforme a la Ley debe efectuar por la explotación, u
 
 II. No cubra los créditos fiscales que sean a su cargo durante un lapso mayor a un año fiscal, con motivo de la explotación, uso o aprovechamiento de las aguas y bienes nacionales, o por los servicios de suministro o uso de las mismas, hasta que regularice tal situación;
 
-III. Se oponga u obstaculice el ejercicio de las facultades de inspección, la medición o verificación sobre los recursos e infraestructura hidráulica concesionada o asignada, por parte del personal autorizado; IV. Descargue aguas residuales que afecten o puedan afectar fuentes de abastecimiento de agua potable o a la salud pública y así lo solicite "la Procuraduría", o "la Autoridad del Agua", y
+III. Se oponga u obstaculice el ejercicio de las facultades de inspección, la medición o verificación sobre los recursos e infraestructura hidráulica concesionada o asignada, por parte del personal autorizado;
+
+IV. Descargue aguas residuales que afecten o puedan afectar fuentes de abastecimiento de agua potable o a la salud pública y así lo solicite "la Procuraduría", o "la Autoridad del Agua", y
 
 V. No cumpla con las condiciones o especificaciones del título de concesión o asignación, salvo que acredite que dicho incumplimiento no le es imputable.
 

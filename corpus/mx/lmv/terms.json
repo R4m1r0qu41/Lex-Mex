@@ -161,7 +161,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XIII",
     "start_char": 5753,
-    "end_char": 6200,
+    "end_char": 6017,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lmv:term:instrumentos-financieros-derivados",
+    "term": "Instrumentos financieros derivados",
+    "instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+    "fraction": "XIV",
+    "start_char": 6017,
+    "end_char": 6201,
     "basis": "express_definition"
   },
   {
@@ -171,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XV",
-    "start_char": 6200,
-    "end_char": 6781,
+    "start_char": 6201,
+    "end_char": 6782,
     "basis": "express_definition"
   },
   {
@@ -182,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XVI",
-    "start_char": 6781,
-    "end_char": 7121,
+    "start_char": 6782,
+    "end_char": 7122,
     "basis": "express_definition"
   },
   {
@@ -193,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XVII",
-    "start_char": 7121,
-    "end_char": 7394,
+    "start_char": 7122,
+    "end_char": 7395,
     "basis": "express_definition"
   },
   {
@@ -204,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XVIII",
-    "start_char": 7394,
-    "end_char": 7975,
+    "start_char": 7395,
+    "end_char": 7976,
     "basis": "express_definition"
   },
   {
@@ -215,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XIX",
-    "start_char": 7975,
-    "end_char": 9196,
+    "start_char": 7976,
+    "end_char": 9197,
     "basis": "express_definition"
   },
   {
@@ -226,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XX",
-    "start_char": 9196,
-    "end_char": 10500,
+    "start_char": 9197,
+    "end_char": 10501,
     "basis": "express_definition"
   },
   {
@@ -237,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XXI",
-    "start_char": 10500,
-    "end_char": 10549,
+    "start_char": 10501,
+    "end_char": 10550,
     "basis": "express_definition"
   },
   {
@@ -248,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XXII",
-    "start_char": 10549,
-    "end_char": 10613,
+    "start_char": 10550,
+    "end_char": 10614,
     "basis": "express_definition"
   },
   {
@@ -259,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XXIII",
-    "start_char": 10613,
-    "end_char": 10892,
+    "start_char": 10614,
+    "end_char": 10893,
     "basis": "express_definition"
   },
   {
@@ -270,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lmv",
     "defining_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
     "fraction": "XXIV",
-    "start_char": 10892,
-    "end_char": 11582,
+    "start_char": 10893,
+    "end_char": 11583,
     "basis": "express_definition"
   }
 ]

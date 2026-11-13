@@ -29,7 +29,9 @@ IV. Admitir, desechar o tener por no ofrecidas las pruebas;
 
 V. Admitir, desechar y tramitar los incidentes y recursos que le competan, formular los proyectos de resolución, de aclaraciones de la resolución y someterlos a la consideración de la Sala;
 
-VI. Dictar los acuerdos o providencias de trámite necesarios para instruir el procedimiento sancionatorio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma; VII. Formular el proyecto de resolución definitiva y, en su caso, el que recaiga a la instancia de apelación o ejecutoria;
+VI. Dictar los acuerdos o providencias de trámite necesarios para instruir el procedimiento sancionatorio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de las autoridades y atender la correspondencia necesaria, autorizándola con su firma;
+
+VII. Formular el proyecto de resolución definitiva y, en su caso, el que recaiga a la instancia de apelación o ejecutoria;
 
 VIII. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley General de Responsabilidades Administrativas, así como proponer a la Sala el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente;
 

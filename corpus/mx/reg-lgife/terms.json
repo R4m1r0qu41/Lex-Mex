@@ -62,7 +62,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "VI",
     "start_char": 1270,
-    "end_char": 1478,
+    "end_char": 1479,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "VII",
-    "start_char": 1478,
-    "end_char": 1700,
+    "start_char": 1479,
+    "end_char": 1701,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "VIII",
-    "start_char": 1700,
-    "end_char": 1823,
+    "start_char": 1701,
+    "end_char": 1824,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "IX",
-    "start_char": 1823,
-    "end_char": 1986,
+    "start_char": 1824,
+    "end_char": 1987,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "X",
-    "start_char": 1986,
-    "end_char": 2115,
+    "start_char": 1987,
+    "end_char": 2116,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "XI",
-    "start_char": 2115,
-    "end_char": 2180,
+    "start_char": 2116,
+    "end_char": 2181,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "XII",
-    "start_char": 2180,
-    "end_char": 2336,
+    "start_char": 2181,
+    "end_char": 2337,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "XIII",
-    "start_char": 2336,
-    "end_char": 2635,
+    "start_char": 2337,
+    "end_char": 2636,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "XIV",
-    "start_char": 2635,
-    "end_char": 2740,
+    "start_char": 2636,
+    "end_char": 2741,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "XV",
-    "start_char": 2740,
-    "end_char": 2859,
+    "start_char": 2741,
+    "end_char": 2860,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "XVI",
-    "start_char": 2859,
-    "end_char": 3007,
+    "start_char": 2860,
+    "end_char": 3008,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "XVII",
-    "start_char": 3007,
-    "end_char": 3085,
+    "start_char": 3008,
+    "end_char": 3086,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "fraction": "XVIII",
-    "start_char": 3085,
-    "end_char": 3183,
+    "start_char": 3086,
+    "end_char": 3184,
     "basis": "express_definition"
   }
 ]

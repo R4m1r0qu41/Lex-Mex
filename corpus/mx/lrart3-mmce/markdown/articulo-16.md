@@ -41,6 +41,8 @@ X. Atender a los resultados de las evaluaciones diagnósticas que apliquen las a
 
 XI. Tomar en cuenta las evaluaciones internas de las escuelas en la región de que se trate, desarrolladas por las instancias educativas correspondientes;
 
-XII. Aprovechar y promover el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para facilitar el acceso a la formación, capacitación y actualización, y XIII. Atender al personal interesado en participar en los procesos de promoción y reconocimiento, para proporcionar, entre otras, herramientas de trayectos formativos en la innovación, métodos tecnológicos de profesionalización o de gestión directiva.
+XII. Aprovechar y promover el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para facilitar el acceso a la formación, capacitación y actualización, y
+
+XIII. Atender al personal interesado en participar en los procesos de promoción y reconocimiento, para proporcionar, entre otras, herramientas de trayectos formativos en la innovación, métodos tecnológicos de profesionalización o de gestión directiva.
 
 El personal elegirá los programas o cursos de formación, capacitación y actualización en función de los resultados obtenidos en la evaluación diagnóstica en que participe o de sus necesidades, intereses, habilidades y capacidades, tomando en cuenta además los contextos locales y regionales de la prestación de los servicios educativos.

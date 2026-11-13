@@ -19,7 +19,9 @@ source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 
 Para lograr una eficaz gobernanza metropolitana, se establecerán los mecanismos y los instrumentos de carácter obligatorio que aseguren la acción coordinada institucional de los tres órdenes de gobierno y la participación de la sociedad.
 
-La gestión de las zonas metropolitanas o conurbaciones se efectuará a través de las instancias siguientes: I. Una comisión de ordenamiento metropolitano o de [Conurbación](articulo-3.md), según se trate, que se integrará por la Federación, las entidades federativas, los municipios y las [Demarcaciones Territoriales](articulo-3.md) de la zona de que se trate, quienes participarán en el ámbito de su competencia para cumplir con los objetivos y principios a que se refiere esta Ley. Tendrán como atribuciones coordinar la formulación y aprobación de los programas metropolitanos, así como su gestión, evaluación y cumplimiento. Esta Comisión podrá contar con subcomisiones o consejos integrados por igual número de representantes de los tres órdenes de gobierno;
+La gestión de las zonas metropolitanas o conurbaciones se efectuará a través de las instancias siguientes:
+
+I. Una comisión de ordenamiento metropolitano o de [Conurbación](articulo-3.md), según se trate, que se integrará por la Federación, las entidades federativas, los municipios y las [Demarcaciones Territoriales](articulo-3.md) de la zona de que se trate, quienes participarán en el ámbito de su competencia para cumplir con los objetivos y principios a que se refiere esta Ley. Tendrán como atribuciones coordinar la formulación y aprobación de los programas metropolitanos, así como su gestión, evaluación y cumplimiento. Esta Comisión podrá contar con subcomisiones o consejos integrados por igual número de representantes de los tres órdenes de gobierno;
 
 II. Un consejo consultivo de desarrollo metropolitano que promoverá los procesos de consulta pública e interinstitucional en las diversas fases de la formulación, aprobación, ejecución y seguimiento de los programas.
 

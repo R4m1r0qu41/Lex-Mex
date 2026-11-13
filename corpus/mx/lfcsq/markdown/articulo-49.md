@@ -27,6 +27,8 @@ III. A quien produzca, adquiera, conserve, transfiera o emplee sustancias quími
 
 IV. A quien produzca sustancias químicas del Grupo 1 del Listado Nacional, en instalaciones distintas a la [Instalación Única en Pequeña Escala](articulo-2.md) y a las instalaciones alternas autorizadas por la [Autoridad Nacional](articulo-2.md);
 
-V. A quien produzca sustancias químicas del Grupo 1 del Listado Nacional, en instalaciones alternas autorizadas por la Autoridad Nacional, para fines distintos a los permitidos en los incisos a), b) y c) del artículo [7](articulo-7.md) fracción IV de la presente Ley; VI. A quien produzca sustancias químicas del Grupo 1 del Listado Nacional, en instalaciones alternas autorizadas por la Autoridad Nacional, en cantidades superiores a las permitidas en los incisos a), b) y c) del artículo [7](articulo-7.md) fracción IV de la presente Ley, o
+V. A quien produzca sustancias químicas del Grupo 1 del Listado Nacional, en instalaciones alternas autorizadas por la Autoridad Nacional, para fines distintos a los permitidos en los incisos a), b) y c) del artículo [7](articulo-7.md) fracción IV de la presente Ley;
 
-VII. A quien ordene o solicite el diseño, construcción, equipamiento, financiamiento u oculte instalaciones destinadas a la realización de Actividades Reguladas con propósitos de [Desvío](articulo-2.md).
+VI. A quien produzca sustancias químicas del Grupo 1 del Listado Nacional, en instalaciones alternas autorizadas por la Autoridad Nacional, en cantidades superiores a las permitidas en los incisos a), b) y c) del artículo [7](articulo-7.md) fracción IV de la presente Ley, o
+
+VII. A quien ordene o solicite el diseño, construcción, equipamiento, financiamiento u oculte instalaciones destinadas a la realización de [Actividades Reguladas](articulo-2.md) con propósitos de [Desvío](articulo-2.md).

@@ -19,7 +19,9 @@ source_sha256: 6cfd550f22edb3253ebf98d885329be5402890d902d17afaa7860d94d76fe014
 
 Son facultades de la Junta:
 
-I. Proponer, al titular del Ejecutivo Federal, para su consideración las modificaciones al Reglamento; II. Establecer, con conocimiento del Sistema, la organización general de la Comisión y los manuales de función y procedimientos, así como las demás normas de aplicación general necesarias para el funcionamiento y operación de la Comisión;
+I. Proponer, al titular del Ejecutivo Federal, para su consideración las modificaciones al Reglamento;
+
+II. Establecer, con conocimiento del Sistema, la organización general de la Comisión y los manuales de función y procedimientos, así como las demás normas de aplicación general necesarias para el funcionamiento y operación de la Comisión;
 
 III. Ratificar a la Secretaría Ejecutiva de la Comisión, de acuerdo con el artículo [10](articulo-10.md) de esta Ley;
 

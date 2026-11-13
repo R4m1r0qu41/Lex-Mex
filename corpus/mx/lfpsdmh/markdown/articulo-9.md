@@ -17,7 +17,9 @@ source_sha256: ace34ed71b587262c6c3a59657b3706960600744b170a830c4996e419e5abd1a
 
 # Artículo 9
 
-Se sancionará a quien: I. Compre, enajene, reciba, adquiera, comercialice o negocie hidrocarburos, petrolíferos o petroquímicos, sin derecho y sin consentimiento de asignatarios, contratistas, permisionarios, distribuidores o de quien pueda disponer de ellos con arreglo a la ley.
+Se sancionará a quien:
+
+I. Compre, enajene, reciba, adquiera, comercialice o negocie hidrocarburos, petrolíferos o petroquímicos, sin derecho y sin consentimiento de asignatarios, contratistas, permisionarios, distribuidores o de quien pueda disponer de ellos con arreglo a la ley.
 
 II. Resguarde, transporte, almacene, distribuya, posea, suministre u oculte hidrocarburos, petrolíferos o petroquímicos, sin derecho y sin consentimiento de asignatarios, contratistas, permisionarios, distribuidores o de quien pueda disponer de ellos con arreglo a la ley.
 

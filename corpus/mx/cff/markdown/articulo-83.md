@@ -33,7 +33,9 @@ VI. No conservar la contabilidad a disposición de las autoridades por el plazo 
 
 VII. No expedir, no entregar o no poner a disposición de los clientes los comprobantes fiscales digitales por Internet de sus actividades cuando las disposiciones fiscales lo establezcan, o expedirlos sin que cumplan los requisitos señalados en este Código, en su Reglamento o en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria; no entregar o no poner a disposición la representación impresa de dichos comprobantes, cuando ésta le sea solicitada por sus clientes, así como no expedir los comprobantes fiscales digitales por Internet que amparen las operaciones realizadas con el público en general, o bien, no ponerlos a disposición de las autoridades fiscales cuando éstas los requieran.
 
-VIII. (Se deroga). IX. Expedir comprobantes fiscales digitales por Internet asentando la clave del registro federal de contribuyentes de persona distinta a la que adquiere el bien o el servicio o a la que contrate el uso o goce temporal de bienes; o bien, condicionando su emisión a la exhibición de la Cédula de Identificación Fiscal o Constancia de Situación Fiscal. Fracción reformada DOF 07-11-2025
+VIII. (Se deroga).
+
+IX. Expedir comprobantes fiscales digitales por Internet asentando la clave del registro federal de contribuyentes de persona distinta a la que adquiere el bien o el servicio o a la que contrate el uso o goce temporal de bienes; o bien, condicionando su emisión a la exhibición de la Cédula de Identificación Fiscal o Constancia de Situación Fiscal. Fracción reformada DOF 07-11-2025
 
 X. No dictaminar sus estados financieros cuando de conformidad con lo previsto en el artículo [32-A](articulo-32-A.md) de este Código, esté obligado o hubiera optado por hacerlo. No presentar dicho dictamen dentro del término previsto por las leyes fiscales. Fracción reformada DOF 12-11-2021
 

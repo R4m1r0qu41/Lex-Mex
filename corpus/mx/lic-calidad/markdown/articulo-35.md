@@ -21,7 +21,9 @@ El procedimiento de normalización consta de las siguientes etapas que serán pr
 
 I. Elaboración o aceptación de la propuesta por la [Autoridad Normalizadora](articulo-4.md);
 
-II. Presentación de la propuesta al Comité Consultivo Nacional de Normalización correspondiente para su análisis y revisión, en cuyo momento, se considerará como un anteproyecto de [Norma Oficial Mexicana](articulo-4.md); III. En caso de que el Comité Consultivo Nacional de Normalización lo considere conveniente, constitución del grupo de trabajo correspondiente, para el estudio y la discusión del anteproyecto correspondiente.
+II. Presentación de la propuesta al Comité Consultivo Nacional de Normalización correspondiente para su análisis y revisión, en cuyo momento, se considerará como un anteproyecto de [Norma Oficial Mexicana](articulo-4.md);
+
+III. En caso de que el Comité Consultivo Nacional de Normalización lo considere conveniente, constitución del grupo de trabajo correspondiente, para el estudio y la discusión del anteproyecto correspondiente.
 
 En su caso, presentación de los resultados del estudio y discusión del anteproyecto por parte del grupo de trabajo ante el Comité Consultivo Nacional de Normalización;
 

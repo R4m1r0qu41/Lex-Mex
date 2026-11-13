@@ -17,4 +17,4 @@ source_sha256: d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89
 
 # Artículo 29
 
-Las Acciones de [Seguridad Interior](articulo-4.md) se apoyarán en los órganos, unidades y procesos de inteligencia previstos en las leyes respectivas.
+Las [Acciones de Seguridad Interior](articulo-4.md) se apoyarán en los órganos, unidades y procesos de inteligencia previstos en las leyes respectivas.

@@ -17,7 +17,9 @@ source_sha256: e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6
 
 # Artículo 24
 
-Las etiquetas deberán contener cuando menos la siguiente información sanitaria y reunir las características y requisitos que establezca la [Norma](articulo-2o.md) correspondiente: I. La [Denominación Genérica](articulo-2o.md);
+Las etiquetas deberán contener cuando menos la siguiente información sanitaria y reunir las características y requisitos que establezca la [Norma](articulo-2o.md) correspondiente:
+
+I. La [Denominación Genérica](articulo-2o.md);
 
 II. La denominación distintiva; en caso de [Medicamentos Genéricos](articulo-2o.md) su inclusión será optativa;
 

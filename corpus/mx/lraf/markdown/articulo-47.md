@@ -17,7 +17,7 @@ source_sha256: e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a
 
 # Artículo 47
 
-Los miembros del consejo de administración, los Directivos Relevantes y las demás personas que desempeñen facultades de representación de la [Sociedad Controladora](articulo-5o.md), deberán proveer lo necesario para que se cumpla lo dispuesto en esta Ley.
+Los miembros del consejo de administración, los [Directivos Relevantes](articulo-5o.md) y las demás personas que desempeñen facultades de representación de la [Sociedad Controladora](articulo-5o.md), deberán proveer lo necesario para que se cumpla lo dispuesto en esta Ley.
 
 La información que sea presentada al consejo de administración de la Sociedad Controladora por parte de Directivos Relevantes y demás empleados, tanto de la propia Sociedad Controladora como de las entidades financieras o [Subcontroladoras](articulo-5o.md), deberá ir suscrita por las personas responsables de su contenido y elaboración.
 

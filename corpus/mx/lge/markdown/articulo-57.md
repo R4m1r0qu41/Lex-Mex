@@ -19,7 +19,9 @@ source_sha256: 75ae7c5f6dd941ce9a3e988e5310c87422966b1774f3b7e83919538c0bb079e9
 
 El [Estado](articulo-4.md) garantizará y promoverá el uso de las lenguas indígenas en el sistema de educación indígena, intercultural y plurilingüe. Nunca podrá justificarse la eliminación de esta garantía por motivo del bajo número de hablantes. Para lograr lo anterior se deberá cumplir con lo siguiente:
 
-I. Emplear las lenguas indígenas en la formación docente, así como en la instauración de unidades de enseñanza aprendizaje, currícula de estudio, contenidos y materiales didácticos. II. Establecer propósitos de enseñanza aprendizaje de carácter lingüístico en el plan curricular que contenga la lengua del pueblo o comunidad en la cual se localiza la escuela y se establezca una estrecha vinculación con la comunidad para fortalecer los conocimientos.
+I. Emplear las lenguas indígenas en la formación docente, así como en la instauración de unidades de enseñanza aprendizaje, currícula de estudio, contenidos y materiales didácticos.
+
+II. Establecer propósitos de enseñanza aprendizaje de carácter lingüístico en el plan curricular que contenga la lengua del pueblo o comunidad en la cual se localiza la escuela y se establezca una estrecha vinculación con la comunidad para fortalecer los conocimientos.
 
 III. Garantizar la participación de personas con conocimiento pedagógico y dominio didáctico de la lengua indígena para que formen parte del proceso educativo, de preferencia de su comunidad de adscripción.
 

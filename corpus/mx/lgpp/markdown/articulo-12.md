@@ -29,7 +29,9 @@ III. Que en la realización de la asamblea de que se trate no existió intervenc
 
 b) La celebración de una asamblea nacional constitutiva ante la presencia del funcionario designado por el Instituto, quien certificará:
 
-I. Que asistieron los delegados propietarios o suplentes, elegidos en las asambleas estatales o distritales; II. Que acreditaron, por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en el inciso a) de este artículo;
+I. Que asistieron los delegados propietarios o suplentes, elegidos en las asambleas estatales o distritales;
+
+II. Que acreditaron, por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en el inciso a) de este artículo;
 
 III. Que se comprobó la identidad y residencia de los delegados a la asamblea nacional, por medio de su credencial para votar u otro documento fehaciente;
 

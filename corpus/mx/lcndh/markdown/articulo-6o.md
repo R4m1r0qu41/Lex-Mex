@@ -25,7 +25,9 @@ II.- Conocer e investigar a petición de parte, o de oficio, presuntas violacion
 
 a) Por actos u omisiones de autoridades administrativas de carácter federal;
 
-b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente en tratándose de conductas que afecten la integridad física de las personas; III. Formular recomendaciones públicas no vinculatorias y denuncias y quejas ante las autoridades respectivas, en los términos establecidos por el artículo [102](../../cpeum/markdown/articulo-102.md), Apartado B, de la Constitución Política de los Estados Unidos Mexicanos; Fracción reformada DOF 26-11-2001
+b) Cuando los particulares o algún otro agente social cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos, particularmente en tratándose de conductas que afecten la integridad física de las personas;
+
+III. Formular recomendaciones públicas no vinculatorias y denuncias y quejas ante las autoridades respectivas, en los términos establecidos por el artículo [102](../../cpeum/markdown/articulo-102.md), Apartado B, de la Constitución Política de los Estados Unidos Mexicanos; Fracción reformada DOF 26-11-2001
 
 IV.- Conocer y decidir en última instancia las inconformidades que se presenten respecto de las recomendaciones y acuerdos de los organismos de derechos humanos de las Entidades Federativas a que se refiere el citado artículo 102, apartado B, de la Constitución Política;
 

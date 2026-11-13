@@ -23,7 +23,9 @@ I. Instituto Nacional de Cancerología, para la especialidad de las neoplasias;
 
 II. Instituto Nacional de Cardiología Ignacio Chávez, para los padecimientos cardiovasculares;
 
-III. Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, para las disciplinas biomédicas vinculadas con la medicina interna de alta especialidad en adultos y las relacionadas con la nutrición; IV. Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas, para los padecimientos del aparato respiratorio; Fracción reformada DOF 22-06-2006
+III. Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, para las disciplinas biomédicas vinculadas con la medicina interna de alta especialidad en adultos y las relacionadas con la nutrición;
+
+IV. Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas, para los padecimientos del aparato respiratorio; Fracción reformada DOF 22-06-2006
 
 IV Bis. Instituto Nacional de Geriatría, para la formación de recursos humanos y la investigación del envejecimiento, de las enfermedades y cuidados del adulto mayor; Fracción adicionada DOF 30-05-2012
 

@@ -18,5 +18,3 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 # Artículo 25
 
 La [Secretaría](articulo-3o.md), previa consulta a la [Comisión](articulo-3o.md), podrá exigir que una mercancía importada al territorio nacional ostente un marcado de país de origen en donde se indique el nombre de dicho país.
-
-Sección tercera Otras medidas de regulación al comercio exterior y normas oficiales mexicanas

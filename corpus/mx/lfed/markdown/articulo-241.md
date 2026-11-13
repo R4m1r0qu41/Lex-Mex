@@ -19,7 +19,9 @@ source_sha256: e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68
 
 Las unidades especializadas tendrán por lo menos las siguientes atribuciones:
 
-I. Ejercer las facultades y obligaciones referidas en esta [Ley](articulo-2.md) para el [Ministerio Público](articulo-2.md); II. Generar, recabar, analizar y consolidar información fiscal, patrimonial y financiera relacionada con hechos que pudieran estar vinculados con la comisión de algún delito;
+I. Ejercer las facultades y obligaciones referidas en esta [Ley](articulo-2.md) para el [Ministerio Público](articulo-2.md);
+
+II. Generar, recabar, analizar y consolidar información fiscal, patrimonial y financiera relacionada con hechos que pudieran estar vinculados con la comisión de algún delito;
 
 III. Emitir lineamientos y jerarquizar, por niveles de riesgo, la información que obtengan;
 
@@ -41,4 +43,6 @@ XII. Operar una base de datos que lleve el registro de los asuntos a dictaminar 
 
 XIII. Presentar las denuncias de los hechos presuntamente constitutivos de delito que conozcan por las investigaciones que realicen;
 
-XIV. Interconectar el sistema informático con las herramientas informáticas institucionales, con el sistema de Bienes asegurados y con los sistemas de otras instituciones para el intercambio de información, agilizando la gestión de la unidad, y XV. Las demás que le confieren otras disposiciones legales aplicables y que determine el Fiscal según sea el caso.
+XIV. Interconectar el sistema informático con las herramientas informáticas institucionales, con el sistema de Bienes asegurados y con los sistemas de otras instituciones para el intercambio de información, agilizando la gestión de la unidad, y
+
+XV. Las demás que le confieren otras disposiciones legales aplicables y que determine el Fiscal según sea el caso.

@@ -63,6 +63,8 @@ XVI. Establecer los mecanismos de evaluación de desempeño del Instituto;
 
 XVII. Establecer las medidas que aseguren la solidez financiera a largo plazo del Instituto;
 
-XVIII. Presidir las sesiones de la Comisión Ejecutiva del [Fondo](articulo-6.md) de la Vivienda y del [PENSIONISSSTE](articulo-6.md), facultad que podrá ser delegada en el Vocal Ejecutivo respectivo; XIX. Proponer a la Junta Directiva el nombramiento de los Vocales Ejecutivos del Fondo de la Vivienda y del PENSIONISSSTE, y
+XVIII. Presidir las sesiones de la Comisión Ejecutiva del [Fondo](articulo-6.md) de la Vivienda y del [PENSIONISSSTE](articulo-6.md), facultad que podrá ser delegada en el Vocal Ejecutivo respectivo;
+
+XIX. Proponer a la Junta Directiva el nombramiento de los Vocales Ejecutivos del Fondo de la Vivienda y del PENSIONISSSTE, y
 
 XX. Las demás que le fijen las leyes o los reglamentos y aquellas que expresamente le asigne la Junta Directiva.

@@ -31,7 +31,9 @@ d) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación
 
 e) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que no cumplan con lo previsto por el Artículo [68](articulo-68.md) de esta Ley, así como las disposiciones que emanen de este.
 
-f) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que incumplan con cualquiera de las disposiciones a que se refieren las fracciones II, V, VIII y X del Artículo [31](articulo-31.md) de esta Ley. II. Multa de 500 a 3,000 días de salario, a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que no cumplan con lo señalado por los Artículos [32](articulo-32.md) o [40](articulo-40.md) de esta Ley o por las disposiciones a que se refieren dichos preceptos.
+f) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que incumplan con cualquiera de las disposiciones a que se refieren las fracciones II, V, VIII y X del Artículo [31](articulo-31.md) de esta Ley.
+
+II. Multa de 500 a 3,000 días de salario, a las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que no cumplan con lo señalado por los Artículos [32](articulo-32.md) o [40](articulo-40.md) de esta Ley o por las disposiciones a que se refieren dichos preceptos.
 
 III. Multa de 2,000 a 5,000 días de salario:
 
@@ -55,6 +57,8 @@ V. Multa de 10,000 a 30,000 días de salario:
 
 a) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que proporcionen, en forma dolosa, información falsa, imprecisa o incompleta a las autoridades financieras así como a los Comités de Supervisión Auxiliar y de Protección al Ahorro Cooperativo, que tenga como consecuencia que no se refleje su verdadera situación financiera, administrativa, económica o jurídica, siempre y cuando se compruebe que el director o gerente general o algún miembro del Consejo de Administración de la Sociedad correspondiente tuvo conocimiento de tal acto.
 
-b) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que no cumplan con cualquiera de las medidas correctivas a que se refiere el Artículo [76](articulo-76.md) de esta Ley o las disposiciones que de él emanen. VI. Se sancionará con multa de 1,000 a 5,000 días de salario a los notarios, registradores, o corredores públicos que tramiten o inscriban actos que incluyan operaciones prohibidas por esta Ley, o bien autoricen la celebración de operaciones reguladas por esta Ley a personas distintas a las Cooperativas de Ahorro y Préstamo. La misma multa se impondrá cuando las personas mencionadas con anterioridad, actúen sin que medie la autorización de la Comisión para los casos en que ésta sea necesaria.
+b) A las Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV que no cumplan con cualquiera de las medidas correctivas a que se refiere el Artículo [76](articulo-76.md) de esta Ley o las disposiciones que de él emanen.
+
+VI. Se sancionará con multa de 1,000 a 5,000 días de salario a los notarios, registradores, o corredores públicos que tramiten o inscriban actos que incluyan operaciones prohibidas por esta Ley, o bien autoricen la celebración de operaciones reguladas por esta Ley a personas distintas a las Cooperativas de Ahorro y Préstamo. La misma multa se impondrá cuando las personas mencionadas con anterioridad, actúen sin que medie la autorización de la Comisión para los casos en que ésta sea necesaria.
 
 En caso de que alguna de las infracciones contenidas en este artículo generen un daño patrimonial o un beneficio, se podrá imponer la sanción que corresponda adicionando a la misma hasta una y media veces el equivalente a dicho daño o al beneficio obtenido por el infractor, lo que resulte mayor. Se entenderá por beneficio la ganancia obtenida o la pérdida evitada para sí o para un tercero. Párrafo adicionado DOF 10-01-2014

@@ -27,7 +27,9 @@ III. Estatuto orgánico: El Estatuto Orgánico de la [Fiscalía General](articul
 
 IV. Fiscalía General: La Fiscalía General de la República;
 
-V. Fiscal General: La persona titular de la Fiscalía General de la República; VI. Ley: Ley de la Fiscalía General de la República;
+V. Fiscal General: La persona titular de la Fiscalía General de la República;
+
+VI. Ley: Ley de la Fiscalía General de la República;
 
 VII. Ministerio Público: El Ministerio Público de la Federación, y
 

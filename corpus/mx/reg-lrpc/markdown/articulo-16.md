@@ -19,7 +19,9 @@ source_sha256: 2cc9cde30f6f8852a47752353db06a6b1d946b94d0e5c0e49633cb8f54776320
 
 El [Instituto](articulo-2.md) tendrá las siguientes atribuciones:
 
-I. Detectar a los extranjeros que, derivado de las manifestaciones vertidas ante la autoridad migratoria o bien por su condición personal se pueda presumir que son posibles solicitantes de la condición de refugiado, informándoles su derecho a solicitar el reconocimiento de dicha condición; II. Coadyuvar con la [Coordinación](articulo-2.md) en la recepción de las solicitudes de reconocimiento de la condición de refugiado, remitiéndolas a la Coordinación en un término de 72 horas, contadas a partir de dicha recepción;
+I. Detectar a los extranjeros que, derivado de las manifestaciones vertidas ante la autoridad migratoria o bien por su condición personal se pueda presumir que son posibles solicitantes de la condición de refugiado, informándoles su derecho a solicitar el reconocimiento de dicha condición;
+
+II. Coadyuvar con la [Coordinación](articulo-2.md) en la recepción de las solicitudes de reconocimiento de la condición de refugiado, remitiéndolas a la Coordinación en un término de 72 horas, contadas a partir de dicha recepción;
 
 III. Coadyuvar con la Coordinación en la entrega de las constancias de trámite respecto de la solicitud de reconocimiento de la condición de refugiado que establece el artículo 22 de la Ley;
 

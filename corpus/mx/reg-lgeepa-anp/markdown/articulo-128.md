@@ -21,7 +21,9 @@ Recibida la solicitud, la [Secretaría](articulo-3o.md), por conducto de la [Com
 
 I. La Comisión revisará que la solicitud cumpla con los requisitos señalados en los artículos 77 BIS, fracción I, de la [Ley](articulo-3o.md) y 126 y 127 del presente Reglamento. En caso de que la información esté incompleta, la Comisión, en un plazo que no exceda de treinta días hábiles contados a partir de la recepción de la solicitud, prevendrá al promovente para que subsane las omisiones o presente la información faltante dentro del plazo de veinte días hábiles contados a partir de la recepción de la notificación del requerimiento correspondiente, suspendiéndose el plazo para la resolución;
 
-II. Transcurrido el plazo señalado en la fracción anterior sin que el promovente desahogue el requerimiento correspondiente se desechará la solicitud, quedando a su disposición la documentación que hubiera anexado a la misma; III. Si la solicitud cumple con los requisitos o una vez que se haya desahogado el requerimiento a que se refiere la fracción I del presente artículo, la Comisión, dentro de los treinta días hábiles siguientes, realizará una visita de campo para evaluar y dictaminar el estado del predio que se propone destinar voluntariamente a la conservación, y
+II. Transcurrido el plazo señalado en la fracción anterior sin que el promovente desahogue el requerimiento correspondiente se desechará la solicitud, quedando a su disposición la documentación que hubiera anexado a la misma;
+
+III. Si la solicitud cumple con los requisitos o una vez que se haya desahogado el requerimiento a que se refiere la fracción I del presente artículo, la Comisión, dentro de los treinta días hábiles siguientes, realizará una visita de campo para evaluar y dictaminar el estado del predio que se propone destinar voluntariamente a la conservación, y
 
 IV. Dentro de los treinta días hábiles siguientes a la realización de la visita de campo, la Comisión resolverá lo conducente conforme a lo establecido en el [artículo siguiente](articulo-129.md).
 

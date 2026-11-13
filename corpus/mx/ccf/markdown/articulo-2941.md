@@ -27,6 +27,8 @@ III. Cuando se resuelva o extinga el derecho del deudor sobre el bien hipotecado
 
 IV. Cuando se expropie por causa de utilidad pública el bien hipotecado, observándose lo dispuesto en el artículo [2910](articulo-2910.md);
 
-V. Cuando se remate judicialmente la finca hipotecada, teniendo aplicación lo prevenido en el artículo [2325](articulo-2325.md); VI. Por la remisión expresa del acreedor;
+V. Cuando se remate judicialmente la finca hipotecada, teniendo aplicación lo prevenido en el artículo [2325](articulo-2325.md);
+
+VI. Por la remisión expresa del acreedor;
 
 VII. Por la declaración de estar prescrita la acción hipotecaria.

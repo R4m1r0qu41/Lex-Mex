@@ -23,7 +23,9 @@ I. El interés superior del menor;
 
 II. El derecho a la vida, la supervivencia y de desarrollo;
 
-III. La no discriminación; IV. La universalidad;
+III. La no discriminación;
+
+IV. La universalidad;
 
 V. La progresividad;
 

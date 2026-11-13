@@ -23,7 +23,9 @@ I. Propugnar por la constitución de una sola organización ganadera general o e
 
 II. Integrar la estadística ganadera local, regional o estatal y nacional, según corresponda, considerando el padrón de productores y los inventarios para cada una de las especies;
 
-III. Procurar que sus socios establezcan contabilidad ganadera en sus explotaciones, a fin de que conozcan sus costos de producción y estudios de precios de los productos que comercialicen; IV. Fomentar entre sus socios la reforestación y advertir los daños que ocasionan la tala inmoderada, los incendios y la erosión, así como aconsejar a sus socios los medios para prevenirlos y combatirlos;
+III. Procurar que sus socios establezcan contabilidad ganadera en sus explotaciones, a fin de que conozcan sus costos de producción y estudios de precios de los productos que comercialicen;
+
+IV. Fomentar entre sus socios la reforestación y advertir los daños que ocasionan la tala inmoderada, los incendios y la erosión, así como aconsejar a sus socios los medios para prevenirlos y combatirlos;
 
 V. Vigilar que sus socios realicen la movilización del ganado en estricto cumplimiento a lo previsto por el artículo 13 de la Ley y por el Título Cuarto, Capítulo III de este [Reglamento](articulo-2o.md);
 

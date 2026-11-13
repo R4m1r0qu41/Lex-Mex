@@ -17,7 +17,9 @@ source_sha256: 1f54ff4c063ca2552ee40ff0a9b1ce38b91c4074939c2c97ffda484da8d62290
 
 # Artículo 7o
 
-Los solicitantes del registro constitutivo de una asociación religiosa deberán acreditar que la iglesia o la agrupación religiosa: I. Se ha ocupado, preponderantemente, de la observancia, práctica, propagación, o instrucción de una doctrina religiosa o de un cuerpo de creencias religiosas;
+Los solicitantes del registro constitutivo de una asociación religiosa deberán acreditar que la iglesia o la agrupación religiosa:
+
+I. Se ha ocupado, preponderantemente, de la observancia, práctica, propagación, o instrucción de una doctrina religiosa o de un cuerpo de creencias religiosas;
 
 II. Ha realizado actividades religiosas en la República Mexicana por un mínimo de 5 años y cuenta con notorio arraigo entre la población, además de haber establecido su domicilio en la República;
 

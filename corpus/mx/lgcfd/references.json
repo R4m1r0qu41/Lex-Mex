@@ -308,19 +308,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgcfd:article:24:reference:1080-1082:30:direct",
+    "id": "urn:lex-mx:federal:statute:lgcfd:article:24:reference:1081-1083:30:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgcfd:article:24",
     "source_span": "30",
-    "start_char": 1080,
-    "end_char": 1082,
+    "start_char": 1081,
+    "end_char": 1083,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfep",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:30",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VI",
-        "start_char": 1084,
-        "end_char": 1095
+        "start_char": 1085,
+        "end_char": 1096
       }
     ],
     "basis": "express_cross_reference",

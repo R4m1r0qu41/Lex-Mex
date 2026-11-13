@@ -21,7 +21,9 @@ Las personas herederas de un juicio intestamentario pueden acudir ante la autori
 
 I. Copia certificada del acta de defunción o declaración judicial de muerte de la autora o el autor de la sucesión;
 
-II. Actas de nacimiento para comprobar el entroncamiento o parentesco de las personas herederas; III. Documentos o pruebas que acrediten la relación con la persona autora de la sucesión, tratándose de cónyuges, concubinos o convivientes;
+II. Actas de nacimiento para comprobar el entroncamiento o parentesco de las personas herederas;
+
+III. Documentos o pruebas que acrediten la relación con la persona autora de la sucesión, tratándose de cónyuges, concubinos o convivientes;
 
 IV. Inventario de los bienes, al que se le acompañarán los documentos que acrediten la propiedad de la persona autora de la sucesión, y
 

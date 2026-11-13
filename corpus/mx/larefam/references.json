@@ -524,20 +524,7 @@
     "end_char": 1111,
     "target_instrument_id": "urn:lex-mx:federal:statute:larefam",
     "target_provision_id": "urn:lex-mx:federal:statute:larefam:article:31",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 1128,
-        "end_char": 1143
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo tercero",
-        "start_char": 1190,
-        "end_char": 1205
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -802,11 +789,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:reference:1942-1945:196:direct",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:reference:1943-1946:196:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "source_span": "196",
-    "start_char": 1942,
-    "end_char": 1945,
+    "start_char": 1943,
+    "end_char": 1946,
     "target_instrument_id": "urn:lex-mx:federal:statute:loefam",
     "target_provision_id": "urn:lex-mx:federal:statute:loefam:article:196",
     "qualifiers": [],
@@ -818,11 +805,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:larefam:article:9:reference:2877-2879:31:direct",
+    "id": "urn:lex-mx:federal:statute:larefam:article:9:reference:2878-2880:31:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:larefam:article:9",
     "source_span": "31",
-    "start_char": 2877,
-    "end_char": 2879,
+    "start_char": 2878,
+    "end_char": 2880,
     "target_instrument_id": "urn:lex-mx:federal:statute:larefam",
     "target_provision_id": "urn:lex-mx:federal:statute:larefam:article:31",
     "qualifiers": [],

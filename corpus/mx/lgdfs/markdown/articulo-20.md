@@ -37,7 +37,9 @@ VII. Elaborar e integrar, bajo los lineamientos que determine la Secretaría, el
 
 VIII. Participar en la elaboración de normas oficiales mexicanas respecto de las actividades del sector forestal y en su vigilancia y cumplimiento;
 
-IX. Proponer la valoración de los bienes y servicios ambientales de los ecosistemas forestales, conforme a las metodologías definidas por la Secretaría; X. Coadyuvar en la definición y promoción de mercados de bienes y servicios ambientales;
+IX. Proponer la valoración de los bienes y servicios ambientales de los ecosistemas forestales, conforme a las metodologías definidas por la Secretaría;
+
+X. Coadyuvar en la definición y promoción de mercados de bienes y servicios ambientales;
 
 XI. Participar en la definición de mecanismos de compensación por los bienes y servicios ambientales que prestan los ecosistemas forestales;
 
@@ -61,7 +63,9 @@ XX. Brindar asesoría y capacitación a los pueblos y comunidades indígenas y a
 
 XXI. Ejecutar y promover programas productivos, de restauración, de protección, de conservación y de aprovechamiento sustentable de los ecosistemas forestales y de los suelos en terrenos forestales o preferentemente forestales;
 
-XXII. Promover, asesorar, capacitar y evaluar la prestación de los servicios forestales; XXIII. Realizar y promover actividades de investigación, innovación y desarrollo tecnológico; de cultura forestal, de capacitación y educación en materia forestal, así como formular y coordinar la política de investigación forestal y de desarrollo tecnológico;
+XXII. Promover, asesorar, capacitar y evaluar la prestación de los servicios forestales;
+
+XXIII. Realizar y promover actividades de investigación, innovación y desarrollo tecnológico; de cultura forestal, de capacitación y educación en materia forestal, así como formular y coordinar la política de investigación forestal y de desarrollo tecnológico;
 
 XXIV. Diseñar y ejecutar programas de prevención, protección, conservación, y restauración de los recursos y suelos forestales;
 
@@ -93,7 +97,9 @@ XXXVII. Impulsar el uso de tecnologías de la información y comunicación en lo
 
 XXXVIII. Participar en la delimitación territorial, el ordenamiento y la elaboración de planes territoriales que lleven a cabo la Secretaría de Desarrollo Agrario, Territorial y Urbano, la Secretaría de Turismo, la Secretaría de Agricultura y Desarrollo Rural u otras dependencias; Fracción reformada DOF 26-04-2021
 
-XXXIX. Fomentar la generación de oportunidades de empleo e ingreso para la población que habita en los territorios forestales, sin menoscabo de los derechos de los dueños y legítimos poseedores de los terrenos forestales; XL. Promover que, en los procesos de compra-venta gubernamentales, así como de los proveedores y contratistas del gobierno, se garantice la legal procedencia de materias primas y productos forestales y que estos sean preferentemente de origen nacional y cuenten con certificación forestal, y
+XXXIX. Fomentar la generación de oportunidades de empleo e ingreso para la población que habita en los territorios forestales, sin menoscabo de los derechos de los dueños y legítimos poseedores de los terrenos forestales;
+
+XL. Promover que, en los procesos de compra-venta gubernamentales, así como de los proveedores y contratistas del gobierno, se garantice la legal procedencia de materias primas y productos forestales y que estos sean preferentemente de origen nacional y cuenten con certificación forestal, y
 
 XLI. Participar en el diseño, instrumentación y operación de los mecanismos cooperativos de reducción de emisiones en el sector forestal de acuerdo con los criterios y protocolos emitidos por la Secretaría para este objeto, y Fracción adicionada DOF 11-04-2022
 

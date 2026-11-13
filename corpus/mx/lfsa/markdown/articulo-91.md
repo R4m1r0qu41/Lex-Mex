@@ -23,4 +23,6 @@ I. Las características y especificaciones de los productos para uso o consumo a
 
 II. Las especificaciones zoosanitarias que deberán observarse en la fabricación, formulación, almacenamiento, importación, comercialización y aplicación de productos para uso o consumo animal registrados o autorizados;
 
-III. Los factores de riesgos zoosanitarios asociados con el manejo y uso de los productos biológicos o inmunógenos en general; y IV. Los límites máximos de residuos permitidos de antibióticos, compuestos hormonales, químicos, tóxicos y otros equivalentes, en bienes de origen animal destinados para consumo humano, así como el tiempo de retiro de estas substancias en animales vivos.
+III. Los factores de riesgos zoosanitarios asociados con el manejo y uso de los productos biológicos o inmunógenos en general; y
+
+IV. Los límites máximos de residuos permitidos de antibióticos, compuestos hormonales, químicos, tóxicos y otros equivalentes, en bienes de origen animal destinados para consumo humano, así como el tiempo de retiro de estas substancias en animales vivos.

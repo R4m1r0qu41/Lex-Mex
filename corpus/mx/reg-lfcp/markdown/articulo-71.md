@@ -7,8 +7,8 @@ provision_type: article
 number: "71"
 aliases: ["REG-LFCP — Artículo 71"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCP.pdf
 source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 ---
@@ -17,7 +17,9 @@ source_sha256: 43723ba379e128c1a1c1be4b085ecc870946cdec43d56f83e7314c077361368f
 
 # Artículo 71
 
-Las sanciones serán impuestas por la [Secretaría](articulo-2o.md) con base en: I.- Las actas de inspección levantadas a los corredores, en su caso;
+Las sanciones serán impuestas por la [Secretaría](articulo-2o.md) con base en:
+
+I.- Las actas de inspección levantadas a los corredores, en su caso;
 
 II.- Los datos comprobados que aporten los particulares y los colegios de corredores;
 

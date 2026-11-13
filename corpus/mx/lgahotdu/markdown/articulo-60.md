@@ -19,7 +19,9 @@ source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 
 La legislación local, en las materias objeto de esta Ley, establecerá los requisitos para las autorizaciones, licencias o permisos de uso del suelo, construcción, fraccionamientos, subdivisiones, fusiones, relotificaciones, condominios y para cualquier otra acción urbanística, en los siguientes términos:
 
-I. Los municipios deberán hacer públicos todos los requisitos en forma escrita y, cuando sea posible a través de tecnologías de la información; II. Deberá establecer el tiempo de respuesta máximo por parte de las autoridades a las diferentes solicitudes;
+I. Los municipios deberán hacer públicos todos los requisitos en forma escrita y, cuando sea posible a través de tecnologías de la información;
+
+II. Deberá establecer el tiempo de respuesta máximo por parte de las autoridades a las diferentes solicitudes;
 
 III. Las respuestas a las solicitudes deben ser mediante acuerdo por escrito;
 

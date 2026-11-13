@@ -21,6 +21,4 @@ El Tribunal Federal de Conciliación y Arbitraje impondrá correcciones discipli
 
 a) A los particulares que faltaren al respeto y al orden debidos durante las actuaciones del Tribunal, y
 
-b) A los empleados del propio Tribunal, por las faltas que cometan en el desempeño de sus funciones. LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL
+b) A los empleados del propio Tribunal, por las faltas que cometan en el desempeño de sus funciones.

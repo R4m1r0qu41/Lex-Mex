@@ -29,7 +29,9 @@ IV.- Año Modelo: El periodo comprendido entre el 1o. de noviembre de un año, a
 
 V.- Automóvil: El vehículo destinado al transporte hasta de diez personas, incluyéndose a las vagonetas y a las camionetas denominadas "VAN", que tengan instalado convertidor catalítico de fábrica.
 
-VI.- Vehículo comercial: Al vehículo con o sin chasis para el transporte de mercancías o de más de diez personas, con peso bruto vehicular de más de 2,727, pero no mayor de 7,272 kilogramos. VII.- Camión mediano: Al vehículo con o sin chasis para el transporte de mercancías o de más de diez personas, con peso bruto vehicular de más de 2,272 kilogramos, pero no mayor de 8,864 kilogramos.
+VI.- Vehículo comercial: Al vehículo con o sin chasis para el transporte de mercancías o de más de diez personas, con peso bruto vehicular de más de 2,727, pero no mayor de 7,272 kilogramos.
+
+VII.- Camión mediano: Al vehículo con o sin chasis para el transporte de mercancías o de más de diez personas, con peso bruto vehicular de más de 2,272 kilogramos, pero no mayor de 8,864 kilogramos.
 
 VIII.- Vehículo usado: Al vehículo de cinco o más años-modelos anteriores a la fecha en que se realice la importación.
 

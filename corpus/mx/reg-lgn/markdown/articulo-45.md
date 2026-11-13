@@ -43,4 +43,6 @@ XI. Asentar constancia por escrito de todas sus actuaciones;
 
 XII. Realizar propuestas de actualización de los métodos y procedimientos de investigación de irregularidades de los integrantes y de inspección que deban establecerse en la Institución;
 
-XIII. Auxiliar al titular del Órgano Interno de Control en los casos necesarios para la atención de los asuntos de su competencia, y XIV. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
+XIII. Auxiliar al titular del Órgano Interno de Control en los casos necesarios para la atención de los asuntos de su competencia, y
+
+XIV. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

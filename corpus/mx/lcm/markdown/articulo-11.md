@@ -21,7 +21,9 @@ Se presumirá que un [Comerciante](articulo-4o.md) incumplió generalizadamente 
 
 I. Inexistencia o insuficiencia de bienes en qué trabar ejecución al practicarse un embargo por el incumplimiento de una obligación o al pretender ejecutar una sentencia en su contra con autoridad de cosa juzgada;
 
-II. Incumplimiento en el pago de obligaciones a dos o más acreedores distintos; III. Ocultación o ausencia, sin dejar al frente de la administración u operación de su empresa a alguien que pueda cumplir con sus obligaciones;
+II. Incumplimiento en el pago de obligaciones a dos o más acreedores distintos;
+
+III. Ocultación o ausencia, sin dejar al frente de la administración u operación de su empresa a alguien que pueda cumplir con sus obligaciones;
 
 IV. En iguales circunstancias que en el caso anterior, el cierre de los locales de su empresa;
 

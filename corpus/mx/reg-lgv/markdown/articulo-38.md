@@ -31,6 +31,8 @@ V. Requerir la información necesaria a las unidades administrativas de la Comis
 
 VI. Integrar y someter a consideración de los comisionados el informe anual que la Comisión Ejecutiva debe rendir ante el Sistema;
 
-VII. Elaborar las actas correspondientes, así como dar seguimiento a los acuerdos que se adopten en el Pleno de la Comisión Ejecutiva; VIII. Dar cuenta sobre las propuestas presentadas por instituciones u organizaciones privadas o sociales, colectivos o grupos de víctimas, que deban ser del conocimiento del Pleno de la Comisión Ejecutiva o del Sistema, y
+VII. Elaborar las actas correspondientes, así como dar seguimiento a los acuerdos que se adopten en el Pleno de la Comisión Ejecutiva;
+
+VIII. Dar cuenta sobre las propuestas presentadas por instituciones u organizaciones privadas o sociales, colectivos o grupos de víctimas, que deban ser del conocimiento del Pleno de la Comisión Ejecutiva o del Sistema, y
 
 IX. Las demás que el [Estatuto Orgánico](articulo-3.md) le confiera y las que le encomiende el Pleno de la Comisión Ejecutiva.

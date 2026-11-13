@@ -23,4 +23,4 @@ Las campañas de información y difusión de los delitos en materia de trata de 
 
 El Instituto Nacional de Lenguas Indígenas coadyuvará, de conformidad con los convenios de colaboración que al efecto se suscriban, en la traducción de la información a que se refiere el presente artículo en las lenguas indígenas de las regiones de que se trate.
 
-En el caso de la Lengua de Señas Mexicana será el Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, el que coadyuve en la traducción de la información dirigida a ese REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS sector de la población. Lo anterior, a través de los convenios de colaboración que se suscriban para tales efectos.
+En el caso de la Lengua de Señas Mexicana será el Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, el que coadyuve en la traducción de la información dirigida a ese sector de la población. Lo anterior, a través de los convenios de colaboración que se suscriban para tales efectos.

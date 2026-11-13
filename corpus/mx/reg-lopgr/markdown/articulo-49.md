@@ -35,7 +35,9 @@ VII. Proponer lineamientos para que las unidades administrativas y órganos desc
 
 VIII. Elaborar los informes, desahogar requerimientos, interponer los recursos, realizar las demás actuaciones que resulten procedentes y, en su caso, ejercer la representación de las autoridades de la Institución distintas del Procurador, cuando sean señalados como responsables en los juicios de amparo, en asuntos del orden civil, administrativo, laboral y aquéllos que no sean competencia de la Dirección General de Control de Juicios de Amparo, en términos de lo dispuesto por el artículo [19](../../lamp/markdown/articulo-19.md) de la Ley de Amparo, Reglamentaria de los Artículos [103](../../cpeum/markdown/articulo-103.md) y [107](../../cpeum/markdown/articulo-107.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. Formular querellas y denuncias por hechos probablemente constitutivos de delito que afecten a la Procuraduría, así como otorgar perdón cuando éste proceda; X. Dictaminar, en materia laboral, sobre la procedencia de terminación de los efectos del nombramiento de los servidores públicos de la Procuraduría, a excepción del personal del [Servicio de Carrera](articulo-2.md) y de los servidores públicos previstos en los artículos 18 y 19 de la Ley Orgánica, para la resolución definitiva del Oficial Mayor;
+IX. Formular querellas y denuncias por hechos probablemente constitutivos de delito que afecten a la Procuraduría, así como otorgar perdón cuando éste proceda;
+
+X. Dictaminar, en materia laboral, sobre la procedencia de terminación de los efectos del nombramiento de los servidores públicos de la Procuraduría, a excepción del personal del [Servicio de Carrera](articulo-2.md) y de los servidores públicos previstos en los artículos 18 y 19 de la Ley Orgánica, para la resolución definitiva del Oficial Mayor;
 
 XI. Revisar y dictaminar los actos jurídicos que celebre la Procuraduría que afecten el presupuesto de la Institución y que no se encuentren expresamente reservados a la Dirección General de Análisis Legislativo y Normatividad;
 
@@ -59,7 +61,9 @@ XX. Representar los intereses de la Procuraduría y del Ministerio Público de l
 
 XXI. Conocer y resolver los procedimientos administrativos de responsabilidad patrimonial del Estado;
 
-XXII. Administrar y operar un sistema de información sobre bienes sujetos a procedimientos jurisdiccionales y administrativos federales; XXIII. Apoyar en todo lo que se requiera para la administración y coordinación de la operación del Fondo de Apoyo o Asistencia a Víctimas u Ofendidos a que se refiere la Ley Federal de Extinción de Dominio, Reglamentaria del artículo [22](../../cpeum/markdown/articulo-22.md) de la Constitución Política de los Estados Unidos Mexicanos;
+XXII. Administrar y operar un sistema de información sobre bienes sujetos a procedimientos jurisdiccionales y administrativos federales;
+
+XXIII. Apoyar en todo lo que se requiera para la administración y coordinación de la operación del Fondo de Apoyo o Asistencia a Víctimas u Ofendidos a que se refiere la Ley Federal de Extinción de Dominio, Reglamentaria del artículo [22](../../cpeum/markdown/articulo-22.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 XXIV. Elaborar el informe anual al Congreso de la Unión sobre el ejercicio de las acciones de extinción de dominio a que se refiere la Ley Federal de Extinción de Dominio, Reglamentaria del artículo [22](../../cpeum/markdown/articulo-22.md) de la Constitución Política de los Estados Unidos Mexicanos, y
 

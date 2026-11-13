@@ -19,9 +19,7 @@ source_sha256: 2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe
 
 Son obligaciones de los titulares a que se refiere el Artículo [1](articulo-1o.md)o. de esta Ley: Párrafo reformado DOF 31-12-1975, 31-12-1984
 
-I.- Preferir en igualdad de condiciones, de conocimientos, aptitudes y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; a quienes representen la única fuente de ingreso familiar; a los Veteranos de la Revolución; a los supervivientes de la LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL invasión norteamericana de 1914; a los que con anterioridad les hubieren prestado servicios y a los que acrediten tener mejores derechos conforme al escalafón. Párrafo reformado DOF 31-12-1974
+I.- Preferir en igualdad de condiciones, de conocimientos, aptitudes y de antigüedad, a los trabajadores sindicalizados respecto de quienes no lo estuvieren; a quienes representen la única fuente de ingreso familiar; a los Veteranos de la Revolución; a los supervivientes de la invasión norteamericana de 1914; a los que con anterioridad les hubieren prestado servicios y a los que acrediten tener mejores derechos conforme al escalafón. Párrafo reformado DOF 31-12-1974
 
 Para los efectos del párrafo que antecede, en cada una de las dependencias se formarán los escalafones de acuerdo con las bases establecidas en el título tercero de esta ley;
 
@@ -49,9 +47,7 @@ f) Establecimiento de escuelas de Administración Pública en las que se imparta
 
 g) Propiciar cualquier medida que permita a los trabajadores de su Dependencia, el arrendamiento o la compra de habitaciones baratas.
 
-h) Constitución de depósitos en favor de los trabajadores con aportaciones sobre sus sueldos básicos o salarios, para integrar un fondo de la vivienda a fin de establecer sistemas de financiamiento que permitan otorgar a éstos, crédito barato y suficiente para que adquieran en propiedad o condominio, habitaciones cómodas e higiénicas; para LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL construirlas, repararlas o mejorarlas o para el pago de pasivos adquiridos por dichos conceptos.
+h) Constitución de depósitos en favor de los trabajadores con aportaciones sobre sus sueldos básicos o salarios, para integrar un fondo de la vivienda a fin de establecer sistemas de financiamiento que permitan otorgar a éstos, crédito barato y suficiente para que adquieran en propiedad o condominio, habitaciones cómodas e higiénicas; para construirlas, repararlas o mejorarlas o para el pago de pasivos adquiridos por dichos conceptos.
 
 Las aportaciones que se hagan a dicho fondo serán enteradas al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, cuya Ley regulará los procedimientos y formas conforme a los cuales se otorgarán y adjudicarán los créditos correspondientes.
 

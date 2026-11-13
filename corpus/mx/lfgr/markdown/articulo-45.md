@@ -35,7 +35,9 @@ VII. Implementar y administrar bancos de datos y sistemas de información delinc
 
 VIII. Efectuar el mantenimiento y control documental de los bancos de datos y de los sistemas de información delincuencial para generar y procesar información relacionada con las investigaciones y persecución de delitos;
 
-IX. Clasificar la información, así como integrar fichas técnicas y elaborar mapas delincuenciales para la compilación de datos de carácter sensible que permitan vincular e integrar los indicios existentes que fortalezcan las investigaciones a cargo de la [Fiscalía General](articulo-9.md); X. Alimentar y actualizar los bancos de datos y sistemas de información delincuencial;
+IX. Clasificar la información, así como integrar fichas técnicas y elaborar mapas delincuenciales para la compilación de datos de carácter sensible que permitan vincular e integrar los indicios existentes que fortalezcan las investigaciones a cargo de la [Fiscalía General](articulo-9.md);
+
+X. Alimentar y actualizar los bancos de datos y sistemas de información delincuencial;
 
 XI. Registrar los casos en que se haya optado por alguna de las vías de solución alterna de conflictos;
 

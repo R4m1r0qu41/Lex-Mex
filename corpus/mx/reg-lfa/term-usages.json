@@ -82,12 +82,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:23:term-usage:252-266",
+    "id": "urn:lex-mx:federal:regulation:reg-lfa:article:23:term-usage:253-267",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfa:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfa:term:estabilizacion",
     "span": "Estabilización",
-    "start_char": 252,
-    "end_char": 266
+    "start_char": 253,
+    "end_char": 267
   },
   {
     "schema_version": "0.1.0",

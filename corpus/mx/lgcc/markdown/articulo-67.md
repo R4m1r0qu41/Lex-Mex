@@ -31,7 +31,9 @@ V. Las estimaciones presupuestales necesarias para implementar sus objetivos y m
 
 VI. Los proyectos o estudios de investigación, transferencia de tecnología, capacitación, difusión y su financiamiento;
 
-VII. Los responsables de la instrumentación, del seguimiento y de la difusión de avances; VIII. Propuestas para la coordinación interinstitucional y la transversalidad entre las áreas con metas compartidas o que influyen en otros sectores;
+VII. Los responsables de la instrumentación, del seguimiento y de la difusión de avances;
+
+VIII. Propuestas para la coordinación interinstitucional y la transversalidad entre las áreas con metas compartidas o que influyen en otros sectores;
 
 IX. La medición, el reporte y la verificación de las medidas y acciones de adaptación y mitigación propuestas, y
 

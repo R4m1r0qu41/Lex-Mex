@@ -25,4 +25,6 @@ I. Apoyar la emergencia y consolidación de proyectos locales de financiamiento,
 
 II. Apoyar técnica y financieramente a organizaciones económicas de productores, para la creación de sistemas financieros autónomos y descentralizados;
 
-III. Canalizar apoyos económicos para desarrollar el capital humano y social de los organismos de los productores que conformen esquemas de financiamiento complementarios de la cobertura del sistema financiero institucional; y IV. Normar y facilitar a los productores el uso financiero de los instrumentos de apoyo directo al ingreso, la productividad y la comercialización, para complementar los procesos de capitalización.
+III. Canalizar apoyos económicos para desarrollar el capital humano y social de los organismos de los productores que conformen esquemas de financiamiento complementarios de la cobertura del sistema financiero institucional; y
+
+IV. Normar y facilitar a los productores el uso financiero de los instrumentos de apoyo directo al ingreso, la productividad y la comercialización, para complementar los procesos de capitalización.

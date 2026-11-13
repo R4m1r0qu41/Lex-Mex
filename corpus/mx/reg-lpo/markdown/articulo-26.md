@@ -19,7 +19,9 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 El certificado orgánico contendrá lo siguiente:
 
-I. Nombre y domicilio del operador orgánico; II. Nombre del representante del operador orgánico, en su caso;
+I. Nombre y domicilio del operador orgánico;
+
+II. Nombre del representante del operador orgánico, en su caso;
 
 III. Número de identificación del operador asignado por el Organismo;
 

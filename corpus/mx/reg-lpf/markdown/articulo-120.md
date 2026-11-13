@@ -19,6 +19,8 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Cuando la [Institución](articulo-2.md) no cuente con personal que ostente la jerarquía necesaria para ocupar algún cargo, el Comisionado General podrá:
 
-I. Nombrar a personal de la Institución que ostente un grado inmediato inferior, o II. Designar a cualquier persona que sin pertenecer a la Institución tenga la experiencia, capacidad y profesionalismo para desempeñar dicho cargo.
+I. Nombrar a personal de la Institución que ostente un grado inmediato inferior, o
+
+II. Designar a cualquier persona que sin pertenecer a la Institución tenga la experiencia, capacidad y profesionalismo para desempeñar dicho cargo.
 
 En este último supuesto, el [Consejo Federal](articulo-2.md) asignará grado homólogo correspondiente al cargo que se vaya a ocupar.

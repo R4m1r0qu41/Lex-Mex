@@ -300,19 +300,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:reference:2159-2162:338:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:reference:2160-2163:338:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "source_span": "338",
-    "start_char": 2159,
-    "end_char": 2162,
+    "start_char": 2160,
+    "end_char": 2163,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:338",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción II",
-        "start_char": 2134,
-        "end_char": 2145
+        "start_char": 2135,
+        "end_char": 2146
       }
     ],
     "basis": "express_cross_reference",
@@ -323,19 +323,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:reference:2273-2276:338:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:reference:2274-2277:338:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "source_span": "338",
-    "start_char": 2273,
-    "end_char": 2276,
+    "start_char": 2274,
+    "end_char": 2277,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:338",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 2247,
-        "end_char": 2259
+        "start_char": 2248,
+        "end_char": 2260
       }
     ],
     "basis": "express_cross_reference",
@@ -346,19 +346,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:reference:2379-2382:338:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:reference:2380-2383:338:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "source_span": "338",
-    "start_char": 2379,
-    "end_char": 2382,
+    "start_char": 2380,
+    "end_char": 2383,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:338",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",
-        "start_char": 2354,
-        "end_char": 2365
+        "start_char": 2355,
+        "end_char": 2366
       }
     ],
     "basis": "express_cross_reference",
@@ -369,19 +369,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:reference:2484-2487:338:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33:reference:2485-2488:338:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "source_span": "338",
-    "start_char": 2484,
-    "end_char": 2487,
+    "start_char": 2485,
+    "end_char": 2488,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:338",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción V",
-        "start_char": 2460,
-        "end_char": 2470
+        "start_char": 2461,
+        "end_char": 2471
       }
     ],
     "basis": "express_cross_reference",
@@ -589,25 +589,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:reference:1840-1842:33:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:reference:1841-1843:33:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62",
     "source_span": "33",
-    "start_char": 1840,
-    "end_char": 1842,
+    "start_char": 1841,
+    "end_char": 1843,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:33",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XI",
-        "start_char": 1844,
-        "end_char": 1855
+        "start_char": 1845,
+        "end_char": 1856
       },
       {
         "qualifier_type": "subsection",
         "text": "incisos b",
-        "start_char": 1857,
-        "end_char": 1866
+        "start_char": 1858,
+        "end_char": 1867
       }
     ],
     "basis": "express_cross_reference",
@@ -618,11 +618,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:reference:2348-2351:315:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62:reference:2349-2352:315:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:62",
     "source_span": "315",
-    "start_char": 2348,
-    "end_char": 2351,
+    "start_char": 2349,
+    "end_char": 2352,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:315",
     "qualifiers": [],
@@ -776,25 +776,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:9:reference:1843-1846:333:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:9:reference:1844-1847:333:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:9",
     "source_span": "333",
-    "start_char": 1843,
-    "end_char": 1846,
+    "start_char": 1844,
+    "end_char": 1847,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
     "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:333",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VI",
-        "start_char": 1848,
-        "end_char": 1859
+        "start_char": 1849,
+        "end_char": 1860
       },
       {
         "qualifier_type": "subsection",
         "text": "inciso b",
-        "start_char": 1861,
-        "end_char": 1869
+        "start_char": 1862,
+        "end_char": 1870
       }
     ],
     "basis": "express_cross_reference",

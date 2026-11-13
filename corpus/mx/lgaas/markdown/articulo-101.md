@@ -17,7 +17,9 @@ source_sha256: 56a1bbbaa8d0296def17f9cef3f8e81fa3ff09f2f02fecfd91eb01a847841410
 
 # Artículo 101
 
-La Declaratoria de actuación se emitirá mediante Decreto, el cual será publicado por los respectivos órganos de difusión oficial. La Declaratoria de emergencia alimentaria especificará, por lo menos, lo siguiente: I. La descripción del fenómeno o fenómenos que motivan la Declaratoria;
+La Declaratoria de actuación se emitirá mediante Decreto, el cual será publicado por los respectivos órganos de difusión oficial. La Declaratoria de emergencia alimentaria especificará, por lo menos, lo siguiente:
+
+I. La descripción del fenómeno o fenómenos que motivan la Declaratoria;
 
 II. La forma y el alcance en que dichos fenómenos afectan el ejercicio del derecho a la alimentación adecuada;
 

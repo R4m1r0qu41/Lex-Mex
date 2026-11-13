@@ -21,7 +21,9 @@ La presente Ley es de orden público e interés social y sus disposiciones son d
 
 I. Promover la concurrencia de los sectores público, social y privado en la elaboración y observancia de las [Normas Oficiales Mexicanas](articulo-4.md) y los [Estándares](articulo-4.md);
 
-II. Establecer mecanismos de coordinación y colaboración en materia de normalización, Evaluación de la Conformidad y metrología entre las [Autoridades Normalizadoras](articulo-4.md), el Centro Nacional de Metrología, los Institutos Designados de Metrología, los organismos de acreditación y organismos de evaluación de la conformidad, las entidades locales y municipales, así como los sectores social y privado; III. Propiciar la innovación tecnológica en los bienes, productos, procesos y servicios para mejorar la calidad de vida de las personas en todo el territorio nacional;
+II. Establecer mecanismos de coordinación y colaboración en materia de normalización, Evaluación de la Conformidad y metrología entre las [Autoridades Normalizadoras](articulo-4.md), el Centro Nacional de Metrología, los Institutos Designados de Metrología, los organismos de acreditación y organismos de evaluación de la conformidad, las entidades locales y municipales, así como los sectores social y privado;
+
+III. Propiciar la innovación tecnológica en los bienes, productos, procesos y servicios para mejorar la calidad de vida de las personas en todo el territorio nacional;
 
 IV. Impulsar la creación de mayor infraestructura física y digital para el adecuado desarrollo de las actividades de Evaluación de la Conformidad;
 

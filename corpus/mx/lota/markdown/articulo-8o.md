@@ -33,7 +33,9 @@ VI.- Fijar y cambiar la adscripción de los magistrados de los tribunales unitar
 
 VII.- Nombrar los secretarios, actuarios y peritos de los tribunales agrarios, cesarlos, suspenderlos en sus funciones, aceptar sus renuncias, cambiarlos de adscripción y resolver todas las cuestiones que se relacionen con dichos nombramientos; así como concederles licencias en los términos de las disposiciones legales aplicables, previa opinión, en su caso, del magistrado a que se encuentren adscritos;
 
-VIII.- Aprobar el anteproyecto de presupuesto anual de egresos; IX.- Conocer de las denuncias o quejas que se presenten en contra de los miembros de los tribunales agrarios y determinar las sanciones administrativas que deban aplicarse en caso de determinárseles alguna responsabilidad;
+VIII.- Aprobar el anteproyecto de presupuesto anual de egresos;
+
+IX.- Conocer de las denuncias o quejas que se presenten en contra de los miembros de los tribunales agrarios y determinar las sanciones administrativas que deban aplicarse en caso de determinárseles alguna responsabilidad;
 
 X.- Aprobar el Reglamento Interior de los tribunales agrarios, así como los demás reglamentos y disposiciones necesarias para su buen funcionamiento, y
 

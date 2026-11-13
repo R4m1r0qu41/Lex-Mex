@@ -57,7 +57,9 @@ XIII. Consejo: El Consejo Nacional Forestal;
 
 XIV. Consejos Estatales: Los [Consejos](articulo-7.md) Estatales Forestales;
 
-XV. Conservación forestal: El mantenimiento de las condiciones que propician la persistencia y evolución de un ecosistema forestal, sin degradación del mismo ni pérdida de sus funciones; XVI. Cuenca Hidrográfica: Superficie geográfica delimitada por la parte más alta de las montañas a partir de la cual fluyen las corrientes de agua, las cuales se unen y desembocan a una presa, lago o al mar;
+XV. Conservación forestal: El mantenimiento de las condiciones que propician la persistencia y evolución de un ecosistema forestal, sin degradación del mismo ni pérdida de sus funciones;
+
+XVI. Cuenca Hidrográfica: Superficie geográfica delimitada por la parte más alta de las montañas a partir de la cual fluyen las corrientes de agua, las cuales se unen y desembocan a una presa, lago o al mar;
 
 XVII. Cultura forestal: Son los conocimientos científicos y tradicionales, técnicas, hábitos y valores sobre el cuidado, manejo y aprovechamiento sustentable de los recursos forestales;
 
@@ -133,7 +135,9 @@ XLIX. Recursos forestales no maderables: La parte no leñosa de la vegetación d
 
 L. Recursos genéticos forestales: Semillas y órganos de la vegetación forestal que existen en los diferentes ecosistemas y de los cuales dependen los factores hereditarios y la reproducción y que reciben el nombre genérico de germoplasma forestal;
 
-LI. Redes locales de valor: Conjunto de unidades productivas localizadas en los territorios forestales, interrelacionadas en el proceso de agregación de valor a los servicios y las materias primas forestales, que contribuyen a retener los beneficios económicos y oportunidades de empleo en los mismos territorios. LII. Reforestación: Establecimiento de especies forestales en terrenos forestales;
+LI. Redes locales de valor: Conjunto de unidades productivas localizadas en los territorios forestales, interrelacionadas en el proceso de agregación de valor a los servicios y las materias primas forestales, que contribuyen a retener los beneficios económicos y oportunidades de empleo en los mismos territorios.
+
+LII. Reforestación: Establecimiento de especies forestales en terrenos forestales;
 
 LIII. Registro: El Registro Forestal Nacional;
 
@@ -159,7 +163,9 @@ LXII. Servicios forestales: Las actividades realizadas para ordenar, cultivar, p
 
 LXIII. Silvicultores: Personas que llevan a cabo acciones de manejo de los recursos forestales con fines de aprovechamiento, protección, conservación y restauración;
 
-LXIV. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios; LXV. Sistema de calificación para el manejo del fuego en ecosistemas forestales: Instrumento nacional que establece los requerimientos mínimos de entrenamiento, experiencia, aptitud física y estándares que aplican para el personal técnico especialista y los combatientes de incendios forestales, independientemente de la dependencia, nivel de gobierno u organización a la que pertenezcan;
+LXIV. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
+
+LXV. Sistema de calificación para el manejo del fuego en ecosistemas forestales: Instrumento nacional que establece los requerimientos mínimos de entrenamiento, experiencia, aptitud física y estándares que aplican para el personal técnico especialista y los combatientes de incendios forestales, independientemente de la dependencia, nivel de gobierno u organización a la que pertenezcan;
 
 LXVI. Sistema de Comando de Incidentes: Es la combinación de instalaciones, equipamiento, personal, protocolos, procedimientos y comunicaciones operando en una estructura organizacional común, con la responsabilidad de administrar los recursos asignados para lograr efectivamente los objetivos operacionales pertinentes en un incidente;
 

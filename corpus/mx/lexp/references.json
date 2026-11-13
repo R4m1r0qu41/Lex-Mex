@@ -40,14 +40,7 @@
     "end_char": 1967,
     "target_instrument_id": "urn:lex-mx:federal:statute:lexp",
     "target_provision_id": "urn:lex-mx:federal:statute:lexp:article:4",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 2079,
-        "end_char": 2089
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

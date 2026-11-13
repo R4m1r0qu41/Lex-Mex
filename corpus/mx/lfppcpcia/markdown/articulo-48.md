@@ -25,7 +25,9 @@ II. Tomar decisiones, cuando corresponda, sobre el reconocimiento de la propieda
 
 III. Definir estrategias y mecanismos jurídicos para la defensa de los derechos de propiedad colectiva de los pueblos y comunidades respecto de los elementos de su patrimonio cultural;
 
-IV. Atender las solicitudes de los pueblos y comunidades respecto de las acciones que garanticen el registro, documentación, investigación, difusión y, en su caso, continuidad de los elementos del patrimonio cultural de los pueblos y comunidades; V. Establecer acciones y programas de carácter transversal y permanentes para la salvaguardia de los elementos del patrimonio cultural de los pueblos y comunidades;
+IV. Atender las solicitudes de los pueblos y comunidades respecto de las acciones que garanticen el registro, documentación, investigación, difusión y, en su caso, continuidad de los elementos del patrimonio cultural de los pueblos y comunidades;
+
+V. Establecer acciones y programas de carácter transversal y permanentes para la salvaguardia de los elementos del patrimonio cultural de los pueblos y comunidades;
 
 VI. Identificar, registrar, catalogar y documentar los elementos del patrimonio cultural de los pueblos y comunidades;
 

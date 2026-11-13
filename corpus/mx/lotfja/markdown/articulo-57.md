@@ -31,4 +31,6 @@ V. Llevar el turno de los Magistrados que deban formular ponencias, estudios o p
 
 VI. Dar fe y expedir certificados de constancias que obran en los expedientes de las Secciones;
 
-VII. Digitalizar la documentación y actuaciones que se requiera incorporar a un expediente tramitado en línea, así como imprimir y certificar las constancias de los expedientes electrónicos de la Sección y las reproducciones en medios electrónicos de dichas actuaciones, y VIII. Las demás que les encomiende el Presidente de la Sección.
+VII. Digitalizar la documentación y actuaciones que se requiera incorporar a un expediente tramitado en línea, así como imprimir y certificar las constancias de los expedientes electrónicos de la Sección y las reproducciones en medios electrónicos de dichas actuaciones, y
+
+VIII. Las demás que les encomiende el Presidente de la Sección.

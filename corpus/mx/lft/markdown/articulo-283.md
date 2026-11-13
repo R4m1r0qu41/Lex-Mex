@@ -19,7 +19,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 En materia de seguridad y salud, las personas empleadoras tienen las obligaciones especiales siguientes: Párrafo reformado DOF 24-01-2024
 
-I. Pagar los salarios precisamente en el lugar donde preste el trabajador sus servicios y en períodos de tiempo que no excedan de una semana; II. Proveer gratuitamente habitaciones a las personas trabajadoras del campo y, en su caso, a su familia o dependientes económicos que lo acompañen. Dichas habitaciones deberán cumplir con los requerimientos mínimos de construcción, seguridad e higiene que garanticen un adecuado estándar de habitabilidad en condiciones dignas. En todos los casos las habitaciones deberán contar con piso firme, agua potable, baños, regaderas, lavaderos y comedores. En su caso, proveer de un predio individual o colectivo para la cría de animales de corral; Fracción reformada DOF 30-11-2012, 01-05-2019, 24-01-2024
+I. Pagar los salarios precisamente en el lugar donde preste el trabajador sus servicios y en períodos de tiempo que no excedan de una semana;
+
+II. Proveer gratuitamente habitaciones a las personas trabajadoras del campo y, en su caso, a su familia o dependientes económicos que lo acompañen. Dichas habitaciones deberán cumplir con los requerimientos mínimos de construcción, seguridad e higiene que garanticen un adecuado estándar de habitabilidad en condiciones dignas. En todos los casos las habitaciones deberán contar con piso firme, agua potable, baños, regaderas, lavaderos y comedores. En su caso, proveer de un predio individual o colectivo para la cría de animales de corral; Fracción reformada DOF 30-11-2012, 01-05-2019, 24-01-2024
 
 III. Mantener las habitaciones en condiciones dignas y de habitabilidad, haciendo, en su caso, las reparaciones necesarias y convenientes; Fracción reformada DOF 30-11-2012, 24-01-2024
 

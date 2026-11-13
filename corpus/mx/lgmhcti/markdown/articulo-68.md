@@ -33,7 +33,9 @@ VI. Secretaría de Educación Pública;
 
 VII. Secretaría de Energía;
 
-VIII. Secretaría de Hacienda y Crédito Público; IX. Secretaría de la Defensa Nacional;
+VIII. Secretaría de Hacienda y Crédito Público;
+
+IX. Secretaría de la Defensa Nacional;
 
 X. Secretaría de Marina;
 

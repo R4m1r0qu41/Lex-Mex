@@ -27,7 +27,9 @@ III. Establecer los métodos para el manejo adecuado de las evidencias físicas 
 
 IV. Desarrollar métodos y técnicas para examinar el material sensible que apoye a la investigación para la prevención de los delitos, así como el relacionado con presuntos hechos delictuosos, conforme a las instrucciones del [Ministerio Público](articulo-2.md) y en observancia a la normatividad de cadena de custodia, en términos del Código Federal de Procedimientos Penales, con el fin de aportar elementos que permitan determinar su existencia, reconstruirlos o bien, señalar y precisar la intervención de uno o varios sujetos en el mismo;
 
-V. Supervisar el empleo de métodos de recolección de evidencia según la escena del delito en la que se trabaje, conforme a la normatividad de la materia; VI. Vigilar la operación de laboratorios de identificación, de técnica policial, de innovaciones tecnológicas, de analítica, así como de medicina legal y los que resulten necesarios para el cumplimiento de sus atribuciones;
+V. Supervisar el empleo de métodos de recolección de evidencia según la escena del delito en la que se trabaje, conforme a la normatividad de la materia;
+
+VI. Vigilar la operación de laboratorios de identificación, de técnica policial, de innovaciones tecnológicas, de analítica, así como de medicina legal y los que resulten necesarios para el cumplimiento de sus atribuciones;
 
 VII. Coordinar la aplicación de los conocimientos y herramientas científicas en la investigación preventiva de los delitos;
 
@@ -55,7 +57,9 @@ XVIII. Vigilar el cumplimiento de la normatividad en materia de seguridad, higie
 
 XIX. Presentar propuestas innovadoras sobre la optimización de procesos para el ejercicio con calidad en cada investigación;
 
-XX. Establecer, conforme a las disposiciones aplicables, procedimientos sistemáticos de operación internos con estándares internacionales encaminados a obtener la verdad histórica de los delitos a través de avances científicos y tecnológicos; XXI. Actuar como vínculo de la Institución ante los organismos de certificación de laboratorios y de otros organismos internacionales relacionadas a las labores propias de la Policía Científica;
+XX. Establecer, conforme a las disposiciones aplicables, procedimientos sistemáticos de operación internos con estándares internacionales encaminados a obtener la verdad histórica de los delitos a través de avances científicos y tecnológicos;
+
+XXI. Actuar como vínculo de la Institución ante los organismos de certificación de laboratorios y de otros organismos internacionales relacionadas a las labores propias de la Policía Científica;
 
 XXII. Elaborar los procedimientos, conforme a las disposiciones aplicables, entre las demás áreas de la Coordinación para una gestión adecuada en el proceso técnico científico;
 

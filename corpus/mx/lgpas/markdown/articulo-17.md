@@ -23,7 +23,9 @@ I. El Estado Mexicano reconoce que la pesca y la acuacultura son actividades que
 
 II. Que la pesca y la acuacultura se orienten a la producción de alimentos para el consumo humano directo para el abastecimiento de proteínas de alta calidad y de bajo costo para los habitantes de la nación;
 
-III. Que el aprovechamiento de los recursos pesqueros y acuícolas, su conservación, restauración y la protección de los ecosistemas en los que se encuentren, sea compatible con su capacidad natural de recuperación y disponibilidad; IV. Que la investigación científica y tecnológica se consolide como herramienta fundamental para la definición e implementación de políticas, instrumentos, medidas, mecanismos y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas, además de ser un instrumento que considere la implementación de acciones en materia de pesca y acuacultura sustentables para la mitigación y adaptación al cambio climático; Fracción reformada DOF 23-01-2014
+III. Que el aprovechamiento de los recursos pesqueros y acuícolas, su conservación, restauración y la protección de los ecosistemas en los que se encuentren, sea compatible con su capacidad natural de recuperación y disponibilidad;
+
+IV. Que la investigación científica y tecnológica se consolide como herramienta fundamental para la definición e implementación de políticas, instrumentos, medidas, mecanismos y decisiones relativos a la conservación, restauración, protección y aprovechamiento sustentable de los recursos pesqueros y acuícolas, además de ser un instrumento que considere la implementación de acciones en materia de pesca y acuacultura sustentables para la mitigación y adaptación al cambio climático; Fracción reformada DOF 23-01-2014
 
 V. Reconocer a la acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en el medio rural, incrementar la producción pesquera y la oferta de alimentos que mejoren la dieta de la población mexicana, así como la generación de divisas;
 

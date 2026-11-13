@@ -1045,30 +1045,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:94:term-usage:1919-1922",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:94:term-usage:1920-1923",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:94",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 1919,
-    "end_char": 1922
+    "start_char": 1920,
+    "end_char": 1923
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:98:term-usage:462-486",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:98:term-usage:463-487",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:98",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:tratados-internacionales",
     "span": "Tratados Internacionales",
-    "start_char": 462,
-    "end_char": 486
+    "start_char": 463,
+    "end_char": 487
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:98:term-usage:616-640",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:98:term-usage:617-641",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:98",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:tratados-internacionales",
     "span": "Tratados Internacionales",
-    "start_char": 616,
-    "end_char": 640
+    "start_char": 617,
+    "end_char": 641
   },
   {
     "schema_version": "0.1.0",
@@ -1810,21 +1810,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:131:term-usage:463-472",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:131:term-usage:464-473",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:131",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 463,
-    "end_char": 472
+    "start_char": 464,
+    "end_char": 473
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:131:term-usage:591-600",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:131:term-usage:592-601",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:131",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 591,
-    "end_char": 600
+    "start_char": 592,
+    "end_char": 601
   },
   {
     "schema_version": "0.1.0",
@@ -2251,30 +2251,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:156:term-usage:672-675",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:156:term-usage:673-676",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:156",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 672,
-    "end_char": 675
+    "start_char": 673,
+    "end_char": 676
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:156:term-usage:1175-1181",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:156:term-usage:1176-1182",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:156",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:gaceta",
     "span": "Gaceta",
-    "start_char": 1175,
-    "end_char": 1181
+    "start_char": 1176,
+    "end_char": 1182
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:156:term-usage:1356-1365",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:156:term-usage:1357-1366",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:156",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 1356,
-    "end_char": 1365
+    "start_char": 1357,
+    "end_char": 1366
   },
   {
     "schema_version": "0.1.0",
@@ -2323,30 +2323,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:160:term-usage:343-346",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:160:term-usage:344-347",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:160",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 343,
-    "end_char": 346
+    "start_char": 344,
+    "end_char": 347
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:160:term-usage:438-441",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:160:term-usage:439-442",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:160",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 438,
-    "end_char": 441
+    "start_char": 439,
+    "end_char": 442
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:160:term-usage:584-593",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:160:term-usage:585-594",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:160",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 584,
-    "end_char": 593
+    "start_char": 585,
+    "end_char": 594
   },
   {
     "schema_version": "0.1.0",
@@ -2476,12 +2476,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:174:term-usage:705-708",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:174:term-usage:706-709",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:174",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 705,
-    "end_char": 708
+    "start_char": 706,
+    "end_char": 709
   },
   {
     "schema_version": "0.1.0",
@@ -2548,12 +2548,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:186:term-usage:1381-1390",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:186:term-usage:1382-1391",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:186",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 1381,
-    "end_char": 1390
+    "start_char": 1382,
+    "end_char": 1391
   },
   {
     "schema_version": "0.1.0",
@@ -2764,21 +2764,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:214:term-usage:1506-1509",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:214:term-usage:1507-1510",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:214",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 1506,
-    "end_char": 1509
+    "start_char": 1507,
+    "end_char": 1510
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:214:term-usage:1660-1669",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:214:term-usage:1661-1670",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:214",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 1660,
-    "end_char": 1669
+    "start_char": 1661,
+    "end_char": 1670
   },
   {
     "schema_version": "0.1.0",
@@ -2989,12 +2989,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:231:term-usage:830-836",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:231:term-usage:831-837",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:231",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:gaceta",
     "span": "Gaceta",
-    "start_char": 830,
-    "end_char": 836
+    "start_char": 831,
+    "end_char": 837
   },
   {
     "schema_version": "0.1.0",
@@ -3439,12 +3439,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:271:term-usage:1857-1860",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:271:term-usage:1858-1861",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:271",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 1857,
-    "end_char": 1860
+    "start_char": 1858,
+    "end_char": 1861
   },
   {
     "schema_version": "0.1.0",
@@ -3493,12 +3493,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:276:term-usage:1004-1013",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:276:term-usage:1005-1014",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:276",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 1004,
-    "end_char": 1013
+    "start_char": 1005,
+    "end_char": 1014
   },
   {
     "schema_version": "0.1.0",
@@ -4042,12 +4042,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:313:term-usage:210-219",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:313:term-usage:211-220",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:313",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 210,
-    "end_char": 219
+    "start_char": 211,
+    "end_char": 220
   },
   {
     "schema_version": "0.1.0",
@@ -4519,12 +4519,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:339:term-usage:774-777",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:339:term-usage:775-778",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:339",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 774,
-    "end_char": 777
+    "start_char": 775,
+    "end_char": 778
   },
   {
     "schema_version": "0.1.0",
@@ -4915,12 +4915,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:364:term-usage:663-666",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:364:term-usage:664-667",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:364",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 663,
-    "end_char": 666
+    "start_char": 664,
+    "end_char": 667
   },
   {
     "schema_version": "0.1.0",
@@ -4987,12 +4987,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:367:term-usage:1233-1239",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:367:term-usage:1234-1240",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:367",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:gaceta",
     "span": "Gaceta",
-    "start_char": 1233,
-    "end_char": 1239
+    "start_char": 1234,
+    "end_char": 1240
   },
   {
     "schema_version": "0.1.0",
@@ -5158,84 +5158,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:7641-7644",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:7642-7645",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:386",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 7641,
-    "end_char": 7644
+    "start_char": 7642,
+    "end_char": 7645
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:7880-7883",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:7881-7884",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:386",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 7880,
-    "end_char": 7883
+    "start_char": 7881,
+    "end_char": 7884
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:8624-8627",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:8625-8628",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:386",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 8624,
-    "end_char": 8627
+    "start_char": 8625,
+    "end_char": 8628
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:9005-9008",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:9006-9009",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:386",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 9005,
-    "end_char": 9008
+    "start_char": 9006,
+    "end_char": 9009
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:9350-9359",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:9351-9360",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:386",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 9350,
-    "end_char": 9359
+    "start_char": 9351,
+    "end_char": 9360
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:9643-9652",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:9644-9653",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:386",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 9643,
-    "end_char": 9652
+    "start_char": 9644,
+    "end_char": 9653
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:10023-10032",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:10024-10033",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:386",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 10023,
-    "end_char": 10032
+    "start_char": 10024,
+    "end_char": 10033
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:10361-10364",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:10362-10365",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:386",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:ley",
     "span": "Ley",
-    "start_char": 10361,
-    "end_char": 10364
+    "start_char": 10362,
+    "end_char": 10365
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:10639-10648",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:386:term-usage:10640-10649",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:386",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 10639,
-    "end_char": 10648
+    "start_char": 10640,
+    "end_char": 10649
   },
   {
     "schema_version": "0.1.0",
@@ -5464,12 +5464,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfppi:article:402:term-usage:4470-4479",
+    "id": "urn:lex-mx:federal:statute:lfppi:article:402:term-usage:4471-4480",
     "provision_id": "urn:lex-mx:federal:statute:lfppi:article:402",
     "term_id": "urn:lex-mx:federal:statute:lfppi:term:instituto",
     "span": "Instituto",
-    "start_char": 4470,
-    "end_char": 4479
+    "start_char": 4471,
+    "end_char": 4480
   },
   {
     "schema_version": "0.1.0",

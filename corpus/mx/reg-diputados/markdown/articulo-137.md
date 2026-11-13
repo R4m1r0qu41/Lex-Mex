@@ -19,7 +19,9 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 1. La votación es el registro de la suma de los votos individuales de un órgano colegiado.
 
-2. Las votaciones podrán ser: I. Nominales,
+2. Las votaciones podrán ser:
+
+I. Nominales,
 
 II. Económicas, y
 

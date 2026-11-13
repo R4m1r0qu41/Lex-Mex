@@ -41,7 +41,9 @@ IV. Desarrollar estrategias, programas y proyectos integrales de mitigación al 
 
 V. Realizar campañas de educación e información, en coordinación con el gobierno estatal y federal, para sensibilizar a la población sobre los efectos adversos del cambio climático;
 
-VI. Promover el fortalecimiento de capacidades institucionales y sectoriales para la mitigación y adaptación; VII. Participar en el diseño y aplicación de incentivos que promuevan acciones para el cumplimiento del objeto de la presente ley;
+VI. Promover el fortalecimiento de capacidades institucionales y sectoriales para la mitigación y adaptación;
+
+VII. Participar en el diseño y aplicación de incentivos que promuevan acciones para el cumplimiento del objeto de la presente ley;
 
 VIII. Coadyuvar con las autoridades federales y estatales en la instrumentación de la Estrategia Nacional, el programa y el programa estatal en la materia;
 

@@ -51,7 +51,9 @@ XIII. Establecer mecanismos e instancias para la coordinación integral de las t
 
 XIV. Establecer mecanismos e instancias para la coordinación integral de las tareas, así como para el análisis y sistematización integral de la investigación e información de seguridad nacional;
 
-XV. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en dos o más entidades federativas, supervisar su funcionamiento e informar periódicamente al Sistema Nacional de Seguridad Pública sobre el ejercicio de esta atribución; XVI. Coordinar y establecer mecanismos para contar oportunamente con la información de seguridad pública y seguridad nacional, así como del ámbito criminal y preventivo que esta Secretaría requiera de dependencias y organismos competentes en dichas materias, para el adecuado cumplimiento de las atribuciones que las leyes le establecen; Fracción reformada DOF 28-11-2024
+XV. Otorgar las autorizaciones a empresas que presten servicios privados de seguridad en dos o más entidades federativas, supervisar su funcionamiento e informar periódicamente al Sistema Nacional de Seguridad Pública sobre el ejercicio de esta atribución;
+
+XVI. Coordinar y establecer mecanismos para contar oportunamente con la información de seguridad pública y seguridad nacional, así como del ámbito criminal y preventivo que esta Secretaría requiera de dependencias y organismos competentes en dichas materias, para el adecuado cumplimiento de las atribuciones que las leyes le establecen; Fracción reformada DOF 28-11-2024
 
 XVII. Organizar, dirigir y supervisar bajo su adscripción al Centro Nacional de Inteligencia, el cual operará tareas de inteligencia en términos de la Ley de Seguridad Nacional, con el fin de preservar la integridad, estabilidad y permanencia del Estado mexicano, alcanzar la paz social, así como contribuir, en lo que corresponda al Ejecutivo de la Unión, a dar sustento a la unidad nacional, a preservar la cohesión social y a fortalecer las instituciones de gobierno; Fracción reformada DOF 28-11-2024
 

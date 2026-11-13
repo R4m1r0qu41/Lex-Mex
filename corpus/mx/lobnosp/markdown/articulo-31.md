@@ -21,7 +21,9 @@ La Sociedad otorgará sus financiamientos a través de las instituciones financi
 
 Lo dispuesto en el párrafo anterior no será aplicable a las operaciones siguientes:
 
-I. La inversión accionaria y las inversiones en el mercado de dinero; II. Los financiamientos por un monto total igual al que determine el Consejo Directivo, con la previa autorización de la Secretaría de Hacienda y Crédito Público;
+I. La inversión accionaria y las inversiones en el mercado de dinero;
+
+II. Los financiamientos por un monto total igual al que determine el Consejo Directivo, con la previa autorización de la Secretaría de Hacienda y Crédito Público;
 
 III. Las operaciones que correspondan a prestaciones de carácter laboral otorgadas de manera general;
 

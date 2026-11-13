@@ -19,7 +19,9 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 Para los efectos de la presente [Ley](articulo-3.md) se entenderá por:
 
-I. Añejamiento: Es el proceso de maduración al que se somete un producto alcohólico de por lo menos un año en recipientes de madera de roble blanco o encino u otras maderas que demuestren inocuidad, cuya capacidad no debe ser superior a 700 litros. II. Comisión: La Comisión Intersecretarial de Fomento a la Industria Vitivinícola.
+I. Añejamiento: Es el proceso de maduración al que se somete un producto alcohólico de por lo menos un año en recipientes de madera de roble blanco o encino u otras maderas que demuestren inocuidad, cuya capacidad no debe ser superior a 700 litros.
+
+II. Comisión: La Comisión Intersecretarial de Fomento a la Industria Vitivinícola.
 
 III. Enología: Ciencia, técnica y arte de producir vinos, mostos y otros derivados de la vid mediante la implantación de técnicas de cultivo de viñedo, el análisis de los productos elaborados y almacenaje, gestión y conservación de los mismos.
 

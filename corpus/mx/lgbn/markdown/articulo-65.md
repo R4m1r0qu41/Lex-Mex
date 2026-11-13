@@ -21,7 +21,9 @@ Las dependencias y las unidades administrativas de la Presidencia de la Repúbli
 
 I.- Asignar el uso de espacios a otras instituciones públicas o para el cumplimiento de los fines de fideicomisos públicos no considerados como entidades o de fideicomisos privados constituidos para coadyuvar con las instituciones destinatarias en el cumplimiento de los programas a su cargo, siempre que éstas registren previamente dichos fideicomisos privados ante la Secretaría como susceptibles de recibir en uso inmuebles federales, en el entendido de que dichas asignaciones no constituirán aportación al patrimonio fideicomitido;
 
-II.- Celebrar acuerdos de coordinación con los gobiernos estatales para que, en el marco de la descentralización de funciones a favor de los gobiernos de los estados, transfieran a éstos el uso de los inmuebles federales con fines de promoción del desarrollo estatal o regional; III.- Celebrar convenios de colaboración con las asociaciones de productores para que usen los inmuebles federales;
+II.- Celebrar acuerdos de coordinación con los gobiernos estatales para que, en el marco de la descentralización de funciones a favor de los gobiernos de los estados, transfieran a éstos el uso de los inmuebles federales con fines de promoción del desarrollo estatal o regional;
+
+III.- Celebrar convenios de colaboración con las asociaciones de productores para que usen los inmuebles federales;
 
 IV.- Asignar el uso de espacios a favor de los sindicatos constituidos legalmente para representar a los servidores públicos de la institución destinataria de que se trate, siempre que se acredite que dichas organizaciones requieren de tales espacios para el debido cumplimiento de sus funciones y no cuenten con inmuebles para tal efecto, en la inteligencia de que dichas asignaciones no implican la transmisión de la propiedad, y
 

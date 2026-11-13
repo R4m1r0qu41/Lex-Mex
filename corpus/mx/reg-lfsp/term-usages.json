@@ -316,30 +316,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:20:term-usage:1779-1782",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:20:term-usage:1780-1783",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:20",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 1779,
-    "end_char": 1782
+    "start_char": 1780,
+    "end_char": 1783
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:20:term-usage:2041-2058",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:20:term-usage:2042-2059",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:20",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:direccion-general",
     "span": "Dirección General",
-    "start_char": 2041,
-    "end_char": 2058
+    "start_char": 2042,
+    "end_char": 2059
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:20:term-usage:2435-2452",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:20:term-usage:2436-2453",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:20",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:direccion-general",
     "span": "Dirección General",
-    "start_char": 2435,
-    "end_char": 2452
+    "start_char": 2436,
+    "end_char": 2453
   },
   {
     "schema_version": "0.1.0",
@@ -451,12 +451,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:29:term-usage:805-808",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:29:term-usage:806-809",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:29",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 805,
-    "end_char": 808
+    "start_char": 806,
+    "end_char": 809
   },
   {
     "schema_version": "0.1.0",
@@ -568,12 +568,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:36:term-usage:140-157",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:36:term-usage:141-158",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:direccion-general",
     "span": "Dirección General",
-    "start_char": 140,
-    "end_char": 157
+    "start_char": 141,
+    "end_char": 158
   },
   {
     "schema_version": "0.1.0",
@@ -784,57 +784,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:866-883",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:867-884",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:direccion-general",
     "span": "Dirección General",
-    "start_char": 866,
-    "end_char": 883
+    "start_char": 867,
+    "end_char": 884
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:983-986",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:984-987",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 983,
-    "end_char": 986
+    "start_char": 984,
+    "end_char": 987
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:1064-1081",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:1065-1082",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:direccion-general",
     "span": "Dirección General",
-    "start_char": 1064,
-    "end_char": 1081
+    "start_char": 1065,
+    "end_char": 1082
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:1201-1204",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:1202-1205",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 1201,
-    "end_char": 1204
+    "start_char": 1202,
+    "end_char": 1205
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:2365-2382",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:2366-2383",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:direccion-general",
     "span": "Dirección General",
-    "start_char": 2365,
-    "end_char": 2382
+    "start_char": 2366,
+    "end_char": 2383
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:2435-2438",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51:term-usage:2436-2439",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:51",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 2435,
-    "end_char": 2438
+    "start_char": 2436,
+    "end_char": 2439
   },
   {
     "schema_version": "0.1.0",
@@ -928,75 +928,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:817-820",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:818-821",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 817,
-    "end_char": 820
+    "start_char": 818,
+    "end_char": 821
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:1232-1235",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:1233-1236",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 1232,
-    "end_char": 1235
+    "start_char": 1233,
+    "end_char": 1236
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:1323-1326",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:1324-1327",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 1323,
-    "end_char": 1326
+    "start_char": 1324,
+    "end_char": 1327
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:1575-1578",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:1576-1579",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 1575,
-    "end_char": 1578
+    "start_char": 1576,
+    "end_char": 1579
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:1700-1717",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:1701-1718",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:direccion-general",
     "span": "Dirección General",
-    "start_char": 1700,
-    "end_char": 1717
+    "start_char": 1701,
+    "end_char": 1718
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:2099-2102",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:2100-2103",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 2099,
-    "end_char": 2102
+    "start_char": 2100,
+    "end_char": 2103
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:2223-2226",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:2224-2227",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 2223,
-    "end_char": 2226
+    "start_char": 2224,
+    "end_char": 2227
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:2333-2336",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60:term-usage:2334-2337",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsp:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsp:term:ley",
     "span": "Ley",
-    "start_char": 2333,
-    "end_char": 2336
+    "start_char": 2334,
+    "end_char": 2337
   },
   {
     "schema_version": "0.1.0",

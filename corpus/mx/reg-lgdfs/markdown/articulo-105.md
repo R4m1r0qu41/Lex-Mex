@@ -23,6 +23,8 @@ I. Cuando el trámite se realice por primera vez a través de un representante l
 
 II. Las remisiones no utilizadas y las canceladas, tratándose de trámites subsecuentes;
 
-III. La relación de marqueo que muestre la distribución de Productos forestales, incluyendo el volumen autorizado en el Programa de manejo forestal, así como saldos, únicamente cuando se trate de aprovechamientos forestales maderables, y IV. Copia de la constancia de recepción del informe a que se refieren los artículos [56](articulo-56.md), [57](articulo-57.md) y [58](articulo-58.md) del presente Reglamento, cuando se trate de aprovechamientos de Recursos forestales maderables, no maderables o de Plantaciones forestales comerciales.
+III. La relación de marqueo que muestre la distribución de Productos forestales, incluyendo el volumen autorizado en el Programa de manejo forestal, así como saldos, únicamente cuando se trate de aprovechamientos forestales maderables, y
+
+IV. Copia de la constancia de recepción del informe a que se refieren los artículos [56](articulo-56.md), [57](articulo-57.md) y [58](articulo-58.md) del presente Reglamento, cuando se trate de aprovechamientos de Recursos forestales maderables, no maderables o de Plantaciones forestales comerciales.
 
 Recibida la solicitud, la Secretaría procederá a la destrucción inmediata de los documentos a que se refiere la fracción II del presente artículo. En el caso de la Comisión, remitirá dichos documentos a la Secretaría para su destrucción.

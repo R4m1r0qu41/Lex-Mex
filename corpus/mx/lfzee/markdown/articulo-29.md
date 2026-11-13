@@ -29,7 +29,9 @@ IV. Incumplir con los términos y condiciones de construcción, desarrollo, admi
 
 V. Incumplir con las bases de regulación tarifaria establecidas en el Permiso o Asignación;
 
-VI. No mantener vigentes los seguros y coberturas, así como las pólizas de seguros de daños a terceros a que se refiere esta Ley y el Permiso o Asignación correspondiente; VII. Ceder, hipotecar, gravar o transmitir los Permisos, los derechos y obligaciones en ellos conferidos o los bienes afectos a los mismos, en contravención a lo dispuesto en esta Ley y las disposiciones jurídicas aplicables;
+VI. No mantener vigentes los seguros y coberturas, así como las pólizas de seguros de daños a terceros a que se refiere esta Ley y el Permiso o Asignación correspondiente;
+
+VII. Ceder, hipotecar, gravar o transmitir los Permisos, los derechos y obligaciones en ellos conferidos o los bienes afectos a los mismos, en contravención a lo dispuesto en esta Ley y las disposiciones jurídicas aplicables;
 
 VIII. Permitir la realización de actividades económicas productivas en la Zona a personas que no cuenten con [Autorización](articulo-3.md) en términos del artículo [34](articulo-34.md) de esta Ley;
 

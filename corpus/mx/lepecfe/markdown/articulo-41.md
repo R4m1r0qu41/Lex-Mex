@@ -17,4 +17,6 @@ source_sha256: 6e45ab84a076cbd9cfd5fbd8abbe5f2d88fbd767229f21f5e7327aaf692b22a5
 
 # Artículo 41
 
-Para el desarrollo eficiente de las actividades de la Comisión Federal de Electricidad, el Consejo de Administración cuenta con los comités que al efecto establezca y debe tener al menos los siguientes: I. Auditoría; II. Recursos Humanos, Remuneraciones y Austeridad; III. Estrategia e Inversiones; IV. Adquisiciones, Arrendamientos, Servicios y Obras; V. Empresas Filiales, y VI. Sostenibilidad.
+Para el desarrollo eficiente de las actividades de la Comisión Federal de Electricidad, el Consejo de Administración cuenta con los comités que al efecto establezca y debe tener al menos los siguientes: I. Auditoría; II. Recursos Humanos, Remuneraciones y Austeridad; III. Estrategia e Inversiones; IV. Adquisiciones, Arrendamientos, Servicios y Obras;
+
+V. Empresas Filiales, y VI. Sostenibilidad.

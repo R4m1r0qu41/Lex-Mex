@@ -23,7 +23,9 @@ I.- El secretario leerá las constancias de autos que pidiere la parte que esté
 
 II.- Alegará primero el actor y en seguida el demandado. También alegará el Ministerio Público cuando fuere parte en el negocio;
 
-III.- Sólo se concederá el uso de la palabra por dos veces a cada una de las partes, quienes, en la réplica y dúplica, deberán alegar tanto sobre la cuestión de fondo como sobre las incidencias que se hayan presentado en el proceso; IV.- Cuando una de las partes estuviere patrocinada por varios abogados, no podrá hablar, por ella, más que uno solo en cada turno;
+III.- Sólo se concederá el uso de la palabra por dos veces a cada una de las partes, quienes, en la réplica y dúplica, deberán alegar tanto sobre la cuestión de fondo como sobre las incidencias que se hayan presentado en el proceso;
+
+IV.- Cuando una de las partes estuviere patrocinada por varios abogados, no podrá hablar, por ella, más que uno solo en cada turno;
 
 V.- En sus alegatos, procurarán las partes la mayor brevedad y concisión;
 

@@ -23,7 +23,9 @@ I. Hasta 200 unidades de arqueo bruto ..........................................
 
 II. De más de 200 hasta 300 unidades de arqueo bruto ........................................ $9,185.43
 
-III. De más de 300 hasta 1,000 unidades de arqueo bruto ................................... $12,268.54 IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ................................ $15,135.92
+III. De más de 300 hasta 1,000 unidades de arqueo bruto ................................... $12,268.54
+
+IV. De más de 1,000 hasta 5,000 unidades de arqueo bruto ................................ $15,135.92
 
 V. De más de 5,000 hasta 10,000 unidades de arqueo bruto .............................. $21,771.14
 

@@ -37,7 +37,9 @@ VIII. Emitir [Valores](articulo-4.md) por cuenta propia. Los recursos obtenidos 
 
 IX. Constituir depósitos a la vista o a plazo en entidades financieras autorizadas para recibirlos;
 
-X. Adquirir o arrendar los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda; XI. Poner en contacto a terceros con la finalidad de facilitar la compra, venta o cualquier otra transmisión de activos virtuales, sujeto a lo dispuesto en esta Ley;
+X. Adquirir o arrendar los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda;
+
+XI. Poner en contacto a terceros con la finalidad de facilitar la compra, venta o cualquier otra transmisión de activos virtuales, sujeto a lo dispuesto en esta Ley;
 
 XII. Comprar, vender o, en general, transmitir activos virtuales por cuenta propia o de sus [Clientes](articulo-4.md), y
 

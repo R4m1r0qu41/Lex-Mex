@@ -31,7 +31,9 @@ V. Inviolabilidad de los derechos: Prohibición de pleno derecho para que ningun
 
 VI. Justicia: Equidad, virtud de dar a cada uno lo que le pertenece o corresponde. Dar a las personas con la condición del espectro autista la atención que responda a sus necesidades y a sus legítimos derechos humanos y civiles;
 
-VII. Libertad: Capacidad de las personas con la condición del espectro autista para elegir los medios para su desarrollo personal o, en su caso, a través de sus familiares en orden ascendente o tutores; VIII. Respeto: Consideración al comportamiento y forma de actuar distinta de las personas con la condición del espectro autista;
+VII. Libertad: Capacidad de las personas con la condición del espectro autista para elegir los medios para su desarrollo personal o, en su caso, a través de sus familiares en orden ascendente o tutores;
+
+VIII. Respeto: Consideración al comportamiento y forma de actuar distinta de las personas con la condición del espectro autista;
 
 IX. Transparencia: El acceso objetivo, oportuno, sistemático y veraz de la información sobre la magnitud, políticas, programas y resultados de las acciones puestas en marcha por las autoridades participantes en la gestión y resolución del fenómeno autista, y
 

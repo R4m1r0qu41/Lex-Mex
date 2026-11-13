@@ -29,7 +29,9 @@ IV. Recopilar y solicitar, bajo la conducción y mando del [Ministerio Público]
 
 V. Recolectar, clasificar, registrar, evaluar y analizar, conforme a las disposiciones aplicables, la información obtenida que guarde relación con personas y organizaciones nacionales o extranjeras radicadas en el territorio nacional que presumiblemente tengan algún nexo delictivo;
 
-VI. Coadyuvar con otras autoridades que desarrollen funciones de investigación de gabinete; VII. Diseñar, dirigir y operar los sistemas de recopilación, clasificación, registro y explotación de información policial, conforme a las disposiciones aplicables, para conformar bancos de datos que sustenten el desarrollo de acciones preventivas y de combate al delito;
+VI. Coadyuvar con otras autoridades que desarrollen funciones de investigación de gabinete;
+
+VII. Diseñar, dirigir y operar los sistemas de recopilación, clasificación, registro y explotación de información policial, conforme a las disposiciones aplicables, para conformar bancos de datos que sustenten el desarrollo de acciones preventivas y de combate al delito;
 
 VIII. Generar líneas de acción táctica, conforme a las disposiciones aplicables, contra personas, grupos y organizaciones dedicadas a la comisión de delitos federales, para fortalecer el trabajo de las áreas operativas y coadyuvar a la definición de estrategias y toma de decisiones;
 

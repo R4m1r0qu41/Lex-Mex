@@ -21,7 +21,9 @@ La [Comisión Supervisora](articulo-5o.md), en el ejercicio de las facultades a 
 
 Asimismo, la Comisión Supervisora, para hacer cumplir sus determinaciones, podrá emplear, a discreción, los siguientes medios de apremio:
 
-I. Amonestación con apercibimiento; II. Multa de 2,000 a 5,000 días de salario;
+I. Amonestación con apercibimiento;
+
+II. Multa de 2,000 a 5,000 días de salario;
 
 III. Multa adicional de 100 días de salario por cada día que persista la infracción, y
 

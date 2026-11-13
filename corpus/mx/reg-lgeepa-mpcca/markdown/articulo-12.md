@@ -25,4 +25,6 @@ I.- Adquieran, instalen y operen equipos para el control de emisiones de contami
 
 II.- Fabriquen, instalen o proporcionen mantenimiento a equipos de filtrado, combustión, control, y en general de tratamiento de emisiones que contaminen la atmósfera;
 
-III.- Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes a la atmósfera; y IV.- Ubiquen y relocalicen sus instalaciones para evitar emisiones contaminantes a la atmósfera en zonas urbanas.
+III.- Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes a la atmósfera; y
+
+IV.- Ubiquen y relocalicen sus instalaciones para evitar emisiones contaminantes a la atmósfera en zonas urbanas.

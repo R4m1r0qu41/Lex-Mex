@@ -25,7 +25,9 @@ II. Al cuidado y protección contra actos u omisiones que puedan afectar su inte
 
 III. A la atención y promoción de la salud;
 
-IV. A recibir la alimentación que les permita tener una nutrición adecuada; V. A recibir orientación y educación apropiada a su edad, orientadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
+IV. A recibir la alimentación que les permita tener una nutrición adecuada;
+
+V. A recibir orientación y educación apropiada a su edad, orientadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
 
 VI. Al descanso, al juego y al esparcimiento;
 

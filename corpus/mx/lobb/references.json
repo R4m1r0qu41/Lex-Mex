@@ -14,18 +14,6 @@
         "text": "penúltimo párrafo",
         "start_char": 32,
         "end_char": 49
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso a",
-        "start_char": 160,
-        "end_char": 168
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XIX",
-        "start_char": 176,
-        "end_char": 188
       }
     ],
     "basis": "express_cross_reference",
@@ -224,19 +212,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:1613-1615:42:direct",
+    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:1614-1616:42:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
     "source_span": "42",
-    "start_char": 1613,
-    "end_char": 1615,
+    "start_char": 1614,
+    "end_char": 1616,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic",
     "target_provision_id": "urn:lex-mx:federal:statute:lic:article:42",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XVIII",
-        "start_char": 1617,
-        "end_char": 1631
+        "start_char": 1618,
+        "end_char": 1632
       }
     ],
     "basis": "express_cross_reference",
@@ -247,19 +235,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:3406-3408:42:direct",
+    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:3407-3409:42:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
     "source_span": "42",
-    "start_char": 3406,
-    "end_char": 3408,
+    "start_char": 3407,
+    "end_char": 3409,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic",
     "target_provision_id": "urn:lex-mx:federal:statute:lic:article:42",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VIII",
-        "start_char": 3410,
-        "end_char": 3423
+        "start_char": 3411,
+        "end_char": 3424
       }
     ],
     "basis": "express_cross_reference",
@@ -270,11 +258,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:5120-5122:88:direct",
+    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:5121-5123:88:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
     "source_span": "88",
-    "start_char": 5120,
-    "end_char": 5122,
+    "start_char": 5121,
+    "end_char": 5123,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic",
     "target_provision_id": "urn:lex-mx:federal:statute:lic:article:88",
     "qualifiers": [],
@@ -286,11 +274,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:5125-5127:89:direct",
+    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:5126-5128:89:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
     "source_span": "89",
-    "start_char": 5125,
-    "end_char": 5127,
+    "start_char": 5126,
+    "end_char": 5128,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic",
     "target_provision_id": "urn:lex-mx:federal:statute:lic:article:89",
     "qualifiers": [],
@@ -302,19 +290,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:5192-5193:8:direct",
+    "id": "urn:lex-mx:federal:statute:lobb:article:22:reference:5193-5194:8:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lobb:article:22",
     "source_span": "8",
-    "start_char": 5192,
-    "end_char": 5193,
+    "start_char": 5193,
+    "end_char": 5194,
     "target_instrument_id": "urn:lex-mx:federal:statute:lobb",
     "target_provision_id": "urn:lex-mx:federal:statute:lobb:article:8",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones IX, X y XII",
-        "start_char": 5195,
-        "end_char": 5217
+        "start_char": 5196,
+        "end_char": 5218
       }
     ],
     "basis": "express_cross_reference",
@@ -481,14 +469,7 @@
     "end_char": 95,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XIII",
-        "start_char": 109,
-        "end_char": 122
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

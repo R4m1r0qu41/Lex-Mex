@@ -17,7 +17,9 @@ source_sha256: 8ed0956913d72410d20164fbb17b641a0b3bde532788035b8f0898d18481ac40
 
 # Artículo 8
 
-Para ser miembro de la Junta Directiva se requiere: I.- Ser mexicano;
+Para ser miembro de la Junta Directiva se requiere:
+
+I.- Ser mexicano;
 
 II.- Tener más de treinta y menos de setenta años de edad;
 

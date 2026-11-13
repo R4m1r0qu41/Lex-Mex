@@ -27,7 +27,9 @@ III. Determinar la rotación de los miembros del [Servicio de Carrera](articulo-
 
 IV. Ejercer y supervisar las facultades que correspondan a las unidades administrativas y órganos desconcentrados que le estén adscritos, sin perjuicio de que sean desempeñadas por sus respectivos titulares;
 
-V. Acordar con su superior jerárquico el despacho de los asuntos de las unidades administrativas y órganos desconcentrados que le estén adscritos y del personal a su cargo, así como desempeñar las funciones y comisiones que le sean encomendadas o delegadas por aquél, e informarle sobre su cumplimiento; VI. Someter a consideración de su superior jerárquico los estudios y proyectos que se elaboren en las unidades administrativas y órganos desconcentrados que tenga adscritos;
+V. Acordar con su superior jerárquico el despacho de los asuntos de las unidades administrativas y órganos desconcentrados que le estén adscritos y del personal a su cargo, así como desempeñar las funciones y comisiones que le sean encomendadas o delegadas por aquél, e informarle sobre su cumplimiento;
+
+VI. Someter a consideración de su superior jerárquico los estudios y proyectos que se elaboren en las unidades administrativas y órganos desconcentrados que tenga adscritos;
 
 VII. Supervisar, vigilar e inspeccionar que las unidades administrativas y personal a su cargo ajusten su actuación a las disposiciones jurídicas aplicables, y se sujeten al marco estratégico de gestión de la Procuraduría, así como que, en los asuntos de su competencia se dé cumplimiento a los programas y políticas institucionales aplicables;
 
@@ -71,7 +73,9 @@ XXIV. Participar en los comités de la Procuraduría de los que sean miembros, d
 
 XXV. Remitir la información necesaria para mantener actualizados los registros del personal de la Institución y de recursos materiales, mediante los mecanismos institucionales correspondientes;
 
-XXVI. Formular propuestas para lograr la cooperación con diversos organismos públicos, sociales y privados, tanto nacionales como extranjeros, para fortalecer y consolidar las funciones de su responsabilidad; XXVII. Remitir a la Coordinación de Planeación, Desarrollo e Innovación Institucional y al Centro Nacional de Planeación, Análisis e Información para el Combate a la Delincuencia, la información y estadística necesarias para el ejercicio de sus atribuciones, mediante los mecanismos institucionales idóneos y de conformidad con las disposiciones aplicables y el marco estratégico de gestión;
+XXVI. Formular propuestas para lograr la cooperación con diversos organismos públicos, sociales y privados, tanto nacionales como extranjeros, para fortalecer y consolidar las funciones de su responsabilidad;
+
+XXVII. Remitir a la Coordinación de Planeación, Desarrollo e Innovación Institucional y al Centro Nacional de Planeación, Análisis e Información para el Combate a la Delincuencia, la información y estadística necesarias para el ejercicio de sus atribuciones, mediante los mecanismos institucionales idóneos y de conformidad con las disposiciones aplicables y el marco estratégico de gestión;
 
 XXVIII. Coadyuvar, en su caso, y dentro del ámbito de sus facultades, con la Dirección General de Asuntos Jurídicos, en el ejercicio de la acción de extinción de dominio y demás atribuciones que le corresponden al Ministerio Público de la Federación de conformidad con la Ley Federal de Extinción de Dominio, Reglamentaria del artículo [22](../../cpeum/markdown/articulo-22.md) de la [Constitución](articulo-2.md) Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 

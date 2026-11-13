@@ -19,7 +19,9 @@ source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
 
 No podrá usarse ni formar parte del nombre comercial, denominación o razón social de ningún establecimiento o persona moral, una marca registrada o una semejante en grado de confusión a otra marca previamente registrada, cuando:
 
-I.- Se trate de establecimientos o personas morales cuya actividad sea la producción, importación o comercialización de bienes o servicios iguales o similares a los que se aplica la marca registrada, y II.- No exista consentimiento manifestado por escrito de la persona titular del registro de la marca o de quien tenga facultades para hacerlo. Fracción reformada DOF 03-04-2026
+I.- Se trate de establecimientos o personas morales cuya actividad sea la producción, importación o comercialización de bienes o servicios iguales o similares a los que se aplica la marca registrada, y
+
+II.- No exista consentimiento manifestado por escrito de la persona titular del registro de la marca o de quien tenga facultades para hacerlo. Fracción reformada DOF 03-04-2026
 
 La violación a este precepto dará lugar a la aplicación de las sanciones a que se refiere esta [Ley](articulo-4.md), independientemente que se pueda demandar judicialmente la supresión de la marca registrada o aquélla semejante en grado de confusión a la previamente registrada, del nombre comercial, la denominación o razón social correspondiente y el pago de daños y perjuicios.
 

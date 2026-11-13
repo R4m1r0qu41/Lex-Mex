@@ -8,11 +8,12 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgvs:article:3",
-      "provision_text_sha256": "cab3bc2acbca1de85cec13dbdab465f8d8dbc0ef8b27e325ec65ecacb034281b",
+      "provision_text_sha256": "8dec762d0bfe7277064349bd30f7945f0eeefceb2ac1758835acda109c81ce5f",
       "method": "established_pass",
       "fractions": [
         "I",
         "II",
+        "III",
         "IV",
         "V",
         "VI",
@@ -46,6 +47,7 @@
         "XXXIV",
         "XXXV",
         "XXXVI",
+        "XXXVII",
         "XXXVIII",
         "XXXIX",
         "XL",
@@ -55,14 +57,15 @@
         "XLIV",
         "XLV",
         "XLVI",
+        "XLVII",
         "XLVIII",
         "XLIX"
       ],
       "unread_fractions": [],
-      "term_count": 46
+      "term_count": 49
     }
   ],
   "imports": [],
-  "term_count": 46,
+  "term_count": 49,
   "usage_count": 202
 }

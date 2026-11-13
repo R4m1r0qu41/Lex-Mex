@@ -25,7 +25,9 @@ II. Multa de veinte a cinco mil salarios mínimos;
 
 III. Expulsión de la sala de audiencia;
 
-IV. Arresto hasta por treinta y seis horas, o V. Desalojo público de la sala de audiencia.
+IV. Arresto hasta por treinta y seis horas, o
+
+V. Desalojo público de la sala de audiencia.
 
 Si el infractor fuere el [Ministerio Público](articulo-3.md), el acusado, su Defensor, la víctima u ofendido, y fuere necesario expulsarlos de la sala de audiencia, se aplicarán las reglas conducentes para el caso de su ausencia.
 

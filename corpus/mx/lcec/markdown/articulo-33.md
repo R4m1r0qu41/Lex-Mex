@@ -21,7 +21,7 @@ La administración del [SIEM](articulo-2.md) estará a cargo de la [Secretaría]
 
 I. La Secretaría asignará los recursos necesarios a fin de que sus alcances y desempeño correspondan al buen funcionamiento del mismo;
 
-II. La captura de la información para el SIEM será a través de las Cámaras, de acuerdo a las reglas de operación que para tal efecto emita la Secretaría, una vez consultadas las Cámaras y [Confederaciones](articulo-2.md);
+II. La captura de la información para el SIEM será a través de las [Cámaras](articulo-2.md), de acuerdo a las reglas de operación que para tal efecto emita la Secretaría, una vez consultadas las Cámaras y [Confederaciones](articulo-2.md);
 
 III. La Secretaría promoverá y formulará los acuerdos correspondientes a fin de que todas las instancias administrativas en los niveles federal, estatal y municipal, establezcan la obligatoriedad de las empresas de contar con el registro en el SIEM para la celebración de todo trámite administrativo ante ellas;
 

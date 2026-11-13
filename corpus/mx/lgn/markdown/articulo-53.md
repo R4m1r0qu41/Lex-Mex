@@ -13,8 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf
 source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd
 ---
 
-> Título CUARTO
+> Título CUARTO · Capítulo II
 
 # Artículo 53
 
-La capacidad de armamento y municiones con que se encuentre dotada la Guardia Nacional se especificará en las planillas orgánicas respectivas. Capítulo III De la Portación y Uso
+La capacidad de armamento y municiones con que se encuentre dotada la Guardia Nacional se especificará en las planillas orgánicas respectivas.

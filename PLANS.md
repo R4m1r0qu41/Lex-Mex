@@ -51,6 +51,10 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/four-goal-system-upgrade.md`](docs/plans/four-goal-system-upgrade.md)
+  — Source-fidelity check against the official files, page-break fraction repair,
+  Obsidian re-export, full-corpus database serving and discoverability.
+
 - [`docs/plans/agent-first-delivery-and-change-tolerant-releases.md`](docs/plans/agent-first-delivery-and-change-tolerant-releases.md)
   — Prioritize the four-instrument agent/human workflow, tolerate explicit
   unresolved references, and design proportional releases and DOF change intake.

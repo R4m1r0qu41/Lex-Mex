@@ -23,4 +23,6 @@ I. Los datos biográficos, incluyendo el nombre completo; fecha y lugar de nacim
 
 II. La antigüedad en el empleo que desempeñe al momento de su expedición, el documento que la avale, la fecha de éste y las deducciones de tiempo que procedan conforme a esta Ley;
 
-III. Los Organismos en que haya servido, incluyendo los años, meses y días de permanencia en cada uno, considerando los abonos y deducciones de tiempo que procedan conforme a la ley, así como las fechas de alta y baja en cada uno y las causas que generaron estos movimientos, y IV. El cómputo total del tiempo de servicios que comprenderá la suma de los años, meses y días en que el militar haya servido en cada Organismo, considerando los abonos y deducciones de tiempo a que se haya hecho acreedor e indicando la causa que motivó la elaboración del Extracto de Antecedentes Militares.
+III. Los Organismos en que haya servido, incluyendo los años, meses y días de permanencia en cada uno, considerando los abonos y deducciones de tiempo que procedan conforme a la ley, así como las fechas de alta y baja en cada uno y las causas que generaron estos movimientos, y
+
+IV. El cómputo total del tiempo de servicios que comprenderá la suma de los años, meses y días en que el militar haya servido en cada Organismo, considerando los abonos y deducciones de tiempo a que se haya hecho acreedor e indicando la causa que motivó la elaboración del Extracto de Antecedentes Militares.

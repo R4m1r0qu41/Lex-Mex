@@ -43,7 +43,9 @@ c) En los juicios de alimentos, y
 
 d) Cuando sea en perjuicio de niñas, niños y adolescentes;
 
-VIII. El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de las mismas realizados ante autoridad judicial diversa, siempre que tengan relación inmediata y directa con la instancia; IX. La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión del procedimiento tiene lugar:
+VIII. El término de la caducidad sólo se interrumpirá por promociones de las partes o por actos de las mismas realizados ante autoridad judicial diversa, siempre que tengan relación inmediata y directa con la instancia;
+
+IX. La suspensión del procedimiento produce la interrupción del término de la caducidad. La suspensión del procedimiento tiene lugar:
 
 a) Cuando por fuerza mayor la autoridad jurisdiccional o las partes no puedan actuar;
 

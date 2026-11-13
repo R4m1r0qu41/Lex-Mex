@@ -17,7 +17,9 @@ source_sha256: b9c653ecd9d85d07f156f774129bf3662d1f033dadf5de86437120da00fa9531
 
 # Artículo 197
 
-Las penas prescribirán en los siguientes plazos: I. (Se deroga). Fracción derogada DOF 29-06-2005
+Las penas prescribirán en los siguientes plazos:
+
+I. (Se deroga). Fracción derogada DOF 29-06-2005
 
 II. En un término igual al de su duración, más una cuarta parte de la pena impuesta, y Fracción reformada DOF 29-06-2005
 

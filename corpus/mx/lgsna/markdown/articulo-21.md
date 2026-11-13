@@ -39,7 +39,9 @@ b) Proyectos de mejora a los instrumentos, lineamientos y mecanismos para la ope
 
 c) Proyectos de mejora a los instrumentos, lineamientos y mecanismos para el suministro, intercambio, sistematización y actualización de la información que generen las instituciones competentes de los diversos órdenes de gobierno en las materias reguladas por esta Ley;
 
-d) Proyectos de mejora a los instrumentos, lineamientos y mecanismos requeridos para la operación del sistema electrónico de denuncia y queja. VIII. Proponer al Comité Coordinador, a través de su participación en la Comisión Ejecutiva, mecanismos para que la sociedad participe en la prevención y denuncia de faltas administrativas y hechos de corrupción;
+d) Proyectos de mejora a los instrumentos, lineamientos y mecanismos requeridos para la operación del sistema electrónico de denuncia y queja.
+
+VIII. Proponer al Comité Coordinador, a través de su participación en la Comisión Ejecutiva, mecanismos para que la sociedad participe en la prevención y denuncia de faltas administrativas y hechos de corrupción;
 
 IX. Llevar un registro voluntario de las organizaciones de la sociedad civil que deseen colaborar de manera coordinada con el Comité de Participación Ciudadana para establecer una red de participación ciudadana, conforme a sus normas de carácter interno;
 

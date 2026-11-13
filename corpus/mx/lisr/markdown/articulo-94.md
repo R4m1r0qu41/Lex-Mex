@@ -17,7 +17,9 @@ source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
 
 # Artículo 94
 
-Se consideran ingresos por la prestación de un servicio personal subordinado, los salarios y demás prestaciones que deriven de una relación laboral, incluyendo la participación de los trabajadores en las utilidades de las empresas y las prestaciones percibidas como consecuencia de la terminación de la relación laboral. Para los efectos de este impuesto, se asimilan a estos ingresos los siguientes: I. Las remuneraciones y demás prestaciones, obtenidas por los funcionarios y trabajadores de la Federación, de las entidades federativas y de los municipios, aun cuando sean por concepto de gastos no sujetos a comprobación, así como los obtenidos por los miembros de las fuerzas armadas.
+Se consideran ingresos por la prestación de un servicio personal subordinado, los salarios y demás prestaciones que deriven de una relación laboral, incluyendo la participación de los trabajadores en las utilidades de las empresas y las prestaciones percibidas como consecuencia de la terminación de la relación laboral. Para los efectos de este impuesto, se asimilan a estos ingresos los siguientes:
+
+I. Las remuneraciones y demás prestaciones, obtenidas por los funcionarios y trabajadores de la Federación, de las entidades federativas y de los municipios, aun cuando sean por concepto de gastos no sujetos a comprobación, así como los obtenidos por los miembros de las fuerzas armadas.
 
 II. Los rendimientos y anticipos, que obtengan los miembros de las sociedades cooperativas de producción, así como los anticipos que reciban los miembros de sociedades y asociaciones civiles.
 

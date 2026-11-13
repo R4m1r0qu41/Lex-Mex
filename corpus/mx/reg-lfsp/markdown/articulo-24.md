@@ -19,7 +19,9 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 Los Prestadores de Servicios autorizados para actividades relacionadas directamente con la instalación de sistemas de blindaje en todo tipo de vehículos automotores, deberán adherir al vehículo de que se trate y de manera permanente, una placa de identificación que contenga los datos del Prestador de Servicios, tales como: nombre, denominación o razón social, dirección y número telefónico, así como el número de placa.
 
-La placa será de ocho por cuatro centímetros y se colocará, en cualquiera de los tres lugares siguientes: I. En el costado de la puerta delantera izquierda;
+La placa será de ocho por cuatro centímetros y se colocará, en cualquiera de los tres lugares siguientes:
+
+I. En el costado de la puerta delantera izquierda;
 
 II. En la cajuela, en su lado izquierdo, o
 

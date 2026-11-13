@@ -45,7 +45,9 @@ XII. Realizar las acciones necesarias para la detección de necesidades de atenc
 
 XIII. Canalizar a solicitantes que presenten situación de vulnerabilidad a instituciones especializadas para su atención;
 
-XIV. Orientar a los refugiados y extranjeros a los que se les otorgue protección complementaria que se encuentren en territorio nacional, sobre sus derechos y obligaciones; XV. Proporcionar, cuando sea procedente, asistencia institucional a solicitantes, refugiados y extranjeros que reciban protección complementaria;
+XIV. Orientar a los refugiados y extranjeros a los que se les otorgue protección complementaria que se encuentren en territorio nacional, sobre sus derechos y obligaciones;
+
+XV. Proporcionar, cuando sea procedente, asistencia institucional a solicitantes, refugiados y extranjeros que reciban protección complementaria;
 
 XVI. Registrar y recibir los avisos de cambio de residencia y de salida al país de origen de los refugiados o extranjeros que reciban protección complementaria;
 

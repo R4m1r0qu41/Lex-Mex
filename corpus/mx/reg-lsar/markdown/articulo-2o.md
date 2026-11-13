@@ -55,7 +55,9 @@ XVII. Ley, la Ley de los Sistemas de Ahorro para el Retiro;
 
 XVIII. Manual de Procedimientos Transaccionales, el manual que elaboren las Empresas Operadoras, de conformidad con el título de concesión;
 
-XIX. Prestador de Servicios de Certificación, la persona o institución pública que proporcione servicios relacionados con firmas electrónicas; XX. Secretaría, la Secretaría de Hacienda y Crédito Público;
+XIX. Prestador de Servicios de Certificación, la persona o institución pública que proporcione servicios relacionados con firmas electrónicas;
+
+XX. Secretaría, la Secretaría de Hacienda y Crédito Público;
 
 XXI. Seguro de RCV, al seguro de retiro, cesantía en edad avanzada y vejez previsto en la Ley del Seguro Social publicada en el Diario Oficial de la Federación el día veintiuno de diciembre de 1995, con sus reformas y adiciones, así como, en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado publicada en el Diario Oficial de la Federación el 31 de marzo de 2007;
 
@@ -79,4 +81,6 @@ XXX. Trabajadores Estatales o Municipales, los trabajadores que presten sus serv
 
 XXXI. Trabajadores no Afiliados, los trabajadores titulares de una Cuenta Individual a que se refiere el artículo [74 ter](../../lsar/markdown/articulo-74-ter.md) de la Ley;
 
-XXXII. Traspaso, es el proceso que se lleva a cabo entre la Administradora Receptora y la [Administradora Transferente](articulo-2o.md), mediante el cual el Trabajador o el Trabajador no Afiliado ejerce su derecho de elegir que institución administrará su Cuenta Individual, de conformidad con la Ley, el presente Reglamento y las reglas generales que emita la Comisión, y XXXIII. Traspaso Indebido, al Traspaso de la Cuenta Individual del Trabajador o del Trabajador no Afiliado que se realice sin el consentimiento de éste; o cuando se haya obtenido el consentimiento mediante dolo, mala fe o cualquier otra conducta similar, así como cuando el Traspaso se lleve a cabo mediante la utilización de documentos falsos o alterados o mediante la falsificación de documentos o firmas, o mediante la entrega de alguna contraprestación o beneficio.
+XXXII. Traspaso, es el proceso que se lleva a cabo entre la Administradora Receptora y la [Administradora Transferente](articulo-2o.md), mediante el cual el Trabajador o el Trabajador no Afiliado ejerce su derecho de elegir que institución administrará su Cuenta Individual, de conformidad con la Ley, el presente Reglamento y las reglas generales que emita la Comisión, y
+
+XXXIII. Traspaso Indebido, al Traspaso de la Cuenta Individual del Trabajador o del Trabajador no Afiliado que se realice sin el consentimiento de éste; o cuando se haya obtenido el consentimiento mediante dolo, mala fe o cualquier otra conducta similar, así como cuando el Traspaso se lleve a cabo mediante la utilización de documentos falsos o alterados o mediante la falsificación de documentos o firmas, o mediante la entrega de alguna contraprestación o beneficio.

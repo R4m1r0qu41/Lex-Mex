@@ -19,7 +19,9 @@ source_sha256: 3ae8175ed89c2729e71551aac6ef879dfdd3da40cc03bae6784d61951c2c284d
 
 Los [Comités](articulo-3.md) son los órganos encargados de vigilar el cumplimiento de esta [Ley](articulo-3.md), y de las reglas y definiciones que acuerde el [Comité Nacional](articulo-3.md) y tendrán las siguientes facultades y obligaciones:
 
-I. Formular para su respectiva [Zona de Abastecimiento](articulo-3.md) los programas de operación de campo relativos a la siembra de caña de azúcar; actividades agrícolas; mecanización del campo cañero; cosecha y molienda de caña para la zafra; conservación y mejoramiento de caminos cañeros; albergues para cortadores; modificación de tarifas por trabajos ejecutados y de tarifas de trabajos de siembra, cultivo, cosecha, entrega y recepción de caña y de las solicitudes de crédito en general; II. Elaborar y modificar, en su caso, el programa semanal de prioridades de Corte; adecuar el programa de zafra cuando a su juicio sea conveniente y acordar la suspensión de cortes si las condiciones lo requieren;
+I. Formular para su respectiva [Zona de Abastecimiento](articulo-3.md) los programas de operación de campo relativos a la siembra de caña de azúcar; actividades agrícolas; mecanización del campo cañero; cosecha y molienda de caña para la zafra; conservación y mejoramiento de caminos cañeros; albergues para cortadores; modificación de tarifas por trabajos ejecutados y de tarifas de trabajos de siembra, cultivo, cosecha, entrega y recepción de caña y de las solicitudes de crédito en general;
+
+II. Elaborar y modificar, en su caso, el programa semanal de prioridades de Corte; adecuar el programa de zafra cuando a su juicio sea conveniente y acordar la suspensión de cortes si las condiciones lo requieren;
 
 III. Determinar las erogaciones que, en su caso, deban hacer el [Industrial](articulo-3.md) y/o los [Abastecedores de Caña](articulo-3.md) de azúcar para cubrir costos generados por causa de interrupciones en la zafra, incluyendo entre otros el correspondiente a los apoyos a cortadores y fleteros;
 

@@ -27,7 +27,9 @@ II. Los acuerdos de fusión, así como las actas de asamblea se inscribirán en 
 
 A partir de la fecha en que se inscriban surtirá efectos la fusión. Asimismo, en caso de extinción de las sociedades fusionadas, deberá solicitarse al Registro Público de Comercio la cancelación de la inscripción de los estatutos sociales de dichas sociedades;
 
-III. Los acuerdos de la asamblea general extraordinaria de accionistas relativos a la fusión deberán contener las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de su clientela o accionistas; IV. Los acuerdos de fusión adoptados por las respectivas asambleas generales extraordinarias de accionistas, se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tengan su domicilio las sociedades, una vez hecha la inscripción en el Registro Público de Comercio;
+III. Los acuerdos de la asamblea general extraordinaria de accionistas relativos a la fusión deberán contener las bases, procedimientos y mecanismos de protección que serán adoptadas a favor de su clientela o accionistas;
+
+IV. Los acuerdos de fusión adoptados por las respectivas asambleas generales extraordinarias de accionistas, se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación en la plaza en que tengan su domicilio las sociedades, una vez hecha la inscripción en el Registro Público de Comercio;
 
 V. Durante los noventa días naturales siguientes a la fecha de publicación a que se refiere la fracción anterior, los acreedores de cualquiera de las sociedades, incluso de las demás entidades financieras del o de los grupos financieros a los que pertenezcan las sociedades objeto de la fusión, podrán oponerse judicialmente a la misma, con el único objeto de obtener el pago de sus créditos, sin que la oposición suspenda la fusión, y
 

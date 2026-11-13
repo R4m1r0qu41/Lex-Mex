@@ -23,4 +23,6 @@ I. Original del certificado vencido o por vencerse;
 
 II. [Constancia de Aptitud Psicofísica](articulo-10.md) vigente;
 
-III. Constancia vigente de participación del curso básico de seguridad [Convenio STCW](articulo-10.md) y/o convenio internacional del que el Estado Mexicano sea parte en materia de Educación Marítima Mercante, expedida por el [FIDENA](articulo-10.md), y IV. Dos fotografías con las mismas características que se señalan para su expedición.
+III. Constancia vigente de participación del curso básico de seguridad [Convenio STCW](articulo-10.md) y/o convenio internacional del que el Estado Mexicano sea parte en materia de Educación Marítima Mercante, expedida por el [FIDENA](articulo-10.md), y
+
+IV. Dos fotografías con las mismas características que se señalan para su expedición.

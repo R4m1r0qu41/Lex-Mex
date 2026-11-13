@@ -19,7 +19,9 @@ source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
 
 Para obtener el registro de la [Dirección General](articulo-10.md) como personas físicas y morales para elaborar los documentos técnicos, los interesados deberán presentar la siguiente documentación:
 
-I. Todos los interesados, solicitud por escrito a la Dirección General; II. Para personas físicas mexicanas, además de lo indicado en la fracción anterior:
+I. Todos los interesados, solicitud por escrito a la Dirección General;
+
+II. Para personas físicas mexicanas, además de lo indicado en la fracción anterior:
 
 a) Copia certificada del acta de nacimiento;
 

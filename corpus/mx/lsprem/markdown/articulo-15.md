@@ -23,7 +23,9 @@ I. Establecer las políticas generales y definir las prioridades a las que deber
 
 II. Aprobar, a propuesta del [Presidente](articulo-2.md), el programa anual de actividades en el que se prevean propuestas y cumplimiento de metas específicas para el mejoramiento en la prestación del servicio de radiodifusión, en coordinación con los medios públicos de radiodifusión, mediante principios básicos en materia de producción y programación;
 
-III. Fomentar entre los medios públicos de radiodifusión el cabal cumplimiento de las normas que regulan su actividad, así como de los actos y resoluciones que emitan las autoridades administrativas competentes; IV. Valorar y, en su caso, remitir a la [Secretaría](articulo-2.md) y a la Secretaría de Gobernación las propuestas de modificaciones legales y reglamentarias en materia de regulación de medios públicos de radiodifusión, considerando el proyecto que presente el Presidente;
+III. Fomentar entre los medios públicos de radiodifusión el cabal cumplimiento de las normas que regulan su actividad, así como de los actos y resoluciones que emitan las autoridades administrativas competentes;
+
+IV. Valorar y, en su caso, remitir a la [Secretaría](articulo-2.md) y a la Secretaría de Gobernación las propuestas de modificaciones legales y reglamentarias en materia de regulación de medios públicos de radiodifusión, considerando el proyecto que presente el Presidente;
 
 V. Aprobar los programas y anteproyectos de presupuestos anuales de ingresos y egresos del Sistema, así como sus modificaciones, en los términos de la legislación aplicable, tomando en consideración las propuestas que le presente el Presidente;
 
@@ -51,7 +53,9 @@ XVI. Aprobar anualmente previo informe del funcionario competente de la Secretar
 
 XVII. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Presidente pueda disponer de los activos fijos del Sistema que no correspondan a las operaciones propias del objeto de la misma;
 
-XVIII. Constituir comités con fines específicos con base en la disponibilidad presupuestaria; XIX. Autorizar la obtención de préstamos para el financiamiento del Sistema, en los términos de las disposiciones aplicables en materia de deuda pública, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
+XVIII. Constituir comités con fines específicos con base en la disponibilidad presupuestaria;
+
+XIX. Autorizar la obtención de préstamos para el financiamiento del Sistema, en los términos de las disposiciones aplicables en materia de deuda pública, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
 
 XX. Aprobar anualmente, a propuesta del Presidente, el informe de actividades del Sistema a fin de que éste lo presente a los Poderes Ejecutivo y Legislativo de la Unión;
 

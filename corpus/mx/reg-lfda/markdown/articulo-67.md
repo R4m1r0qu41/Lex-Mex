@@ -35,7 +35,9 @@ VII. Revocar el poder otorgado;
 
 VIII. Aclarar si la obra es primigenia o derivada;
 
-IX. Manifestar la fusión de personas morales titulares de los derechos patrimoniales de autor; X. Modificar los estatutos de las Sociedades;
+IX. Manifestar la fusión de personas morales titulares de los derechos patrimoniales de autor;
+
+X. Modificar los estatutos de las Sociedades;
 
 XI. Suprimir un nombre que por error se haya manifestado como autor, colaborador, titular o parte en el certificado de registro, y
 

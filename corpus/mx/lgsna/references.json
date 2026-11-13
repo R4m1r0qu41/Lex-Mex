@@ -150,11 +150,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:3:reference:1837-1840:108:direct",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:3:reference:1838-1841:108:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
     "source_span": "108",
-    "start_char": 1837,
-    "end_char": 1840,
+    "start_char": 1838,
+    "end_char": 1841,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:108",
     "qualifiers": [],
@@ -182,19 +182,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsna:article:35:reference:1075-1076:9:direct",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:reference:1076-1077:9:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "source_span": "9",
-    "start_char": 1075,
-    "end_char": 1076,
+    "start_char": 1076,
+    "end_char": 1077,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsna",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsna:article:9",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción V",
-        "start_char": 1051,
-        "end_char": 1061
+        "start_char": 1052,
+        "end_char": 1062
       }
     ],
     "basis": "express_cross_reference",
@@ -274,14 +274,7 @@
     "end_char": 3218,
     "target_instrument_id": "urn:lex-mx:federal:statute:lotfja",
     "target_provision_id": "urn:lex-mx:federal:statute:lotfja:article:37",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XI",
-        "start_char": 3366,
-        "end_char": 3377
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

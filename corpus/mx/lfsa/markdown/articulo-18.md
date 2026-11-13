@@ -31,4 +31,6 @@ V. Establecer en coordinación con la Secretaría de Salud el sistema de alerta 
 
 VI. Retener o destruir bienes de origen animal o alimentos para animales con presencia de contaminantes;
 
-VII. Establecer los límites máximos de residuos permitidos de antibióticos, compuestos hormonales, químicos y otros productos equivalentes; y VIII. Los demás que regule esta Ley, así como los que, conforme a la tecnología o adelantos científicos sean eficientes para cada caso.
+VII. Establecer los límites máximos de residuos permitidos de antibióticos, compuestos hormonales, químicos y otros productos equivalentes; y
+
+VIII. Los demás que regule esta Ley, así como los que, conforme a la tecnología o adelantos científicos sean eficientes para cada caso.

@@ -19,7 +19,9 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 El personal del Instituto comisionado para realizar la inspección migratoria de zarpe de embarcaciones en navegación de altura deberá:
 
-I. Presentarse en el lugar de zarpe de la embarcación el día y hora señalados en el aviso; II. Solicitar al capitán o al agente naviero consignatario la presencia de los miembros de la tripulación y de los pasajeros que embarcaron para salir del territorio nacional de manera definitiva;
+I. Presentarse en el lugar de zarpe de la embarcación el día y hora señalados en el aviso;
+
+II. Solicitar al capitán o al agente naviero consignatario la presencia de los miembros de la tripulación y de los pasajeros que embarcaron para salir del territorio nacional de manera definitiva;
 
 III. Realizar la diligencia de inspección a bordo de la embarcación de manera pronta y expedita;
 

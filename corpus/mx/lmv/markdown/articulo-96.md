@@ -17,7 +17,9 @@ source_sha256: cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9
 
 # Artículo 96
 
-Las personas que pretendan obtener la autorización de la [Comisión](articulo-2.md) para realizar una oferta pública de adquisición voluntaria o forzosa, deberán integrar a la solicitud respectiva la documentación siguiente: I. Folleto informativo que contenga la información que establezca la Comisión mediante disposiciones de carácter general. Dicho folleto, podrá omitir la información relativa al precio y monto definitivos, así como aquélla que sólo sea posible conocer hasta el día previo al inicio de la oferta pública de compra.
+Las personas que pretendan obtener la autorización de la [Comisión](articulo-2.md) para realizar una oferta pública de adquisición voluntaria o forzosa, deberán integrar a la solicitud respectiva la documentación siguiente:
+
+I. Folleto informativo que contenga la información que establezca la Comisión mediante disposiciones de carácter general. Dicho folleto, podrá omitir la información relativa al precio y monto definitivos, así como aquélla que sólo sea posible conocer hasta el día previo al inicio de la oferta pública de compra.
 
 II. En su caso:
 

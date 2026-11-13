@@ -25,7 +25,9 @@ II. El patrimonio de la organización ganadera, y en su caso, la expresión de l
 
 III. Los requisitos para la admisión y exclusión de sus socios, sus obligaciones y derechos;
 
-IV. El sistema de votación en las asambleas generales; V. Los requisitos para ser miembro de los órganos y representantes de las organizaciones ganaderas, así como el procedimiento para la elección de los mismos, sus derechos y obligaciones;
+IV. El sistema de votación en las asambleas generales;
+
+V. Los requisitos para ser miembro de los órganos y representantes de las organizaciones ganaderas, así como el procedimiento para la elección de los mismos, sus derechos y obligaciones;
 
 VI. Las sanciones para el caso de violación de los estatutos;
 

@@ -95,7 +95,9 @@ XI. Instrucciones o recomendaciones específicas de acondicionamiento de la cose
 
 XII. Medidas y procedimientos para prevenir la siembra no permitida y la dispersión no prevista de la Cannabis, fuera del Sitio Confinado Permitido donde se pretenda realizar la siembra;
 
-XIII. Medidas para la erradicación de la Cannabis en sitios distintos de los permitidos, y desarrollo de protocolos para monitoreo y eliminación de plántulas voluntarias; XIV. Medidas para el aislamiento del sitio donde se pretenda sembrar Cannabis;
+XIII. Medidas para la erradicación de la Cannabis en sitios distintos de los permitidos, y desarrollo de protocolos para monitoreo y eliminación de plántulas voluntarias;
+
+XIV. Medidas para el aislamiento del sitio donde se pretenda sembrar Cannabis;
 
 XV. Métodos de limpieza o disposición final de los residuos de la siembra dentro del Sitio Confinado Permitido;
 

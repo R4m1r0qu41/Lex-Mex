@@ -7,8 +7,8 @@ provision_type: article
 number: "73"
 aliases: ["REG-LGCFD — Artículo 73"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -19,7 +19,9 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 Con el objeto de atender lo previsto en el [artículo anterior](articulo-72.md), la CONADE de acuerdo a las disponibilidades presupuestarias existentes y atendiendo la normatividad aplicable, considerará lo siguiente:
 
-I. Impartirá cursos de especialización y actualización en materia de ciencias del deporte; II. Organizará anualmente certámenes nacionales, congresos y seminarios de investigación;
+I. Impartirá cursos de especialización y actualización en materia de ciencias del deporte;
+
+II. Organizará anualmente certámenes nacionales, congresos y seminarios de investigación;
 
 III. Editará publicaciones periódicas científicas que difundan las investigaciones sobre las materias a que hace referencia el [artículo anterior](articulo-72.md);
 

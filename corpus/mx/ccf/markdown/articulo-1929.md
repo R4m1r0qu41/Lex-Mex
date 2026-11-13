@@ -21,6 +21,8 @@ El dueño de un animal pagará el daño causado por éste, si no probare alguna 
 
 I. Que lo guardaba y vigilaba con el cuidado necesario;
 
-II. Que el animal fue provocado; III. Que hubo imprudencia por parte del ofendido;
+II. Que el animal fue provocado;
+
+III. Que hubo imprudencia por parte del ofendido;
 
 IV. Que el hecho resulte de caso fortuito o de fuerza mayor.

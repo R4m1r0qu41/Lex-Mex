@@ -25,6 +25,8 @@ II. La venta de superficies vacantes o regularización de la tenencia de la tier
 
 III. Los intereses derivados de las cantidades insolutas cuando la enajenación se haya efectuado a plazos;
 
-IV. Los intereses moratorios que causen las cantidades vencidas no cubiertas; V. Las aportaciones, donativos, convenios y toda clase de ingresos que legalmente le correspondan, y
+IV. Los intereses moratorios que causen las cantidades vencidas no cubiertas;
+
+V. Las aportaciones, donativos, convenios y toda clase de ingresos que legalmente le correspondan, y
 
 VI. Los productos financieros o intereses que generen las cuentas en que se manejen los recursos del Fondo para el Ordenamiento de la Propiedad Rural.

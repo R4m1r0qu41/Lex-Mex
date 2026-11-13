@@ -21,7 +21,9 @@ Al frente de la Dirección General de Políticas Públicas, Vinculación y Coord
 
 I. Proponer lineamientos que permitan mejorar la capacidad de respuesta institucional a las demandas de la sociedad en materia de procuración de justicia;
 
-II. Establecer, en coordinación con las unidades administrativas y órganos desconcentrados competentes, las estrategias de seguimiento y evaluación de responsabilidades y compromisos institucionales; III. Coordinar la relación de la Institución con el [Consejo](articulo-2.md) de Participación Ciudadana de la Procuraduría;
+II. Establecer, en coordinación con las unidades administrativas y órganos desconcentrados competentes, las estrategias de seguimiento y evaluación de responsabilidades y compromisos institucionales;
+
+III. Coordinar la relación de la Institución con el [Consejo](articulo-2.md) de Participación Ciudadana de la Procuraduría;
 
 IV. Facilitar la coordinación entre la Procuraduría con las dependencias y entidades gubernamentales federales, de las entidades federativas y municipales; organizaciones no gubernamentales, sociales y privadas, en materia de seguridad pública, de conformidad con las disposiciones aplicables;
 

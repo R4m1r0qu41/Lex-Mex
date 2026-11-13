@@ -33,7 +33,9 @@ VI. Administrar y distribuir el tiempo que corresponda al Estado en radio y tele
 
 VII. Organizar y desarrollar, en su caso, foros de debate entre las personas candidatas y establecer las bases para que las instituciones del sector público, privado o social puedan brindar dichos espacios de manera gratuita, vigilando su adecuado desarrollo y la participación de las personas candidatas que lo deseen en condiciones de equidad;
 
-VIII. Vigilar que ninguna persona candidata reciba financiamiento público o privado en sus campañas; IX. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura y establecer las reglas de fiscalización y formatos para comprobar dicha información;
+VIII. Vigilar que ninguna persona candidata reciba financiamiento público o privado en sus campañas;
+
+IX. Determinar los topes máximos de gastos personales de campaña aplicables para cada candidatura y establecer las reglas de fiscalización y formatos para comprobar dicha información;
 
 X. Garantizar que ninguna persona candidata contrate por sí o por interpósita persona espacios en radio y televisión, Internet o cualquier otro medio de comunicación para promocionar sus candidaturas;
 

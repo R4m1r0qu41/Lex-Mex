@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 18
 
-Las Cámaras tendrán los siguientes derechos y obligaciones frente a sus [Confederaciones](articulo-2.md):
+Las [Cámaras](articulo-2.md) tendrán los siguientes derechos y obligaciones frente a sus [Confederaciones](articulo-2.md):
 
 I. Participar con voz y voto en las asambleas y otros órganos de gobierno de la Confederación a través de sus representantes;
 
@@ -29,7 +29,9 @@ IV. Someter a la consideración de la Confederación y sus órganos de gobierno 
 
 V. Ser el representante de los intereses de la actividad productiva o región que corresponde a la Cámara en la Asamblea y los órganos de gobierno de la Confederación;
 
-VI. A solicitud de las Cámaras, ser representados y defendidos por la Confederación en sus derechos y sus intereses como el sector económico o región que representa la Cámara ante las instancias de gobierno y otras instancias; VII. Recibir de la Confederación, los servicios que ésta ofrezca en términos de asesoría legal y técnica, consultoría, publicidad, tramitación, capacitación entre otros que brinde a sus afiliados;
+VI. A solicitud de las Cámaras, ser representados y defendidos por la Confederación en sus derechos y sus intereses como el sector económico o región que representa la Cámara ante las instancias de gobierno y otras instancias;
+
+VII. Recibir de la Confederación, los servicios que ésta ofrezca en términos de asesoría legal y técnica, consultoría, publicidad, tramitación, capacitación entre otros que brinde a sus afiliados;
 
 VIII. Operar el [SIEM](articulo-2.md) cuando así lo autorice la [Secretaría](articulo-2.md) a petición de las Cámaras o Confederaciones, siempre y cuando cuenten con los recursos humanos y técnicos en el sector o región que corresponda;
 

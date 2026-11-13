@@ -19,4 +19,6 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 Las [Zonas](articulo-4.md) podrán establecerse de la forma siguiente:
 
-I. Unitaria: un solo conjunto industrial delimitado geográficamente, el cual es desarrollado por un único [Administrador Integral](articulo-4.md), y II. Secciones: varios conjuntos industriales ubicados en cualquier punto dentro de un polígono más amplio, y cada conjunto es desarrollado por un Administrador Integral.
+I. Unitaria: un solo conjunto industrial delimitado geográficamente, el cual es desarrollado por un único [Administrador Integral](articulo-4.md), y
+
+II. Secciones: varios conjuntos industriales ubicados en cualquier punto dentro de un polígono más amplio, y cada conjunto es desarrollado por un Administrador Integral.

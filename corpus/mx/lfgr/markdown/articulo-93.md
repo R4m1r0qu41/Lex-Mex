@@ -17,7 +17,9 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 # Artículo 93
 
-Serán facultades del Órgano Interno de Control las siguientes: I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley General del Sistema Nacional Anticorrupción, dentro de las que se encuentran las relativas a inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de todas las personas servidoras públicas de la [Fiscalía General](articulo-9.md);
+Serán facultades del Órgano Interno de Control las siguientes:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley General del Sistema Nacional Anticorrupción, dentro de las que se encuentran las relativas a inscribir y mantener actualizada la información correspondiente del Sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de todas las personas servidoras públicas de la [Fiscalía General](articulo-9.md);
 
 II. Emitir, de conformidad con los objetivos, estrategias y prioridades, su Programa Anual de Trabajo;
 

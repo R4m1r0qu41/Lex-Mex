@@ -37,7 +37,9 @@ VIII. Detectar, identificar y preservar los indicios del delito, dejando constan
 
 IX. Restituir al ofendido y a la víctima del delito en el goce de sus derechos;
 
-X. Conceder la libertad provisional a los imputados cuando proceda; XI. Solicitar al órgano jurisdiccional las órdenes de cateo y arraigo, las intervenciones a algún medio de comunicación privada y las medidas precautorias que autorice la ley, siempre que se consideren necesarias para los fines de la averiguación previa;
+X. Conceder la libertad provisional a los imputados cuando proceda;
+
+XI. Solicitar al órgano jurisdiccional las órdenes de cateo y arraigo, las intervenciones a algún medio de comunicación privada y las medidas precautorias que autorice la ley, siempre que se consideren necesarias para los fines de la averiguación previa;
 
 XII. Aplicar los criterios de oportunidad, en los términos y en los casos que determine el Código de Procedimientos Penales para el Distrito Federal;
 

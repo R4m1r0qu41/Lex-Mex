@@ -117,7 +117,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XI",
     "start_char": 2329,
-    "end_char": 2522,
+    "end_char": 2523,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XII",
-    "start_char": 2522,
-    "end_char": 2705,
+    "start_char": 2523,
+    "end_char": 2706,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XIII",
-    "start_char": 2705,
-    "end_char": 3332,
+    "start_char": 2706,
+    "end_char": 3333,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XIV",
-    "start_char": 3332,
-    "end_char": 3654,
+    "start_char": 3333,
+    "end_char": 3655,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XV",
-    "start_char": 3654,
-    "end_char": 3731,
+    "start_char": 3655,
+    "end_char": 3732,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XVI",
-    "start_char": 3731,
-    "end_char": 4203,
+    "start_char": 3732,
+    "end_char": 4204,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XVII",
-    "start_char": 4203,
-    "end_char": 4671,
+    "start_char": 4204,
+    "end_char": 4672,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XVIII",
-    "start_char": 4671,
-    "end_char": 4865,
+    "start_char": 4672,
+    "end_char": 4866,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XIX",
-    "start_char": 4865,
-    "end_char": 5071,
+    "start_char": 4866,
+    "end_char": 5072,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XX",
-    "start_char": 5071,
-    "end_char": 5290,
+    "start_char": 5072,
+    "end_char": 5291,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXI",
-    "start_char": 5290,
-    "end_char": 6004,
+    "start_char": 5291,
+    "end_char": 6005,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXII",
-    "start_char": 6004,
-    "end_char": 6192,
+    "start_char": 6005,
+    "end_char": 6193,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXIII",
-    "start_char": 6192,
-    "end_char": 6489,
+    "start_char": 6193,
+    "end_char": 6490,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXIV",
-    "start_char": 6489,
-    "end_char": 6784,
+    "start_char": 6490,
+    "end_char": 6785,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXV",
-    "start_char": 6784,
-    "end_char": 6897,
+    "start_char": 6785,
+    "end_char": 6898,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXVI",
-    "start_char": 6897,
-    "end_char": 7200,
+    "start_char": 6898,
+    "end_char": 7201,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXVII",
-    "start_char": 7200,
-    "end_char": 7254,
+    "start_char": 7201,
+    "end_char": 7255,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXVIII",
-    "start_char": 7254,
-    "end_char": 7543,
+    "start_char": 7255,
+    "end_char": 7544,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXIX",
-    "start_char": 7543,
-    "end_char": 7905,
+    "start_char": 7544,
+    "end_char": 7906,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXX",
-    "start_char": 7905,
-    "end_char": 8171,
+    "start_char": 7906,
+    "end_char": 8172,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXX Bis",
-    "start_char": 8171,
-    "end_char": 8501,
+    "start_char": 8172,
+    "end_char": 8503,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXXI",
-    "start_char": 8501,
-    "end_char": 8709,
+    "start_char": 8503,
+    "end_char": 8711,
     "basis": "express_definition"
   },
   {
@@ -358,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXXII",
-    "start_char": 8709,
-    "end_char": 9097,
+    "start_char": 8711,
+    "end_char": 9099,
     "basis": "express_definition"
   },
   {
@@ -369,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXXIII",
-    "start_char": 9097,
-    "end_char": 9632,
+    "start_char": 9099,
+    "end_char": 9634,
     "basis": "express_definition"
   },
   {
@@ -380,8 +380,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXXIV",
-    "start_char": 9632,
-    "end_char": 10323,
+    "start_char": 9634,
+    "end_char": 10325,
     "basis": "express_definition"
   },
   {
@@ -391,8 +391,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXXV",
-    "start_char": 10323,
-    "end_char": 10443,
+    "start_char": 10325,
+    "end_char": 10445,
     "basis": "express_definition"
   },
   {
@@ -402,8 +402,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXXVI",
-    "start_char": 10443,
-    "end_char": 10759,
+    "start_char": 10445,
+    "end_char": 10761,
     "basis": "express_definition"
   },
   {
@@ -413,8 +413,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXXVII",
-    "start_char": 10759,
-    "end_char": 10831,
+    "start_char": 10761,
+    "end_char": 10833,
     "basis": "express_definition"
   },
   {
@@ -424,8 +424,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXXVIII",
-    "start_char": 10831,
-    "end_char": 10988,
+    "start_char": 10833,
+    "end_char": 10990,
     "basis": "express_definition"
   },
   {
@@ -435,8 +435,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XXXIX",
-    "start_char": 10988,
-    "end_char": 11181,
+    "start_char": 10990,
+    "end_char": 11183,
     "basis": "express_definition"
   },
   {
@@ -446,8 +446,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XL",
-    "start_char": 11181,
-    "end_char": 11522,
+    "start_char": 11183,
+    "end_char": 11524,
     "basis": "express_definition"
   },
   {
@@ -457,8 +457,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XLI",
-    "start_char": 11522,
-    "end_char": 11703,
+    "start_char": 11524,
+    "end_char": 11706,
     "basis": "express_definition"
   },
   {
@@ -468,8 +468,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XLII",
-    "start_char": 11703,
-    "end_char": 12149,
+    "start_char": 11706,
+    "end_char": 12152,
     "basis": "express_definition"
   },
   {
@@ -479,8 +479,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XLIII",
-    "start_char": 12149,
-    "end_char": 12330,
+    "start_char": 12152,
+    "end_char": 12333,
     "basis": "express_definition"
   },
   {
@@ -490,8 +490,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XLIV",
-    "start_char": 12330,
-    "end_char": 12552,
+    "start_char": 12333,
+    "end_char": 12555,
     "basis": "express_definition"
   },
   {
@@ -501,8 +501,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XLV",
-    "start_char": 12552,
-    "end_char": 12928,
+    "start_char": 12555,
+    "end_char": 12931,
     "basis": "express_definition"
   },
   {
@@ -512,8 +512,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpgir:article:5",
     "fraction": "XLVI",
-    "start_char": 12928,
-    "end_char": 13368,
+    "start_char": 12931,
+    "end_char": 13371,
     "basis": "express_definition"
   }
 ]

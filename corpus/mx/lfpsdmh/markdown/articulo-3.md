@@ -17,7 +17,9 @@ source_sha256: ace34ed71b587262c6c3a59657b3706960600744b170a830c4996e419e5abd1a
 
 # Artículo 3
 
-Para los efectos de esta Ley, además de las definiciones previstas en el artículo 4 de la Ley de Hidrocarburos, se entenderá por: I. Activos: Son aquellos bienes asociados al proceso de producción, transporte, almacenamiento y distribución de hidrocarburos. Los principales activos de una empresa son sus instalaciones y maquinaria, sus existencias inventariadas de materias primas y productos semiterminados y terminados.
+Para los efectos de esta Ley, además de las definiciones previstas en el artículo 4 de la Ley de Hidrocarburos, se entenderá por:
+
+I. Activos: Son aquellos bienes asociados al proceso de producción, transporte, almacenamiento y distribución de hidrocarburos. Los principales activos de una empresa son sus instalaciones y maquinaria, sus existencias inventariadas de materias primas y productos semiterminados y terminados.
 
 II. Áreas de exclusión: Son aquellas en las cuales no se permite el tráfico de embarcaciones o aeronaves salvo aquellas que sean requeridas para la operación de las plataformas en las actividades a que se refiere el párrafo séptimo del artículo [27](../../cpeum/markdown/articulo-27.md) de la Constitución Política de los Estados Unidos Mexicanos.
 

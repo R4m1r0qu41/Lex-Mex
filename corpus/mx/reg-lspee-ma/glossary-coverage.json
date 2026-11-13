@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lspee-ma:article:3",
-      "provision_text_sha256": "acea50cc33266d9499411aa30916579b6274f481c55b802c144a3cb21d2a103d",
+      "provision_text_sha256": "a968e33974b655cf17dac456b8391e95fd2a85d36ae2ffa43d0110e76d63f8e0",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -35,13 +35,14 @@
         "XXII",
         "XXIII",
         "XXIV",
-        "XXV"
+        "XXV",
+        "XXVI"
       ],
       "unread_fractions": [],
-      "term_count": 25
+      "term_count": 26
     }
   ],
   "imports": [],
-  "term_count": 25,
+  "term_count": 26,
   "usage_count": 10
 }

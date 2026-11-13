@@ -49,7 +49,9 @@ XIV. Ordenar y vigilar el registro de los mensajes enviados y recibidos por radi
 
 XV. Participar con el Ministerio Público en la planeación y desarrollo de estrategias en las investigaciones;
 
-XVI. Dictar las medidas necesarias para que los elementos de la Policía de Investigación guarden discreción respecto de las órdenes que reciban y la información que manejen en el desempeño de sus funciones; XVII. Conducir los planes operativos que deban aplicarse en las fechas que se tenga prevista la realización de eventos multitudinarios, en términos de la normatividad aplicable;
+XVI. Dictar las medidas necesarias para que los elementos de la Policía de Investigación guarden discreción respecto de las órdenes que reciban y la información que manejen en el desempeño de sus funciones;
+
+XVII. Conducir los planes operativos que deban aplicarse en las fechas que se tenga prevista la realización de eventos multitudinarios, en términos de la normatividad aplicable;
 
 XVIII. Coordinar el apoyo con elementos de la Policía de Investigación, adscritos a las Fiscalías Centrales o Desconcentradas de Investigación, según sea el caso, en el traslado de los detenidos a los diferentes centros de reclusión que ordene la autoridad competente;
 

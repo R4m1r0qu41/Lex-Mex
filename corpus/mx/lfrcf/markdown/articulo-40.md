@@ -23,7 +23,9 @@ I. A través de las solicitudes de aclaración, requerirá a las entidades fisca
 
 II. Tratándose de los pliegos de observaciones, determinará en cantidad líquida los daños o perjuicios, o ambos a la [Hacienda Pública Federal](articulo-4.md) o, en su caso, al patrimonio de los entes públicos;
 
-III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización; IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior de la Federación promoverá ante el [Tribunal](articulo-4.md), en los términos de la Ley General de Responsabilidades Administrativas, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, o de las investigaciones que realice de oficio o derivadas de denuncia, así como sanciones a los particulares vinculados con dichas faltas. Párrafo reformado DOF 14-05-2026
+III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización;
+
+IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior de la Federación promoverá ante el [Tribunal](articulo-4.md), en los términos de la Ley General de Responsabilidades Administrativas, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, o de las investigaciones que realice de oficio o derivadas de denuncia, así como sanciones a los particulares vinculados con dichas faltas. Párrafo reformado DOF 14-05-2026
 
 En caso de que la Auditoría Superior de la Federación determine la existencia de daños o perjuicios, o ambos a la Hacienda Pública Federal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley General de Responsabilidades Administrativas;
 

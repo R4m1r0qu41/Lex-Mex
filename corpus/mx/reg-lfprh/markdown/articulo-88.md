@@ -25,7 +25,9 @@ II. Operaciones financieras a cargo del Gobierno Federal;
 
 III. Depósitos a la vista en instituciones de banca múltiple, sin que el saldo de éstos exceda el 10 por ciento del saldo de las disponibilidades financieras;
 
-IV. Depósitos en la [Tesorería](articulo-2.md), y V. Acciones representativas del capital social de las sociedades de inversión a que se refiere el siguiente artículo.
+IV. Depósitos en la [Tesorería](articulo-2.md), y
+
+V. Acciones representativas del capital social de las sociedades de inversión a que se refiere el siguiente artículo.
 
 El saldo de las disponibilidades financieras deberá invertirse de conformidad con la estrategia financiera diseñada y aprobada por las instancias competentes de las entidades, tomando en consideración los requerimientos de las disponibilidades financieras a lo largo del tiempo.
 

@@ -20,7 +20,3 @@ Los procedimientos de contratación; de aplicación de sanciones y de inconformi
 Los contratos de obras públicas y de servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
 
 Las rescisiones administrativas que por causas imputables al contratista se hayan determinado de acuerdo con lo dispuesto en la Ley de Adquisiciones y Obras Públicas, se continuarán considerando para los efectos de los artículos [51](articulo-51.md), fracción III, y [78](articulo-78.md), fracción II de esta Ley.
-
-México, D.F., a 30 de noviembre de 1999.- Sen. Dionisio Pérez Jácome, Vicepresidente en funciones.- Dip. Francisco José Paoli Bolio, Presidente.- Sen. Raúl Juárez Valencia, Secretario.- Dip. Francisco J. Loyo Ramos, Secretario.- Rúbricas”.
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo [89](../../cpeum/markdown/articulo-89.md) de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.

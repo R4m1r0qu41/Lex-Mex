@@ -125,11 +125,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cjm:article:119:reference:558-561:292:direct",
+    "id": "urn:lex-mx:federal:code:cjm:article:119:reference:559-562:292:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cjm:article:119",
     "source_span": "292",
-    "start_char": 558,
-    "end_char": 561,
+    "start_char": 559,
+    "end_char": 562,
     "target_instrument_id": "urn:lex-mx:federal:code:cjm",
     "target_provision_id": "urn:lex-mx:federal:code:cjm:article:292",
     "qualifiers": [],
@@ -369,12 +369,6 @@
         "text": "fracciones II y III",
         "start_char": 579,
         "end_char": 598
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones VI",
-        "start_char": 664,
-        "end_char": 677
       }
     ],
     "basis": "express_cross_reference",
@@ -415,14 +409,7 @@
     "end_char": 720,
     "target_instrument_id": "urn:lex-mx:federal:code:cjm",
     "target_provision_id": "urn:lex-mx:federal:code:cjm:article:321",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 788,
-        "end_char": 800
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1186,6 +1173,29 @@
         "text": "fracciones III y V",
         "start_char": 304,
         "end_char": 322
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "own_instrument_marker"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cjm:article:30-septimus:reference:492-493:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:cjm:article:30-septimus",
+    "source_span": "4",
+    "start_char": 492,
+    "end_char": 493,
+    "target_instrument_id": "urn:lex-mx:federal:code:cjm",
+    "target_provision_id": "urn:lex-mx:federal:code:cjm:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones III y V",
+        "start_char": 460,
+        "end_char": 478
       }
     ],
     "basis": "express_cross_reference",

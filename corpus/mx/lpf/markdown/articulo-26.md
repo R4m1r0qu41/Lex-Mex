@@ -47,7 +47,9 @@ XIII. Resolver, de acuerdo a las necesidades del servicio, la reubicación de lo
 
 XIV. Sustanciar los procedimientos disciplinarios por incumplimiento a los deberes u obligaciones de los integrantes, preservando el derecho a la garantía de audiencia;
 
-XV. Conocer y resolver sobre el otorgamiento de constancias de grado y estímulos a los integrantes, conforme al procedimiento establecido en el [Reglamento](articulo-4.md) de la presente [Ley](articulo-4.md); XVI. Establecer el régimen homólogo de grados para el personal de servicios, conforme a las instrucciones del Comisionado General;
+XV. Conocer y resolver sobre el otorgamiento de constancias de grado y estímulos a los integrantes, conforme al procedimiento establecido en el [Reglamento](articulo-4.md) de la presente [Ley](articulo-4.md);
+
+XVI. Establecer el régimen homólogo de grados para el personal de servicios, conforme a las instrucciones del Comisionado General;
 
 XVII. Crear las comisiones, comités y grupos de trabajo del Servicio Profesional, Régimen Disciplinario y demás que resulten necesarias, de acuerdo al tema o actividad a desarrollar, supervisando su actuación;
 

@@ -25,7 +25,9 @@ II. Autorización en materia de impacto ambiental, expedido por la Secretaría d
 
 III. Programa del vertimiento que indique las obras o actividades a realizar;
 
-IV. Resultado de los análisis y de la caracterización tóxica, física, química y biológica de estructuras, desechos u otras materias que se pretenden verter, que se realicen conforme a la normatividad aplicable y practicados por laboratorios acreditados ante la Entidad Mexicana de Acreditación; V. Programas de monitoreos ambientales, estudios batimétricos, hidrodinámicos y de la composición bentónica de la zona de vertimiento, antes, durante y después del mismo;
+IV. Resultado de los análisis y de la caracterización tóxica, física, química y biológica de estructuras, desechos u otras materias que se pretenden verter, que se realicen conforme a la normatividad aplicable y practicados por laboratorios acreditados ante la Entidad Mexicana de Acreditación;
+
+V. Programas de monitoreos ambientales, estudios batimétricos, hidrodinámicos y de la composición bentónica de la zona de vertimiento, antes, durante y después del mismo;
 
 VI. Propuesta de zona de tiro, debiendo considerar los aspectos oceanográficos, biológicos, la posición geográfica, actividades de esparcimiento, belleza natural, interés cultural o histórico, importancia científica, refugios naturales; zonas de desove, reproducción y repoblación; rutas migratorias; hábitat estacionales y críticos; zonas de pesca; vías de navegación; usos tecnológicos del fondo del mar; zonas de exclusión y otros usos legítimos del mar;
 

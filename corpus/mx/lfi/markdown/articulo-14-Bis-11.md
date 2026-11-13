@@ -25,7 +25,9 @@ I. No tener litigio pendiente en contra del fondo de inversión o de la sociedad
 
 II. No haber sido sentenciada por delitos patrimoniales, o inhabilitada para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano;
 
-III. No haber sido declarada concursada; IV. No haber desempeñado el cargo de auditor externo de la sociedad operadora que le preste los servicios de administración de activos o de alguna de las empresas que integran el [Grupo Empresarial](articulo-2.md) o [Consorcio](articulo-2.md) al que esta última pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento;
+III. No haber sido declarada concursada;
+
+IV. No haber desempeñado el cargo de auditor externo de la sociedad operadora que le preste los servicios de administración de activos o de alguna de las empresas que integran el [Grupo Empresarial](articulo-2.md) o [Consorcio](articulo-2.md) al que esta última pertenezca, durante los doce meses inmediatos anteriores a la fecha del nombramiento;
 
 V. Presentar un reporte de crédito especial, conforme a la Ley para Regular las Sociedades de Información Crediticia, proporcionado por sociedades de información crediticia que contenga sus antecedentes de por lo menos cinco años anteriores a la fecha en que se pretende iniciar el cargo, y
 

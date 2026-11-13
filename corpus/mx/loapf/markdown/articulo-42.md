@@ -37,7 +37,9 @@ VIII.- Estimular la formación de asociaciones, comités y patronatos de caráct
 
 IX.- Emitir opinión ante la Secretaría de Economía, en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turísticos o en el establecimiento de servicios turísticos; Fracción reformada DOF 30-11-2000
 
-X.- Regular, orientar y estimular las medidas de protección al turismo, y vigilar su cumplimiento, en coordinación con las dependencias y entidades de la Administración Pública Federal y con las autoridades estatales y municipales; XI.- Promover y facilitar el intercambio y desarrollo turístico en el exterior, en coordinación con la Secretaría de Relaciones Exteriores;
+X.- Regular, orientar y estimular las medidas de protección al turismo, y vigilar su cumplimiento, en coordinación con las dependencias y entidades de la Administración Pública Federal y con las autoridades estatales y municipales;
+
+XI.- Promover y facilitar el intercambio y desarrollo turístico en el exterior, en coordinación con la Secretaría de Relaciones Exteriores;
 
 XII. Promover, y en su caso, organizar en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación, la capacitación, investigación y el desarrollo tecnológico en materia turística; Fracción reformada DOF 28-11-2024
 

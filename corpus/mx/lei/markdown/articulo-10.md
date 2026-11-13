@@ -29,4 +29,6 @@ IV.- Que será oído en defensa y se le facilitarán los recursos legales en tod
 
 V.- Que si el delito que se impute al reclamado es punible en su legislación hasta con la pena de muerte o alguna de las señaladas en el artículo 22 constitucional, sólo se impondrá la de prisión o cualquier otra de menor gravedad que esa legislación fije para el caso, ya sea directamente o por substitución o conmutación. Fracción reformada DOF 10-01-1994
 
-VI.- Que no se concederá la extradición del mismo individuo a un tercer Estado, sino en los casos de excepción previstos en la segunda fracción de este artículo; y VII.- Que proporcionará al Estado mexicano una copia auténtica de la resolución ejecutoriada que se pronuncie en el proceso.
+VI.- Que no se concederá la extradición del mismo individuo a un tercer Estado, sino en los casos de excepción previstos en la segunda fracción de este artículo; y
+
+VII.- Que proporcionará al Estado mexicano una copia auténtica de la resolución ejecutoriada que se pronuncie en el proceso.

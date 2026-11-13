@@ -17,7 +17,9 @@ source_sha256: cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b
 
 # Artículo 17
 
-Los responsables de las fuentes fijas de jurisdicción federal, por las que se emitan olores, gases o partículas sólidas o líquidas a la atmósfera estarán obligados a: I.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas técnicas ecológicas correspondientes;
+Los responsables de las fuentes fijas de jurisdicción federal, por las que se emitan olores, gases o partículas sólidas o líquidas a la atmósfera estarán obligados a:
+
+I.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas técnicas ecológicas correspondientes;
 
 II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la [Secretaría](articulo-6o.md);
 

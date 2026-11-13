@@ -39,7 +39,9 @@ IX. Impulsar las acciones necesarias para el cumplimiento de los objetivos y com
 
 X. Formular propuestas para determinar el posicionamiento nacional por adoptarse ante los foros y organismos internacionales sobre el cambio climático;
 
-XI. Promover, difundir y dictaminar en su caso, proyectos de reducción o captura de emisiones del mecanismo para un desarrollo limpio, así como de otros instrumentos reconocidos por el Estado mexicano tendentes hacia el mismo objetivo; XII. Promover el fortalecimiento de las capacidades nacionales de monitoreo, reporte y verificación, en materia de mitigación o absorción de emisiones;
+XI. Promover, difundir y dictaminar en su caso, proyectos de reducción o captura de emisiones del mecanismo para un desarrollo limpio, así como de otros instrumentos reconocidos por el Estado mexicano tendentes hacia el mismo objetivo;
+
+XII. Promover el fortalecimiento de las capacidades nacionales de monitoreo, reporte y verificación, en materia de mitigación o absorción de emisiones;
 
 XIII. Difundir sus trabajos y resultados así como publicar en el mes de septiembre un informe anual de actividades en la página de Internet prevista en el artículo [107](articulo-107.md) de esta [Ley](articulo-3o.md); Fracción reformada DOF 13-05-2015
 

@@ -25,7 +25,9 @@ II. Comprobar la integridad de los documentos digitales expedidos por las autori
 
 III. Llevar los registros de los elementos de identificación y de vinculación con los medios de identificación electrónicos de los firmantes y, en su caso, de la representación legal de los firmantes y de aquella información con la que haya verificado el cumplimiento de fiabilidad de las firmas electrónicas avanzadas y emitir el certificado.
 
-IV. Poner a disposición de los firmantes los dispositivos de generación de los datos de creación y de verificación de firmas electrónicas avanzadas o sellos digitales. V. Informar, antes de la emisión de un certificado a la persona que solicite sus servicios, de las condiciones precisas para la utilización del certificado y de sus limitaciones de uso.
+IV. Poner a disposición de los firmantes los dispositivos de generación de los datos de creación y de verificación de firmas electrónicas avanzadas o sellos digitales.
+
+V. Informar, antes de la emisión de un certificado a la persona que solicite sus servicios, de las condiciones precisas para la utilización del certificado y de sus limitaciones de uso.
 
 VI. Autorizar a las personas que cumplan con los requisitos que se establezcan en reglas de carácter general, para que proporcionen los siguientes servicios:
 

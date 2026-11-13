@@ -62,7 +62,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "fraction": "VI",
     "start_char": 653,
-    "end_char": 836,
+    "end_char": 837,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "fraction": "VII",
-    "start_char": 836,
-    "end_char": 997,
+    "start_char": 837,
+    "end_char": 998,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "fraction": "VIII",
-    "start_char": 997,
-    "end_char": 1125,
+    "start_char": 998,
+    "end_char": 1126,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "fraction": "IX",
-    "start_char": 1125,
-    "end_char": 1283,
+    "start_char": 1126,
+    "end_char": 1284,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "fraction": "X",
-    "start_char": 1283,
-    "end_char": 1389,
+    "start_char": 1284,
+    "end_char": 1390,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "fraction": "XI",
-    "start_char": 1389,
-    "end_char": 1525,
+    "start_char": 1390,
+    "end_char": 1526,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "fraction": "XII",
-    "start_char": 1525,
-    "end_char": 1645,
+    "start_char": 1526,
+    "end_char": 1646,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfafe",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfafe:article:1-bis",
     "fraction": "XIII",
-    "start_char": 1645,
-    "end_char": 1990,
+    "start_char": 1646,
+    "end_char": 1991,
     "basis": "express_definition"
   }
 ]

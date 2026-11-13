@@ -17,7 +17,9 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 # Artículo 130
 
-La resolución que imponga medidas de salvaguarda provisionales a que se refiere el artículo 78 de la [Ley](articulo-1o.md) contendrá, además de los datos señalados en el artículo [124](articulo-124.md) de este Reglamento, los siguientes: I. Descripción de las circunstancias críticas causadas por el daño grave o amenaza de daño grave; Fracción reformada DOF 22-05-2014
+La resolución que imponga medidas de salvaguarda provisionales a que se refiere el artículo 78 de la [Ley](articulo-1o.md) contendrá, además de los datos señalados en el artículo [124](articulo-124.md) de este Reglamento, los siguientes:
+
+I. Descripción de las circunstancias críticas causadas por el daño grave o amenaza de daño grave; Fracción reformada DOF 22-05-2014
 
 II. El tipo de medida de salvaguarda que se establece, y
 

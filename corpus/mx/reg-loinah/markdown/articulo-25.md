@@ -25,7 +25,9 @@ II. Proponer al titular de la Secretaría Técnica estrategias para la integraci
 
 III. Proponer al titular de la Secretaría Técnica criterios técnicos en materia de difusión y divulgación y, una vez emitidos, supervisar su aplicación y evaluarlos;
 
-IV. Supervisar e impulsar la publicación de los materiales que integran el fondo editorial del Instituto; V. Supervisar los procesos de impresión que se realizan en el taller de publicaciones del Instituto;
+IV. Supervisar e impulsar la publicación de los materiales que integran el fondo editorial del Instituto;
+
+V. Supervisar los procesos de impresión que se realizan en el taller de publicaciones del Instituto;
 
 VI. Intervenir en la supervisión, ejecución y seguimiento del cumplimiento de los convenios y compromisos internacionales, para fomentar la difusión y proyección de las actividades institucionales;
 

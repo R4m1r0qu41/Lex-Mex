@@ -35,7 +35,9 @@ VII. Supervisar el despliegue operativo y funcional de los integrantes de la Ins
 
 VIII. Captar, requerir, coordinar y procesar la información, así como realizar los estudios y proyectos para el cumplimiento de sus atribuciones;
 
-IX. Transformar las decisiones y directivas del Titular de la Coordinación Territorial al que se encuentren adscritos en órdenes específicas y supervisar su estricto cumplimiento por parte de las Coordinaciones de Unidad de Nivel Batallón que se encuentren en su territorio; X. Supervisar que en las Coordinaciones de Unidad de Nivel Batallón que se encuentren en su territorio se apliquen los métodos de análisis de información para generar inteligencia táctica, que permita prevenir y combatir la comisión de delitos;
+IX. Transformar las decisiones y directivas del Titular de la Coordinación Territorial al que se encuentren adscritos en órdenes específicas y supervisar su estricto cumplimiento por parte de las Coordinaciones de Unidad de Nivel Batallón que se encuentren en su territorio;
+
+X. Supervisar que en las Coordinaciones de Unidad de Nivel Batallón que se encuentren en su territorio se apliquen los métodos de análisis de información para generar inteligencia táctica, que permita prevenir y combatir la comisión de delitos;
 
 XI. Proponer la incorporación de criterios de seguridad en el manual correspondiente, para la seguridad y funcionamiento de las instalaciones estratégicas en su circunscripción;
 

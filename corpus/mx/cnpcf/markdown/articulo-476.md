@@ -23,4 +23,6 @@ I. Si la parte actora exige la prestación del hecho por quien está obligada o 
 
 II. Si en el contrato se estableció alguna pena por el incumplimiento, se decretará la ejecución;
 
-III. Si no se fijó penalidad por el incumplimiento de la obligación, el importe de los daños y perjuicios será fijado por la parte actora, cuando la misma optare por el resarcimiento de daños y perjuicios; en este caso, la autoridad jurisdiccional debe moderar prudentemente la cantidad señalada, y IV. Hecho el acto por la tercera persona, o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse la demandada, de la misma manera que en las demás ejecuciones.
+III. Si no se fijó penalidad por el incumplimiento de la obligación, el importe de los daños y perjuicios será fijado por la parte actora, cuando la misma optare por el resarcimiento de daños y perjuicios; en este caso, la autoridad jurisdiccional debe moderar prudentemente la cantidad señalada, y
+
+IV. Hecho el acto por la tercera persona, o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse la demandada, de la misma manera que en las demás ejecuciones.

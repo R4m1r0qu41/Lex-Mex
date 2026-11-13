@@ -17,7 +17,9 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 # Artículo 32
 
-Están obligados a reparar el daño en los términos del artículo [29](articulo-29.md): I.- Los ascendientes, por los delitos de sus descendientes que se hallaren bajo su patria potestad:
+Están obligados a reparar el daño en los términos del artículo [29](articulo-29.md):
+
+I.- Los ascendientes, por los delitos de sus descendientes que se hallaren bajo su patria potestad:
 
 II.- Los tutores y los custodios, por los delitos de los incapacitados que se hallen bajo su autoridad;
 

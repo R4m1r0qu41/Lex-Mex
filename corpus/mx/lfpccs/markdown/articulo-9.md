@@ -27,7 +27,9 @@ III. Un representante propietario y un suplente del Instituto Nacional de Invest
 
 IV. Tres representantes propietarios y sus respectivos suplentes de las instituciones de enseñanza superior, investigación y extensión;
 
-V. Tres representantes propietarios y sus respectivos suplentes de las asociaciones de productores y comercializadores de semillas; VI. Tres representantes propietarios y sus respectivos suplentes de las asociaciones de obtentores, fitomejoradores y mantenedores de semillas;
+V. Tres representantes propietarios y sus respectivos suplentes de las asociaciones de productores y comercializadores de semillas;
+
+VI. Tres representantes propietarios y sus respectivos suplentes de las asociaciones de obtentores, fitomejoradores y mantenedores de semillas;
 
 VII. Tres representantes propietarios y sus respectivos suplentes de las asociaciones y/o cámaras de agricultores consumidores de semillas; y
 

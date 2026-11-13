@@ -17,7 +17,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 92
 
-Corresponde a la Dirección General de Recursos Humanos: I. Proponer la elaboración de políticas, estrategias, normas y lineamientos en materia de administración de recursos humanos, ejecutar las mismas, difundir las vigentes y vigilar que las unidades administrativas de la [Institución](articulo-2.md) se apeguen a las mismas;
+Corresponde a la Dirección General de Recursos Humanos:
+
+I. Proponer la elaboración de políticas, estrategias, normas y lineamientos en materia de administración de recursos humanos, ejecutar las mismas, difundir las vigentes y vigilar que las unidades administrativas de la [Institución](articulo-2.md) se apeguen a las mismas;
 
 II. Intervenir en la elaboración del anteproyecto de presupuesto anual de la Institución, respecto a los recursos humanos;
 
@@ -41,7 +43,9 @@ XI. Asesorar a las unidades de administración de las Coordinaciones Estatales e
 
 XII. Integrar, controlar y mantener actualizados, los expedientes personales y administrativos de los servidores públicos de la Institución;
 
-XIII. Controlar y evaluar la operación del sistema de administración y desarrollo de personal; XIV. Participar en el establecimiento de sistemas de reclutamiento, selección, contratación, nombramiento, inducción, remuneración, servicios sociales, motivación, capacitación, formas de identificación y movimientos de los servidores públicos de la Institución;
+XIII. Controlar y evaluar la operación del sistema de administración y desarrollo de personal;
+
+XIV. Participar en el establecimiento de sistemas de reclutamiento, selección, contratación, nombramiento, inducción, remuneración, servicios sociales, motivación, capacitación, formas de identificación y movimientos de los servidores públicos de la Institución;
 
 XV. Formular y mantener actualizados el Catálogo Institucional de Puestos y el Tabulador de Sueldos de la Institución;
 

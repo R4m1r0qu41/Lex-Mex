@@ -29,7 +29,9 @@ IV. Asentamiento Humano: el establecimiento de un conglomerado demográfico, con
 
 V. Barrio: zona urbanizada de un Centro de Población dotado de identidad y características propias;
 
-VI. Centros de Población: las áreas constituidas por las zonas urbanizadas y las que se reserven para su expansión; VII. Consejo Nacional: El Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano;
+VI. Centros de Población: las áreas constituidas por las zonas urbanizadas y las que se reserven para su expansión;
+
+VII. Consejo Nacional: El Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano;
 
 VIII. Conservación: acción tendente a preservar las zonas con valores históricos y culturales, así como proteger y mantener el equilibrio ecológico en las zonas de servicios ambientales;
 
@@ -57,7 +59,9 @@ XIX. Espacio Edificable: suelo apto para el uso y aprovechamiento de sus propiet
 
 XX. Fundación: la acción de establecer un nuevo Asentamiento Humano;
 
-XXI. Gestión Integral de Riesgos: el conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de [Resiliencia](articulo-3.md) o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción; XXII. Infraestructura: los sistemas y redes de organización y distribución de bienes y servicios en los Centros de Población, incluyendo aquellas relativas a las telecomunicaciones y radiodifusión;
+XXI. Gestión Integral de Riesgos: el conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de [Resiliencia](articulo-3.md) o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+
+XXII. Infraestructura: los sistemas y redes de organización y distribución de bienes y servicios en los Centros de Población, incluyendo aquellas relativas a las telecomunicaciones y radiodifusión;
 
 XXIII. Megalópolis: sistema de zonas metropolitanas y Centros de Población y sus áreas de influencia, vinculados de manera estrecha geográfica y funcionalmente. El umbral mínimo de población de una Megalópolis es de 10 millones de habitantes;
 
@@ -85,7 +89,9 @@ XXXIII. Servicios Urbanos: las actividades operativas y servicios públicos pres
 
 XXXIV. Sistema Nacional Territorial: delimita las regiones y [Sistemas Urbano Rurales](articulo-3.md) que las integran y establece la jerarquización y caracterización de las zonas metropolitanas, [Conurbaciones](articulo-3.md) y Centros de Población, así como sus interrelaciones funcionales;
 
-XXXV. Sistemas Urbano Rurales: unidades espaciales básicas del ordenamiento territorial, que agrupan a áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente; XXXVI. Usos del suelo: los fines particulares a que podrán dedicarse determinadas zonas o predios de un Centro de Población o Asentamiento Humano;
+XXXV. Sistemas Urbano Rurales: unidades espaciales básicas del ordenamiento territorial, que agrupan a áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente;
+
+XXXVI. Usos del suelo: los fines particulares a que podrán dedicarse determinadas zonas o predios de un Centro de Población o Asentamiento Humano;
 
 XXXVII. Zona Metropolitana: Centros de Población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo nacional;
 

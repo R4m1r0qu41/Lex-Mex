@@ -19,7 +19,9 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 Será sancionado con pena de 3 a 10 años de prisión, y de 5 mil a 50 mil días multa, quien explote laboralmente a una o más personas.
 
-Existe explotación laboral cuando una persona obtiene, directa o indirectamente, beneficio injustificable, económico o de otra índole, de manera ilícita, mediante el trabajo ajeno, sometiendo a la persona a prácticas que atenten contra su dignidad, tales como: LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS I. Condiciones peligrosas o insalubres, sin las protecciones necesarias de acuerdo a la legislación laboral o las normas existentes para el desarrollo de una actividad o industria;
+Existe explotación laboral cuando una persona obtiene, directa o indirectamente, beneficio injustificable, económico o de otra índole, de manera ilícita, mediante el trabajo ajeno, sometiendo a la persona a prácticas que atenten contra su dignidad, tales como:
+
+I. Condiciones peligrosas o insalubres, sin las protecciones necesarias de acuerdo a la legislación laboral o las normas existentes para el desarrollo de una actividad o industria;
 
 II. Existencia de una manifiesta desproporción entre la cantidad de trabajo realizado y el pago efectuado por ello, o
 

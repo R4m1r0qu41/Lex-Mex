@@ -39,7 +39,9 @@ IX. Aprobar el Reglamento Interior del Instituto;
 
 X. Aprobar el programa anual de trabajo del Instituto, el cual deberá elaborarse con base en el Programa Anual de Estadística y Geografía previsto en la fracción III del artículo [9](articulo-9.md) de esta Ley; el anteproyecto de presupuesto anual; el establecimiento y cierre de oficinas regionales y otras instalaciones u oficinas con base en su disponibilidad presupuestaria; así como el nombramiento y remoción de los servidores públicos que ocupen los dos niveles jerárquicos inferiores al de miembro de la Junta de Gobierno;
 
-XI. Aprobar al final de cada año, el calendario que contenga las fechas de publicación de [Información de Interés Nacional](articulo-2.md) a que habrá de sujetarse el Instituto, en el año inmediato siguiente; XII. Expedir los lineamientos generales, otorgar las autorizaciones y establecer los registros a que se refieren los artículos [58](articulo-58.md), [60](articulo-60.md) y [61](articulo-61.md) y los artículos [93](articulo-93.md) y [95](articulo-95.md) de esta Ley, respectivamente;
+XI. Aprobar al final de cada año, el calendario que contenga las fechas de publicación de [Información de Interés Nacional](articulo-2.md) a que habrá de sujetarse el Instituto, en el año inmediato siguiente;
+
+XII. Expedir los lineamientos generales, otorgar las autorizaciones y establecer los registros a que se refieren los artículos [58](articulo-58.md), [60](articulo-60.md) y [61](articulo-61.md) y los artículos [93](articulo-93.md) y [95](articulo-95.md) de esta Ley, respectivamente;
 
 XIII. Aprobar la imposición de sanciones administrativas por infracciones a la presente Ley. Dicha facultad podrá delegarse en el Presidente o en otros servidores públicos del Instituto, considerando la naturaleza de la infracción o el monto de las multas;
 

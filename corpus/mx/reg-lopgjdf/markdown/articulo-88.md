@@ -45,7 +45,9 @@ XII. Elaborar y proponer al Comité de Profesionalización Académico, el Manual
 
 XIII. Intervenir y coordinar el proceso para el otorgamiento de estímulos y reconocimientos del personal sustantivo de la Institución;
 
-XIV. Definir y operar los procedimientos y controles de administración escolar de las diferentes actividades académicas; XV. Realizar las gestiones administrativas necesarias, ante las instancias de educación superior, para obtener el reconocimiento de los programas académicos que así lo requieran;
+XIV. Definir y operar los procedimientos y controles de administración escolar de las diferentes actividades académicas;
+
+XV. Realizar las gestiones administrativas necesarias, ante las instancias de educación superior, para obtener el reconocimiento de los programas académicos que así lo requieran;
 
 XVI. Proponer ante el Comité de Profesionalización Académico los criterios y montos para el otorgamiento de becas, dentro de las distintas actividades académicas que realiza el Instituto de Formación, para su validación;
 

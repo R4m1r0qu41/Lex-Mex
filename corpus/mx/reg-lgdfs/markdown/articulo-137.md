@@ -29,6 +29,8 @@ IV. La equivalencia en Materias primas o Productos forestales, en su caso;
 
 V. Destino de los productos de la vegetación;
 
-VI. Código de identificación que corresponda, y VII. Vigencia para realizar la remoción y transporte de los productos de la vegetación.
+VI. Código de identificación que corresponda, y
+
+VII. Vigencia para realizar la remoción y transporte de los productos de la vegetación.
 
 Las constancias que la Comisión emita para Terrenos diversos a los forestales deberán incluir el volumen en existencia de [Madera en rollo](articulo-2.md).

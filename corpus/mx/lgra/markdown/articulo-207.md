@@ -27,7 +27,9 @@ III. Los antecedentes del caso;
 
 IV. La fijación clara y precisa de los hechos controvertidos por las partes;
 
-V. La valoración de las pruebas admitidas y desahogadas; VI. Las consideraciones lógico jurídicas que sirven de sustento para la emisión de la resolución. En el caso de que se hayan ocasionado daños y perjuicios a la Hacienda Pública Federal, local o municipal o al patrimonio de los entes públicos, se deberá señalar la existencia de la relación de causalidad entre la conducta calificada como [Falta administrativa grave](articulo-3.md) o Falta de particulares y la lesión producida; la valoración del daño o perjuicio causado; así como la determinación del monto de la indemnización, explicitando los criterios utilizados para su cuantificación;
+V. La valoración de las pruebas admitidas y desahogadas;
+
+VI. Las consideraciones lógico jurídicas que sirven de sustento para la emisión de la resolución. En el caso de que se hayan ocasionado daños y perjuicios a la Hacienda Pública Federal, local o municipal o al patrimonio de los entes públicos, se deberá señalar la existencia de la relación de causalidad entre la conducta calificada como [Falta administrativa grave](articulo-3.md) o Falta de particulares y la lesión producida; la valoración del daño o perjuicio causado; así como la determinación del monto de la indemnización, explicitando los criterios utilizados para su cuantificación;
 
 VII. El relativo a la existencia o inexistencia de los hechos que la ley señale como Falta administrativa grave o Falta de particulares y, en su caso, la responsabilidad plena del servidor público o particular vinculado con dichas faltas. Cuando derivado del conocimiento del asunto, la Autoridad resolutora advierta la probable comisión de [Faltas administrativas](articulo-3.md), imputables a otra u otras personas, podrá ordenar en su fallo que las autoridades investigadoras inicien la investigación correspondiente;
 

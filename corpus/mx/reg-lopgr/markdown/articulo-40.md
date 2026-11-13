@@ -17,7 +17,9 @@ source_sha256: 05173ee7243159eadc0ab705431d038e1381731df1799208978dfdc945663afc
 
 # Artículo 40
 
-Al frente de la Coordinación General de Servicios Periciales habrá un Titular, quien tendrá las facultades siguientes: I. Dirigir, operar, coordinar y supervisar el funcionamiento de la Coordinación;
+Al frente de la Coordinación General de Servicios Periciales habrá un Titular, quien tendrá las facultades siguientes:
+
+I. Dirigir, operar, coordinar y supervisar el funcionamiento de la Coordinación;
 
 II. Someter a consideración del [Procurador](articulo-2.md) las políticas institucionales de actuación de la Coordinación;
 
@@ -41,7 +43,9 @@ XI. Operar los bancos de datos criminalísticos de la Procuraduría, materia de 
 
 XII. Operar y administrar un sistema informático de registro y análisis de perfiles genéticos de personas, vestigios biológicos, huellas y otros elementos relacionados con hechos delictuosos, que se obtengan de conformidad con las disposiciones aplicables, así como establecer criterios generales para el acceso al sistema y su uso;
 
-XIII. Operar y administrar un sistema informático de registro y análisis de la huella balística, análisis de voz y sistemas biométricos y otros elementos relacionados con hechos delictuosos, que se obtengan de conformidad con las disposiciones aplicables, así como establecer criterios generales para el acceso al sistema y su uso; XIV. Proponer a las unidades administrativas competentes la adquisición del equipo adecuado para el desarrollo de los servicios periciales y promover la cooperación en la materia con las procuradurías de las entidades federativas, así como con otras instituciones;
+XIII. Operar y administrar un sistema informático de registro y análisis de la huella balística, análisis de voz y sistemas biométricos y otros elementos relacionados con hechos delictuosos, que se obtengan de conformidad con las disposiciones aplicables, así como establecer criterios generales para el acceso al sistema y su uso;
+
+XIV. Proponer a las unidades administrativas competentes la adquisición del equipo adecuado para el desarrollo de los servicios periciales y promover la cooperación en la materia con las procuradurías de las entidades federativas, así como con otras instituciones;
 
 XV. Proponer la habilitación de peritos cuando la Coordinación no cuente con especialistas en una determinada disciplina, ciencia o arte, cuando se requiera o en casos urgentes;
 

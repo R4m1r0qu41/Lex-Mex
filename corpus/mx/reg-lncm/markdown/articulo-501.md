@@ -27,4 +27,6 @@ III. Los procedimientos de comunicación y escucha con el Centro de [Control de 
 
 IV. La identificación de los dispositivos de separación del tráfico o sistemas de regulación del tráfico marítimo que operan en la zona;
 
-V. Los casos de excepción para el pilotaje en esa zona, y VI. Las reglas de pilotaje serán publicadas en el Diario Oficial de la Federación.
+V. Los casos de excepción para el pilotaje en esa zona, y
+
+VI. Las reglas de pilotaje serán publicadas en el Diario Oficial de la Federación.

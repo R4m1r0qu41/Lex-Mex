@@ -17,7 +17,9 @@ source_sha256: 4d25bcb022ab62a24462e11a230c9554c0120012913ab4599cd3ec1b2b275c1d
 
 # Artículo 97
 
-Las solicitudes para inscripción en el [Registro](articulo-1o.md) de [Peritos Mineros](articulo-1o.md) deberán contener: I. Nombre del solicitante y, en el caso de las personas morales, de los responsables que actuarán a su nombre, así como clave del Registro Federal de Contribuyentes de dichos responsables, y
+Las solicitudes para inscripción en el [Registro](articulo-1o.md) de [Peritos Mineros](articulo-1o.md) deberán contener:
+
+I. Nombre del solicitante y, en el caso de las personas morales, de los responsables que actuarán a su nombre, así como clave del Registro Federal de Contribuyentes de dichos responsables, y
 
 II. Firma autógrafa de la persona o personas facultadas para la suscripción de los trabajos periciales.
 

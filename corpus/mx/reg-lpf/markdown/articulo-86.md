@@ -41,4 +41,6 @@ X. Instruir los servicios de seguridad física de las instalaciones a resguardo 
 
 XI. Aplicar la metodología para mantener vigentes los sistemas y programas de seguridad en instalaciones a resguardo de la División;
 
-XII. Ejecutar el programa de capacitación y evaluación específico del personal responsable de brindar los servicios de seguridad y protección, en instituciones del sistema penitenciario, y XIII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.
+XII. Ejecutar el programa de capacitación y evaluación específico del personal responsable de brindar los servicios de seguridad y protección, en instituciones del sistema penitenciario, y
+
+XIII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

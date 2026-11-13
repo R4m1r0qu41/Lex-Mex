@@ -95,7 +95,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "IX",
     "start_char": 2003,
-    "end_char": 2039,
+    "end_char": 2040,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lbio",
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "X",
-    "start_char": 2039,
-    "end_char": 2282,
+    "start_char": 2040,
+    "end_char": 2283,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lbio",
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "XI",
-    "start_char": 2282,
-    "end_char": 2343,
+    "start_char": 2283,
+    "end_char": 2344,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lbio",
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "XII",
-    "start_char": 2343,
-    "end_char": 2405,
+    "start_char": 2344,
+    "end_char": 2406,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lbio",
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "XIII",
-    "start_char": 2405,
-    "end_char": 2468,
+    "start_char": 2406,
+    "end_char": 2469,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lbio",
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "XIV",
-    "start_char": 2468,
-    "end_char": 2538,
+    "start_char": 2469,
+    "end_char": 2539,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lbio",
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "XV",
-    "start_char": 2538,
-    "end_char": 2576,
+    "start_char": 2539,
+    "end_char": 2577,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lbio",
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "XVI",
-    "start_char": 2576,
-    "end_char": 2743,
+    "start_char": 2577,
+    "end_char": 2744,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lbio",
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "XVII",
-    "start_char": 2743,
-    "end_char": 2975,
+    "start_char": 2744,
+    "end_char": 2976,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lbio",
     "defining_provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "fraction": "XVIII",
-    "start_char": 2975,
-    "end_char": 3265,
+    "start_char": 2976,
+    "end_char": 3266,
     "basis": "express_definition"
   }
 ]

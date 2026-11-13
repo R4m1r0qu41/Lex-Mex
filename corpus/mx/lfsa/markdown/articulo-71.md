@@ -19,7 +19,9 @@ source_sha256: 199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08
 
 La Secretaría difundirá los puntos de verificación e inspección zoosanitaria autorizados para verificar o inspeccionar el cumplimiento de esta Ley y demás disposiciones de sanidad animal. La inspección documental se realizará en forma física o electrónica.
 
-La Secretaría podrá dejar sin efecto los certificados zoosanitarios que amparen la movilización de mercancías reguladas que se hayan expedido ante la inminente diseminación en el territorio nacional de enfermedades y plagas que representen riesgo zoosanitario, por notificación oficial, diagnóstico u otro mecanismo científicamente sustentado así como adoptar cualquiera de las siguientes medidas zoosanitarias: I. Restringir la movilización de animales, cadáveres, despojos, bienes de origen animal, productos para uso o consumo animal, vehículos, maquinaria y equipo pecuario usado, y cualquier otra mercancía en una zona determinada o en todo el territorio nacional;
+La Secretaría podrá dejar sin efecto los certificados zoosanitarios que amparen la movilización de mercancías reguladas que se hayan expedido ante la inminente diseminación en el territorio nacional de enfermedades y plagas que representen riesgo zoosanitario, por notificación oficial, diagnóstico u otro mecanismo científicamente sustentado así como adoptar cualquiera de las siguientes medidas zoosanitarias:
+
+I. Restringir la movilización de animales, cadáveres, despojos, bienes de origen animal, productos para uso o consumo animal, vehículos, maquinaria y equipo pecuario usado, y cualquier otra mercancía en una zona determinada o en todo el territorio nacional;
 
 II. Asegurar y, en su caso, ordenar el sacrificio de aquellos animales que representen un riesgo zoosanitario;
 

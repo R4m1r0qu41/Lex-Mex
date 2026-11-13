@@ -25,7 +25,9 @@ II. Coordinar la integración democrática de la [Agenda Nacional](articulo-4.md
 
 III. Formular, aprobar, actualizar, ejecutar y evaluar el [Programa Especial](articulo-4.md) y los demás instrumentos de planeación estratégica y participativa que correspondan, conforme a los fines, principios y bases de las políticas públicas previstos en esta Ley;
 
-IV. Promover la participación de los sectores social y privado, así como de la comunidad en los procesos de formulación, ejecución y evaluación de la política nacional en la materia; V. Definir los lineamientos programáticos y presupuestarios de las dependencias y entidades de la administración pública federal para fomentar, realizar o apoyar actividades en la materia;
+IV. Promover la participación de los sectores social y privado, así como de la comunidad en los procesos de formulación, ejecución y evaluación de la política nacional en la materia;
+
+V. Definir los lineamientos programáticos y presupuestarios de las dependencias y entidades de la administración pública federal para fomentar, realizar o apoyar actividades en la materia;
 
 VI. Elaborar y aprobar el proyecto de presupuesto federal en la materia, así como evaluar la eficacia y eficiencia del gasto nacional correspondiente, sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables;
 

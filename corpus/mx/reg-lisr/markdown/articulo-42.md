@@ -25,7 +25,9 @@ a) El que los pagos efectuados a proveedores se realicen en poblaciones o en zon
 
 b) El grado de aislamiento del proveedor respecto de las poblaciones o zonas rurales donde hubiera servicios financieros, así como los medios o infraestructura de transporte disponibles para llegar a dichas poblaciones o zonas.
 
-Para efectos de esta fracción, el contribuyente deberá aportar los elementos de prueba que considere pertinentes, y II. La vigencia de las autorizaciones se circunscribirá al ejercicio fiscal de su emisión y las autorizaciones serán revisadas anualmente considerando, entre otros, los siguientes aspectos:
+Para efectos de esta fracción, el contribuyente deberá aportar los elementos de prueba que considere pertinentes, y
+
+II. La vigencia de las autorizaciones se circunscribirá al ejercicio fiscal de su emisión y las autorizaciones serán revisadas anualmente considerando, entre otros, los siguientes aspectos:
 
 a) El desarrollo de los medios o de la infraestructura del transporte;
 

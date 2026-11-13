@@ -19,7 +19,9 @@ source_sha256: f3f010bc7f5a510b084b5d43ef56a567e9b02b2083c36e50a9d0e8955af28cd6
 
 Cuando la coproducción internacional se lleve a cabo entre una o varias personas físicas o morales extranjeras de un país con el que el Gobierno Mexicano no tenga convenio o acuerdo suscrito en la materia, el contrato de coproducción que al efecto se celebre deberá establecer y contener, cuando menos, lo siguiente:
 
-I. El título de la película en coproducción; II. El nombre, denominación o razón social y nacionalidad de los productores y de los autores de la obra cinematográfica, así como del director realizador;
+I. El título de la película en coproducción;
+
+II. El nombre, denominación o razón social y nacionalidad de los productores y de los autores de la obra cinematográfica, así como del director realizador;
 
 III. El argumento y guión definitivo de la película;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "132"
 aliases: ["LGV — Artículo 132"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -21,7 +21,7 @@ En términos de las disposiciones aplicables la [Comisión Ejecutiva](articulo-6
 
 I. El producto de la enajenación de los bienes que sean decomisados en los procedimientos penales, en la proporción que corresponda, una vez que se haya cubierto la compensación, en los términos establecidos en el Código Nacional de Procedimientos Penales o en la legislación respectiva, y
 
-II. Los recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad. Lo anterior a efecto de que dichos recursos sean destinados para el pago de las ayudas, asistencia y reparación integral a víctimas, en términos de esta Ley y el [Reglamento](articulo-6.md).
+II. Los recursos provenientes de las fianzas o garantías que se hagan efectivas cuando los procesados incumplan con las obligaciones impuestas por la autoridad. Lo anterior a efecto de que dichos recursos sean destinados para el pago de las ayudas, asistencia y reparación integral a víctimas, en términos de esta [Ley](articulo-6.md) y el [Reglamento](articulo-6.md).
 
 La aplicación de recursos establecidos en otros mecanismos a favor de la víctima y los previstos en esta Ley se hará de manera complementaria, a fin de evitar su duplicidad. El acceso a los recursos a favor de cada víctima no podrá ser superior a los límites establecidos en esta Ley y las disposiciones correspondientes.
 

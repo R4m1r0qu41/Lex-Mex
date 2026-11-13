@@ -35,4 +35,6 @@ VII. Si existe ocupación previa del predio a expropiar, el convenio descrito en
 
 VIII. En su caso, el dictamen técnico o el estudio de impacto ambiental o ambos, el primero de ellos expedido por la Secretaría de Desarrollo Social y, el segundo por la Secretaría de Medio Ambiente y Recursos Naturales, según se trate. Además, se deberá acompañar el dictamen de factibilidad de la autoridad competente;
 
-IX. Compromiso de la promovente de pagar los gastos y honorarios que genere la emisión del avalúo y la indemnización que se establezca, así como la constancia de la autorización presupuestal correspondiente, y X. La información que justifique por qué el predio de que se trate es el único o el más idóneo para satisfacer la causa de utilidad pública.
+IX. Compromiso de la promovente de pagar los gastos y honorarios que genere la emisión del avalúo y la indemnización que se establezca, así como la constancia de la autorización presupuestal correspondiente, y
+
+X. La información que justifique por qué el predio de que se trate es el único o el más idóneo para satisfacer la causa de utilidad pública.

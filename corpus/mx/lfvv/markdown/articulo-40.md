@@ -21,6 +21,8 @@ La [Secretaría](articulo-2o.md) podrá revocar, previa substanciación del proc
 
 I.- Cuando durante dos años no se cubran los derechos a que se refiere el artículo [16](articulo-16.md) de esta ley;
 
-II.- Cuando se compruebe que se han alterado los caracteres pertinentes de la variedad vegetal; III.- Cuando el titular no entregue a la Secretaría el material de propagación que permita obtener la variedad vegetal con sus caracteres pertinentes, tal y como hayan sido definidos al concederse el título de obtentor, transcurridos seis meses de la fecha en que fue requerido, y
+II.- Cuando se compruebe que se han alterado los caracteres pertinentes de la variedad vegetal;
+
+III.- Cuando el titular no entregue a la Secretaría el material de propagación que permita obtener la variedad vegetal con sus caracteres pertinentes, tal y como hayan sido definidos al concederse el título de obtentor, transcurridos seis meses de la fecha en que fue requerido, y
 
 IV.- Cuando se compruebe que la variedad vegetal ha dejado de cumplir con los requisitos señalados en las fracciones III y IV del artículo [7](articulo-7o.md)o. de esta ley.

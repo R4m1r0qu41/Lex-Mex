@@ -21,7 +21,9 @@ Son causas de revocación de los permisos:
 
 I. No iniciar la administración, operación, explotación o, en su caso, construcción del aeródromo civil, en los plazos que al efecto se establezca en el permiso;
 
-II. No mantener vigentes los seguros a que se refiere esta Ley; III. Ceder, gravar, transferir o enajenar los permisos, los derechos conferidos o bienes afectos a los aeródromos civiles, en contravención de esta Ley;
+II. No mantener vigentes los seguros a que se refiere esta Ley;
+
+III. Ceder, gravar, transferir o enajenar los permisos, los derechos conferidos o bienes afectos a los aeródromos civiles, en contravención de esta Ley;
 
 IV. Alterar la naturaleza o condiciones del aeródromo civil establecidas en el permiso, sin previa autorización de la [Agencia Federal de Aviación Civil](articulo-2.md);
 

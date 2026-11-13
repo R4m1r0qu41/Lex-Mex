@@ -21,7 +21,9 @@ Si se ofrece como prueba el recuento de los trabajadores, se observarán las nor
 
 I. Se deroga. Fracción derogada DOF 01-05-2019
 
-II. Unicamente tendrán derecho a votar los trabajadores de la empresa que concurran al recuento; III. Serán considerados trabajadores de la empresa los que hubiesen sido despedidos del trabajo después de la fecha de presentación del escrito de emplazamiento;
+II. Unicamente tendrán derecho a votar los trabajadores de la empresa que concurran al recuento;
+
+III. Serán considerados trabajadores de la empresa los que hubiesen sido despedidos del trabajo después de la fecha de presentación del escrito de emplazamiento;
 
 IV. No se computarán los votos de los trabajadores de confianza, ni los de los trabajadores que hayan ingresado al trabajo con posterioridad a la fecha de presentación del escrito de emplazamiento de huelga; y
 

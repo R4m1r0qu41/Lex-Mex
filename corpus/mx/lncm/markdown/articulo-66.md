@@ -19,7 +19,9 @@ source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 
 El servicio de inspecciones, se ejercerá de conformidad con las siguientes disposiciones y las que en el reglamento respectivo se detallen:
 
-I. El servicio de inspección de embarcaciones podrá ser efectuado por terceros autorizados como inspectores por la [Secretaría](articulo-2.md); Fracción reformada DOF 19-12-2016, 07-12-2020 II. La Secretaría mantendrá la obligación intransferible de supervisión del servicio de inspección de embarcaciones; Fracción reformada DOF 19-12-2016, 07-12-2020
+I. El servicio de inspección de embarcaciones podrá ser efectuado por terceros autorizados como inspectores por la [Secretaría](articulo-2.md); Fracción reformada DOF 19-12-2016, 07-12-2020
+
+II. La Secretaría mantendrá la obligación intransferible de supervisión del servicio de inspección de embarcaciones; Fracción reformada DOF 19-12-2016, 07-12-2020
 
 III. Los inspectores podrán formar parte de sociedades nacionales o extranjeras especializadas en la clasificación de embarcaciones. Su responsabilidad será personal, con independencia de la responsabilidad en que incurran las sociedades de clasificación a las que aquellos pertenezcan;
 

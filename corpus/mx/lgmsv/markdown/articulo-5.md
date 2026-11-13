@@ -25,7 +25,9 @@ II. Los sistemas de movilidad y de transporte y la infraestructura vial deberán
 
 III. Las velocidades vehiculares deben mantenerse de acuerdo con los límites establecidos en la presente Ley para reducir muertes y la gravedad de las lesiones;
 
-IV. La integridad física de las personas es responsabilidad compartida de quienes diseñan, construyen, gestionan, operan y usan la red vial y los servicios de transporte; V. Las soluciones cuando se produzca un siniestro de tránsito, deben buscarse en todo el sistema, en lugar de responsabilizar a alguna de las personas usuarias de la vía;
+IV. La integridad física de las personas es responsabilidad compartida de quienes diseñan, construyen, gestionan, operan y usan la red vial y los servicios de transporte;
+
+V. Las soluciones cuando se produzca un siniestro de tránsito, deben buscarse en todo el sistema, en lugar de responsabilizar a alguna de las personas usuarias de la vía;
 
 VI. Los derechos de las víctimas se deberán reconocer y garantizar de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Víctimas y los Tratados Internacionales de los que el Estado Mexicano sea parte;
 

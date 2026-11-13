@@ -29,6 +29,6 @@ II. Si se trata de un salario inferior a uno superior, la rectificación surtir�
 
 III. Si se trata de un salario superior a uno inferior, la rectificación surtirá efectos desde la fecha de presentación de la solicitud.
 
-No obstante lo anterior, el Instituto podrá efectuar la rectificación con la fecha manifestada en la solicitud, siempre y cuando se presente antes de realizar el pago que corresponda al mes en que se pretende surta efectos la modificación de salario y dentro de los diecisiete primeros días del REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN mes siguiente. En este caso, el patrón deberá resarcir al Instituto las prestaciones que este último hubiere otorgado indebidamente al trabajador.
+No obstante lo anterior, el Instituto podrá efectuar la rectificación con la fecha manifestada en la solicitud, siempre y cuando se presente antes de realizar el pago que corresponda al mes en que se pretende surta efectos la modificación de salario y dentro de los diecisiete primeros días del mes siguiente. En este caso, el patrón deberá resarcir al Instituto las prestaciones que este último hubiere otorgado indebidamente al trabajador.
 
 Si a través del dictamen de contador público autorizado se determina alguno de los supuestos a que se refiere este artículo, se aplicará la regla que proceda, teniéndose como fecha de la solicitud de rectificación la de presentación ante el Instituto de dicho dictamen.

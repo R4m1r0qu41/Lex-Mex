@@ -23,7 +23,9 @@ El dictamen a que se refiere el párrafo anterior deberá contener lo siguiente:
 
 I. Lugar y fecha de emisión;
 
-II. Identificación del funcionario que emite el dictamen; III. Nombre y domicilio de la [Institución Financiera](articulo-2o.md) y del [Usuario](articulo-2o.md);
+II. Identificación del funcionario que emite el dictamen;
+
+III. Nombre y domicilio de la [Institución Financiera](articulo-2o.md) y del [Usuario](articulo-2o.md);
 
 IV. La obligación contractual y tipo de operación o servicio financiero de que se trate;
 

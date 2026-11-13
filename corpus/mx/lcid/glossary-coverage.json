@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lcid:article:4",
-      "provision_text_sha256": "a9bfc3b240295e389d42e3b80cb1f17653b7d4a384c93466cc3525f508681cb9",
+      "provision_text_sha256": "21f01eeb778edeb7470e3c355b6843598b6eec3a0513e3979ececf790412e8a0",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -21,16 +21,17 @@
         "VIII",
         "IX",
         "X",
+        "XI",
         "XII",
         "XIII",
         "XIV",
         "XV"
       ],
       "unread_fractions": [],
-      "term_count": 14
+      "term_count": 15
     }
   ],
   "imports": [],
-  "term_count": 14,
+  "term_count": 15,
   "usage_count": 145
 }

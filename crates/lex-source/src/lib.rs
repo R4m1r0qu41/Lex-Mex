@@ -206,6 +206,8 @@ pub struct SourceConfig {
     #[serde(default)]
     pub source_repeal_notice: Option<lex_core::SourceRepealNotice>,
     #[serde(default)]
+    pub provision_notes: Vec<lex_core::ProvisionNote>,
+    #[serde(default)]
     pub outdated_reference_approvals: Vec<lex_core::OutdatedReferenceApproval>,
     #[serde(default)]
     pub legal_operator_reviews: Vec<lex_core::LegalOperatorReview>,
@@ -344,6 +346,14 @@ pub fn load_config(path: &Path) -> Result<SourceConfig> {
         anyhow::ensure!(
             notice.successor_instrument_id.as_deref() != Some(&config.instrument_id),
             "repealed instrument cannot be its own successor"
+        );
+    }
+    for note in &config.provision_notes {
+        note.validate().map_err(anyhow::Error::msg)?;
+        anyhow::ensure!(
+            note.provision_id
+                .starts_with(&format!("{}:", config.instrument_id)),
+            "provision note belongs to another instrument"
         );
     }
     let mut approvals = std::collections::HashSet::new();

@@ -35,4 +35,6 @@ VII. Las empresas nacionales e internacionales generadoras de tecnología agrope
 
 VIII. Las organizaciones y particulares, nacionales e internacionales, dedicados a la investigación agropecuaria, mediante los mecanismos de cooperación que correspondan;
 
-IX. El [Consejo Mexicano](articulo-3o.md) para el Desarrollo Rural Sustentable y los [Consejos Estatales](articulo-3o.md) para el Desarrollo Rural Sustentable; y X. Otros participantes que la [Comisión Intersecretarial](articulo-3o.md) considere necesarios, para cumplir con los propósitos del fomento de la producción rural.
+IX. El [Consejo Mexicano](articulo-3o.md) para el Desarrollo Rural Sustentable y los [Consejos Estatales](articulo-3o.md) para el Desarrollo Rural Sustentable; y
+
+X. Otros participantes que la [Comisión Intersecretarial](articulo-3o.md) considere necesarios, para cumplir con los propósitos del fomento de la producción rural.

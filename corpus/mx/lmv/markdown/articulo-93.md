@@ -23,7 +23,9 @@ La citada Comisión sólo podrá otorgar la inscripción preventiva en su modali
 
 I. Los Estados Unidos Mexicanos, incluyendo los garantizados por éste.
 
-II. El Banco de México. III. El Instituto para la Protección al Ahorro Bancario.
+II. El Banco de México.
+
+III. El Instituto para la Protección al Ahorro Bancario.
 
 IV. Los organismos financieros multilaterales de carácter internacional de los que los Estados Unidos Mexicanos sea parte.
 

@@ -21,7 +21,9 @@ Podrán ser consejeros del Consejo Consultivo del Consejo Nacional dependencias,
 
 I. Comunicación social;
 
-II. Académico; III. Agrupaciones sindicales y sociales;
+II. Académico;
+
+III. Agrupaciones sindicales y sociales;
 
 IV. Agrupaciones de profesionistas;
 

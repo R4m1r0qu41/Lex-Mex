@@ -39,7 +39,9 @@ IX. Disociación: Procedimiento mediante el cual los datos personales no pueden 
 
 X. Fuente de acceso público: Aquellas bases de datos, sistemas o archivos que por disposición de ley puedan ser consultadas públicamente cuando no exista impedimento por una norma limitativa, y sin más exigencia que, en su caso, el pago de una contraprestación, tarifa o contribución. No se considerará fuente de acceso público cuando la información contenida en la misma sea obtenida o tenga una procedencia ilícita, conforme a las disposiciones establecidas por la presente Ley y demás disposiciones jurídicas aplicables;
 
-XI. Ley: Ley Federal de Protección de Datos Personales en Posesión de los Particulares; XII. Persona encargada: Persona física o jurídica que sola o conjuntamente con otras trate datos personales por cuenta del responsable;
+XI. Ley: Ley Federal de Protección de Datos Personales en Posesión de los Particulares;
+
+XII. Persona encargada: Persona física o jurídica que sola o conjuntamente con otras trate datos personales por cuenta del responsable;
 
 XIII. Reglamento: Reglamento de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares;
 

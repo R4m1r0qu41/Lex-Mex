@@ -29,7 +29,9 @@ IV. Convocatoria: Es la cita formal que realizan los órganos facultados para el
 
 V. Declaratoria de publicidad: Es el anuncio formal que hace el Presidente, ante el Pleno, informando que se ha publicado en la [Gaceta](articulo-2.md) un dictamen;
 
-VI. Dieta: Es la remuneración irrenunciable por el desempeño del cargo de Diputado Federal; VII. Diputado Independiente: La Diputada o el Diputado que emana de una contienda electoral y haya solicitado su registro ante la autoridad competente con tal carácter, en términos de lo dispuesto por el artículo [35](../../cpeum/markdown/articulo-35.md) de la [Constitución](articulo-2.md) Política de los Estados Unidos Mexicanos. Fracción adicionada DOF 18-12-2015
+VI. Dieta: Es la remuneración irrenunciable por el desempeño del cargo de Diputado Federal;
+
+VII. Diputado Independiente: La Diputada o el Diputado que emana de una contienda electoral y haya solicitado su registro ante la autoridad competente con tal carácter, en términos de lo dispuesto por el artículo [35](../../cpeum/markdown/articulo-35.md) de la [Constitución](articulo-2.md) Política de los Estados Unidos Mexicanos. Fracción adicionada DOF 18-12-2015
 
 VIII. Gaceta Parlamentaria de la Cámara de Diputados: Es la publicación a través de la cual se difunden las actividades, comunicaciones, documentos o acuerdos que tienen que ver con la Cámara; Fracción recorrida DOF 18-12-2015
 
@@ -55,7 +57,9 @@ XVIII. Permiso: Es la autorización de un órgano de la Cámara para que alguno 
 
 XIX. Pleno: Es la Asamblea general de la Cámara de Diputados; Fracción recorrida DOF 31-12-2012, 18-12-2015
 
-XX. Proposición con punto de acuerdo: Es una petición para que la Cámara asuma una postura institucional respecto a un asunto no legislativo; Fracción recorrida DOF 31-12-2012, 18-12-2015 XXI. Quórum: Es el número mínimo de diputados y diputadas requerido para que el Pleno, las comisiones y los comités puedan abrir sus sesiones y reuniones respectivamente, así como para realizar votaciones nominales. Este número equivale a la mitad más uno del total de sus integrantes; Fracción recorrida DOF 31-12-2012, 18-12-2015
+XX. Proposición con punto de acuerdo: Es una petición para que la Cámara asuma una postura institucional respecto a un asunto no legislativo; Fracción recorrida DOF 31-12-2012, 18-12-2015
+
+XXI. Quórum: Es el número mínimo de diputados y diputadas requerido para que el Pleno, las comisiones y los comités puedan abrir sus sesiones y reuniones respectivamente, así como para realizar votaciones nominales. Este número equivale a la mitad más uno del total de sus integrantes; Fracción recorrida DOF 31-12-2012, 18-12-2015
 
 XXII. Reunión: Es la asamblea que realiza cada órgano de la Cámara; Fracción recorrida DOF 31-12-2012, 18-12-2015
 

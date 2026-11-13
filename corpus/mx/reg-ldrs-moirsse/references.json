@@ -81,19 +81,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:38:reference:650-652:22:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:38:reference:651-653:22:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-ldrs-moirsse:article:38",
     "source_span": "22",
-    "start_char": 650,
-    "end_char": 652,
+    "start_char": 651,
+    "end_char": 653,
     "target_instrument_id": "urn:lex-mx:federal:statute:ldrs",
     "target_provision_id": "urn:lex-mx:federal:statute:ldrs:article:22",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IX",
-        "start_char": 654,
-        "end_char": 665
+        "start_char": 655,
+        "end_char": 666
       }
     ],
     "basis": "express_cross_reference",

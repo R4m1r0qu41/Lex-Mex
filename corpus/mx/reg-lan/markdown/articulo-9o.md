@@ -35,7 +35,9 @@ VII. Comprobar el cumplimiento de obligaciones, incluyendo la práctica de visit
 
 VIII. Determinar contribuciones o aprovechamientos omitidos mediante la liquidación del crédito a pagar y sus accesorios;
 
-IX. Imponer y condonar multas, y X. Notificar los créditos fiscales determinados.
+IX. Imponer y condonar multas, y
+
+X. Notificar los créditos fiscales determinados.
 
 Los pagos que se deban efectuar conforme a lo señalado en esta disposición, se realizarán mediante declaración que presentarán en las oficinas de "La Comisión" o en las instituciones bancarias que autorice la Secretaría de Hacienda y Crédito Público.
 

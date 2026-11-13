@@ -27,7 +27,9 @@ III. Administrar libremente su patrimonio;
 
 IV. Formular planes y programas de docencia, investigación y desarrollo, conforme a los principios de libertad de cátedra y de investigación;
 
-V. Establecer los términos de ingreso, promoción y permanencia de alumnos y del personal académico; VI. Otorgar y expedir títulos, diplomas, certificados de estudio, menciones honoríficas y grados académicos;
+V. Establecer los términos de ingreso, promoción y permanencia de alumnos y del personal académico;
+
+VI. Otorgar y expedir títulos, diplomas, certificados de estudio, menciones honoríficas y grados académicos;
 
 VII. Revalidar estudios realizados en instituciones nacionales o extranjeras, estableciendo para tal efecto las equivalencias que estime convenientes;
 

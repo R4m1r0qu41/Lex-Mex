@@ -21,7 +21,9 @@ A los productos o bienes decomisados, se les dará el destino que disponga la [S
 
 I. Remate en subasta pública;
 
-II. Venta directa de productos pesqueros; III. Donación a establecimientos de asistencia social o de rehabilitación, tratándose de productos de la pesca deportivo-recreativa o productos capturados en época de veda o en tallas menores a las autorizadas; y
+II. Venta directa de productos pesqueros;
+
+III. Donación a establecimientos de asistencia social o de rehabilitación, tratándose de productos de la pesca deportivo-recreativa o productos capturados en época de veda o en tallas menores a las autorizadas; y
 
 IV. Destrucción de productos contaminados o en estado de descomposición y en el caso de artes de pesca prohibidas, cuando sea procedente.
 

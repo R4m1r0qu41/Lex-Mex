@@ -17,7 +17,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 58-A
 
-Las autoridades fiscales podrán modificar la utilidad o la pérdida fiscal a que se refiere la Ley del Impuesto sobre la Renta, mediante la determinación presuntiva del precio en que los contribuyentes adquieran o enajenen bienes, así como el monto de la contraprestación en el caso de operaciones distintas de enajenación, cuando: I. Las operaciones de que se trate se pacten a menos del precio de mercado o el costo de adquisición sea mayor que dicho precio.
+Las autoridades fiscales podrán modificar la utilidad o la pérdida fiscal a que se refiere la Ley del Impuesto sobre la Renta, mediante la determinación presuntiva del precio en que los contribuyentes adquieran o enajenen bienes, así como el monto de la contraprestación en el caso de operaciones distintas de enajenación, cuando:
+
+I. Las operaciones de que se trate se pacten a menos del precio de mercado o el costo de adquisición sea mayor que dicho precio.
 
 II. La enajenación de los bienes se realice al costo o a menos del costo, salvo que el contribuyente compruebe que la enajenación se hizo al precio de mercado en la fecha de la operación, o que los bienes sufrieron demérito o existieron circunstancias que determinaron la necesidad de efectuar la enajenación en estas condiciones.
 

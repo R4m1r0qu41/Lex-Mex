@@ -27,7 +27,9 @@ IV. La definición de un proceso de ordenamiento ecológico para la formulación
 
 V. La determinación de las bases para proporcionar apoyo técnico a los gobiernos locales y municipales en la formulación y en la ejecución de los programas de ordenamiento ecológico de su competencia;
 
-VI. La integración e instrumentación del [Subsistema](articulo-3o.md) de Información sobre Ordenamiento Ecológico, dentro del Sistema Nacional de Información Ambiental y de Recursos Naturales; VII. La determinación de los criterios y mecanismos tendientes a promover la congruencia del ordenamiento ecológico con otros instrumentos de política ambiental;
+VI. La integración e instrumentación del [Subsistema](articulo-3o.md) de Información sobre Ordenamiento Ecológico, dentro del Sistema Nacional de Información Ambiental y de Recursos Naturales;
+
+VII. La determinación de los criterios y mecanismos tendientes a promover la congruencia del ordenamiento ecológico con otros instrumentos de política ambiental;
 
 VIII. La determinación de los criterios y mecanismos necesarios para prever, promover y ajustar la congruencia entre las acciones programadas de la Administración Pública Federal y los programas de ordenamiento ecológico, para efectos operativos y presupuestales;
 

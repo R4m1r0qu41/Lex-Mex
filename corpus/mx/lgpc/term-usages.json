@@ -1,156 +1,156 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:1590-1624",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:1591-1625",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:unidad-interna-de-proteccion-civil",
     "span": "Unidad Interna de Protección Civil",
-    "start_char": 1590,
-    "end_char": 1624
+    "start_char": 1591,
+    "end_char": 1625
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:1751-1787",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:1752-1788",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:programa-interno-de-proteccion-civil",
     "span": "Programa Interno de Protección Civil",
-    "start_char": 1751,
-    "end_char": 1787
+    "start_char": 1752,
+    "end_char": 1788
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2160-2171",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2161-2172",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:emergencia",
     "span": "Emergencias",
-    "start_char": 2160,
-    "end_char": 2171
+    "start_char": 2161,
+    "end_char": 2172
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2174-2183",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2175-2184",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:desastre",
     "span": "Desastres",
-    "start_char": 2174,
-    "end_char": 2183
+    "start_char": 2175,
+    "end_char": 2184
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2187-2203",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2188-2204",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
     "span": "Protección Civil",
-    "start_char": 2187,
-    "end_char": 2203
+    "start_char": 2188,
+    "end_char": 2204
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2306-2322",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2307-2323",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 2306,
-    "end_char": 2322
+    "start_char": 2307,
+    "end_char": 2323
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2997-3013",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:2998-3014",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
     "span": "Protección Civil",
-    "start_char": 2997,
-    "end_char": 3013
+    "start_char": 2998,
+    "end_char": 3014
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:3020-3030",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:3021-3031",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3020,
-    "end_char": 3030
+    "start_char": 3021,
+    "end_char": 3031
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:12125-12159",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:12126-12160",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:unidad-interna-de-proteccion-civil",
     "span": "Unidad Interna de Protección Civil",
-    "start_char": 12125,
-    "end_char": 12159
+    "start_char": 12126,
+    "end_char": 12160
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:12517-12533",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:12518-12534",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
     "span": "Protección Civil",
-    "start_char": 12517,
-    "end_char": 12533
+    "start_char": 12518,
+    "end_char": 12534
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:12861-12877",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:12862-12878",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 12861,
-    "end_char": 12877
+    "start_char": 12862,
+    "end_char": 12878
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:13037-13064",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:13038-13065",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:gestion-integral-de-riesgos",
     "span": "Gestión Integral de Riesgos",
-    "start_char": 13037,
-    "end_char": 13064
+    "start_char": 13038,
+    "end_char": 13065
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:16170-16177",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:16171-16178",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
     "span": "Riesgos",
-    "start_char": 16170,
-    "end_char": 16177
+    "start_char": 16171,
+    "end_char": 16178
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17197-17233",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17198-17234",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:programa-interno-de-proteccion-civil",
     "span": "Programa Interno de Protección Civil",
-    "start_char": 17197,
-    "end_char": 17233
+    "start_char": 17198,
+    "end_char": 17234
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17404-17412",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17405-17413",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:brigada",
     "span": "Brigadas",
-    "start_char": 17404,
-    "end_char": 17412
+    "start_char": 17405,
+    "end_char": 17413
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17432-17448",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17433-17449",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
     "span": "Protección Civil",
-    "start_char": 17432,
-    "end_char": 17448
+    "start_char": 17433,
+    "end_char": 17449
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17690-17706",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:2:term-usage:17691-17707",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 17690,
-    "end_char": 17706
+    "start_char": 17691,
+    "end_char": 17707
   },
   {
     "schema_version": "0.1.0",
@@ -388,66 +388,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:3108-3124",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:3109-3125",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
     "span": "Protección Civil",
-    "start_char": 3108,
-    "end_char": 3124
+    "start_char": 3109,
+    "end_char": 3125
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:3263-3290",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:3264-3291",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:gestion-integral-de-riesgos",
     "span": "Gestión Integral de Riesgos",
-    "start_char": 3263,
-    "end_char": 3290
+    "start_char": 3264,
+    "end_char": 3291
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:4586-4593",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:4587-4594",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
     "span": "Riesgos",
-    "start_char": 4586,
-    "end_char": 4593
+    "start_char": 4587,
+    "end_char": 4594
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:4595-4603",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:4596-4604",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:peligro",
     "span": "Peligros",
-    "start_char": 4595,
-    "end_char": 4603
+    "start_char": 4596,
+    "end_char": 4604
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:4606-4622",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:4607-4623",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:vulnerabilidad",
     "span": "Vulnerabilidades",
-    "start_char": 4606,
-    "end_char": 4622
+    "start_char": 4607,
+    "end_char": 4623
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:5576-5582",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:5577-5583",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:riesgo",
     "span": "Riesgo",
-    "start_char": 5576,
-    "end_char": 5582
+    "start_char": 5577,
+    "end_char": 5583
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:8086-8102",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:19:term-usage:8087-8103",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:19",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 8086,
-    "end_char": 8102
+    "start_char": 8087,
+    "end_char": 8103
   },
   {
     "schema_version": "0.1.0",
@@ -712,12 +712,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:26:term-usage:2733-2749",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:26:term-usage:2734-2750",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:26",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 2733,
-    "end_char": 2749
+    "start_char": 2734,
+    "end_char": 2750
   },
   {
     "schema_version": "0.1.0",
@@ -919,75 +919,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:198-214",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:199-215",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 198,
-    "end_char": 214
+    "start_char": 199,
+    "end_char": 215
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:320-336",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:321-337",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 320,
-    "end_char": 336
+    "start_char": 321,
+    "end_char": 337
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:425-441",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:426-442",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 425,
-    "end_char": 441
+    "start_char": 426,
+    "end_char": 442
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:672-688",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:673-689",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 672,
-    "end_char": 688
+    "start_char": 673,
+    "end_char": 689
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:758-774",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:759-775",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 758,
-    "end_char": 774
+    "start_char": 759,
+    "end_char": 775
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:824-841",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:825-842",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:programa-nacional",
     "span": "Programa Nacional",
-    "start_char": 824,
-    "end_char": 841
+    "start_char": 825,
+    "end_char": 842
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:845-861",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:846-862",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:proteccion-civil",
     "span": "Protección Civil",
-    "start_char": 845,
-    "end_char": 861
+    "start_char": 846,
+    "end_char": 862
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:1010-1026",
+    "id": "urn:lex-mx:federal:statute:lgpc:article:30:term-usage:1011-1027",
     "provision_id": "urn:lex-mx:federal:statute:lgpc:article:30",
     "term_id": "urn:lex-mx:federal:statute:lgpc:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 1010,
-    "end_char": 1026
+    "start_char": 1011,
+    "end_char": 1027
   },
   {
     "schema_version": "0.1.0",

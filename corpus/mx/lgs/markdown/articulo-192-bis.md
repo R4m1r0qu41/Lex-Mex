@@ -29,7 +29,9 @@ IV. Atención médica: Al conjunto de servicios que se proporcionan al individuo
 
 V. Detección temprana: Corresponde a una estrategia de prevención secundaria que tiene como propósito identificar en una fase inicial el consumo de narcóticos a fin de aplicar medidas terapéuticas de carácter médico, psicológico y social lo más temprano posible;
 
-VI. Prevención: El conjunto de acciones dirigidas a evitar o reducir el consumo de narcóticos, a disminuir situaciones de riesgo y limitar los daños asociados al consumo de dichas sustancias; VII. Tratamiento: El conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de narcóticos, reducir los riesgos y daños que implican el uso y abuso de dichas sustancias, abatir los padecimientos asociados al consumo, e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de esas sustancias, como de su familia;
+VI. Prevención: El conjunto de acciones dirigidas a evitar o reducir el consumo de narcóticos, a disminuir situaciones de riesgo y limitar los daños asociados al consumo de dichas sustancias;
+
+VII. Tratamiento: El conjunto de acciones que tienen por objeto conseguir la abstinencia o, en su caso, la reducción del consumo de narcóticos, reducir los riesgos y daños que implican el uso y abuso de dichas sustancias, abatir los padecimientos asociados al consumo, e incrementar el grado de bienestar físico, mental y social, tanto del que usa, abusa o depende de esas sustancias, como de su familia;
 
 VIII. Investigación en materia de farmacodependencia: Tiene por objeto determinar las características y tendencias del problema, así como su magnitud e impacto en lo individual, familiar y colectivo; construyendo las bases científicas para la construcción de políticas públicas y los tratamientos adecuados para los diversos tipos y niveles de adicción; respetando los derechos humanos y su integridad, y
 

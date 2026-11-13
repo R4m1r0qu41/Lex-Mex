@@ -21,6 +21,6 @@ La [Comisión](articulo-7.md), diseñará, propondrá y aplicará medidas para a
 
 La Federación podrá establecer estímulos fiscales para dar continuidad a largo plazo a la actividad forestal.
 
-La Federación podrá establecer mecanismos de apoyo para impulsar el desarrollo forestal sustentable, como los destinados al Programa de Desarrollo Forestal, al Programa de Manejo Forestal Comunitario, al Programa de Plantaciones Forestales Comerciales y la Reforestación y Conservación de Suelos, y demás que se establezcan.
+La Federación podrá establecer mecanismos de apoyo para impulsar el desarrollo forestal sustentable, como los destinados al Programa de Desarrollo Forestal, al Programa de Manejo Forestal Comunitario, al Programa de Plantaciones Forestales Comerciales y la [Reforestación](articulo-7.md) y Conservación de Suelos, y demás que se establezcan.
 
 La Cámara de Diputados asignará anualmente las partidas necesarias para atender el funcionamiento y operación de los mencionados programas de apoyo.

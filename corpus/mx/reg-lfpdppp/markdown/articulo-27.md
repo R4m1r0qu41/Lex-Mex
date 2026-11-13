@@ -21,7 +21,9 @@ En términos del artículo [17](../../lfpdppp/markdown/articulo-17.md), fracció
 
 I. La identidad y domicilio del responsable;
 
-II. Las finalidades del tratamiento, y III. Los mecanismos que el responsable ofrece para que el titular conozca el aviso de privacidad de conformidad con el artículo [26](articulo-26.md) del presente Reglamento.
+II. Las finalidades del tratamiento, y
+
+III. Los mecanismos que el responsable ofrece para que el titular conozca el aviso de privacidad de conformidad con el artículo [26](articulo-26.md) del presente Reglamento.
 
 La divulgación inmediata de la información antes señalada no exime al responsable de la obligación de proveer los mecanismos para que el titular conozca el contenido del aviso de privacidad, de conformidad con el artículo [26](articulo-26.md) del presente Reglamento.
 

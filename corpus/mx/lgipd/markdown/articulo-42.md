@@ -47,6 +47,8 @@ XIII. Promover la creación y aplicación de Normas Oficiales Mexicanas en mater
 
 XIV. Elaborar, presentar y difundir anualmente el informe de avances y resultados del Programa;
 
-XV. Presentar un informe anual de actividades; XVI. Coadyuvar con la Secretaría de Relaciones Exteriores en la elaboración de los informes que el Estado Mexicano presentará ante los organismos internacionales, sobre la aplicación y cumplimiento de los instrumentos internacionales en materia de discapacidad, y
+XV. Presentar un informe anual de actividades;
+
+XVI. Coadyuvar con la Secretaría de Relaciones Exteriores en la elaboración de los informes que el Estado Mexicano presentará ante los organismos internacionales, sobre la aplicación y cumplimiento de los instrumentos internacionales en materia de discapacidad, y
 
 XVII. Las demás que se establezcan en esta Ley, su Reglamento, Estatuto Orgánico del Consejo y demás disposiciones aplicables.

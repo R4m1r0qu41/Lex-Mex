@@ -39,7 +39,9 @@ IX. Coordinar la formulación y ejecución de los programas anuales y acciones e
 
 X. Coordinar el mantenimiento preventivo y correctivo de los sistemas informáticos de telecomunicaciones y de modernización tecnológica y administrativa de la Institución;
 
-XI. Proponer y dictaminar los lineamientos para la operación de los comités de obras, adquisiciones, arrendamientos, servicios y enajenación relacionados con bienes de la Institución; XII. Suscribir los contratos y convenios, previa opinión de la Dirección General de Asuntos Jurídicos, así como los acuerdos y demás documentos que impliquen actos de administración relativos al ejercicio de sus atribuciones;
+XI. Proponer y dictaminar los lineamientos para la operación de los comités de obras, adquisiciones, arrendamientos, servicios y enajenación relacionados con bienes de la Institución;
+
+XII. Suscribir los contratos y convenios, previa opinión de la Dirección General de Asuntos Jurídicos, así como los acuerdos y demás documentos que impliquen actos de administración relativos al ejercicio de sus atribuciones;
 
 XIII. Validar las medidas técnicas y administrativas que mejoren el funcionamiento de la Institución;
 
@@ -67,6 +69,8 @@ XXIV. Certificar los acuerdos del Consejo Federal y proveer lo relativo a su pub
 
 XXV. Dirigir y supervisar la actuación de las comisiones, comités y grupos de trabajo que establezca el Consejo Federal;
 
-XXVI. Establecer las políticas, normas y procedimientos para la atención médica, odontológica, de alimentación, educativa, cultural, deportiva y recreativa del personal de la Institución; XXVII. Opinar sobre las estructuras orgánicas de las unidades de la Institución, y
+XXVI. Establecer las políticas, normas y procedimientos para la atención médica, odontológica, de alimentación, educativa, cultural, deportiva y recreativa del personal de la Institución;
+
+XXVII. Opinar sobre las estructuras orgánicas de las unidades de la Institución, y
 
 XXVIII. Las demás que le confieran este Reglamento, otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

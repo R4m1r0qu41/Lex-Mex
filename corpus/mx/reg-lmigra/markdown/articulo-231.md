@@ -17,7 +17,9 @@ source_sha256: 2d7acbf6a4fa5ecfa5e4456b312ccd603cca500673a4534a612eddca50d2ba4c
 
 # Artículo 231
 
-Queda prohibido en las estaciones migratorias y en las estancias provisionales: I. Toda acción u omisión que viole los derechos humanos de las personas extranjeras presentadas;
+Queda prohibido en las estaciones migratorias y en las estancias provisionales:
+
+I. Toda acción u omisión que viole los derechos humanos de las personas extranjeras presentadas;
 
 II. Toda acción u omisión que constituya un trato cruel, inhumano o degradante para las personas extranjeras presentadas;
 

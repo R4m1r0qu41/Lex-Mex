@@ -18,7 +18,18 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfmped:article:2",
     "fraction": "II",
     "start_char": 147,
-    "end_char": 381,
+    "end_char": 254,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:term:reserva-del-fondo",
+    "term": "Reserva del Fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfmped",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfmped:article:2",
+    "fraction": "III",
+    "start_char": 254,
+    "end_char": 382,
     "basis": "express_definition"
   }
 ]

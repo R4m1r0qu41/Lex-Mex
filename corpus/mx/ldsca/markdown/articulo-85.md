@@ -25,7 +25,9 @@ II. Cuando no acaten las disposiciones del [Comité](articulo-3.md) referente a 
 
 III. Cuando no realicen oportunamente las labores y obras necesarias que permitan la cosecha y transporte de la caña;
 
-IV. Cuando por conflictos de los propios Abastecedores de Caña, obstaculicen parcial o totalmente la entrega de caña; V. Cuando sin causa justificada los Abastecedores de Caña obstaculicen parcial o totalmente la entrega de la caña;
+IV. Cuando por conflictos de los propios Abastecedores de Caña, obstaculicen parcial o totalmente la entrega de caña;
+
+V. Cuando sin causa justificada los Abastecedores de Caña obstaculicen parcial o totalmente la entrega de la caña;
 
 VI. Cuando no acaten los acuerdos dictados y notificados oportunamente por el Comité y afecten directamente la molienda, y/o
 

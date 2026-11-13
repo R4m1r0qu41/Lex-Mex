@@ -45,4 +45,6 @@ XII. Realizar investigaciones sobre las causas y efectos de los problemas priori
 
 XIII. Coordinar, integrar y sistematizar un Directorio Nacional de Instituciones públicas y privadas de asistencia social;
 
-XIV. Supervisar y coadyuvar en el desarrollo de los procesos de adopción de menores, y XV. Las demás que le otorga la Ley General de Salud.
+XIV. Supervisar y coadyuvar en el desarrollo de los procesos de adopción de menores, y
+
+XV. Las demás que le otorga la Ley General de Salud.

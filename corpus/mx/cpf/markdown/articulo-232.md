@@ -17,7 +17,9 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 # Artículo 232
 
-Además de las penas mencionadas, se podrán imponer de tres meses a tres años de prisión. I.- Por patrocinar o ayudar a diversos contendientes o partes con intereses opuestos, en un mismo negocio o en negocios conexos, o cuando se acepta el patrocinio de alguno y se admite después el de la parte contraria;
+Además de las penas mencionadas, se podrán imponer de tres meses a tres años de prisión.
+
+I.- Por patrocinar o ayudar a diversos contendientes o partes con intereses opuestos, en un mismo negocio o en negocios conexos, o cuando se acepta el patrocinio de alguno y se admite después el de la parte contraria;
 
 II.- Por abandonar la defensa de un cliente o negocio sin motivo justificado y causando daño, y
 

@@ -21,7 +21,7 @@ Oportunidad para formular la imputación a personas detenidas La formulación de
 
 En el caso de detenidos en flagrancia o caso urgente, después que el Juez de control califique de legal la detención, el Ministerio Público deberá formular la imputación, acto seguido solicitará la vinculación del imputado a proceso sin perjuicio del plazo constitucional que pueda invocar el imputado o su [Defensor](articulo-3o.md).
 
-En el caso de que el Ministerio Público o la víctima u ofendido o el Asesor jurídico solicite una medida cautelar y el imputado se haya acogido al plazo constitucional, el debate sobre medidas cautelares sucederá previo a la suspensión de la audiencia. Párrafo reformado DOF 17-06-2016
+En el caso de que el Ministerio Público o la víctima u ofendido o el [Asesor jurídico](articulo-3o.md) solicite una medida cautelar y el imputado se haya acogido al plazo constitucional, el debate sobre medidas cautelares sucederá previo a la suspensión de la audiencia. Párrafo reformado DOF 17-06-2016
 
 El imputado no podrá negarse a proporcionar su completa identidad, debiendo responder las preguntas que se le dirijan con respecto a ésta y se le exhortará para que se conduzca con verdad.
 

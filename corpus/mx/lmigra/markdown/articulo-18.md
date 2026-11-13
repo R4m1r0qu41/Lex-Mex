@@ -31,4 +31,6 @@ V. En coordinación con la Secretaría de Relaciones Exteriores, promover y susc
 
 VI. Fijar y suprimir los lugares destinados al tránsito internacional de personas, en términos de esta Ley y su Reglamento;
 
-VII. Dictar los Acuerdos de readmisión, en los supuestos previstos en esta Ley, y VIII. Las demás que le señale la Ley General de Población, esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+VII. Dictar los Acuerdos de readmisión, en los supuestos previstos en esta Ley, y
+
+VIII. Las demás que le señale la Ley General de Población, esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.

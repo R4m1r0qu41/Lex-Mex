@@ -23,7 +23,9 @@ I. Abstenerse de impedir u obstaculizar por cualquier medio la visita;
 
 II. Acreditar la personalidad que ostente, así como señalar el carácter con el que atienda la visita;
 
-III. Permitir y brindar facilidades para el acceso oportuno y completo a las instalaciones del plantel, documentos, equipamiento, entre otras, que se habrán de verificar; IV. Exhibir los documentos que exijan las disposiciones aplicables en materia educativa, conforme al objeto de la orden de visita;
+III. Permitir y brindar facilidades para el acceso oportuno y completo a las instalaciones del plantel, documentos, equipamiento, entre otras, que se habrán de verificar;
+
+IV. Exhibir los documentos que exijan las disposiciones aplicables en materia educativa, conforme al objeto de la orden de visita;
 
 V. Proporcionar la información adicional que solicite el servidor público comisionado, conforme al objeto y alcance de la orden de visita;
 

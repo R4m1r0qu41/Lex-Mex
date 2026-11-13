@@ -41,4 +41,6 @@ X. Tratamiento de padecimientos crónicos que requieran control terapéutico per
 
 XI. Tratamientos quirúrgicos o médicos para corrección de alteraciones de la fertilidad de la pareja;
 
-XII. Tratamiento de secuelas de lesiones musculoesqueléticas o neurológicas, de origen traumático adquiridas con anterioridad al aseguramiento, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN XIII. Tratamiento de secuelas de enfermedades degenerativas del sistema nervioso central y periférico y secuelas de enfermedad vascular cerebral; insuficiencia vascular periférica, entre otras, adquiridas con anterioridad al aseguramiento.
+XII. Tratamiento de secuelas de lesiones musculoesqueléticas o neurológicas, de origen traumático adquiridas con anterioridad al aseguramiento, y
+
+XIII. Tratamiento de secuelas de enfermedades degenerativas del sistema nervioso central y periférico y secuelas de enfermedad vascular cerebral; insuficiencia vascular periférica, entre otras, adquiridas con anterioridad al aseguramiento.

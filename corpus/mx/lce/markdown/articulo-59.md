@@ -19,7 +19,9 @@ source_sha256: 3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459
 
 Dentro de un plazo de 210 días, contados a partir del día siguiente de la publicación en el Diario Oficial de la Federación de la resolución de inicio de la investigación, la [Secretaría](articulo-3o.md) dictará la resolución final. A través de esta resolución, la Secretaría deberá: Párrafo reformado DOF 13-03-2003
 
-I. Imponer cuota compensatoria definitiva; II. Revocar la cuota compensatoria provisional, o
+I. Imponer cuota compensatoria definitiva;
+
+II. Revocar la cuota compensatoria provisional, o
 
 III. Declarar concluida la investigación sin imponer cuota compensatoria.
 

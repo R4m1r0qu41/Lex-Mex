@@ -17,7 +17,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 # Artículo 10
 
-Las normas, lineamientos, procedimientos y metodologías que establezca la Secretaría para la elaboración e integración del Sistema Nacional de Información y Gestión Forestal, deberán considerar lo siguiente: I. Se constituirá como un sistema de acceso público, con apego a la legislación aplicable en materia de transparencia y acceso a la información;
+Las normas, lineamientos, procedimientos y metodologías que establezca la Secretaría para la elaboración e integración del Sistema Nacional de Información y Gestión Forestal, deberán considerar lo siguiente:
+
+I. Se constituirá como un sistema de acceso público, con apego a la legislación aplicable en materia de transparencia y acceso a la información;
 
 II. Estará vinculado al Sistema Nacional de Información Ambiental y de Recursos Naturales, y
 

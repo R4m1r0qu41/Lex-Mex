@@ -23,7 +23,9 @@ I. Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a 
 
 II. Entrevistar periódicamente a la víctima o testigo del delito, con el objeto de dar seguimiento al cumplimiento de la medida cautelar impuesta o las condiciones de la suspensión condicional del proceso y canalizarlos, en su caso, a la autoridad correspondiente;
 
-III. Realizar entrevistas así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el imputado; IV. Verificar la localización del imputado en su domicilio o en el lugar en donde se encuentre, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+III. Realizar entrevistas así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el imputado;
+
+IV. Verificar la localización del imputado en su domicilio o en el lugar en donde se encuentre, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
 
 V. Requerir que el imputado proporcione muestras, sin previo aviso, para detectar el posible uso de alcohol o drogas prohibidas, o el resultado del examen de las mismas en su caso, cuando la modalidad de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
 

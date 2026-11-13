@@ -605,12 +605,6 @@
         "text": "párrafo 1",
         "start_char": 49,
         "end_char": 58
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo 2",
-        "start_char": 130,
-        "end_char": 139
       }
     ],
     "basis": "express_cross_reference",

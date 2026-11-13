@@ -35,7 +35,9 @@ V. La adopción de la demarcación espacial de los Distritos de Desarrollo Rural
 
 VI. La corresponsabilidad para la organización y desarrollo de medidas de inocuidad, sanidad vegetal y salud animal;
 
-VII. La participación de las acciones del gobierno de la entidad federativa correspondiente en los programas de atención prioritaria a las regiones de mayor rezago económico y social, así como las de reconversión productiva; VIII. La participación del gobierno de la entidad federativa en el desarrollo de infraestructura y el impulso a la organización de los productores para hacer más eficientes los procesos de producción, industrialización, servicios, acopio y comercialización que ellos desarrollen;
+VII. La participación de las acciones del gobierno de la entidad federativa correspondiente en los programas de atención prioritaria a las regiones de mayor rezago económico y social, así como las de reconversión productiva;
+
+VIII. La participación del gobierno de la entidad federativa en el desarrollo de infraestructura y el impulso a la organización de los productores para hacer más eficientes los procesos de producción, industrialización, servicios, acopio y comercialización que ellos desarrollen;
 
 IX. La participación de los gobiernos de las entidades federativas y, en su caso, de los municipios, tomando como base la demarcación territorial de los Distritos de Desarrollo Rural u otras que se convengan, en la captación e integración de la información que requiera el [Sistema](articulo-3o.md) Nacional de Información para el [Desarrollo Rural Sustentable](articulo-3o.md). Así mismo, la participación de dichas autoridades en la difusión de la misma a las organizaciones sociales, con objeto de que dispongan de la mejor información para apoyar sus decisiones respecto de las actividades que realicen;
 

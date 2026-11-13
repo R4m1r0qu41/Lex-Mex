@@ -27,7 +27,9 @@ III. Aplicar procedimientos de intercambio de información con el propósito de 
 
 IV. Intercambiar, en coordinación con la autoridad competente, información con agencias extranjeras a fin de localizar prófugos de la justicia mexicana fuera del territorio nacional;
 
-V. Intercambiar, en términos de las disposiciones aplicables, información con agencias extranjeras a fin de coordinar el traslado de reos mexicanos que se encuentren compurgando condenas en territorio extranjero; VI. Intercambiar, en coordinación con otras autoridades, información a efecto de ubicar personas extraviadas y menores de edad respecto de los cuales exista la presunción de que se encuentran fuera de territorio nacional;
+V. Intercambiar, en términos de las disposiciones aplicables, información con agencias extranjeras a fin de coordinar el traslado de reos mexicanos que se encuentren compurgando condenas en territorio extranjero;
+
+VI. Intercambiar, en coordinación con otras autoridades, información a efecto de ubicar personas extraviadas y menores de edad respecto de los cuales exista la presunción de que se encuentran fuera de territorio nacional;
 
 VII. Realizar, en el ámbito de competencia de la Institución, tareas de intercambio de información destinadas a localizar, recuperar y repatriar patrimonio cultural que haya sido sustraído ilegalmente del país;
 
@@ -53,7 +55,9 @@ XVII. Operar, en el ámbito de competencia de la Institución, procedimientos de
 
 XVIII. Fungir como enlace con instituciones policiales extranjeras a fin de intercambiar información policial tendiente a la localización de prófugos de la justicia mexicana fuera de territorio nacional, en coordinación con la Agregaduría correspondiente;
 
-XIX. Proponer mecanismos de enlace con instituciones policiales extranjeras a fin de intercambiar información policial; XX. Efectuar las acciones policiales correspondientes para el traslado de prófugos respecto de los cuales se haya concedido su extradición;
+XIX. Proponer mecanismos de enlace con instituciones policiales extranjeras a fin de intercambiar información policial;
+
+XX. Efectuar las acciones policiales correspondientes para el traslado de prófugos respecto de los cuales se haya concedido su extradición;
 
 XXI. Atender, en el ámbito de su competencia, solicitudes de asistencia recíproca de policía criminal y demás compromisos contraídos con la Organización Internacional de Policía Criminal, de conformidad con las disposiciones aplicables;
 

@@ -33,7 +33,9 @@ VI. Los lineamientos para la visita familiar;
 
 VII. Las condiciones de espacio, tiempo, higiene, privacidad y periodicidad, para que las personas adolescentes puedan recibir visita íntima;
 
-VIII. Los lineamientos y procedimientos para que las personas adolescentes puedan ser propuestos para modificación de las medidas impuestas, en su beneficio; IX. La organización de la Unidad de Internamiento;
+VIII. Los lineamientos y procedimientos para que las personas adolescentes puedan ser propuestos para modificación de las medidas impuestas, en su beneficio;
+
+IX. La organización de la Unidad de Internamiento;
 
 X. Los lineamientos y requisitos para el otorgamiento de los servicios educativos, de capacitación laboral, deportivos y de salud, y
 

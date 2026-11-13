@@ -47,7 +47,9 @@ XIII. Proponer al titular de la Secretaría Técnica criterios de Conservación 
 
 XIV. Impulsar el desarrollo e implementación de metodologías participativas para la Conservación de monumentos y zonas de monumentos históricos, reconociendo el valor de los conocimientos, tecnologías y saberes ambientales de la población;
 
-XV. Difundir y promover las políticas institucionales entre las autoridades de los diferentes órdenes de gobierno y de los sectores social y privado, para la Conservación y protección de monumentos y zonas de monumentos históricos; XVI. Evaluar, autorizar y dar seguimiento a los proyectos relacionados con la aplicación de pólizas de seguros y determinar el daño generado a un monumento histórico inmueble, y
+XV. Difundir y promover las políticas institucionales entre las autoridades de los diferentes órdenes de gobierno y de los sectores social y privado, para la Conservación y protección de monumentos y zonas de monumentos históricos;
+
+XVI. Evaluar, autorizar y dar seguimiento a los proyectos relacionados con la aplicación de pólizas de seguros y determinar el daño generado a un monumento histórico inmueble, y
 
 XVII. Coordinar la expedición de dictámenes técnicos de acuerdo con la normativa aplicable para:
 

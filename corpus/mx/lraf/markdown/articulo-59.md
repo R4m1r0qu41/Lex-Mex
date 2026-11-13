@@ -23,11 +23,13 @@ El director general de la Sociedad Controladora, para el cumplimiento de sus fun
 
 El director general de la Sociedad Controladora, sin perjuicio de lo señalado con anterioridad, deberá:
 
-I. Someter a la aprobación del consejo de administración las estrategias de negocio de la Sociedad Controladora, de las entidades financieras integrantes del Grupo Financiero y Subcontroladoras, con base en la información que éstas le proporcionen. II. Dar cumplimiento a los acuerdos de las asambleas de accionistas y del consejo de administración, conforme a las instrucciones que, en su caso, dicte la propia asamblea o el referido consejo.
+I. Someter a la aprobación del consejo de administración las estrategias de negocio de la Sociedad Controladora, de las entidades financieras integrantes del Grupo Financiero y Subcontroladoras, con base en la información que éstas le proporcionen.
+
+II. Dar cumplimiento a los acuerdos de las asambleas de accionistas y del consejo de administración, conforme a las instrucciones que, en su caso, dicte la propia asamblea o el referido consejo.
 
 III. Proponer al comité que desempeñe las funciones en materia de auditoría, los lineamientos del sistema de control interno y auditoría interna de la Sociedad Controladora y de las entidades financieras integrantes del Grupo Financiero y Subcontroladoras, así como ejecutar los lineamientos que al efecto apruebe el consejo de administración de la referida sociedad.
 
-IV. Suscribir, junto con los Directivos Relevantes encargados de su preparación en el área de su competencia, la información que en términos de las disposiciones aplicables deba ser revelada al público.
+IV. Suscribir, junto con los [Directivos Relevantes](articulo-5o.md) encargados de su preparación en el área de su competencia, la información que en términos de las disposiciones aplicables deba ser revelada al público.
 
 V. Difundir la información que deba ser revelada al público en términos de las disposiciones aplicables.
 

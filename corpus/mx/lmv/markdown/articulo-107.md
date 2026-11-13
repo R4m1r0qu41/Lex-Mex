@@ -21,7 +21,9 @@ La [Comisión](articulo-2.md) podrá decretar, como medida precautoria, la suspe
 
 I. Incumplan las obligaciones que les imponen los artículos [104](articulo-104.md) a [106](articulo-106.md) de esta Ley.
 
-II. No sigan políticas respecto de su actividad y participación en el mercado de valores, congruentes con los intereses de sus accionistas. La Comisión podrá expedir disposiciones de carácter general en las que se contemplen los aspectos mínimos que deberán observar las emisoras en relación con las políticas mencionadas. III. Lleven a cabo actos u operaciones contrarios a esta Ley o a los usos y sanas prácticas del mercado de valores.
+II. No sigan políticas respecto de su actividad y participación en el mercado de valores, congruentes con los intereses de sus accionistas. La Comisión podrá expedir disposiciones de carácter general en las que se contemplen los aspectos mínimos que deberán observar las emisoras en relación con las políticas mencionadas.
+
+III. Lleven a cabo actos u operaciones contrarios a esta Ley o a los usos y sanas prácticas del mercado de valores.
 
 IV. Inicie el procedimiento de cancelación a que se refiere el artículo [108](articulo-108.md) de esta Ley.
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "34 Ter"
 aliases: ["LGAMVLV — Artículo 34 Ter"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -55,7 +55,9 @@ En caso de que no haya personal ministerial disponible, el acompañamiento será
 
 XI. Protección policíaca permanente a la mujer, o la niña, así como a su familia;
 
-XII. Protección por seguridad privada, en los casos que sea necesario; XIII. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
+XII. Protección por seguridad privada, en los casos que sea necesario;
+
+XIII. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
 
 XIV. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes y si fuera el caso la imposición del régimen de visitas supervisadas; Fracción reformada DOF 15-01-2026
 

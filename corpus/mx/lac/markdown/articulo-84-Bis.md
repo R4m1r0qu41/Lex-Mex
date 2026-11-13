@@ -19,7 +19,9 @@ source_sha256: 07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae
 
 En las actas que se instrumenten con motivo del ejercicio de las actividades de vigilancia y verificación, se hará constar:
 
-I. Nombre, denominación o razón social de las personas sujetas a vigilancia y verificación; II. Hora, día, mes y año en que se inicie y concluya la diligencia;
+I. Nombre, denominación o razón social de las personas sujetas a vigilancia y verificación;
+
+II. Hora, día, mes y año en que se inicie y concluya la diligencia;
 
 III. Calle, número, población o colonia, municipio o alcaldía, código postal y entidad federativa, teléfono u otra forma de comunicación disponible, en que se encuentre ubicado el lugar, en que se practique la visita;
 

@@ -19,7 +19,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 La [Comisión Nacional de Búsqueda](articulo-4.md) tiene las siguientes atribuciones:
 
-I. Emitir y ejecutar el Programa Nacional de Búsqueda, rector en la materia, de conformidad con lo dispuesto en esta Ley; II. Emitir y difundir públicamente los lineamientos que regulen el funcionamiento del [Registro Nacional](articulo-4.md) y coordinar la operación del mismo, en términos de lo que establezca esta Ley y las leyes aplicables; Fracción reformada DOF 16-07-2025
+I. Emitir y ejecutar el Programa Nacional de Búsqueda, rector en la materia, de conformidad con lo dispuesto en esta Ley;
+
+II. Emitir y difundir públicamente los lineamientos que regulen el funcionamiento del [Registro Nacional](articulo-4.md) y coordinar la operación del mismo, en términos de lo que establezca esta Ley y las leyes aplicables; Fracción reformada DOF 16-07-2025
 
 III. Atender y formular solicitudes a las [Instituciones de Seguridad Pública](articulo-4.md), previstas en la Ley General del Sistema Nacional de Seguridad Pública, a efecto de cumplir con su objeto;
 
@@ -91,7 +93,9 @@ XVIII. Proponer la celebración de convenios con el Instituto Nacional de Migrac
 
 XXIX. Disponer de un número telefónico, así como de cualquier otro medio de comunicación de acceso gratuito para proporcionar información, sin necesidad de cumplir con formalidad alguna, para contribuir en la búsqueda de Personas Desaparecidas o No Localizadas;
 
-XXX. Solicitar a los concesionarios de radiodifusión y telecomunicaciones, de conformidad con la legislación en la materia, dentro de las transmisiones correspondientes a los tiempos del Estado, y por conducto de la autoridad competente, y previa autorización de los Familiares, la difusión de boletines relacionados con la Búsqueda de Personas Desaparecidas o No Localizadas; XXXI. Establecer acciones de búsqueda específicas para las desapariciones de personas vinculadas con movimientos políticos.
+XXX. Solicitar a los concesionarios de radiodifusión y telecomunicaciones, de conformidad con la legislación en la materia, dentro de las transmisiones correspondientes a los tiempos del Estado, y por conducto de la autoridad competente, y previa autorización de los Familiares, la difusión de boletines relacionados con la Búsqueda de Personas Desaparecidas o No Localizadas;
+
+XXXI. Establecer acciones de búsqueda específicas para las desapariciones de personas vinculadas con movimientos políticos.
 
 En caso de que durante las acciones de búsqueda se encuentre algún indicio de la probable comisión de un delito, se dará aviso inmediato a la fiscalía correspondiente;
 

@@ -35,7 +35,9 @@ VII. Elaborar el acta en la que se certificará la celebración de audiencias de
 
 VIII. Expedir las actas de las audiencias de conciliación a su cargo, autorizar los convenios a que lleguen las partes, y las constancias de no conciliación en aquellos casos que ésta no fuere posible. Expedir las copias certificadas de los convenios y las actas de su cumplimiento;
 
-IX. Cuidar y verificar que en los acuerdos a que lleguen las partes no se vulneren los derechos de los trabajadores. Lo anterior sin perjuicio de que busque la potencialización con perspectiva de derechos sociales; X. Vigilar que los procesos de conciliación en que intervenga, no se afecten derechos de terceros y disposiciones de orden público, y
+IX. Cuidar y verificar que en los acuerdos a que lleguen las partes no se vulneren los derechos de los trabajadores. Lo anterior sin perjuicio de que busque la potencialización con perspectiva de derechos sociales;
+
+X. Vigilar que los procesos de conciliación en que intervenga, no se afecten derechos de terceros y disposiciones de orden público, y
 
 XI. Las demás que establezca la presente Ley y demás normatividad aplicable.
 

@@ -56,14 +56,7 @@
     "end_char": 77,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:101",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 161,
-        "end_char": 171
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -336,11 +329,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:138:reference:2009-2012:134:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:138:reference:2010-2013:134:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:138",
     "source_span": "134",
-    "start_char": 2009,
-    "end_char": 2012,
+    "start_char": 2010,
+    "end_char": 2013,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:134",
     "qualifiers": [],
@@ -636,11 +629,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:159:reference:3098-3100:81:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:159:reference:3099-3101:81:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:159",
     "source_span": "81",
-    "start_char": 3098,
-    "end_char": 3100,
+    "start_char": 3099,
+    "end_char": 3101,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsar",
     "target_provision_id": "urn:lex-mx:federal:statute:lsar:article:81",
     "qualifiers": [],
@@ -668,11 +661,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:164:reference:1310-1313:170:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:164:reference:1311-1314:170:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:164",
     "source_span": "170",
-    "start_char": 1310,
-    "end_char": 1313,
+    "start_char": 1311,
+    "end_char": 1314,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:170",
     "qualifiers": [],
@@ -1445,14 +1438,7 @@
     "end_char": 560,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:27",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción V",
-        "start_char": 621,
-        "end_char": 631
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1516,19 +1502,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:228:reference:427-429:13:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:228:reference:428-430:13:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:228",
     "source_span": "13",
-    "start_char": 427,
-    "end_char": 429,
+    "start_char": 428,
+    "end_char": 430,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:13",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción V",
-        "start_char": 403,
-        "end_char": 413
+        "start_char": 404,
+        "end_char": 414
       }
     ],
     "basis": "express_cross_reference",
@@ -1539,11 +1525,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:228:reference:501-503:12:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:228:reference:502-504:12:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:228",
     "source_span": "12",
-    "start_char": 501,
-    "end_char": 503,
+    "start_char": 502,
+    "end_char": 504,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:12",
     "qualifiers": [],
@@ -1555,19 +1541,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:228:reference:619-621:13:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:228:reference:620-622:13:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:228",
     "source_span": "13",
-    "start_char": 619,
-    "end_char": 621,
+    "start_char": 620,
+    "end_char": 622,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:13",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 595,
-        "end_char": 605
+        "start_char": 596,
+        "end_char": 606
       }
     ],
     "basis": "express_cross_reference",
@@ -1837,11 +1823,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:239-c:reference:1390-1392:39:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:239-c:reference:1391-1393:39:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:239-c",
     "source_span": "39",
-    "start_char": 1390,
-    "end_char": 1392,
+    "start_char": 1391,
+    "end_char": 1393,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:39",
     "qualifiers": [],
@@ -2018,11 +2004,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:251:reference:10078-10081:294:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:251:reference:10082-10085:294:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:251",
     "source_span": "294",
-    "start_char": 10078,
-    "end_char": 10081,
+    "start_char": 10082,
+    "end_char": 10085,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:294",
     "qualifiers": [],
@@ -2034,11 +2020,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:253:reference:3086-3087:4:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:253:reference:3088-3089:4:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:253",
     "source_span": "4",
-    "start_char": 3086,
-    "end_char": 3087,
+    "start_char": 3088,
+    "end_char": 3089,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:4",
     "qualifiers": [],
@@ -2224,11 +2210,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:275:reference:1351-1354:286:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:275:reference:1352-1355:286:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:275",
     "source_span": "286",
-    "start_char": 1351,
-    "end_char": 1354,
+    "start_char": 1352,
+    "end_char": 1355,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:286",
     "qualifiers": [],
@@ -2240,19 +2226,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:275:reference:1582-1585:280:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:275:reference:1583-1586:280:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:275",
     "source_span": "280",
-    "start_char": 1582,
-    "end_char": 1585,
+    "start_char": 1583,
+    "end_char": 1586,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:280",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones III y IV",
-        "start_char": 1549,
-        "end_char": 1568
+        "start_char": 1550,
+        "end_char": 1569
       }
     ],
     "basis": "express_cross_reference",
@@ -2437,14 +2423,7 @@
     "end_char": 344,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:275",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 943,
-        "end_char": 957
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -2945,11 +2924,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:302:reference:1590-1592:37:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:302:reference:1591-1593:37:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:302",
     "source_span": "37",
-    "start_char": 1590,
-    "end_char": 1592,
+    "start_char": 1591,
+    "end_char": 1593,
     "target_instrument_id": "urn:lex-mx:federal:statute:linfonavit",
     "target_provision_id": "urn:lex-mx:federal:statute:linfonavit:article:37",
     "qualifiers": [],
@@ -2993,11 +2972,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:304-a:reference:4104-4106:16:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:304-a:reference:4105-4107:16:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:304-a",
     "source_span": "16",
-    "start_char": 4104,
-    "end_char": 4106,
+    "start_char": 4105,
+    "end_char": 4107,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:16",
     "qualifiers": [],
@@ -3009,11 +2988,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:304-a:reference:4757-4759:15:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:304-a:reference:4759-4761:15:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:304-a",
     "source_span": "15",
-    "start_char": 4757,
-    "end_char": 4759,
+    "start_char": 4759,
+    "end_char": 4761,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:15",
     "qualifiers": [],
@@ -3594,19 +3573,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:64:reference:4335-4337:64:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:64:reference:4336-4338:64:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:64",
     "source_span": "II",
-    "start_char": 4335,
-    "end_char": 4337,
+    "start_char": 4336,
+    "end_char": 4338,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:64",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 4335,
-        "end_char": 4337
+        "start_char": 4336,
+        "end_char": 4338
       }
     ],
     "basis": "express_cross_reference",
@@ -3617,19 +3596,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:64:reference:4340-4342:64:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:64:reference:4341-4343:64:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:64",
     "source_span": "VI",
-    "start_char": 4340,
-    "end_char": 4342,
+    "start_char": 4341,
+    "end_char": 4343,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:64",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "VI",
-        "start_char": 4340,
-        "end_char": 4342
+        "start_char": 4341,
+        "end_char": 4343
       }
     ],
     "basis": "express_cross_reference",
@@ -3640,11 +3619,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:article:64:reference:4430-4432:66:direct",
+    "id": "urn:lex-mx:federal:statute:lss:article:64:reference:4431-4433:66:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:64",
     "source_span": "66",
-    "start_char": 4430,
-    "end_char": 4432,
+    "start_char": 4431,
+    "end_char": 4433,
     "target_instrument_id": "urn:lex-mx:federal:statute:lss",
     "target_provision_id": "urn:lex-mx:federal:statute:lss:article:66",
     "qualifiers": [],
@@ -4075,29 +4054,6 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lss:transitory:vigesimo-noveno:reference:2701-2703:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lss:transitory:vigesimo-noveno",
-    "source_span": "89",
-    "start_char": 2701,
-    "end_char": 2703,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 2677,
-        "end_char": 2687
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   },
   {
     "schema_version": "0.1.0",

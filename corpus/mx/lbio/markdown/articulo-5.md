@@ -19,7 +19,9 @@ source_sha256: c1870db657a6564bbeb692a1778472db811a920626822de553ff5ca5194f95b4
 
 Para los efectos de la presente [Ley](articulo-2.md), la [SENER](articulo-2.md) tiene las siguientes facultades:
 
-I. Formular, conducir y coordinar la política nacional en materia de [Biocombustibles](articulo-2.md), a través del uso directo de la [Biomasa](articulo-2.md) como Biocombustible, la [Producción](articulo-2.md), importación, exportación, [Almacenamiento](articulo-2.md), [Transporte](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md) y el [Expendio al Público](articulo-2.md) de Biocombustibles; II. Promover el uso de las mejores prácticas y tecnologías en la Producción, uso, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
+I. Formular, conducir y coordinar la política nacional en materia de [Biocombustibles](articulo-2.md), a través del uso directo de la [Biomasa](articulo-2.md) como Biocombustible, la [Producción](articulo-2.md), importación, exportación, [Almacenamiento](articulo-2.md), [Transporte](articulo-2.md), [Comercialización](articulo-2.md), [Distribución](articulo-2.md) y el [Expendio al Público](articulo-2.md) de Biocombustibles;
+
+II. Promover el uso de las mejores prácticas y tecnologías en la Producción, uso, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
 
 III. Elaborar programas que promuevan el uso directo de la Biomasa como Biocombustibles, la Producción de Biocombustibles y su uso sustentable;
 
@@ -43,7 +45,9 @@ XII. Integrar, organizar, actualizar, verificar el contenido y llevar el control
 
 XIII. Emitir las disposiciones administrativas de carácter general para la regulación de las actividades, permisos, y requisitos de información sobre la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
 
-XIV. Regular y expedir las Normas Oficiales Mexicanas y, en su caso, lineamientos y demás disposiciones, en materia de Biocombustibles, sobre los requisitos, la calidad, las características y las medidas de seguridad; el uso de las mejores prácticas y tecnologías disponibles, con relación al uso directo de la Biomasa como Biocombustible, y la Producción, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de Biocombustibles; XV. Vigilar e inspeccionar el cumplimiento de las leyes y disposiciones en materia de Biocombustibles aplicables al uso directo de la Biomasa como Biocombustible, la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
+XIV. Regular y expedir las Normas Oficiales Mexicanas y, en su caso, lineamientos y demás disposiciones, en materia de Biocombustibles, sobre los requisitos, la calidad, las características y las medidas de seguridad; el uso de las mejores prácticas y tecnologías disponibles, con relación al uso directo de la Biomasa como Biocombustible, y la Producción, Almacenamiento, Transporte, Comercialización, Distribución y el Expendio al Público de Biocombustibles;
+
+XV. Vigilar e inspeccionar el cumplimiento de las leyes y disposiciones en materia de Biocombustibles aplicables al uso directo de la Biomasa como Biocombustible, la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles;
 
 XVI. Ordenar medidas de seguridad e imponer las sanciones por infracciones a la presente Ley y las demás disposiciones que deriven de esta, en lo relativo a la Producción, importación, exportación, Almacenamiento, Transporte, Comercialización, Distribución y Expendio al Público de Biocombustibles, y
 

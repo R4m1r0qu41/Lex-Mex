@@ -19,7 +19,9 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 Con independencia de las facultades que señalan la [Constitución](articulo-9.md), el [Código Nacional](articulo-9.md), y las demás disposiciones aplicables, las personas agentes de la [Policía](articulo-9.md) Federal Ministerial deberán actuar durante la investigación bajo la conducción y mando de la persona agente del [Ministerio Público](articulo-9.md) de la Federación, en ejercicio de las siguientes facultades:
 
-I. Investigar hechos que puedan ser constitutivos de delito y los bienes relacionados o producto del mismo, llevando a cabo las técnicas de investigación autorizadas al efecto y que resulten necesarias; II. Constatar la veracidad de los datos aportados en informaciones anónimas, mediante los actos de investigación que resulten necesarios conforme a su ámbito de facultades;
+I. Investigar hechos que puedan ser constitutivos de delito y los bienes relacionados o producto del mismo, llevando a cabo las técnicas de investigación autorizadas al efecto y que resulten necesarias;
+
+II. Constatar la veracidad de los datos aportados en informaciones anónimas, mediante los actos de investigación que resulten necesarios conforme a su ámbito de facultades;
 
 III. Practicar las diligencias necesarias que permitan el esclarecimiento de los hechos y la identidad de las personas autores o de las personas partícipes en la comisión del delito, por lo que si durante la realización de actos de investigación se percata de la probable comisión de un delito diverso deberá dar cuenta inmediatamente a la persona agente del Ministerio Público de la Federación y proceder a su investigación;
 

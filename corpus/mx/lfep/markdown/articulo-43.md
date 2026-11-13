@@ -19,7 +19,9 @@ source_sha256: c0f203a9c6ebb990db8a2a43559ecf19e904f7c0757d0f334f7f4fb044aa6a12
 
 Cuando, por virtud de la naturaleza, especialización u otras circunstancias de los fideicomisos, la institución fiduciaria requiera informes y controles especiales, de común acuerdo con la Coordinadora de Sector, instruirán a la Delegada o Delegado Fiduciario para: Párrafo reformado DOF 01-03-2019
 
-I. Someter a la previa consideración de la institución que desempeñe el cargo de fiduciaria, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o para la propia institución; II. consultar con la debida anticipación a la fiduciaria los asuntos que deban tratarse en las reuniones del Comité Técnico;
+I. Someter a la previa consideración de la institución que desempeñe el cargo de fiduciaria, los actos, contratos y convenios de los que resulten derechos y obligaciones para el fideicomiso o para la propia institución;
+
+II. consultar con la debida anticipación a la fiduciaria los asuntos que deban tratarse en las reuniones del Comité Técnico;
 
 III. Informar a la fiduciaria acerca de la ejecución de los acuerdos del Comité Técnico, así como el propio Comité Técnico;
 

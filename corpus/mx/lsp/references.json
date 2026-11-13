@@ -226,14 +226,7 @@
     "end_char": 84,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsp",
     "target_provision_id": "urn:lex-mx:federal:statute:lsp:article:15",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 366,
-        "end_char": 380
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -265,11 +258,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:article:2:reference:2659-2660:3:direct",
+    "id": "urn:lex-mx:federal:statute:lsp:article:2:reference:2660-2661:3:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsp:article:2",
     "source_span": "3",
-    "start_char": 2659,
-    "end_char": 2660,
+    "start_char": 2660,
+    "end_char": 2661,
     "target_instrument_id": "urn:lex-mx:federal:statute:lsp",
     "target_provision_id": "urn:lex-mx:federal:statute:lsp:article:3",
     "qualifiers": [],
@@ -317,12 +310,6 @@
         "text": "fracción VI",
         "start_char": 718,
         "end_char": 729
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 870,
-        "end_char": 884
       }
     ],
     "basis": "express_cross_reference",
@@ -884,29 +871,6 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lsp:transitory:cuarto:reference:391-393:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lsp:transitory:cuarto",
-    "source_span": "89",
-    "start_char": 391,
-    "end_char": 393,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 367,
-        "end_char": 377
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   },
   {
     "schema_version": "0.1.0",

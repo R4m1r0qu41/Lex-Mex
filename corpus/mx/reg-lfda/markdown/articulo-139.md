@@ -25,7 +25,9 @@ II. Domicilio para oír y recibir notificaciones;
 
 III. Nombre y domicilio de la persona o personas contra las cuales se promueve la queja, o los de sus representantes;
 
-IV. Relación sucinta de los hechos que han motivado la presentación de la queja, redactados en términos claros y precisos; V. Documentos necesarios para acreditar la personalidad del promovente;
+IV. Relación sucinta de los hechos que han motivado la presentación de la queja, redactados en términos claros y precisos;
+
+V. Documentos necesarios para acreditar la personalidad del promovente;
 
 VI. Copia de traslado del escrito inicial y sus anexos para cada una de las personas contra las cuales se presente la queja;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "81"
 aliases: ["LGV — Artículo 81"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -29,11 +29,13 @@ IV. Elaborar propuestas de reformas en materia de atención a víctimas;
 
 V. Integrar los comités que sean necesarios para el desempeño de sus funciones;
 
-VI. Fijar criterios uniformes para la regulación de la selección, ingreso, formación, permanencia, capacitación, profesionalización, evaluación, reconocimiento, certificación y registro del personal de las instituciones de atención a víctimas, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+VI. Fijar criterios uniformes para la regulación de la selección, ingreso, formación, permanencia, capacitación, profesionalización, evaluación, reconocimiento, certificación y registro del personal de las instituciones de atención a víctimas, de conformidad con lo dispuesto en esta [Ley](articulo-6.md) y demás disposiciones aplicables;
 
 VII. Promover una estrategia de supervisión y acompañamiento que busca el desarrollo profesional y la especialización conjunta de los miembros de las instituciones de atención a víctimas;
 
-VIII. Promover que las legislaciones aplicables prevean un procedimiento ágil, eficaz y uniforme para la imposición de sanciones administrativas al personal de las instituciones de atención a víctimas, por incumplimiento de los deberes previstos en esta Ley y demás que se establezcan en los ordenamientos correspondientes; IX. Impulsar la participación de la comunidad en las actividades de atención a víctimas;
+VIII. Promover que las legislaciones aplicables prevean un procedimiento ágil, eficaz y uniforme para la imposición de sanciones administrativas al personal de las instituciones de atención a víctimas, por incumplimiento de los deberes previstos en esta Ley y demás que se establezcan en los ordenamientos correspondientes;
+
+IX. Impulsar la participación de la comunidad en las actividades de atención a víctimas;
 
 X. Fijar criterios de cooperación y coordinación para la atención médica, psicológica y jurídica de víctimas del delito, así como de gestoría de trabajo social respecto de las mismas;
 

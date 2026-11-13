@@ -892,282 +892,282 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:7392-7417",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:7393-7418",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 7392,
-    "end_char": 7417
+    "start_char": 7393,
+    "end_char": 7418
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:7730-7740",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:7731-7741",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 7730,
-    "end_char": 7740
+    "start_char": 7731,
+    "end_char": 7741
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:7850-7860",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:7851-7861",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 7850,
-    "end_char": 7860
+    "start_char": 7851,
+    "end_char": 7861
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:7984-7991",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:7985-7992",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuario",
-    "start_char": 7984,
-    "end_char": 7991
+    "start_char": 7985,
+    "end_char": 7992
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8064-8081",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8065-8082",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 8064,
-    "end_char": 8081
+    "start_char": 8065,
+    "end_char": 8082
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8205-8230",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8206-8231",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 8205,
-    "end_char": 8230
+    "start_char": 8206,
+    "end_char": 8231
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8411-8428",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8412-8429",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 8411,
-    "end_char": 8428
+    "start_char": 8412,
+    "end_char": 8429
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8485-8510",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8486-8511",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 8485,
-    "end_char": 8510
+    "start_char": 8486,
+    "end_char": 8511
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8695-8720",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8696-8721",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 8695,
-    "end_char": 8720
+    "start_char": 8696,
+    "end_char": 8721
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8770-8787",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:8771-8788",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 8770,
-    "end_char": 8787
+    "start_char": 8771,
+    "end_char": 8788
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9508-9516",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9509-9517",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 9508,
-    "end_char": 9516
+    "start_char": 9509,
+    "end_char": 9517
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9600-9625",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9601-9626",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 9600,
-    "end_char": 9625
+    "start_char": 9601,
+    "end_char": 9626
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9755-9763",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9756-9764",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 9755,
-    "end_char": 9763
+    "start_char": 9756,
+    "end_char": 9764
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9856-9873",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9857-9874",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 9856,
-    "end_char": 9873
+    "start_char": 9857,
+    "end_char": 9874
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9989-9997",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:9990-9998",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 9989,
-    "end_char": 9997
+    "start_char": 9990,
+    "end_char": 9998
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10052-10077",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10053-10078",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 10052,
-    "end_char": 10077
+    "start_char": 10053,
+    "end_char": 10078
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10171-10179",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10172-10180",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 10171,
-    "end_char": 10179
+    "start_char": 10172,
+    "end_char": 10180
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10218-10243",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10219-10244",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 10218,
-    "end_char": 10243
+    "start_char": 10219,
+    "end_char": 10244
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10299-10324",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10300-10325",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 10299,
-    "end_char": 10324
+    "start_char": 10300,
+    "end_char": 10325
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10357-10365",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10358-10366",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 10357,
-    "end_char": 10365
+    "start_char": 10358,
+    "end_char": 10366
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10427-10452",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10429-10454",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 10427,
-    "end_char": 10452
+    "start_char": 10429,
+    "end_char": 10454
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10732-10757",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:10734-10759",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 10732,
-    "end_char": 10757
+    "start_char": 10734,
+    "end_char": 10759
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11006-11031",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11008-11033",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 11006,
-    "end_char": 11031
+    "start_char": 11008,
+    "end_char": 11033
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11254-11261",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11256-11263",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuario",
-    "start_char": 11254,
-    "end_char": 11261
+    "start_char": 11256,
+    "end_char": 11263
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11448-11473",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11450-11475",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 11448,
-    "end_char": 11473
+    "start_char": 11450,
+    "end_char": 11475
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11583-11591",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11585-11593",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 11583,
-    "end_char": 11591
+    "start_char": 11585,
+    "end_char": 11593
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11762-11787",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:11764-11789",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 11762,
-    "end_char": 11787
+    "start_char": 11764,
+    "end_char": 11789
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:12162-12187",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:12164-12189",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 12162,
-    "end_char": 12187
+    "start_char": 12164,
+    "end_char": 12189
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:12557-12562",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:12559-12564",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 12557,
-    "end_char": 12562
+    "start_char": 12559,
+    "end_char": 12564
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:12798-12823",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:12800-12825",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 12798,
-    "end_char": 12823
+    "start_char": 12800,
+    "end_char": 12825
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:13166-13174",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:11:term-usage:13168-13176",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:11",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 13166,
-    "end_char": 13174
+    "start_char": 13168,
+    "end_char": 13176
   },
   {
     "schema_version": "0.1.0",
@@ -1594,129 +1594,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:2329-2346",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:2330-2347",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 2329,
-    "end_char": 2346
+    "start_char": 2330,
+    "end_char": 2347
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:2464-2474",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:2465-2475",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
     "span": "Presidente",
-    "start_char": 2464,
-    "end_char": 2474
+    "start_char": 2465,
+    "end_char": 2475
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:2705-2722",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:2706-2723",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 2705,
-    "end_char": 2722
+    "start_char": 2706,
+    "end_char": 2723
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3029-3054",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3030-3055",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 3029,
-    "end_char": 3054
+    "start_char": 3030,
+    "end_char": 3055
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3184-3201",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3185-3202",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 3184,
-    "end_char": 3201
+    "start_char": 3185,
+    "end_char": 3202
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3454-3464",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3455-3465",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
     "span": "Presidente",
-    "start_char": 3454,
-    "end_char": 3464
+    "start_char": 3455,
+    "end_char": 3465
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3723-3733",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3724-3734",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
     "span": "Presidente",
-    "start_char": 3723,
-    "end_char": 3733
+    "start_char": 3724,
+    "end_char": 3734
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3927-3952",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3928-3953",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 3927,
-    "end_char": 3952
+    "start_char": 3928,
+    "end_char": 3953
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3995-4012",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:3996-4013",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 3995,
-    "end_char": 4012
+    "start_char": 3996,
+    "end_char": 4013
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4101-4111",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4102-4112",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
     "span": "Presidente",
-    "start_char": 4101,
-    "end_char": 4111
+    "start_char": 4102,
+    "end_char": 4112
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4157-4174",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4158-4175",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 4157,
-    "end_char": 4174
+    "start_char": 4158,
+    "end_char": 4175
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4262-4272",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4263-4273",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
     "span": "Presidente",
-    "start_char": 4262,
-    "end_char": 4272
+    "start_char": 4263,
+    "end_char": 4273
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4279-4296",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4280-4297",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 4279,
-    "end_char": 4296
+    "start_char": 4280,
+    "end_char": 4297
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4375-4380",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:22:term-usage:4376-4381",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 4375,
-    "end_char": 4380
+    "start_char": 4376,
+    "end_char": 4381
   },
   {
     "schema_version": "0.1.0",
@@ -1864,183 +1864,183 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1092-1102",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1093-1103",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
     "span": "Presidente",
-    "start_char": 1092,
-    "end_char": 1102
+    "start_char": 1093,
+    "end_char": 1103
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1141-1146",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1142-1147",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 1141,
-    "end_char": 1146
+    "start_char": 1142,
+    "end_char": 1147
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1237-1247",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1238-1248",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1237,
-    "end_char": 1247
+    "start_char": 1238,
+    "end_char": 1248
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1350-1367",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1351-1368",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 1350,
-    "end_char": 1367
+    "start_char": 1351,
+    "end_char": 1368
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1405-1410",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1406-1411",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 1405,
-    "end_char": 1410
+    "start_char": 1406,
+    "end_char": 1411
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1452-1462",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1453-1463",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1452,
-    "end_char": 1462
+    "start_char": 1453,
+    "end_char": 1463
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1584-1589",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1585-1590",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 1584,
-    "end_char": 1589
+    "start_char": 1585,
+    "end_char": 1590
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1611-1616",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1612-1617",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 1611,
-    "end_char": 1616
+    "start_char": 1612,
+    "end_char": 1617
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1658-1675",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1659-1676",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 1658,
-    "end_char": 1675
+    "start_char": 1659,
+    "end_char": 1676
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1698-1703",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1699-1704",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 1698,
-    "end_char": 1703
+    "start_char": 1699,
+    "end_char": 1704
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1827-1832",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1828-1833",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 1827,
-    "end_char": 1832
+    "start_char": 1828,
+    "end_char": 1833
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1916-1926",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1917-1927",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
     "span": "Presidente",
-    "start_char": 1916,
-    "end_char": 1926
+    "start_char": 1917,
+    "end_char": 1927
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1969-1986",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:1970-1987",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 1969,
-    "end_char": 1986
+    "start_char": 1970,
+    "end_char": 1987
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2009-2014",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2010-2015",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 2009,
-    "end_char": 2014
+    "start_char": 2010,
+    "end_char": 2015
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2085-2102",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2086-2103",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 2085,
-    "end_char": 2102
+    "start_char": 2086,
+    "end_char": 2103
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2289-2294",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2290-2295",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 2289,
-    "end_char": 2294
+    "start_char": 2290,
+    "end_char": 2295
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2620-2630",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2621-2631",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2620,
-    "end_char": 2630
+    "start_char": 2621,
+    "end_char": 2631
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2756-2761",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2757-2762",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:junta",
     "span": "Junta",
-    "start_char": 2756,
-    "end_char": 2761
+    "start_char": 2757,
+    "end_char": 2762
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2846-2856",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:2847-2857",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
     "span": "Presidente",
-    "start_char": 2846,
-    "end_char": 2856
+    "start_char": 2847,
+    "end_char": 2857
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:3013-3030",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:26:term-usage:3014-3031",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:26",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 3013,
-    "end_char": 3030
+    "start_char": 3014,
+    "end_char": 3031
   },
   {
     "schema_version": "0.1.0",
@@ -2737,129 +2737,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:268-290",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:269-291",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 268,
-    "end_char": 290
+    "start_char": 269,
+    "end_char": 291
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:452-474",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:453-475",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 452,
-    "end_char": 474
+    "start_char": 453,
+    "end_char": 475
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:659-684",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:660-685",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 659,
-    "end_char": 684
+    "start_char": 660,
+    "end_char": 685
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:748-755",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:749-756",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuario",
-    "start_char": 748,
-    "end_char": 755
+    "start_char": 749,
+    "end_char": 756
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1188-1205",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1189-1206",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 1188,
-    "end_char": 1205
+    "start_char": 1189,
+    "end_char": 1206
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1288-1310",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1289-1311",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 1288,
-    "end_char": 1310
+    "start_char": 1289,
+    "end_char": 1311
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1334-1351",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1335-1352",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 1334,
-    "end_char": 1351
+    "start_char": 1335,
+    "end_char": 1352
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1607-1632",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1608-1633",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 1607,
-    "end_char": 1632
+    "start_char": 1608,
+    "end_char": 1633
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1815-1823",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1816-1824",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 1815,
-    "end_char": 1823
+    "start_char": 1816,
+    "end_char": 1824
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1916-1938",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1917-1939",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 1916,
-    "end_char": 1938
+    "start_char": 1917,
+    "end_char": 1939
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1965-1982",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:1966-1983",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 1965,
-    "end_char": 1982
+    "start_char": 1966,
+    "end_char": 1983
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:2007-2032",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:2008-2033",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 2007,
-    "end_char": 2032
+    "start_char": 2008,
+    "end_char": 2033
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:2223-2248",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:2224-2249",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 2223,
-    "end_char": 2248
+    "start_char": 2224,
+    "end_char": 2249
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:2535-2552",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis:term-usage:2536-2553",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:50-bis",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 2535,
-    "end_char": 2552
+    "start_char": 2536,
+    "end_char": 2553
   },
   {
     "schema_version": "0.1.0",
@@ -3772,201 +3772,201 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4243-4250",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4244-4251",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuario",
-    "start_char": 4243,
-    "end_char": 4250
+    "start_char": 4244,
+    "end_char": 4251
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4321-4328",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4322-4329",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuario",
-    "start_char": 4321,
-    "end_char": 4328
+    "start_char": 4322,
+    "end_char": 4329
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4477-4494",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4478-4495",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 4477,
-    "end_char": 4494
+    "start_char": 4478,
+    "end_char": 4495
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4587-4604",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4588-4605",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 4587,
-    "end_char": 4604
+    "start_char": 4588,
+    "end_char": 4605
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4777-4799",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:4778-4800",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 4777,
-    "end_char": 4799
+    "start_char": 4778,
+    "end_char": 4800
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5062-5079",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5063-5080",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 5062,
-    "end_char": 5079
+    "start_char": 5063,
+    "end_char": 5080
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5313-5335",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5314-5336",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 5313,
-    "end_char": 5335
+    "start_char": 5314,
+    "end_char": 5336
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5504-5526",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5505-5527",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 5504,
-    "end_char": 5526
+    "start_char": 5505,
+    "end_char": 5527
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5888-5905",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5889-5906",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 5888,
-    "end_char": 5905
+    "start_char": 5889,
+    "end_char": 5906
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5925-5932",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:5926-5933",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuario",
-    "start_char": 5925,
-    "end_char": 5932
+    "start_char": 5926,
+    "end_char": 5933
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6012-6019",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6013-6020",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuario",
-    "start_char": 6012,
-    "end_char": 6019
+    "start_char": 6013,
+    "end_char": 6020
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6089-6106",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6090-6107",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 6089,
-    "end_char": 6106
+    "start_char": 6090,
+    "end_char": 6107
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6370-6392",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6371-6393",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 6370,
-    "end_char": 6392
+    "start_char": 6371,
+    "end_char": 6393
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6642-6664",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6643-6665",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 6642,
-    "end_char": 6664
+    "start_char": 6643,
+    "end_char": 6665
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6770-6787",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6771-6788",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 6770,
-    "end_char": 6787
+    "start_char": 6771,
+    "end_char": 6788
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6802-6824",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6803-6825",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 6802,
-    "end_char": 6824
+    "start_char": 6803,
+    "end_char": 6825
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6954-6975",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:6955-6976",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisiones Nacionales",
-    "start_char": 6954,
-    "end_char": 6975
+    "start_char": 6955,
+    "end_char": 6976
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:7517-7539",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:7518-7540",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 7517,
-    "end_char": 7539
+    "start_char": 7518,
+    "end_char": 7540
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:7932-7949",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:7933-7950",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 7932,
-    "end_char": 7949
+    "start_char": 7933,
+    "end_char": 7950
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:8118-8135",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:8119-8136",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 8118,
-    "end_char": 8135
+    "start_char": 8119,
+    "end_char": 8136
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:8178-8185",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:8179-8186",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuario",
-    "start_char": 8178,
-    "end_char": 8185
+    "start_char": 8179,
+    "end_char": 8186
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:8423-8440",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68:term-usage:8424-8441",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 8423,
-    "end_char": 8440
+    "start_char": 8424,
+    "end_char": 8441
   },
   {
     "schema_version": "0.1.0",
@@ -4033,39 +4033,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1:term-usage:504-526",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1:term-usage:505-527",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 504,
-    "end_char": 526
+    "start_char": 505,
+    "end_char": 527
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1:term-usage:533-540",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1:term-usage:534-541",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuario",
-    "start_char": 533,
-    "end_char": 540
+    "start_char": 534,
+    "end_char": 541
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1:term-usage:785-807",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1:term-usage:786-808",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 785,
-    "end_char": 807
+    "start_char": 786,
+    "end_char": 808
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1:term-usage:813-830",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1:term-usage:814-831",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:68-bis-1",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 813,
-    "end_char": 830
+    "start_char": 814,
+    "end_char": 831
   },
   {
     "schema_version": "0.1.0",
@@ -5347,237 +5347,237 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:2159-2181",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:2160-2182",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 2159,
-    "end_char": 2181
+    "start_char": 2160,
+    "end_char": 2182
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:2749-2771",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:2750-2772",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 2749,
-    "end_char": 2771
+    "start_char": 2750,
+    "end_char": 2772
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:2942-2964",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:2943-2965",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 2942,
-    "end_char": 2964
+    "start_char": 2943,
+    "end_char": 2965
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3104-3121",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3105-3122",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 3104,
-    "end_char": 3121
+    "start_char": 3105,
+    "end_char": 3122
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3440-3462",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3441-3463",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 3440,
-    "end_char": 3462
+    "start_char": 3441,
+    "end_char": 3463
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3522-3539",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3523-3540",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 3522,
-    "end_char": 3539
+    "start_char": 3523,
+    "end_char": 3540
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3611-3636",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3612-3637",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 3611,
-    "end_char": 3636
+    "start_char": 3612,
+    "end_char": 3637
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3743-3765",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3744-3766",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 3743,
-    "end_char": 3765
+    "start_char": 3744,
+    "end_char": 3766
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3900-3925",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3901-3926",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 3900,
-    "end_char": 3925
+    "start_char": 3901,
+    "end_char": 3926
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3937-3945",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:3938-3946",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 3937,
-    "end_char": 3945
+    "start_char": 3938,
+    "end_char": 3946
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4253-4261",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4254-4262",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 4253,
-    "end_char": 4261
+    "start_char": 4254,
+    "end_char": 4262
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4485-4507",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4486-4508",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 4485,
-    "end_char": 4507
+    "start_char": 4486,
+    "end_char": 4508
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4602-4610",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4603-4611",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 4602,
-    "end_char": 4610
+    "start_char": 4603,
+    "end_char": 4611
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4653-4675",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4654-4676",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 4653,
-    "end_char": 4675
+    "start_char": 4654,
+    "end_char": 4676
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4760-4782",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4761-4783",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 4760,
-    "end_char": 4782
+    "start_char": 4761,
+    "end_char": 4783
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4859-4867",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4860-4868",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 4859,
-    "end_char": 4867
+    "start_char": 4860,
+    "end_char": 4868
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4976-4993",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:4977-4994",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 4976,
-    "end_char": 4993
+    "start_char": 4977,
+    "end_char": 4994
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5154-5176",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5156-5178",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 5154,
-    "end_char": 5176
+    "start_char": 5156,
+    "end_char": 5178
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5431-5439",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5433-5441",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 5431,
-    "end_char": 5439
+    "start_char": 5433,
+    "end_char": 5441
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5584-5592",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5586-5594",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:usuario",
     "span": "Usuarios",
-    "start_char": 5584,
-    "end_char": 5592
+    "start_char": 5586,
+    "end_char": 5594
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5852-5869",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5854-5871",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 5852,
-    "end_char": 5869
+    "start_char": 5854,
+    "end_char": 5871
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5997-6019",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:5999-6021",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 5997,
-    "end_char": 6019
+    "start_char": 5999,
+    "end_char": 6021
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:6241-6258",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:6243-6260",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 6241,
-    "end_char": 6258
+    "start_char": 6243,
+    "end_char": 6260
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:6364-6389",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:6366-6391",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 6364,
-    "end_char": 6389
+    "start_char": 6366,
+    "end_char": 6391
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:6578-6595",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:6580-6597",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 6578,
-    "end_char": 6595
+    "start_char": 6580,
+    "end_char": 6597
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:6618-6643",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:94:term-usage:6620-6645",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:94",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Instituciones Financieras",
-    "start_char": 6618,
-    "end_char": 6643
+    "start_char": 6620,
+    "end_char": 6645
   },
   {
     "schema_version": "0.1.0",
@@ -5617,84 +5617,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:1152-1174",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:1153-1175",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:96",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 1152,
-    "end_char": 1174
+    "start_char": 1153,
+    "end_char": 1175
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:1224-1241",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:1225-1242",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:96",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 1224,
-    "end_char": 1241
+    "start_char": 1225,
+    "end_char": 1242
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:1407-1424",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:1408-1425",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:96",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 1407,
-    "end_char": 1424
+    "start_char": 1408,
+    "end_char": 1425
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:1481-1503",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:1482-1504",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:96",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:institucion-financiera",
     "span": "Institución Financiera",
-    "start_char": 1481,
-    "end_char": 1503
+    "start_char": 1482,
+    "end_char": 1504
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:2337-2354",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:2338-2355",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:96",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 2337,
-    "end_char": 2354
+    "start_char": 2338,
+    "end_char": 2355
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:2610-2627",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:2611-2628",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:96",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 2610,
-    "end_char": 2627
+    "start_char": 2611,
+    "end_char": 2628
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:2829-2850",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:2830-2851",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:96",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisiones Nacionales",
-    "start_char": 2829,
-    "end_char": 2850
+    "start_char": 2830,
+    "end_char": 2851
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:3209-3226",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:3210-3227",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:96",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 3209,
-    "end_char": 3226
+    "start_char": 3210,
+    "end_char": 3227
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:3426-3443",
+    "id": "urn:lex-mx:federal:statute:lpdusf:article:96:term-usage:3427-3444",
     "provision_id": "urn:lex-mx:federal:statute:lpdusf:article:96",
     "term_id": "urn:lex-mx:federal:statute:lpdusf:term:comision-nacional",
     "span": "Comisión Nacional",
-    "start_char": 3426,
-    "end_char": 3443
+    "start_char": 3427,
+    "end_char": 3444
   },
   {
     "schema_version": "0.1.0",
@@ -6037,23 +6037,5 @@
     "span": "Junta",
     "start_char": 972,
     "end_char": 977
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:transitory:decimo:term-usage:136-146",
-    "provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
-    "span": "Presidente",
-    "start_char": 136,
-    "end_char": 146
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lpdusf:transitory:decimo:term-usage:175-185",
-    "provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:decimo",
-    "term_id": "urn:lex-mx:federal:statute:lpdusf:term:presidente",
-    "span": "Presidente",
-    "start_char": 175,
-    "end_char": 185
   }
 ]

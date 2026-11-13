@@ -17,7 +17,9 @@ source_sha256: b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5
 
 # Artículo 17
 
-La planeación de las obras públicas y de los servicios relacionados con las mismas que pretendan realizar los sujetos a que se refieren las fracciones I a VI del artículo [1](articulo-1.md) de esta Ley, deberá ejecutarse conforme a los plazos y calendarios presupuestales autorizados y ajustarse a: I. Lo dispuesto por la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
+La planeación de las obras públicas y de los servicios relacionados con las mismas que pretendan realizar los sujetos a que se refieren las fracciones I a VI del artículo [1](articulo-1.md) de esta Ley, deberá ejecutarse conforme a los plazos y calendarios presupuestales autorizados y ajustarse a:
+
+I. Lo dispuesto por la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
 
 II. Los objetivos y prioridades del Plan Nacional de Desarrollo y de los programas sectoriales, institucionales, regionales y especiales que correspondan, así como a las previsiones contenidas en sus programas anuales;
 

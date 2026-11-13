@@ -17,7 +17,9 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 2296
 
-El comprador debe intereses por el tiempo que medie entre la entrega de la cosa y el pago del precio, en los tres casos siguientes: I. Si así se hubiere convenido;
+El comprador debe intereses por el tiempo que medie entre la entrega de la cosa y el pago del precio, en los tres casos siguientes:
+
+I. Si así se hubiere convenido;
 
 II. Si la cosa vendida y entregada produce fruto o renta;
 

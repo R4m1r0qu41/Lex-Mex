@@ -14,12 +14,6 @@
         "text": "párrafo tercero",
         "start_char": 160,
         "end_char": 175
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXIX",
-        "start_char": 190,
-        "end_char": 203
       }
     ],
     "basis": "express_cross_reference",
@@ -334,19 +328,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:39-bis:reference:1028-1029:8:direct",
+    "id": "urn:lex-mx:federal:statute:lgv:article:39-bis:reference:1029-1030:8:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgv:article:39-bis",
     "source_span": "8",
-    "start_char": 1028,
-    "end_char": 1029,
+    "start_char": 1029,
+    "end_char": 1030,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgv:article:8",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "quinto párrafo",
-        "start_char": 1000,
-        "end_char": 1014
+        "start_char": 1001,
+        "end_char": 1015
       }
     ],
     "basis": "express_cross_reference",
@@ -373,11 +367,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:64:reference:2272-2274:68:direct",
+    "id": "urn:lex-mx:federal:statute:lgv:article:64:reference:2273-2275:68:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgv:article:64",
     "source_span": "68",
-    "start_char": 2272,
-    "end_char": 2274,
+    "start_char": 2273,
+    "end_char": 2275,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgv:article:68",
     "qualifiers": [],
@@ -389,11 +383,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgv:article:64:reference:2415-2417:67:direct",
+    "id": "urn:lex-mx:federal:statute:lgv:article:64:reference:2416-2418:67:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgv:article:64",
     "source_span": "67",
-    "start_char": 2415,
-    "end_char": 2417,
+    "start_char": 2416,
+    "end_char": 2418,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgv:article:67",
     "qualifiers": [],

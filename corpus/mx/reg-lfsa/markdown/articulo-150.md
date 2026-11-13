@@ -21,7 +21,9 @@ Los productos que estarán sujetos al registro ante la Secretaría son los sigui
 
 I. Biológicos, que incluyen: vacunas, bacterinas, toxoides, autógenos, a base de protozoarios o de ingeniería genética o biotecnológica;
 
-II. Químicos, que incluyen: desinfectantes y sanitizantes; III. Farmacéuticos, que incluyen: antibióticos, quimioterapéuticos, antimicóticos, antiparasitarios, anticoccidianos, antidiarreicos, hormonales, implantes hormonales, promotores del crecimiento y/o rendimiento, antiinflamatorios, antihistamínicos, analgésicos, inmunomoduladores, anestésicos, tranquilizantes, antidepresivos, analépticos, broncodilatadores, mucolíticos, expectorantes, antineoplásicos, diuréticos, relajantes musculares, cicatrizantes, eutanásicos, por cualquier vía de administración y las vitaminas y minerales que se administren parenteralmente;
+II. Químicos, que incluyen: desinfectantes y sanitizantes;
+
+III. Farmacéuticos, que incluyen: antibióticos, quimioterapéuticos, antimicóticos, antiparasitarios, anticoccidianos, antidiarreicos, hormonales, implantes hormonales, promotores del crecimiento y/o rendimiento, antiinflamatorios, antihistamínicos, analgésicos, inmunomoduladores, anestésicos, tranquilizantes, antidepresivos, analépticos, broncodilatadores, mucolíticos, expectorantes, antineoplásicos, diuréticos, relajantes musculares, cicatrizantes, eutanásicos, por cualquier vía de administración y las vitaminas y minerales que se administren parenteralmente;
 
 IV. Ectoparasiticidas;
 

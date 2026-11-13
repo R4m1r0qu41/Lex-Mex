@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
     "fraction": "III",
     "start_char": 191,
-    "end_char": 275,
+    "end_char": 276,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:locfcrl",
     "defining_provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
     "fraction": "IV",
-    "start_char": 275,
-    "end_char": 375,
+    "start_char": 276,
+    "end_char": 376,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:locfcrl",
     "defining_provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
     "fraction": "V",
-    "start_char": 375,
-    "end_char": 455,
+    "start_char": 376,
+    "end_char": 456,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:locfcrl",
     "defining_provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
     "fraction": "VI",
-    "start_char": 455,
-    "end_char": 529,
+    "start_char": 456,
+    "end_char": 530,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:locfcrl",
     "defining_provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
     "fraction": "VII",
-    "start_char": 529,
-    "end_char": 607,
+    "start_char": 530,
+    "end_char": 608,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:locfcrl",
     "defining_provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
     "fraction": "VIII",
-    "start_char": 607,
-    "end_char": 918,
+    "start_char": 608,
+    "end_char": 919,
     "basis": "express_definition"
   }
 ]

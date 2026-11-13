@@ -25,7 +25,9 @@ II. Integrar las propuestas que realicen los Municipios, las demarcaciones terri
 
 III. Instrumentar los mecanismos que promuevan y faciliten la comunicación y vinculación con el Consejo;
 
-IV. Someter a la consideración de los miembros del Consejo Estatal, en la primera sesión del año, el programa de trabajo, así como el calendario de sesiones ordinarias; REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA V. Recibir los asuntos que se pretendan someter a la consideración del Consejo Estatal;
+IV. Someter a la consideración de los miembros del Consejo Estatal, en la primera sesión del año, el programa de trabajo, así como el calendario de sesiones ordinarias;
+
+V. Recibir los asuntos que se pretendan someter a la consideración del Consejo Estatal;
 
 VI. Elaborar los oficios de convocatoria a las sesiones;
 

@@ -23,4 +23,6 @@ a) El diagnóstico de la situación del aeródromo que precise las expectativas 
 
 b) Los planos del aeródromo en los que se señalen las construcciones, las instalaciones de las zonas restringidas, así como las adecuaciones que se proponen y los espacios destinados a diversas autoridades;
 
-c) Los programas de construcción, expansión y modernización de la infraestructura y del equipamiento, y el tiempo estimado para adecuarse como aeropuerto, indicando las etapas para ello, y II. En relación con su capacidad financiera, los estados financieros auditados por contador público autorizado o las declaraciones de impuestos por los últimos tres años.
+c) Los programas de construcción, expansión y modernización de la infraestructura y del equipamiento, y el tiempo estimado para adecuarse como aeropuerto, indicando las etapas para ello, y
+
+II. En relación con su capacidad financiera, los estados financieros auditados por contador público autorizado o las declaraciones de impuestos por los últimos tres años.

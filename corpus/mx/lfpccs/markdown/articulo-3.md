@@ -41,7 +41,9 @@ X. Guía: Documento que expide la Secretaría que contiene los caracteres pertin
 
 XI. Mantenedor: Persona física o moral aprobada y autorizada por la Secretaría para, mantener los caracteres pertinentes de las variedades vegetales, la conservación de su identidad genética y para producir y comercializar categorías Básica y Registrada de las variedades inscritas en el [Catálogo Nacional de Variedades Vegetales](articulo-3.md);
 
-XII. Material de Propagación: Cualquier material de reproducción sexual o asexual que pueda ser utilizado para la producción o multiplicación de una variedad vegetal, incluyendo semillas y cualquier planta entera o parte de ella de la cual sea posible obtener plantas enteras o semillas; XIII. Normas Mexicanas: Normas de aplicación voluntaria que se expiden en términos de la Ley Federal sobre Metrología y Normalización;
+XII. Material de Propagación: Cualquier material de reproducción sexual o asexual que pueda ser utilizado para la producción o multiplicación de una variedad vegetal, incluyendo semillas y cualquier planta entera o parte de ella de la cual sea posible obtener plantas enteras o semillas;
+
+XIII. Normas Mexicanas: Normas de aplicación voluntaria que se expiden en términos de la Ley Federal sobre Metrología y Normalización;
 
 XIV. Normas Oficiales Mexicanas: Normas de aplicación obligatoria que expide la Secretaría conforme a lo establecido en la Ley Federal sobre Metrología y Normalización para la regulación técnica del objeto de esta Ley;
 
@@ -65,7 +67,9 @@ XXIII. Semilla Categoría Certificada: La que conserva un grado adecuado y satis
 
 XXIV. Semilla Categoría Registrada: La que conserva un alto grado de identidad genética y pureza varietal, proviene de una semilla Original, Básica o Registrada y es producida y reproducida o multiplicada de acuerdo con las Reglas a que se refiere esta Ley;
 
-XXV. Semilla Original: Esta semilla constituye la fuente inicial para la producción de semillas de las categorías Básica, Registrada y Certificada y es el resultado de un proceso de mejoramiento o selección de variedades vegetales. La semilla Original conserva los caracteres pertinentes con los que la variedad fue inscrita en el Catálogo Nacional de Variedades Vegetales; XXVI. Sistema: El Sistema Nacional de Semillas, lo integran representantes de la Secretaría, el [SNICS](articulo-3.md), el Instituto Nacional de Investigaciones Agrícolas, Forestales y Pecuarias, de productores y comercializadores de semillas, obtentores, fitomejoradores y mantenedores de semillas, Comités Consultivos Regionales y Estatales de [Semillas](articulo-3.md), asociaciones de agricultores, instituciones de enseñanza superior, de investigación y extensión.
+XXV. Semilla Original: Esta semilla constituye la fuente inicial para la producción de semillas de las categorías Básica, Registrada y Certificada y es el resultado de un proceso de mejoramiento o selección de variedades vegetales. La semilla Original conserva los caracteres pertinentes con los que la variedad fue inscrita en el Catálogo Nacional de Variedades Vegetales;
+
+XXVI. Sistema: El Sistema Nacional de Semillas, lo integran representantes de la Secretaría, el [SNICS](articulo-3.md), el Instituto Nacional de Investigaciones Agrícolas, Forestales y Pecuarias, de productores y comercializadores de semillas, obtentores, fitomejoradores y mantenedores de semillas, Comités Consultivos Regionales y Estatales de [Semillas](articulo-3.md), asociaciones de agricultores, instituciones de enseñanza superior, de investigación y extensión.
 
 XXVII. SNICS. El Servicio Nacional de Inspección y Certificación de Semillas;
 

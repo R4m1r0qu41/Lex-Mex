@@ -43,6 +43,8 @@ XI. No haber subsanado una prevención durante el plazo que dispone esta Ley, po
 
 XII. Omitir explicar a las partes sobre las consecuencias en caso de incumplimiento parcial o total del Convenio;
 
-XIII. No realizar los ajustes razonables y de procedimiento que en su caso requieran las partes; XIV. No desahogar las prevenciones ordenadas por los Centros Públicos, y
+XIII. No realizar los ajustes razonables y de procedimiento que en su caso requieran las partes;
+
+XIV. No desahogar las prevenciones ordenadas por los Centros Públicos, y
 
 XV. Las demás que establezcan esta Ley y los ordenamientos en materia de responsabilidades y sanciones del ámbito federal o local.

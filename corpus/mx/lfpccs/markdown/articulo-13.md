@@ -23,6 +23,8 @@ I. Las aportaciones que efectúen los gobiernos federal, estatales, del Distrito
 
 II. Créditos y apoyos de organismos nacionales e internacionales;
 
-III. Las aportaciones y donaciones de personas físicas o morales de carácter privado, mixto, nacionales e internacionales; IV. Las aportaciones provenientes de los aranceles que se impongan a las semillas importadas; y
+III. Las aportaciones y donaciones de personas físicas o morales de carácter privado, mixto, nacionales e internacionales;
+
+IV. Las aportaciones provenientes de los aranceles que se impongan a las semillas importadas; y
 
 V. Los demás recursos que obtenga por cualquier otro concepto.

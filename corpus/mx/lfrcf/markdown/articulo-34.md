@@ -29,4 +29,6 @@ IV. La descripción de la muestra del gasto público auditado, señalando la pro
 
 V. Derivado de las [Auditorías](articulo-4.md), en su caso y dependiendo de la relevancia de las observaciones, un apartado donde se incluyan sugerencias a la [Cámara](articulo-4.md) para modificar disposiciones legales a fin de mejorar la gestión financiera y el desempeño de las entidades fiscalizadas;
 
-VI. Un apartado que contenga un análisis sobre las proyecciones de las finanzas públicas contenidas en los Criterios Generales de Política Económica para el ejercicio fiscal correspondiente y los datos observados al final del mismo, y VII. La demás información que se considere necesaria.
+VI. Un apartado que contenga un análisis sobre las proyecciones de las finanzas públicas contenidas en los Criterios Generales de Política Económica para el ejercicio fiscal correspondiente y los datos observados al final del mismo, y
+
+VII. La demás información que se considere necesaria.

@@ -17,7 +17,9 @@ source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 
 # Artículo 16
 
-Corresponderá a los gobiernos de las entidades federativas, en los términos de las disposiciones aplicables y los acuerdos de coordinación que se celebren: I. Coordinar, administrar y operar la [Red](articulo-2.md) de Bibliotecas Públicas de la entidad federativa y supervisar su funcionamiento, asegurando que los recintos bibliotecarios cuenten con materiales bibliográficos catalogados y clasificados de acuerdo con las normas técnicas establecidas, además de tecnología, conectividad y acervos actualizados;
+Corresponderá a los gobiernos de las entidades federativas, en los términos de las disposiciones aplicables y los acuerdos de coordinación que se celebren:
+
+I. Coordinar, administrar y operar la [Red](articulo-2.md) de [Bibliotecas](articulo-2.md) Públicas de la entidad federativa y supervisar su funcionamiento, asegurando que los recintos bibliotecarios cuenten con materiales bibliográficos catalogados y clasificados de acuerdo con las normas técnicas establecidas, además de tecnología, conectividad y acervos actualizados;
 
 II. Participar en la planeación, programación del desarrollo, actualización tecnológica y expansión de las bibliotecas públicas a su cargo;
 

@@ -17,7 +17,9 @@ source_sha256: 93f2f807af3fd78f9e7ffcc4b1b544b2c7eecca463efcd7adaa16a0f8716049f
 
 # Artículo 26
 
-Las Hojas de Actuación se cerrarán en los casos siguientes: I. Por finalizar el año, en la segunda quincena de diciembre de cada año;
+Las Hojas de Actuación se cerrarán en los casos siguientes:
+
+I. Por finalizar el año, en la segunda quincena de diciembre de cada año;
 
 II. Por baja en la Unidad, Dependencia o Instalación, al pasar un General, Jefe u Oficial a otro Organismo. En este supuesto, la Hoja se cerrará con la fecha de la baja y se anotará el cómputo del tiempo de servicios correspondientes a su permanencia en ésta, y
 

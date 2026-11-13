@@ -33,7 +33,9 @@ VI. Instrumentar los procedimientos de investigación derivados de las denuncias
 
 VII. Requerir a las unidades administrativas de la Institución la información y documentación necesaria, así como su colaboración para el cumplimiento de sus funciones;
 
-VIII. Entrevistar a testigos respecto de hechos denunciados, asentando los testimonios correspondientes; IX. Notificar y citar a las personas víctimas de las conductas infractoras, a fin de que rindan sus declaraciones o, en su caso, ratifiquen las expresadas en las quejas y denuncias formuladas;
+VIII. Entrevistar a testigos respecto de hechos denunciados, asentando los testimonios correspondientes;
+
+IX. Notificar y citar a las personas víctimas de las conductas infractoras, a fin de que rindan sus declaraciones o, en su caso, ratifiquen las expresadas en las quejas y denuncias formuladas;
 
 X. Remitir el expediente de investigación a la Dirección General de Responsabilidades para el estudio correspondiente;
 

@@ -21,6 +21,8 @@ Los Comités deberán enviar al Instituto mediante los sistemas que para tal efe
 
 I. El número y tipo de solicitudes de información presentadas y sus resultados, incluidas aquéllas en las que no fue posible localizar la información en los archivos;
 
-II. Los tiempos de respuesta a las diferentes solicitudes; III. El estado en que se encuentran las denuncias presentadas por el Instituto ante los órganos internos de control, y
+II. Los tiempos de respuesta a las diferentes solicitudes;
+
+III. El estado en que se encuentran las denuncias presentadas por el Instituto ante los órganos internos de control, y
 
 IV. Las dificultades observadas en el cumplimiento de la Ley, este Reglamento y demás disposiciones aplicables.

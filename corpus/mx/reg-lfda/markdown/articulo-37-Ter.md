@@ -21,7 +21,9 @@ Para efectos de los artículos [114 Septies](../../lfda/markdown/articulo-114-Se
 
 I. Las obras señaladas en el artículo [13](../../lfda/markdown/articulo-13.md) de la Ley;
 
-II. Las interpretaciones o ejecuciones; III. Las ediciones;
+II. Las interpretaciones o ejecuciones;
+
+III. Las ediciones;
 
 IV. Los fonogramas o videogramas;
 

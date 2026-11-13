@@ -23,7 +23,7 @@ I. Autoridad o institución federal coordinadora y las demás que participarán;
 
 II. La amenaza a la [Seguridad Interior](articulo-4.md) que se atenderá;
 
-III. Las entidades federativas o áreas geográficas en las que se realizarán las Acciones de Seguridad Interior;
+III. Las entidades federativas o áreas geográficas en las que se realizarán las [Acciones de Seguridad Interior](articulo-4.md);
 
 IV. Las acciones que se requieran a cargo de las entidades federativas o municipios para contribuir a la atención de la [Amenaza a la Seguridad Interior](articulo-4.md);
 

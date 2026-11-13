@@ -19,7 +19,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 La Dirección General de Amparos y Contencioso tiene las atribuciones siguientes:
 
-I. Intervenir en los asuntos contenciosos de carácter legal en que tenga injerencia la [Institución](articulo-2.md); II. Sustanciar, conforme a las disposiciones jurídicas aplicables, los recursos que se interpongan contra actos y resoluciones de la Institución que den fin a una instancia o resuelvan un expediente y, en su caso, proponer o emitir la resolución que proceda;
+I. Intervenir en los asuntos contenciosos de carácter legal en que tenga injerencia la [Institución](articulo-2.md);
+
+II. Sustanciar, conforme a las disposiciones jurídicas aplicables, los recursos que se interpongan contra actos y resoluciones de la Institución que den fin a una instancia o resuelvan un expediente y, en su caso, proponer o emitir la resolución que proceda;
 
 III. Apoyar en la revisión de las condiciones de trabajo de los integrantes que esté vinculada con ésta mediante una relación jurídico administrativa o laboral;
 

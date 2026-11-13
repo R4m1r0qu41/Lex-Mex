@@ -23,7 +23,9 @@ I. Coordinar la [Red](articulo-2.md);
 
 II. Establecer los mecanismos participativos para planear y programar la expansión y modernización tecnológica de la Red;
 
-III. Emitir la normatividad técnica bibliotecaria para las bibliotecas integradas a la Red, y supervisar su cumplimiento; IV. Operar un programa de capacitación y certificación de bibliotecarias y bibliotecarios de las bibliotecas públicas a nivel nacional;
+III. Emitir la normatividad técnica bibliotecaria para las bibliotecas integradas a la Red, y supervisar su cumplimiento;
+
+IV. Operar un programa de capacitación y certificación de bibliotecarias y bibliotecarios de las bibliotecas públicas a nivel nacional;
 
 V. Establecer criterios para la selección, integración y desarrollo de las colecciones de las bibliotecas públicas;
 

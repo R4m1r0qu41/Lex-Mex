@@ -35,7 +35,9 @@ VII.- Expropiación;
 
 VIII.- Aprobación, revisión o modificación de tarifas, circulares, horarios, tablas de distancia, clasificaciones y, en general, todos los documentos relacionados con la explotación;
 
-IX.- Registro; X.- Venta de las vías generales de comunicación y medios de transporte, así como todas las cuestiones que afecten a su propiedad;
+IX.- Registro;
+
+X.- Venta de las vías generales de comunicación y medios de transporte, así como todas las cuestiones que afecten a su propiedad;
 
 XI.- La vigilancia de los Derechos de la Nación, respecto de la situación jurídica de los bienes sujetos a reversión en los términos de esta ley o de las concesiones respectivas;
 

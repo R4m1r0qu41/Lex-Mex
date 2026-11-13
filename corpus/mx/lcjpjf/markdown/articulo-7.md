@@ -27,6 +27,8 @@ III. Objetividad: Desempeñar la actividad jurisdiccional de manera clara, preci
 
 IV. Imparcialidad: Condición esencial que debe revestir la función jurisdiccional para ser ajenos o extraños a los intereses personales y a los intereses de las partes en controversia, sin favorecer indebidamente a ninguna de ellas;
 
-V. Independencia: Condición esencial que debe revestir la función jurisdiccional para que su ejercicio no pueda verse afectado por decisiones o presiones extra-jurisdiccionales ajenas a los fines del proceso; VI. Antigüedad: Estimación del tiempo transcurrido en el desempeño de los diversos cargos en el Poder Judicial de la Federación como factor a considerar en el desarrollo de la Carrera Judicial, y
+V. Independencia: Condición esencial que debe revestir la función jurisdiccional para que su ejercicio no pueda verse afectado por decisiones o presiones extra-jurisdiccionales ajenas a los fines del proceso;
+
+VI. Antigüedad: Estimación del tiempo transcurrido en el desempeño de los diversos cargos en el Poder Judicial de la Federación como factor a considerar en el desarrollo de la Carrera Judicial, y
 
 VII. Paridad de género: Generación de condiciones orientadas a consolidar, de manera progresiva y gradual, una composición igualitaria entre hombres y mujeres en las distintas etapas, procesos y cargos que comprende la Carrera Judicial.

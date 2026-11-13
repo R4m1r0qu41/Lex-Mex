@@ -21,7 +21,9 @@ Corresponde a la persona Titular del [Centro Público de Mecanismos Alternativos
 
 I. Vigilar que el servicio otorgado por el Centro se apegue a los principios, fines y procedimientos establecidos en esta [Ley](articulo-5.md), en pleno respeto y garantía de los derechos humanos;
 
-II. Asumir la dirección técnica y administrativa del Centro Público de Mecanismos Alternativos de Solución de Controversias del que se trate; III. Determinar que las solicitudes que se presentan en cada Centro resulten de la competencia del mismo y designar a la persona facilitadora que corresponda en turno;
+II. Asumir la dirección técnica y administrativa del Centro Público de Mecanismos Alternativos de Solución de Controversias del que se trate;
+
+III. Determinar que las solicitudes que se presentan en cada Centro resulten de la competencia del mismo y designar a la persona facilitadora que corresponda en turno;
 
 IV. Supervisar el cumplimiento de las reglas de funcionamiento del Centro;
 

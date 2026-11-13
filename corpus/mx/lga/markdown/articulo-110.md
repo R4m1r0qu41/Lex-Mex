@@ -21,7 +21,9 @@ El [Órgano de Gobierno](articulo-4.md) estará integrado por un miembro de las 
 
 I. La Secretaría de Gobernación, quien lo presidirá;
 
-II. La Secretaría de Hacienda y Crédito Público; III. La Secretaría de Educación Pública;
+II. La Secretaría de Hacienda y Crédito Público;
+
+III. La Secretaría de Educación Pública;
 
 IV. La Secretaría de Relaciones Exteriores;
 

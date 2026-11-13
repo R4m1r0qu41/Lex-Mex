@@ -31,7 +31,9 @@ V. La resolución que determine la ejecución forzosa deberá pronunciarse dentr
 
 VI. Las cuestiones sobre el depósito, avalúo, subasta y demás sobre la ejecución de la sentencia se regirán conforme a este [Código Nacional](articulo-2.md).
 
-VII. La autoridad jurisdiccional de ejecución, y en su caso, la de segunda instancia, se abstendrá de pronunciarse sobre el fondo del fallo ni sobre los fundamentos del hecho o derecho en que se apoye, ni exigir equivalencia de resultados del fallo extranjero con respecto al propio, únicamente examinarán la autenticidad de la misma y sobre la forma de su ejecución en términos de este Código Nacional. VIII. La sentencia reconocida podrá tener cumplimientos parciales cuando no sea posible cumplimentarse en su integridad.
+VII. La autoridad jurisdiccional de ejecución, y en su caso, la de segunda instancia, se abstendrá de pronunciarse sobre el fondo del fallo ni sobre los fundamentos del hecho o derecho en que se apoye, ni exigir equivalencia de resultados del fallo extranjero con respecto al propio, únicamente examinarán la autenticidad de la misma y sobre la forma de su ejecución en términos de este Código Nacional.
+
+VIII. La sentencia reconocida podrá tener cumplimientos parciales cuando no sea posible cumplimentarse en su integridad.
 
 IX. La autoridad jurisdiccional que se declare incompetente para ejecutar la sentencia deberá remitir oficiosamente los autos a la autoridad jurisdiccional que considere competente.
 

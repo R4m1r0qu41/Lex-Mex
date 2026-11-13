@@ -25,7 +25,9 @@ II. Aprobar las reglas generales de operación de los planes de ahorro y demás 
 
 III. Autorizar la adquisición y uso de tecnología a que se refiere la fracción III del artículo [7](articulo-7.md) de la presente [Ley](articulo-2.md);
 
-IV. Aprobar los demás programas específicos y reglamentos internos de la Institución que le presente el Director General; V. Nombrar y remover, a propuesta del director general, a los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y a los demás que señale el reglamento orgánico, así como concederles licencias; Fracción derogada DOF 24-06-2002. Adicionada DOF 23-02-2005. Reformada DOF 10-01-2014
+IV. Aprobar los demás programas específicos y reglamentos internos de la Institución que le presente el Director General;
+
+V. Nombrar y remover, a propuesta del director general, a los servidores públicos de la institución que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquél y a los demás que señale el reglamento orgánico, así como concederles licencias; Fracción derogada DOF 24-06-2002. Adicionada DOF 23-02-2005. Reformada DOF 10-01-2014
 
 VI. Nombrar y remover al secretario y al prosecretario del Consejo; Fracción reformada DOF 23-02-2005
 

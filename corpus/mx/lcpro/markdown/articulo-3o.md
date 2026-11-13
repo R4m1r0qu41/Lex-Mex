@@ -21,4 +21,6 @@ El Sistema, perseguirá los siguientes propósitos:
 
 I. Posibilitar a los beneficiarios el acceso por anticipado a los recursos previstos en los años restantes de vigencia del PROCAMPO, para capitalizar sus unidades de producción y desarrollar sus proyectos y acciones de modernización;
 
-II. Proporcionar a los productores certidumbre de que recibirán los apoyos para instrumentar los proyectos productivos que permitan una mayor capacidad de negociación al enfrentar los compromisos mercantiles, así como aprovechar las oportunidades derivadas de los acuerdos y tratados internacionales sobre la materia; y III. Proporcionar condiciones para la disponibilidad y acceso a recursos crediticios.
+II. Proporcionar a los productores certidumbre de que recibirán los apoyos para instrumentar los proyectos productivos que permitan una mayor capacidad de negociación al enfrentar los compromisos mercantiles, así como aprovechar las oportunidades derivadas de los acuerdos y tratados internacionales sobre la materia; y
+
+III. Proporcionar condiciones para la disponibilidad y acceso a recursos crediticios.

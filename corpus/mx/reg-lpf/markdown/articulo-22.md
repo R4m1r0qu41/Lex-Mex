@@ -33,7 +33,9 @@ VI. Fortalecer la prevención primaria de la criminalidad, a través de acciones
 
 VII. Supervisar el desarrollo de los sistemas de acopio de información de inteligencia policial que permitan la prevención e identificación de bandas delictivas;
 
-VIII. Administrar, en el ámbito de su competencia, la utilización de metodologías de recolección, clasificación y evaluación de la información de inteligencia policial que proporcionen las evidencias necesarias de la comisión de hechos delictivos y los presuntos responsables; IX. Diseñar las estrategias de identificación y desarticulación de estructuras criminales;
+VIII. Administrar, en el ámbito de su competencia, la utilización de metodologías de recolección, clasificación y evaluación de la información de inteligencia policial que proporcionen las evidencias necesarias de la comisión de hechos delictivos y los presuntos responsables;
+
+IX. Diseñar las estrategias de identificación y desarticulación de estructuras criminales;
 
 X. Dar cumplimiento a los ordenamientos judiciales y ministeriales;
 

@@ -17,7 +17,9 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 # Artículo 114
 
-Corresponden de manera exclusiva a las autoridades de las entidades federativas, en sus respectivos ámbitos de competencia, las atribuciones siguientes: Párrafo reformado DOF 19-01-2018 LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS I. En concordancia con el Programa Nacional, formular políticas e instrumentar programas estatales para prevenir, sancionar y erradicar los delitos previstos en esta Ley, así como para la protección, atención, rehabilitación y recuperación del proyecto de vida de las víctimas y posibles víctimas, ofendidos y testigos de los mismos;
+Corresponden de manera exclusiva a las autoridades de las entidades federativas, en sus respectivos ámbitos de competencia, las atribuciones siguientes: Párrafo reformado DOF 19-01-2018
+
+I. En concordancia con el Programa Nacional, formular políticas e instrumentar programas estatales para prevenir, sancionar y erradicar los delitos previstos en esta Ley, así como para la protección, atención, rehabilitación y recuperación del proyecto de vida de las víctimas y posibles víctimas, ofendidos y testigos de los mismos;
 
 II. Proponer a la Comisión Intersecretarial contenidos nacionales y regionales, para ser incorporados al Programa Nacional;
 

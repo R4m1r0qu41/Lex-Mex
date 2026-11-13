@@ -19,7 +19,9 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 Secretaría de Seguridad y Protección Ciudadana. Corresponden a la Secretaría de Seguridad y Protección Ciudadana, las siguientes atribuciones:
 
-I. Remitir al [Sistema Nacional](articulo-3.md) la información contenida en el Registro Público Vehicular; II. Mantener actualizada la información contenida en el Registro Público Vehicular, con el objetivo de coadyuvar al cumplimiento de los principios de la presente [Ley](articulo-3.md);
+I. Remitir al [Sistema Nacional](articulo-3.md) la información contenida en el Registro Público Vehicular;
+
+II. Mantener actualizada la información contenida en el Registro Público Vehicular, con el objetivo de coadyuvar al cumplimiento de los principios de la presente [Ley](articulo-3.md);
 
 III. Participar, en el marco de sus competencias, en las acciones que en materia de protección al medio ambiente lleven a cabo otras autoridades federales o estatales, en relación con la movilidad y seguridad vial;
 

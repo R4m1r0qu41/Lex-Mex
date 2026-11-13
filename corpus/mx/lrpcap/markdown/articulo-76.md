@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 76
 
-El detalle de los procedimientos, plazos, requisitos y criterios de los trámites relacionados con la solicitud de otorgamiento de asilo político, el reconocimiento de la condición de refugiado y de protección complementaria, se sujetará a lo establecido en el reglamento de la presente Ley.
+El detalle de los procedimientos, plazos, requisitos y criterios de los trámites relacionados con la solicitud de otorgamiento de asilo político, el reconocimiento de la condición de refugiado y de protección complementaria, se sujetará a lo establecido en el reglamento de la presente [Ley](articulo-2.md).
 
 Artículo adicionado DOF 30-10-2014

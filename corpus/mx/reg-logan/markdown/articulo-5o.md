@@ -19,7 +19,9 @@ source_sha256: 0ad7a7b6d7dffd7d9a582d74ebd6fc43e6baa79f71801a73dc70d1b77c414ded
 
 La Secretaría coordinará sus acciones con las dependencias y entidades del sector público involucradas en el subsector pecuario, basándose en el Plan Nacional de Desarrollo y en los programas que de él se derivan, para proporcionar los servicios técnicos, estímulos y apoyos para el fomento y desarrollo de la ganadería y de las organizaciones ganaderas, tales como:
 
-I. Infraestructura pecuaria; II. Integración de la cadena producción-proceso-comercialización;
+I. Infraestructura pecuaria;
+
+II. Integración de la cadena producción-proceso-comercialización;
 
 III. Asistencia técnica y transferencia de tecnología;
 

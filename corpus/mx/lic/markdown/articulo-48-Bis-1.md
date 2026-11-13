@@ -21,7 +21,9 @@ Cuando a las instituciones de crédito les sean presentados por sus clientes bil
 
 I. Proporcionarán al cliente un formato de reclamación, en el que éste anotará su nombre y domicilio; el lugar, fecha y modo en que le fueron entregadas las piezas, así como las características y número de éstas. Además, a dicho formato deberá anexarse fotocopia de alguna identificación oficial del cliente.
 
-II. Retendrán las piezas de que se trate, extendiendo al cliente el recibo respectivo y las remitirán al Banco de México para dictamen. Las instituciones deberán proporcionar al Banco de México la información que al efecto requiera. III. Verificarán, dentro del plazo de cinco días hábiles bancarios, que la operación se hubiera llevado conforme a lo señalado por el cliente en el formato de reclamación.
+II. Retendrán las piezas de que se trate, extendiendo al cliente el recibo respectivo y las remitirán al Banco de México para dictamen. Las instituciones deberán proporcionar al Banco de México la información que al efecto requiera.
+
+III. Verificarán, dentro del plazo de cinco días hábiles bancarios, que la operación se hubiera llevado conforme a lo señalado por el cliente en el formato de reclamación.
 
 IV. Si la información proporcionada por el cliente y el resultado de la verificación que se realice, permiten presumir que las piezas en cuestión fueron entregadas en cajeros automáticos o ventanilla de alguna de sus sucursales, deberán entregar a éste el importe de las piezas presentadas, siempre que éstas provengan de un máximo de dos diferentes operaciones. En ningún caso se cambiarán más de dos piezas por cada operación, respecto del mismo cliente en un lapso de un año. Tampoco procederá el cambio, cuando hayan transcurrido más de cinco días hábiles bancarios entre la fecha de la operación y la presentación de las piezas ante la institución de que se trate.
 

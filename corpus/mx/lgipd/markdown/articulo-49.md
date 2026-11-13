@@ -17,7 +17,9 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 49
 
-El Director General será designado por el Presidente de la República, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos: I. Ser Ciudadano Mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+El Director General será designado por el Presidente de la República, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
+
+I. Ser Ciudadano Mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos, experiencia en materia administrativa y en materia de discapacidad, y
 

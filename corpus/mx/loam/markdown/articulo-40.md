@@ -17,4 +17,6 @@ source_sha256: 476c757523ccdbe6825029df4b37990c8def13ecf98e1bb66e4ace738d33946a
 
 # Artículo 40
 
-El material podrá encontrarse en cualquiera de las situaciones siguientes: I. En activo, aquel que está en condiciones operativas determinadas por las disposiciones reglamentarias; II. En reserva, aquel que puede ser activado para el servicio; III. En fabricación, construcción o modernización, el que está en este proceso para ser incorporado al servicio activo y, en modernización, el material en proceso para recuperar o actualizar los estándares operativos, y IV. En trámite de baja, el material que no es susceptible de recuperarse.
+El material podrá encontrarse en cualquiera de las situaciones siguientes: I. En activo, aquel que está en condiciones operativas determinadas por las disposiciones reglamentarias;
+
+II. En reserva, aquel que puede ser activado para el servicio; III. En fabricación, construcción o modernización, el que está en este proceso para ser incorporado al servicio activo y, en modernización, el material en proceso para recuperar o actualizar los estándares operativos, y IV. En trámite de baja, el material que no es susceptible de recuperarse.

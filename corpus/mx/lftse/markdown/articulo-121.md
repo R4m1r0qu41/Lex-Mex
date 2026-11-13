@@ -23,8 +23,6 @@ I.- Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y es
 
 II.- Ser mayor de 25 años, y
 
-III.- No haber sido condenado, por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencionales. LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL El Presidente del Tribunal y los Presidentes de Sala y de Sala Auxiliar, así como el Magistrado nombrado por el Gobierno Federal, deberán poseer título profesional de Licenciado en Derecho, legalmente expedido cuando menos cinco años antes de la designación, y tener un mínimo de tres años de experiencia acreditable en materia laboral. Párrafo reformado DOF 12-01-1984
+III.- No haber sido condenado, por delitos contra la propiedad o a sufrir pena mayor de un año de prisión por cualquier otra clase de delitos intencionales. El Presidente del Tribunal y los Presidentes de Sala y de Sala Auxiliar, así como el Magistrado nombrado por el Gobierno Federal, deberán poseer título profesional de Licenciado en Derecho, legalmente expedido cuando menos cinco años antes de la designación, y tener un mínimo de tres años de experiencia acreditable en materia laboral. Párrafo reformado DOF 12-01-1984
 
 El Magistrado representate de los trabajadores, deberá haber servido al Estado como empleado de base, por período no menor de cinco años, precisamente anterior a la fecha de la designación. Párrafo reformado DOF 12-01-1984

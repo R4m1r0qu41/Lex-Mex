@@ -7,8 +7,8 @@ provision_type: article
 number: "135"
 aliases: ["REG-LGS-MPSAM — Artículo 135"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf
 source_sha256: d219ab16e40b5941ff5038f8d3c3628706b64202022a98f798343e376f34c9e7
 ---
@@ -23,7 +23,9 @@ I.- INVALIDEZ: La limitación en la capacidad de una persona para realizar, por 
 
 II.- REHABILITACION: El conjunto de medida encaminadas a mejorar la capacidad de una persona para realizar por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico, por medio de órtesis, prótesis, ayudas funcionales, cirugía reconstructiva o cualquier otro procedimiento que le permitan integrarse a la sociedad;
 
-III.- INSTITUTO DE REHABILITACION: El establecimiento médico que desempeña principalmente funciones, de investigación científica y docencia en materia de rehabilitación de inválidos; IV.- CENTRO DE REHABILITACION: El establecimiento médico que presta servicios de diagnóstico, tratamiento y adiestramiento ocupacional a inválidos;
+III.- INSTITUTO DE REHABILITACION: El establecimiento médico que desempeña principalmente funciones, de investigación científica y docencia en materia de rehabilitación de inválidos;
+
+IV.- CENTRO DE REHABILITACION: El establecimiento médico que presta servicios de diagnóstico, tratamiento y adiestramiento ocupacional a inválidos;
 
 V.- UNIDAD DE REHABILITACION: La unidad que formando parte o no de un hospital, preste servicios de diagnóstico y tratamiento a inválidos, así como recuperación de deficiencias e incapacidades;
 

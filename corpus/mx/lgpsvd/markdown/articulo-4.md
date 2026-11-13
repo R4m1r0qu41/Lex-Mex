@@ -33,7 +33,9 @@ VI. Programa Nacional: El Programa Nacional para la Prevención Social de la [Vi
 
 VII. Programa anual: El programa de trabajo anual del [Centro Nacional](articulo-4.md);
 
-VIII. Reglamento: El Reglamento de la Ley General para la Prevención Social de la Violencia y la Delincuencia; IX. Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
+VIII. Reglamento: El Reglamento de la Ley General para la Prevención Social de la Violencia y la Delincuencia;
+
+IX. Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
 X. Secretario Ejecutivo: El Titular del Secretariado Ejecutivo, y
 

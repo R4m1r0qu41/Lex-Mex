@@ -23,6 +23,8 @@ En caso de que las partes no lleguen a un acuerdo probatorio, el juez procederá
 
 La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás, pruebas que les hayan sido admitidas; y sólo de estimarlo necesario, el juez, en auxilio del oferente, expedirá los oficios o citaciones y realizará el nombramiento del perito tercero en discordia, en el entendido de que serán puestos a disposición de la parte oferente los oficios y citaciones respectivas, a afecto de que preparen sus pruebas y éstas se desahoguen en la audiencia de juicio.
 
-En el mismo proveído, el juez fijará la fecha para la celebración de la audiencia de juicio, misma que deberá celebrarse dentro del plazo de cuarenta días siguientes a la emisión de dicho auto. Párrafo reformado DOF 25-01-2017 Si en la audiencia preliminar sólo se admiten pruebas documentales que no requieran ser preparadas para su desahogo, se podrá concentrar la audiencia de juicio en la preliminar, para desahogar las documentales respectivas y dictar la sentencia definitiva en la misma audiencia. Párrafo adicionado DOF 25-01-2017
+En el mismo proveído, el juez fijará la fecha para la celebración de la audiencia de juicio, misma que deberá celebrarse dentro del plazo de cuarenta días siguientes a la emisión de dicho auto. Párrafo reformado DOF 25-01-2017
+
+Si en la audiencia preliminar sólo se admiten pruebas documentales que no requieran ser preparadas para su desahogo, se podrá concentrar la audiencia de juicio en la preliminar, para desahogar las documentales respectivas y dictar la sentencia definitiva en la misma audiencia. Párrafo adicionado DOF 25-01-2017
 
 Artículo adicionado DOF 27-01-2011

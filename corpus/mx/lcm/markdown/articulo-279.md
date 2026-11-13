@@ -27,4 +27,6 @@ III. Por Procedimiento Extranjero no Principal se entenderá un Procedimiento Ex
 
 IV. Por Representante Extranjero se entenderá la persona o el órgano, incluso el designado a título provisional, que haya sido facultado en un procedimiento extranjero para administrar la reorganización o la liquidación de los bienes o negocios del Comerciante o para actuar como representante del Procedimiento Extranjero;
 
-V. Por Tribunal Extranjero se entenderá la autoridad judicial o de otra índole que sea competente a los efectos del control o la supervisión de un Procedimiento Extranjero, y VI. Por Establecimiento se entenderá todo lugar de operaciones en el que el Comerciante ejerza de forma no transitoria una actividad económica con medios humanos y bienes o servicios.
+V. Por Tribunal Extranjero se entenderá la autoridad judicial o de otra índole que sea competente a los efectos del control o la supervisión de un Procedimiento Extranjero, y
+
+VI. Por Establecimiento se entenderá todo lugar de operaciones en el que el Comerciante ejerza de forma no transitoria una actividad económica con medios humanos y bienes o servicios.

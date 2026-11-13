@@ -21,7 +21,9 @@ Medidas mínimas de tránsito. La Federación, las entidades federativas y los m
 
 Las autoridades de los tres órdenes de gobierno establecerán, en su normativa aplicable, las sanciones correspondientes a quienes infrinjan las medidas mínimas establecidas en el presente artículo.
 
-Por lo anterior los reglamentos de tránsitos y demás normatividades aplicables tendrán que regirse bajo las siguientes características mínimas: I. Que las personas conductoras cuenten con licencia o permiso de conducir vigente, la cual deberá ser la adecuada para el tipo de vehículo que se pretenda operar;
+Por lo anterior los reglamentos de tránsitos y demás normatividades aplicables tendrán que regirse bajo las siguientes características mínimas:
+
+I. Que las personas conductoras cuenten con licencia o permiso de conducir vigente, la cual deberá ser la adecuada para el tipo de vehículo que se pretenda operar;
 
 II. La preferencia del paso de personas peatonas en el cruce de vías públicas de acuerdo con el diseño y funcionalidad de éstas, de conformidad con la jerarquía de la movilidad;
 
@@ -49,7 +51,9 @@ V. El uso de tecnologías como medio auxiliar para la prevención y captación d
 
 VI. Que cualquier persona menor de doce años o que por su constitución física lo requiera, viaje en los asientos traseros con un sistema de retención infantil o en un asiento de seguridad que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
 
-VII. El uso de sistemas de sujeción para sillas de ruedas en el transporte público; VIII. Que todos los vehículos motorizados cuenten con los estándares establecidos en la Norma Oficial Mexicana aplicable;
+VII. El uso de sistemas de sujeción para sillas de ruedas en el transporte público;
+
+VIII. Que todos los vehículos motorizados cuenten con los estándares establecidos en la Norma Oficial Mexicana aplicable;
 
 IX. El uso obligatorio de casco para personas conductoras y pasajeros de motocicletas que cumpla con la Norma Oficial Mexicana aplicable en la materia;
 

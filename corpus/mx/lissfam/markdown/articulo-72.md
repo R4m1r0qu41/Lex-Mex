@@ -21,6 +21,8 @@ El fondo del seguro de vida militar a cargo del [Instituto](articulo-4o.md) se i
 
 I. Con los recursos que a la fecha mantiene el Instituto en el fondo del seguro de vida militar;
 
-II. Con las aportaciones que realice el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público correspondientes a la prima del seguro de vida militar; III. Con las aportaciones provenientes del personal militar que se adhiera al régimen potestativo del mismo seguro, y
+II. Con las aportaciones que realice el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público correspondientes a la prima del seguro de vida militar;
+
+III. Con las aportaciones provenientes del personal militar que se adhiera al régimen potestativo del mismo seguro, y
 
 IV. Con los rendimientos y demás productos financieros que se obtengan con motivo de las inversiones de los recursos señalados en las fracciones precedentes.

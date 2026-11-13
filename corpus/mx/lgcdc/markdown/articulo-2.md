@@ -29,6 +29,8 @@ IV. Garantizar el disfrute de los bienes y servicios que presta el Estado en mat
 
 V. Promover, respetar, proteger y asegurar el ejercicio de los derechos culturales;
 
-VI. Establecer las bases de coordinación entre la Federación, las entidades federativas, los municipios y alcaldías de la Ciudad de México en materia de política cultural; VII. Establecer mecanismos de participación de los sectores social y privado, y
+VI. Establecer las bases de coordinación entre la Federación, las entidades federativas, los municipios y alcaldías de la Ciudad de México en materia de política cultural;
+
+VII. Establecer mecanismos de participación de los sectores social y privado, y
 
 VIII. Promover entre la población el principio de solidaridad y responsabilidad en la preservación, conservación, mejoramiento y restauración de los bienes y servicios que presta el Estado en la materia.

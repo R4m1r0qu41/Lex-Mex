@@ -1,5 +1,6 @@
 pub mod dcg;
 pub mod diputados;
+pub mod fidelity;
 pub mod furniture_audit;
 pub mod html;
 pub mod itf;
@@ -1884,6 +1885,7 @@ Ciudad de México, a 1 de octubre de 2025.
             rationale: "Explicit fixture approval for this one stale citation".to_owned(),
             decision_source: "fixture decision; not a canonical operator resolution".to_owned(),
             decision_source_sha256: "c".repeat(64),
+            reconfirms: None,
         };
         super::apply_outdated_reference_approvals(
             &mut edges,
@@ -2064,6 +2066,7 @@ Ciudad de México, a 1 de octubre de 2025.
             note: "Fixture note: the reviewer names a different current article.".to_owned(),
             decision_source: "fixture decision".to_owned(),
             decision_source_sha256: "c".repeat(64),
+            reconfirms: None,
         };
         super::apply_legal_operator_reviews(
             &mut edges,
@@ -2338,6 +2341,126 @@ Ciudad de México, a 1 de octubre de 2025.
                 .count(),
             2
         );
+    }
+
+    #[test]
+    fn a_later_qualifier_is_not_attached_to_the_previous_citation() {
+        // L1 qualifier attribution (audit-qualifiers "absent" findings): the
+        // last number of a list used to take every qualifier up to the
+        // sentence end, so a phrase scoping a later citation or the source
+        // article itself was attached to it. Shapes from CCF 2980/2935, CFF
+        // 197/198 and 92, CCOM 18, CFF 15-D and 153, LGPP 78, CUE art. 7.
+        const ID: &str = "urn:lex-mx:federal:statute:fix";
+        let numbers = [
+            "2980", "2935", "197", "198", "9", "18", "20", "21", "15", "153", "78", "7", "5", "28",
+            "30", "38", "25", "362", "363", "364", "365", "434", "128", "8", "324", "3", "73",
+            "88", "151", "33",
+        ];
+        let known: Vec<String> = numbers
+            .iter()
+            .map(|number| format!("{ID}:article:{number}"))
+            .collect();
+        let known: Vec<&str> = known.iter().map(String::as_str).collect();
+        let qualifiers_of = |text: &str, number: &str| -> Vec<String> {
+            let edges = closure_references(
+                text,
+                ID,
+                &["de esta ley", "de este código", "de la presente ley"],
+                &[],
+                &known,
+            );
+            let target = format!("{ID}:article:{number}");
+            let edge = edges
+                .iter()
+                .find(|edge| {
+                    edge.reference_form == ReferenceForm::Direct
+                        && edge.target_provision_id == target
+                })
+                .unwrap_or_else(|| panic!("no edge to {number}: {edges:?}"));
+            edge.qualifiers.iter().map(|q| q.text.clone()).collect()
+        };
+        let none: Vec<String> = Vec::new();
+
+        // A phrase written before a later header belongs to that header.
+        let text = "Artículo 1.- Los créditos del artículo 2980 y los créditos a que se refiere la fracción V del artículo 2935 de este Código.";
+        assert_eq!(qualifiers_of(text, "2980"), none);
+        assert_eq!(qualifiers_of(text, "2935"), ["fracción V"]);
+        // Even when only `y` separates it from the earlier number.
+        let text = "Artículo 1.- Conforme al párrafo quinto del artículo 197 y fracción II del artículo 198 de este Código.";
+        assert_eq!(qualifiers_of(text, "197"), ["párrafo quinto"]);
+        assert_eq!(qualifiers_of(text, "198"), ["fracción II"]);
+        // `de este artículo` scopes the source article, not the citation.
+        let text = "Artículo 1.- La reducción de la fracción II del artículo 9 de este Código, si quien se encuentra en las fracciones XI y XII de este artículo cumple.";
+        assert_eq!(qualifiers_of(text, "9"), ["fracción II"]);
+        // A qualifier inside a later `;` item belongs to that item.
+        let text = "Artículo 1.- Lo dispuesto por los artículos 18, segundo párrafo, con excepción de las facultades; 20; 21, salvo por lo señalado en su fracción XX; de esta Ley.";
+        assert_eq!(qualifiers_of(text, "18"), ["segundo párrafo"]);
+
+        // Chained qualifiers, after an ordinal mark and unqualified items.
+        let text =
+            "Artículo 1.- Lo previsto en el artículo 78, numeral 1, inciso b), de la presente Ley.";
+        assert_eq!(qualifiers_of(text, "78"), ["inciso b"]);
+        let text = "Artículo 1.- En términos del artículo 7o, fracciones II, inciso b), numeral 1, párrafo cuarto de dicho numeral, de esta Ley.";
+        assert_eq!(
+            qualifiers_of(text, "7"),
+            ["fracciones II", "inciso b", "párrafo cuarto"]
+        );
+        // A back-reference with no citation in between still belongs.
+        let text = "Artículo 1.- Lo descrito en el artículo 15 de esta Ley, o lo que refieren el primer y segundo párrafos de dicho artículo.";
+        assert_eq!(qualifiers_of(text, "15"), ["primer y segundo párrafos"]);
+        let text = "Artículo 1.- Los términos del artículo 153 de este Código, salvo lo indicado en su segundo párrafo.";
+        assert_eq!(qualifiers_of(text, "153"), ["segundo párrafo"]);
+        // An unnumbered `dicho artículo` in between names no other citation
+        // (IFPE art. 5).
+        let text = "Artículo 1.- Las fracciones del artículo 5 de esta Ley con características distintas a las señaladas en dicho artículo, así como la información señalada en la fracción III del mencionado artículo.";
+        assert_eq!(qualifiers_of(text, "5"), ["fracción III"]);
+        // Ordinal words outside the paragraph pattern keep the chain (LRSIC
+        // arts. 27 Bis and 28).
+        let text = "Artículo 1.- Las previstas en los artículos 28, antepenúltimo, penúltimo y último párrafos, 30, segundo y último párrafos, y 38 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "28"), ["último párrafos"]);
+
+        // Codex review 2026-11-12, item 3: valid shapes the repair lost.
+        // The self-designation `de esta Ley` sits between the number and its
+        // qualifier (LCF art. 25 citation).
+        let text = "Artículo 1.- Las instituciones a que se refiere el artículo 25 de esta Ley, fracciones V y VII, respectivamente.";
+        assert_eq!(qualifiers_of(text, "25"), ["fracciones V y VII"]);
+        // An exception names part of the same article (CMPP art. 364); kept as
+        // a qualifier, like the possessive `salvo … su segundo párrafo` above.
+        let text = "Artículo 1.- Los previstos en los artículos 362, 363, 364 excepto fracción I, primera parte, 365 de este Código.";
+        assert_eq!(qualifiers_of(text, "364"), ["fracción I"]);
+        // `salvo el de la` names an excepted part of the same article (LFT art. 434).
+        let text = "Artículo 1.- Las causas señaladas en el artículo 434, salvo el de la fracción IV, de esta Ley.";
+        assert_eq!(qualifiers_of(text, "434"), ["fracción IV"]);
+        // An exception that names another article's part stays with that article.
+        let text = "Artículo 1.- Lo dispuesto en el artículo 18, excepto fracción II del artículo 20 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "18"), none);
+        assert_eq!(qualifiers_of(text, "20"), ["fracción II"]);
+        // An excepted fraction with its own relative clause belongs to the
+        // citing provision (LFPC art. 66 citing art. 128).
+        let text = "Artículo 1.- Se sancionará conforme a lo dispuesto en el artículo 128, con excepción de la fracción VI que se sancionará conforme al artículo 21 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "128"), none);
+        // An inner part stays with its containing part (REG-LAERO art. 9,
+        // CUB art. 324): the chain continues through `de la`.
+        let text = "Artículo 1.- En términos de los artículos 8 y 9, con excepción del inciso a) de la fracción IV de este último, del presente Reglamento.";
+        assert_eq!(qualifiers_of(text, "9"), ["inciso a", "fracción IV"]);
+        let text = "Artículo 1.- Los aspectos del artículo 324, con excepción del párrafo segundo de la fracción I, de las presentes disposiciones.";
+        assert_eq!(
+            qualifiers_of(text, "324"),
+            ["párrafo segundo", "fracción I"]
+        );
+        // `de la` / `del` right after the number opens a later citation
+        // (LGMHCTI art. 3o and 73; LISR arts. 88 and 151).
+        let text = "Artículo 1.- Con fundamento en el artículo 3o. y de la fracción XXIX-F del artículo 73 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "3"), none);
+        let text = "Artículo 1.- Lo dispuesto en el artículo 88 y del párrafo décimo segundo del artículo 151 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "88"), none);
+        // A back-reference opened by `de los` still belongs (REG-LMIN art. 33).
+        let text = "Artículo 1.- El supuesto del artículo 33 de este Reglamento, para determinar el ganador en los términos de los párrafos segundo y tercero del citado artículo.";
+        assert_eq!(qualifiers_of(text, "33"), ["párrafos segundo y tercero"]);
+        // The self-designation does not carry a later citation's qualifier.
+        let text = "Artículo 1.- Lo previsto en el artículo 25 de esta Ley, fracción V del artículo 30 de esta Ley.";
+        assert_eq!(qualifiers_of(text, "25"), none);
+        assert_eq!(qualifiers_of(text, "30"), ["fracción V"]);
     }
 
     #[test]

@@ -25,6 +25,8 @@ II. Las aportaciones que, en su caso, le realicen los Gobiernos de las entidades
 
 III. Las aportaciones que le realicen las personas físicas y morales nacionales o extranjeras, a través de donaciones, legados, fideicomisos y premios, los cuales de ninguna manera podrán implicar condiciones contrarias a su objetivo conforme lo establece la [Ley](articulo-4.md);
 
-IV. Los bienes muebles e inmuebles que adquiera o se le destinen para su servicio; V. Los recursos que la propia CONADE genere, y
+IV. Los bienes muebles e inmuebles que adquiera o se le destinen para su servicio;
+
+V. Los recursos que la propia CONADE genere, y
 
 VI. Los demás recursos, bienes y derechos que se adquieran o reciban por cualquier otro título legal.

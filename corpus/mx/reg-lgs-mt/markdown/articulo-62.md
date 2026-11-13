@@ -27,7 +27,9 @@ III. El registro de un Receptor Candidato a recibir el Trasplante en el Registro
 
 IV. Los pacientes que se transfieran de un Establecimiento de Salud a otro, conservarán su antigüedad en el Registro Nacional de Trasplantes;
 
-V. El responsable sanitario del Establecimiento de Salud deberá mantener actualizada la información de los Receptores Candidatos a recibir un Trasplante, notificando al Registro Nacional de Trasplantes cualquier ingreso o cambio; VI. El responsable sanitario del Establecimiento de Salud deberá efectuar el reporte de una donación o de un Trasplante, en los plazos previstos en el artículo [33](articulo-33.md), fracción XI, incisos b) y c), del presente Reglamento, y
+V. El responsable sanitario del Establecimiento de Salud deberá mantener actualizada la información de los Receptores Candidatos a recibir un Trasplante, notificando al Registro Nacional de Trasplantes cualquier ingreso o cambio;
+
+VI. El responsable sanitario del Establecimiento de Salud deberá efectuar el reporte de una donación o de un Trasplante, en los plazos previstos en el artículo [33](articulo-33.md), fracción XI, incisos b) y c), del presente Reglamento, y
 
 VII. Las bases de datos del Registro Nacional de Trasplantes serán confidenciales, sólo podrá tener acceso a las mismas, de acuerdo a su ámbito de competencia, personal autorizado de:
 

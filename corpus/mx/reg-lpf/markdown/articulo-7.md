@@ -19,7 +19,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Son facultades genéricas de los titulares de las unidades señaladas en el artículo [5](articulo-5.md), fracciones II, III, y IV, del presente [Reglamento](articulo-2.md), las siguientes:
 
-I. Acordar con el Comisionado General el despacho de los asuntos de su competencia; salvo lo previsto para el titular de Asuntos Internos; II. Ejercer las atribuciones asignadas a las unidades a su cargo;
+I. Acordar con el Comisionado General el despacho de los asuntos de su competencia; salvo lo previsto para el titular de Asuntos Internos;
+
+II. Ejercer las atribuciones asignadas a las unidades a su cargo;
 
 III. Implementar y mantener actualizados los sistemas de registro de información de la [Institución](articulo-2.md);
 
@@ -49,7 +51,9 @@ XV. Supervisar que las actuaciones policiales se asienten en constancias que per
 
 XVI. Proponer al Comisionado General el otorgamiento de gratificaciones para llevar a cabo tareas de inteligencia en el ámbito de sus respectivas competencias;
 
-XVII. Implementar las medidas de protección a imputados y testigos, mediante la instrumentación del procedimiento correspondiente y del otorgamiento de recursos económicos y humanos que permitan solventar la aplicación de tales medidas; XVIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tengan conocimiento con motivo de sus funciones;
+XVII. Implementar las medidas de protección a imputados y testigos, mediante la instrumentación del procedimiento correspondiente y del otorgamiento de recursos económicos y humanos que permitan solventar la aplicación de tales medidas;
+
+XVIII. Dar cumplimiento a las órdenes de aprehensión y demás mandatos ministeriales y jurisdiccionales de que tengan conocimiento con motivo de sus funciones;
 
 XIX. Atender, en el ámbito de su competencia, los requerimientos de la Unidad de Asuntos Internos de la Institución con la información, apoyo y demás datos que requiera para el ejercicio de sus funciones;
 

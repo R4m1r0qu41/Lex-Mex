@@ -21,7 +21,9 @@ En la emisión de obligaciones subordinadas, las [Instituciones de Fianzas](arti
 
 I. Las obligaciones subordinadas y sus cupones serán títulos de crédito con los mismos requisitos y características que los bonos bancarios, salvo los previstos en el presente artículo;
 
-II. La emisión de obligaciones subordinadas estará sujeta a la previa autorización que otorgue la Comisión con base en lo previsto en esta Ley y en las disposiciones respectivas; III. El consejo de administración de la Institución de Fianzas tendrá la responsabilidad de revisar y aprobar las emisiones de obligaciones subordinadas, de manera previa a que éstas sean sometidas a la consideración de la Comisión para su autorización;
+II. La emisión de obligaciones subordinadas estará sujeta a la previa autorización que otorgue la Comisión con base en lo previsto en esta Ley y en las disposiciones respectivas;
+
+III. El consejo de administración de la Institución de Fianzas tendrá la responsabilidad de revisar y aprobar las emisiones de obligaciones subordinadas, de manera previa a que éstas sean sometidas a la consideración de la Comisión para su autorización;
 
 IV. La Comisión ordenará a la Institución de Fianzas la suspensión temporal del pago de intereses y, en su caso, del principal de dichos títulos cuando, conforme a lo previsto en el penúltimo párrafo del artículo [320](articulo-320.md) de esta Ley, determine el incumplimiento de un plan de regularización de la Institución de Fianzas de que se trate;
 

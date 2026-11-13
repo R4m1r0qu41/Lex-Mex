@@ -27,7 +27,9 @@ III. Centro de Trabajo: Todo aquel lugar, cualquiera que sea su denominación, e
 
 IV. Comedor: Espacio destinado de manera permanente dentro del Centro de Trabajo, para proporcionar [Comida](articulo-2.md) a los Trabajadores, el cual podrá ser operado por el propio patrón, o bien, a través de un tercero, mediante el uso de Vales de Comida conforme al contrato de prestación de servicios que al efecto se celebre entre el patrón y dicho tercero;
 
-V. Emisoras de Vales: Personas físicas o morales que administran un sistema de consumo creado mediante la firma de contratos celebrados con [Proveedores de Despensas](articulo-2.md), [Comedores](articulo-2.md), [Restaurantes o Establecimientos de Consumo de Alimentos](articulo-2.md) dentro del territorio nacional, en los que se establezcan las condiciones de aceptación de los Vales de Comida o Despensa, según corresponda; VI. Ley: Ley de Ayuda Alimentaria para los Trabajadores;
+V. Emisoras de Vales: Personas físicas o morales que administran un sistema de consumo creado mediante la firma de contratos celebrados con [Proveedores de Despensas](articulo-2.md), [Comedores](articulo-2.md), [Restaurantes o Establecimientos de Consumo de Alimentos](articulo-2.md) dentro del territorio nacional, en los que se establezcan las condiciones de aceptación de los Vales de Comida o Despensa, según corresponda;
+
+VI. Ley: Ley de Ayuda Alimentaria para los Trabajadores;
 
 VII. Proveedores de Despensa: Personas físicas o morales que suministran o enajenan canastillas de alimentos a los patrones, mediante un contrato celebrado para tales efectos, o que permiten a los Trabajadores adquirir, dentro de sus establecimientos ubicados en territorio nacional, alimentos mediante Vales de Despensa que son aceptados en función del contrato celebrado con las [Emisoras de Vales](articulo-2.md);
 

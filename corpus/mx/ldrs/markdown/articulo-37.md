@@ -35,7 +35,9 @@ VII. Establecer los mecanismos que propicien que los sectores social y privado y
 
 VIII. Proveer los medios para sustentar las decisiones administrativas y contenciosas que requieran dictamen y arbitraje;
 
-IX. Fomentar la integración, administración y actualización pertinente de la información relativa a las actividades de investigación agropecuaria y de desarrollo rural sustentable; X. Fortalecer las capacidades regionales y estatales, propiciando su acceso a los programas de investigación y transferencia de tecnología;
+IX. Fomentar la integración, administración y actualización pertinente de la información relativa a las actividades de investigación agropecuaria y de desarrollo rural sustentable;
+
+X. Fortalecer las capacidades regionales y estatales, propiciando su acceso a los programas de investigación y transferencia de tecnología;
 
 XI. Promover la productividad y rentabilidad de la investigación científica, así como el incremento de la aportación de recursos provenientes de los sectores agrícola e industrial, a fin de realizar investigaciones de interés para el avance tecnológico del medio rural;
 

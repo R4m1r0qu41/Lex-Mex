@@ -25,7 +25,9 @@ II. Intercambiar, en términos de las disposiciones legales aplicables, la infor
 
 III. Coadyuvar en la elaboración de los programas que en materia de operaciones con recursos de procedencia ilícita emitan las autoridades competentes;
 
-IV. Cooperar, en el ámbito de su competencia, con las autoridades internacionales competentes sobre cuestiones relativas a los programas de fiscalización internacional de recursos de procedencia ilícita; V. Prevenir, en el ámbito de su competencia, los delitos contra el sistema financiero;
+IV. Cooperar, en el ámbito de su competencia, con las autoridades internacionales competentes sobre cuestiones relativas a los programas de fiscalización internacional de recursos de procedencia ilícita;
+
+V. Prevenir, en el ámbito de su competencia, los delitos contra el sistema financiero;
 
 VI. Colaborar en la prevención y, en el ámbito de su competencia, combate de las operaciones con recursos de procedencia ilícita;
 
@@ -55,6 +57,8 @@ XVIII. Proponer la realización de operaciones encubiertas, usuario simulado e i
 
 XIX. Elaborar y, en su caso, proporcionar informes, partes policiales y demás documentos que sean necesarios para complementar la investigación requerida por la autoridad competente;
 
-XX. Participar, en el ámbito de su competencia, con las instancias de coordinación interinstitucional para el intercambio de información en líneas de investigación con otros organismos y autoridades; XXI. Complementar líneas de investigación con información de las unidades administrativas de la División de Antidrogas, y
+XX. Participar, en el ámbito de su competencia, con las instancias de coordinación interinstitucional para el intercambio de información en líneas de investigación con otros organismos y autoridades;
+
+XXI. Complementar líneas de investigación con información de las unidades administrativas de la División de Antidrogas, y
 
 XXII. Las demás que le confieran este [Reglamento](articulo-2.md), otras disposiciones legales aplicables o aquéllas que le encomiende el inmediato superior de quien dependa.

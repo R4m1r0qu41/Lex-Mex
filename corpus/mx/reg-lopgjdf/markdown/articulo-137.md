@@ -27,7 +27,9 @@ III. Informar al Procurador sobre los resultados de las evaluaciones para el ing
 
 IV. Promover, ante las instancias competentes, la certificación de los procesos de evaluación que aplique el Centro;
 
-V. Proponer al Consejo Directivo políticas, lineamientos y criterios generales para el funcionamiento y organización del Centro, conforme a la legislación y normatividad de la materia; VI. Presentar al Consejo Directivo para su aprobación, proyectos de manuales administrativos y demás disposiciones que rijan al Centro, así como someterlos a la autorización de las instancias competentes cuando la normatividad así lo determine;
+V. Proponer al Consejo Directivo políticas, lineamientos y criterios generales para el funcionamiento y organización del Centro, conforme a la legislación y normatividad de la materia;
+
+VI. Presentar al Consejo Directivo para su aprobación, proyectos de manuales administrativos y demás disposiciones que rijan al Centro, así como someterlos a la autorización de las instancias competentes cuando la normatividad así lo determine;
 
 VII. Elaborar los programas de trabajo y los proyectos estratégicos del Centro;
 

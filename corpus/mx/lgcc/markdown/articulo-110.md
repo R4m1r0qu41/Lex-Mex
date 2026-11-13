@@ -17,7 +17,9 @@ source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15
 
 # Artículo 110
 
-Para dar cumplimiento al [artículo anterior](articulo-109.md) la [Comisión](articulo-3o.md) deberá: I. Convocar a las organizaciones de los sectores social y privado a que manifiesten sus opiniones y propuestas en materia de adaptación y mitigación al cambio climático;
+Para dar cumplimiento al [artículo anterior](articulo-109.md) la [Comisión](articulo-3o.md) deberá:
+
+I. Convocar a las organizaciones de los sectores social y privado a que manifiesten sus opiniones y propuestas en materia de adaptación y mitigación al cambio climático;
 
 II. Celebrar convenios de concertación con organizaciones sociales y privadas relacionadas con el medio ambiente para fomentar acciones de adaptación y mitigación del cambio climático; el establecimiento, administración y manejo de áreas naturales protegidas; así como para brindar asesoría en actividades de aprovechamiento sustentable de los recursos naturales y en la realización de estudios e investigaciones en la materia y emprender acciones conjuntas;
 

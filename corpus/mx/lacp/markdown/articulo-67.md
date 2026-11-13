@@ -29,7 +29,9 @@ Para ser miembro del Comité de Supervisión será necesario:
 
 I. Tener reconocida experiencia en materias financiera y administrativa;
 
-II. No ser asesor o consultor de alguna Sociedad Financiera Popular; III. No tener litigio pendiente o adeudos vencidos con alguna Sociedad Financiera Popular, Federación o con el [Fondo de Protección](articulo-3o.md);
+II. No ser asesor o consultor de alguna Sociedad Financiera Popular;
+
+III. No tener litigio pendiente o adeudos vencidos con alguna Sociedad Financiera Popular, Federación o con el [Fondo de Protección](articulo-3o.md);
 
 IV. No ser empleado, funcionario o miembro del Consejo de Administración o comisario de alguna Sociedad Financiera Popular, o funcionario o miembro del Consejo de Administración de la Federación;
 

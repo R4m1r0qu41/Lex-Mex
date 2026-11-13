@@ -35,7 +35,9 @@ VII. La aportación de comunicaciones entre particulares;
 
 VIII. El reconocimiento de personas;
 
-IX. La entrega vigilada y las operaciones encubiertas, en el marco de una investigación y en los términos que establezcan los protocolos emitidos para tal efecto por el Fiscal General de Justicia Militar; X. La entrevista a testigos, y
+IX. La entrega vigilada y las operaciones encubiertas, en el marco de una investigación y en los términos que establezcan los protocolos emitidos para tal efecto por el Fiscal General de Justicia Militar;
+
+X. La entrevista a testigos, y
 
 XI. Las demás en las que expresamente no se prevea control judicial.
 

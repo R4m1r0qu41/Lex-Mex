@@ -200,19 +200,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:104:reference:964-966:104:direct",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:104:reference:965-967:104:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpcf:article:104",
     "source_span": "II",
-    "start_char": 964,
-    "end_char": 966,
+    "start_char": 965,
+    "end_char": 967,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
     "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:104",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 964,
-        "end_char": 966
+        "start_char": 965,
+        "end_char": 967
       }
     ],
     "basis": "express_cross_reference",
@@ -626,11 +626,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:191:reference:594-596:16:direct",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:191:reference:595-597:16:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpcf:article:191",
     "source_span": "16",
-    "start_char": 594,
-    "end_char": 596,
+    "start_char": 595,
+    "end_char": 597,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:16",
     "qualifiers": [],
@@ -919,19 +919,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:294:reference:2708-2712:294:direct",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:294:reference:2709-2713:294:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpcf:article:294",
     "source_span": "VIII",
-    "start_char": 2708,
-    "end_char": 2712,
+    "start_char": 2709,
+    "end_char": 2713,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
     "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:294",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "VIII",
-        "start_char": 2708,
-        "end_char": 2712
+        "start_char": 2709,
+        "end_char": 2713
       }
     ],
     "basis": "express_cross_reference",
@@ -1260,19 +1260,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:573:reference:2793-2794:6:direct",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:573:reference:2794-2795:6:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpcf:article:573",
     "source_span": "6",
-    "start_char": 2793,
-    "end_char": 2794,
+    "start_char": 2794,
+    "end_char": 2795,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:6",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VI",
-        "start_char": 2796,
-        "end_char": 2807
+        "start_char": 2797,
+        "end_char": 2808
       }
     ],
     "basis": "express_cross_reference",
@@ -1704,11 +1704,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:863:reference:1399-1402:862:direct",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:863:reference:1400-1403:862:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpcf:article:863",
     "source_span": "862",
-    "start_char": 1399,
-    "end_char": 1402,
+    "start_char": 1400,
+    "end_char": 1403,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
     "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:862",
     "qualifiers": [],
@@ -1720,19 +1720,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:863:reference:2233-2236:862:direct",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:863:reference:2234-2237:862:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpcf:article:863",
     "source_span": "862",
-    "start_char": 2233,
-    "end_char": 2236,
+    "start_char": 2234,
+    "end_char": 2237,
     "target_instrument_id": "urn:lex-mx:federal:code:cnpcf",
     "target_provision_id": "urn:lex-mx:federal:code:cnpcf:article:862",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 2209,
-        "end_char": 2219
+        "start_char": 2210,
+        "end_char": 2220
       }
     ],
     "basis": "express_cross_reference",

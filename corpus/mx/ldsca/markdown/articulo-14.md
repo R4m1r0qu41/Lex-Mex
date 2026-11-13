@@ -35,7 +35,9 @@ VII. Conocer y resolver los asuntos de su competencia de conformidad con esta [L
 
 VIII. Velar por el cumplimiento de la legislación aplicable al Comité Nacional y en su caso, aplicar las sanciones correspondientes en los términos de la misma en el ámbito de su competencia;
 
-IX. Nombrar y remover a propuesta del Director General, a los servidores públicos del organismo que ocupen cargos en las dos jerarquías administrativas inmediatas inferiores a las de aquél, así como aprobar la fijación de sueldos, prestaciones y conceder licencias; X. Analizar y en su caso aprobar, los informes anual y los trimestrales, que rinda el Director General sobre el desempeño del Comité Nacional, con la intervención que corresponda al Comisario;
+IX. Nombrar y remover a propuesta del Director General, a los servidores públicos del organismo que ocupen cargos en las dos jerarquías administrativas inmediatas inferiores a las de aquél, así como aprobar la fijación de sueldos, prestaciones y conceder licencias;
+
+X. Analizar y en su caso aprobar, los informes anual y los trimestrales, que rinda el Director General sobre el desempeño del Comité Nacional, con la intervención que corresponda al Comisario;
 
 XI. Aprobar y ajustar los precios de los bienes y servicios que produzca o preste el Comité Nacional, a fin de incorporarlos a su presupuesto de ingresos;
 
@@ -57,6 +59,8 @@ XIX. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a fa
 
 XX. Aprobar anualmente previo informe del Comisario y dictamen de los auditores externos en su caso, los estados financieros y el estado del ejercicio del presupuesto del organismo y autorizar la publicación de los mismos;
 
-XXI. Controlar y evaluar la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas y las metas sean cumplidas, atendiendo los informes que en materia de control y auditoría les sean turnados, vigilando la implantación de las medidas preventivas y correctivas a que hubiere lugar; XXII. Nombrar y remover a propuesta de su Presidente, al Secretario del órgano de gobierno, quien podrá ser miembro o no de la Junta Directiva, así como designar o remover a propuesta del Director General al Prosecretario del órgano de gobierno, quien deberá ser servidor público del Comité Nacional, y
+XXI. Controlar y evaluar la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas y las metas sean cumplidas, atendiendo los informes que en materia de control y auditoría les sean turnados, vigilando la implantación de las medidas preventivas y correctivas a que hubiere lugar;
+
+XXII. Nombrar y remover a propuesta de su Presidente, al Secretario del órgano de gobierno, quien podrá ser miembro o no de la Junta Directiva, así como designar o remover a propuesta del Director General al Prosecretario del órgano de gobierno, quien deberá ser servidor público del Comité Nacional, y
 
 XXIII. Las demás que le otorguen la presente Ley y las disposiciones jurídico-administrativas aplicables.

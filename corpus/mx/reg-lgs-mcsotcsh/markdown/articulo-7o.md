@@ -7,8 +7,8 @@ provision_type: article
 number: "7o"
 aliases: ["REG-LGS-MCSOTCSH — Artículo 7o"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf
 source_sha256: e77eafda71a4c270f2e75d11f08ebb858e5d09675b4700f56382894b4624bdec
 ---
@@ -27,7 +27,9 @@ III.- La inclusión en acrílico y otras substancias plásticas;
 
 IV.- La conservación permanente mediante tratamiento a base de parafina;
 
-V.- La conservación permanente de esqueletos con fines de docencia; VI.- El embalsamamiento permanente con fines análogos a los de la fracción anterior;
+V.- La conservación permanente de esqueletos con fines de docencia;
+
+VI.- El embalsamamiento permanente con fines análogos a los de la fracción anterior;
 
 VII.- La conservación permanente de órganos y tejidos mediante substancias fijadoras para fines de docencia, y
 

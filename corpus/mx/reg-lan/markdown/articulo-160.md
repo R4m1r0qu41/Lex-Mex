@@ -27,7 +27,9 @@ III. Podrán participar los interesados que demuestren su solvencia económica, 
 
 IV. Las bases del concurso incluirán los criterios con los que se seleccionará el ganador, así como la duración, regulación y terminación del título de concesión respectivo, tomando en cuenta lo señalado para el concurso de las concesiones para el aprovechamiento de aguas nacionales, en lo que les sea aplicable;
 
-V. Junto con la concesión para el aprovechamiento de infraestructura y servicios hidráulicos federales, se podrá otorgar la concesión para el respectivo aprovechamiento de aguas nacionales; VI. El otorgamiento de las concesiones se efectuará en un solo título y se sujetará a un solo concurso conforme a la convocatoria que al efecto se expida por "La Comisión";
+V. Junto con la concesión para el aprovechamiento de infraestructura y servicios hidráulicos federales, se podrá otorgar la concesión para el respectivo aprovechamiento de aguas nacionales;
+
+VI. El otorgamiento de las concesiones se efectuará en un solo título y se sujetará a un solo concurso conforme a la convocatoria que al efecto se expida por "La Comisión";
 
 VII. En igualdad de circunstancias, los usuarios a que se refiere la fracción I, de este artículo, tendrán derecho de preferencia;
 

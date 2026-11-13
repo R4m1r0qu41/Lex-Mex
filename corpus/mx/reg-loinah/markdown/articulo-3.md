@@ -49,7 +49,9 @@ XIV. Coordinación Nacional de Recursos Humanos;
 
 XV. Coordinación Nacional de Recursos Materiales y Servicios;
 
-XVI. Coordinación Nacional de Obras y Proyectos; XVII. Dirección de Estudios Históricos;
+XVI. Coordinación Nacional de Obras y Proyectos;
+
+XVII. Dirección de Estudios Históricos;
 
 XVIII. Dirección de la Biblioteca Nacional de Antropología e Historia;
 

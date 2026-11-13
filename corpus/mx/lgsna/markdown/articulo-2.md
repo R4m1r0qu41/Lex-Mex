@@ -23,7 +23,9 @@ I. Establecer mecanismos de coordinación entre los diversos órganos de combate
 
 II. Establecer las bases mínimas para la prevención de hechos de corrupción y faltas administrativas;
 
-III. Establecer las bases para la emisión de políticas públicas integrales en el combate a la corrupción, así como en la fiscalización y control de los recursos públicos; IV. Establecer las directrices básicas que definan la coordinación de las autoridades competentes para la generación de políticas públicas en materia de prevención, detección, control, sanción, disuasión y combate a la corrupción;
+III. Establecer las bases para la emisión de políticas públicas integrales en el combate a la corrupción, así como en la fiscalización y control de los recursos públicos;
+
+IV. Establecer las directrices básicas que definan la coordinación de las autoridades competentes para la generación de políticas públicas en materia de prevención, detección, control, sanción, disuasión y combate a la corrupción;
 
 V. Regular la organización y funcionamiento del [Sistema Nacional](articulo-3.md), su [Comité Coordinador](articulo-3.md) y su [Secretaría Ejecutiva](articulo-3.md), así como establecer las bases de coordinación entre sus integrantes;
 

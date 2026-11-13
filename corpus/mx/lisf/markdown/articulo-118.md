@@ -29,7 +29,9 @@ IV. Invertir las reservas técnicas, así como los demás recursos que mantengan
 
 V. Administrar las reservas retenidas a Instituciones de Seguros y a entidades aseguradoras del extranjero, correspondientes a las operaciones de reaseguro y reafianzamiento;
 
-VI. Dar en administración a las Instituciones de Seguros cedentes o a las entidades aseguradoras del extranjero, las reservas técnicas constituidas por primas retenidas, correspondientes a operaciones de reaseguro o reafianzamiento; VII. Efectuar inversiones en el extranjero para respaldar las reservas técnicas o en cumplimiento de otros requisitos necesarios, correspondientes a operaciones practicadas fuera del país;
+VI. Dar en administración a las Instituciones de Seguros cedentes o a las entidades aseguradoras del extranjero, las reservas técnicas constituidas por primas retenidas, correspondientes a operaciones de reaseguro o reafianzamiento;
+
+VII. Efectuar inversiones en el extranjero para respaldar las reservas técnicas o en cumplimiento de otros requisitos necesarios, correspondientes a operaciones practicadas fuera del país;
 
 VIII. Constituir depósitos en instituciones de crédito y en bancos del extranjero en los términos de esta Ley;
 

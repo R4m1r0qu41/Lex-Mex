@@ -17,4 +17,4 @@ source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 
 # Artículo 45
 
-La Dirección y Rectoría establecerá un sistema de créditos, el cual permitirá la revalidación de estudios de nivel superior entre las diferentes Instituciones del Sistema Educativo Militar, de conformidad al reglamento en la materia de esta [Ley](articulo-2.md).
+La [Dirección y Rectoría](articulo-2.md) establecerá un sistema de créditos, el cual permitirá la revalidación de estudios de nivel superior entre las diferentes Instituciones del Sistema Educativo Militar, de conformidad al reglamento en la materia de esta [Ley](articulo-2.md).

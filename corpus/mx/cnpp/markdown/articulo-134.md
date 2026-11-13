@@ -23,7 +23,9 @@ I. Resolver los asuntos sometidos a su consideración con la debida diligencia, 
 
 II. Respetar, garantizar y velar por la salvaguarda de los derechos de quienes intervienen en el procedimiento;
 
-III. Guardar reserva sobre los asuntos relacionados con su función, aun después de haber cesado en el ejercicio del cargo; IV. Atender oportuna y debidamente las peticiones dirigidas por los sujetos que intervienen dentro del procedimiento penal;
+III. Guardar reserva sobre los asuntos relacionados con su función, aun después de haber cesado en el ejercicio del cargo;
+
+IV. Atender oportuna y debidamente las peticiones dirigidas por los sujetos que intervienen dentro del procedimiento penal;
 
 V. Abstenerse de presentar en público al imputado o acusado como culpable si no existiera condena;
 

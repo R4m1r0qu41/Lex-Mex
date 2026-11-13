@@ -29,7 +29,9 @@ IV. Los gastos de operación y mantenimiento;
 
 V. Los demás gastos y obligaciones asociadas;
 
-VI. Las obligaciones fiscales correspondientes; VII. El flujo neto, esto es, la diferencia entre los ingresos asociados y los conceptos señalados en las fracciones II a V anteriores; Fracción reformada DOF 05-09-2007
+VI. Las obligaciones fiscales correspondientes;
+
+VII. El flujo neto, esto es, la diferencia entre los ingresos asociados y los conceptos señalados en las fracciones II a V anteriores; Fracción reformada DOF 05-09-2007
 
 VIII. El valor presente neto considerando el horizonte de evaluación y tomando en cuenta el flujo neto a que se refiere la fracción anterior, y Fracción adicionada DOF 05-09-2007
 

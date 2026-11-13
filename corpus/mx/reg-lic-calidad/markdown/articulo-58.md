@@ -17,4 +17,6 @@ source_sha256: d23aedc9ffdb09b9202311f03023241da20445cb45aea855b37bfd9685768861
 
 # Artículo 58
 
-Las sesiones de los Comités Consultivos Nacionales de Normalización deben observar para su desarrollo, lo siguiente: I. Levantar el registro de asistencia y constatar la acreditación de los miembros, así como el quorum necesario para su celebración; II. Lectura y aprobación del orden del día; III. Presentación de los temas a tratar; IV. Deliberación y comentarios de los miembros sobre los temas presentados; V. Consenso o votación, según sea el caso; VI. Aprobación de acuerdos de la sesión por consenso o por voto a favor de la mayoría de los miembros presentes; VII. Aprobación del acta anterior correspondiente, y VIII. Aquellas otras que se establezcan en las reglas de operación.
+Las sesiones de los Comités Consultivos Nacionales de Normalización deben observar para su desarrollo, lo siguiente: I. Levantar el registro de asistencia y constatar la acreditación de los miembros, así como el quorum necesario para su celebración;
+
+II. Lectura y aprobación del orden del día; III. Presentación de los temas a tratar; IV. Deliberación y comentarios de los miembros sobre los temas presentados; V. Consenso o votación, según sea el caso; VI. Aprobación de acuerdos de la sesión por consenso o por voto a favor de la mayoría de los miembros presentes; VII. Aprobación del acta anterior correspondiente, y VIII. Aquellas otras que se establezcan en las reglas de operación.

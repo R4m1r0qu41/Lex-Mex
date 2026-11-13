@@ -10,16 +10,14 @@ generated: true
 temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
-source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+source_sha256: cefb525ae8dfc97a7da40597d2ee918fe254d4bfce88301ff3c9959ced9e6e65
 ---
 
 > Título Tercero · Capítulo III
 
 # Artículo 84
 
-En caso de falta absoluta del Presidente de la República, en tanto el Congreso nombra al presidente interino o substituto, lo que deberá ocurrir en un término no mayor a sesenta días, el Secretario de Gobernación asumirá provisionalmente la titularidad del Poder Ejecutivo. En este caso no será aplicable lo establecido en las fracciones II, III y VI del artículo [82](articulo-82.md) de esta Constitución.
-
-Quien ocupe provisionalmente la Presidencia no podrá remover o designar a los Secretarios de Estado sin autorización previa de la Cámara de Senadores. Asimismo, entregará al Congreso de la Unión un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo. Párrafo reformado DOF 10-02-2014
+En caso de falta absoluta del Presidente de la República, en tanto el Congreso nombra al presidente interino o substituto, lo que deberá ocurrir en un término no mayor a sesenta días, el Secretario de Gobernación asumirá provisionalmente la titularidad del Poder Ejecutivo. En este caso no será aplicable lo establecido en las fracciones II, III y VI del artículo [82](articulo-82.md) de esta Constitución. Quien ocupe provisionalmente la Presidencia no podrá remover o designar a los Secretarios de Estado sin autorización previa de la Cámara de Senadores. Asimismo, entregará al Congreso de la Unión un informe de labores en un plazo no mayor a diez días, contados a partir del momento en que termine su encargo. Párrafo reformado DOF 10-02-2014
 
 Cuando la falta absoluta del Presidente ocurriese en los dos primeros años del período respectivo, si el Congreso de la Unión se encontrase en sesiones y concurriendo, cuando menos, las dos terceras partes del número total de los miembros de cada Cámara, se constituirá inmediatamente en Colegio Electoral y nombrará en escrutinio secreto y por mayoría absoluta de votos, un presidente interino, en los términos que disponga la Ley del Congreso. El mismo Congreso expedirá, dentro de los diez días siguientes a dicho nombramiento, la convocatoria para la elección del Presidente que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de la jornada electoral, un plazo no menor de siete meses ni mayor de nueve. El así electo iniciará su encargo y rendirá protesta ante el Congreso siete días después de concluido el proceso electoral.
 

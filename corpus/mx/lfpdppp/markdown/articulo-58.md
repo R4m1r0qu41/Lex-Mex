@@ -21,7 +21,9 @@ Constituyen infracciones a esta [Ley](articulo-2.md), las conductas llevadas a c
 
 I. No cumplir con la solicitud para el ejercicio de los derechos ARCO de la persona titular, sin razón fundada, en los términos previstos en esta Ley;
 
-II. Actuar con negligencia o dolo durante la sustanciación de las solicitudes para el ejercicio de los derechos ARCO; III. Declarar dolosamente la inexistencia de datos personales, cuando exista total o parcialmente en las bases de datos del responsable;
+II. Actuar con negligencia o dolo durante la sustanciación de las solicitudes para el ejercicio de los derechos ARCO;
+
+III. Declarar dolosamente la inexistencia de datos personales, cuando exista total o parcialmente en las bases de datos del responsable;
 
 IV. Dar tratamiento a los datos personales en contravención a los principios establecidos en la presente Ley;
 

@@ -33,7 +33,9 @@ VI. Registro: El Registro Público del Derecho de Autor;
 
 VII. Diario Oficial: El Diario Oficial de la Federación;
 
-VIII. Código Penal: El Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; IX. Código Civil: El Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal;
+VIII. Código Penal: El Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal;
+
+IX. Código Civil: El Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal;
 
 X. Reserva: La Reserva de Derechos al Uso Exclusivo;
 

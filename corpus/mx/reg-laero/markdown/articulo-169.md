@@ -31,7 +31,9 @@ V. Integrar el reporte del resultado de las verificaciones que realice, para que
 
 VI. Ordenar la emisión de las NOTAM que corresponda;
 
-VII. Presidir el comité local de seguridad aeroportuaria y la comisión coordinadora de autoridades; VIII. Ordenar de manera temporal la suspensión total o parcial de las operaciones del aeródromo civil cuando en términos de la Ley y este Reglamento resulte procedente;
+VII. Presidir el comité local de seguridad aeroportuaria y la comisión coordinadora de autoridades;
+
+VIII. Ordenar de manera temporal la suspensión total o parcial de las operaciones del aeródromo civil cuando en términos de la Ley y este Reglamento resulte procedente;
 
 IX. Ordenar las medidas conducentes para que se realice la investigación de todo incidente o accidente que involucre aeronaves, vehículos terrestres o personas dentro de los límites de los aeródromos de su jurisdicción, y
 

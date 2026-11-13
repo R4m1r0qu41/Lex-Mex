@@ -19,7 +19,9 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 La Comisión para suspender o cancelar el registro de un actuario autorizado para dictaminar planes de pensiones o de un agente promotor, deberá proceder conforme a lo siguiente:
 
-I. Notificará personalmente al interesado la determinación de que se trate; II. Concederá al interesado un plazo de quince días hábiles contados a partir del día siguiente de que surta efectos la notificación señalada en la fracción anterior, para manifestar lo que a su derecho convenga ofreciendo o acompañando, en su caso, las pruebas que considere convenientes, y
+I. Notificará personalmente al interesado la determinación de que se trate;
+
+II. Concederá al interesado un plazo de quince días hábiles contados a partir del día siguiente de que surta efectos la notificación señalada en la fracción anterior, para manifestar lo que a su derecho convenga ofreciendo o acompañando, en su caso, las pruebas que considere convenientes, y
 
 III. Dictará y notificará la resolución correspondiente considerando la gravedad de la falta cometida, los argumentos hechos valer y las pruebas ofrecidas.
 

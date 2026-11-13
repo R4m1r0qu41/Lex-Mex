@@ -21,7 +21,9 @@ source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2
 
 I. Desempeñar el cargo con apego a la Constitución, la Ley, este Reglamento y demás disposiciones aplicables y participar en todas las actividades inherentes al mismo, con la dignidad y responsabilidad que corresponden a su investidura;
 
-II. Asistir puntualmente a las sesiones y reuniones del Pleno, de los órganos directivos a que se les convoca, de las comisiones o comités de los que forman parte, y permanecer en ellas hasta su conclusión; así como participar en las votaciones; III. Desempeñar las funciones y realizar las actividades para las cuales son designados o electos por los órganos del Senado;
+II. Asistir puntualmente a las sesiones y reuniones del Pleno, de los órganos directivos a que se les convoca, de las comisiones o comités de los que forman parte, y permanecer en ellas hasta su conclusión; así como participar en las votaciones;
+
+III. Desempeñar las funciones y realizar las actividades para las cuales son designados o electos por los órganos del Senado;
 
 IV. Cuidar que los recursos de que disponen para el ejercicio de su cargo se destinen a los fines para los que son asignados;
 

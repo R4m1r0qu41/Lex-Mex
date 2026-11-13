@@ -23,7 +23,9 @@ A la solicitud respectiva deberán adjuntarse:
 
 I. Los proyectos de acta de las asambleas de accionistas tanto de la [Sociedad Controladora](articulo-5o.md), así como de las entidades financieras que se pretendan integrar al Grupo Financiero, que contengan los acuerdos relativos a la incorporación;
 
-II. La estructura general del Grupo Financiero posterior a la incorporación; III. El proyecto de estatutos de la o las entidades financieras que se incorporarán. Tratándose de entidades o sociedades ya constituidas, instrumento público otorgado ante fedatario público que contenga los estatutos vigentes, así como los proyectos de modificaciones que se efectuarían con motivo de su integración;
+II. La estructura general del Grupo Financiero posterior a la incorporación;
+
+III. El proyecto de estatutos de la o las entidades financieras que se incorporarán. Tratándose de entidades o sociedades ya constituidas, instrumento público otorgado ante fedatario público que contenga los estatutos vigentes, así como los proyectos de modificaciones que se efectuarían con motivo de su integración;
 
 IV. El proyecto de modificación al convenio de responsabilidades correspondiente;
 

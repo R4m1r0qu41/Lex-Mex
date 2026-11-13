@@ -25,7 +25,9 @@ II. Recolectar del medio natural reproductores, larvas, postlarvas, crías, huev
 
 III. Operar barcos-fábrica o plantas flotantes;
 
-IV. Explotar, siendo titular de una concesión o permiso, una especie o grupo de especies, en volúmenes mayores o fuera de lo establecido en las normas oficiales o en el título respectivo; V. Facturar o amparar productos pesqueros, que no hubieran sido obtenidos en los términos de su concesión o permiso por sus titulares;
+IV. Explotar, siendo titular de una concesión o permiso, una especie o grupo de especies, en volúmenes mayores o fuera de lo establecido en las normas oficiales o en el título respectivo;
+
+V. Facturar o amparar productos pesqueros, que no hubieran sido obtenidos en los términos de su concesión o permiso por sus titulares;
 
 VI. Realizar actividades de acuacultura o pesca de fomento, didáctica o deportivo-recreativa, sin contar con la concesión o el permiso respectivo;
 
@@ -59,7 +61,9 @@ XX. Omitir el uso de la bitácora de pesca, alterar o anotar con falsedad los da
 
 XXI. Comercializar las capturas de la pesca deportivo-recreativa;
 
-XXII. No proporcionar la información en los términos y plazos que solicite la Secretaría o incurrir en falsedad al rendir ésta; XXIII. Instalar artes de pesca fija, sin contar con el permiso correspondiente;
+XXII. No proporcionar la información en los términos y plazos que solicite la Secretaría o incurrir en falsedad al rendir ésta;
+
+XXIII. Instalar artes de pesca fija, sin contar con el permiso correspondiente;
 
 XXIV. Introducir o manejar bajo cualquier forma, especies o material biológico en aguas de jurisdicción federal, que causen daño, alteren o pongan en peligro la conservación de los recursos pesqueros;
 

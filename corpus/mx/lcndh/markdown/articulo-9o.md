@@ -23,7 +23,9 @@ I. Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de su
 
 II. Tener cumplidos treinta y cinco años de edad, el día de su elección;
 
-III. Contar con experiencia en materia de derechos humanos, o actividades afines reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales; IV. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en el año anterior a su designación;
+III. Contar con experiencia en materia de derechos humanos, o actividades afines reconocidas por las leyes mexicanas y los instrumentos jurídicos internacionales;
+
+IV. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en el año anterior a su designación;
 
 V. No desempeñar ni haber desempeñado cargo de Secretario o Subsecretario de Estado, Procurador o Fiscal General de la República, Gobernador, o procurador o Fiscal general de justicia de alguna entidad federativa o jefe de gobierno de la Ciudad de México, en el año anterior a su elección; Fracción reformada DOF 20-05-2021
 

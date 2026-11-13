@@ -21,4 +21,6 @@ Bases de la capacitación Las bases de la capacitación son:
 
 I. El adiestramiento y los conocimientos del propio oficio o actividad;
 
-II. La vocación, y III. El desarrollo de aptitudes, habilidades y competencias laborales.
+II. La vocación, y
+
+III. El desarrollo de aptitudes, habilidades y competencias laborales.

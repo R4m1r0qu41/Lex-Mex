@@ -47,7 +47,9 @@ f) El número de Acreditación;
 
 g) El nombre del responsable del Laboratorio de Pruebas, y
 
-h) El nombre de la persona encargada de realizar los trámites de Aprobación del Laboratorio de Pruebas, así como el cargo que ocupa en la organización, su teléfono y fax; III. El alcance de la Aprobación que solicita, lo cual se refiere a:
+h) El nombre de la persona encargada de realizar los trámites de Aprobación del Laboratorio de Pruebas, así como el cargo que ocupa en la organización, su teléfono y fax;
+
+III. El alcance de la Aprobación que solicita, lo cual se refiere a:
 
 a) Las materias a aprobar, y
 

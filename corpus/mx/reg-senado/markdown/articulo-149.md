@@ -23,7 +23,9 @@ source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2
 
 I. Quien presenta un proyecto de dictamen o resolución hace una intervención inicial hasta por quince minutos. De ser necesario, la comisión puede ampliar dicho lapso;
 
-II. Cada senador interviene hasta por un tiempo máximo de quince minutos; III. Una vez que hacen uso de la palabra quienes la han solicitado, el Presidente consulta si el asunto está suficientemente discutido. Si la respuesta es negativa, se continúa la discusión mientras haya senadores inscritos en la lista de oradores;
+II. Cada senador interviene hasta por un tiempo máximo de quince minutos;
+
+III. Una vez que hacen uso de la palabra quienes la han solicitado, el Presidente consulta si el asunto está suficientemente discutido. Si la respuesta es negativa, se continúa la discusión mientras haya senadores inscritos en la lista de oradores;
 
 IV. Los senadores pueden reservar artículos de un proyecto de dictamen o resolución para su discusión en lo particular; en este caso, el tiempo máximo de cada intervención es hasta de diez minutos; y
 

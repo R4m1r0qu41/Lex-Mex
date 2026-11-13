@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "VIII",
     "start_char": 988,
-    "end_char": 1185,
+    "end_char": 1186,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "IX",
-    "start_char": 1185,
-    "end_char": 1348,
+    "start_char": 1186,
+    "end_char": 1349,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "X",
-    "start_char": 1348,
-    "end_char": 1516,
+    "start_char": 1349,
+    "end_char": 1517,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XI",
-    "start_char": 1516,
-    "end_char": 1688,
+    "start_char": 1517,
+    "end_char": 1689,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XII",
-    "start_char": 1688,
-    "end_char": 2061,
+    "start_char": 1689,
+    "end_char": 2062,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XIII",
-    "start_char": 2061,
-    "end_char": 2144,
+    "start_char": 2062,
+    "end_char": 2145,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XIV",
-    "start_char": 2144,
-    "end_char": 2223,
+    "start_char": 2145,
+    "end_char": 2224,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XV",
-    "start_char": 2223,
-    "end_char": 2347,
+    "start_char": 2224,
+    "end_char": 2348,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XVI",
-    "start_char": 2347,
-    "end_char": 2514,
+    "start_char": 2348,
+    "end_char": 2515,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XVII",
-    "start_char": 2514,
-    "end_char": 2708,
+    "start_char": 2515,
+    "end_char": 2709,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XVIII",
-    "start_char": 2708,
-    "end_char": 2802,
+    "start_char": 2709,
+    "end_char": 2803,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XIX",
-    "start_char": 2802,
-    "end_char": 2939,
+    "start_char": 2803,
+    "end_char": 2940,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XX",
-    "start_char": 2939,
-    "end_char": 3424,
+    "start_char": 2940,
+    "end_char": 3425,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XXI",
-    "start_char": 3424,
-    "end_char": 3642,
+    "start_char": 3425,
+    "end_char": 3643,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XXII",
-    "start_char": 3642,
-    "end_char": 3872,
+    "start_char": 3643,
+    "end_char": 3873,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XXIII",
-    "start_char": 3872,
-    "end_char": 3945,
+    "start_char": 3873,
+    "end_char": 3946,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
     "defining_provision_id": "urn:lex-mx:federal:statute:lnsijpa:article:3",
     "fraction": "XXIV",
-    "start_char": 3945,
-    "end_char": 4050,
+    "start_char": 3946,
+    "end_char": 4051,
     "basis": "express_definition"
   }
 ]

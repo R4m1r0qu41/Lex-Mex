@@ -19,7 +19,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 Por los servicios en materia de acreditación de prestador de servicio de certificación para la emisión de certificados digitales, se pagarán derechos conforme a las siguientes cuotas:
 
-I. Por el trámite y estudio de la solicitud para acreditación como prestador del servicio de certificación para la emisión de certificados digitales ........................................ $75,052.42 II. Por la acreditación como prestador del servicio de certificación para la emisión de certificados digitales ............................................................................................................ $359,642.26
+I. Por el trámite y estudio de la solicitud para acreditación como prestador del servicio de certificación para la emisión de certificados digitales ........................................ $75,052.42
+
+II. Por la acreditación como prestador del servicio de certificación para la emisión de certificados digitales ............................................................................................................ $359,642.26
 
 III. Por el cese voluntario como prestador del servicio de certificación para la emisión de certificados digitales ......................................................................................... $263,625.77
 

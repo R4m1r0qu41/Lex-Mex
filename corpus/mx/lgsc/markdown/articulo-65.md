@@ -7,8 +7,8 @@ provision_type: article
 number: "65"
 aliases: ["LGSC — Artículo 65"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf
 source_sha256: 7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f
 ---
@@ -25,7 +25,9 @@ II.- Para la ejecución de obras determinadas;
 
 III.- Para trabajos eventuales o por tiempo determinado o indeterminado, distintos a los requeridos por el objeto social de la sociedad cooperativa;
 
-IV.- Para la sustitución temporal de un socio hasta por seis meses en un año, y V.- Por la necesidad de incorporar personal especializado altamente calificado.
+IV.- Para la sustitución temporal de un socio hasta por seis meses en un año, y
+
+V.- Por la necesidad de incorporar personal especializado altamente calificado.
 
 Cuando la sociedad requiera por necesidades de expansión admitir a más socios, el Consejo de Administración tendrá la obligación de emitir una convocatoria para tal efecto, teniendo preferencia para ello, sus trabajadores, a quienes se les valorará por su antigüedad, desempeño, capacidad y en su caso por su especialización.
 

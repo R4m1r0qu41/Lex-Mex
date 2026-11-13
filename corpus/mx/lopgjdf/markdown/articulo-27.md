@@ -35,7 +35,9 @@ VII. Recibir en acuerdo a los titulares de las unidades administrativas de su ad
 
 VIII. Participar, en el ámbito de sus respectivas competencias, en cualquier etapa de la averiguación previa o del proceso;
 
-IX. Solicitar al Director General de Política y Estadística Criminal, información sobre los índices de cargas de trabajo, de productividad y de probidad, de cada área de su adscripción; X. Proporcionar, atendiendo a los preceptos de transparencia y acceso a la información pública, los datos y cooperación técnica que les sean solicitados por otras dependencias o entidades, de acuerdo con las disposiciones legales y políticas establecidas;
+IX. Solicitar al Director General de Política y Estadística Criminal, información sobre los índices de cargas de trabajo, de productividad y de probidad, de cada área de su adscripción;
+
+X. Proporcionar, atendiendo a los preceptos de transparencia y acceso a la información pública, los datos y cooperación técnica que les sean solicitados por otras dependencias o entidades, de acuerdo con las disposiciones legales y políticas establecidas;
 
 XI. Planear y coordinar los programas y medidas necesarias para prevenir que las áreas que les estén adscritas no incurran en rezago;
 

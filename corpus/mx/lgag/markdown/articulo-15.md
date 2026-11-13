@@ -25,6 +25,8 @@ II. Diseñar políticas públicas transversales que instrumenten acciones afirma
 
 III. Incorporar la perspectiva de interseccionalidad y de género de manera transversal en las estrategias, planes y programas para la disposición del agua por diferencia de género;
 
-IV. Establecer acciones efectivas para garantizar la integridad física y la salud de las mujeres, las niñas y las adolescentes en los servicios de agua potable e infraestructura sanitaria; V. Proteger de forma efectiva las aguas que usan las mujeres en las actividades productivas, de traspatio y para uso personal, y
+IV. Establecer acciones efectivas para garantizar la integridad física y la salud de las mujeres, las niñas y las adolescentes en los servicios de agua potable e infraestructura sanitaria;
+
+V. Proteger de forma efectiva las aguas que usan las mujeres en las actividades productivas, de traspatio y para uso personal, y
 
 VI. Garantizar que la falta de agua potable, en las instituciones educativas o en los hogares, no limite ni impida a niñas, niños y adolescentes el pleno ejercicio de sus derechos humanos, asegurando en todo momento condiciones de higiene, salud y dignidad. En el caso de niñas, adolescentes y personas menstruantes se deberá garantizar de manera prioritaria el acceso suficiente y adecuado al agua para el ejercicio del derecho a una menstruación digna.

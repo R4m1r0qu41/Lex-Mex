@@ -95,8 +95,9 @@ LOAD-BEARING GOTCHAS
 
 WORKING WITH ME
 I am the protocol/system designer here, not a software engineer.
-- Surface contradictions and unresolved semantic or legal questions
-  explicitly; do not resolve ambiguity silently.
+- Surface contradictions explicitly; do not resolve ambiguity silently. Resolve
+  non-legal questions from the surrounding context and record the decision; bring
+  only strict legal questions to JRH (see `AGENTS.md`, "Decision routing").
 - Surgical, patch-style edits; leave untouched sections intact.
 - Add a regression fixture for every material parser defect.
 - Update schemas, Rust types, validators, fixtures, and documentation

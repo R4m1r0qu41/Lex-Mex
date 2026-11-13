@@ -7,8 +7,8 @@ provision_type: article
 number: "45"
 aliases: ["REG-LPESCA — Artículo 45"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPesca.pdf
 source_sha256: e5c0ecb4328043b7090ee5d73e982d6a04410f1330f6fdb350a7a34527eb2e59
 ---
@@ -33,7 +33,9 @@ VI. Respetar las condiciones técnicas y económicas de explotación de cada esp
 
 VII. Coadyuvar en la preservación del medio ecológico y la conservación de especies, así como apoyar los programas de repoblamiento del medio natural, en los términos y condiciones que fije la Secretaría;
 
-VIII. Llenar y firmar el formato de aviso de arribo al desembarque de los productos capturados, anotando todos los datos que en el mismo se piden, y presentarlo a la oficina de la Secretaría más cercana, dentro de las setenta y dos horas siguientes a la descarga; Reforma 28-01-2004 IX. Llevar a bordo de las embarcaciones pesqueras de más de 10 toneladas de registro bruto, la bitácora de pesca y entregarla a la autoridad competente, junto con el aviso de arribo. En el caso de embarcaciones con menor tonelaje del señalado anteriormente, la Secretaría determinará el cumplimiento de esta obligación a través de las normas respectivas;
+VIII. Llenar y firmar el formato de aviso de arribo al desembarque de los productos capturados, anotando todos los datos que en el mismo se piden, y presentarlo a la oficina de la Secretaría más cercana, dentro de las setenta y dos horas siguientes a la descarga; Reforma 28-01-2004
+
+IX. Llevar a bordo de las embarcaciones pesqueras de más de 10 toneladas de registro bruto, la bitácora de pesca y entregarla a la autoridad competente, junto con el aviso de arribo. En el caso de embarcaciones con menor tonelaje del señalado anteriormente, la Secretaría determinará el cumplimiento de esta obligación a través de las normas respectivas;
 
 X. Proporcionar a las autoridades competentes la información sobre los métodos y técnicas empleados, los hallazgos, investigaciones, estudios y nuevos proyectos relacionados con la actividad pesquera, así como cualquier otra información que se les requiera, en los términos de las disposiciones legales aplicables, sin menoscabo de los derechos de propiedad intelectual que pudieran surgir.
 

@@ -33,7 +33,9 @@ VI. Solicitar las prácticas de las diligencias necesarias para el debido ejerci
 
 VII. Planificar, programar, coordinar, vigilar y evaluar en el ámbito de su competencia las acciones de la unidad dedicada a la atención de violencia intrafamiliar;
 
-VIII. Turnar a las unidades de investigación de la Procuraduría, los informes y documentos que se requieran, cuando se estime que deba iniciarse averiguación previa por la comisión de hechos delictivos; IX. Apoyar las actividades del Centro de Estancia Transitoria para Niños y Niñas en el ámbito de su competencia;
+VIII. Turnar a las unidades de investigación de la Procuraduría, los informes y documentos que se requieran, cuando se estime que deba iniciarse averiguación previa por la comisión de hechos delictivos;
+
+IX. Apoyar las actividades del Centro de Estancia Transitoria para Niños y Niñas en el ámbito de su competencia;
 
 X. Establecer y aplicar criterios para brindar el servicio de apoyo legal, psicológico y social a las personas involucradas en actos de violencia intrafamiliar;
 

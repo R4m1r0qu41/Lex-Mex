@@ -21,7 +21,9 @@ El acuerdo de realización de trabajos por administración directa a que hace re
 
 I. Descripción pormenorizada de los trabajos a ejecutar;
 
-II. Datos relativos a la autorización de la inversión respectiva; III. Importe total de los trabajos y, en su caso, los montos por ejercer en cada ejercicio;
+II. Datos relativos a la autorización de la inversión respectiva;
+
+III. Importe total de los trabajos y, en su caso, los montos por ejercer en cada ejercicio;
 
 IV. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha de inicio y conclusión de los mismos;
 

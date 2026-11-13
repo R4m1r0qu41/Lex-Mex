@@ -31,4 +31,6 @@ V. Formular propuestas a las dependencias competentes sobre la asignación de lo
 
 VI. Apoyar la coordinación entre las instituciones de la Administración Pública Federal para formar y capacitar a su personal en materia igualdad entre mujeres y hombres;
 
-VII. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres, y VIII. Las demás, que se requieran para el cumplimiento de los objetivos del [Sistema Nacional](articulo-5.md) y las que determinen las disposiciones generales aplicables.
+VII. Impulsar la participación de la sociedad civil en la promoción de la igualdad entre mujeres y hombres, y
+
+VIII. Las demás, que se requieran para el cumplimiento de los objetivos del [Sistema Nacional](articulo-5.md) y las que determinen las disposiciones generales aplicables.

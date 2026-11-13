@@ -8,7 +8,7 @@ number: "12"
 aliases: ["LOINAH — Artículo 12"]
 generated: true
 temporal_status: repealed
-review_status: not_analyzed
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf
 source_sha256: 8704630cb4ee190962763b15185f7f277a2dadb5441080601fe7b685b7f7ae54
 ---

@@ -39,7 +39,9 @@ A fin de que el Instituto pueda individualizar dichos descuentos, los patrones d
 
 IV.- Proporcionar al Instituto los elementos necesarios para precisar la existencia, naturaleza y cuantía de las obligaciones a su cargo, establecidas en esta Ley y sus disposiciones reglamentarias; Fracción adicionada DOF 06-01-1997
 
-V.- Permitir las inspecciones y visitas domiciliarias que practique el Instituto, las que se sujetarán a lo establecido por esta Ley, el Código Fiscal de la Federación y sus disposiciones reglamentarias. A efecto de evitar duplicidad de acciones, el Instituto podrá convenir con el Instituto Mexicano del Seguro Social la coordinación de estas acciones fiscales; Fracción adicionada DOF 06-01-1997 VI.- Atender los requerimientos de pago e información que les formule el Instituto a través de cualquier medio, incluyendo los electrónicos, que el Instituto ponga a su alcance, de conformidad con las disposiciones legales y reglamentarias correspondientes.
+V.- Permitir las inspecciones y visitas domiciliarias que practique el Instituto, las que se sujetarán a lo establecido por esta Ley, el Código Fiscal de la Federación y sus disposiciones reglamentarias. A efecto de evitar duplicidad de acciones, el Instituto podrá convenir con el Instituto Mexicano del Seguro Social la coordinación de estas acciones fiscales; Fracción adicionada DOF 06-01-1997
+
+VI.- Atender los requerimientos de pago e información que les formule el Instituto a través de cualquier medio, incluyendo los electrónicos, que el Instituto ponga a su alcance, de conformidad con las disposiciones legales y reglamentarias correspondientes.
 
 A los medios electrónicos a los que se refiere el párrafo anterior le será aplicable, en lo conducente, lo dispuesto en el Código Fiscal de la Federación; Fracción adicionada DOF 06-01-1997. Reformada DOF 06-01-2016
 

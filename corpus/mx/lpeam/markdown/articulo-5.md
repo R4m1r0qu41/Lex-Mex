@@ -17,7 +17,9 @@ source_sha256: 91c9521ab87e22ff0a199a3a017e0d22449cdf59dfc788f6e550a1833717f2df
 
 # Artículo 5
 
-Para los efectos de la presente Ley, se entenderá por: I. Aeronave en situación de emergencia: Aeronave que informa o activa un código transponder para reportar fallas de comunicación, emergencias generales o interferencias ilícitas;
+Para los efectos de la presente Ley, se entenderá por:
+
+I. Aeronave en situación de emergencia: Aeronave que informa o activa un código transponder para reportar fallas de comunicación, emergencias generales o interferencias ilícitas;
 
 II. Aeronave interceptora: Aeronave de Estado que lleva a cabo la interceptación de otra aeronave;
 
@@ -45,7 +47,9 @@ XIII. Secretaría: Secretaría de la Defensa Nacional;
 
 XIV. Seguimiento: Contacto continuo visual, electro-óptico o por medio de radar de una aeronave, durante toda su ruta, cuando no se tiene identificada una traza de interés, o una aeronave en vuelo no autorizado, o en vuelo clandestino;
 
-XV. Seguridad del Espacio Aéreo: Las acciones destinadas a la protección del Espacio Aéreo Mexicano frente a amenazas tradicionales y especializadas, como las relacionadas con la delincuencia organizada transnacional, el problema mundial de las drogas, la corrupción, el lavado de activos, el tráfico de armas y las conexiones, entre otras; XVI. Sistema: Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano;
+XV. Seguridad del Espacio Aéreo: Las acciones destinadas a la protección del Espacio Aéreo Mexicano frente a amenazas tradicionales y especializadas, como las relacionadas con la delincuencia organizada transnacional, el problema mundial de las drogas, la corrupción, el lavado de activos, el tráfico de armas y las conexiones, entre otras;
+
+XVI. Sistema: Sistema de Vigilancia y Protección del Espacio Aéreo Mexicano;
 
 XVII. Zona de Identificación de Defensa Aérea: Área delimitada por la [Secretaría](articulo-5.md) dentro del Espacio Aéreo Mexicano para llevar a cabo procedimientos especiales de identificación y notificación de aeronaves, sin menoscabo de los relacionados con la prestación de servicios de tránsito aéreo, y
 

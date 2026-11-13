@@ -55,75 +55,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:3982-4000",
+    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:3983-4001",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 3982,
-    "end_char": 4000
+    "start_char": 3983,
+    "end_char": 4001
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:4599-4617",
+    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:4600-4618",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 4599,
-    "end_char": 4617
+    "start_char": 4600,
+    "end_char": 4618
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:4956-4974",
+    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:4957-4975",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 4956,
-    "end_char": 4974
+    "start_char": 4957,
+    "end_char": 4975
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:5032-5050",
+    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:5033-5051",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 5032,
-    "end_char": 5050
+    "start_char": 5033,
+    "end_char": 5051
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:5756-5774",
+    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:5757-5775",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 5756,
-    "end_char": 5774
+    "start_char": 5757,
+    "end_char": 5775
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:6318-6336",
+    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:6319-6337",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 6318,
-    "end_char": 6336
+    "start_char": 6319,
+    "end_char": 6337
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:6817-6835",
+    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:6818-6836",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 6817,
-    "end_char": 6835
+    "start_char": 6818,
+    "end_char": 6836
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:8022-8040",
+    "id": "urn:lex-mx:federal:statute:lgn:article:9:term-usage:8024-8042",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:9",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 8022,
-    "end_char": 8040
+    "start_char": 8024,
+    "end_char": 8042
   },
   {
     "schema_version": "0.1.0",
@@ -136,30 +136,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:13:term-usage:270-280",
-    "provision_id": "urn:lex-mx:federal:statute:lgn:article:13",
-    "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
-    "span": "Secretaría",
-    "start_char": 270,
-    "end_char": 280
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgn:article:14:term-usage:25-35",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:14",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
     "start_char": 25,
     "end_char": 35
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:14:term-usage:1558-1568",
-    "provision_id": "urn:lex-mx:federal:statute:lgn:article:14",
-    "term_id": "urn:lex-mx:federal:statute:lgn:term:comandante",
-    "span": "Comandante",
-    "start_char": 1558,
-    "end_char": 1568
   },
   {
     "schema_version": "0.1.0",
@@ -199,174 +181,174 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:952-962",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:953-963",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 952,
-    "end_char": 962
+    "start_char": 953,
+    "end_char": 963
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:1181-1191",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:1182-1192",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1181,
-    "end_char": 1191
+    "start_char": 1182,
+    "end_char": 1192
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:1453-1463",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:1454-1464",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1453,
-    "end_char": 1463
+    "start_char": 1454,
+    "end_char": 1464
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:2025-2035",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:2026-2036",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2025,
-    "end_char": 2035
+    "start_char": 2026,
+    "end_char": 2036
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:2289-2299",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:2290-2300",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretario",
     "span": "Secretario",
-    "start_char": 2289,
-    "end_char": 2299
+    "start_char": 2290,
+    "end_char": 2300
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:2518-2528",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:2519-2529",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2518,
-    "end_char": 2528
+    "start_char": 2519,
+    "end_char": 2529
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:3256-3266",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:3257-3267",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretario",
     "span": "Secretario",
-    "start_char": 3256,
-    "end_char": 3266
+    "start_char": 3257,
+    "end_char": 3267
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:3565-3575",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:3566-3576",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3565,
-    "end_char": 3575
+    "start_char": 3566,
+    "end_char": 3576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:3719-3729",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:3720-3730",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3719,
-    "end_char": 3729
+    "start_char": 3720,
+    "end_char": 3730
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:3981-3991",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:3982-3992",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3981,
-    "end_char": 3991
+    "start_char": 3982,
+    "end_char": 3992
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:4034-4044",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:4035-4045",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4034,
-    "end_char": 4044
+    "start_char": 4035,
+    "end_char": 4045
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:4216-4226",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:4218-4228",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4216,
-    "end_char": 4226
+    "start_char": 4218,
+    "end_char": 4228
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:4345-4355",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:4347-4357",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4345,
-    "end_char": 4355
+    "start_char": 4347,
+    "end_char": 4357
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:4752-4762",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:4754-4764",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4752,
-    "end_char": 4762
+    "start_char": 4754,
+    "end_char": 4764
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:5030-5040",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:5032-5042",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretario",
     "span": "Secretario",
-    "start_char": 5030,
-    "end_char": 5040
+    "start_char": 5032,
+    "end_char": 5042
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:5517-5527",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:5519-5529",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5517,
-    "end_char": 5527
+    "start_char": 5519,
+    "end_char": 5529
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:5683-5693",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:5685-5695",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 5683,
-    "end_char": 5693
+    "start_char": 5685,
+    "end_char": 5695
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:6469-6479",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:6471-6481",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6469,
-    "end_char": 6479
+    "start_char": 6471,
+    "end_char": 6481
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:7287-7297",
+    "id": "urn:lex-mx:federal:statute:lgn:article:16:term-usage:7289-7299",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:16",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:secretaria",
     "span": "Secretaría",
-    "start_char": 7287,
-    "end_char": 7297
+    "start_char": 7289,
+    "end_char": 7299
   },
   {
     "schema_version": "0.1.0",
@@ -586,21 +568,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:65:term-usage:1844-1862",
+    "id": "urn:lex-mx:federal:statute:lgn:article:65:term-usage:1845-1863",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:65",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 1844,
-    "end_char": 1862
+    "start_char": 1845,
+    "end_char": 1863
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgn:article:65:term-usage:2216-2234",
+    "id": "urn:lex-mx:federal:statute:lgn:article:65:term-usage:2217-2235",
     "provision_id": "urn:lex-mx:federal:statute:lgn:article:65",
     "term_id": "urn:lex-mx:federal:statute:lgn:term:ministerio-publico",
     "span": "Ministerio Público",
-    "start_char": 2216,
-    "end_char": 2234
+    "start_char": 2217,
+    "end_char": 2235
   },
   {
     "schema_version": "0.1.0",

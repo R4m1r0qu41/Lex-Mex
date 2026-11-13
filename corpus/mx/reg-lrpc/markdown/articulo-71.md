@@ -23,6 +23,8 @@ I. Realizar entrevistas entre el refugiado y un servidor público al que le ser�
 
 II. Establecer requisitos que el refugiado debe satisfacer oportunamente con objeto de gestionar los apoyos o trámite que solicite, los cuales deberán constar en el plan de asistencia e integración o bien le serán informados al momento de solicitar la entrevista;
 
-III. Proceder a cancelar la solicitud de apoyo, en caso que el refugiado no se presente oportunamente a las entrevistas previamente programadas o bien no cumpla con los requisitos que le hayan sido fijados. En este supuesto, el refugiado deberá formular una nueva solicitud; IV. Realizar las gestiones ante las instituciones competentes para la debida atención de las necesidades del refugiado, y
+III. Proceder a cancelar la solicitud de apoyo, en caso que el refugiado no se presente oportunamente a las entrevistas previamente programadas o bien no cumpla con los requisitos que le hayan sido fijados. En este supuesto, el refugiado deberá formular una nueva solicitud;
+
+IV. Realizar las gestiones ante las instituciones competentes para la debida atención de las necesidades del refugiado, y
 
 V. Tratándose de niñas, niños o adolescentes no acompañados, coordinar acciones con la institución que asuma su atención y cuidados.

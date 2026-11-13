@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf
 source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 ---
 
+> Título Séptimo · Capítulo Cuarto
+
 # Artículo 115
 
 El arbitraje podrá preverse en cláusula expresa en el contrato o por convenio escrito posterior a su celebración. En las políticas, bases y lineamientos deberá establecerse el área o la persona servidora pública responsable para determinar la conveniencia de incluir dicha cláusula o firmar el convenio correspondiente.

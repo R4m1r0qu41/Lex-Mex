@@ -17,4 +17,4 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 14
 
-Los refugiados reconocidos bajo los supuestos de la fracción III del artículo [13](articulo-13.md) de esta Ley, que previo a su reconocimiento hayan generado derechos de residencia, podrán optar por mantener su situación migratoria o acogerse a lo dispuesto por esta Ley y su reglamento.
+Los refugiados reconocidos bajo los supuestos de la fracción III del artículo [13](articulo-13.md) de esta [Ley](articulo-2.md), que previo a su reconocimiento hayan generado derechos de residencia, podrán optar por mantener su situación migratoria o acogerse a lo dispuesto por esta Ley y su reglamento.

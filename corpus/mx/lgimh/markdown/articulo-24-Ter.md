@@ -25,7 +25,9 @@ II. Una persona representante de la Suprema Corte de Justicia de la Nación;
 
 III. Una persona representante del Tribunal Federal de Justicia Administrativa;
 
-IV. La persona diputada que presida la Comisión de [Igualdad de Género](articulo-5.md) de la Cámara de Diputados; V. La persona senadora que presida la Comisión para la Igualdad de Género del Senado de la República;
+IV. La persona diputada que presida la Comisión de [Igualdad de Género](articulo-5.md) de la Cámara de Diputados;
+
+V. La persona senadora que presida la Comisión para la Igualdad de Género del Senado de la República;
 
 VI. Una persona representante del Instituto Nacional Electoral;
 

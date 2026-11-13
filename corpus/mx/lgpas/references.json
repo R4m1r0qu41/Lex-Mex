@@ -8,14 +8,7 @@
     "end_char": 83,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:27",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XXIX",
-        "start_char": 357,
-        "end_char": 370
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -102,11 +95,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:reference:1700-1702:74:direct",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:reference:1701-1703:74:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "source_span": "74",
-    "start_char": 1700,
-    "end_char": 1702,
+    "start_char": 1701,
+    "end_char": 1703,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "target_provision_id": "urn:lex-mx:federal:statute:lgpas:article:74",
     "qualifiers": [],
@@ -118,11 +111,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:reference:1921-1923:75:direct",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:reference:1922-1924:75:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "source_span": "75",
-    "start_char": 1921,
-    "end_char": 1923,
+    "start_char": 1922,
+    "end_char": 1924,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "target_provision_id": "urn:lex-mx:federal:statute:lgpas:article:75",
     "qualifiers": [],
@@ -134,19 +127,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpas:article:132:reference:4121-4123:75:direct",
+    "id": "urn:lex-mx:federal:statute:lgpas:article:132:reference:4123-4125:75:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgpas:article:132",
     "source_span": "75",
-    "start_char": 4121,
-    "end_char": 4123,
+    "start_char": 4123,
+    "end_char": 4125,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "target_provision_id": "urn:lex-mx:federal:statute:lgpas:article:75",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "párrafo primero",
-        "start_char": 4092,
-        "end_char": 4107
+        "start_char": 4094,
+        "end_char": 4109
       }
     ],
     "basis": "express_cross_reference",

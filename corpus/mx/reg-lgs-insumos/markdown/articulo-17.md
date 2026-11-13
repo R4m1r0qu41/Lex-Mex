@@ -25,6 +25,8 @@ II. Cuando se utilicen medios de transporte público, los Insumos estarán envas
 
 III. Las cámaras de refrigeración deberán tener control gráfico de la temperatura y sus puertas permanecerán abiertas el mínimo de tiempo indispensable para sacar o introducir un medicamento;
 
-IV. Los productos biológicos se mantendrán a la temperatura de refrigeración farmacopeica o a la establecida en la etiqueta del producto; V. El medio de transporte deberá reunir los requisitos y condiciones de seguridad establecidos y sus operadores deberán estar capacitados para aplicar las medidas de emergencia ante eventualidades y accidentes. Para este fin, la [Secretaría](articulo-2o.md) se coordinará con la Secretaría de Comunicaciones y Transportes y demás autoridades competentes, y
+IV. Los productos biológicos se mantendrán a la temperatura de refrigeración farmacopeica o a la establecida en la etiqueta del producto;
+
+V. El medio de transporte deberá reunir los requisitos y condiciones de seguridad establecidos y sus operadores deberán estar capacitados para aplicar las medidas de emergencia ante eventualidades y accidentes. Para este fin, la [Secretaría](articulo-2o.md) se coordinará con la Secretaría de Comunicaciones y Transportes y demás autoridades competentes, y
 
 VI. Los medios de transporte que se utilicen para el acarreo y distribución de la materia prima o producto terminado, estarán construidos con materiales resistentes a la corrosión, lisos, impermeables, no tóxicos y que puedan ser limpiados con facilidad. Todos los vehículos se mantendrán siempre limpios y en buen estado de conservación. El equipo que sea instalado en ellos asegurará la conservación de los productos e impedirá la entrada y proliferación de plagas o su contaminación.

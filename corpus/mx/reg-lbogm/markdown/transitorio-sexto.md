@@ -27,7 +27,9 @@ IV. Dirección de correo electrónico para recibir notificaciones, en caso de qu
 
 V. Lugar donde se llevará a cabo la utilización confinada, en coordenadas [UTM](articulo-2.md), así como la descripción de las instalaciones del confinamiento y de las medidas de bioseguridad;
 
-VI. El objetivo y propósito de la utilización confinada; VII. Datos del OGM incluyendo el nombre científico, común y comercial, y
+VI. El objetivo y propósito de la utilización confinada;
+
+VII. Datos del OGM incluyendo el nombre científico, común y comercial, y
 
 VIII. El medio a través del cual deberá de realizarse la comunicación a que se refiere el artículo [59](articulo-59.md) de este Reglamento.
 

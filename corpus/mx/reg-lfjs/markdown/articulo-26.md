@@ -25,4 +25,6 @@ II. Exhibir muestra del boleto, con las bases de participación y medios para la
 
 III. Exhibir documentación que acredite la identidad del proveedor de los boletos, tratándose de sorteos instantáneos;
 
-IV. Exhibir original de las cotizaciones que correspondan al valor máximo de reposición nuevo de los premios a entregar. Cuando se trate de inmuebles, se solicitará avalúo sobre el valor máximo de reposición de los mismos, y V. Señalar la estructura y el monto de premios, con la descripción de cada uno de ellos, las características de marca y modelo, cantidad, valor máximo unitario y los demás que sean aplicables.
+IV. Exhibir original de las cotizaciones que correspondan al valor máximo de reposición nuevo de los premios a entregar. Cuando se trate de inmuebles, se solicitará avalúo sobre el valor máximo de reposición de los mismos, y
+
+V. Señalar la estructura y el monto de premios, con la descripción de cada uno de ellos, las características de marca y modelo, cantidad, valor máximo unitario y los demás que sean aplicables.

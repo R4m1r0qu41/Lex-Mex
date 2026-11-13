@@ -17,7 +17,9 @@ source_sha256: e91348de8667fa8105d03a2ee6fb7a9413a11174a4877c9c1c7272aee5874c3a
 
 # Artículo 58
 
-Para la prestación de los servicios aeroportuarios y complementarios se requerirá: I. Contar con personal capacitado y calificado en su caso, para prestar el servicio de que se trate, de acuerdo con lo establecido en el presente Reglamento;
+Para la prestación de los servicios aeroportuarios y complementarios se requerirá:
+
+I. Contar con personal capacitado y calificado en su caso, para prestar el servicio de que se trate, de acuerdo con lo establecido en el presente Reglamento;
 
 II. Disponer del equipo y las instalaciones necesarios;
 

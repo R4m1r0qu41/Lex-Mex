@@ -35,7 +35,9 @@ VII. Promover y celebrar convenios de concertación con los sectores privado y s
 
 VIII. Fomentar, realizar y difundir estudios e investigaciones en la materia;
 
-IX. Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables en su ámbito de competencia que se relacionen y deriven de la misma, por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil; X. Decretar las medidas precautorias necesarias a los [Centros de Atención](articulo-8.md) autorizados por el municipio y la demarcación territorial de la Ciudad de México correspondiente en cualquier modalidad o tipo; Fracción reformada DOF 23-06-2017
+IX. Vigilar el cumplimiento de esta Ley y demás disposiciones aplicables en su ámbito de competencia que se relacionen y deriven de la misma, por parte de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil;
+
+X. Decretar las medidas precautorias necesarias a los [Centros de Atención](articulo-8.md) autorizados por el municipio y la demarcación territorial de la Ciudad de México correspondiente en cualquier modalidad o tipo; Fracción reformada DOF 23-06-2017
 
 XI. Imponer las sanciones, en el ámbito de su competencia, a las que se refieren la presente Ley y las legislaciones municipales que de ella deriven, respecto de los prestadores de servicios para la atención, cuidado y desarrollo integral infantil, en cualquiera de sus [Modalidades](articulo-8.md) y Tipos;
 

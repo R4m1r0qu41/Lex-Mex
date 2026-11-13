@@ -25,6 +25,8 @@ II. Animales de producción, incluyendo los de abasto;
 
 III. Animales de trabajo, como los de carga, monta, tiro, terapia, asistencia, guías, rescate, detectores, guardia y protección;
 
-IV. Animales de entretenimiento, y los de fauna silvestre en cautiverio, cuando impliquen un riesgo zoosanitario; V. Animales para la investigación y educación, y
+IV. Animales de entretenimiento, y los de fauna silvestre en cautiverio, cuando impliquen un riesgo zoosanitario;
+
+V. Animales para la investigación y educación, y
 
 VI. Animales silvestres y ferales, cuando impliquen un riesgo zoosanitario.

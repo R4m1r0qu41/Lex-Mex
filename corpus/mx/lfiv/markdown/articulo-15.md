@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 15
 
-La Comisión sesionará con la mitad más uno de sus miembros. Las resoluciones y acuerdos se tomarán por mayoría simple de votos. El Presidente tendrá voto calificado, en los casos de empate.
+La [Comisión](articulo-3.md) sesionará con la mitad más uno de sus miembros. Las resoluciones y acuerdos se tomarán por mayoría simple de votos. El Presidente tendrá voto calificado, en los casos de empate.

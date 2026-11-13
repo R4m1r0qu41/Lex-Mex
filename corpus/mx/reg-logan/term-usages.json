@@ -10,12 +10,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-logan:article:2:term-usage:1256-1269",
+    "id": "urn:lex-mx:federal:regulation:reg-logan:article:2:term-usage:1257-1270",
     "provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-logan:term:confederacion",
     "span": "Confederación",
-    "start_char": 1256,
-    "end_char": 1269
+    "start_char": 1257,
+    "end_char": 1270
   },
   {
     "schema_version": "0.1.0",
@@ -37,12 +37,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-logan:article:5:term-usage:706-717",
+    "id": "urn:lex-mx:federal:regulation:reg-logan:article:5:term-usage:707-718",
     "provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-logan:term:reglamento",
     "span": "Reglamentos",
-    "start_char": 706,
-    "end_char": 717
+    "start_char": 707,
+    "end_char": 718
   },
   {
     "schema_version": "0.1.0",
@@ -55,21 +55,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-logan:article:16:term-usage:1023-1033",
+    "id": "urn:lex-mx:federal:regulation:reg-logan:article:16:term-usage:1024-1034",
     "provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-logan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1023,
-    "end_char": 1033
+    "start_char": 1024,
+    "end_char": 1034
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-logan:article:16:term-usage:1172-1182",
+    "id": "urn:lex-mx:federal:regulation:reg-logan:article:16:term-usage:1173-1183",
     "provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-logan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1172,
-    "end_char": 1182
+    "start_char": 1173,
+    "end_char": 1183
   },
   {
     "schema_version": "0.1.0",
@@ -145,12 +145,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-logan:article:24:term-usage:1912-1922",
+    "id": "urn:lex-mx:federal:regulation:reg-logan:article:24:term-usage:1913-1923",
     "provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-logan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1912,
-    "end_char": 1922
+    "start_char": 1913,
+    "end_char": 1923
   },
   {
     "schema_version": "0.1.0",
@@ -172,12 +172,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-logan:article:26:term-usage:1314-1324",
+    "id": "urn:lex-mx:federal:regulation:reg-logan:article:26:term-usage:1315-1325",
     "provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:26",
     "term_id": "urn:lex-mx:federal:regulation:reg-logan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1314,
-    "end_char": 1324
+    "start_char": 1315,
+    "end_char": 1325
   },
   {
     "schema_version": "0.1.0",
@@ -388,12 +388,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-logan:article:60:term-usage:1173-1183",
+    "id": "urn:lex-mx:federal:regulation:reg-logan:article:60:term-usage:1174-1184",
     "provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:60",
     "term_id": "urn:lex-mx:federal:regulation:reg-logan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1173,
-    "end_char": 1183
+    "start_char": 1174,
+    "end_char": 1184
   },
   {
     "schema_version": "0.1.0",

@@ -21,7 +21,9 @@ Para la realización de sus fines, el Consejo tendrá, entre otras, las atribuci
 
 I. Fungir como órgano de consulta del Ejecutivo Federal sobre el servicio que presta la radio y la televisión a la sociedad;
 
-II. Recomendar medidas que estime convenientes para el buen funcionamiento de las estaciones de radio y televisión; III. Realizar los estudios, investigaciones y análisis que considere necesarios sobre los contenidos programáticos de la radio y la televisión;
+II. Recomendar medidas que estime convenientes para el buen funcionamiento de las estaciones de radio y televisión;
+
+III. Realizar los estudios, investigaciones y análisis que considere necesarios sobre los contenidos programáticos de la radio y la televisión;
 
 IV. Proponer medidas que estime convenientes para el eficaz cumplimiento de las disposiciones de la Ley de la materia;
 

@@ -31,7 +31,9 @@ III. Aprobar y evaluar, en el marco de las disposiciones jurídicas aplicables, 
 
 IV. Aprobar, a propuesta de la persona titular de la Dirección General o equivalente, la distribución del presupuesto anual definitivo del Centro Público, así como el programa de inversiones, de acuerdo con el monto total autorizado de su presupuesto;
 
-V. Decidir, a propuesta de la persona titular de la Dirección General o equivalente, el uso y destino de los excedentes de ingresos propios. Lo anterior, se deberá informar a la Secretaría de Hacienda y Crédito Público de conformidad con las disposiciones aplicables y para los efectos de los informes trimestrales y cuenta pública; VI. Autorizar, a propuesta de la persona titular de la Dirección General o equivalente, la apertura de cuentas de inversión financiera, las que siempre serán de renta fija o de rendimiento garantizado;
+V. Decidir, a propuesta de la persona titular de la Dirección General o equivalente, el uso y destino de los excedentes de ingresos propios. Lo anterior, se deberá informar a la Secretaría de Hacienda y Crédito Público de conformidad con las disposiciones aplicables y para los efectos de los informes trimestrales y cuenta pública;
+
+VI. Autorizar, a propuesta de la persona titular de la Dirección General o equivalente, la apertura de cuentas de inversión financiera, las que siempre serán de renta fija o de rendimiento garantizado;
 
 VII. Autorizar, en lo general, el programa y los criterios para la celebración de convenios y contratos de prestación de servicios para la realización de proyectos específicos de investigación humanística y científica, desarrollo tecnológico e innovación;
 

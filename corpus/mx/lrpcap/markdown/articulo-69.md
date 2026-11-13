@@ -17,7 +17,7 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 69
 
-La decisión sobre el otorgamiento o no del asilo político será comunicada al solicitante del mismo; el reglamento de esta Ley establecerá el plazo para tales efectos.
+La decisión sobre el otorgamiento o no del asilo político será comunicada al solicitante del mismo; el reglamento de esta [Ley](articulo-2.md) establecerá el plazo para tales efectos.
 
 En los casos en los cuales la Secretaría de Relaciones Exteriores, otorgue asilo político, ésta y la [Representación](articulo-2.md), de manera coordinada, tomarán las medidas necesarias para que, en su caso, el asilado sea trasladado a territorio nacional.
 

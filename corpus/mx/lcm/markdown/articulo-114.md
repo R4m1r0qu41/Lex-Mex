@@ -27,7 +27,9 @@ III. Las operaciones celebradas por el Comerciante en las que se hubieren pactad
 
 IV. Las remisiones de deuda hechas por el Comerciante;
 
-V. Los pagos de obligaciones no vencidas hechas por el Comerciante, y VI. El descuento que de sus propios efectos haga el Comerciante, después de la fecha de retroacción se considerará como pago anticipado.
+V. Los pagos de obligaciones no vencidas hechas por el Comerciante, y
+
+VI. El descuento que de sus propios efectos haga el Comerciante, después de la fecha de retroacción se considerará como pago anticipado.
 
 No procederá la declaración de ineficacia cuando la [Masa](articulo-4o.md) se aproveche de los pagos hechos al Comerciante.
 

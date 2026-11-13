@@ -33,7 +33,9 @@ Es responsabilidad del servidor público denunciar estos actos a la autoridad co
 
 VI. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las que legalmente le corresponden;
 
-VII. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones legales aplicables; VIII. Someterse a los procesos de evaluación del desempeño de conformidad con las disposiciones legales aplicables;
+VII. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones legales aplicables;
+
+VIII. Someterse a los procesos de evaluación del desempeño de conformidad con las disposiciones legales aplicables;
 
 IX. Participar en los cursos de capacitación, actualización y especialización que determine la Comisión del Servicio Profesional de carrera;
 

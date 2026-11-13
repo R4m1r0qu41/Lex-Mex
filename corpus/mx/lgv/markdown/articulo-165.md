@@ -7,8 +7,8 @@ provision_type: article
 number: "165"
 aliases: ["LGV — Artículo 165"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -19,7 +19,7 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 Se crea en la [Comisión Ejecutiva](articulo-6.md), la [Asesoría Jurídica](articulo-6.md) Federal de Atención a [Víctimas](articulo-6.md), área especializada en asesoría jurídica para víctimas.
 
-Las entidades federativas deberán crear en el ámbito de sus respectivas competencias su propia Asesoría Jurídica de Atención a Víctimas o, en su caso, adaptar las estructuras previamente existentes en los términos de esta Ley.
+Las entidades federativas deberán crear en el ámbito de sus respectivas competencias su propia Asesoría Jurídica de Atención a Víctimas o, en su caso, adaptar las estructuras previamente existentes en los términos de esta [Ley](articulo-6.md).
 
 Las Asesorías Jurídicas de Atención a Víctimas de las entidades federativas serán, del mismo modo, órganos dependientes de la unidad análoga a la Comisión Ejecutiva que exista en la entidad, gozarán de independencia técnica y operativa y tendrán las mismas funciones, en el ámbito de sus competencias.
 

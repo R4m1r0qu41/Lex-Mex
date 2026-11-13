@@ -4208,3 +4208,27 @@ and the 2026-08-24 entry keep it on `lraf-1990`. See
 `docs/plans/corpus-wide-reverse-linking.md` and the
 `corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.
 
+
+## 2026-11-12 — Source-match wording and simple in-force status
+
+Decision (operator in session, stating "I'm JRH"; recorded by Claude, not independently
+verified as a signed review record):
+
+1. **Source-match wording stays simple.** The qualified "verified" text proposed as D-3 in
+   `docs/plans/four-goal-system-upgrade.md` is rejected as too complex for readers. The
+   reviewer's standard: when the provision has the same words in the same order as the official
+   file, "that is as good as it gets". Any public label must say that plainly. The detailed
+   report (hashes, skipped spans) stays available as evidence behind the label.
+2. **Simple in-force status.** An instrument in the corpus is in force, with the Estatuto de
+   Gobierno del Distrito Federal as the stated exception (already excluded from the corpus).
+   Exact commencement dates per provision are a later review: most provisions start the day
+   after publication, many have more complex formulas.
+3. **Authorized:** the Obsidian vault export and a corpus-wide reparse; sources may have changed
+   through reforms and at least one new law exists (Ley de Economía Digital, as named by the
+   operator). A scheduled source check is wanted; the operator will run it from another harness.
+
+Open points Claude raised and did not resolve: the corpus records two instruments as `repealed`
+(`lftr`, `reg-lfmn`), which point 2 does not mention; and provisions whose own text is a repeal
+marker ("(Se deroga)") inside an in-force instrument. No temporal or review state was changed
+on the strength of this entry; a rule implementing point 2 needs the usual schema, validator
+and fixture change and the reviewer's confirmation of those two cases.

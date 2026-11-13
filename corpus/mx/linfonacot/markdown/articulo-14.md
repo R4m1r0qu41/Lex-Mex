@@ -23,7 +23,9 @@ I. El Secretario del Trabajo y Previsión Social;
 
 II. El Secretario de Hacienda y Crédito Público;
 
-III. El Secretario de Economía; IV. El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+III. El Secretario de Economía;
+
+IV. El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 V. Un representante de cada una de las cuatro confederaciones de organizaciones de patrones más representativas del país, y
 

@@ -21,6 +21,8 @@ Los servidores públicos del área ministerial, deberán estar capacitados para 
 
 I. Oficial Secretario;
 
-II. Agente del Ministerio Público; III. Agente del Ministerio Público Supervisor, y
+II. Agente del Ministerio Público;
+
+III. Agente del Ministerio Público Supervisor, y
 
 IV. Responsables de Agencia.

@@ -19,7 +19,9 @@ source_sha256: 685a4669dd8c9f71153676b083ba7a68c88416677fc7b4e6026ab868c5292d3a
 
 Para el correcto funcionamiento de los Sistemas de Ahorro para el Retiro en beneficio de los [Trabajadores](articulo-2o.md), el [ISSSTE](articulo-2o.md) realizará las siguientes acciones:
 
-I. Proporcionar de manera continua a las Empresas Operadoras, la información relativa a los Trabajadores que se encuentren inscritos en dicho Instituto para que éstos puedan registrarse en las [Administradoras](articulo-2o.md) y retirar los recursos de su Cuenta Individual; II. Proporcionar de manera continua a las Empresas Operadoras la información sobre los Trabajadores inscritos en dicho Instituto a los que les haya sido otorgado o cancelado un crédito de vivienda;
+I. Proporcionar de manera continua a las Empresas Operadoras, la información relativa a los Trabajadores que se encuentren inscritos en dicho Instituto para que éstos puedan registrarse en las [Administradoras](articulo-2o.md) y retirar los recursos de su Cuenta Individual;
+
+II. Proporcionar de manera continua a las Empresas Operadoras la información sobre los Trabajadores inscritos en dicho Instituto a los que les haya sido otorgado o cancelado un crédito de vivienda;
 
 III. Coadyuvar en lo conducente en los procesos de unificación o [Separación de Cuentas](articulo-2o.md);
 

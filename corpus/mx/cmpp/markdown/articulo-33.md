@@ -17,7 +17,9 @@ source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
 
 # Artículo 33
 
-Separación de los procesos Podrá ordenarse la separación de procesos cuando concurran las siguientes circunstancias: I. Cuando la solicite una de las partes antes del auto de apertura al juicio.
+Separación de los procesos Podrá ordenarse la separación de procesos cuando concurran las siguientes circunstancias:
+
+I. Cuando la solicite una de las partes antes del auto de apertura al juicio.
 
 II. Cuando el Juzgado de Control estime que de continuar la acumulación el proceso se demoraría. Fracción reformada DOF 16-07-2025
 

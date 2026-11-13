@@ -37,7 +37,9 @@ VIII. El Reglamento establecerá un régimen de estímulos y previsión social q
 
 IX. Los integrantes podrán ser cambiados de adscripción, con base en las necesidades del servicio, sin que esa adscripción implique inamovilidad en la sede a la que fueron destinados;
 
-X. El cambio de un integrante de un área operativa a otra de distinta especialidad sólo podrá ser autorizado por el Consejo Federal; XI. Las sanciones de amonestación, suspensión o remoción que se apliquen a los integrantes, se determinarán mediante el procedimiento que señala la Ley y su Reglamento. En el procedimiento de aplicación de sanciones se salvaguardará en todo tiempo la garantía de audiencia;
+X. El cambio de un integrante de un área operativa a otra de distinta especialidad sólo podrá ser autorizado por el Consejo Federal;
+
+XI. Las sanciones de amonestación, suspensión o remoción que se apliquen a los integrantes, se determinarán mediante el procedimiento que señala la Ley y su Reglamento. En el procedimiento de aplicación de sanciones se salvaguardará en todo tiempo la garantía de audiencia;
 
 XII. Los procedimientos para la selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia y promoción de integrantes serán establecidos en las disposiciones reglamentarias que al efecto se expidan, y
 

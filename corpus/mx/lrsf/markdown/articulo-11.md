@@ -7,8 +7,8 @@ provision_type: article
 number: "11"
 aliases: ["LRSF — Artículo 11"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf
 source_sha256: 02fe2afc021cdf42249b2003da14bf738f24157375ffc0b420e1e7d7a5c20fd5
 ---
@@ -21,6 +21,8 @@ Las concesiones se otorgarán hasta por un plazo de 50 años, y podrán ser pror
 
 I. Hubiera cumplido con las condiciones previstas en la concesión que se pretenda prorrogar;
 
-II. Lo solicite antes de que inicie la última décima parte del plazo de la concesión; III. Acepte las nuevas condiciones que establezca la [Secretaría](articulo-2.md), y
+II. Lo solicite antes de que inicie la última décima parte del plazo de la concesión;
+
+III. Acepte las nuevas condiciones que establezca la [Secretaría](articulo-2.md), y
 
 IV. Hubiera realizado el mejoramiento de las instalaciones y la calidad de los servicios prestados durante la vigencia de la concesión, de acuerdo con las verificaciones sistemáticas practicadas conforme a los indicadores de eficiencia y seguridad que se determinen en los reglamentos respectivos y demás disposiciones aplicables.

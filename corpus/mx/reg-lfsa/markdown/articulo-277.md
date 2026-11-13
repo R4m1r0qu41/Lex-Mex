@@ -21,7 +21,9 @@ El Consejo Técnico Consultivo Nacional de Sanidad Animal tendrá una junta dire
 
 A. Los Servidores públicos siguientes:
 
-I. Un representante de la Secretaría quien lo presidirá, con nivel jerárquico de Director General, y dos representantes más, uno de los cuales fungirá como Secretario Técnico, y II. Un representante de la Secretaría de Salud;
+I. Un representante de la Secretaría quien lo presidirá, con nivel jerárquico de Director General, y dos representantes más, uno de los cuales fungirá como Secretario Técnico, y
+
+II. Un representante de la Secretaría de Salud;
 
 B. Representantes del sector privado y social, que en su caso, acepten la invitación correspondiente, siguientes:
 

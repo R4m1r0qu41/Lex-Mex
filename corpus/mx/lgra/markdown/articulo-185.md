@@ -19,4 +19,6 @@ source_sha256: 1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8
 
 La acumulación será procedente:
 
-I. Cuando a dos o más personas se les atribuya la comisión de una o más [Faltas administrativas](articulo-3.md) que se encuentren relacionadas entre sí con la finalidad de facilitar la ejecución o asegurar la consumación de cualquiera de ellas; II. Cuando se trate de procedimientos de responsabilidad administrativa donde se imputen dos a más Faltas administrativas a la misma persona, siempre que se encuentren relacionadas entre sí, con la finalidad de facilitar la ejecución o asegurar la consumación de cualquiera de ellas.
+I. Cuando a dos o más personas se les atribuya la comisión de una o más [Faltas administrativas](articulo-3.md) que se encuentren relacionadas entre sí con la finalidad de facilitar la ejecución o asegurar la consumación de cualquiera de ellas;
+
+II. Cuando se trate de procedimientos de responsabilidad administrativa donde se imputen dos a más Faltas administrativas a la misma persona, siempre que se encuentren relacionadas entre sí, con la finalidad de facilitar la ejecución o asegurar la consumación de cualquiera de ellas.

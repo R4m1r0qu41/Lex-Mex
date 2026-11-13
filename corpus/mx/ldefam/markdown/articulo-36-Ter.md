@@ -31,7 +31,9 @@ V. Cuarta vocalía: La persona titular de la Comandancia del Ejército Mexicano;
 
 VI. Quinta vocalía: La persona titular de la Comandancia de la Fuerza Aérea Mexicana;
 
-VII. Sexta vocalía: La persona titular de la Comandancia de la Guardia Nacional; VIII. Secretaría del Consejo: La persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional;
+VII. Sexta vocalía: La persona titular de la Comandancia de la Guardia Nacional;
+
+VIII. Secretaría del Consejo: La persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional;
 
 IX. Secretaría Adjunta del Consejo: La persona titular de la Jefatura de la Sección Primera (Recursos Humanos) del Estado Mayor Conjunto de la Defensa Nacional;
 

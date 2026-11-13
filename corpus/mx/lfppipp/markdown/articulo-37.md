@@ -25,7 +25,9 @@ II. La [Persona Protegida](articulo-2.md) se haya conducido con falta de veracid
 
 III. La Persona Protegida haya ejecutado o intervenido en la comisión de un delito doloso durante la permanencia en el Programa. Fracción reformada DOF 17-06-2016
 
-IV. La Persona Protegida no cumpla con las [Medidas de Protección](articulo-2.md) correspondientes. V. La Persona Protegida se niegue a declarar.
+IV. La Persona Protegida no cumpla con las [Medidas de Protección](articulo-2.md) correspondientes.
+
+V. La Persona Protegida se niegue a declarar.
 
 VI. El incumplimiento reiterado de las obligaciones asumidas en el [Convenio de Entendimiento](articulo-2.md).
 

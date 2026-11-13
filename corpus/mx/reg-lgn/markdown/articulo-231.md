@@ -39,7 +39,9 @@ IX. Declarar al término de cada sesión del Consejo de Carrera, los resultados 
 
 X. Verificar la observancia de los procedimientos del Consejo de Carrera, establecidos en el [Reglamento](articulo-2.md);
 
-XI. Certificar las sesiones y acuerdos del Pleno; XII. Solicitar a las diferentes unidades de la [Institución](articulo-2.md), la información relativa a los asuntos inherentes al desarrollo de la carrera;
+XI. Certificar las sesiones y acuerdos del Pleno;
+
+XII. Solicitar a las diferentes unidades de la [Institución](articulo-2.md), la información relativa a los asuntos inherentes al desarrollo de la carrera;
 
 XIII. Proveer lo necesario para la organización y funcionamiento del Consejo de Carrera en Pleno, comisiones o comités con el auxilio de las unidades de la Institución;
 

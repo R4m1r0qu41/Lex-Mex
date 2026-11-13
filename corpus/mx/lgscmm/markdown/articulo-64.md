@@ -37,4 +37,6 @@ VII. Participación en eventos y actividades de fortalecimiento académico y for
 
 VIII. Actividades de tutoría o acompañamiento docente;
 
-IX. Las publicaciones académicas o de investigación, o X. El desempeño en el plantel o subsistema en el que realice su labor.
+IX. Las publicaciones académicas o de investigación, o
+
+X. El desempeño en el plantel o subsistema en el que realice su labor.

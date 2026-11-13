@@ -37,39 +37,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:2:term-usage:2753-2756",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:2:term-usage:2754-2757",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 2753,
-    "end_char": 2756
+    "start_char": 2754,
+    "end_char": 2757
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:2:term-usage:4054-4057",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:2:term-usage:4055-4058",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 4054,
-    "end_char": 4057
+    "start_char": 4055,
+    "end_char": 4058
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:2:term-usage:5934-5937",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:2:term-usage:5936-5939",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 5934,
-    "end_char": 5937
+    "start_char": 5936,
+    "end_char": 5939
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:2:term-usage:5954-5964",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:2:term-usage:5956-5966",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 5954,
-    "end_char": 5964
+    "start_char": 5956,
+    "end_char": 5966
   },
   {
     "schema_version": "0.1.0",
@@ -316,39 +316,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:9:term-usage:1191-1202",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:9:term-usage:1192-1203",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1191,
-    "end_char": 1202
+    "start_char": 1192,
+    "end_char": 1203
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:9:term-usage:1556-1567",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:9:term-usage:1557-1568",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1556,
-    "end_char": 1567
+    "start_char": 1557,
+    "end_char": 1568
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:9:term-usage:1825-1836",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:9:term-usage:1826-1837",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1825,
-    "end_char": 1836
+    "start_char": 1826,
+    "end_char": 1837
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:9:term-usage:1945-1955",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:9:term-usage:1946-1956",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:9",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1945,
-    "end_char": 1955
+    "start_char": 1946,
+    "end_char": 1956
   },
   {
     "schema_version": "0.1.0",
@@ -595,21 +595,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:14:term-usage:2720-2731",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:14:term-usage:2721-2732",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:14",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 2720,
-    "end_char": 2731
+    "start_char": 2721,
+    "end_char": 2732
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:14:term-usage:2875-2878",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:14:term-usage:2876-2879",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:14",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 2875,
-    "end_char": 2878
+    "start_char": 2876,
+    "end_char": 2879
   },
   {
     "schema_version": "0.1.0",
@@ -667,75 +667,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1157-1168",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1158-1169",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1157,
-    "end_char": 1168
+    "start_char": 1158,
+    "end_char": 1169
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1290-1293",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1291-1294",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 1290,
-    "end_char": 1293
+    "start_char": 1291,
+    "end_char": 1294
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1303-1313",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1304-1314",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1303,
-    "end_char": 1313
+    "start_char": 1304,
+    "end_char": 1314
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1500-1511",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1501-1512",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1500,
-    "end_char": 1511
+    "start_char": 1501,
+    "end_char": 1512
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1805-1816",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1806-1817",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1805,
-    "end_char": 1816
+    "start_char": 1806,
+    "end_char": 1817
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1939-1950",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:1940-1951",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1939,
-    "end_char": 1950
+    "start_char": 1940,
+    "end_char": 1951
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:2139-2142",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:2140-2143",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 2139,
-    "end_char": 2142
+    "start_char": 2140,
+    "end_char": 2143
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:2152-2162",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:16:term-usage:2153-2163",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 2152,
-    "end_char": 2162
+    "start_char": 2153,
+    "end_char": 2163
   },
   {
     "schema_version": "0.1.0",
@@ -937,21 +937,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:23:term-usage:1888-1891",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:23:term-usage:1889-1892",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 1888,
-    "end_char": 1891
+    "start_char": 1889,
+    "end_char": 1892
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:23:term-usage:2544-2555",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:23:term-usage:2545-2556",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 2544,
-    "end_char": 2555
+    "start_char": 2545,
+    "end_char": 2556
   },
   {
     "schema_version": "0.1.0",
@@ -1504,12 +1504,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:45:term-usage:317-328",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:45:term-usage:318-329",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:45",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 317,
-    "end_char": 328
+    "start_char": 318,
+    "end_char": 329
   },
   {
     "schema_version": "0.1.0",
@@ -2260,12 +2260,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:69:term-usage:1240-1251",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:69:term-usage:1241-1252",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:69",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1240,
-    "end_char": 1251
+    "start_char": 1241,
+    "end_char": 1252
   },
   {
     "schema_version": "0.1.0",
@@ -2665,12 +2665,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:83:term-usage:1341-1352",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:83:term-usage:1342-1353",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:83",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1341,
-    "end_char": 1352
+    "start_char": 1342,
+    "end_char": 1353
   },
   {
     "schema_version": "0.1.0",
@@ -3169,12 +3169,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:99:term-usage:1483-1494",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:99:term-usage:1484-1495",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:99",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1483,
-    "end_char": 1494
+    "start_char": 1484,
+    "end_char": 1495
   },
   {
     "schema_version": "0.1.0",
@@ -3223,21 +3223,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:101:term-usage:1276-1279",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:101:term-usage:1277-1280",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:101",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 1276,
-    "end_char": 1279
+    "start_char": 1277,
+    "end_char": 1280
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:101:term-usage:1432-1443",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:101:term-usage:1433-1444",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:101",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1432,
-    "end_char": 1443
+    "start_char": 1433,
+    "end_char": 1444
   },
   {
     "schema_version": "0.1.0",
@@ -4069,48 +4069,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:933-944",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:934-945",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:135",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 933,
-    "end_char": 944
+    "start_char": 934,
+    "end_char": 945
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:1199-1210",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:1200-1211",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:135",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1199,
-    "end_char": 1210
+    "start_char": 1200,
+    "end_char": 1211
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:1842-1853",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:1843-1854",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:135",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1842,
-    "end_char": 1853
+    "start_char": 1843,
+    "end_char": 1854
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:1895-1898",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:1896-1899",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:135",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 1895,
-    "end_char": 1898
+    "start_char": 1896,
+    "end_char": 1899
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:1906-1916",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:135:term-usage:1907-1917",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:135",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1906,
-    "end_char": 1916
+    "start_char": 1907,
+    "end_char": 1917
   },
   {
     "schema_version": "0.1.0",
@@ -4177,21 +4177,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:139:term-usage:564-575",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:139:term-usage:565-576",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:139",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 564,
-    "end_char": 575
+    "start_char": 565,
+    "end_char": 576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:139:term-usage:803-814",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:139:term-usage:804-815",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:139",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 803,
-    "end_char": 814
+    "start_char": 804,
+    "end_char": 815
   },
   {
     "schema_version": "0.1.0",
@@ -4690,21 +4690,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:155:term-usage:1362-1373",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:155:term-usage:1363-1374",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:155",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1362,
-    "end_char": 1373
+    "start_char": 1363,
+    "end_char": 1374
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:155:term-usage:1560-1571",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:155:term-usage:1561-1572",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:155",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1560,
-    "end_char": 1571
+    "start_char": 1561,
+    "end_char": 1572
   },
   {
     "schema_version": "0.1.0",
@@ -4807,48 +4807,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:1517-1528",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:1518-1529",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:160",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1517,
-    "end_char": 1528
+    "start_char": 1518,
+    "end_char": 1529
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:1671-1682",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:1672-1683",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:160",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1671,
-    "end_char": 1682
+    "start_char": 1672,
+    "end_char": 1683
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:1912-1923",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:1913-1924",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:160",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:la-comision",
     "span": "La Comisión",
-    "start_char": 1912,
-    "end_char": 1923
+    "start_char": 1913,
+    "end_char": 1924
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:2270-2273",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:2271-2274",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:160",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:ley",
     "span": "Ley",
-    "start_char": 2270,
-    "end_char": 2273
+    "start_char": 2271,
+    "end_char": 2274
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:2345-2355",
+    "id": "urn:lex-mx:federal:regulation:reg-lan:article:160:term-usage:2346-2356",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lan:article:160",
     "term_id": "urn:lex-mx:federal:regulation:reg-lan:term:reglamento",
     "span": "Reglamento",
-    "start_char": 2345,
-    "end_char": 2355
+    "start_char": 2346,
+    "end_char": 2356
   },
   {
     "schema_version": "0.1.0",

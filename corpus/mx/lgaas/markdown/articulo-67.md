@@ -21,7 +21,9 @@ El Consejo Intersectorial Nacional contará con un Secretariado Técnico, el cua
 
 El Secretariado Técnico tendrá las siguientes facultades:
 
-I. Apoyar a la coordinación general del Consejo Intersectorial Nacional para la emisión del reglamento de funcionamiento del Consejo y de la Junta Directiva; II. Servir de enlace entre la Junta Directiva, las Comisiones de Trabajo, los Comités Técnicos, el Consejo Intersectorial Nacional y otras partes interesadas para la articulación del sistema agroalimentario mexicano;
+I. Apoyar a la coordinación general del Consejo Intersectorial Nacional para la emisión del reglamento de funcionamiento del Consejo y de la Junta Directiva;
+
+II. Servir de enlace entre la Junta Directiva, las Comisiones de Trabajo, los Comités Técnicos, el Consejo Intersectorial Nacional y otras partes interesadas para la articulación del sistema agroalimentario mexicano;
 
 III. Organizar las sesiones del Consejo Intersectorial Nacional, previo acuerdo de la Junta Directiva;
 

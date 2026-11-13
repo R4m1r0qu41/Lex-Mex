@@ -19,7 +19,9 @@ source_sha256: b3c906475b455176de73da17f4f93a73f295965dc9bcca854b48417c7d4d3cfc
 
 Para los efectos de esta Ley, se entiende por:
 
-I. Accidente: La liberación involuntaria de organismos genéticamente modificados durante su utilización y que pueda suponer, con base en criterios técnicos, posibles riesgos para la salud humana o para el medio ambiente y la diversidad biológica. II. Actividades: La utilización confinada, la liberación experimental, la liberación en programa piloto, la liberación comercial, la comercialización, la importación y la exportación de organismos genéticamente modificados, conforme a esta Ley.
+I. Accidente: La liberación involuntaria de organismos genéticamente modificados durante su utilización y que pueda suponer, con base en criterios técnicos, posibles riesgos para la salud humana o para el medio ambiente y la diversidad biológica.
+
+II. Actividades: La utilización confinada, la liberación experimental, la liberación en programa piloto, la liberación comercial, la comercialización, la importación y la exportación de organismos genéticamente modificados, conforme a esta Ley.
 
 III. Autorización: Es el acto administrativo mediante el cual la [Secretaría](articulo-3.md) de Salud, en el ámbito de su competencia conforme a esta Ley, autoriza organismos genéticamente modificados determinados expresamente en este ordenamiento, a efecto de que se pueda realizar su comercialización e importación para su comercialización, así como su utilización con finalidades de salud pública o de biorremediación.
 

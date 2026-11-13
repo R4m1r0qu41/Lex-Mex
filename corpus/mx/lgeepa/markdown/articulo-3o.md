@@ -21,7 +21,9 @@ Para los efectos de esta Ley se entiende por:
 
 I.- Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
 
-II.- Áreas naturales protegidas: Las zonas del territorio nacional y aquéllas sobre las que la nación ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas y están sujetas al régimen previsto en la presente Ley; III.- Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
+II.- Áreas naturales protegidas: Las zonas del territorio nacional y aquéllas sobre las que la nación ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano o que requieren ser preservadas y restauradas y están sujetas al régimen previsto en la presente Ley;
+
+III.- Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
 
 IV.- Biodiversidad: La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
 
@@ -63,7 +65,9 @@ XVII.- Emisión: Liberación al ambiente de toda sustancia, en cualquiera de sus
 
 XVIII.- Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y por ello sean susceptibles de captura y apropiación; Fracción recorrida DOF 28-01-2011
 
-XIX.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre; Fracción recorrida DOF 28-01-2011 XX.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza; Fracción recorrida DOF 28-01-2011
+XIX.- Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentran bajo control del hombre; Fracción recorrida DOF 28-01-2011
+
+XX.- Impacto ambiental: Modificación del ambiente ocasionada por la acción del hombre o de la naturaleza; Fracción recorrida DOF 28-01-2011
 
 XX BIS. Luz intrusa: Parte de la luz de una instalación con fuente de iluminación que no cumple la función para la que fue diseñada y no previene la contaminación lumínica; incluye:
 
@@ -87,7 +91,9 @@ XXIV.- Ordenamiento ecológico: El instrumento de política ambiental cuyo objet
 
 XXV.- Preservación: El conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitat naturales; Fracción recorrida DOF 28-01-2011
 
-XXVI.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente; Fracción recorrida DOF 28-01-2011 XXVII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro; Fracción recorrida DOF 28-01-2011
+XXVI.- Prevención: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente; Fracción recorrida DOF 28-01-2011
+
+XXVII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro; Fracción recorrida DOF 28-01-2011
 
 XXVIII.- Recursos biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano; Fracción recorrida DOF 28-01-2011
 

@@ -17,7 +17,9 @@ source_sha256: 1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416
 
 # Artículo 232
 
-Sin perjuicio de mantener los activos e inversiones suficientes para la cobertura de la [Base de Inversión](articulo-2.md), así como el capital mínimo pagado previstos en esta Ley, las [Instituciones](articulo-2.md) deberán mantener los [Fondos Propios Admisibles](articulo-2.md) necesarios para respaldar un requerimiento de capital de solvencia, cuyo propósito será: I. El contar con los recursos patrimoniales suficientes en relación a los riesgos y responsabilidades que asuman las Instituciones en función de sus operaciones y, en general, de los distintos riesgos a los que estén expuestas;
+Sin perjuicio de mantener los activos e inversiones suficientes para la cobertura de la [Base de Inversión](articulo-2.md), así como el capital mínimo pagado previstos en esta Ley, las [Instituciones](articulo-2.md) deberán mantener los [Fondos Propios Admisibles](articulo-2.md) necesarios para respaldar un requerimiento de capital de solvencia, cuyo propósito será:
+
+I. El contar con los recursos patrimoniales suficientes en relación a los riesgos y responsabilidades que asuman las Instituciones en función de sus operaciones y, en general, de los distintos riesgos a los que estén expuestas;
 
 II. El desarrollo de políticas adecuadas para la selección y suscripción de seguros y de fianzas, así como para la dispersión de reaseguradores o reafianzadores en las operaciones de cesión y aceptación de reaseguro y de reafianzamiento;
 

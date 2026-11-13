@@ -17,7 +17,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 80
 
-Cualquier persona puede solicitar la búsqueda de una [Persona Desaparecida](articulo-4.md) o No Localizada mediante: I. Noticia;
+Cualquier persona puede solicitar la búsqueda de una [Persona Desaparecida](articulo-4.md) o No Localizada mediante:
+
+I. Noticia;
 
 II. Reporte, o
 

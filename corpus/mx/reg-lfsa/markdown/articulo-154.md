@@ -29,7 +29,9 @@ Los resultados deberán concordar con las especificaciones del producto terminad
 
 Los documentos de análisis emitidos electrónicamente, deberán incluir claramente el nombre y cargo del responsable de control de calidad de la empresa. Este deberá estar respaldado por un escrito libre en hoja membretada de la empresa solicitante con el nombre, cargo y firma autógrafa del responsable de control de calidad que avale el certificado electrónico;
 
-IV. Dictamen de constatación del producto, expedido en términos del [artículo anterior](articulo-153.md); V. [Certificado de Buenas Prácticas de Manufactura](articulo-2.md) expedido por la Secretaría o por un organismo de certificación, con base en las normas oficiales mexicanas, lineamientos e instructivos técnicos que emita la Secretaría, sólo para productos elaborados en México;
+IV. Dictamen de constatación del producto, expedido en términos del [artículo anterior](articulo-153.md);
+
+V. [Certificado de Buenas Prácticas de Manufactura](articulo-2.md) expedido por la Secretaría o por un organismo de certificación, con base en las normas oficiales mexicanas, lineamientos e instructivos técnicos que emita la Secretaría, sólo para productos elaborados en México;
 
 VI. Ficha técnica del producto, cuando no se hubiere entregado previamente a la Secretaría, y
 

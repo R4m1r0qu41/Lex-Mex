@@ -25,7 +25,9 @@ II. Impulsar la participación ciudadana y de los organismos del sector en el se
 
 III. Proponer y propiciar la colaboración de organismos públicos y privados, nacionales y extranjeros, en el fomento y desarrollo para el [Sector](articulo-5o.md) de la Economía Social;
 
-IV. Proponer la realización de estudios e investigaciones en la materia; V. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el fomento y desarrollo para el Sector de la Economía Social;
+IV. Proponer la realización de estudios e investigaciones en la materia;
+
+V. Promover la celebración de convenios con dependencias del Ejecutivo Federal, entidades federativas, municipios y organizaciones, para la instrumentación de los programas relacionados con el fomento y desarrollo para el Sector de la Economía Social;
 
 VI. Informar a la opinión pública sobre los aspectos de interés general relativos al Programa;
 

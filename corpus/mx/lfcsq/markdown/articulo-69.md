@@ -21,7 +21,9 @@ Cuando se alegue que la resolución o acto administrativo no fue notificado o qu
 
 I. Si el recurrente afirma conocer el acto o resolución administrativa, la impugnación de la falta de notificación o la ilegalidad de la misma, se hará valer mediante la interposición del recurso de reconsideración, en el que manifestará la fecha en que lo conoció.
 
-En caso de que también impugne el acto o resolución administrativa, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen ante la falta de notificación o la ilegalidad de la misma; II. Si el recurrente niega conocer el acto o resolución administrativa, manifestará tal desconocimiento interponiendo el recurso de reconsideración ante la [Secretaría](articulo-2.md). La citada autoridad, en su caso, le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado.
+En caso de que también impugne el acto o resolución administrativa, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen ante la falta de notificación o la ilegalidad de la misma;
+
+II. Si el recurrente niega conocer el acto o resolución administrativa, manifestará tal desconocimiento interponiendo el recurso de reconsideración ante la [Secretaría](articulo-2.md). La citada autoridad, en su caso, le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado.
 
 El recurrente tendrá un plazo de quince días hábiles, a partir del día hábil siguiente al en que la autoridad le haya dado a conocer el acto o resolución respectiva, para ampliar el recurso, impugnando el acto y su notificación o sólo la notificación;
 

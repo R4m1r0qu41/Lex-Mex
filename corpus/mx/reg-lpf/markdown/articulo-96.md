@@ -21,7 +21,9 @@ Corresponde a la Dirección General de Mantenimiento:
 
 I. Supervisar, controlar y aplicar los servicios de mantenimiento preventivo, correctivo y programado de las aeronaves;
 
-II. Asegurar que los servicios de mantenimiento de las aeronaves se realicen en estricto apego a las instrucciones establecidas en los manuales del fabricante y de acuerdo a la política establecida por el superior jerárquico; III. Actualizar el registro y la documentación aeronáutica, técnica y legal, así como el registro y control de todo lo relacionado a los programas de mantenimiento e inspección, además de los tiempos, partes y componentes de las aeronaves de la [Institución](articulo-2.md);
+II. Asegurar que los servicios de mantenimiento de las aeronaves se realicen en estricto apego a las instrucciones establecidas en los manuales del fabricante y de acuerdo a la política establecida por el superior jerárquico;
+
+III. Actualizar el registro y la documentación aeronáutica, técnica y legal, así como el registro y control de todo lo relacionado a los programas de mantenimiento e inspección, además de los tiempos, partes y componentes de las aeronaves de la [Institución](articulo-2.md);
 
 IV. Ejecutar los programas de mejora técnica y actualización de sistemas de navegación y comunicación de las aeronaves cuando se requiera, así como el programa de adquisición de refacciones que permitan la operación continua de las aeronaves por mantenimiento preventivo y correctivo;
 
@@ -51,7 +53,9 @@ XVI. Verificar que las partes y componentes fuera de servicio sean reparados o d
 
 XVII. Llevar a cabo el suministro inicial del almacén, así como la planificación de adquisiciones de refacciones, componentes y consumibles para servicios de mantenimiento;
 
-XVIII. Elaborar y mantener actualizado el catálogo de proveedores; XIX. Garantizar los servicios de las aeronaves y componentes, control y registros de las mismas, así como su reclamo;
+XVIII. Elaborar y mantener actualizado el catálogo de proveedores;
+
+XIX. Garantizar los servicios de las aeronaves y componentes, control y registros de las mismas, así como su reclamo;
 
 XX. Vigilar la aplicación de boletines de servicio y directivas de aeronavegabilidad;
 

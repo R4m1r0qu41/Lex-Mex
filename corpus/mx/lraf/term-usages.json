@@ -100,426 +100,453 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1436-1457",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1437-1458",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1436,
-    "end_char": 1457
+    "start_char": 1437,
+    "end_char": 1458
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1516-1532",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1517-1533",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 1516,
-    "end_char": 1532
+    "start_char": 1517,
+    "end_char": 1533
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1543-1559",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1544-1560",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 1543,
-    "end_char": 1559
+    "start_char": 1544,
+    "end_char": 1560
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1633-1654",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1634-1655",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1633,
-    "end_char": 1654
+    "start_char": 1634,
+    "end_char": 1655
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1739-1760",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1726-1733",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
+    "span": "Control",
+    "start_char": 1726,
+    "end_char": 1733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1740-1761",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1739,
-    "end_char": 1760
+    "start_char": 1740,
+    "end_char": 1761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1900-1921",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1901-1922",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1900,
-    "end_char": 1921
+    "start_char": 1901,
+    "end_char": 1922
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1928-1944",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:1929-1945",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 1928,
-    "end_char": 1944
+    "start_char": 1929,
+    "end_char": 1945
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2044-2065",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2045-2066",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2044,
-    "end_char": 2065
+    "start_char": 2045,
+    "end_char": 2066
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2464-2473",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2465-2474",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:consorcio",
     "span": "Consorcio",
-    "start_char": 2464,
-    "end_char": 2473
+    "start_char": 2465,
+    "end_char": 2474
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2476-2493",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2477-2494",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 2476,
-    "end_char": 2493
+    "start_char": 2477,
+    "end_char": 2494
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2544-2551",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2545-2552",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 2544,
-    "end_char": 2551
+    "start_char": 2545,
+    "end_char": 2552
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2755-2762",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2756-2763",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 2755,
-    "end_char": 2762
+    "start_char": 2756,
+    "end_char": 2763
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2846-2864",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2847-2865",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupos Financieros",
-    "start_char": 2846,
-    "end_char": 2864
+    "start_char": 2847,
+    "end_char": 2865
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2959-2980",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:2960-2981",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2959,
-    "end_char": 2980
+    "start_char": 2960,
+    "end_char": 2981
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3028-3038",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3029-3039",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3028,
-    "end_char": 3038
+    "start_char": 3029,
+    "end_char": 3039
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3201-3222",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3202-3223",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3201,
-    "end_char": 3222
+    "start_char": 3202,
+    "end_char": 3223
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3254-3270",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3255-3271",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 3254,
-    "end_char": 3270
+    "start_char": 3255,
+    "end_char": 3271
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3752-3762",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3753-3763",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3752,
-    "end_char": 3762
+    "start_char": 3753,
+    "end_char": 3763
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3915-3936",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:3916-3937",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3915,
-    "end_char": 3936
+    "start_char": 3916,
+    "end_char": 3937
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4019-4026",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4020-4027",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 4019,
-    "end_char": 4026
+    "start_char": 4020,
+    "end_char": 4027
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4089-4106",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4090-4107",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 4089,
-    "end_char": 4106
+    "start_char": 4090,
+    "end_char": 4107
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4109-4118",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4110-4119",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:consorcio",
     "span": "Consorcio",
-    "start_char": 4109,
-    "end_char": 4118
+    "start_char": 4110,
+    "end_char": 4119
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4129-4150",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4130-4151",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 4129,
-    "end_char": 4150
+    "start_char": 4130,
+    "end_char": 4151
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4228-4244",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4229-4245",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 4228,
-    "end_char": 4244
+    "start_char": 4229,
+    "end_char": 4245
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4302-4316",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4252-4273",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 4252,
+    "end_char": 4273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4303-4317",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:poder-de-mando",
     "span": "Poder de Mando",
-    "start_char": 4302,
-    "end_char": 4316
+    "start_char": 4303,
+    "end_char": 4317
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4379-4396",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4380-4397",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 4379,
-    "end_char": 4396
+    "start_char": 4380,
+    "end_char": 4397
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4399-4408",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4400-4409",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:consorcio",
     "span": "Consorcio",
-    "start_char": 4399,
-    "end_char": 4408
+    "start_char": 4400,
+    "end_char": 4409
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4430-4451",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4431-4452",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 4430,
-    "end_char": 4451
+    "start_char": 4431,
+    "end_char": 4452
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4910-4927",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4911-4928",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 4910,
-    "end_char": 4927
+    "start_char": 4911,
+    "end_char": 4928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4930-4939",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4931-4940",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:consorcio",
     "span": "Consorcio",
-    "start_char": 4930,
-    "end_char": 4939
+    "start_char": 4931,
+    "end_char": 4940
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4961-4982",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:4962-4983",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 4961,
-    "end_char": 4982
+    "start_char": 4962,
+    "end_char": 4983
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5110-5117",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5111-5118",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 5110,
-    "end_char": 5117
+    "start_char": 5111,
+    "end_char": 5118
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5356-5377",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5357-5378",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 5356,
-    "end_char": 5377
+    "start_char": 5357,
+    "end_char": 5378
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5448-5455",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5449-5456",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 5448,
-    "end_char": 5455
+    "start_char": 5449,
+    "end_char": 5456
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5648-5655",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5649-5656",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 5648,
-    "end_char": 5655
+    "start_char": 5649,
+    "end_char": 5656
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5704-5725",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5705-5726",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 5704,
-    "end_char": 5725
+    "start_char": 5705,
+    "end_char": 5726
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5798-5815",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5799-5816",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-empresarial",
     "span": "Grupo Empresarial",
-    "start_char": 5798,
-    "end_char": 5815
+    "start_char": 5799,
+    "end_char": 5816
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5818-5827",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:5819-5828",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:consorcio",
     "span": "Consorcio",
-    "start_char": 5818,
-    "end_char": 5827
+    "start_char": 5819,
+    "end_char": 5828
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6006-6013",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6007-6014",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 6006,
-    "end_char": 6013
+    "start_char": 6007,
+    "end_char": 6014
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6477-6484",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6340-6361",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 6340,
+    "end_char": 6361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6478-6485",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 6477,
-    "end_char": 6484
+    "start_char": 6478,
+    "end_char": 6485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6595-6616",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6596-6617",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 6595,
-    "end_char": 6616
+    "start_char": 6596,
+    "end_char": 6617
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6647-6663",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6648-6664",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 6647,
-    "end_char": 6663
+    "start_char": 6648,
+    "end_char": 6664
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6800-6810",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:6801-6811",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 6800,
-    "end_char": 6810
+    "start_char": 6801,
+    "end_char": 6811
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:7004-7027",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:7005-7028",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:prestadoras-de-servicio",
     "span": "Prestadoras de Servicio",
-    "start_char": 7004,
-    "end_char": 7027
+    "start_char": 7005,
+    "end_char": 7028
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:7030-7043",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:7031-7044",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:inmobiliarias",
     "span": "Inmobiliarias",
-    "start_char": 7030,
-    "end_char": 7043
+    "start_char": 7031,
+    "end_char": 7044
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:7101-7122",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:7102-7123",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 7101,
-    "end_char": 7122
+    "start_char": 7102,
+    "end_char": 7123
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:7230-7237",
+    "id": "urn:lex-mx:federal:statute:lraf:article:5:term-usage:7231-7238",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 7230,
-    "end_char": 7237
+    "start_char": 7231,
+    "end_char": 7238
   },
   {
     "schema_version": "0.1.0",
@@ -937,129 +964,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:1985-2001",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:1986-2002",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 1985,
-    "end_char": 2001
+    "start_char": 1986,
+    "end_char": 2002
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2175-2198",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2176-2199",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:prestadoras-de-servicio",
     "span": "Prestadoras de Servicio",
-    "start_char": 2175,
-    "end_char": 2198
+    "start_char": 2176,
+    "end_char": 2199
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2201-2214",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2202-2215",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:inmobiliarias",
     "span": "Inmobiliarias",
-    "start_char": 2201,
-    "end_char": 2214
+    "start_char": 2202,
+    "end_char": 2215
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2254-2277",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2255-2278",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:prestadoras-de-servicio",
     "span": "Prestadoras de Servicio",
-    "start_char": 2254,
-    "end_char": 2277
+    "start_char": 2255,
+    "end_char": 2278
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2280-2293",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2281-2294",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:inmobiliarias",
     "span": "Inmobiliarias",
-    "start_char": 2280,
-    "end_char": 2293
+    "start_char": 2281,
+    "end_char": 2294
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2509-2525",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2510-2526",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 2509,
-    "end_char": 2525
+    "start_char": 2510,
+    "end_char": 2526
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2837-2853",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2838-2854",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 2837,
-    "end_char": 2853
+    "start_char": 2838,
+    "end_char": 2854
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2915-2931",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2916-2932",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 2915,
-    "end_char": 2931
+    "start_char": 2916,
+    "end_char": 2932
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2979-3000",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:2980-3001",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2979,
-    "end_char": 3000
+    "start_char": 2980,
+    "end_char": 3001
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:3272-3282",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:3273-3283",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3272,
-    "end_char": 3282
+    "start_char": 3273,
+    "end_char": 3283
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:3381-3391",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:3382-3392",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3381,
-    "end_char": 3391
+    "start_char": 3382,
+    "end_char": 3392
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:3555-3571",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:3556-3572",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 3555,
-    "end_char": 3571
+    "start_char": 3556,
+    "end_char": 3572
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:3670-3680",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:3671-3681",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3670,
-    "end_char": 3680
+    "start_char": 3671,
+    "end_char": 3681
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:4209-4219",
+    "id": "urn:lex-mx:federal:statute:lraf:article:14:term-usage:4210-4220",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:14",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4209,
-    "end_char": 4219
+    "start_char": 4210,
+    "end_char": 4220
   },
   {
     "schema_version": "0.1.0",
@@ -1117,21 +1144,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:15:term-usage:1351-1367",
+    "id": "urn:lex-mx:federal:statute:lraf:article:15:term-usage:1352-1368",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:15",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 1351,
-    "end_char": 1367
+    "start_char": 1352,
+    "end_char": 1368
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:15:term-usage:1674-1684",
+    "id": "urn:lex-mx:federal:statute:lraf:article:15:term-usage:1675-1685",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:15",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1674,
-    "end_char": 1684
+    "start_char": 1675,
+    "end_char": 1685
   },
   {
     "schema_version": "0.1.0",
@@ -1333,57 +1360,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:2621-2631",
+    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:2622-2632",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:17",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2621,
-    "end_char": 2631
+    "start_char": 2622,
+    "end_char": 2632
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:2957-2967",
+    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:2958-2968",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:17",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2957,
-    "end_char": 2967
+    "start_char": 2958,
+    "end_char": 2968
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:2990-3011",
+    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:2991-3012",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:17",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2990,
-    "end_char": 3011
+    "start_char": 2991,
+    "end_char": 3012
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:3271-3281",
+    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:3272-3282",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:17",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 3271,
-    "end_char": 3281
+    "start_char": 3272,
+    "end_char": 3282
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:3437-3458",
+    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:3438-3459",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:17",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3437,
-    "end_char": 3458
+    "start_char": 3438,
+    "end_char": 3459
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:3524-3540",
+    "id": "urn:lex-mx:federal:statute:lraf:article:17:term-usage:3525-3541",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:17",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 3524,
-    "end_char": 3540
+    "start_char": 3525,
+    "end_char": 3541
   },
   {
     "schema_version": "0.1.0",
@@ -2017,66 +2044,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:1850-1871",
+    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:1851-1872",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:28",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1850,
-    "end_char": 1871
+    "start_char": 1851,
+    "end_char": 1872
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:1904-1911",
+    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:1905-1912",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:28",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 1904,
-    "end_char": 1911
+    "start_char": 1905,
+    "end_char": 1912
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:2212-2222",
+    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:2213-2223",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:28",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2212,
-    "end_char": 2222
+    "start_char": 2213,
+    "end_char": 2223
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:2306-2316",
+    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:2307-2317",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:28",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2306,
-    "end_char": 2316
+    "start_char": 2307,
+    "end_char": 2317
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:2676-2691",
+    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:2677-2692",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:28",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladora",
-    "start_char": 2676,
-    "end_char": 2691
+    "start_char": 2677,
+    "end_char": 2692
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:2993-3008",
+    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:2994-3009",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:28",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladora",
-    "start_char": 2993,
-    "end_char": 3008
+    "start_char": 2994,
+    "end_char": 3009
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:3059-3083",
+    "id": "urn:lex-mx:federal:statute:lraf:article:28:term-usage:3060-3084",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:28",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 3059,
-    "end_char": 3083
+    "start_char": 3060,
+    "end_char": 3084
   },
   {
     "schema_version": "0.1.0",
@@ -2161,12 +2188,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:31:term-usage:572-593",
+    "id": "urn:lex-mx:federal:statute:lraf:article:31:term-usage:573-594",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:31",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 572,
-    "end_char": 593
+    "start_char": 573,
+    "end_char": 594
   },
   {
     "schema_version": "0.1.0",
@@ -2449,6 +2476,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:37:term-usage:728-749",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 728,
+    "end_char": 749
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lraf:article:37:term-usage:770-787",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:37",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-empresarial",
@@ -2656,6 +2692,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:37:term-usage:2720-2739",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivo Relevante",
+    "start_char": 2720,
+    "end_char": 2739
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lraf:article:37:term-usage:3188-3208",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:37",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:comision-supervisora",
@@ -2752,6 +2797,15 @@
     "span": "Grupo Financiero",
     "start_char": 609,
     "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:39:term-usage:671-692",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 671,
+    "end_char": 692
   },
   {
     "schema_version": "0.1.0",
@@ -2935,12 +2989,30 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:39:term-usage:3474-3495",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 3474,
+    "end_char": 3495
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lraf:article:39:term-usage:3600-3621",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:39",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:personas-relacionadas",
     "span": "Personas Relacionadas",
     "start_char": 3600,
     "end_char": 3621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:39:term-usage:3663-3682",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivo Relevante",
+    "start_char": 3663,
+    "end_char": 3682
   },
   {
     "schema_version": "0.1.0",
@@ -3061,12 +3133,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:39:term-usage:7248-7269",
+    "id": "urn:lex-mx:federal:statute:lraf:article:39:term-usage:6760-6781",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 6760,
+    "end_char": 6781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:39:term-usage:7249-7270",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:39",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 7248,
-    "end_char": 7269
+    "start_char": 7249,
+    "end_char": 7270
   },
   {
     "schema_version": "0.1.0",
@@ -3313,6 +3394,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:44:term-usage:291-312",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 291,
+    "end_char": 312
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lraf:article:44:term-usage:342-363",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:44",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
@@ -3346,6 +3436,24 @@
     "span": "Grupo Financiero",
     "start_char": 1403,
     "end_char": 1419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:44:term-usage:1466-1487",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 1466,
+    "end_char": 1487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:44:term-usage:1735-1756",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 1735,
+    "end_char": 1756
   },
   {
     "schema_version": "0.1.0",
@@ -3457,6 +3565,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:46:term-usage:788-809",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 788,
+    "end_char": 809
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lraf:article:46:term-usage:865-886",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:46",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
@@ -3475,6 +3592,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:47:term-usage:48-69",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 48,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lraf:article:47:term-usage:141-162",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:47",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
@@ -3490,6 +3616,15 @@
     "span": "Sociedad Controladora",
     "start_char": 308,
     "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:47:term-usage:343-364",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 343,
+    "end_char": 364
   },
   {
     "schema_version": "0.1.0",
@@ -3808,138 +3943,138 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2210-2231",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2211-2232",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2210,
-    "end_char": 2231
+    "start_char": 2211,
+    "end_char": 2232
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2258-2274",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2259-2275",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 2258,
-    "end_char": 2274
+    "start_char": 2259,
+    "end_char": 2275
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2443-2464",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2444-2465",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2443,
-    "end_char": 2464
+    "start_char": 2444,
+    "end_char": 2465
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2490-2506",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2491-2507",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 2490,
-    "end_char": 2506
+    "start_char": 2491,
+    "end_char": 2507
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2638-2659",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2639-2660",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2638,
-    "end_char": 2659
+    "start_char": 2639,
+    "end_char": 2660
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2685-2701",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2686-2702",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 2685,
-    "end_char": 2701
+    "start_char": 2686,
+    "end_char": 2702
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2827-2848",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2828-2849",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2827,
-    "end_char": 2848
+    "start_char": 2828,
+    "end_char": 2849
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2882-2898",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:2883-2899",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 2882,
-    "end_char": 2898
+    "start_char": 2883,
+    "end_char": 2899
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3011-3032",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3012-3033",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3011,
-    "end_char": 3032
+    "start_char": 3012,
+    "end_char": 3033
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3059-3075",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3060-3076",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 3059,
-    "end_char": 3075
+    "start_char": 3060,
+    "end_char": 3076
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3175-3196",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3176-3197",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3175,
-    "end_char": 3196
+    "start_char": 3176,
+    "end_char": 3197
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3226-3242",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3227-3243",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 3226,
-    "end_char": 3242
+    "start_char": 3227,
+    "end_char": 3243
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3458-3472",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3459-3473",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:poder-de-mando",
     "span": "Poder de Mando",
-    "start_char": 3458,
-    "end_char": 3472
+    "start_char": 3459,
+    "end_char": 3473
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3479-3500",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3480-3501",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3479,
-    "end_char": 3500
+    "start_char": 3480,
+    "end_char": 3501
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3541-3557",
+    "id": "urn:lex-mx:federal:statute:lraf:article:51:term-usage:3542-3558",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 3541,
-    "end_char": 3557
+    "start_char": 3542,
+    "end_char": 3558
   },
   {
     "schema_version": "0.1.0",
@@ -4150,84 +4285,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:350-371",
+    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:351-372",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:54",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 350,
-    "end_char": 371
+    "start_char": 351,
+    "end_char": 372
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:476-497",
+    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:477-498",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:54",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 476,
-    "end_char": 497
+    "start_char": 477,
+    "end_char": 498
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:673-694",
+    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:674-695",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:54",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 673,
-    "end_char": 694
+    "start_char": 674,
+    "end_char": 695
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1124-1145",
+    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1125-1146",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:54",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1124,
-    "end_char": 1145
+    "start_char": 1125,
+    "end_char": 1146
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1178-1194",
+    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1179-1195",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:54",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 1178,
-    "end_char": 1194
+    "start_char": 1179,
+    "end_char": 1195
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1313-1334",
+    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1314-1335",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:54",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1313,
-    "end_char": 1334
+    "start_char": 1314,
+    "end_char": 1335
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1462-1483",
+    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1463-1484",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:54",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1462,
-    "end_char": 1483
+    "start_char": 1463,
+    "end_char": 1484
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1525-1541",
+    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1526-1542",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:54",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 1525,
-    "end_char": 1541
+    "start_char": 1526,
+    "end_char": 1542
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1645-1661",
+    "id": "urn:lex-mx:federal:statute:lraf:article:54:term-usage:1646-1662",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:54",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 1645,
-    "end_char": 1661
+    "start_char": 1646,
+    "end_char": 1662
   },
   {
     "schema_version": "0.1.0",
@@ -4246,6 +4381,15 @@
     "span": "Subcontroladoras",
     "start_char": 211,
     "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:55:term-usage:777-798",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 777,
+    "end_char": 798
   },
   {
     "schema_version": "0.1.0",
@@ -4330,6 +4474,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:57:term-usage:3520-3541",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 3520,
+    "end_char": 3541
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lraf:article:57:term-usage:3566-3587",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:57",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
@@ -4363,6 +4516,24 @@
     "span": "Subcontroladoras",
     "start_char": 4073,
     "end_char": 4089
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:57:term-usage:4397-4418",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 4397,
+    "end_char": 4418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:57:term-usage:4676-4697",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 4676,
+    "end_char": 4697
   },
   {
     "schema_version": "0.1.0",
@@ -4408,6 +4579,15 @@
     "span": "Sociedad Controladora",
     "start_char": 5878,
     "end_char": 5899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:58:term-usage:682-703",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 682,
+    "end_char": 703
   },
   {
     "schema_version": "0.1.0",
@@ -4501,6 +4681,24 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:58:term-usage:3069-3090",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 3069,
+    "end_char": 3090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:58:term-usage:3661-3682",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 3661,
+    "end_char": 3682
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:71-92",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
@@ -4582,102 +4780,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:1652-1673",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:1653-1674",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1652,
-    "end_char": 1673
+    "start_char": 1653,
+    "end_char": 1674
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:1721-1737",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:1722-1738",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 1721,
-    "end_char": 1737
+    "start_char": 1722,
+    "end_char": 1738
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:1740-1756",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:1741-1757",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 1740,
-    "end_char": 1756
+    "start_char": 1741,
+    "end_char": 1757
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3118-3139",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:1900-1921",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 1900,
+    "end_char": 1921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3119-3140",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3118,
-    "end_char": 3139
+    "start_char": 3119,
+    "end_char": 3140
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3179-3195",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3180-3196",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 3179,
-    "end_char": 3195
+    "start_char": 3180,
+    "end_char": 3196
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3198-3214",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3199-3215",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 3198,
-    "end_char": 3214
+    "start_char": 3199,
+    "end_char": 3215
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3483-3504",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3484-3505",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:personas-relacionadas",
     "span": "Personas Relacionadas",
-    "start_char": 3483,
-    "end_char": 3504
+    "start_char": 3484,
+    "end_char": 3505
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3569-3590",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3570-3591",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3569,
-    "end_char": 3590
+    "start_char": 3570,
+    "end_char": 3591
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3623-3639",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3624-3640",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 3623,
-    "end_char": 3639
+    "start_char": 3624,
+    "end_char": 3640
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3705-3726",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3706-3727",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3705,
-    "end_char": 3726
+    "start_char": 3706,
+    "end_char": 3727
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3917-3938",
+    "id": "urn:lex-mx:federal:statute:lraf:article:59:term-usage:3918-3939",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:59",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3917,
-    "end_char": 3938
+    "start_char": 3918,
+    "end_char": 3939
   },
   {
     "schema_version": "0.1.0",
@@ -4699,84 +4906,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:811-832",
+    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:812-833",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 811,
-    "end_char": 832
+    "start_char": 812,
+    "end_char": 833
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:916-932",
+    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:917-933",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 916,
-    "end_char": 932
+    "start_char": 917,
+    "end_char": 933
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:935-951",
+    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:936-952",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 935,
-    "end_char": 951
+    "start_char": 936,
+    "end_char": 952
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1276-1297",
+    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1277-1298",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1276,
-    "end_char": 1297
+    "start_char": 1277,
+    "end_char": 1298
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1345-1361",
+    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1346-1362",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 1345,
-    "end_char": 1361
+    "start_char": 1346,
+    "end_char": 1362
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1364-1380",
+    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1365-1381",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 1364,
-    "end_char": 1380
+    "start_char": 1365,
+    "end_char": 1381
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1470-1491",
+    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1471-1492",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1470,
-    "end_char": 1491
+    "start_char": 1471,
+    "end_char": 1492
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1707-1725",
+    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1708-1726",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupos Financieros",
-    "start_char": 1707,
-    "end_char": 1725
+    "start_char": 1708,
+    "end_char": 1726
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1736-1760",
+    "id": "urn:lex-mx:federal:statute:lraf:article:60:term-usage:1737-1761",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:60",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 1736,
-    "end_char": 1760
+    "start_char": 1737,
+    "end_char": 1761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:61:term-usage:186-207",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 186,
+    "end_char": 207
   },
   {
     "schema_version": "0.1.0",
@@ -4831,6 +5047,24 @@
     "span": "Subcontroladoras",
     "start_char": 584,
     "end_char": 600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:62:term-usage:32-53",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 32,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:62:term-usage:471-492",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 471,
+    "end_char": 492
   },
   {
     "schema_version": "0.1.0",
@@ -4942,12 +5176,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:64:term-usage:2802-2826",
+    "id": "urn:lex-mx:federal:statute:lraf:article:64:term-usage:2569-2590",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 2569,
+    "end_char": 2590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:64:term-usage:2803-2827",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:64",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 2802,
-    "end_char": 2826
+    "start_char": 2803,
+    "end_char": 2827
   },
   {
     "schema_version": "0.1.0",
@@ -5509,75 +5752,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:652-675",
+    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:653-676",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:81",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:prestadoras-de-servicio",
     "span": "Prestadoras de Servicio",
-    "start_char": 652,
-    "end_char": 675
+    "start_char": 653,
+    "end_char": 676
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:678-691",
+    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:679-692",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:81",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:inmobiliarias",
     "span": "Inmobiliarias",
-    "start_char": 678,
-    "end_char": 691
+    "start_char": 679,
+    "end_char": 692
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:791-807",
+    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:792-808",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:81",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
     "span": "Subcontroladoras",
-    "start_char": 791,
-    "end_char": 807
+    "start_char": 792,
+    "end_char": 808
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:835-842",
+    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:836-843",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:81",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
     "span": "Control",
-    "start_char": 835,
-    "end_char": 842
+    "start_char": 836,
+    "end_char": 843
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:883-893",
+    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:884-894",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:81",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 883,
-    "end_char": 893
+    "start_char": 884,
+    "end_char": 894
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:1293-1303",
+    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:1294-1304",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:81",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1293,
-    "end_char": 1303
+    "start_char": 1294,
+    "end_char": 1304
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:1418-1428",
+    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:1419-1429",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:81",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1418,
-    "end_char": 1428
+    "start_char": 1419,
+    "end_char": 1429
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:1659-1675",
+    "id": "urn:lex-mx:federal:statute:lraf:article:81:term-usage:1660-1676",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:81",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 1659,
-    "end_char": 1675
+    "start_char": 1660,
+    "end_char": 1676
   },
   {
     "schema_version": "0.1.0",
@@ -5950,39 +6193,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:87:term-usage:324-345",
+    "id": "urn:lex-mx:federal:statute:lraf:article:87:term-usage:325-346",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 324,
-    "end_char": 345
+    "start_char": 325,
+    "end_char": 346
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:87:term-usage:839-860",
+    "id": "urn:lex-mx:federal:statute:lraf:article:87:term-usage:840-861",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 839,
-    "end_char": 860
+    "start_char": 840,
+    "end_char": 861
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:87:term-usage:1213-1223",
+    "id": "urn:lex-mx:federal:statute:lraf:article:87:term-usage:1214-1224",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1213,
-    "end_char": 1223
+    "start_char": 1214,
+    "end_char": 1224
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:87:term-usage:1621-1642",
+    "id": "urn:lex-mx:federal:statute:lraf:article:87:term-usage:1622-1643",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:87",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 1621,
-    "end_char": 1642
+    "start_char": 1622,
+    "end_char": 1643
   },
   {
     "schema_version": "0.1.0",
@@ -7021,12 +7264,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:112:term-usage:333-354",
+    "id": "urn:lex-mx:federal:statute:lraf:article:112:term-usage:334-355",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:112",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 333,
-    "end_char": 354
+    "start_char": 334,
+    "end_char": 355
   },
   {
     "schema_version": "0.1.0",
@@ -7327,120 +7570,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:1576-1592",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:1577-1593",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 1576,
-    "end_char": 1592
+    "start_char": 1577,
+    "end_char": 1593
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:1837-1853",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:1838-1854",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 1837,
-    "end_char": 1853
+    "start_char": 1838,
+    "end_char": 1854
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:1860-1884",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:1861-1885",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 1860,
-    "end_char": 1884
+    "start_char": 1861,
+    "end_char": 1885
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2390-2411",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2391-2412",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2390,
-    "end_char": 2411
+    "start_char": 2391,
+    "end_char": 2412
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2498-2514",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2499-2515",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 2498,
-    "end_char": 2514
+    "start_char": 2499,
+    "end_char": 2515
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2624-2640",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2625-2641",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 2624,
-    "end_char": 2640
+    "start_char": 2625,
+    "end_char": 2641
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2723-2744",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2724-2745",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 2723,
-    "end_char": 2744
+    "start_char": 2724,
+    "end_char": 2745
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2850-2870",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:2851-2871",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:comision-supervisora",
     "span": "Comisión Supervisora",
-    "start_char": 2850,
-    "end_char": 2870
+    "start_char": 2851,
+    "end_char": 2871
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3100-3121",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3101-3122",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3100,
-    "end_char": 3121
+    "start_char": 3101,
+    "end_char": 3122
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3172-3193",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3173-3194",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 3172,
-    "end_char": 3193
+    "start_char": 3173,
+    "end_char": 3194
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3251-3267",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3252-3268",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 3251,
-    "end_char": 3267
+    "start_char": 3252,
+    "end_char": 3268
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3281-3305",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3282-3306",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 3281,
-    "end_char": 3305
+    "start_char": 3282,
+    "end_char": 3306
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3309-3327",
+    "id": "urn:lex-mx:federal:statute:lraf:article:118:term-usage:3310-3328",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:118",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupos Financieros",
-    "start_char": 3309,
-    "end_char": 3327
+    "start_char": 3310,
+    "end_char": 3328
   },
   {
     "schema_version": "0.1.0",
@@ -9631,6 +9874,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:5401-5422",
+    "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
+    "term_id": "urn:lex-mx:federal:statute:lraf:term:directivos-relevantes",
+    "span": "Directivos Relevantes",
+    "start_char": 5401,
+    "end_char": 5422
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:5539-5546",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:control",
@@ -9721,129 +9973,129 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7158-7182",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7159-7183",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 7158,
-    "end_char": 7182
+    "start_char": 7159,
+    "end_char": 7183
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7325-7341",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7326-7342",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 7325,
-    "end_char": 7341
+    "start_char": 7326,
+    "end_char": 7342
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7460-7476",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7461-7477",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 7460,
-    "end_char": 7476
+    "start_char": 7461,
+    "end_char": 7477
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7602-7626",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7603-7627",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 7602,
-    "end_char": 7626
+    "start_char": 7603,
+    "end_char": 7627
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7709-7729",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7710-7730",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:comision-supervisora",
     "span": "Comisión Supervisora",
-    "start_char": 7709,
-    "end_char": 7729
+    "start_char": 7710,
+    "end_char": 7730
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7816-7840",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7817-7841",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 7816,
-    "end_char": 7840
+    "start_char": 7817,
+    "end_char": 7841
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7910-7926",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7911-7927",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 7910,
-    "end_char": 7926
+    "start_char": 7911,
+    "end_char": 7927
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7932-7955",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7933-7956",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:prestadoras-de-servicio",
     "span": "Prestadoras de Servicio",
-    "start_char": 7932,
-    "end_char": 7955
+    "start_char": 7933,
+    "end_char": 7956
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7958-7971",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:7959-7972",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:inmobiliarias",
     "span": "Inmobiliarias",
-    "start_char": 7958,
-    "end_char": 7971
+    "start_char": 7959,
+    "end_char": 7972
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:8160-8184",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:8161-8185",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 8160,
-    "end_char": 8184
+    "start_char": 8161,
+    "end_char": 8185
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:8415-8431",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:8416-8432",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupo Financiero",
-    "start_char": 8415,
-    "end_char": 8431
+    "start_char": 8416,
+    "end_char": 8432
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:8538-8559",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:8539-8560",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedad Controladora",
-    "start_char": 8538,
-    "end_char": 8559
+    "start_char": 8539,
+    "end_char": 8560
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:8617-8641",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:8618-8642",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 8617,
-    "end_char": 8641
+    "start_char": 8618,
+    "end_char": 8642
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:9262-9282",
+    "id": "urn:lex-mx:federal:statute:lraf:article:155:term-usage:9263-9283",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:155",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:comision-supervisora",
     "span": "Comisión Supervisora",
-    "start_char": 9262,
-    "end_char": 9282
+    "start_char": 9263,
+    "end_char": 9283
   },
   {
     "schema_version": "0.1.0",
@@ -10189,12 +10441,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:article:164:term-usage:991-1011",
+    "id": "urn:lex-mx:federal:statute:lraf:article:164:term-usage:992-1012",
     "provision_id": "urn:lex-mx:federal:statute:lraf:article:164",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:comision-supervisora",
     "span": "Comisión Supervisora",
-    "start_char": 991,
-    "end_char": 1011
+    "start_char": 992,
+    "end_char": 1012
   },
   {
     "schema_version": "0.1.0",
@@ -10243,38 +10495,38 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:809-833",
+    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:810-834",
     "provision_id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 809,
-    "end_char": 833
+    "start_char": 810,
+    "end_char": 834
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:1161-1171",
+    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:1162-1172",
     "provision_id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1161,
-    "end_char": 1171
+    "start_char": 1162,
+    "end_char": 1172
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:1182-1206",
+    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:1183-1207",
     "provision_id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
     "span": "Sociedades Controladoras",
-    "start_char": 1182,
-    "end_char": 1206
+    "start_char": 1183,
+    "end_char": 1207
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:1209-1227",
+    "id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo:term-usage:1210-1228",
     "provision_id": "urn:lex-mx:federal:statute:lraf:transitory:quincuagesimo-segundo",
     "term_id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
     "span": "Grupos Financieros",
-    "start_char": 1209,
-    "end_char": 1227
+    "start_char": 1210,
+    "end_char": 1228
   }
 ]

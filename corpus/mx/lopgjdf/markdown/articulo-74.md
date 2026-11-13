@@ -19,7 +19,9 @@ source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 
 Son obligaciones de los Oficiales Secretarios:
 
-I. Dar fe de la legalidad de los actos del Agente del Ministerio Público; II. Suplir legalmente al Ministerio Público en sus ausencias;
+I. Dar fe de la legalidad de los actos del Agente del Ministerio Público;
+
+II. Suplir legalmente al Ministerio Público en sus ausencias;
 
 III. Auxiliar al Ministerio Público, cuando se lo solicite;
 

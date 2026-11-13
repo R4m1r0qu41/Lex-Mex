@@ -19,7 +19,9 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 Los criterios orientadores que se deberán seguir en las campañas financiadas con fondos públicos serán los siguientes:
 
-I. Recomendar el consumo moderado y responsable del [Vino](articulo-3.md); II. Informar y difundir los beneficios del Vino, en materia de salud pública y los riesgos para la salud cuando se consume en exceso;
+I. Recomendar el consumo moderado y responsable del [Vino](articulo-3.md);
+
+II. Informar y difundir los beneficios del Vino, en materia de salud pública y los riesgos para la salud cuando se consume en exceso;
 
 III. Fomentar el desarrollo sostenible del cultivo de la [Vid](articulo-3.md), favoreciendo el respeto del medio ambiente;
 

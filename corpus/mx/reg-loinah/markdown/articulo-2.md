@@ -33,7 +33,9 @@ VI. INAH: el Instituto Nacional de Antropología e Historia;
 
 VII. Ley de la Materia: la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos;
 
-VIII. Ley Orgánica: la Ley Orgánica del Instituto Nacional de Antropología e Historia; IX. Normativa Interna: conjunto de normas, políticas, criterios, lineamientos, manuales, acuerdos, bases y circulares, publicados en la Normateca del Instituto, que establecen la forma en que deben desarrollarse las acciones del Instituto;
+VIII. Ley Orgánica: la Ley Orgánica del Instituto Nacional de Antropología e Historia;
+
+IX. Normativa Interna: conjunto de normas, políticas, criterios, lineamientos, manuales, acuerdos, bases y circulares, publicados en la Normateca del Instituto, que establecen la forma en que deben desarrollarse las acciones del Instituto;
 
 X. Patrimonio Cultural: el señalado en el artículo 2o. de la [Ley Orgánica](articulo-2.md);
 

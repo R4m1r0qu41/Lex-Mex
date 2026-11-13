@@ -23,4 +23,4 @@ Los grupos de trabajo en temas específicos se conformarán con los servidores p
 
 Los trabajos y sesiones de los grupos de trabajo en temas específicos se llevarán a cabo en los términos que establezca el [Reglamento Interno](articulo-2.md).
 
-Los estudios, opiniones e informes que elaboren los grupos de trabajo en temas específicos deberán ser aprobados por la Comisión. REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+Los estudios, opiniones e informes que elaboren los grupos de trabajo en temas específicos deberán ser aprobados por la Comisión.

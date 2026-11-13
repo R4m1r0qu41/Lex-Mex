@@ -21,6 +21,8 @@ Se aplicarán cuarentenas cuando exista la sospecha y confirmación de riesgos z
 
 I. Enfermedades o plagas exóticas;
 
-II. Enfermedades o plagas sujetas a campañas zoosanitarias o programas oficiales de control o erradicación; III. Enfermedades o plagas endémicas de alto impacto económico, social o de riesgo a la salud pública, y
+II. Enfermedades o plagas sujetas a campañas zoosanitarias o programas oficiales de control o erradicación;
+
+III. Enfermedades o plagas endémicas de alto impacto económico, social o de riesgo a la salud pública, y
 
 IV. Por contaminación de residuos con riesgo a la sanidad animal o salud humana.

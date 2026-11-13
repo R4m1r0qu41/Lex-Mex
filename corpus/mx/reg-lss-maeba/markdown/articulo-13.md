@@ -27,7 +27,9 @@ III. Nombre, denominación o razón social del patrón o sujeto obligado;
 
 IV. Importe del crédito y sus accesorios;
 
-V. Valor del bien de acuerdo al avalúo; VI. Fecha del avalúo;
+V. Valor del bien de acuerdo al avalúo;
+
+VI. Fecha del avalúo;
 
 VII. Importe en el que se adjudicó el bien;
 

@@ -19,7 +19,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 La presente Ley tiene por objeto:
 
-I. Establecer la distribución de competencias y la forma de coordinación entre las autoridades de los distintos órdenes de gobierno, para buscar a las [Personas Desaparecidas](articulo-4.md) y No Localizadas, y esclarecer los hechos; así como para prevenir, investigar, sancionar y erradicar los delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, así como los delitos vinculados que establece esta Ley; I Bis. Establecer la Alerta Nacional de Búsqueda, Localización e Identificación, ante la [Noticia](articulo-4.md), [Reporte](articulo-4.md) o denuncia de Persona Desaparecida o No Localizada, que deberá activarse en todo el país.
+I. Establecer la distribución de competencias y la forma de coordinación entre las autoridades de los distintos órdenes de gobierno, para buscar a las [Personas Desaparecidas](articulo-4.md) y No Localizadas, y esclarecer los hechos; así como para prevenir, investigar, sancionar y erradicar los delitos en materia de desaparición forzada de personas y desaparición cometida por particulares, así como los delitos vinculados que establece esta Ley;
+
+I Bis. Establecer la Alerta Nacional de Búsqueda, Localización e Identificación, ante la [Noticia](articulo-4.md), [Reporte](articulo-4.md) o denuncia de Persona Desaparecida o No Localizada, que deberá activarse en todo el país.
 
 La [Comisión Nacional de Búsqueda](articulo-4.md) deberá emitir el Protocolo para la activación de la Alerta, el cual deberá establecer como elementos mínimos, el mecanismo para su activación y operación que asegure la coordinación de las autoridades federales y locales, así como las obligaciones específicas de las instituciones competentes; Fracción adicionada DOF 16-07-2025
 

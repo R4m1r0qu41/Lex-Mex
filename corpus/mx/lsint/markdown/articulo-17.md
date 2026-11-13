@@ -17,4 +17,4 @@ source_sha256: d8a1702852a76f1b20742643526f32f3363e02d75f74aaa1633a608566b9dc89
 
 # Artículo 17
 
-A partir de la expedición de la [Declaratoria de Protección a la Seguridad Interior](articulo-4.md), las acciones que realicen las autoridades federales para su atención y cumplimiento, se considerarán como Acciones de [Seguridad Interior](articulo-4.md).
+A partir de la expedición de la [Declaratoria de Protección a la Seguridad Interior](articulo-4.md), las acciones que realicen las autoridades federales para su atención y cumplimiento, se considerarán como [Acciones de Seguridad Interior](articulo-4.md).

@@ -47,7 +47,9 @@ XIII. Tramitar el pago de la documentación comprobatoria de operaciones que afe
 
 XIV. Someter a consideración de su Coordinador la validación de las declaraciones fiscales que deban presentarse ante la Secretaría de Hacienda y Crédito Público conforme a la información remitida por las instancias competentes y tramitar la misma;
 
-XV. Administrar ante las instituciones bancarias las cuentas de la Institución, conciliando los resultados de las mismas con los ingresos y egresos efectuados; XVI. Participar en el dictamen de estructuras orgánicas y ocupacionales de las unidades administrativas de la Institución en coordinación con la Dirección General de Recursos Humanos;
+XV. Administrar ante las instituciones bancarias las cuentas de la Institución, conciliando los resultados de las mismas con los ingresos y egresos efectuados;
+
+XVI. Participar en el dictamen de estructuras orgánicas y ocupacionales de las unidades administrativas de la Institución en coordinación con la Dirección General de Recursos Humanos;
 
 XVII. Someter a consideración de su coordinador las solicitudes y consultas en materia presupuestal y contable a la Dirección General de Programación y ante la Secretaría de la Función Pública en materia organizacional y administración de personal de la Institución;
 

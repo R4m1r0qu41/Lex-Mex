@@ -27,7 +27,9 @@ I. Establecer las bases para dar cumplimiento a la obligación del [Estado](arti
 
 II. Contribuir al desarrollo social, cultural, científico, tecnológico, humanístico, productivo y económico del país, a través de la formación de personas con capacidad creativa, innovadora y emprendedora con un alto compromiso social que pongan al servicio de la Nación y de la sociedad sus conocimientos;
 
-III. Distribuir la función social educativa del tipo de educación superior entre la Federación, las entidades federativas y los municipios; IV. Establecer la coordinación, promoción, vinculación, participación social, evaluación y mejora continua de la educación superior en el país;
+III. Distribuir la función social educativa del tipo de educación superior entre la Federación, las entidades federativas y los municipios;
+
+IV. Establecer la coordinación, promoción, vinculación, participación social, evaluación y mejora continua de la educación superior en el país;
 
 V. Orientar los criterios para el desarrollo de las políticas públicas en materia de educación superior con visión de Estado;
 

@@ -19,7 +19,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 Los descuentos en los salarios de los trabajadores, están prohibidos salvo en los casos y con los requisitos siguientes: Párrafo reformado DOF 09-01-1974
 
-I. Pago de deudas contraídas con el patrón por anticipo de salarios, pagos hechos con exceso al trabajador, errores, pérdidas, averías o adquisición de artículos producidos por la empresa o establecimiento. La cantidad exigible en ningún caso podrá ser mayor del importe de los salarios de un mes y el descuento será al que convengan el trabajador y el patrón, sin que pueda ser mayor del treinta por ciento del excedente del salario mínimo; II. Pago de la renta a que se refiere el artículo [151](articulo-151.md) que no podrá exceder del quince por ciento del salario. Fracción reformada DOF 24-04-1972
+I. Pago de deudas contraídas con el patrón por anticipo de salarios, pagos hechos con exceso al trabajador, errores, pérdidas, averías o adquisición de artículos producidos por la empresa o establecimiento. La cantidad exigible en ningún caso podrá ser mayor del importe de los salarios de un mes y el descuento será al que convengan el trabajador y el patrón, sin que pueda ser mayor del treinta por ciento del excedente del salario mínimo;
+
+II. Pago de la renta a que se refiere el artículo [151](articulo-151.md) que no podrá exceder del quince por ciento del salario. Fracción reformada DOF 24-04-1972
 
 III. Pago de abonos para cubrir préstamos o rentas provenientes del Fondo Nacional de la Vivienda para los Trabajadores destinados al arrendamiento social, adquisición, construcción, reparación, ampliación o mejoras de vivienda o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por la persona trabajadora. Fracción reformada DOF 24-04-1972, 07-01-1982, 21-02-2025
 

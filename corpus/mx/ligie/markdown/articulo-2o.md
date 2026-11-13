@@ -41,7 +41,9 @@ a) Los estuches para cámaras fotográficas, instrumentos musicales, armas, inst
 
 b) Salvo lo dispuesto en la Regla 5 a) anterior, los envases que contengan mercancías se clasifican con ellas cuando sean de los tipos normalmente utilizados para esa clase de mercancías. Sin embargo, esta disposición no es obligatoria cuando los envases sean susceptibles de ser utilizados razonablemente de manera repetida.
 
-6. La clasificación de mercancías en las subpartidas de una misma partida está determinada legalmente por los textos de estas subpartidas y de las Notas de subpartida así como, mutatis mutandis, por las Reglas anteriores, bien entendido que solo pueden compararse subpartidas del mismo nivel. A efectos de esta Regla, también se aplican las Notas de Sección y de Capítulo, salvo disposición en contrario. II. Reglas Complementarias.
+6. La clasificación de mercancías en las subpartidas de una misma partida está determinada legalmente por los textos de estas subpartidas y de las Notas de subpartida así como, mutatis mutandis, por las Reglas anteriores, bien entendido que solo pueden compararse subpartidas del mismo nivel. A efectos de esta Regla, también se aplican las Notas de Sección y de Capítulo, salvo disposición en contrario.
+
+II. Reglas Complementarias.
 
 1ª Las Reglas Generales para la interpretación de la Tarifa de esta Ley son igualmente válidas para establecer dentro de cada subpartida la fracción arancelaria aplicable, excepto para la Sección XXII, en la que se clasifican las mercancías sujetas a operaciones especiales.
 

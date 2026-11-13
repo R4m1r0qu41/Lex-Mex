@@ -17,7 +17,9 @@ source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 
 # Artículo 72
 
-La Federación, las entidades federativas, los municipios y las [Demarcaciones Territoriales](articulo-3.md), en el ámbito de sus competencias, establecerán los instrumentos y mecanismos para garantizar el tránsito a la [Movilidad](articulo-3.md), mediante: I. El diagnóstico, información, seguimiento y evaluación de las políticas y programas de Movilidad, incorporando entre otras, la perspectiva de género;
+La Federación, las entidades federativas, los municipios y las [Demarcaciones Territoriales](articulo-3.md), en el ámbito de sus competencias, establecerán los instrumentos y mecanismos para garantizar el tránsito a la [Movilidad](articulo-3.md), mediante:
+
+I. El diagnóstico, información, seguimiento y evaluación de las políticas y programas de Movilidad, incorporando entre otras, la perspectiva de género;
 
 II. La gestión de instrumentos en la materia, tales como: cargos por congestión o restricciones de circulación en zonas determinadas; infraestructura peatonal, ciclista o de pacificación de tránsito; sistemas integrados de transporte; zonas de bajas o nulas emisiones; cargos y prohibiciones por estacionamientos en vía pública; estímulos a vehículos motorizados con baja o nula contaminación; restricciones de circulación para vehículos de carga y autos; tasas diferenciadas del impuesto de la tenencia que consideren la dimensión o características de los vehículos motorizados, entre otros, y
 

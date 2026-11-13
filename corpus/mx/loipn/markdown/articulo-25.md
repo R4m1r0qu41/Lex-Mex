@@ -31,7 +31,9 @@ V.- El Abogado General;
 
 VI.- El Presidente del Decanato;
 
-VII.- Los Directores de las escuelas, centros y unidades de enseñanza y de investigación. VIII.- Un representante profesor por cada una de las escuelas, centros y unidades de enseñanza media superior y un representante profesor por cada una de las escuelas, centros y unidades de enseñanza superior;
+VII.- Los Directores de las escuelas, centros y unidades de enseñanza y de investigación.
+
+VIII.- Un representante profesor por cada una de las escuelas, centros y unidades de enseñanza media superior y un representante profesor por cada una de las escuelas, centros y unidades de enseñanza superior;
 
 IX.- Tres representantes alumnos de enseñanza media superior, tres de enseñanza superior y uno de graduados por cada una de las siguientes ramas del conocimiento: Ciencias Sociales y Administrativas, Médico Biológicas y de Ingeniería y Ciencias Físico Matemáticas;
 

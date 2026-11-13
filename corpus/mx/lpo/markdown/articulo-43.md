@@ -25,6 +25,8 @@ II. Que los Operadores certificados utilicen sustancias prohibidas en contravenc
 
 III. Que un organismo aprobado certifique como orgánico un producto que no cumpla con lo establecido en la presente Ley debido a que se les hubiere aplicado prácticas, sustancias, materiales e ingredientes prohibidos;
 
-IV. El incumplimiento de parte del organismo aprobado de las obligaciones previstas en esta Ley y sus disposiciones; V. El uso por terceras personas de los [Métodos excluidos](articulo-3.md), a que se refiere la fracción X del artículo [3](articulo-3.md), y con motivo de ello se alteren las condiciones de integridad orgánica de las unidades de producción o de manejo orgánicos o en conversión, y
+IV. El incumplimiento de parte del organismo aprobado de las obligaciones previstas en esta Ley y sus disposiciones;
+
+V. El uso por terceras personas de los [Métodos excluidos](articulo-3.md), a que se refiere la fracción X del artículo [3](articulo-3.md), y con motivo de ello se alteren las condiciones de integridad orgánica de las unidades de producción o de manejo orgánicos o en conversión, y
 
 VI. El uso por terceras personas de substancias o materiales prohibidos y los referidos en el artículo [27](articulo-27.md), y con motivo de ello se alteren las condiciones de integridad orgánica de las operaciones orgánicas o en periodo de conversión.

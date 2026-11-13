@@ -7,8 +7,8 @@ provision_type: article
 number: "33"
 aliases: ["LFSV — Artículo 33"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf
 source_sha256: ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6
 ---
@@ -25,4 +25,6 @@ II. Delimitación de las áreas infestadas a fin de que la Secretaría esté en 
 
 III. Elaboración de programas de trabajo en el que se describan las acciones coordinadas y concertadas que realizarán para desarrollar la campaña que se haya establecido, proponiendo los apoyos que cada una de las partes se comprometa a aportar;
 
-IV. Aplicación inmediata de los métodos de combate existentes, preferentemente a través de su uso integrado; y V. Evaluación detallada de los resultados y beneficios obtenidos anualmente. Fracción reformada DOF 26-07-2007
+IV. Aplicación inmediata de los métodos de combate existentes, preferentemente a través de su uso integrado; y
+
+V. Evaluación detallada de los resultados y beneficios obtenidos anualmente. Fracción reformada DOF 26-07-2007

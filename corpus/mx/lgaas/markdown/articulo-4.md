@@ -27,7 +27,9 @@ III. El acceso físico a los alimentos, que es la posibilidad de que toda person
 
 IV. El acceso económico a los alimentos, que consiste en que el ingreso de las personas o sus familias y el costo de los alimentos o los medios para obtenerlos, tengan un equilibrio adecuado, de modo que puedan adquirirlos, o sus medios de producción necesarios en los sistemas de abasto, sin poner en riesgo la satisfacción de otras necesidades básicas;
 
-V. La aceptabilidad y pertinencia cultural de los alimentos, que consiste en que estos consideren los valores no relacionados con la nutrición que se asocian a los alimentos y el consumo de alimentos, así como las preocupaciones fundamentadas de las personas consumidoras acerca de la naturaleza de los alimentos disponibles; VI. La sostenibilidad, consistente en que la producción de alimentos tenga un impacto ambiental reducido, con respeto a la biodiversidad y los ecosistemas, a fin de posibilitar el acceso a los alimentos por parte de las generaciones presentes y futuras;
+V. La aceptabilidad y pertinencia cultural de los alimentos, que consiste en que estos consideren los valores no relacionados con la nutrición que se asocian a los alimentos y el consumo de alimentos, así como las preocupaciones fundamentadas de las personas consumidoras acerca de la naturaleza de los alimentos disponibles;
+
+VI. La sostenibilidad, consistente en que la producción de alimentos tenga un impacto ambiental reducido, con respeto a la biodiversidad y los ecosistemas, a fin de posibilitar el acceso a los alimentos por parte de las generaciones presentes y futuras;
 
 VII. La libre distribución de los insumos necesarios para producir alimentos adecuados, así como la libre distribución de semillas de la agrobiodiversidad del país;
 

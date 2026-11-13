@@ -25,7 +25,9 @@ II. Los Subprocuradores;
 
 III. Los Fiscales Especializados;
 
-IV. El Visitador General; V. El Coordinador de Supervisión y Control Regional;
+IV. El Visitador General;
+
+V. El Coordinador de Supervisión y Control Regional;
 
 VI. El Coordinador de Asuntos Internacionales y Agregadurías;
 
@@ -69,7 +71,9 @@ p) De Apoyo Jurídico y Control Ministerial en Delincuencia Organizada;
 
 X. Los Titulares de las [Delegaciones](articulo-2.md);
 
-XI. Los servidores públicos que tengan bajo su mando agentes del Ministerio Público de la Federación que ejerzan atribuciones previstas en el artículo 4 de la Ley Orgánica, siempre que cumpla con los requisitos que para ser agente del Ministerio Público de la Federación prevén las disposiciones aplicables y se sujeten al cumplimiento de las obligaciones para dicho cargo; XII. Los visitadores, y
+XI. Los servidores públicos que tengan bajo su mando agentes del Ministerio Público de la Federación que ejerzan atribuciones previstas en el artículo 4 de la Ley Orgánica, siempre que cumpla con los requisitos que para ser agente del Ministerio Público de la Federación prevén las disposiciones aplicables y se sujeten al cumplimiento de las obligaciones para dicho cargo;
+
+XII. Los visitadores, y
 
 XIII. Aquellos servidores públicos a los que el Procurador confiera dicha calidad mediante Acuerdo.
 

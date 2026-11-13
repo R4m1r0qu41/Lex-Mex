@@ -39,7 +39,9 @@ IX. Conflicto de interés: La posible afectación del desempeño imparcial y obj
 
 X. Demarcación territorial: Las demarcaciones territoriales de la Ciudad de México;
 
-XI. Desnutrición: Estado patológico resultante de una dieta deficiente en uno o varios nutrientes esenciales o de una mala asimilación de los alimentos; XII. Desperdicio de alimentos: Conjunto de alimentos descartados de la cadena que siguen siendo comestibles y adecuados para el consumo humano y que, a falta de posibles usos alternativos, terminan eliminados como residuo;
+XI. Desnutrición: Estado patológico resultante de una dieta deficiente en uno o varios nutrientes esenciales o de una mala asimilación de los alimentos;
+
+XII. Desperdicio de alimentos: Conjunto de alimentos descartados de la cadena que siguen siendo comestibles y adecuados para el consumo humano y que, a falta de posibles usos alternativos, terminan eliminados como residuo;
 
 XIII. Entorno alimentario: El determinante de la alimentación de las personas que involucra aspectos físicos, económicos, políticos y socioculturales. Se conforma de aspectos como la disponibilidad, la accesibilidad, la asequibilidad y la aceptabilidad de los alimentos, así como su conveniencia;
 
@@ -59,4 +61,6 @@ XX. Seguridad alimentaria: El abasto oportuno, suficiente e incluyente de alimen
 
 XXI. SINSAMAC: El Sistema Intersectorial Nacional de Salud, Alimentación, Medio Ambiente y Competitividad;
 
-XXII. Sistema agroalimentario mexicano: El conjunto de sistemas agroalimentarios característicos de cada región, población o comunidad en México, en el que se desarrollan las actividades relacionadas con la producción, el procesamiento, el transporte y el consumo de alimentos, y XXIII. Soberanía alimentaria: La capacidad del pueblo de México para establecer libremente las prioridades del país en materia de producción, abasto y acceso a alimentos adecuados para toda la población, con base en la producción nacional e incluyendo la elección de las técnicas y tecnologías que resulten óptimas para garantizar el bienestar de las personas.
+XXII. Sistema agroalimentario mexicano: El conjunto de sistemas agroalimentarios característicos de cada región, población o comunidad en México, en el que se desarrollan las actividades relacionadas con la producción, el procesamiento, el transporte y el consumo de alimentos, y
+
+XXIII. Soberanía alimentaria: La capacidad del pueblo de México para establecer libremente las prioridades del país en materia de producción, abasto y acceso a alimentos adecuados para toda la población, con base en la producción nacional e incluyendo la elección de las técnicas y tecnologías que resulten óptimas para garantizar el bienestar de las personas.

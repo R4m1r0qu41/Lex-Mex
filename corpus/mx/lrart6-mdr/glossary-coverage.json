@@ -8,18 +8,19 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lrart6-mdr:article:2",
-      "provision_text_sha256": "e99847c0408a352396473f367bfac766f233a2c689ac027cb6a0a62dd91ea21c",
+      "provision_text_sha256": "b120f7ef765139a888cea8c67c086ab737701c51052411ddaa4fa55b137fd24c",
       "method": "established_pass",
       "fractions": [
         "I",
         "II",
+        "III",
         "IV"
       ],
       "unread_fractions": [],
-      "term_count": 3
+      "term_count": 4
     }
   ],
   "imports": [],
-  "term_count": 3,
+  "term_count": 4,
   "usage_count": 0
 }

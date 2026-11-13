@@ -17,7 +17,9 @@ source_sha256: 1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5
 
 # Artículo 114 Quinquies
 
-No se considerará como violación a esta Ley, la conducta sancionada en el artículo [232 bis](articulo-232-Bis.md): I. Cuando la misma se realice en relación con medidas tecnológicas de protección efectivas que controlan el acceso a una obra, interpretación o ejecución, o fonograma y en virtud de las siguientes funciones:
+No se considerará como violación a esta Ley, la conducta sancionada en el artículo [232 bis](articulo-232-Bis.md):
+
+I. Cuando la misma se realice en relación con medidas tecnológicas de protección efectivas que controlan el acceso a una obra, interpretación o ejecución, o fonograma y en virtud de las siguientes funciones:
 
 a) Las actividades realizadas por una persona sin fin de lucro, con el objeto de hacer un formato accesible de una obra, interpretación o ejecución, o un fonograma, en lenguajes, sistemas y otros modos, medios y formatos especiales para una persona con discapacidad, en términos de lo dispuesto en los artículos [148](articulo-148.md), fracción VIII y [209](articulo-209.md), fracción VI de la presente Ley, siempre y cuando se realice a partir de una copia legalmente obtenida;
 

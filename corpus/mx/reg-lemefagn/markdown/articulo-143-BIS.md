@@ -7,8 +7,8 @@ provision_type: article
 number: "143 BIS"
 aliases: ["REG-LEMEFAGN — Artículo 143 BIS"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEMEFAGN.pdf
 source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 ---
@@ -23,6 +23,8 @@ I. Cuando aprueben el examen especial correspondiente a las asignaturas que haya
 
 II. Cuando desaparezca la causa a la que se refiere el artículo [140](articulo-140.md), fracción X de este ordenamiento;
 
-III. Cuando la baja haya sido por la causa a la que se refiere el artículo [140](articulo-140.md), fracción VII de este ordenamiento, o IV. Cuando se emita sentencia ejecutoriada de carácter absolutorio en el proceso penal que hubiere motivado su baja de la Institución Educativa.
+III. Cuando la baja haya sido por la causa a la que se refiere el artículo [140](articulo-140.md), fracción VII de este ordenamiento, o
+
+IV. Cuando se emita sentencia ejecutoriada de carácter absolutorio en el proceso penal que hubiere motivado su baja de la Institución Educativa.
 
 Artículo adicionado DOF 27-01-2012

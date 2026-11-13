@@ -44,7 +44,9 @@ IV. La de Orden Superior, con la copia de ésta, que será expedida por la Secre
 
 V. La de desertores, con un tanto del parte que el Oficial hubiere dado al Comandante o Jefe de dependencia. En el parte se expresará la fecha y circunstancias de la deserción, así como las armas, equipo y vestuario que se hubiere llevado el desertor, y lo que hubiere dejado de esos mismos efectos.
 
-VI. La de muertos en el hospital, con el certificado de defunción expedido por el Director del Establecimiento. VII. La de muertos en el mar, con el certificado del Médico, si lo hubiere, y en su defecto con copia del acta que para el Registro Civil debe levantar el Contador, certificada por el Jefe del Detall.
+VI. La de muertos en el hospital, con el certificado de defunción expedido por el Director del Establecimiento.
+
+VII. La de muertos en el mar, con el certificado del Médico, si lo hubiere, y en su defecto con copia del acta que para el Registro Civil debe levantar el Contador, certificada por el Jefe del Detall.
 
 VIII. La de muertos por accidentes repentinos, con un certificado expedido por cualquier Médico Naval, Militar o Civil; y en defecto de éstos, con copia de la información practicada sobre el caso por el Jefe del Detall o por algún Oficial de la Armada.
 

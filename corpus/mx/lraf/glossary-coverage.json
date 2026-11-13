@@ -8,12 +8,13 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
-      "provision_text_sha256": "8f40bd5f5cbc6973c9da886500abf203a065d037ae5dcf1c9d654517d1f6aef4",
+      "provision_text_sha256": "95c9ed6197148e339cd45e20880bacd89a68b5b04f1de6434e48c0c22655e6ac",
       "method": "established_pass",
       "fractions": [
         "I",
         "II",
         "III",
+        "IV",
         "V",
         "VI",
         "VII",
@@ -27,10 +28,10 @@
         "XV"
       ],
       "unread_fractions": [],
-      "term_count": 14
+      "term_count": 15
     }
   ],
   "imports": [],
-  "term_count": 14,
-  "usage_count": 1142
+  "term_count": 15,
+  "usage_count": 1170
 }

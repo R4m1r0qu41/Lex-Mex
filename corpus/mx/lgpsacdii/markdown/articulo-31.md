@@ -35,7 +35,9 @@ VII. Impulsar la investigación y la generación de estudios que contribuyan a l
 
 VIII. Promover el monitoreo ciudadano y el acceso a la información de los programas de servicios para la atención, cuidado y desarrollo integral infantil, a fin de garantizar la transparencia y el uso eficiente de los recursos públicos;
 
-IX. Promover la ampliación de la cobertura y la calidad de los servicios a través de esquemas diversificados y regionalizados; X. Promover la generación, actualización y aplicación de normas oficiales mexicanas que permitan la regulación de los servicios para la atención, cuidado y desarrollo integral infantil;
+IX. Promover la ampliación de la cobertura y la calidad de los servicios a través de esquemas diversificados y regionalizados;
+
+X. Promover la generación, actualización y aplicación de normas oficiales mexicanas que permitan la regulación de los servicios para la atención, cuidado y desarrollo integral infantil;
 
 XI. Promover la participación de las familias, la sociedad civil y niñas y niños en la observación y acompañamiento de la política nacional y de los servicios, y
 

@@ -23,6 +23,8 @@ I.- Salvo acuerdo en contrario de las partes:
 
 a) Se considerará recibida toda comunicación escrita que haya sido entregada personalmente al destinatario o que haya sido entregada en su establecimiento, residencia habitual o domicilio postal; en el supuesto de que no se obtenga después de una indagación razonable la ubicación de alguno de esos lugares, se considerará recibida toda comunicación escrita enviada al último establecimiento, residencia habitual o domicilio postal conocido del destinatario, por carta certificada o cualquier otro medio que deje constancia del intento de entrega;
 
-b) La comunicación se considerará recibida el día en que se haya realizado tal entrega. II.- Las disposiciones de este artículo no serán aplicables a las comunicaciones habidas en un procedimiento judicial.
+b) La comunicación se considerará recibida el día en que se haya realizado tal entrega.
+
+II.- Las disposiciones de este artículo no serán aplicables a las comunicaciones habidas en un procedimiento judicial.
 
 Artículo derogado DOF 20-04-1943. Adicionado DOF 04-01-1989. Reformado DOF 22-07-1993

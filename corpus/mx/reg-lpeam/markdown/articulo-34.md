@@ -17,4 +17,6 @@ source_sha256: 4195c0740ad46978a8b0f2d43f0ac6d77e46b0216bd6f756950b1a050044ce98
 
 # Artículo 34
 
-La persona titular de la Secretaría Técnica, para atender las solicitudes y requerimientos que el Consejo le ordene, tiene a su cargo las funciones siguientes: I. Planeación; II. Apoyo técnico; III. Coordinación interinstitucional; IV. Asuntos jurídicos, y V. Administración.
+La persona titular de la Secretaría Técnica, para atender las solicitudes y requerimientos que el Consejo le ordene, tiene a su cargo las funciones siguientes: I. Planeación; II. Apoyo técnico;
+
+III. Coordinación interinstitucional; IV. Asuntos jurídicos, y V. Administración.

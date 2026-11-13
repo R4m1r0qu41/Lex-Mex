@@ -17,4 +17,6 @@ source_sha256: 51dd3b9347aab0e63387e02f689edd4fa3ea43a93933a0027f9a9977fffba83d
 
 # Artículo 156
 
-En caso de que se solicite la cesación de efectos de una denominación de origen o una indicación geográfica protegida, esta deberá presentarse ante el Instituto con los siguientes datos y documentos: I.- El nombre, el domicilio y el correo electrónico de la persona solicitante; II.- El señalamiento de la denominación de origen o de la indicación geográfica protegida; III.- Las causas o los motivos por los que han dejado de subsistir las condiciones que la originaron, y IV.- El estudio técnico que dé soporte a las causas o motivos presentados.
+En caso de que se solicite la cesación de efectos de una denominación de origen o una indicación geográfica protegida, esta deberá presentarse ante el Instituto con los siguientes datos y documentos:
+
+I.- El nombre, el domicilio y el correo electrónico de la persona solicitante; II.- El señalamiento de la denominación de origen o de la indicación geográfica protegida; III.- Las causas o los motivos por los que han dejado de subsistir las condiciones que la originaron, y IV.- El estudio técnico que dé soporte a las causas o motivos presentados.

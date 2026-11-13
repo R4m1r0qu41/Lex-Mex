@@ -21,4 +21,6 @@ El Consejo Directivo tendrá además de las atribuciones a que se refiere el art
 
 I. Tomar las decisiones que considere necesarias para el buen despacho de los asuntos y las demás que con carácter indelegable establezca la Ley Federal de las Entidades Paraestatales;
 
-II. Autorizar la creación de los comités de apoyo que se requieran para cumplir con el objeto del [Instituto](articulo-3o.md), y III. Verificar el ejercicio de los presupuestos.
+II. Autorizar la creación de los comités de apoyo que se requieran para cumplir con el objeto del [Instituto](articulo-3o.md), y
+
+III. Verificar el ejercicio de los presupuestos.

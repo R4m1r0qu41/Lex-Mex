@@ -43,7 +43,9 @@ XI. Elaborar las propuestas de programas y anteproyectos de presupuestos anuales
 
 XII. Formular el proyecto de reglamento de sesiones que será aprobado por la Junta de Gobierno;
 
-XIII. Elaborar la propuesta de estructura básica de organización del Sistema, así como sus modificaciones, además del proyecto de Estatuto Orgánico, que deberán ser aprobados por la Junta de Gobierno; XIV. Realizar informes anuales sobre el ejercicio del presupuesto autorizado y someterlos al conocimiento y aprobación de la Junta de Gobierno;
+XIII. Elaborar la propuesta de estructura básica de organización del Sistema, así como sus modificaciones, además del proyecto de Estatuto Orgánico, que deberán ser aprobados por la Junta de Gobierno;
+
+XIV. Realizar informes anuales sobre el ejercicio del presupuesto autorizado y someterlos al conocimiento y aprobación de la Junta de Gobierno;
 
 XV. Someter ante la Junta de Gobierno, para su aprobación, el informe anual de actividades del Sistema;
 
@@ -71,7 +73,9 @@ XXVI. Nombrar y remover a los servidores públicos del Sistema, excepto aquellos
 
 XXVII. Proponer ante la Junta de Gobierno la designación o remoción del [Secretario](articulo-2.md) y del Prosecretario;
 
-XXVIII. Suscribir las condiciones generales de trabajo que regulen las relaciones laborales del Sistema con sus trabajadores de base; XXIX. Presentar anualmente a los Poderes Ejecutivo y Legislativo de la Unión un informe de actividades del Sistema; al efecto, comparecerá ante las Cámaras del Congreso en los términos legalmente establecidos;
+XXVIII. Suscribir las condiciones generales de trabajo que regulen las relaciones laborales del Sistema con sus trabajadores de base;
+
+XXIX. Presentar anualmente a los Poderes Ejecutivo y Legislativo de la Unión un informe de actividades del Sistema; al efecto, comparecerá ante las Cámaras del Congreso en los términos legalmente establecidos;
 
 XXX. Todas aquellas atribuciones otorgadas al Sistema que no hayan sido conferidas expresamente a la Junta de Gobierno, y
 

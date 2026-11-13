@@ -19,7 +19,9 @@ source_sha256: 08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69
 
 La [Secretaría](articulo-2.md) a través de la [Dirección General](articulo-2.md), tendrá las siguientes facultades en materia de seguridad privada:
 
-I. Emitir la autorización para prestar servicios de seguridad privada en dos o más entidades federativas y, en su caso, revalidar, revocar, modificar o suspender dicha autorización, en los términos previstos en la presente Ley y su [Reglamento](articulo-2.md); II. Establecer, operar y mantener actualizado el Registro Nacional de Empresas, Personal y Equipo de [Seguridad Privada](articulo-2.md);
+I. Emitir la autorización para prestar servicios de seguridad privada en dos o más entidades federativas y, en su caso, revalidar, revocar, modificar o suspender dicha autorización, en los términos previstos en la presente Ley y su [Reglamento](articulo-2.md);
+
+II. Establecer, operar y mantener actualizado el Registro Nacional de Empresas, Personal y Equipo de [Seguridad Privada](articulo-2.md);
 
 III. Realizar visitas de verificación a fin de comprobar el cumplimiento de esta Ley, su Reglamento, las Normas Oficiales Mexicanas y demás disposiciones jurídicas que resulten aplicables;
 

@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgscmm:article:7",
-      "provision_text_sha256": "f8909bb6afcaec28d066a017ff9b596d73a709ad853538780acfeec95222fc0f",
+      "provision_text_sha256": "a4f923b8471c0c499aba4f8dd0fa20e3941aac43a3ce96b1ff03f00a1f950cb4",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -30,13 +30,14 @@
         "XVII",
         "XVIII",
         "XIX",
-        "XX"
+        "XX",
+        "XXI"
       ],
       "unread_fractions": [],
-      "term_count": 20
+      "term_count": 21
     }
   ],
   "imports": [],
-  "term_count": 20,
-  "usage_count": 318
+  "term_count": 21,
+  "usage_count": 317
 }

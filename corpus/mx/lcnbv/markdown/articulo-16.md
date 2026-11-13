@@ -25,7 +25,9 @@ II.- Declarar, con acuerdo de la Junta de Gobierno en su caso, la intervención 
 
 III.- Designar interventor en los casos previstos en las leyes que regulan a las entidades;
 
-IV.- Imponer las sanciones que corresponda de acuerdo a las facultades que le delegue la Junta de Gobierno, así como conocer y resolver sobre el recurso de revocación, en los términos de las leyes aplicables y las disposiciones que emanen de ellas, así como proponer a la Junta la condonación total o parcial de las multas; V.- Autorizar, suspender o cancelar la inscripción de valores en la sección de valores del Registro Nacional de Valores e Intermediarios;
+IV.- Imponer las sanciones que corresponda de acuerdo a las facultades que le delegue la Junta de Gobierno, así como conocer y resolver sobre el recurso de revocación, en los términos de las leyes aplicables y las disposiciones que emanen de ellas, así como proponer a la Junta la condonación total o parcial de las multas;
+
+V.- Autorizar, suspender o cancelar la inscripción de valores en la sección de valores del Registro Nacional de Valores e Intermediarios;
 
 VI.- Ejecutar los acuerdos de la Junta de Gobierno;
 

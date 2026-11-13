@@ -75,7 +75,9 @@ b) Que cuente con conocimiento o experiencia en materia de seguros, legal o admi
 
 c) No ubicarse en alguno de los supuestos señalados en el artículo [58](articulo-58.md), fracción III, de esta Ley;
 
-XVII. Todas las asambleas y juntas del consejo de administración se celebrarán en el domicilio social; XVIII. La asamblea general de mutualizados designará uno o varios comisarios, mutualizados o no, encargados de la vigilancia de la sociedad, en la inteligencia de que las minorías que representen por lo menos un 10% de los votos computables en la asamblea, tendrán derecho a la designación de un comisario. Su nombramiento deberá recaer en personas que cuenten con honorabilidad e historial crediticio satisfactorio. Los comisarios tendrán todos los derechos y obligaciones que se imponen en la Ley General de Sociedades Mercantiles a los comisarios de las sociedades anónimas. No podrán ser comisarios propietarios o suplentes de las Sociedades Mutualistas:
+XVII. Todas las asambleas y juntas del consejo de administración se celebrarán en el domicilio social;
+
+XVIII. La asamblea general de mutualizados designará uno o varios comisarios, mutualizados o no, encargados de la vigilancia de la sociedad, en la inteligencia de que las minorías que representen por lo menos un 10% de los votos computables en la asamblea, tendrán derecho a la designación de un comisario. Su nombramiento deberá recaer en personas que cuenten con honorabilidad e historial crediticio satisfactorio. Los comisarios tendrán todos los derechos y obligaciones que se imponen en la Ley General de Sociedades Mercantiles a los comisarios de las sociedades anónimas. No podrán ser comisarios propietarios o suplentes de las Sociedades Mutualistas:
 
 a) Su director o equivalente;
 

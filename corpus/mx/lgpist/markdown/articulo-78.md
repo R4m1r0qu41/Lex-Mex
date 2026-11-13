@@ -19,7 +19,9 @@ source_sha256: 1e7d06c67fac4c8a100d2bb2845cc765fba5e8ce09d27d30b2b44432ffeb8c41
 
 El [Mecanismo Nacional de Prevención](articulo-5.md), tendrá las siguientes facultades:
 
-I. Elaborar informes de supervisión, informes de seguimiento e informes especiales; II. Acceder a la información sobre el número de personas privadas de la libertad, su identidad, ubicación, el número de lugares de privación de libertad y su localización física;
+I. Elaborar informes de supervisión, informes de seguimiento e informes especiales;
+
+II. Acceder a la información sobre el número de personas privadas de la libertad, su identidad, ubicación, el número de lugares de privación de libertad y su localización física;
 
 III. Acceder a toda la información sobre el trato y la situación de las personas privadas de la libertad; así como sobre las condiciones de su detención;
 
@@ -43,4 +45,6 @@ XII. Hacer recomendaciones de política pública a las autoridades competentes d
 
 XIII. Promover la participación de las organizaciones de la sociedad civil en el desarrollo integral de sus actividades, en términos de lo establecido en el artículo [77](articulo-77.md) de la presente [Ley](articulo-5.md);
 
-XIV. Elaborar y publicar anualmente un informe con el diagnóstico del Mecanismo Nacional de Prevención con relación a la situación que impere en la Federación y en cada una de las entidades federativas en materia de tortura y otros tratos o penas crueles, inhumanas o degradantes; incluyendo especialmente los informes sobre visitas a lugares de privación de libertad, recomendaciones formuladas a las autoridades de los tres órdenes de gobierno y el nivel de cumplimiento de las mismas; y XV. Las demás que se establezcan en el Protocolo Facultativo de la Convención de las Naciones Unidas contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en la Ley de la Comisión Nacional de los Derechos Humanos y su Reglamento.
+XIV. Elaborar y publicar anualmente un informe con el diagnóstico del Mecanismo Nacional de Prevención con relación a la situación que impere en la Federación y en cada una de las entidades federativas en materia de tortura y otros tratos o penas crueles, inhumanas o degradantes; incluyendo especialmente los informes sobre visitas a lugares de privación de libertad, recomendaciones formuladas a las autoridades de los tres órdenes de gobierno y el nivel de cumplimiento de las mismas; y
+
+XV. Las demás que se establezcan en el Protocolo Facultativo de la Convención de las Naciones Unidas contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, en la Ley de la Comisión Nacional de los Derechos Humanos y su Reglamento.

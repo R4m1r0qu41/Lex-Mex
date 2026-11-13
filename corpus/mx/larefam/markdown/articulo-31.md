@@ -7,8 +7,8 @@ provision_type: article
 number: "31"
 aliases: ["LAREFAM — Artículo 31"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf
 source_sha256: 9361fe806edd4f3ba0cea975e050eddbc77ff769e9bd8aa70876cb58a31e2975
 ---
@@ -27,6 +27,4 @@ En tales casos, la [Secretaría](articulo-2.md) designará un jurado idóneo que
 
 El dictamen del jurado será sometido a consideración de la persona titular de la [Presidencia de la República](articulo-2.md), la que resolverá en definitiva sobre el ascenso del interesado. Párrafo reformado DOF 16-07-2025
 
-Nota: El Decreto de reforma DOF 16-07-2025 establece en la instrucción que se reforma el artículo “31, párrafo segundo”. Sin embargo, en el cuerpo del articulado la reforma al artículo 31 se determina al párrafo tercero, dejando sin efecto el contenido del entonces párrafo tercero y repitiendo el contenido de la parte final del actual párrafo
-
-segundo.
+Nota: El Decreto de reforma DOF 16-07-2025 establece en la instrucción que se reforma el artículo “31, párrafo segundo”. Sin embargo, en el cuerpo del articulado la reforma al artículo 31 se determina al párrafo tercero, dejando sin efecto el contenido del entonces párrafo tercero y repitiendo el contenido de la parte final del actual párrafo segundo.

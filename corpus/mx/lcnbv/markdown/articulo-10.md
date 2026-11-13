@@ -17,7 +17,9 @@ source_sha256: b3b4605f2abb4d33a705c6f5569ba5eaa45a41158305ac588ad4e275705798d8
 
 # Artículo 10
 
-La Comisión para la consecución de su objeto y el ejercicio de sus facultades contará con: I.- Junta de Gobierno;
+La Comisión para la consecución de su objeto y el ejercicio de sus facultades contará con:
+
+I.- Junta de Gobierno;
 
 II.- Presidencia;
 

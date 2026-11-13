@@ -25,7 +25,9 @@ II. La firma del promovente, quien deberá ser representante o apoderado legal d
 
 III. Denominación de la asociación religiosa quejosa;
 
-IV. Domicilio para oír y recibir notificaciones en el Distrito Federal; V. Denominación de la asociación religiosa en contra de la cual se promueve la queja, así como el domicilio en que deberá efectuarse el emplazamiento;
+IV. Domicilio para oír y recibir notificaciones en el Distrito Federal;
+
+V. Denominación de la asociación religiosa en contra de la cual se promueve la queja, así como el domicilio en que deberá efectuarse el emplazamiento;
 
 VI. Las pretensiones que se reclaman;
 

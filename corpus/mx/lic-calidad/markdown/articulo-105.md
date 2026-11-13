@@ -37,6 +37,8 @@ VIII. Realizar peritajes de tercería, a solicitud de parte; así como efectuar 
 
 IX. Participar en la elaboración de [Normas Oficiales Mexicanas](articulo-4.md) y [Estándares](articulo-4.md), entre otros, y realizar estudios de viabilidad técnica sobre metrología legal en las cuales se establezca el control legal de instrumentos para medir y que deben ser considerados en el [Procedimiento de Evaluación de la Conformidad](articulo-4.md);
 
-X. En términos de las Normas Oficiales Mexicanas, aprobar los modelos de instrumentos para medir sujetos a control legal; XI. Colaborar con instituciones educativas, de investigación y desarrollo tecnológico en el desarrollo de la metrología mediante convenios o mecanismos administrativos de colaboración a nivel nacional o internacional, y
+X. En términos de las Normas Oficiales Mexicanas, aprobar los modelos de instrumentos para medir sujetos a control legal;
+
+XI. Colaborar con instituciones educativas, de investigación y desarrollo tecnológico en el desarrollo de la metrología mediante convenios o mecanismos administrativos de colaboración a nivel nacional o internacional, y
 
 XII. Las demás necesarias para el desarrollo de sus actividades que se establezcan en las leyes y reglamentos aplicables.

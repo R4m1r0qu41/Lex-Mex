@@ -23,7 +23,9 @@ I. Coordinador;
 
 II. Fiscalías de Revisión;
 
-III. Direcciones de Dictaminación del Procedimiento Penal; IV. Dirección de Notificación e Inconformidades;
+III. Direcciones de Dictaminación del Procedimiento Penal;
+
+IV. Dirección de Notificación e Inconformidades;
 
 V. Dirección de Control de Información Ministerial, y
 

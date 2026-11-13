@@ -17,4 +17,4 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 27
 
-Las delegaciones son parte integral de la Cámara a la que representan, por lo que los afiliados de la delegación lo son de la Cámara, con todos los derechos y obligaciones correspondientes.
+Las delegaciones son parte integral de la [Cámara](articulo-2.md) a la que representan, por lo que los afiliados de la delegación lo son de la Cámara, con todos los derechos y obligaciones correspondientes.

@@ -31,7 +31,9 @@ V. Ley, la Ley Federal de Fomento a las Actividades Realizadas por Organizacione
 
 VI. Registro, el Registro Federal de las Organizaciones de la Sociedad Civil;
 
-VII. Responsable de Coordinación, el servidor público que designan los titulares de las Dependencias o Entidades para coordinarse con la [Secretaría](articulo-2.md) de Desarrollo Social, con relación a las acciones de fomento; VIII. Secretaría, la Secretaría de Desarrollo Social;
+VII. Responsable de Coordinación, el servidor público que designan los titulares de las Dependencias o Entidades para coordinarse con la [Secretaría](articulo-2.md) de Desarrollo Social, con relación a las acciones de fomento;
+
+VIII. Secretaría, la Secretaría de Desarrollo Social;
 
 IX. Secretaría Técnica, la Secretaría Técnica de la Comisión, y
 

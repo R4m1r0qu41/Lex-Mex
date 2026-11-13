@@ -17,7 +17,9 @@ source_sha256: c159cd7b89e3859783f59f3c545d7d89f5cd13b7ea4fe3fd09b09e413dc6d5bb
 
 # Artículo 34
 
-La información clasificada como reservada podrá ser desclasificada: I. A partir del vencimiento del periodo de reserva;
+La información clasificada como reservada podrá ser desclasificada:
+
+I. A partir del vencimiento del periodo de reserva;
 
 II. Cuando desaparezcan las causas que dieron origen a la clasificación;
 

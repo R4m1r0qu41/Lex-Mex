@@ -31,7 +31,9 @@ V. Los libros, aparatos, instrumentos y útiles de las personas que ejerzan o se
 
 VI. Las armas que los militares en servicio activo usen, indispensables para éste, conforme a las Leyes relativas;
 
-VII. Los efectos, maquinaria e instrumentos propios para el fomento y giro de las negociaciones mercantiles e industriales, en cuanto fueren necesarios para su servicio y movimiento, a juicio de la autoridad jurisdiccional, a cuyo efecto oirá el dictamen de un perito nombrado por ella, cuyos honorarios correrán a costa de la persona deudora, pero podrán ser intervenidos juntamente con la negociación a que estén destinados; VIII. Las mieses, antes de ser cosechadas, pero no los derechos sobre las siembras;
+VII. Los efectos, maquinaria e instrumentos propios para el fomento y giro de las negociaciones mercantiles e industriales, en cuanto fueren necesarios para su servicio y movimiento, a juicio de la autoridad jurisdiccional, a cuyo efecto oirá el dictamen de un perito nombrado por ella, cuyos honorarios correrán a costa de la persona deudora, pero podrán ser intervenidos juntamente con la negociación a que estén destinados;
+
+VIII. Las mieses, antes de ser cosechadas, pero no los derechos sobre las siembras;
 
 IX. El derecho de usufructo, pero no los frutos de éste;
 

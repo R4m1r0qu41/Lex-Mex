@@ -21,7 +21,9 @@ El Consejo Técnico Consultivo Nacional de Sanidad Animal se integrará con:
 
 I. Representantes de la Secretaría, y de las dependencias y entidades de la Administración Pública Federal vinculadas con las materias de sanidad y producción animal;
 
-II. Representantes de organizaciones de productores, campesinos, propietarios rurales, de la industria de insumos para la producción y la sanidad animal, así como de la de procesamiento y comercialización de bienes de origen animal y otras organizaciones del sector social o privado con interés jurídico relacionado con las materias de sanidad y producción animal; III. Representantes de organizaciones académicas, científicas y gremiales de representación nacional vinculadas con la materia de sanidad y producción animal, y
+II. Representantes de organizaciones de productores, campesinos, propietarios rurales, de la industria de insumos para la producción y la sanidad animal, así como de la de procesamiento y comercialización de bienes de origen animal y otras organizaciones del sector social o privado con interés jurídico relacionado con las materias de sanidad y producción animal;
+
+III. Representantes de organizaciones académicas, científicas y gremiales de representación nacional vinculadas con la materia de sanidad y producción animal, y
 
 IV. Personas del sector social o privado de reconocido prestigio en materia de salud, sanidad y producción animal.
 

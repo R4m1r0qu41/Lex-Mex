@@ -15,4 +15,4 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # SÉPTIMO
 
-En un plazo de 180 días naturales los Congresos Locales deberán armonizar todos los ordenamientos locales relacionados con la presente Ley.
+En un plazo de 180 días naturales los Congresos Locales deberán armonizar todos los ordenamientos locales relacionados con la presente [Ley](articulo-6.md).

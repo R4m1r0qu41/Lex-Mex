@@ -27,7 +27,9 @@ III. Denominación de la variedad vegetal;
 
 IV. Identificación de la categoría de semilla, de conformidad con lo dispuesto en esta Ley;
 
-V. Cuando aplique, el porcentaje de germinación y en su caso, el contenido de semillas de otras variedades y especies así como el de impurezas o materia inerte; VI. En su caso, la mención y descripción del tratamiento químico que se le haya aplicado a la semilla, debiendo en este supuesto, estar teñida para advertir sobre su improcedencia para efectos de alimentación humana y animal;
+V. Cuando aplique, el porcentaje de germinación y en su caso, el contenido de semillas de otras variedades y especies así como el de impurezas o materia inerte;
+
+VI. En su caso, la mención y descripción del tratamiento químico que se le haya aplicado a la semilla, debiendo en este supuesto, estar teñida para advertir sobre su improcedencia para efectos de alimentación humana y animal;
 
 VII. Nombre o razón social del productor o responsable de la semilla y su domicilio;
 

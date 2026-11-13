@@ -17,4 +17,4 @@ source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 
 # Artículo 27
 
-La Unidad del [Sistema](articulo-7.md) estará a cargo de un Titular a nivel nacional; contará con las unidades administrativas y el personal que requiera para el cumplimiento y el ejercicio de sus atribuciones, que figuren en su estructura orgánica autorizada, de conformidad con las disposiciones normativas aplicables.
+La [Unidad del Sistema](articulo-7.md) estará a cargo de un Titular a nivel nacional; contará con las unidades administrativas y el personal que requiera para el cumplimiento y el ejercicio de sus atribuciones, que figuren en su estructura orgánica autorizada, de conformidad con las disposiciones normativas aplicables.

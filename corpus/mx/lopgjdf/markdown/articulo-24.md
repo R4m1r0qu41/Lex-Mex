@@ -19,7 +19,9 @@ source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 
 (Atribuciones no delegables). El Procurador General de Justicia del Distrito Federal, ejercerá las atribuciones no delegables siguientes:
 
-I. Fijar la política de la Procuraduría a través de su orientación, dirección y control, así como dictar las medidas para la vigilancia, supervisión y evaluación de la operación de las unidades administrativas que la integran; II. Someter al acuerdo del Jefe de Gobierno del Distrito Federal, los asuntos encomendados a la Procuraduría e informarle sobre el desarrollo de los mismos;
+I. Fijar la política de la Procuraduría a través de su orientación, dirección y control, así como dictar las medidas para la vigilancia, supervisión y evaluación de la operación de las unidades administrativas que la integran;
+
+II. Someter al acuerdo del Jefe de Gobierno del Distrito Federal, los asuntos encomendados a la Procuraduría e informarle sobre el desarrollo de los mismos;
 
 III. Proponer al Presidente de la República, a través del Jefe de Gobierno del Distrito Federal, los proyectos de leyes y reglamentos relacionados con la Procuraduría y la Seguridad Pública. Asimismo, proponer al Jefe de Gobierno del Distrito Federal, los proyectos de leyes y reglamentos relacionados con el Sistema de Justicia Penal en el Distrito Federal;
 
@@ -45,7 +47,9 @@ XIII. Acordar con los Subprocuradores, el Oficial Mayor, el Visitador Ministeria
 
 XIV. Establecer agencias de supervisión, inspección y vigilancia, para la investigación de responsabilidades administrativas o penales de los servidores públicos;
 
-XV. Establecer las bases de organización y funcionamiento del Consejo Interno del Ministerio Público; XVI. Determinar la delegación y desconcentración de las facultades en los servidores públicos de la Procuraduría;
+XV. Establecer las bases de organización y funcionamiento del Consejo Interno del Ministerio Público;
+
+XVI. Determinar la delegación y desconcentración de las facultades en los servidores públicos de la Procuraduría;
 
 XVII. Resolver los casos de duda que se susciten con motivo de la interpretación o aplicación de esta Ley y su Reglamento y emitir las instrucciones para dirimir los conflictos de competencia que se presenten entre las unidades administrativas de la Procuraduría;
 
@@ -75,7 +79,9 @@ XXIX. Establecer mediante la expedición de acuerdos, circulares y lineamientos,
 
 XXX. Participar en la Conferencia Nacional de Procuración de Justicia y demás instancias de coordinación en materia de seguridad pública y procuración de justicia a nivel local y nacional;
 
-XXXI. Asistir a las reuniones del Consejo de Prevención del Delito del Distrito Federal en calidad de Secretario Ejecutivo, en los términos de la ley de la materia; XXXII. Establecer los Lineamientos para ofrecer y entregar, con cargo a su presupuesto, recompensas en numerario a aquellas personas que colaboren eficientemente a la procuración de justicia, otorgando información sobre las investigaciones que realice la Procuraduría, o bien, a quienes apoyen en la localización o detención de personas en contra de las cuales exista mandamiento judicial;
+XXXI. Asistir a las reuniones del Consejo de Prevención del Delito del Distrito Federal en calidad de Secretario Ejecutivo, en los términos de la ley de la materia;
+
+XXXII. Establecer los Lineamientos para ofrecer y entregar, con cargo a su presupuesto, recompensas en numerario a aquellas personas que colaboren eficientemente a la procuración de justicia, otorgando información sobre las investigaciones que realice la Procuraduría, o bien, a quienes apoyen en la localización o detención de personas en contra de las cuales exista mandamiento judicial;
 
 XXXIII. Emitir los criterios de actuación que el Ministerio Público deberá observar para el ejercicio de la acción penal y de remisión, en los supuestos y condiciones que fije la ley respectiva;
 

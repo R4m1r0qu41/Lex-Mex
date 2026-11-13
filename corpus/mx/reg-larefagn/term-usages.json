@@ -154,15 +154,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14:term-usage:846-855",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:14",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
-    "span": "Dirección",
-    "start_char": 846,
-    "end_char": 855
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:15:term-usage:86-97",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:15",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
@@ -460,15 +451,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:37:term-usage:102-111",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:37",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
-    "span": "Dirección",
-    "start_char": 102,
-    "end_char": 111
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:37:term-usage:236-248",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:37",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
@@ -502,15 +484,6 @@
     "span": "Promoción",
     "start_char": 604,
     "end_char": 613
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42:term-usage:1431-1440",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:42",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
-    "span": "Dirección",
-    "start_char": 1431,
-    "end_char": 1440
   },
   {
     "schema_version": "0.1.0",
@@ -559,15 +532,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:47:term-usage:3-12",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:47",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
-    "span": "Dirección",
-    "start_char": 3,
-    "end_char": 12
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:47:term-usage:233-244",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:47",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
@@ -583,15 +547,6 @@
     "span": "Dirección",
     "start_char": 3,
     "end_char": 12
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:49:term-usage:156-165",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:49",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
-    "span": "Dirección",
-    "start_char": 156,
-    "end_char": 165
   },
   {
     "schema_version": "0.1.0",
@@ -700,24 +655,6 @@
     "span": "Especialistas",
     "start_char": 49,
     "end_char": 62
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:57:term-usage:195-204",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:57",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
-    "span": "Dirección",
-    "start_char": 195,
-    "end_char": 204
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:58:term-usage:198-207",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:58",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
-    "span": "Dirección",
-    "start_char": 198,
-    "end_char": 207
   },
   {
     "schema_version": "0.1.0",
@@ -1477,30 +1414,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111:term-usage:1351-1363",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111:term-usage:1352-1364",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
     "span": "Estado Mayor",
-    "start_char": 1351,
-    "end_char": 1363
+    "start_char": 1352,
+    "end_char": 1364
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111:term-usage:1457-1466",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111:term-usage:1458-1467",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
     "span": "Dirección",
-    "start_char": 1457,
-    "end_char": 1466
+    "start_char": 1458,
+    "end_char": 1467
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111:term-usage:1539-1548",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111:term-usage:1540-1549",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:111",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
     "span": "Dirección",
-    "start_char": 1539,
-    "end_char": 1548
+    "start_char": 1540,
+    "end_char": 1549
   },
   {
     "schema_version": "0.1.0",
@@ -1594,21 +1531,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater:term-usage:1306-1318",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater:term-usage:1307-1319",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
     "span": "Estado Mayor",
-    "start_char": 1306,
-    "end_char": 1318
+    "start_char": 1307,
+    "end_char": 1319
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater:term-usage:1610-1622",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater:term-usage:1611-1623",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:116-quater",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
     "span": "Estado Mayor",
-    "start_char": 1610,
-    "end_char": 1622
+    "start_char": 1611,
+    "end_char": 1623
   },
   {
     "schema_version": "0.1.0",
@@ -1618,15 +1555,6 @@
     "span": "Direcciones",
     "start_char": 176,
     "end_char": 187
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:117:term-usage:560-569",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:117",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
-    "span": "Dirección",
-    "start_char": 560,
-    "end_char": 569
   },
   {
     "schema_version": "0.1.0",
@@ -1657,15 +1585,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:119:term-usage:1283-1292",
-    "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:119",
-    "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
-    "span": "Dirección",
-    "start_char": 1283,
-    "end_char": 1292
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:120:term-usage:413-425",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:120",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:estado-mayor",
@@ -1675,11 +1594,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:121:term-usage:549-558",
+    "id": "urn:lex-mx:federal:regulation:reg-larefagn:article:121:term-usage:550-559",
     "provision_id": "urn:lex-mx:federal:regulation:reg-larefagn:article:121",
     "term_id": "urn:lex-mx:federal:regulation:reg-larefagn:term:direcciones",
     "span": "Dirección",
-    "start_char": 549,
-    "end_char": 558
+    "start_char": 550,
+    "end_char": 559
   }
 ]

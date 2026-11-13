@@ -27,7 +27,9 @@ III. Interrumpir por más de tres días consecutivos, total o parcialmente, la o
 
 IV. Incumplir con los términos y condiciones de construcción, desarrollo, administración y mantenimiento de la Zona, según lo previsto en el Permiso o Asignación, así como en el Plan Maestro de la Zona;
 
-V. Incumplir con las bases de regulación tarifaria establecidas en el Permiso o Asignación; VI. No mantener vigentes los seguros y coberturas, así como las pólizas de seguros de daños a terceros señalados en el Permiso o Asignación correspondiente;
+V. Incumplir con las bases de regulación tarifaria establecidas en el Permiso o Asignación;
+
+VI. No mantener vigentes los seguros y coberturas, así como las pólizas de seguros de daños a terceros señalados en el Permiso o Asignación correspondiente;
 
 VII. Ceder, hipotecar, gravar o transmitir los Permisos, los derechos y obligaciones en ellos conferidos o los bienes afectos a los mismos, en contravención a lo dispuesto en la [Ley](articulo-4.md) y las disposiciones jurídicas aplicables;
 

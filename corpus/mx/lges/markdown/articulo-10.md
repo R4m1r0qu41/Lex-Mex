@@ -39,7 +39,9 @@ IX. El establecimiento de procesos de planeación participativa de la educación
 
 X. La articulación de las estrategias y los programas de los distintos subsistemas de educación superior, con un enfoque de compromiso de las instituciones de educación superior que contribuya a la búsqueda de soluciones a los problemas nacionales, regionales y locales;
 
-XI. La promoción permanente de procesos de diagnóstico y evaluación que permitan prevenir y atender la deserción escolar, particularmente la de sectores en vulnerabilidad social; XII. La evaluación de la educación superior como un proceso integral, sistemático y participativo para su mejora continua basada, entre otros aspectos, en evaluaciones diagnósticas, de programas y de gestión institucional, así como en la acreditación en los términos que se establezcan en las disposiciones derivadas de la presente Ley;
+XI. La promoción permanente de procesos de diagnóstico y evaluación que permitan prevenir y atender la deserción escolar, particularmente la de sectores en vulnerabilidad social;
+
+XII. La evaluación de la educación superior como un proceso integral, sistemático y participativo para su mejora continua basada, entre otros aspectos, en evaluaciones diagnósticas, de programas y de gestión institucional, así como en la acreditación en los términos que se establezcan en las disposiciones derivadas de la presente Ley;
 
 XIII. El impulso de la excelencia educativa, la innovación permanente, la interculturalidad y la internacionalización solidaria en la formación profesional y en las actividades de generación, transmisión, aplicación y difusión del conocimiento;
 
@@ -63,7 +65,9 @@ XXII. El establecimiento de acciones afirmativas que coadyuven a garantizar el a
 
 XXIII. El impulso a las actividades de extensión y difusión cultural que articulen y evalúen los resultados del trabajo académico con las comunidades en que se encuentran insertas las instituciones;
 
-XXIV. La articulación y la complementariedad con los demás tipos educativos, con un enfoque nacional, regional y local; XXV. La mejora continua e integral de las tareas administrativas y de gestión de las instituciones de educación superior;
+XXIV. La articulación y la complementariedad con los demás tipos educativos, con un enfoque nacional, regional y local;
+
+XXV. La mejora continua e integral de las tareas administrativas y de gestión de las instituciones de educación superior;
 
 XXVI. La promoción del fortalecimiento institucional, el dinamismo y la diversidad de modalidades y opciones educativas en las instituciones de educación superior;
 

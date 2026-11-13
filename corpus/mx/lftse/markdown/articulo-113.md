@@ -29,6 +29,4 @@ II.- En cuatro meses:
 
 a) En caso de despido o suspensión injustificados, las acciones para exigir la reinstalación en su trabajo o la indemnización que la Ley concede, contados a partir del momento en que sea notificado el trabajador, del despido o suspensión.
 
-b) En supresión de plazas, las acciones para que se les otorgue otra equivalente a la suprimida o la indemnización de Ley, y LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
-
-ARTÍCULO 123 CONSTITUCIONAL c) La facultad de los funcionarios para suspender, cesar o disciplinar a sus trabajadores, contado el término desde que sean conocidas las causas.
+b) En supresión de plazas, las acciones para que se les otorgue otra equivalente a la suprimida o la indemnización de Ley, y c) La facultad de los funcionarios para suspender, cesar o disciplinar a sus trabajadores, contado el término desde que sean conocidas las causas.

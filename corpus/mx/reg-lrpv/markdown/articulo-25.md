@@ -17,7 +17,9 @@ source_sha256: 3ff22c0d4dda5724ded6314ddc83e072cab81433b14dd9c6056e67eb5f4f8dd1
 
 # Artículo 25
 
-Las comercializadoras y las distribuidoras deberán dar aviso al Registro de la compra o venta de vehículos que realicen, el día hábil siguiente a la enajenación, incluyendo la siguiente información: I. Nombre, denominación o razón social y domicilio del sujeto obligado;
+Las comercializadoras y las distribuidoras deberán dar aviso al Registro de la compra o venta de vehículos que realicen, el día hábil siguiente a la enajenación, incluyendo la siguiente información:
+
+I. Nombre, denominación o razón social y domicilio del sujeto obligado;
 
 II. Nombre, denominación o razón social y domicilio del adquirente del vehículo;
 

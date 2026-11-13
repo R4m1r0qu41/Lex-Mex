@@ -13,6 +13,9 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf
 source_sha256: 94e9c11b4c7f2b192eb33fb17818bea89d6d0bc5a85c85f6b08754fd6b2f6143
 ---
 
+> **Ley declarada inválida por la SCJN (no abrogada) — texto histórico.** Declaratoria de invalidez del Decreto DOF 02-03-2023 que expidió esta Ley, por Sentencia de la SCJN publicada en el Diario Oficial de la Federación el 24 de noviembre de 2023
+> Fuente formal: [Diario Oficial de la Federación](https://dof.gob.mx/nota_detalle.php?codigo=5709440&fecha=24/11/2023). No se infieren fechas ni efectos por disposición.
+
 > Título SEGUNDO · Capítulo V
 
 # Artículo 13
@@ -25,7 +28,9 @@ a) Las personas registradas formalmente ante el órgano electoral competente, cu
 
 b) Las personas integrantes de los comités nacionales, estatales, distritales, municipales, o sus equivalentes, según corresponda. En este caso, deberán acreditar su personería con el nombramiento hecho de acuerdo a los estatutos del partido, y
 
-c) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por las personas funcionarias del partido facultadas para ello. II. Las personas ciudadanas y candidatas por su propio derecho, sin que sea admisible representación alguna. Las personas candidatas deben acompañar el original o copia certificada del documento en el que conste su registro;
+c) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por las personas funcionarias del partido facultadas para ello.
+
+II. Las personas ciudadanas y candidatas por su propio derecho, sin que sea admisible representación alguna. Las personas candidatas deben acompañar el original o copia certificada del documento en el que conste su registro;
 
 III. Las organizaciones o agrupaciones políticas o de ciudadanos, a través de sus representantes legítimos, de conformidad con los estatutos respectivos o en los términos de la legislación electoral o civil aplicable, y
 

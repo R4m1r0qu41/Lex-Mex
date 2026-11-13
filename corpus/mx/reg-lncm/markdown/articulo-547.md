@@ -33,4 +33,6 @@ VI. Zonas de Embarque y Desembarque de Pilotos;
 
 VII. Límites de Puerto;
 
-VIII. Cartas de Navegación que afecten al CCTM, en su caso, y IX. Zonas de Prevención y Exclusión definitivas y provisionales, tratándose de áreas con instalaciones estratégicas.
+VIII. Cartas de Navegación que afecten al CCTM, en su caso, y
+
+IX. Zonas de Prevención y Exclusión definitivas y provisionales, tratándose de áreas con instalaciones estratégicas.

@@ -17,7 +17,9 @@ source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
 
 # Artículo 173
 
-El patrón que se dictamine en los términos del presente Reglamento estará a lo siguiente: REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN I. No serán sujetos de visitas domiciliarias por el o los ejercicios dictaminados, excepto cuando al revisar el dictamen se encuentre en su formulación irregularidades de tal naturaleza que obliguen al [Instituto](../../lss/markdown/articulo-5-A.md) a ejercer sus facultades de comprobación.
+El patrón que se dictamine en los términos del presente Reglamento estará a lo siguiente:
+
+I. No serán sujetos de visitas domiciliarias por el o los ejercicios dictaminados, excepto cuando al revisar el dictamen se encuentre en su formulación irregularidades de tal naturaleza que obliguen al [Instituto](../../lss/markdown/articulo-5-A.md) a ejercer sus facultades de comprobación.
 
 II. En los casos en que se hubieran emitido cédulas de liquidación por diferencias en el pago de cuotas y el dictamen se encuentre en proceso de formulación, el patrón deberá aclararlas, debiendo en su caso, liquidar el saldo a su cargo, tomándolas en cuenta el contador público autorizado que dictamine, como parte de su revisión en la determinación de las diferencias que resulten de su auditoría en forma específica para los trabajadores y por los periodos que se hubieran emitido, y
 

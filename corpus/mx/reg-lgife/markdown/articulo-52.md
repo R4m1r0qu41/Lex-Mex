@@ -25,7 +25,9 @@ II. Atlas de zonas de riesgo;
 
 III. Inventario Nacional de la INFE;
 
-IV. Programas de inversión; V. Programas de Certificación;
+IV. Programas de inversión;
+
+V. Programas de Certificación;
 
 VI. Programas y procesos de supervisión y verificación física de obras;
 

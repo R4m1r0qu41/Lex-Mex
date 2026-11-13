@@ -33,7 +33,9 @@ VI. Entregar la infraestructura, equipo y material necesario para la imposición
 
 VII. Informar a su coordinador sobre el destino que se de a los recursos a que se refiere la fracción anterior;
 
-VIII. Asesorar a las unidades de administración de las Coordinaciones Estatales en el trámite de los asuntos que les corresponda atender; IX. Aplicar las normas y supervisar los sistemas de control de inventarios de bienes muebles, así como dictaminar y vigilar la afectación, baja y destino final de los mismos;
+VIII. Asesorar a las unidades de administración de las Coordinaciones Estatales en el trámite de los asuntos que les corresponda atender;
+
+IX. Aplicar las normas y supervisar los sistemas de control de inventarios de bienes muebles, así como dictaminar y vigilar la afectación, baja y destino final de los mismos;
 
 X. Proponer a su coordinador lineamientos y normas para regular la asignación, utilización, conservación, aseguramiento, reparación, mantenimiento, rehabilitación y aprovechamiento de todos los bienes al servicio de las unidades administrativas de la Institución;
 

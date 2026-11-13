@@ -21,7 +21,9 @@ Son impedimentos para celebrar el contrato de matrimonio:
 
 I. La falta de edad requerida por la ley; Fracción reformada DOF 03-06-2019
 
-II. (Se deroga). Fracción derogada DOF 03-06-2019 III. El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+II. (Se deroga). Fracción derogada DOF 03-06-2019
+
+III. El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
 IV. El parentesco de afinidad en línea recta, sin limitación alguna;
 

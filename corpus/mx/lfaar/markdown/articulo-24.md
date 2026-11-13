@@ -17,7 +17,9 @@ source_sha256: c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e
 
 # Artículo 24
 
-Son facultades y obligaciones del Consejo de Vigilancia: I. Vigilar que todos los actos del [Fondo de Aseguramiento](articulo-2o.md) se realicen con apego a esta Ley, a los Estatutos y a la normatividad aplicable;
+Son facultades y obligaciones del Consejo de Vigilancia:
+
+I. Vigilar que todos los actos del [Fondo de Aseguramiento](articulo-2o.md) se realicen con apego a esta Ley, a los Estatutos y a la normatividad aplicable;
 
 II. Rendir a la Asamblea General un informe anual sobre su gestión, sobre el desempeño del Consejo de Administración, así como del Director o Gerente;
 

@@ -25,7 +25,9 @@ II. Planear y desarrollar las técnicas que permitan optimizar la función admin
 
 III. Elaborar diagnósticos en cada una de las áreas que integra la Procuraduría, para conocer sus necesidades tecnológicas;
 
-IV. Promover el uso de tecnología de vanguardia para fortalecer los métodos de administración; V. Realizar estudios estratégicos para impulsar acciones de mejora en la administración;
+IV. Promover el uso de tecnología de vanguardia para fortalecer los métodos de administración;
+
+V. Realizar estudios estratégicos para impulsar acciones de mejora en la administración;
 
 VI. Establecer, en coordinación con la Dirección General de Comunicación Social, campañas de difusión encaminadas a la vinculación con la sociedad, bajo una perspectiva de atención a la ciudadanía;
 

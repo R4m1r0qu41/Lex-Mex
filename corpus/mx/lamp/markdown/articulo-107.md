@@ -55,7 +55,9 @@ En los procedimientos de remate la última resolución es aquélla que en forma 
 
 V. Contra actos en juicio cuyos efectos sean de imposible reparación, entendiéndose por ellos los que afecten materialmente derechos sustantivos tutelados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte;
 
-VI. Contra actos dentro o fuera de juicio que afecten a personas extrañas; VII. Contra las omisiones del o la Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal, o por suspensión de procedimiento cuando no esté satisfecha la reparación del daño; Fracción reformada DOF 14-07-2014, 13-03-2025
+VI. Contra actos dentro o fuera de juicio que afecten a personas extrañas;
+
+VII. Contra las omisiones del o la Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal, o por suspensión de procedimiento cuando no esté satisfecha la reparación del daño; Fracción reformada DOF 14-07-2014, 13-03-2025
 
 VIII. Contra actos de autoridad que determinen inhibir o declinar la competencia o el conocimiento de un asunto, y Fracción reformada DOF 14-07-2014
 

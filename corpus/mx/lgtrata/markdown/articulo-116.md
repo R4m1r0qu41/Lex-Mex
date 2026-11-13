@@ -35,7 +35,7 @@ b) Obtener, procesar e interpretar la información geodelictiva por medio del an
 
 c) Suministrar e intercambiar la información obtenida mediante los sistemas e instrumentos tecnológicos respectivos;
 
-d) Llevar a cabo campañas orientadas a prevenir y evitar los factores y causas que originan los fenómenos delictivos tipificados en esta Ley, así como difundir su contenido; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS e) Establecer relaciones de colaboración con las autoridades competentes, así como con organizaciones de la sociedad civil y privadas, con el objetivo de orientar a la sociedad en las medidas que debe adoptar para prevenir los delitos tipificados en esta Ley y los demás establecidos en otros ordenamientos.
+d) Llevar a cabo campañas orientadas a prevenir y evitar los factores y causas que originan los fenómenos delictivos tipificados en esta Ley, así como difundir su contenido; e) Establecer relaciones de colaboración con las autoridades competentes, así como con organizaciones de la sociedad civil y privadas, con el objetivo de orientar a la sociedad en las medidas que debe adoptar para prevenir los delitos tipificados en esta Ley y los demás establecidos en otros ordenamientos.
 
 VI. Crear mecanismos y proveer recursos para que las instituciones policiales y de procuración de justicia desarrollen métodos de recopilación y sistematización de información con el fin de aplicar las estrategias necesarias para hacer eficaz la investigación preventiva, con base en los siguientes criterios:
 

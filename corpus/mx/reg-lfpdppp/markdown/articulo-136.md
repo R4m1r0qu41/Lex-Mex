@@ -21,7 +21,9 @@ En las actas de verificación se hará constar:
 
 I. Nombre, denominación o razón social del verificado;
 
-II. Hora, día, mes y año en que se inicie y concluya la verificación; III. Los datos que identifiquen plenamente el domicilio, tales como calle, número, población o colonia, municipio o delegación, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique la verificación, así como número telefónico u otra forma de comunicación disponible con el verificado;
+II. Hora, día, mes y año en que se inicie y concluya la verificación;
+
+III. Los datos que identifiquen plenamente el domicilio, tales como calle, número, población o colonia, municipio o delegación, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique la verificación, así como número telefónico u otra forma de comunicación disponible con el verificado;
 
 IV. Número y fecha del oficio de comisión que la motivó;
 

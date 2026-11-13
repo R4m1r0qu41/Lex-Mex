@@ -19,7 +19,9 @@ source_sha256: 199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08
 
 Las infracciones a lo dispuesto por esta Ley y demás disposiciones que emanen de la misma, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
-Son infracciones administrativas: I. Incumplir con lo señalado en los artículos [16](articulo-16.md) o [18](articulo-18.md) de esta Ley;
+Son infracciones administrativas:
+
+I. Incumplir con lo señalado en los artículos [16](articulo-16.md) o [18](articulo-18.md) de esta Ley;
 
 II. Incumplir las disposiciones en materia de sanidad animal sobre las características y especificaciones tendientes a procurar el bienestar de los animales en términos del artículo [19](articulo-19.md) de esta Ley;
 
@@ -55,7 +57,9 @@ XVII. Incumplir con lo señalado en el artículo [59](articulo-59.md) de esta Le
 
 XVIII. La falta de cumplimiento de las disposiciones de sanidad animal, señaladas en el artículo [60](articulo-60.md) de esta Ley;
 
-XIX. Incumplir con las disposiciones relativas a las que se refiere el artículo [68](articulo-68.md) de esta Ley; XX. Incumplir con las disposiciones relativas a las que se refiere el artículo [70](articulo-70.md) de esta Ley;
+XIX. Incumplir con las disposiciones relativas a las que se refiere el artículo [68](articulo-68.md) de esta Ley;
+
+XX. Incumplir con las disposiciones relativas a las que se refiere el artículo [70](articulo-70.md) de esta Ley;
 
 XXI. Instalar y operar puntos de verificación e inspección zoosanitaria sin autorización de la Secretaría de acuerdo con el artículo [72](articulo-72.md) de esta Ley;
 
@@ -99,7 +103,9 @@ XL. No proporcionar las facilidades a que hace referencia el artículo [109](art
 
 XLI. No proporcionar a la Secretaría la información a que hace referencia el artículo [110](articulo-110.md) de esta Ley;
 
-XLII. Abstenerse de cumplir las disposiciones a que hace referencia el artículo [111](articulo-111.md) de esta Ley; XLIII. Transgredir las disposiciones establecidas en el artículo [117](articulo-117.md) de esta Ley;
+XLII. Abstenerse de cumplir las disposiciones a que hace referencia el artículo [111](articulo-111.md) de esta Ley;
+
+XLIII. Transgredir las disposiciones establecidas en el artículo [117](articulo-117.md) de esta Ley;
 
 XLIV. Incumplir con lo señalado en el artículo [120](articulo-120.md) de esta Ley;
 

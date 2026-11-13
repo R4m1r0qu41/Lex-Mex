@@ -43,6 +43,8 @@ VIII. Cónyuges, concubinas o concubinarios, así como los parientes por consang
 
 IX. Directores o empleados de empresas en las que los accionistas de la entidad ejerzan el control;
 
-X. Quienes tengan conflictos de interés o se puedan ver influenciados por intereses personales, patrimoniales o económicos de cualquiera de las personas que mantengan el control de la entidad o del consorcio o grupo empresarial al que pertenezca la entidad, o el poder de mando en cualquiera de éstos, y XI. Quienes hayan estado comprendidos en alguno de los supuestos anteriores, durante el año anterior al momento en que se pretenda hacer su designación.
+X. Quienes tengan conflictos de interés o se puedan ver influenciados por intereses personales, patrimoniales o económicos de cualquiera de las personas que mantengan el control de la entidad o del consorcio o grupo empresarial al que pertenezca la entidad, o el poder de mando en cualquiera de éstos, y
+
+XI. Quienes hayan estado comprendidos en alguno de los supuestos anteriores, durante el año anterior al momento en que se pretenda hacer su designación.
 
 Artículo adicionado DOF 10-01-2014

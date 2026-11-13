@@ -19,7 +19,9 @@ source_sha256: d9ffbbf8f19b54a93ff577abb1266e4be1316d935e79fad655242955fd80ff70
 
 El permiso de vertimiento contendrá lo siguiente:
 
-I. Nombre de la persona física o la denominación o razón social de la persona moral, según corresponda; II. Volumen de los desechos u otras materias a verter expresadas en metros cúbicos;
+I. Nombre de la persona física o la denominación o razón social de la persona moral, según corresponda;
+
+II. Volumen de los desechos u otras materias a verter expresadas en metros cúbicos;
 
 III. Descripción de la materia o desecho a verter;
 

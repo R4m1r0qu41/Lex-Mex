@@ -25,7 +25,9 @@ II. Cuando no se desahoguen las pruebas que fueron admitidas legalmente, o no se
 
 III. Cuando si se hubiere violado el derecho de defensa adecuada o de contradicción siempre y cuando trascienda en la valoración del [Tribunal de enjuiciamiento](articulo-3o.md) y que cause perjuicio;
 
-IV. Cuando la audiencia del juicio hubiere tenido lugar en ausencia de alguna de las personas cuya presencia continuada se exija bajo sanción de nulidad; V. Cuando en el juicio oral hubieren sido violadas las disposiciones establecidas por este Código sobre publicidad, oralidad y concentración del juicio, siempre que se vulneren derechos de las partes, o
+IV. Cuando la audiencia del juicio hubiere tenido lugar en ausencia de alguna de las personas cuya presencia continuada se exija bajo sanción de nulidad;
+
+V. Cuando en el juicio oral hubieren sido violadas las disposiciones establecidas por este Código sobre publicidad, oralidad y concentración del juicio, siempre que se vulneren derechos de las partes, o
 
 VI. Cuando la sentencia hubiere sido pronunciada por un Tribunal de enjuiciamiento incompetente o que, en los términos de este Código, no garantice su imparcialidad.
 

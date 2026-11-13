@@ -163,30 +163,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:1356-1359",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:1357-1360",
     "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
     "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
     "span": "Ley",
-    "start_char": 1356,
-    "end_char": 1359
+    "start_char": 1357,
+    "end_char": 1360
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:1477-1510",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:1478-1511",
     "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
     "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:fiscalias-o-procuradurias-locales",
     "span": "Fiscalías o Procuradurías locales",
-    "start_char": 1477,
-    "end_char": 1510
+    "start_char": 1478,
+    "end_char": 1511
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:1590-1593",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:11:term-usage:1591-1594",
     "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:11",
     "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
     "span": "Ley",
-    "start_char": 1590,
-    "end_char": 1593
+    "start_char": 1591,
+    "end_char": 1594
   },
   {
     "schema_version": "0.1.0",
@@ -271,12 +271,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:18:term-usage:2844-2847",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:18:term-usage:2845-2848",
     "provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:18",
     "term_id": "urn:lex-mx:federal:statute:lgpisdme:term:ley",
     "span": "Ley",
-    "start_char": 2844,
-    "end_char": 2847
+    "start_char": 2845,
+    "end_char": 2848
   },
   {
     "schema_version": "0.1.0",

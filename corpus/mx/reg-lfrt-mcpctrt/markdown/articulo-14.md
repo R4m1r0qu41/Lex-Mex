@@ -19,7 +19,9 @@ source_sha256: 73855d6591afa63747195c80772404550f8fd6d9a1d9fa82ef7a14ec9583fe6e
 
 La Secretaría de Comunicaciones y Transportes llevará el Registro de Radio y Televisión, en el que se inscribirá la siguiente información de concesionarios y permisionarios:
 
-I. Los títulos de concesión y los permisos, así como sus titulares y las modificaciones de carácter legal o técnico de las concesiones o permisos; II. Las sanciones que imponga, en el ámbito de su competencia, la Secretaría de Comunicaciones y Transportes, que hubieren quedado firmes;
+I. Los títulos de concesión y los permisos, así como sus titulares y las modificaciones de carácter legal o técnico de las concesiones o permisos;
+
+II. Las sanciones que imponga, en el ámbito de su competencia, la Secretaría de Comunicaciones y Transportes, que hubieren quedado firmes;
 
 III. La información sobre la transición tecnológica de la radio y televisión, y
 

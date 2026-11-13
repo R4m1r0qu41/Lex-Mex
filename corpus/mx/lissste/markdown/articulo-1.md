@@ -29,6 +29,8 @@ IV. Se deroga. Fracción derogada DOF 20-05-2021
 
 V. Los órganos jurisdiccionales autónomos;
 
-VI. Los órganos con autonomía por disposición constitucional; VII. El Gobierno del Distrito Federal, sus órganos político administrativos, sus órganos autónomos, sus Dependencias y Entidades, la Asamblea Legislativa del Distrito Federal, incluyendo sus diputados, y el órgano judicial del Distrito Federal, incluyendo magistrados, jueces y miembros del Consejo de la Judicatura del Distrito Federal, conforme a su normatividad específica y con base en los convenios que celebren con el Instituto, y
+VI. Los órganos con autonomía por disposición constitucional;
+
+VII. El Gobierno del Distrito Federal, sus órganos político administrativos, sus órganos autónomos, sus Dependencias y Entidades, la Asamblea Legislativa del Distrito Federal, incluyendo sus diputados, y el órgano judicial del Distrito Federal, incluyendo magistrados, jueces y miembros del Consejo de la Judicatura del Distrito Federal, conforme a su normatividad específica y con base en los convenios que celebren con el Instituto, y
 
 VIII. Los gobiernos de las demás [Entidades Federativas](articulo-6.md) de la República, los poderes legislativos y judiciales locales, las administraciones públicas municipales, y sus Trabajadores, en aquellos casos en que celebren convenios con el Instituto en los términos de esta Ley.

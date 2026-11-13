@@ -29,6 +29,8 @@ IV. Insumos de uso odontológico: todas las substancias o materiales empleados p
 
 V. Materiales quirúrgicos y de curación: Los dispositivos o materiales que adicionados o no de antisépticos o germicidas se utilizan en la práctica quirúrgica o en el tratamiento de las soluciones de continuidad, lesiones de la piel o sus anexos, y Fracción reformada DOF 14-06-1991
 
-VI. Productos higiénicos: Los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva, y Fracción adicionada DOF 14-06-1991. Reformada DOF 07-05-1997, 10-05-2023 VII. Los demás insumos que sean considerados para este uso y sean evaluados y reconocidos como dispositivos médicos por la Secretaría de Salud a solicitud. Fracción adicionada DOF 10-05-2023
+VI. Productos higiénicos: Los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva, y Fracción adicionada DOF 14-06-1991. Reformada DOF 07-05-1997, 10-05-2023
+
+VII. Los demás insumos que sean considerados para este uso y sean evaluados y reconocidos como dispositivos médicos por la Secretaría de Salud a solicitud. Fracción adicionada DOF 10-05-2023
 
 La Secretaría clasificará estos productos con base en sus características y el nivel de riesgo que representa su uso de conformidad con el Reglamento de Insumos para la Salud. Párrafo adicionado DOF 10-05-2023

@@ -21,4 +21,6 @@ El [Programa de Asignación de Vales](articulo-2.md) comprende:
 
 I. Apoyo a proyectos culturales comunitarios;
 
-II. Realización de actividades culturales y artísticas, y III. Las demás acciones que planteen los gobiernos de las entidades federativas y los municipios de las entidades federativas o las alcaldías de la Ciudad de México, tendientes a incrementar el acceso a la cultura de los [Sectores Vulnerables](articulo-2.md) dentro de su jurisdicción territorial, y que sean aceptadas en los convenios de coordinación correspondientes.
+II. Realización de actividades culturales y artísticas, y
+
+III. Las demás acciones que planteen los gobiernos de las entidades federativas y los municipios de las entidades federativas o las alcaldías de la Ciudad de México, tendientes a incrementar el acceso a la cultura de los [Sectores Vulnerables](articulo-2.md) dentro de su jurisdicción territorial, y que sean aceptadas en los convenios de coordinación correspondientes.

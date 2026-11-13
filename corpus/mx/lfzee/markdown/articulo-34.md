@@ -31,7 +31,9 @@ III. Ceder, hipotecar, gravar o transferir las autorizaciones, los derechos en e
 
 IV. Ceder o transferir los derechos de uso o arrendamiento de los inmuebles dentro de la Zona, a personas que no cuenten con Autorización;
 
-V. Incumplir la suspensión u omitir las acciones para subsanar las circunstancias que motivaron dicha medida, que hubiere ordenado la Secretaría en términos del artículo [49](articulo-49.md) de esta Ley, y VI. Incumplir las obligaciones establecidas en las disposiciones jurídicas aplicables o en la Autorización correspondiente.
+V. Incumplir la suspensión u omitir las acciones para subsanar las circunstancias que motivaron dicha medida, que hubiere ordenado la Secretaría en términos del artículo [49](articulo-49.md) de esta Ley, y
+
+VI. Incumplir las obligaciones establecidas en las disposiciones jurídicas aplicables o en la Autorización correspondiente.
 
 La Secretaría podrá cancelar la Autorización de manera inmediata únicamente en los supuestos previstos en las fracciones I, III y IV de este artículo. En los demás supuestos, la Secretaría sólo podrá cancelar la Autorización cuando previamente hubiese sancionado en términos de esta Ley, al respectivo autorizado, por lo menos en una ocasión previa dentro de un período de tres años.
 

@@ -23,7 +23,9 @@ I. Deje de cumplir con alguno de los requisitos exigidos para obtener la autoriz
 
 II. Incumpla alguna de las obligaciones inherentes al ejercicio de la autorización de la agencia aduanal, o bien, no se mantengan los medios de control correspondientes.
 
-III. Deje de ejercer la autorización de la agencia aduanal por más de seis meses, salvo en los casos en que dicha suspensión haya sido autorizada por la autoridad aduanera. IV. Se cancele o extinga la patente de agente aduanal que integra la agencia aduanal. En el caso de que la agencia aduanal se integre con patentes de diversos agentes aduanales, procederá cuando alguna de las patentes, se encuentren canceladas o extinguidas. Fracción reformada DOF 19-11-2025
+III. Deje de ejercer la autorización de la agencia aduanal por más de seis meses, salvo en los casos en que dicha suspensión haya sido autorizada por la autoridad aduanera.
+
+IV. Se cancele o extinga la patente de agente aduanal que integra la agencia aduanal. En el caso de que la agencia aduanal se integre con patentes de diversos agentes aduanales, procederá cuando alguna de las patentes, se encuentren canceladas o extinguidas. Fracción reformada DOF 19-11-2025
 
 V. Se actualice alguno de los supuestos previstos en las fracciones II, III, VII, X, XI, XIII, XV, XVI y XVII del artículo [165](articulo-165.md) de esta Ley en una operación de comercio exterior despachada por la agencia aduanal. Fracción reformada DOF 19-11-2025
 

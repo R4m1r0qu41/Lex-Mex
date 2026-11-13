@@ -29,7 +29,9 @@ II. El cónyuge, concubina o concubinario de cualquiera de las personas a que se
 
 III. Las personas que tengan litigio pendiente con la Sociedad de que se trate;
 
-IV. Las personas sentenciadas por delitos patrimoniales; las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano; V. Los quebrados y concursados que no hayan sido rehabilitados;
+IV. Las personas sentenciadas por delitos patrimoniales; las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano;
+
+V. Los quebrados y concursados que no hayan sido rehabilitados;
 
 VI. Quienes realicen funciones de inspección y vigilancia de las Sociedades Financieras Populares;
 

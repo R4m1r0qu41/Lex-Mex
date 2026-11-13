@@ -47,7 +47,9 @@ I. La Secretaría de Gobernación;
 
 II. La Secretaría de Hacienda y Crédito Público;
 
-III. El Servicio de Administración Tributaria; IV. La Unidad de Inteligencia Financiera;
+III. El Servicio de Administración Tributaria;
+
+IV. La Unidad de Inteligencia Financiera;
 
 V. La Secretaría de Relaciones Exteriores;
 

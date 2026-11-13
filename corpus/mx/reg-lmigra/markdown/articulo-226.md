@@ -37,7 +37,9 @@ VIII. Contar con un traductor o intérprete para facilitar la comunicación, en 
 
 IX. Comunicarse vía telefónica con la persona que solicite, dentro del horario establecido para ello;
 
-X. Conocer la ubicación de la estación migratoria o de la estancia provisional en la que se encuentren alojadas, de las reglas aplicables y los servicios a los que tendrá acceso; XI. Que se realice un inventario de las pertenencias que traiga consigo, así como a su depósito y resguardo en el área establecida para ello, y que le sean devueltas a su salida;
+X. Conocer la ubicación de la estación migratoria o de la estancia provisional en la que se encuentren alojadas, de las reglas aplicables y los servicios a los que tendrá acceso;
+
+XI. Que se realice un inventario de las pertenencias que traiga consigo, así como a su depósito y resguardo en el área establecida para ello, y que le sean devueltas a su salida;
 
 XII. No ser discriminadas por las autoridades a causa de su origen étnico o nacional, sexo, género, edad, discapacidad, condición social o económica, estado de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra circunstancia que tenga por objeto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 

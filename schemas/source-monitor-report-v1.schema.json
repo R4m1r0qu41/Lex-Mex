@@ -1,0 +1,162 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.local/schemas/source-monitor-report-v1.schema.json",
+  "title": "Lex-Mex source monitor report v1",
+  "description": "Read-only evidence of whether the official file behind each committed instrument still matches its recorded hash, and whether the Camara de Diputados indexes list instruments the corpus lacks. Not canonical corpus data; written to .work/source-monitor-report.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "checked_at",
+    "options",
+    "annex_sources_checked",
+    "status_counts",
+    "instruments"
+  ],
+  "properties": {
+    "schema_version": { "const": "1.0.0" },
+    "checked_at": { "type": "string", "format": "date-time" },
+    "options": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["retain", "discover", "delay_ms"],
+      "properties": {
+        "retain": { "type": "boolean" },
+        "discover": { "type": "boolean" },
+        "delay_ms": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "annex_sources_checked": {
+      "description": "Annex and formal-publication sources are not monitored yet.",
+      "const": false
+    },
+    "status_counts": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "unchanged_by_validators",
+        "unchanged_by_hash",
+        "changed",
+        "unreachable",
+        "not_checked"
+      ],
+      "properties": {
+        "unchanged_by_validators": { "type": "integer", "minimum": 0 },
+        "unchanged_by_hash": { "type": "integer", "minimum": 0 },
+        "changed": { "type": "integer", "minimum": 0 },
+        "unreachable": { "type": "integer", "minimum": 0 },
+        "not_checked": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "instruments": {
+      "description": "One entry per checked instrument, sorted by slug.",
+      "type": "array",
+      "items": { "$ref": "#/$defs/instrument" }
+    },
+    "index_entries_parsed": { "type": "integer", "minimum": 0 },
+    "index_errors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["index", "url", "message"],
+        "properties": {
+          "index": { "$ref": "#/$defs/index_kind" },
+          "url": { "type": "string", "minLength": 1 },
+          "message": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "discovered": {
+      "description": "Index entries whose PDF URL is not the official_url of any committed instrument (case-insensitive).",
+      "type": "array",
+      "items": { "$ref": "#/$defs/index_entry" }
+    },
+    "missing_from_index": {
+      "description": "Committed instruments hosted in a directory the indexes list from whose PDF URL no longer appears in the indexes. Absent when an index could not be read.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["slug", "official_url"],
+        "properties": {
+          "slug": { "type": "string", "minLength": 1 },
+          "official_url": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "status": {
+      "enum": [
+        "unchanged_by_validators",
+        "unchanged_by_hash",
+        "changed",
+        "unreachable",
+        "not_checked"
+      ]
+    },
+    "index_kind": { "enum": ["laws", "regulations"] },
+    "sha256": { "type": "string", "pattern": "^[0-9a-fA-F]{64}$" },
+    "index_entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["index", "title", "pdf_url"],
+      "properties": {
+        "index": { "$ref": "#/$defs/index_kind" },
+        "title": { "type": "string", "minLength": 1 },
+        "pdf_url": { "type": "string", "minLength": 1 },
+        "last_reform": { "type": "string", "minLength": 1 },
+        "abrogated": {
+          "description": "Present and true only when the index itself marks the instrument as abrogated.",
+          "const": true
+        }
+      }
+    },
+    "recorded": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["sha256", "retrieved_at"],
+      "properties": {
+        "sha256": { "$ref": "#/$defs/sha256" },
+        "etag": { "type": "string" },
+        "last_modified": { "type": "string" },
+        "content_length": { "type": "integer", "minimum": 0 },
+        "retrieved_at": { "type": "string", "format": "date-time" }
+      }
+    },
+    "observed": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["via"],
+      "properties": {
+        "via": { "enum": ["probe", "download"] },
+        "http_status": { "type": "integer", "minimum": 100, "maximum": 599 },
+        "sha256": { "$ref": "#/$defs/sha256" },
+        "etag": { "type": "string" },
+        "last_modified": { "type": "string" },
+        "content_length": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "instrument": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["slug", "status"],
+      "properties": {
+        "slug": { "type": "string", "minLength": 1 },
+        "official_url": { "type": "string", "minLength": 1 },
+        "status": { "$ref": "#/$defs/status" },
+        "detail": { "type": "string" },
+        "recorded": { "$ref": "#/$defs/recorded" },
+        "observed": { "$ref": "#/$defs/observed" },
+        "retained": { "enum": ["written", "already_present", "saved_for_review"] },
+        "retained_path": {
+          "description": "Path relative to the repository root, always under .work/.",
+          "type": "string",
+          "pattern": "^\\.work/"
+        },
+        "retain_error": { "type": "string" }
+      }
+    }
+  }
+}

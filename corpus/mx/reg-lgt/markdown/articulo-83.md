@@ -33,7 +33,9 @@ III. Alimentos y Bebidas.- A aquél que tiene como función principal preparar y
 
 IV. Arrendadora de Autos.- A aquél que ofrece al Turista el servicio de alquiler de automóvil, para su goce o aprovechamiento temporal, ubicados principalmente en aeropuertos, terminales de autobuses, estaciones de ferrocarril y establecimientos de hospedaje, ya sea en el mismo Destino Turístico o cuando se encuentra de camino al mismo;
 
-V. Balneario y Parque Acuático.- A aquél que ofrece los servicios de recreación, esparcimiento, relajamiento o uso medicinal; construido artificialmente con dispositivos y accesorios utilizando el agua como principal atractivo, a través de albercas, chapoteaderos, aguas termales, sulfuros y similares; VI. Campo de Golf.- A aquél que ofrece la actividad deportiva de golf desarrollada en una extensión definida de terreno y que puede ser privado, semiprivado, resort o público;
+V. Balneario y Parque Acuático.- A aquél que ofrece los servicios de recreación, esparcimiento, relajamiento o uso medicinal; construido artificialmente con dispositivos y accesorios utilizando el agua como principal atractivo, a través de albercas, chapoteaderos, aguas termales, sulfuros y similares;
+
+VI. Campo de Golf.- A aquél que ofrece la actividad deportiva de golf desarrollada en una extensión definida de terreno y que puede ser privado, semiprivado, resort o público;
 
 VII. Guardavida o Salvavida.- A aquella persona capacitada para vigilar, prevenir y atender cualquier situación que ponga en riesgo la vida o la integridad física de un ser humano, dentro o alrededor del agua, ya sea en espacios naturales (ríos, lagos, playas) o en instalaciones enfocadas a actividades acuáticas;
 

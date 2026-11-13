@@ -23,7 +23,9 @@ Corresponderá al Sistema la emisión del [Protocolo Homologado de Búsqueda](ar
 
 Los protocolos deberán elaborarse con perspectivas de género, de niñez y de derechos humanos.
 
-En lo que corresponda a cada uno contendrán, al menos, lo siguiente: I. Las formas en las que las autoridades recibirán el [Reporte](articulo-4.md), Denuncia o [Noticia](articulo-4.md) de una Persona Desaparecida o No Localizada;
+En lo que corresponda a cada uno contendrán, al menos, lo siguiente:
+
+I. Las formas en las que las autoridades recibirán el [Reporte](articulo-4.md), Denuncia o [Noticia](articulo-4.md) de una Persona Desaparecida o No Localizada;
 
 II. Los procesos de búsqueda diferenciados en función de la causa y circunstancias en que hubiere ocurrido la desaparición o no localización, incluidos en los casos de desaparición forzada y desaparición cometida por particulares;
 
@@ -55,7 +57,9 @@ XV. El procedimiento para consultar la información en los registros y bases de 
 
 XVI. Los mecanismos para confrontar información con otros registros o bases de datos locales, nacionales o internacionales;
 
-XVII. El procedimiento para entrevistar a autoridades y personas que puedan tener información que contribuya a la búsqueda; XVIII. El mecanismo para ingresar a personas a los programas de protección, en términos de lo dispuesto en la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y las disposiciones análogas en las [Entidades Federativas](articulo-4.md);
+XVII. El procedimiento para entrevistar a autoridades y personas que puedan tener información que contribuya a la búsqueda;
+
+XVIII. El mecanismo para ingresar a personas a los programas de protección, en términos de lo dispuesto en la Ley Federal para la Protección a Personas que Intervienen en el Procedimiento Penal y las disposiciones análogas en las [Entidades Federativas](articulo-4.md);
 
 XIX. Los mecanismos de difusión para la colaboración ciudadana en la búsqueda a través de medios de comunicación y redes sociales; y para la difusión del perfil de la Persona Desaparecida o No Localizada; en los términos de la legislación aplicable, y en su caso, dentro de las transmisiones correspondientes a los tiempos del Estado;
 

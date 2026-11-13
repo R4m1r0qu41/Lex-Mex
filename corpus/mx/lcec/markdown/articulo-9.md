@@ -21,7 +21,7 @@ Las [Confederaciones](articulo-2.md) tendrán por objeto:
 
 I. Representar los intereses generales de la actividad comercial o industrial, según corresponda;
 
-II. Agrupar y coordinar los intereses de las Cámaras que las integran coadyuvando a la unión y desarrollo de las mismas;
+II. Agrupar y coordinar los intereses de las [Cámaras](articulo-2.md) que las integran coadyuvando a la unión y desarrollo de las mismas;
 
 III. Desempeñar la función de árbitro en las controversias de sus confederadas, mediante un órgano constituido expresamente para el efecto;
 

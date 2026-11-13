@@ -31,7 +31,9 @@ II. Cuando la participación correspondiente implique que se tenga el control de
 
 a) No ejercen funciones de autoridad, y
 
-b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate. III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la Sociedad, en términos del último párrafo de este artículo. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley. Párrafo con fracciones adicionado DOF 10-01-2014
+b) Sus órganos de decisión operan de manera independiente al gobierno extranjero de que se trate.
+
+III. Cuando la participación correspondiente sea indirecta y no implique que se tenga el control de la Sociedad, en términos del último párrafo de este artículo. Lo anterior, sin perjuicio de los avisos o solicitudes de autorización que se deban realizar conforme a lo establecido en esta Ley. Párrafo con fracciones adicionado DOF 10-01-2014
 
 Ningún Usuario podrá participar bajo cualquier título en más del 18% del capital social de una Sociedad o controlarla directa o indirectamente. Se incluirá dentro de dicho límite o control, en forma individual o en su conjunto a:
 

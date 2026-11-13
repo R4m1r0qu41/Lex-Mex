@@ -45,7 +45,9 @@ XII. Las que determinen la ilicitud o ilegalidad de algún dato o medio de prueb
 
 XIII. La que determine la legalidad o ilegalidad de la detención; Fracción adicionada DOF 26-01-2024
 
-XIV. Las que determinen la incompetencia del órgano jurisdiccional; Fracción adicionada DOF 26-01-2024 XV. La negativa a autorizar la prórroga del plazo en la investigación complementaria; Fracción adicionada DOF 26-01-2024
+XIV. Las que determinen la incompetencia del órgano jurisdiccional; Fracción adicionada DOF 26-01-2024
+
+XV. La negativa a autorizar la prórroga del plazo en la investigación complementaria; Fracción adicionada DOF 26-01-2024
 
 XVI. La que resuelva la solicitud de la orden de comparecencia; Fracción adicionada DOF 26-01-2024
 

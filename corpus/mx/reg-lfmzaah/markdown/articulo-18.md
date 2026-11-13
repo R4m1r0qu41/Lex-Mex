@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["REG-LFMZAAH — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMZAAH_031220.pdf
 source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 ---
@@ -17,7 +17,9 @@ source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 
 # Artículo 18
 
-En las inscripciones que de monumentos inmuebles o declaratorias respectivas se hagan en los Registros Público de las Institutos competentes, se anotarán: I.- La procedencia del momento;
+En las inscripciones que de monumentos inmuebles o declaratorias respectivas se hagan en los Registros Público de las Institutos competentes, se anotarán:
+
+I.- La procedencia del momento;
 
 II.- La naturaleza del inmueble y, en su caso, nombre con que se conozca;
 

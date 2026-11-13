@@ -25,7 +25,9 @@ I Bis. Se deroga. Fracción adicionada DOF 14-07-2014. Derogada DOF 28-11-2024
 
 I Ter. Construir, equipar, restaurar, reforzar, reconstruir y rehabilitar obras públicas de infraestructura urbana y para el transporte público de pasajeros, así como intervenciones en espacio público necesarias para el desarrollo, en coordinación con los tres órdenes de gobierno, desde la planeación, programación, presupuestación y ejecución; Fracción adicionada DOF 28-11-2024
 
-I Quáter. Construir, equipar, restaurar, reforzar, reconstruir y rehabilitar infraestructura urbana, para proyectos culturales y desarrollo de habilidades, en coordinación con las autoridades competentes de los tres órdenes de gobierno; Fracción adicionada DOF 28-11-2024 I Quinquies. Construir, equipar, rehabilitar, reforzar, reconstruir y habilitar la infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno; Fracción adicionada DOF 28-11-2024
+I Quáter. Construir, equipar, restaurar, reforzar, reconstruir y rehabilitar infraestructura urbana, para proyectos culturales y desarrollo de habilidades, en coordinación con las autoridades competentes de los tres órdenes de gobierno; Fracción adicionada DOF 28-11-2024
+
+I Quinquies. Construir, equipar, rehabilitar, reforzar, reconstruir y habilitar la infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno; Fracción adicionada DOF 28-11-2024
 
 I Sexies. Participar, a solicitud de las autoridades federales competentes, en la construcción, equipamiento, rehabilitación, reforzamiento, reconstrucción, sustitución, ampliación y habilitación de obras públicas asociadas a proyectos de infraestructura, incluyendo establecimientos destinados a la prestación de servicios de salud, en coordinación con los tres órdenes de gobierno; Fracción adicionada DOF 07-05-2026
 
@@ -49,7 +51,9 @@ X.- (Se deroga). Fracción derogada DOF 04-01-1999
 
 XI.- Participar en los convenios para la construcción y explotación de los puentes internacionales;
 
-XII. Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes aéreos y terrestres, y las tarifas para el cobro de los mismos, así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes aéreos y terrestres; Fracción reformada DOF 07-12-2020 XIII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
+XII. Fijar las normas técnicas del funcionamiento y operación de los servicios públicos de comunicaciones y transportes aéreos y terrestres, y las tarifas para el cobro de los mismos, así como participar con la Secretaría de Hacienda y Crédito Público en el establecimiento de las tarifas de los servicios que presta la Administración Pública Federal de comunicaciones y transportes aéreos y terrestres; Fracción reformada DOF 07-12-2020
+
+XIII.- Fomentar la organización de sociedades cooperativas cuyo objeto sea la prestación de servicios de comunicaciones y transportes;
 
 XIV. Se deroga. Fracción derogada DOF 07-12-2020
 
@@ -77,7 +81,9 @@ XXV.- Cuidar de los aspectos ecológicos y los relativos a la planeación del de
 
 XXVI. Promover y en su caso organizar la capacitación, investigación y el desarrollo en materia de comunicaciones y transportes; lo que podrá realizar en coordinación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación; Fracción adicionada DOF 28-11-2024
 
-XXVII. Elaborar, planificar, gestionar y regular proyectos que tengan por objeto la construcción, equipamiento y desarrollo de sistemas de transporte público de pasajeros, directamente o a través de terceros, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables; Fracción adicionada DOF 28-11-2024. Reformada DOF 16-07-2025 XXVIII. Operar sistemas de transporte público de pasajeros en la República Mexicana mediante el establecimiento de convenios, en coordinación con las autoridades de los tres órdenes de gobierno; Fracción adicionada DOF 28-11-2024
+XXVII. Elaborar, planificar, gestionar y regular proyectos que tengan por objeto la construcción, equipamiento y desarrollo de sistemas de transporte público de pasajeros, directamente o a través de terceros, en coordinación con las autoridades competentes y de conformidad con las disposiciones aplicables; Fracción adicionada DOF 28-11-2024. Reformada DOF 16-07-2025
+
+XXVIII. Operar sistemas de transporte público de pasajeros en la República Mexicana mediante el establecimiento de convenios, en coordinación con las autoridades de los tres órdenes de gobierno; Fracción adicionada DOF 28-11-2024
 
 XXIX. Promover y coadyuvar en el fortalecimiento institucional de las autoridades de las entidades federativas, en materia de planeación, regulación y administración de sistemas de transporte público de pasajeros; Fracción adicionada DOF 28-11-2024
 

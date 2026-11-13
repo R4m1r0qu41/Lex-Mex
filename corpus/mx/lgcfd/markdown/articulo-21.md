@@ -47,7 +47,9 @@ XIII. Coordinar todas las acciones administrativas y operativas de la CONADE, pa
 
 XIV. Ejercer las facultades específicas que le confiera el Estatuto o las que le otorguen al ser designado, así como las que determine la Junta Directiva, para administrar y representar legalmente a la CONADE como mandatario de la misma;
 
-XV. Ejercer facultades de dominio, administración, pleitos y cobranzas a nombre de la CONADE, previa autorización que para su ejercicio le haya conferido la Junta Directiva; XVI. Aprobar estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales;
+XV. Ejercer facultades de dominio, administración, pleitos y cobranzas a nombre de la CONADE, previa autorización que para su ejercicio le haya conferido la Junta Directiva;
+
+XVI. Aprobar estrategias, metodologías, programas de investigación, contenidos, materiales, programas y planes institucionales;
 
 XVII. Formular y someter a la autorización de la Junta Directiva el Programa Presupuestal y Financiero Anual de la CONADE, con excepción de aquel que deberá presentarse a la Secretaría de Hacienda y Crédito Público para integrar el Presupuesto de Egresos de la Federación;
 
@@ -73,7 +75,9 @@ XXVII. Someter a la aprobación de la Junta Directiva las normas y bases para la
 
 XXVIII. Celebrar contratos, convenios o acuerdos con terceros, tratándose de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles, bajo su responsabilidad y con sujeción a lo dispuesto en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y conforme a las directrices que hayan sido fijadas por la Junta Directiva;
 
-XXIX. Proponer a la Junta Directiva las modificaciones que procedan a la estructura básica de la organización de la CONADE; XXX. Proponer a la Junta Directiva la designación o remoción del Prosecretario de la misma, quien podrá ser o no miembro de la CONADE;
+XXIX. Proponer a la Junta Directiva las modificaciones que procedan a la estructura básica de la organización de la CONADE;
+
+XXX. Proponer a la Junta Directiva la designación o remoción del Prosecretario de la misma, quien podrá ser o no miembro de la CONADE;
 
 XXXI. Proporcionar al Comisario la información que solicite para el desarrollo de sus funciones;
 

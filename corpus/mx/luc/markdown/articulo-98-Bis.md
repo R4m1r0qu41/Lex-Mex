@@ -19,7 +19,9 @@ source_sha256: 3db723c0e32c0f31b97d4ff15387fc7e76e29fe6b48ce84da2624a536144f938
 
 Las uniones que soliciten la autorización de la [Comisión](articulo-3.md) para dejar de operar como unión, previo acuerdo en asamblea general extraordinaria, no estarán obligadas a disolverse y liquidarse, siempre y cuando cumplan con los siguientes requisitos:
 
-I. No tener pasivos derivados de préstamos de sus socios, o de mandatos y comisiones para realizar servicios de caja pactados con los mismos; II. No mantener adeudos vencidos con entidades financieras, sociedades cuya actividad preponderante sea el otorgamiento de crédito, organismos descentralizados de los gobiernos federal, estatales, municipales y del Distrito Federal, entidades financieras del exterior, o fondos aportados a fideicomisos constituidos por los gobiernos federal, estatales, del Distrito Federal o municipales, lo cual deberán demostrar con constancias escritas de estos acreedores;
+I. No tener pasivos derivados de préstamos de sus socios, o de mandatos y comisiones para realizar servicios de caja pactados con los mismos;
+
+II. No mantener adeudos vencidos con entidades financieras, sociedades cuya actividad preponderante sea el otorgamiento de crédito, organismos descentralizados de los gobiernos federal, estatales, municipales y del Distrito Federal, entidades financieras del exterior, o fondos aportados a fideicomisos constituidos por los gobiernos federal, estatales, del Distrito Federal o municipales, lo cual deberán demostrar con constancias escritas de estos acreedores;
 
 III. Haber cubierto las cuotas de inspección y multas que la Comisión les haya impuesto y cuya aplicación haya quedado firme;
 

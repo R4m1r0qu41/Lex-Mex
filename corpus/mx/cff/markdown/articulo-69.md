@@ -51,7 +51,9 @@ IV. Que haya recaído sobre ellos sentencia condenatoria ejecutoria respecto a l
 
 V. Que tengan a su cargo créditos fiscales que hayan sido afectados en los términos de lo dispuesto por el artículo [146-A](articulo-146-A.md) de este Código.
 
-VI. Que se les hubiere condonado algún crédito fiscal. VII. Cualquier autoridad, entidad, órgano u organismo de los poderes Legislativo, Ejecutivo y Judicial, de la Federación, de las Entidades Federativas y de los municipios, órganos autónomos, partidos políticos, fideicomisos y fondos, así como cualquier persona física, moral o sindicato, que reciban y ejerzan recursos públicos federales, que se encuentren omisos en la presentación de declaraciones periódicas para el pago de contribuciones federales propias o retenidas. Tratándose de este supuesto, también se publicará en la página de Internet del Servicio de Administración Tributaria, el ejercicio y el periodo omiso.
+VI. Que se les hubiere condonado algún crédito fiscal.
+
+VII. Cualquier autoridad, entidad, órgano u organismo de los poderes Legislativo, Ejecutivo y Judicial, de la Federación, de las Entidades Federativas y de los municipios, órganos autónomos, partidos políticos, fideicomisos y fondos, así como cualquier persona física, moral o sindicato, que reciban y ejerzan recursos públicos federales, que se encuentren omisos en la presentación de declaraciones periódicas para el pago de contribuciones federales propias o retenidas. Tratándose de este supuesto, también se publicará en la página de Internet del Servicio de Administración Tributaria, el ejercicio y el periodo omiso.
 
 VIII. Sociedades anónimas que coloquen acciones en el mercado de valores bursátil y extrabursátil a que se refiere la Ley del Mercado de Valores que no cumplan con la obligación de tramitar su constancia del cumplimiento de obligaciones fiscales.
 

@@ -27,7 +27,9 @@ III. Los acreedores por fianzas, tratándose de la liquidación de una Instituci
 
 IV. Los fondos especiales a los que se refieren los artículos [274](articulo-274.md) y [275](articulo-275.md) de esta Ley, para la recuperación de apoyos otorgados y las aportaciones pendientes de cubrir por parte de la Institución de Seguros en liquidación;
 
-V. Los acreedores por contratos de reaseguro correspondientes a los seguros a que se refiere la fracción I precedente; VI. Los acreedores por contratos de reaseguro correspondientes a los seguros a que se refiere la fracción II precedente;
+V. Los acreedores por contratos de reaseguro correspondientes a los seguros a que se refiere la fracción I precedente;
+
+VI. Los acreedores por contratos de reaseguro correspondientes a los seguros a que se refiere la fracción II precedente;
 
 VII. Los acreedores por contratos de reafianzamiento;
 

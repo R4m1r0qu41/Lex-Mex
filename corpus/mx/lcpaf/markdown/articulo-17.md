@@ -37,7 +37,9 @@ VIII. Cambiar de nacionalidad el concesionario o permisionario; Fracción recorr
 
 IX. Ceder, hipotecar, gravar o transferir las concesiones y permisos, los derechos en ellos conferidos o los bienes afectos a los mismos, a algún gobierno o estado extranjero o admitir a éstos como socios de las empresas concesionarias o permisionarias; Fracción recorrida DOF 04-06-2014
 
-X. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de la [Secretaría](articulo-2o.md); Fracción recorrida DOF 04-06-2014 XI. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin autorización de la Secretaría; Fracción recorrida DOF 04-06-2014
+X. Ceder o transferir las concesiones, permisos o los derechos en ellos conferidos, sin autorización de la [Secretaría](articulo-2o.md); Fracción recorrida DOF 04-06-2014
+
+XI. Modificar o alterar substancialmente la naturaleza o condiciones de los caminos y puentes o servicios sin autorización de la Secretaría; Fracción recorrida DOF 04-06-2014
 
 XII. Prestar servicios distintos a los señalados en el permiso respectivo; Fracción recorrida DOF 04-06-2014
 

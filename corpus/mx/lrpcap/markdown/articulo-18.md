@@ -23,4 +23,4 @@ En el supuesto previsto en el artículo [13](articulo-13.md), fracción III, el 
 
 En el caso en que al solicitante no le sea posible presentar la solicitud por escrito, la presentará verbalmente, debiéndose asentar en un acta las manifestaciones del solicitante. Si el extranjero no tiene posibilidad de comunicarse verbalmente, se tomarán las medidas necesarias para asentar en el acta correspondiente las manifestaciones del solicitante.
 
-En el supuesto de que el extranjero no comprenda el idioma español, se procederá conforme a lo establecido por el último párrafo del artículo [23](articulo-23.md) de esta Ley. El procedimiento para el reconocimiento de la condición de refugiado será gratuito.
+En el supuesto de que el extranjero no comprenda el idioma español, se procederá conforme a lo establecido por el último párrafo del artículo [23](articulo-23.md) de esta [Ley](articulo-2.md). El procedimiento para el reconocimiento de la condición de refugiado será gratuito.

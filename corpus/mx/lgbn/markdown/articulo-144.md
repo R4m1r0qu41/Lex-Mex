@@ -37,7 +37,9 @@ VIII.- El valor de los bienes muebles usados que las dependencias, las unidades 
 
 IX.- El valor de los bienes muebles de propiedad federal al servicio de las dependencias y las unidades administrativas de la Presidencia de la República, así como de los muebles que formen parte de los activos o se encuentren al servicio de las entidades, cuando se pretendan enajenar, sin perjuicio de lo dispuesto por el artículo [132](articulo-132.md), párrafo quinto, de esta Ley; Fracción reformada DOF 20-05-2021
 
-X.- El valor de los bienes muebles faltantes en el inventario, a fin de tomarlo como base para la cuantificación de los pliegos preventivos de responsabilidades calificados como definitivos por la autoridad competente; XI.- El monto de la indemnización por concepto de reparación del daño cuando en un procedimiento administrativo disciplinario se haya determinado la responsabilidad de un servidor público y su falta administrativa haya causado daños y perjuicios a particulares;
+X.- El valor de los bienes muebles faltantes en el inventario, a fin de tomarlo como base para la cuantificación de los pliegos preventivos de responsabilidades calificados como definitivos por la autoridad competente;
+
+XI.- El monto de la indemnización por concepto de reparación del daño cuando en un procedimiento administrativo disciplinario se haya determinado la responsabilidad de un servidor público y su falta administrativa haya causado daños y perjuicios a particulares;
 
 XII.- El monto de la indemnización que se deba cubrir en concepto de daños y perjuicios a las personas afectadas en sus bienes, propiedades, posesiones y derechos por actos de autoridad, cuando medie resolución que ordene la restitución en su favor y ésta sea física o jurídicamente imposible, y
 

@@ -17,7 +17,9 @@ source_sha256: b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644
 
 # Artículo 48
 
-El reglamento interior del [Fondo de Protección](articulo-2.md) deberá contener, entre otras, las normas aplicables a: I. La metodología que el [Comité de Supervisión Auxiliar](articulo-2.md) empleará para el ejercicio de las funciones de supervisión auxiliar.
+El reglamento interior del [Fondo de Protección](articulo-2.md) deberá contener, entre otras, las normas aplicables a:
+
+I. La metodología que el [Comité de Supervisión Auxiliar](articulo-2.md) empleará para el ejercicio de las funciones de supervisión auxiliar.
 
 II. Las políticas y criterios con los que el [Comité de Protección al Ahorro Cooperativo](articulo-2.md) administrará la cuenta de seguro de depósitos del Fondo de Protección.
 

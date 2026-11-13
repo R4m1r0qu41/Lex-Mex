@@ -25,4 +25,6 @@ II. Los hechos no controvertidos;
 
 III. Los hechos confesados;
 
-IV. Los hechos imposibles, y V. Los hechos notoriamente inverosímiles.
+IV. Los hechos imposibles, y
+
+V. Los hechos notoriamente inverosímiles.

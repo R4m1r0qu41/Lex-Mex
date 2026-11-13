@@ -23,7 +23,9 @@ I. Del Fiscal General de Justicia Militar, General de Brigada del servicio de Ju
 
 II. De un Fiscal General Adjunto, auxiliar inmediato del Fiscal General, siendo el encargado de acordar el despacho de los asuntos de su competencia y de transmitir las órdenes y directivas al personal de la Fiscalía General, supervisando su cumplimiento.
 
-III. De un Fiscal Militar de Investigación del Delito y Control de Procesos, encargado de que se realice en forma adecuada la investigación, procesamiento y sanción de los delitos, para cumplir con el objeto del procedimiento penal. IV. De un Fiscal Militar Auxiliar del Fiscal General, encargado de supervisar que se ejerzan adecuadamente las facultades que tiene el Ministerio Público respecto a:
+III. De un Fiscal Militar de Investigación del Delito y Control de Procesos, encargado de que se realice en forma adecuada la investigación, procesamiento y sanción de los delitos, para cumplir con el objeto del procedimiento penal.
+
+IV. De un Fiscal Militar Auxiliar del Fiscal General, encargado de supervisar que se ejerzan adecuadamente las facultades que tiene el Ministerio Público respecto a:
 
 a) Las formas de terminación de la investigación, excepto la aplicación de criterios de oportunidad.
 

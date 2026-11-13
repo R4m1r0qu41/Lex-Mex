@@ -1,93 +1,93 @@
 [
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:2053-2072",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:2054-2073",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 2053,
-    "end_char": 2072
+    "start_char": 2054,
+    "end_char": 2073
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:4103-4122",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:4104-4123",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 4103,
-    "end_char": 4122
+    "start_char": 4104,
+    "end_char": 4123
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:4599-4618",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:4600-4619",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 4599,
-    "end_char": 4618
+    "start_char": 4600,
+    "end_char": 4619
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:5079-5098",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:5080-5099",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 5079,
-    "end_char": 5098
+    "start_char": 5080,
+    "end_char": 5099
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:14058-14084",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:14060-14086",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:comision-nacional-del-agua",
     "span": "Comisión Nacional del Agua",
-    "start_char": 14058,
-    "end_char": 14084
+    "start_char": 14060,
+    "end_char": 14086
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:15473-15492",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:15476-15495",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 15473,
-    "end_char": 15492
+    "start_char": 15476,
+    "end_char": 15495
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:15856-15875",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:15859-15878",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 15856,
-    "end_char": 15875
+    "start_char": 15859,
+    "end_char": 15878
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:18100-18116",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:18103-18119",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:aguas-nacionales",
     "span": "Aguas Nacionales",
-    "start_char": 18100,
-    "end_char": 18116
+    "start_char": 18103,
+    "end_char": 18119
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:19442-19461",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:19445-19464",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 19442,
-    "end_char": 19461
+    "start_char": 19445,
+    "end_char": 19464
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:26754-26773",
+    "id": "urn:lex-mx:federal:statute:lan:article:3:term-usage:26757-26776",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 26754,
-    "end_char": 26773
+    "start_char": 26757,
+    "end_char": 26776
   },
   {
     "schema_version": "0.1.0",
@@ -118,12 +118,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:8:term-usage:605-631",
+    "id": "urn:lex-mx:federal:statute:lan:article:8:term-usage:606-632",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:8",
     "term_id": "urn:lex-mx:federal:statute:lan:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 605,
-    "end_char": 631
+    "start_char": 606,
+    "end_char": 632
   },
   {
     "schema_version": "0.1.0",
@@ -163,39 +163,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:9:term-usage:11518-11544",
+    "id": "urn:lex-mx:federal:statute:lan:article:9:term-usage:11519-11545",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:9",
     "term_id": "urn:lex-mx:federal:statute:lan:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 11518,
-    "end_char": 11544
+    "start_char": 11519,
+    "end_char": 11545
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:9:term-usage:12090-12124",
+    "id": "urn:lex-mx:federal:statute:lan:article:9:term-usage:12092-12126",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:9",
     "term_id": "urn:lex-mx:federal:statute:lan:term:registro-publico-nacional-del-agua",
     "span": "Registro Público Nacional del Agua",
-    "start_char": 12090,
-    "end_char": 12124
+    "start_char": 12092,
+    "end_char": 12126
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:9:term-usage:13945-13961",
+    "id": "urn:lex-mx:federal:statute:lan:article:9:term-usage:13947-13963",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:9",
     "term_id": "urn:lex-mx:federal:statute:lan:term:aguas-nacionales",
     "span": "Aguas Nacionales",
-    "start_char": 13945,
-    "end_char": 13961
+    "start_char": 13947,
+    "end_char": 13963
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:9:term-usage:14045-14061",
+    "id": "urn:lex-mx:federal:statute:lan:article:9:term-usage:14047-14063",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:9",
     "term_id": "urn:lex-mx:federal:statute:lan:term:aguas-nacionales",
     "span": "Aguas Nacionales",
-    "start_char": 14045,
-    "end_char": 14061
+    "start_char": 14047,
+    "end_char": 14063
   },
   {
     "schema_version": "0.1.0",
@@ -388,30 +388,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:12-bis-6:term-usage:3940-3974",
+    "id": "urn:lex-mx:federal:statute:lan:article:12-bis-6:term-usage:3941-3975",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:12-bis-6",
     "term_id": "urn:lex-mx:federal:statute:lan:term:registro-publico-nacional-del-agua",
     "span": "Registro Público Nacional del Agua",
-    "start_char": 3940,
-    "end_char": 3974
+    "start_char": 3941,
+    "end_char": 3975
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:12-bis-6:term-usage:8459-8475",
+    "id": "urn:lex-mx:federal:statute:lan:article:12-bis-6:term-usage:8461-8477",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:12-bis-6",
     "term_id": "urn:lex-mx:federal:statute:lan:term:aguas-nacionales",
     "span": "Aguas Nacionales",
-    "start_char": 8459,
-    "end_char": 8475
+    "start_char": 8461,
+    "end_char": 8477
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:12-bis-6:term-usage:8599-8615",
+    "id": "urn:lex-mx:federal:statute:lan:article:12-bis-6:term-usage:8601-8617",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:12-bis-6",
     "term_id": "urn:lex-mx:federal:statute:lan:term:aguas-nacionales",
     "span": "Aguas Nacionales",
-    "start_char": 8599,
-    "end_char": 8615
+    "start_char": 8601,
+    "end_char": 8617
   },
   {
     "schema_version": "0.1.0",
@@ -721,75 +721,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:1626-1645",
+    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:1627-1646",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:13-bis-3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 1626,
-    "end_char": 1645
+    "start_char": 1627,
+    "end_char": 1646
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:1701-1730",
+    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:1702-1731",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:13-bis-3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:programa-hidrico-de-la-cuenca",
     "span": "Programa Hídrico de la Cuenca",
-    "start_char": 1701,
-    "end_char": 1730
+    "start_char": 1702,
+    "end_char": 1731
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:3290-3309",
+    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:3291-3310",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:13-bis-3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 3290,
-    "end_char": 3309
+    "start_char": 3291,
+    "end_char": 3310
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:4633-4652",
+    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:4634-4653",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:13-bis-3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 4633,
-    "end_char": 4652
+    "start_char": 4634,
+    "end_char": 4653
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:4928-4945",
+    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:4929-4946",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:13-bis-3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:consejo-de-cuenca",
     "span": "Consejo de Cuenca",
-    "start_char": 4928,
-    "end_char": 4945
+    "start_char": 4929,
+    "end_char": 4946
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:6181-6198",
+    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:6182-6199",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:13-bis-3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:consejo-de-cuenca",
     "span": "Consejo de Cuenca",
-    "start_char": 6181,
-    "end_char": 6198
+    "start_char": 6182,
+    "end_char": 6199
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:6238-6257",
+    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:6239-6258",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:13-bis-3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 6238,
-    "end_char": 6257
+    "start_char": 6239,
+    "end_char": 6258
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:6537-6554",
+    "id": "urn:lex-mx:federal:statute:lan:article:13-bis-3:term-usage:6538-6555",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:13-bis-3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:consejo-de-cuenca",
     "span": "Consejo de Cuenca",
-    "start_char": 6537,
-    "end_char": 6554
+    "start_char": 6538,
+    "end_char": 6555
   },
   {
     "schema_version": "0.1.0",
@@ -811,12 +811,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:14-bis-3:term-usage:1918-1943",
+    "id": "urn:lex-mx:federal:statute:lan:article:14-bis-3:term-usage:1919-1944",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:14-bis-3",
     "term_id": "urn:lex-mx:federal:statute:lan:term:programa-nacional-hidrico",
     "span": "Programa Nacional Hídrico",
-    "start_char": 1918,
-    "end_char": 1943
+    "start_char": 1919,
+    "end_char": 1944
   },
   {
     "schema_version": "0.1.0",
@@ -937,21 +937,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:22:term-usage:4824-4858",
+    "id": "urn:lex-mx:federal:statute:lan:article:22:term-usage:4825-4859",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:22",
     "term_id": "urn:lex-mx:federal:statute:lan:term:registro-publico-nacional-del-agua",
     "span": "Registro Público Nacional del Agua",
-    "start_char": 4824,
-    "end_char": 4858
+    "start_char": 4825,
+    "end_char": 4859
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:22:term-usage:5741-5775",
+    "id": "urn:lex-mx:federal:statute:lan:article:22:term-usage:5742-5776",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:22",
     "term_id": "urn:lex-mx:federal:statute:lan:term:registro-publico-nacional-del-agua",
     "span": "Registro Público Nacional del Agua",
-    "start_char": 5741,
-    "end_char": 5775
+    "start_char": 5742,
+    "end_char": 5776
   },
   {
     "schema_version": "0.1.0",
@@ -1000,12 +1000,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:29-bis:term-usage:347-373",
+    "id": "urn:lex-mx:federal:statute:lan:article:29-bis:term-usage:348-374",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:29-bis",
     "term_id": "urn:lex-mx:federal:statute:lan:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 347,
-    "end_char": 373
+    "start_char": 348,
+    "end_char": 374
   },
   {
     "schema_version": "0.1.0",
@@ -1018,12 +1018,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:29-bis-4:term-usage:965-991",
+    "id": "urn:lex-mx:federal:statute:lan:article:29-bis-4:term-usage:966-992",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:29-bis-4",
     "term_id": "urn:lex-mx:federal:statute:lan:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 965,
-    "end_char": 991
+    "start_char": 966,
+    "end_char": 992
   },
   {
     "schema_version": "0.1.0",
@@ -1180,12 +1180,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:40:term-usage:1377-1396",
+    "id": "urn:lex-mx:federal:statute:lan:article:40:term-usage:1378-1397",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:40",
     "term_id": "urn:lex-mx:federal:statute:lan:term:organismo-de-cuenca",
     "span": "Organismo de Cuenca",
-    "start_char": 1377,
-    "end_char": 1396
+    "start_char": 1378,
+    "end_char": 1397
   },
   {
     "schema_version": "0.1.0",
@@ -1207,12 +1207,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:42:term-usage:912-946",
+    "id": "urn:lex-mx:federal:statute:lan:article:42:term-usage:913-947",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:42",
     "term_id": "urn:lex-mx:federal:statute:lan:term:registro-publico-nacional-del-agua",
     "span": "Registro Público Nacional del Agua",
-    "start_char": 912,
-    "end_char": 946
+    "start_char": 913,
+    "end_char": 947
   },
   {
     "schema_version": "0.1.0",
@@ -1567,12 +1567,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:86-bis-1:term-usage:712-738",
+    "id": "urn:lex-mx:federal:statute:lan:article:86-bis-1:term-usage:713-739",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:86-bis-1",
     "term_id": "urn:lex-mx:federal:statute:lan:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 712,
-    "end_char": 738
+    "start_char": 713,
+    "end_char": 739
   },
   {
     "schema_version": "0.1.0",
@@ -1684,30 +1684,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:92:term-usage:149-168",
+    "id": "urn:lex-mx:federal:statute:lan:article:92:term-usage:150-169",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:92",
     "term_id": "urn:lex-mx:federal:statute:lan:term:permisos-de-descarga",
     "span": "Permiso de Descarga",
-    "start_char": 149,
-    "end_char": 168
+    "start_char": 150,
+    "end_char": 169
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:92:term-usage:270-296",
+    "id": "urn:lex-mx:federal:statute:lan:article:92:term-usage:271-297",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:92",
     "term_id": "urn:lex-mx:federal:statute:lan:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 270,
-    "end_char": 296
+    "start_char": 271,
+    "end_char": 297
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:92:term-usage:744-770",
+    "id": "urn:lex-mx:federal:statute:lan:article:92:term-usage:745-771",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:92",
     "term_id": "urn:lex-mx:federal:statute:lan:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 744,
-    "end_char": 770
+    "start_char": 745,
+    "end_char": 771
   },
   {
     "schema_version": "0.1.0",
@@ -1864,21 +1864,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:119:term-usage:780-814",
+    "id": "urn:lex-mx:federal:statute:lan:article:119:term-usage:781-815",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:119",
     "term_id": "urn:lex-mx:federal:statute:lan:term:registro-publico-nacional-del-agua",
     "span": "Registro Público Nacional del Agua",
-    "start_char": 780,
-    "end_char": 814
+    "start_char": 781,
+    "end_char": 815
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lan:article:119:term-usage:3015-3041",
+    "id": "urn:lex-mx:federal:statute:lan:article:119:term-usage:3016-3042",
     "provision_id": "urn:lex-mx:federal:statute:lan:article:119",
     "term_id": "urn:lex-mx:federal:statute:lan:term:normas-oficiales-mexicanas",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 3015,
-    "end_char": 3041
+    "start_char": 3016,
+    "end_char": 3042
   },
   {
     "schema_version": "0.1.0",

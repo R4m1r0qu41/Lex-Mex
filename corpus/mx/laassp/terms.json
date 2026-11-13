@@ -73,7 +73,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "VII",
     "start_char": 787,
-    "end_char": 1337,
+    "end_char": 1338,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "VIII",
-    "start_char": 1337,
-    "end_char": 1474,
+    "start_char": 1338,
+    "end_char": 1475,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "IX",
-    "start_char": 1474,
-    "end_char": 1524,
+    "start_char": 1475,
+    "end_char": 1525,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "X",
-    "start_char": 1524,
-    "end_char": 2638,
+    "start_char": 1525,
+    "end_char": 2639,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XI",
-    "start_char": 2638,
-    "end_char": 2704,
+    "start_char": 2639,
+    "end_char": 2705,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XII",
-    "start_char": 2704,
-    "end_char": 2900,
+    "start_char": 2705,
+    "end_char": 2901,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XIII",
-    "start_char": 2900,
-    "end_char": 3204,
+    "start_char": 2901,
+    "end_char": 3205,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XIV",
-    "start_char": 3204,
-    "end_char": 3696,
+    "start_char": 3205,
+    "end_char": 3697,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XV",
-    "start_char": 3696,
-    "end_char": 3998,
+    "start_char": 3697,
+    "end_char": 3999,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XVI",
-    "start_char": 3998,
-    "end_char": 4093,
+    "start_char": 3999,
+    "end_char": 4094,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XVII",
-    "start_char": 4093,
-    "end_char": 4157,
+    "start_char": 4094,
+    "end_char": 4158,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XVIII",
-    "start_char": 4157,
-    "end_char": 4282,
+    "start_char": 4158,
+    "end_char": 4283,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XIX",
-    "start_char": 4282,
-    "end_char": 4486,
+    "start_char": 4283,
+    "end_char": 4487,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XX",
-    "start_char": 4486,
-    "end_char": 4917,
+    "start_char": 4487,
+    "end_char": 4918,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:laassp",
     "defining_provision_id": "urn:lex-mx:federal:statute:laassp:article:5",
     "fraction": "XXI",
-    "start_char": 4917,
-    "end_char": 4960,
+    "start_char": 4918,
+    "end_char": 4961,
     "basis": "express_definition"
   }
 ]

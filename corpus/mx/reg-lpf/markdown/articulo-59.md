@@ -21,7 +21,9 @@ Corresponde a la Dirección General de Investigación de Delitos contra la Segur
 
 I. Prevenir e investigar en el ámbito de su competencia los delitos que atenten contra la seguridad e integridad de las personas;
 
-II. Aplicar la metodología y estrategias de investigación de campo que permitan explotar las líneas de investigación y recabar las evidencias necesarias para la identificación, detección de organizaciones delictivas, conforme a las disposiciones aplicables; III. Implementar, en el ámbito de su competencia, directrices en la investigación y operación para la identificación, ubicación y captura de presuntos responsables en la comisión de los delitos de su competencia;
+II. Aplicar la metodología y estrategias de investigación de campo que permitan explotar las líneas de investigación y recabar las evidencias necesarias para la identificación, detección de organizaciones delictivas, conforme a las disposiciones aplicables;
+
+III. Implementar, en el ámbito de su competencia, directrices en la investigación y operación para la identificación, ubicación y captura de presuntos responsables en la comisión de los delitos de su competencia;
 
 IV. Crear, dirigir y aplicar técnicas, métodos y estrategias de investigación policial, en el ámbito de su competencia, que permitan recabar la información necesaria para la prevención y el combate de acciones de personas u organizaciones dedicadas a los delitos de su competencia;
 

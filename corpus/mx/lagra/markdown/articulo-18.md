@@ -21,7 +21,9 @@ Cuando el ejidatario no haya hecho designación de sucesores, o cuando ninguno d
 
 I. Al cónyuge;
 
-II. A la concubina o concubinario; III. A una de las hijas o uno de los hijos del ejidatario; Fracción reformada DOF 08-03-2022
+II. A la concubina o concubinario;
+
+III. A una de las hijas o uno de los hijos del ejidatario; Fracción reformada DOF 08-03-2022
 
 IV. A uno de sus ascendientes; y
 

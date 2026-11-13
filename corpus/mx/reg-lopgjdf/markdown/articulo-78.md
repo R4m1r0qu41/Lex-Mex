@@ -17,7 +17,9 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 # Artículo 78
 
-Al frente de la Dirección General de Atención a Víctimas del Delito, habrá un Director General que ejercerá por sí, a través los servidores públicos adscritos, de los Centros de Atención a Víctimas y de la Dirección Especializada de Atención de Mujeres Víctimas en Delitos Sexuales, las atribuciones siguientes: I. Establecer y aplicar, en el ámbito de su competencia, lineamientos y políticas victimológicas con un enfoque de derechos humanos, perspectiva de género y protección integral a la infancia, para alcanzar el oportuno acceso a la justicia y la restitución de los derechos de los ofendidos y víctimas del delito;
+Al frente de la Dirección General de Atención a Víctimas del Delito, habrá un Director General que ejercerá por sí, a través los servidores públicos adscritos, de los Centros de Atención a Víctimas y de la Dirección Especializada de Atención de Mujeres Víctimas en Delitos Sexuales, las atribuciones siguientes:
+
+I. Establecer y aplicar, en el ámbito de su competencia, lineamientos y políticas victimológicas con un enfoque de derechos humanos, perspectiva de género y protección integral a la infancia, para alcanzar el oportuno acceso a la justicia y la restitución de los derechos de los ofendidos y víctimas del delito;
 
 II. Proporcionar atención jurídica, psicológica, médica y de trabajo social a los ofendidos y víctimas del delito, conforme a los lineamientos que se establezcan en los manuales de normas y procedimientos:
 
@@ -43,7 +45,9 @@ VI. Operar y ejecutar bases, convenios e instrumentos de coordinación con insti
 
 VII. Instruir a los agentes de la Policía de Investigación adscritos al Sistema de Auxilio a Víctimas, la realización de las actuaciones dentro del ámbito de su competencia;
 
-VIII. Tramitar en beneficio de los ofendidos, las víctimas del delito, sus familiares y testigos en su favor, medidas de protección cautelares provisionales, que sean procedentes, para salvaguardar su vida, seguridad física, psicológica, patrimonial y familiar, tanto en la averiguación previa como en el proceso penal; IX. Tramitar las medidas de protección de emergencia y preventivas establecidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Distrito Federal ante los jueces competentes;
+VIII. Tramitar en beneficio de los ofendidos, las víctimas del delito, sus familiares y testigos en su favor, medidas de protección cautelares provisionales, que sean procedentes, para salvaguardar su vida, seguridad física, psicológica, patrimonial y familiar, tanto en la averiguación previa como en el proceso penal;
+
+IX. Tramitar las medidas de protección de emergencia y preventivas establecidas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Distrito Federal ante los jueces competentes;
 
 X. Realizar acciones tendientes a la búsqueda y localización de personas cuya ausencia o extravío ocurra en el Distrito Federal, incluyendo la investigación ministerial y policial; así como coordinarse con Instituciones y autoridades del gobierno local, federal y entidades de la República Mexicana para atender casos relacionados con esta problemática;
 

@@ -31,7 +31,9 @@ V. Establecer los lineamientos para verificar la autenticidad de los documentos 
 
 VI. Participar, en coordinación con las unidades administrativas y órganos desconcentrados competentes, en la elaboración de los perfiles de puesto de los servidores públicos de la Procuraduría;
 
-VII. Participar, en coordinación con las unidades administrativas y órganos desconcentrados competentes, en la conformación de las políticas y los esfuerzos institucionales en materia de desarrollo del capital humano y de competencias profesionales; VIII. Informar al [Procurador](articulo-2.md) y a los titulares de las unidades administrativas y órganos desconcentrados, los resultados de las evaluaciones aplicadas;
+VII. Participar, en coordinación con las unidades administrativas y órganos desconcentrados competentes, en la conformación de las políticas y los esfuerzos institucionales en materia de desarrollo del capital humano y de competencias profesionales;
+
+VIII. Informar al [Procurador](articulo-2.md) y a los titulares de las unidades administrativas y órganos desconcentrados, los resultados de las evaluaciones aplicadas;
 
 IX. Instruir la aplicación de los procesos de evaluación del personal en activo y aspirantes a ingresar que soliciten otras instituciones del Sistema Nacional de Seguridad Pública;
 

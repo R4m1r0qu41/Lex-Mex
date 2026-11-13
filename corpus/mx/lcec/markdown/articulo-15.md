@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 15
 
-Para constituir una Cámara deberá seguirse el procedimiento siguiente:
+Para constituir una [Cámara](articulo-2.md) deberá seguirse el procedimiento siguiente:
 
 I. En el caso de Cámaras de Comercio, Servicios y Turismo.
 

@@ -128,7 +128,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "X",
     "start_char": 2429,
-    "end_char": 2646,
+    "end_char": 2647,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XI",
-    "start_char": 2646,
-    "end_char": 2858,
+    "start_char": 2647,
+    "end_char": 2859,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XII",
-    "start_char": 2858,
-    "end_char": 3100,
+    "start_char": 2859,
+    "end_char": 3101,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XIII",
-    "start_char": 3100,
-    "end_char": 3244,
+    "start_char": 3101,
+    "end_char": 3245,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XIV",
-    "start_char": 3244,
-    "end_char": 3674,
+    "start_char": 3245,
+    "end_char": 3675,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XV",
-    "start_char": 3674,
-    "end_char": 4218,
+    "start_char": 3675,
+    "end_char": 4219,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XVI",
-    "start_char": 4218,
-    "end_char": 4514,
+    "start_char": 4219,
+    "end_char": 4515,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XVII",
-    "start_char": 4514,
-    "end_char": 4736,
+    "start_char": 4515,
+    "end_char": 4737,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XVIII",
-    "start_char": 4736,
-    "end_char": 4941,
+    "start_char": 4737,
+    "end_char": 4942,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XIX",
-    "start_char": 4941,
-    "end_char": 5129,
+    "start_char": 4942,
+    "end_char": 5130,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XX",
-    "start_char": 5129,
-    "end_char": 5336,
+    "start_char": 5130,
+    "end_char": 5337,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXI",
-    "start_char": 5336,
-    "end_char": 5577,
+    "start_char": 5337,
+    "end_char": 5578,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXII",
-    "start_char": 5577,
-    "end_char": 5713,
+    "start_char": 5578,
+    "end_char": 5714,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXIII",
-    "start_char": 5713,
-    "end_char": 5893,
+    "start_char": 5714,
+    "end_char": 5895,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXIV",
-    "start_char": 5893,
-    "end_char": 6008,
+    "start_char": 5895,
+    "end_char": 6010,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXV",
-    "start_char": 6008,
-    "end_char": 6516,
+    "start_char": 6010,
+    "end_char": 6518,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXVI",
-    "start_char": 6516,
-    "end_char": 6701,
+    "start_char": 6518,
+    "end_char": 6703,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXVII",
-    "start_char": 6701,
-    "end_char": 6903,
+    "start_char": 6703,
+    "end_char": 6905,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXVIII",
-    "start_char": 6903,
-    "end_char": 7007,
+    "start_char": 6905,
+    "end_char": 7009,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXIX",
-    "start_char": 7007,
-    "end_char": 7207,
+    "start_char": 7009,
+    "end_char": 7209,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXX",
-    "start_char": 7207,
-    "end_char": 7369,
+    "start_char": 7209,
+    "end_char": 7371,
     "basis": "express_definition"
   },
   {
@@ -358,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXXI",
-    "start_char": 7369,
-    "end_char": 7607,
+    "start_char": 7371,
+    "end_char": 7609,
     "basis": "express_definition"
   },
   {
@@ -369,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXXII",
-    "start_char": 7607,
-    "end_char": 7864,
+    "start_char": 7609,
+    "end_char": 7866,
     "basis": "express_definition"
   },
   {
@@ -380,8 +380,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXXIII",
-    "start_char": 7864,
-    "end_char": 8274,
+    "start_char": 7866,
+    "end_char": 8276,
     "basis": "express_definition"
   },
   {
@@ -391,8 +391,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXXIV",
-    "start_char": 8274,
-    "end_char": 8431,
+    "start_char": 8276,
+    "end_char": 8433,
     "basis": "express_definition"
   },
   {
@@ -402,8 +402,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXXV",
-    "start_char": 8431,
-    "end_char": 8548,
+    "start_char": 8433,
+    "end_char": 8550,
     "basis": "express_definition"
   },
   {
@@ -413,8 +413,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXXVI",
-    "start_char": 8548,
-    "end_char": 8862,
+    "start_char": 8550,
+    "end_char": 8864,
     "basis": "express_definition"
   },
   {
@@ -424,8 +424,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXXVII",
-    "start_char": 8862,
-    "end_char": 9156,
+    "start_char": 8864,
+    "end_char": 9159,
     "basis": "express_definition"
   },
   {
@@ -435,8 +435,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXXVIII",
-    "start_char": 9156,
-    "end_char": 9264,
+    "start_char": 9159,
+    "end_char": 9267,
     "basis": "express_definition"
   },
   {
@@ -446,8 +446,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XXXIX",
-    "start_char": 9264,
-    "end_char": 9422,
+    "start_char": 9267,
+    "end_char": 9425,
     "basis": "express_definition"
   },
   {
@@ -457,8 +457,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XL",
-    "start_char": 9422,
-    "end_char": 9482,
+    "start_char": 9425,
+    "end_char": 9485,
     "basis": "express_definition"
   },
   {
@@ -468,8 +468,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XLI",
-    "start_char": 9482,
-    "end_char": 9738,
+    "start_char": 9485,
+    "end_char": 9741,
     "basis": "express_definition"
   },
   {
@@ -479,8 +479,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XLII",
-    "start_char": 9738,
-    "end_char": 9947,
+    "start_char": 9741,
+    "end_char": 9950,
     "basis": "express_definition"
   },
   {
@@ -490,8 +490,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XLIII",
-    "start_char": 9947,
-    "end_char": 10176,
+    "start_char": 9950,
+    "end_char": 10179,
     "basis": "express_definition"
   },
   {
@@ -501,8 +501,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XLIV",
-    "start_char": 10176,
-    "end_char": 10247,
+    "start_char": 10179,
+    "end_char": 10250,
     "basis": "express_definition"
   },
   {
@@ -512,8 +512,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XLV",
-    "start_char": 10247,
-    "end_char": 10333,
+    "start_char": 10250,
+    "end_char": 10336,
     "basis": "express_definition"
   },
   {
@@ -523,8 +523,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XLVI",
-    "start_char": 10333,
-    "end_char": 10623,
+    "start_char": 10336,
+    "end_char": 10626,
     "basis": "express_definition"
   },
   {
@@ -534,8 +534,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpas",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpas:article:4",
     "fraction": "XLVII",
-    "start_char": 10623,
-    "end_char": 11451,
+    "start_char": 10626,
+    "end_char": 11454,
     "basis": "express_definition"
   }
 ]

@@ -49,11 +49,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:reference:3020-3022:11:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:reference:3021-3023:11:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
     "source_span": "11",
-    "start_char": 3020,
-    "end_char": 3022,
+    "start_char": 3021,
+    "end_char": 3023,
     "target_instrument_id": "urn:lex-mx:federal:statute:laat",
     "target_provision_id": "urn:lex-mx:federal:statute:laat:article:11",
     "qualifiers": [],
@@ -104,11 +104,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laat:article:4:reference:533-534:9:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:4:reference:534-535:9:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:4",
     "source_span": "9",
-    "start_char": 533,
-    "end_char": 534,
+    "start_char": 534,
+    "end_char": 535,
     "target_instrument_id": "urn:lex-mx:federal:statute:laat",
     "target_provision_id": "urn:lex-mx:federal:statute:laat:article:9",
     "qualifiers": [],
@@ -133,12 +133,6 @@
         "text": "fracción I",
         "start_char": 200,
         "end_char": 210
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I y II",
-        "start_char": 279,
-        "end_char": 296
       }
     ],
     "basis": "express_cross_reference",

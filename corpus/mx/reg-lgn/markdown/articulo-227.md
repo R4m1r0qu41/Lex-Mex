@@ -29,7 +29,9 @@ IV. El Titular de la Unidad General de Asuntos Jurídicos y Transparencia de la 
 
 V. Un Consejero, que será el Titular de la Unidad para la Protección de los Derechos Humanos, Disciplina y Desarrollo Profesional;
 
-VI. Un Consejero que será el Titular de la Unidad de Órganos Especializados por Competencia; VII. Un Consejero que será el Titular de la Coordinación Territorial, designado por el [Comandante](articulo-2.md), y
+VI. Un Consejero que será el Titular de la Unidad de Órganos Especializados por Competencia;
+
+VII. Un Consejero que será el Titular de la Coordinación Territorial, designado por el [Comandante](articulo-2.md), y
 
 VIII. Un Consejero que será el Titular de la Unidad de Asuntos Jurídicos y Transparencia de la Institución.
 

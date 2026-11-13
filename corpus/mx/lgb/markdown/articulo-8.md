@@ -17,4 +17,4 @@ source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 
 # Artículo 8
 
-Corresponde a la [Secretaría](articulo-2.md), a través de la [Dirección General](articulo-2.md) de Bibliotecas, proponer, ejecutar y evaluar la política nacional de bibliotecas atendiendo al Plan Nacional de Desarrollo y demás programas correspondientes, así como el diseño y propuesta de normas técnicas y reglamentarias para la conservación, clasificación, registro, consulta y visita pública de las bibliotecas.
+Corresponde a la [Secretaría](articulo-2.md), a través de la [Dirección General](articulo-2.md) de [Bibliotecas](articulo-2.md), proponer, ejecutar y evaluar la política nacional de bibliotecas atendiendo al Plan Nacional de Desarrollo y demás programas correspondientes, así como el diseño y propuesta de normas técnicas y reglamentarias para la conservación, clasificación, registro, consulta y visita pública de las bibliotecas.

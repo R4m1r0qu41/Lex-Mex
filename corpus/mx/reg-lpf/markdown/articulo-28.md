@@ -35,7 +35,9 @@ VII. Analizar y evaluar procedimientos para el flujo de información y resultado
 
 VIII. Vincularse con autoridades de seguridad pública, de investigación y académicas, a nivel nacional e internacional, para acceder a la información y tecnologías en desarrollo que puedan incorporarse a los procesos de innovación tecnológica de la Institución;
 
-IX. Coordinar, conforme a las disposiciones aplicables, la elaboración de mecanismos para efectuar tareas de investigación científica orientadas a las áreas de la Institución; X. Promover la cooperación con los grupos de investigación científica nacionales o extranjeros para la adopción de tecnologías existentes o su desarrollo específico;
+IX. Coordinar, conforme a las disposiciones aplicables, la elaboración de mecanismos para efectuar tareas de investigación científica orientadas a las áreas de la Institución;
+
+X. Promover la cooperación con los grupos de investigación científica nacionales o extranjeros para la adopción de tecnologías existentes o su desarrollo específico;
 
 XI. Coordinar, conforme a las disposiciones aplicables, el funcionamiento de los laboratorios de investigación científica para el desarrollo de metodologías y herramientas útiles para las diversas áreas de la Institución;
 

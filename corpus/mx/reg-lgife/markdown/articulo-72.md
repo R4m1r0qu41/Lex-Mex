@@ -23,7 +23,9 @@ I. Capacitación;
 
 II. Certificación de la INFE;
 
-III. Congresos del Instituto; IV. Construcción;
+III. Congresos del Instituto;
+
+IV. Construcción;
 
 V. Consultoría Técnica, y
 

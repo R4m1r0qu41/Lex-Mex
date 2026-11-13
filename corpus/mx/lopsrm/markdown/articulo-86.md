@@ -23,6 +23,8 @@ I. El inconforme desista expresamente.
 
 Tratándose de inconformes que hayan presentado proposición conjunta, el desistimiento solo será procedente si está firmado por la totalidad de aquellos que suscribieron el escrito de inconformidad; Fracción reformada DOF 16-04-2025
 
-II. La convocante firme el contrato, en el caso de que el acto impugnado sea de aquéllos a los que se refiere la fracción V del artículo [83](articulo-83.md) de esta Ley, y III. Durante la sustanciación de la instancia se advierta o sobrevenga alguna de las causas de improcedencia que establece el [artículo anterior](articulo-85.md).
+II. La convocante firme el contrato, en el caso de que el acto impugnado sea de aquéllos a los que se refiere la fracción V del artículo [83](articulo-83.md) de esta Ley, y
+
+III. Durante la sustanciación de la instancia se advierta o sobrevenga alguna de las causas de improcedencia que establece el [artículo anterior](articulo-85.md).
 
 Artículo reformado DOF 07-07-2005, 28-05-2009

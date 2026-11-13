@@ -17,7 +17,9 @@ source_sha256: c15f1084289b8990a4e345e6854c3e14333de0c452edc2df7b73b52050f9ae4e
 
 # Artículo 6o
 
-En lo no previsto por la presente Ley, se aplicará a los sujetos de la misma en forma supletoria, lo dispuesto en las siguientes leyes: I. La Ley General de Instituciones y Sociedades Mutualistas de Seguros;
+En lo no previsto por la presente Ley, se aplicará a los sujetos de la misma en forma supletoria, lo dispuesto en las siguientes leyes:
+
+I. La Ley General de Instituciones y Sociedades Mutualistas de Seguros;
 
 II. La Legislación Mercantil;
 

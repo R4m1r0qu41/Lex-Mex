@@ -29,6 +29,8 @@ IV. Establecer los requerimientos mínimos de verificación y [Certificación or
 
 V. Promover los sistemas de producción bajo métodos orgánicos, en especial en aquellas regiones donde las condiciones ambientales y socioeconómicas sean propicias para la actividad o hagan necesaria la reconversión productiva para que contribuyan a la recuperación y/o preservación de los ecosistemas y alcanzar el cumplimiento con los criterios de sustentabilidad;
 
-VI. Permitir la clara identificación de los productos que cumplen con los criterios de la producción orgánica para mantener la credibilidad de los consumidores y evitar perjuicios o engaños; VII. Establecer la lista nacional de substancias permitidas, restringidas y prohibidas bajo métodos orgánicos así como los criterios para su evaluación, y
+VI. Permitir la clara identificación de los productos que cumplen con los criterios de la producción orgánica para mantener la credibilidad de los consumidores y evitar perjuicios o engaños;
+
+VII. Establecer la lista nacional de substancias permitidas, restringidas y prohibidas bajo métodos orgánicos así como los criterios para su evaluación, y
 
 VIII. Crear un organismo de apoyo a la [Secretaría](articulo-3.md) donde participen los sectores de la cadena productiva orgánica e instituciones gubernamentales con competencia en la materia, quien fungirá como [Consejo](articulo-3.md) asesor en la materia.

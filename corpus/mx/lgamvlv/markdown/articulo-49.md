@@ -7,8 +7,8 @@ provision_type: article
 number: "49"
 aliases: ["LGAMVLV — Artículo 49"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -47,7 +47,9 @@ XII. Impulsar programas reeducativos integrales de los agresores;
 
 XIII. Difundir por todos los medios de comunicación el contenido de esta ley;
 
-XIV. Rendir un informe anual sobre los avances de los programas locales; XV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres;
+XIV. Rendir un informe anual sobre los avances de los programas locales;
+
+XV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres;
 
 XVI. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
@@ -71,7 +73,9 @@ c) Incorporación de la perspectiva de género en los servicios periciales; elim
 
 XXIII. Integrar registros públicos sistemáticos de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, judicialización, etapa procesal, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia; Fracción reformada DOF 08-05-2023
 
-XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, adolescentes y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; Fracción reformada DOF 29-04-2022, 08-05-2023 XXV. Crear, operar y fortalecer los [Centros de Justicia para las Mujeres](articulo-5.md), conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de las Mujeres; Fracción adicionada DOF 29-04-2022. Reformada DOF 08-05-2023, 16-12-2024, 15-01-2026
+XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, adolescentes y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; Fracción reformada DOF 29-04-2022, 08-05-2023
+
+XXV. Crear, operar y fortalecer los [Centros de Justicia para las Mujeres](articulo-5.md), conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de las Mujeres; Fracción adicionada DOF 29-04-2022. Reformada DOF 08-05-2023, 16-12-2024, 15-01-2026
 
 XXVI. Cumplir con las facultades y responsabilidades que le corresponden y que se derivan de la operación del [Registro Nacional](articulo-5.md), en términos de lo dispuesto en la presente ley y en la Ley General del Sistema Nacional de Seguridad Pública, y Fracción adicionada DOF 16-12-2024
 

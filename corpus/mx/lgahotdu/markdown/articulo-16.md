@@ -45,7 +45,9 @@ XII. Proponer esquemas generales de organización para la eficaz atención, coor
 
 XIII. Solicitar y recibir información de las distintas dependencias y entidades que realizan programas y acciones de Desarrollo Urbano;
 
-XIV. Emitir los lineamientos para su operación y funcionamiento; XV. Aprobar la creación de comités y grupos de trabajo para la atención de temas específicos y emitir los lineamientos para su operación, y
+XIV. Emitir los lineamientos para su operación y funcionamiento;
+
+XV. Aprobar la creación de comités y grupos de trabajo para la atención de temas específicos y emitir los lineamientos para su operación, y
 
 XVI. Las demás que le señale esta Ley.
 

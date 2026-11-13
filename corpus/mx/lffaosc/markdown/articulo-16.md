@@ -23,7 +23,9 @@ I. Inscribir a las organizaciones que soliciten el registro, siempre que cumplan
 
 II. Otorgar a las organizaciones inscritas la constancia de registro;
 
-III. Establecer un Sistema de Información que identifique, de acuerdo con lo establecido en el artículo [5](articulo-5.md) de esta ley, las actividades que las organizaciones de la sociedad civil realicen, así como los requisitos a que se refiere el artículo [18](articulo-18.md), con el objeto de garantizar que las dependencias y entidades cuenten con los elementos necesarios para dar cumplimiento a la misma; IV. Ofrecer a las dependencias, entidades y a la ciudadanía en general, elementos de información que les ayuden a verificar el cumplimiento de las obligaciones a que se refiere esta ley por parte de las organizaciones y, en su caso, solicitar a la Comisión la imposición de las sanciones correspondientes;
+III. Establecer un Sistema de Información que identifique, de acuerdo con lo establecido en el artículo [5](articulo-5.md) de esta ley, las actividades que las organizaciones de la sociedad civil realicen, así como los requisitos a que se refiere el artículo [18](articulo-18.md), con el objeto de garantizar que las dependencias y entidades cuenten con los elementos necesarios para dar cumplimiento a la misma;
+
+IV. Ofrecer a las dependencias, entidades y a la ciudadanía en general, elementos de información que les ayuden a verificar el cumplimiento de las obligaciones a que se refiere esta ley por parte de las organizaciones y, en su caso, solicitar a la Comisión la imposición de las sanciones correspondientes;
 
 V. Mantener actualizada la información relativa a las organizaciones a que se refiere esta ley;
 

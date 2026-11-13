@@ -41,7 +41,9 @@ X. Requerir informes, documentos y opiniones de las dependencias y entidades de 
 
 XI. Realizar las actividades que, en materia de seguridad pública, le confiere la Ley de Seguridad Pública del Distrito Federal y la normativa en la materia;
 
-XII. Participar en el Consejo Local o las Instancias Regionales, del Sistema Nacional de Seguridad Pública, en los términos de la normativa vigente en la materia; XIII. Participar en el Sistema Nacional de Seguridad Pública, realizando las actividades, integrando los órganos e instancias de coordinación, así como todas las demás acciones que señale la normativa vigente en la materia;
+XII. Participar en el Consejo Local o las Instancias Regionales, del Sistema Nacional de Seguridad Pública, en los términos de la normativa vigente en la materia;
+
+XIII. Participar en el Sistema Nacional de Seguridad Pública, realizando las actividades, integrando los órganos e instancias de coordinación, así como todas las demás acciones que señale la normativa vigente en la materia;
 
 XIV. Recibir y compartir la información sobre Seguridad Pública que obre en sus bases de datos con las del Centro Nacional de Información, en los términos de las disposiciones legales y normativas aplicables;
 

@@ -19,7 +19,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Son facultades genéricas de los titulares de las unidades señaladas en el artículo [5](articulo-5.md), fracciones V y VI, del presente [Reglamento](articulo-2.md), las siguientes:
 
-I. Acordar e informar a su superior jerárquico el despacho de los asuntos de su competencia y la ejecución de los programas que les sean encomendados; II. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de las unidades administrativas que tengan adscritas e informar a su superior jerárquico de las actividades que realicen;
+I. Acordar e informar a su superior jerárquico el despacho de los asuntos de su competencia y la ejecución de los programas que les sean encomendados;
+
+II. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de las unidades administrativas que tengan adscritas e informar a su superior jerárquico de las actividades que realicen;
 
 III. Coordinar la elaboración de los manuales de organización y procedimientos correspondientes a cada una de sus áreas;
 
@@ -51,7 +53,9 @@ XVI. Coordinar la implementación, actualización, operación, mantenimiento y r
 
 XVII. Coordinar, en el ámbito de su competencia, los procesos relativos a los sistemas de información para generar inteligencia que permitan cumplir con los fines de la Institución;
 
-XVIII. Controlar y dar seguimiento a la información obtenida, así como asegurar su secrecía; XIX. Proporcionar la información y la cooperación que otras autoridades les requieran, en término de las disposiciones normativas aplicables;
+XVIII. Controlar y dar seguimiento a la información obtenida, así como asegurar su secrecía;
+
+XIX. Proporcionar la información y la cooperación que otras autoridades les requieran, en término de las disposiciones normativas aplicables;
 
 XX. Elaborar y analizar las estadísticas y el sistema de registro de los asuntos a su cargo;
 

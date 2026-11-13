@@ -67,7 +67,9 @@ VI. El consejo de administración estará integrado por un mínimo de cinco y un
 
 VII. Las asambleas y las juntas de consejo de administración se celebrarán en el domicilio social, el cual deberá estar siempre en territorio nacional. Los estatutos podrán establecer que los acuerdos de las asambleas sean válidos en segunda convocatoria, cualquiera que sea el número de votos con que se adopten, excepto cuando se trate de asambleas extraordinarias, en las que se requerirá, por lo menos, el voto del treinta por ciento del capital pagado para la adopción de resoluciones propias de dichas asambleas;
 
-VIII. De sus utilidades separarán por lo menos, un diez por ciento para constituir un fondo de reserva de capital hasta alcanzar una suma igual al importe del capital pagado; IX. Las cantidades por concepto de primas u otro similar, pagadas por los suscriptores de acciones sobre su valor nominal, se llevarán a un fondo especial de reserva; pero sólo podrán ser computadas como capital, para el efecto de determinar la existencia del capital mínimo que esta Ley exige;
+VIII. De sus utilidades separarán por lo menos, un diez por ciento para constituir un fondo de reserva de capital hasta alcanzar una suma igual al importe del capital pagado;
+
+IX. Las cantidades por concepto de primas u otro similar, pagadas por los suscriptores de acciones sobre su valor nominal, se llevarán a un fondo especial de reserva; pero sólo podrán ser computadas como capital, para el efecto de determinar la existencia del capital mínimo que esta Ley exige;
 
 X. El órgano de vigilancia estará integrado por lo menos con un comisario. Los comisarios deberán contar con calidad técnica, honorabilidad e historial crediticio satisfactorio, así como contar con amplios conocimientos y experiencia en materia financiera, contable, legal o administrativa y, ser residentes en territorio mexicano, en términos de lo dispuesto por el Código Fiscal de la Federación. No podrán ser comisarios propietarios o suplentes de las organizaciones auxiliares del crédito y casas de cambio:
 

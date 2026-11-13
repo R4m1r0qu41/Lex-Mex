@@ -21,7 +21,9 @@ La autoridad migratoria podrá autorizar por razones humanitarias mediante acta 
 
 I. Ser solicitante de la condición de refugiado, de asilo político o que requiera iniciar un procedimiento de determinación de apátrida;
 
-II. Por interés público, a la persona extranjera cuya internación se requiera para apoyar en acciones de auxilio o rescate en situaciones de emergencia o desastre en el territorio nacional; III. Por causa humanitaria, a la persona extranjera que por riesgo a la salud o vida propias, o por su situación de vulnerabilidad no pueda ser devuelto a su país de origen, o no pueda continuar con su viaje, o
+II. Por interés público, a la persona extranjera cuya internación se requiera para apoyar en acciones de auxilio o rescate en situaciones de emergencia o desastre en el territorio nacional;
+
+III. Por causa humanitaria, a la persona extranjera que por riesgo a la salud o vida propias, o por su situación de vulnerabilidad no pueda ser devuelto a su país de origen, o no pueda continuar con su viaje, o
 
 IV. Por causa de fuerza mayor, a la persona extranjera a bordo de aeronaves o embarcaciones en tránsito internacional, y que por contingencia técnica o condiciones climatológicas, requieran ingresar y permanecer en el país hasta el restablecimiento o mejora de dichas condiciones.
 

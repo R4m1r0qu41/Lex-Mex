@@ -33,7 +33,9 @@ Asimismo, deberán preverse las modalidades especiales de negociación que, en s
 
 V. Los requisitos que deberán contener los programas de adopción progresiva a que hace referencia el artículo [19](articulo-19.md), fracción I, inciso c) del presente ordenamiento legal, así como los procedimientos a seguir para verificar en forma periódica los grados de avance y cumplimiento a dichos programas, por parte de las sociedades anónimas promotoras de inversión bursátil.
 
-VI. Los términos en que deberán realizarse las operaciones con valores listados en la bolsa, la manera en que deberán llevar sus registros y los casos en que proceda la suspensión de cotizaciones de valores en particular o del mercado en su conjunto. VII. Las reglas de operación a que deberán sujetarse los miembros que opten por participar como formadores de mercado.
+VI. Los términos en que deberán realizarse las operaciones con valores listados en la bolsa, la manera en que deberán llevar sus registros y los casos en que proceda la suspensión de cotizaciones de valores en particular o del mercado en su conjunto.
+
+VII. Las reglas de operación a que deberán sujetarse los miembros que opten por participar como formadores de mercado.
 
 VIII. Los requisitos y procedimientos para el listado de valores en el sistema internacional de cotizaciones, así como los relativos a la suspensión y cancelación del listado del sistema.
 

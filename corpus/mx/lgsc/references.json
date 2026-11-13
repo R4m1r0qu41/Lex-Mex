@@ -17,11 +17,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgsc:article:16:reference:905-907:47:direct",
+    "id": "urn:lex-mx:federal:statute:lgsc:article:16:reference:906-908:47:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgsc:article:16",
     "source_span": "47",
-    "start_char": 905,
-    "end_char": 907,
+    "start_char": 906,
+    "end_char": 908,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsc",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsc:article:47",
     "qualifiers": [],
@@ -230,14 +230,7 @@
     "end_char": 364,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsc",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsc:article:43-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IX",
-        "start_char": 413,
-        "end_char": 424
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -276,14 +269,7 @@
     "end_char": 913,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgsc",
     "target_provision_id": "urn:lex-mx:federal:statute:lgsc:article:43-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 945,
-        "end_char": 956
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

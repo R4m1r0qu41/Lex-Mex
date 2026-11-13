@@ -27,7 +27,9 @@ III. Dar aviso al Sistema para el Desarrollo Integral de la Familia para el Dist
 
 IV. Llevar a cabo las actividades necesarias para cerciorarse que las personas sujetas al Sistema Integral de Justicia para Adolescentes son mayores de doce y menores de dieciocho años;
 
-V. Ser parte en los procesos de justicia para adolescentes aportando los elementos probatorios pertinentes para acreditar la conducta tipificada como delito en las leyes penales y que se atribuya a los adolescentes, así como la existencia del daño causado por la conducta realizada para los efectos de la fijación del monto de su reparación; VI. Promover el acuerdo de conciliación y las demás formas alternativas de solución de los conflictos, en términos de la ley de la materia;
+V. Ser parte en los procesos de justicia para adolescentes aportando los elementos probatorios pertinentes para acreditar la conducta tipificada como delito en las leyes penales y que se atribuya a los adolescentes, así como la existencia del daño causado por la conducta realizada para los efectos de la fijación del monto de su reparación;
+
+VI. Promover el acuerdo de conciliación y las demás formas alternativas de solución de los conflictos, en términos de la ley de la materia;
 
 VII. Solicitar las medidas cautelares cuando la audiencia a que se refiere los párrafos cuarto y quinto del artículo 28 de la Ley de Justicia para Adolescentes para el Distrito Federal, se suspenda; y en los casos previstos en el penúltimo párrafo del artículo 33 de la misma Ley;
 

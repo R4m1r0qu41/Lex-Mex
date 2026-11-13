@@ -23,7 +23,9 @@ I. Se considera estratégico o prioritario, conforme a los programas sectoriales
 
 II. Tiene viabilidad técnica, económica, jurídica y ambiental de acuerdo con la información proporcionada por la entidad solicitante;
 
-III. Generará el suficiente flujo de recursos para cubrir las erogaciones derivadas de su realización, y IV. Ha sido evaluado con base en supuestos y parámetros actualizados y homogéneos, los cuales son congruentes con las premisas de planeación del sector para los años futuros.
+III. Generará el suficiente flujo de recursos para cubrir las erogaciones derivadas de su realización, y
+
+IV. Ha sido evaluado con base en supuestos y parámetros actualizados y homogéneos, los cuales son congruentes con las premisas de planeación del sector para los años futuros.
 
 La solicitud de autorización deberá presentarse a la Secretaría directamente por las entidades que no estén coordinadas dentro de un sector.
 

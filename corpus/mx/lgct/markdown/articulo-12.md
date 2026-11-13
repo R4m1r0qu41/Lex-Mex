@@ -23,7 +23,9 @@ I. Coordinar todas las acciones relativas al control de los productos del tabaco
 
 II. Establecer métodos de análisis para evaluar que la fabricación de productos del tabaco y sus accesorios se realice de conformidad con las disposiciones aplicables;
 
-III. Determinar a través de disposiciones de carácter general sobre la información que los fabricantes deben proporcionar a las autoridades correspondientes y al público acerca de los productos del tabaco y sus emisiones; IV. Determinar a través de disposiciones de carácter general lo relativo a las características, especificaciones y procedimientos relacionados con el envasado y etiquetado de los productos del tabaco, incluyendo lo relativo a paquetes individuales, cajetillas y al mayoreo;
+III. Determinar a través de disposiciones de carácter general sobre la información que los fabricantes deben proporcionar a las autoridades correspondientes y al público acerca de los productos del tabaco y sus emisiones;
+
+IV. Determinar a través de disposiciones de carácter general lo relativo a las características, especificaciones y procedimientos relacionados con el envasado y etiquetado de los productos del tabaco, incluyendo lo relativo a paquetes individuales, cajetillas y al mayoreo;
 
 V. Emitir las autorizaciones correspondientes para la producción, fabricación e importación de los productos del tabaco;
 

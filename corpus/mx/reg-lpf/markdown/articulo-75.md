@@ -23,7 +23,9 @@ I. Procesar la información obtenida por las áreas de la [Institución](articul
 
 II. Supervisar la elaboración de constancias de las acciones realizadas, en el proceso de integración de la información, para llevar un control y seguimiento;
 
-III. Identificar y ubicar las estructuras delictivas que operan en las zonas con mayor incidencia por delitos contra la salud; IV. Integrar la información de utilidad para la prevención de delitos contra la salud para remitirla al área competente de esta Institución;
+III. Identificar y ubicar las estructuras delictivas que operan en las zonas con mayor incidencia por delitos contra la salud;
+
+IV. Integrar la información de utilidad para la prevención de delitos contra la salud para remitirla al área competente de esta Institución;
 
 V. Diseminar la información obtenida para su debida explotación por las áreas correspondientes;
 

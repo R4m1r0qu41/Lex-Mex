@@ -23,4 +23,6 @@ I. CompraNet, con base en la información ingresada por las dependencias y entid
 
 II. Denuncias formuladas por parte de las dependencias y entidades federales contratantes, o cualquier otra autoridad;
 
-III. Denuncias de particulares en las que señalen, bajo protesta de decir verdad, las presuntas infracciones. Las manifestaciones hechas con falsedad serán sancionadas en términos de las disposiciones penales y demás aplicables, o IV. Informes de los observadores y testigos sociales que, en su caso, hayan participado en los concursos para adjudicar los proyectos.
+III. Denuncias de particulares en las que señalen, bajo protesta de decir verdad, las presuntas infracciones. Las manifestaciones hechas con falsedad serán sancionadas en términos de las disposiciones penales y demás aplicables, o
+
+IV. Informes de los observadores y testigos sociales que, en su caso, hayan participado en los concursos para adjudicar los proyectos.

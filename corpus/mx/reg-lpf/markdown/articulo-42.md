@@ -19,7 +19,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Corresponde a los titulares de las Coordinaciones Estatales:
 
-I. Ejercer el mando, dirección y disciplina sobre las unidades que se encuentran en la circunscripción territorial a su cargo, informando al Jefe de la División de Seguridad Regional con la periodicidad que éste determine; II. Garantizar la ejecución de las órdenes emanadas del Comisionado General y Jefe de la División de Seguridad Regional, así como el cumplimiento de la [Ley](articulo-2.md) y [Reglamento](articulo-2.md) que normen la vida de la [Institución](articulo-2.md) y la correcta actuación de las unidades adscritas a su mando;
+I. Ejercer el mando, dirección y disciplina sobre las unidades que se encuentran en la circunscripción territorial a su cargo, informando al Jefe de la División de Seguridad Regional con la periodicidad que éste determine;
+
+II. Garantizar la ejecución de las órdenes emanadas del Comisionado General y Jefe de la División de Seguridad Regional, así como el cumplimiento de la [Ley](articulo-2.md) y [Reglamento](articulo-2.md) que normen la vida de la [Institución](articulo-2.md) y la correcta actuación de las unidades adscritas a su mando;
 
 III. Establecer los operativos en conjunto o coordinados que el Comisionado General o el Jefe de la División de Seguridad Regional instruyan con la finalidad de prevenir y combatir los delitos, en el ámbito de competencia, o bien, brindar apoyo a las autoridades federales, locales y municipales;
 
@@ -45,7 +47,9 @@ XIII. Verificar la ejecución de las políticas institucionales tendientes a pre
 
 XIV. Recibir y tramitar los avisos sobre denuncias que los particulares formulen ante las autoridades competentes sobre robo de vehículos y expedir las constancias correspondientes;
 
-XV. Proponer al Comisionado General, por conducto del Jefe de la División de Seguridad Regional, el despliegue operativo en los aeropuertos, puertos y puntos fronterizos, así como puntos de revisión de acuerdo al índice de delictivo, flujo vehicular, turístico y de mercancías, con la finalidad de fortalecer la presencia de la Institución; XVI. Coordinar y supervisar la actuación de los [Integrantes](articulo-2.md) adscritos a la coordinación estatal, e inspeccionar permanentemente las unidades bajo su mando;
+XV. Proponer al Comisionado General, por conducto del Jefe de la División de Seguridad Regional, el despliegue operativo en los aeropuertos, puertos y puntos fronterizos, así como puntos de revisión de acuerdo al índice de delictivo, flujo vehicular, turístico y de mercancías, con la finalidad de fortalecer la presencia de la Institución;
+
+XVI. Coordinar y supervisar la actuación de los [Integrantes](articulo-2.md) adscritos a la coordinación estatal, e inspeccionar permanentemente las unidades bajo su mando;
 
 XVII. Representar al Comisionado General en las reuniones de los grupos de Coordinación Interinstitucional donde sea necesaria la presencia de la Institución;
 
@@ -75,7 +79,9 @@ XXIX. Observar y hacer cumplir las políticas y medidas de seguridad para el man
 
 XXX. Cumplir y hacer cumplir las disposiciones jurídicas y administrativas;
 
-XXXI. Desarrollar, mantener y supervisar fuentes de información en la sociedad, que permitan obtener datos, sobre actividades relacionadas con fenómenos delictivos; XXXII. Establecer y supervisar mecanismos y acciones de cooperación y enlace permanente con la sociedad, en el ámbito de su circunscripción territorial, con el propósito de prevenir delitos y evaluar el desempeño de los Integrantes bajo su mando;
+XXXI. Desarrollar, mantener y supervisar fuentes de información en la sociedad, que permitan obtener datos, sobre actividades relacionadas con fenómenos delictivos;
+
+XXXII. Establecer y supervisar mecanismos y acciones de cooperación y enlace permanente con la sociedad, en el ámbito de su circunscripción territorial, con el propósito de prevenir delitos y evaluar el desempeño de los Integrantes bajo su mando;
 
 XXXIII. Instrumentar las acciones encaminadas a garantizar la seguridad y funcionamiento de las instalaciones estratégicas ante eventos de origen natural o intencional que signifiquen riesgo para las mismas, proponiendo la incorporación de criterios básicos de seguridad en el manual correspondiente;
 

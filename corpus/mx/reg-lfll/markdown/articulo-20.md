@@ -25,6 +25,8 @@ II. Notificar al editor o importador la resolución de inscripción del precio r
 
 III. Notificar al editor o importador la resolución que niegue la inscripción del precio respectivo en el Registro y, en su caso, de sus modificaciones, en los términos que establezcan los lineamientos, señalando los errores u omisiones que presentó la solicitud. La notificación se efectuará con los datos y en la forma que establezcan los lineamientos;
 
-IV. Actualizar periódicamente la base de datos que integre el Registro; V. Garantizar la conservación, integridad, acceso, compatibilidad y seguridad de la información contenida en la base de datos, y
+IV. Actualizar periódicamente la base de datos que integre el Registro;
+
+V. Garantizar la conservación, integridad, acceso, compatibilidad y seguridad de la información contenida en la base de datos, y
 
 VI. Expedir a las autoridades que lo soliciten constancias relativas a la información contenida en la base de datos.

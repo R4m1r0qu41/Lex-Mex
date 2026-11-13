@@ -33,4 +33,6 @@ VI. Transfieran la concesión o permiso, contraviniendo lo señalado en la prese
 
 VII. Incurran en quiebra, liquidación, disolución o concurso necesario;
 
-VIII. Que al amparo del permiso o concesión se comercialice producto de origen ilegal, y IX. La comercialización, bajo cualquier título jurídico, de las capturas de la pesca deportivo-recreativa.
+VIII. Que al amparo del permiso o concesión se comercialice producto de origen ilegal, y
+
+IX. La comercialización, bajo cualquier título jurídico, de las capturas de la pesca deportivo-recreativa.

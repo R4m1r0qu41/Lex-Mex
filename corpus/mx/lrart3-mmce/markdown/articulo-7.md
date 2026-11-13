@@ -21,4 +21,6 @@ El Sistema contará con un Comité consultivo y deliberativo, cuya función ser�
 
 I. Coadyuvar en las acciones del Sistema, a fin de contribuir a la mejora continua del Sistema Educativo Nacional de manera integral;
 
-II. Intercambiar información del Sistema Educativo Nacional y promover la vinculación interinstitucional sobre experiencias relativas, provenientes de los estudios, investigaciones especializadas y evaluaciones diagnósticas, formativas e integrales que contribuyan a la mejora continua de la educación, y III. Conocer y opinar sobre las propuestas que la Comisión emita en materia de mejora continua de la educación.
+II. Intercambiar información del Sistema Educativo Nacional y promover la vinculación interinstitucional sobre experiencias relativas, provenientes de los estudios, investigaciones especializadas y evaluaciones diagnósticas, formativas e integrales que contribuyan a la mejora continua de la educación, y
+
+III. Conocer y opinar sobre las propuestas que la Comisión emita en materia de mejora continua de la educación.

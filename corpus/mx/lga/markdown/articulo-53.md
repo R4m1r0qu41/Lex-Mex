@@ -19,7 +19,9 @@ source_sha256: 2f931111ab2745aa5a3b2ef0a99dc5beaf73d78f7674f2d90b4462319c1fc688
 
 Las áreas productoras de la documentación, con independencia de participar en las reuniones del Grupo Interdisciplinario, les corresponde:
 
-I. Brindar al responsable del área coordinadora de archivos las facilidades necesarias para la elaboración de las fichas técnicas de valoración documental; II. Identificar y determinar la trascendencia de los documentos que conforman las series como evidencia y registro del desarrollo de sus funciones, reconociendo el uso, acceso, consulta y utilidad institucional, con base en el marco normativo que los faculta;
+I. Brindar al responsable del área coordinadora de archivos las facilidades necesarias para la elaboración de las fichas técnicas de valoración documental;
+
+II. Identificar y determinar la trascendencia de los documentos que conforman las series como evidencia y registro del desarrollo de sus funciones, reconociendo el uso, acceso, consulta y utilidad institucional, con base en el marco normativo que los faculta;
 
 III. Prever los impactos institucionales en caso de no documentar adecuadamente sus procesos de trabajo, y
 

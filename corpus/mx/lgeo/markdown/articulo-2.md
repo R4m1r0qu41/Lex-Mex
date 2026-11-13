@@ -45,7 +45,9 @@ XII. Recurso Geotérmico: Recurso renovable asociado al calor natural del subsue
 
 XIII. Reglamento: Reglamento de la Ley de Geotermia;
 
-XIV. Secretaría: Secretaría de Energía; XV. Usos Diversos: Toda actividad de aprovechamiento por medio del calor del subsuelo para beneficios de la energía geotérmica, diferentes a la generación de energía eléctrica, entre los que se encuentran la calefacción urbana o de invernaderos o ambos, secado de productos agrícolas o industriales, balneología, acuacultura, elaboración de conservas, diferentes tipos de deshielo, lavado de lana y tintes, refrigeración por absorción o por absorción con amoníaco, extracción de sustancias químicas, destilación de agua dulce, recuperación de metales, evaporación de soluciones concentradas, fabricación de pulpa de papel, entre otros;
+XIV. Secretaría: Secretaría de Energía;
+
+XV. Usos Diversos: Toda actividad de aprovechamiento por medio del calor del subsuelo para beneficios de la energía geotérmica, diferentes a la generación de energía eléctrica, entre los que se encuentran la calefacción urbana o de invernaderos o ambos, secado de productos agrícolas o industriales, balneología, acuacultura, elaboración de conservas, diferentes tipos de deshielo, lavado de lana y tintes, refrigeración por absorción o por absorción con amoníaco, extracción de sustancias químicas, destilación de agua dulce, recuperación de metales, evaporación de soluciones concentradas, fabricación de pulpa de papel, entre otros;
 
 XVI. Yacimiento Geotérmico: Depósito subterráneo de calor en la corteza terrestre, formado por agua, vapor geotérmico o rocas calientes, cuya energía térmica se puede aprovechar para generar energía eléctrica o Usos Diversos o ambos, y
 

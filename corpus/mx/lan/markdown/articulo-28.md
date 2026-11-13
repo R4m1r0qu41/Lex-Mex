@@ -31,6 +31,8 @@ V. Renunciar a las concesiones o asignaciones y a los derechos que de ellas se d
 
 VI. Solicitar correcciones administrativas o duplicados de sus títulos;
 
-VII. Solicitar, y en su caso, obtener prórroga de los títulos que les hubiesen sido expedidos, hasta por igual término de vigencia por el que se hubieran emitido y bajo las condiciones del título vigente, de acuerdo con lo previsto en el Artículo [24](articulo-24.md) de la presente Ley, y VIII. Las demás que le otorguen esta Ley y el reglamento regional respectivo derivado de dicha Ley.
+VII. Solicitar, y en su caso, obtener prórroga de los títulos que les hubiesen sido expedidos, hasta por igual término de vigencia por el que se hubieran emitido y bajo las condiciones del título vigente, de acuerdo con lo previsto en el Artículo [24](articulo-24.md) de la presente Ley, y
+
+VIII. Las demás que le otorguen esta Ley y el reglamento regional respectivo derivado de dicha Ley.
 
 Artículo reformado DOF 29-04-2004

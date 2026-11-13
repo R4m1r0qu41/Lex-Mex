@@ -14,12 +14,6 @@
         "text": "fracción VI",
         "start_char": 1266,
         "end_char": 1277
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IX",
-        "start_char": 1326,
-        "end_char": 1337
       }
     ],
     "basis": "express_cross_reference",
@@ -46,19 +40,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1:reference:817-818:11-bis-1:direct",
+    "id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1:reference:818-819:11-bis-1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1",
     "source_span": "I",
-    "start_char": 817,
-    "end_char": 818,
+    "start_char": 818,
+    "end_char": 819,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfdo",
     "target_provision_id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 817,
-        "end_char": 818
+        "start_char": 818,
+        "end_char": 819
       }
     ],
     "basis": "express_cross_reference",
@@ -69,19 +63,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1:reference:821-824:11-bis-1:direct",
+    "id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1:reference:822-825:11-bis-1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1",
     "source_span": "III",
-    "start_char": 821,
-    "end_char": 824,
+    "start_char": 822,
+    "end_char": 825,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfdo",
     "target_provision_id": "urn:lex-mx:federal:statute:lfdo:article:11-bis-1",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "III",
-        "start_char": 821,
-        "end_char": 824
+        "start_char": 822,
+        "end_char": 825
       }
     ],
     "basis": "express_cross_reference",
@@ -455,12 +449,6 @@
         "text": "fracciones I y IV",
         "start_char": 4110,
         "end_char": 4127
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 4253,
-        "end_char": 4265
       }
     ],
     "basis": "express_cross_reference",
@@ -501,14 +489,7 @@
     "end_char": 4569,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:113-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 4797,
-        "end_char": 4809
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -553,12 +534,6 @@
         "text": "fracciones I y II",
         "start_char": 5081,
         "end_char": 5098
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I, II y III",
-        "start_char": 5128,
-        "end_char": 5150
       }
     ],
     "basis": "express_cross_reference",
@@ -582,12 +557,6 @@
         "text": "fracciones I, II y III",
         "start_char": 5128,
         "end_char": 5150
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "inciso d",
-        "start_char": 5200,
-        "end_char": 5208
       },
       {
         "qualifier_type": "paragraph",
@@ -919,18 +888,6 @@
         "text": "fracciones V, VI y VII",
         "start_char": 908,
         "end_char": 930
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 1093,
-        "end_char": 1104
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción XI",
-        "start_char": 1153,
-        "end_char": 1164
       }
     ],
     "basis": "express_cross_reference",

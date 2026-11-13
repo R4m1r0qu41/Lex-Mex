@@ -7,8 +7,8 @@ provision_type: article
 number: "12"
 aliases: ["LFCE — Artículo 12"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf
 source_sha256: d0021bbef2e0c3251d6efdea2c1efd9959ff3f02df4bcd1fc37c1ee7826a72ba
 ---
@@ -39,7 +39,9 @@ IX. Ordenar la suspensión de los actos o hechos constitutivos de una probable c
 
 X. Resolver sobre los asuntos de su competencia y sancionar administrativamente la violación de esta Ley;
 
-XI. Resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de libre concurrencia o competencia económica a que hacen referencia ésta u otras leyes y reglamentos; XII. Se deroga Fracción derogada DOF 16-07-2025
+XI. Resolver sobre condiciones de competencia, competencia efectiva, existencia de poder sustancial en el mercado relevante u otras cuestiones relativas al proceso de libre concurrencia o competencia económica a que hacen referencia ésta u otras leyes y reglamentos;
+
+XII. Se deroga Fracción derogada DOF 16-07-2025
 
 XIII. Emitir opinión, a solicitud del Ejecutivo Federal, por sí o por conducto de la [Secretaría](articulo-3.md), respecto de los anteproyectos de leyes, disposiciones, reglas, acuerdos, circulares y demás actos administrativos de carácter general que pretendan emitir Autoridades Públicas, cuando puedan tener efectos contrarios al proceso de libre concurrencia y competencia económica de conformidad con las disposiciones legales aplicables, sin que estas opiniones tengan efectos vinculantes; Fracción reformada DOF 16-07-2025
 

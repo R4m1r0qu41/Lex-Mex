@@ -19,7 +19,9 @@ source_sha256: 5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4
 
 El Instituto para el Desarrollo Técnico de las Haciendas Públicas (INDETEC), es un organismo público, con personalidad jurídica y patrimonio propios, con las siguientes funciones:
 
-I.- Realizar estudios relativos al sistema nacional de coordinación fiscal. II.- Hacer estudios permanentes de la legislación tributaria vigente en la Federación y en cada una de las entidades, así como de las respectivas administraciones. Fe de erratas a la fracción DOF 12-02-1979
+I.- Realizar estudios relativos al sistema nacional de coordinación fiscal.
+
+II.- Hacer estudios permanentes de la legislación tributaria vigente en la Federación y en cada una de las entidades, así como de las respectivas administraciones. Fe de erratas a la fracción DOF 12-02-1979
 
 III.- Sugerir medidas encaminadas a coordinar la acción impositiva federal y local, para lograr la más equitativa distribución de los ingresos entre la Federación y las entidades. Fe de erratas a la fracción DOF 12-02-1979
 

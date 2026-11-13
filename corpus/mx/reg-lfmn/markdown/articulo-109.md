@@ -20,7 +20,9 @@ source_sha256: 3acf06eaf8b838cdfa68553efe0f007fcc3e9eee10b0ed42d693c99b0ae59bf3
 
 # Artículo 109
 
-Los participantes en el Premio Nacional de Calidad deberán reunir las características siguientes: I. Llevar a cabo un proceso sostenido de aseguramiento de la calidad enfocado a la mejora continua hacia la calidad, tanto en sus áreas de producción de bienes o servicios, como en las de administración y distribución de los mismos;
+Los participantes en el Premio Nacional de Calidad deberán reunir las características siguientes:
+
+I. Llevar a cabo un proceso sostenido de aseguramiento de la calidad enfocado a la mejora continua hacia la calidad, tanto en sus áreas de producción de bienes o servicios, como en las de administración y distribución de los mismos;
 
 II. Presentar una descripción detallada sobre sus sistemas y procesos para lograr la calidad, así como de los resultados cuantitativos y cualitativos que hubieran alcanzado, y permitir que un grupo de expertos en la materia verifique la veracidad de la información presentada;
 

@@ -17,7 +17,7 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 28
 
-La [Secretaría](articulo-2.md) podrá otorgar protección complementaria al extranjero que, no encontrándose dentro de los supuestos del artículo [13](articulo-13.md) de esta Ley, requiera protección para no ser devuelto al territorio de otro país en donde su vida peligre o en donde existan razones fundadas para creer que estaría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes.
+La [Secretaría](articulo-2.md) podrá otorgar protección complementaria al extranjero que, no encontrándose dentro de los supuestos del artículo [13](articulo-13.md) de esta [Ley](articulo-2.md), requiera protección para no ser devuelto al territorio de otro país en donde su vida peligre o en donde existan razones fundadas para creer que estaría en peligro de ser sometido a tortura u otros tratos o penas crueles, inhumanos o degradantes.
 
 Para el otorgamiento de dicha protección la Secretaría deberá considerar la opinión de la Secretaría de Relaciones Exteriores, misma que se solicitará conforme a lo previsto en el artículo [24](articulo-24.md) de esta Ley.
 

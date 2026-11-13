@@ -46,183 +46,183 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:415-419",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:416-420",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:sict",
     "span": "SICT",
-    "start_char": 415,
-    "end_char": 419
+    "start_char": 416,
+    "end_char": 420
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:1067-1077",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:1068-1078",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 1067,
-    "end_char": 1077
+    "start_char": 1068,
+    "end_char": 1078
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:1761-1764",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:1762-1765",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
     "span": "Ley",
-    "start_char": 1761,
-    "end_char": 1764
+    "start_char": 1762,
+    "end_char": 1765
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:2280-2284",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:2281-2285",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:sict",
     "span": "SICT",
-    "start_char": 2280,
-    "end_char": 2284
+    "start_char": 2281,
+    "end_char": 2285
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:2300-2306",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:2301-2307",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:seneam",
     "span": "SENEAM",
-    "start_char": 2300,
-    "end_char": 2306
+    "start_char": 2301,
+    "end_char": 2307
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:2642-2645",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:2643-2646",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
     "span": "Ley",
-    "start_char": 2642,
-    "end_char": 2645
+    "start_char": 2643,
+    "end_char": 2646
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:2865-2868",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:2866-2869",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
     "span": "Ley",
-    "start_char": 2865,
-    "end_char": 2868
+    "start_char": 2866,
+    "end_char": 2869
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:3080-3083",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:3081-3084",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
     "span": "Ley",
-    "start_char": 3080,
-    "end_char": 3083
+    "start_char": 3081,
+    "end_char": 3084
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:3444-3452",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:3445-3453",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:amenaza",
     "span": "Amenazas",
-    "start_char": 3444,
-    "end_char": 3452
+    "start_char": 3445,
+    "end_char": 3453
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4175-4178",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4176-4179",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
     "span": "Ley",
-    "start_char": 4175,
-    "end_char": 4178
+    "start_char": 4176,
+    "end_char": 4179
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4192-4202",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4193-4203",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 4192,
-    "end_char": 4202
+    "start_char": 4193,
+    "end_char": 4203
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4279-4292",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4280-4293",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:consolidacion",
     "span": "Consolidación",
-    "start_char": 4279,
-    "end_char": 4292
+    "start_char": 4280,
+    "end_char": 4293
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4773-4793",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4775-4795",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:tripulacion-de-vuelo",
     "span": "Tripulación de Vuelo",
-    "start_char": 4773,
-    "end_char": 4793
+    "start_char": 4775,
+    "end_char": 4795
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4987-5007",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:4989-5009",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:tripulacion-de-vuelo",
     "span": "Tripulación de Vuelo",
-    "start_char": 4987,
-    "end_char": 5007
+    "start_char": 4989,
+    "end_char": 5009
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:5928-5941",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:5930-5943",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:amenaza-aerea",
     "span": "Amenaza aérea",
-    "start_char": 5928,
-    "end_char": 5941
+    "start_char": 5930,
+    "end_char": 5943
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:6048-6055",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:6050-6057",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:amenaza",
     "span": "Amenaza",
-    "start_char": 6048,
-    "end_char": 6055
+    "start_char": 6050,
+    "end_char": 6057
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:6562-6566",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:6564-6568",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:sict",
     "span": "SICT",
-    "start_char": 6562,
-    "end_char": 6566
+    "start_char": 6564,
+    "end_char": 6568
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:6615-6630",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:6617-6632",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:piloto-al-mando",
     "span": "Piloto al Mando",
-    "start_char": 6615,
-    "end_char": 6630
+    "start_char": 6617,
+    "end_char": 6632
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:6996-7017",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:6998-7019",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:seguridad-operacional",
     "span": "Seguridad Operacional",
-    "start_char": 6996,
-    "end_char": 7017
+    "start_char": 6998,
+    "end_char": 7019
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:7398-7408",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4:term-usage:7400-7410",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 7398,
-    "end_char": 7408
+    "start_char": 7400,
+    "end_char": 7410
   },
   {
     "schema_version": "0.1.0",
@@ -235,21 +235,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:5:term-usage:1254-1258",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:5:term-usage:1255-1259",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:sict",
     "span": "SICT",
-    "start_char": 1254,
-    "end_char": 1258
+    "start_char": 1255,
+    "end_char": 1259
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:5:term-usage:1298-1302",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:5:term-usage:1299-1303",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:sict",
     "span": "SICT",
-    "start_char": 1298,
-    "end_char": 1302
+    "start_char": 1299,
+    "end_char": 1303
   },
   {
     "schema_version": "0.1.0",
@@ -1315,12 +1315,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:52:term-usage:368-374",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:52:term-usage:369-375",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:52",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:seneam",
     "span": "SENEAM",
-    "start_char": 368,
-    "end_char": 374
+    "start_char": 369,
+    "end_char": 375
   },
   {
     "schema_version": "0.1.0",
@@ -1423,57 +1423,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:417-437",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:418-438",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:tripulacion-de-vuelo",
     "span": "Tripulación de Vuelo",
-    "start_char": 417,
-    "end_char": 437
+    "start_char": 418,
+    "end_char": 438
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:564-568",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:565-569",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:afac",
     "span": "AFAC",
-    "start_char": 564,
-    "end_char": 568
+    "start_char": 565,
+    "end_char": 569
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:571-577",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:572-578",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:seneam",
     "span": "SENEAM",
-    "start_char": 571,
-    "end_char": 577
+    "start_char": 572,
+    "end_char": 578
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:846-849",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:847-850",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:ley",
     "span": "Ley",
-    "start_char": 846,
-    "end_char": 849
+    "start_char": 847,
+    "end_char": 850
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:1035-1039",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:1036-1040",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:afac",
     "span": "AFAC",
-    "start_char": 1035,
-    "end_char": 1039
+    "start_char": 1036,
+    "end_char": 1040
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:1042-1048",
+    "id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56:term-usage:1043-1049",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lpeam:article:56",
     "term_id": "urn:lex-mx:federal:regulation:reg-lpeam:term:seneam",
     "span": "SENEAM",
-    "start_char": 1042,
-    "end_char": 1048
+    "start_char": 1043,
+    "end_char": 1049
   },
   {
     "schema_version": "0.1.0",

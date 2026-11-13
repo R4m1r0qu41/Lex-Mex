@@ -21,7 +21,9 @@ La asamblea general de socios, y en su caso la asamblea de representantes son la
 
 Cuando las sociedades tengan más de cien socios, se deberá prever en las bases constitutivas, la forma en que los mismos nombrarán a sus representantes, a efecto de que las decisiones se tomen en un cuerpo colegiado denominado Asamblea General de Representantes. En la inteligencia de que los representantes solamente podrán serlo de un máximo de diez socios.
 
-Además de las facultades que le concedan las bases constitutivas, la asamblea de socios o de representantes en su caso, deberá conocer de: I.- Exclusión y separación voluntaria de socios;
+Además de las facultades que le concedan las bases constitutivas, la asamblea de socios o de representantes en su caso, deberá conocer de:
+
+I.- Exclusión y separación voluntaria de socios;
 
 II.- Modificación de las bases constitutivas;
 

@@ -21,7 +21,9 @@ El [CONAM](articulo-2.md) tendrá las siguientes facultades:
 
 I. Opinar en el diseño, planeación, programación y definición de políticas públicas sobre fomento y protección al [Maíz Nativo](articulo-2.md) y en [Diversificación Constante](articulo-2.md);
 
-II. Revisar y, en su caso, opinar en la modificación de los programas de semillas de Maíz Nativo, para que se ajusten a la [Ley](articulo-2.md); III. Opinar para la [SADER](articulo-2.md) en cuanto a la autorización y supervisión de los Bancos de Semillas de Maíz Nativo;
+II. Revisar y, en su caso, opinar en la modificación de los programas de semillas de Maíz Nativo, para que se ajusten a la [Ley](articulo-2.md);
+
+III. Opinar para la [SADER](articulo-2.md) en cuanto a la autorización y supervisión de los Bancos de Semillas de Maíz Nativo;
 
 IV. Opinar sobre las propuestas y tener voz en los mecanismos de consulta, investigación y estudios sobre Maíz Nativo, y
 

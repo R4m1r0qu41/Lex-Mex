@@ -23,7 +23,9 @@ I.- El Rector General de la Universidad, quien lo presidirá;
 
 II.- Los Rectores;
 
-III.- Los Directores de División; y IV.- Tres representantes del personal académico, tres de los alumnos y uno de los trabajadores administrativos, elegidos por cada uno de los consejos académicos de entre sus miembros.
+III.- Los Directores de División; y
+
+IV.- Tres representantes del personal académico, tres de los alumnos y uno de los trabajadores administrativos, elegidos por cada uno de los consejos académicos de entre sus miembros.
 
 Los representantes del personal académico, de los alumnos y de los trabajadores administrativos durarán en su cargo dos años y no podrán ser reelectos para el período inmediato.
 

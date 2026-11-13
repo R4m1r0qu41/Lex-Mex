@@ -29,7 +29,9 @@ IV. Cumplir con los reglamentos y normas de seguridad emitidas para la seguridad
 
 V. Contar con equipos y programas informáticos de gestión de supervisión de alarmas y eventos, que permitan llevar un adecuado registro de dichas señales;
 
-VI. Tener un generador de energía eléctrica de servicio continuo y/o sistema alternativo que garantice un servicio de energía ininterrumpido, así como sistemas de iluminación de emergencia; VII. Tener de manera obligatoria un mínimo de dos operadores por turno, destinados a las tareas específicas de supervisión, administración y control de las señales;
+VI. Tener un generador de energía eléctrica de servicio continuo y/o sistema alternativo que garantice un servicio de energía ininterrumpido, así como sistemas de iluminación de emergencia;
+
+VII. Tener de manera obligatoria un mínimo de dos operadores por turno, destinados a las tareas específicas de supervisión, administración y control de las señales;
 
 VIII. Mantener el sistema de redundancia para asegurar la continuidad de la prestación del servicio, y
 

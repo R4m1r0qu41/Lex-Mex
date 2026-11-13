@@ -35,7 +35,9 @@ e) Si la sociedad propietaria de tierras o sus socios son tenedores de acciones 
 
 f) Nombre, superficie y ubicación de los predios propiedad de la sociedad o de sus socios, fecha de adquisición y copia de las escrituras públicas, contratos o documentos que lo amparen, e
 
-g) Los planos de los predios de que se trate; III. Estudio o constancia expedida por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en el que conste la clase y tipo de tierra y el coeficiente de agostadero, de contar con tierras dedicadas a la ganadería extensiva. Se deberá hacer constar además el uso actual del predio; en el caso de tener antecedentes de que las tierras hubieren sido mejoradas con diversas prácticas agronómicas por los propietarios o poseedores, también se deberá contar con la constancia de mejora de tierras expedida por la referida Secretaría;
+g) Los planos de los predios de que se trate;
+
+III. Estudio o constancia expedida por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en el que conste la clase y tipo de tierra y el coeficiente de agostadero, de contar con tierras dedicadas a la ganadería extensiva. Se deberá hacer constar además el uso actual del predio; en el caso de tener antecedentes de que las tierras hubieren sido mejoradas con diversas prácticas agronómicas por los propietarios o poseedores, también se deberá contar con la constancia de mejora de tierras expedida por la referida Secretaría;
 
 IV. Manifestación bajo protesta de decir verdad del representante legal, sobre la existencia de otras propiedades en la República Mexicana, y
 

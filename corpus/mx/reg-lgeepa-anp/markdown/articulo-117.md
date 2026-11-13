@@ -25,7 +25,9 @@ II.- En caso de personas morales, la documentación que acredite su personalidad
 
 III.- Documento que acredite la propiedad del predio o en su caso, el documento mediante el cual el propietario del predio le transfiere al promovente los derechos sobre el mismo y lo autoriza a promover ante la Secretaría la declaratoria correspondiente;
 
-IV.- Tipo de área natural protegida que proponen establecer según los elementos naturales que justifiquen su protección; V.- Descripción de las características físicas y biológicas del área;
+IV.- Tipo de área natural protegida que proponen establecer según los elementos naturales que justifiquen su protección;
+
+V.- Descripción de las características físicas y biológicas del área;
 
 VI.- Ubicación geográfica del área que incluya su delimitación precisa en un mapa y superficie total;
 

@@ -23,7 +23,9 @@ I. Reservas de riesgos en curso;
 
 II. Reservas para obligaciones pendientes de cumplir;
 
-III. Reserva matemática especial, para los seguros a los que se refiere la fracción II del artículo [27](articulo-27.md) de esta Ley; IV. Reserva para fluctuación de inversiones, para los seguros a los que se refiere la fracción II del artículo [27](articulo-27.md) de este ordenamiento;
+III. Reserva matemática especial, para los seguros a los que se refiere la fracción II del artículo [27](articulo-27.md) de esta Ley;
+
+IV. Reserva para fluctuación de inversiones, para los seguros a los que se refiere la fracción II del artículo [27](articulo-27.md) de este ordenamiento;
 
 V. Reserva de contingencia, para los seguros a los que se refiere la fracción II del artículo [27](articulo-27.md) de la presente Ley, así como para las [Sociedades Mutualistas](articulo-2.md);
 

@@ -17,7 +17,9 @@ source_sha256: 030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a
 
 # Artículo 99
 
-El procedimiento general para las adecuaciones presupuestarias externas de las entidades es el siguiente: I. El trámite ante la Secretaría se realizará por conducto de la dependencia coordinadora de sector;
+El procedimiento general para las adecuaciones presupuestarias externas de las entidades es el siguiente:
+
+I. El trámite ante la Secretaría se realizará por conducto de la dependencia coordinadora de sector;
 
 II. La solicitud deberá justificarse, identificando cada una de las modificaciones en el presupuesto, así como el calendario respectivo;
 

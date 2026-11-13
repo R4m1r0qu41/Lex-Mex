@@ -21,7 +21,9 @@ Para los efectos de esta [Ley](articulo-3.md), se entenderá por:
 
 I. Actividades Vulnerables, a las actividades que realicen las [Entidades Financieras](articulo-3.md) en términos del artículo [14](articulo-14.md) y a las que se refiere el artículo [17](articulo-17.md) de esta Ley;
 
-II. Avisos, a aquellos que deben presentarse en términos del artículo [17](articulo-17.md) de la presente Ley, así como a los reportes que deben presentar las entidades financieras en términos del artículo [15](articulo-15.md), fracción II, de esta Ley; III. Beneficiario Controlador, a la persona física o grupo de personas físicas que: Párrafo reformado DOF 16-07-2025
+II. Avisos, a aquellos que deben presentarse en términos del artículo [17](articulo-17.md) de la presente Ley, así como a los reportes que deben presentar las entidades financieras en términos del artículo [15](articulo-15.md), fracción II, de esta Ley;
+
+III. Beneficiario Controlador, a la persona física o grupo de personas físicas que: Párrafo reformado DOF 16-07-2025
 
 a) Directamente o por medio de alguna persona [Cliente o Usuaria](articulo-3.md) obtiene, en última instancia, el beneficio de goce, uso, disfrute, aprovechamiento o disposición del bien o servicio derivado de la realización de un acto u operación con quien realice una Actividad Vulnerable, o Inciso reformado DOF 16-07-2025
 
@@ -45,7 +47,9 @@ IV. Delitos de Operaciones con Recursos de Procedencia Ilícita, a los tipificad
 
 IV Bis. Desarrollo Inmobiliario, al proyecto para la construcción de inmuebles o fraccionamiento de lotes, destinados a su venta o renta; Fracción adicionada DOF 16-07-2025
 
-V. Entidades Colegiadas, a las personas morales reconocidas por la legislación mexicana, que cumplan con los requisitos del artículo [27](articulo-27.md) de esta Ley; VI. Entidades Financieras, aquellas entidades financieras y actividades auxiliares de crédito reguladas en los artículos [115](../../lic/markdown/articulo-115.md) de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera; Fracción reformada DOF 09-03-2018, 16-07-2025
+V. Entidades Colegiadas, a las personas morales reconocidas por la legislación mexicana, que cumplan con los requisitos del artículo [27](articulo-27.md) de esta Ley;
+
+VI. Entidades Financieras, aquellas entidades financieras y actividades auxiliares de crédito reguladas en los artículos [115](../../lic/markdown/articulo-115.md) de la Ley de Instituciones de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera; Fracción reformada DOF 09-03-2018, 16-07-2025
 
 VII. Fedatarios Públicos, a los notarios o corredores públicos, así como a los servidores públicos a quienes las Leyes les confieran la facultad de dar fe pública en el ejercicio de sus atribuciones establecidas en las disposiciones jurídicas correspondientes, que intervengan en la realización de Actividades Vulnerables;
 

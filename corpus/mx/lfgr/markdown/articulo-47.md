@@ -29,7 +29,9 @@ IV. Preservar el secreto, reserva y confidencialidad, en términos de las dispos
 
 V. Prestar auxilio a las personas que hayan sido víctimas de algún delito. Su actuación deberá ser congruente, oportuna y proporcional al hecho;
 
-VI. Cumplir sus funciones con absoluta imparcialidad, sin discriminación a persona alguna; VII. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes;
+VI. Cumplir sus funciones con absoluta imparcialidad, sin discriminación a persona alguna;
+
+VII. Impedir, por los medios que tuvieren a su alcance y en el ámbito de sus atribuciones, que se infrinjan, toleren o permitan actos de tortura física o psicológica u otros tratos o sanciones crueles, inhumanos o degradantes;
 
 VIII. Abstenerse de realizar cualquiera de las conductas siguientes:
 
@@ -53,7 +55,9 @@ i) Abrir y desarrollar investigaciones sin sustento jurídico, y
 
 j) Dar a conocer, entregar, revelar, publicar, transmitir, exponer, remitir, distribuir, videograbar, audiograbar, fotografiar, reproducir, comercializar, intercambiar o compartir a quien no tenga derecho, documentos, constancias, información, imágenes, audios, videos, indicios, evidencias, objetos o cualquier instrumento que obre en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
 
-IX. Observar un trato respetuoso con todas las personas debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población; X. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente, rechazando y denunciando cualquier acto de corrupción del que tengan conocimiento;
+IX. Observar un trato respetuoso con todas las personas debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
+
+X. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente, rechazando y denunciando cualquier acto de corrupción del que tengan conocimiento;
 
 XI. Utilizar los recursos económicos que se les entreguen con motivo de sus funciones para los fines a que están afectos y, en su caso, reembolsar los excedentes de conformidad con las disposiciones aplicables;
 

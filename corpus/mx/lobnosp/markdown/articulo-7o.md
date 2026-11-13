@@ -23,7 +23,9 @@ I. Realizar las operaciones y prestar los servicios a que se refiere el artícul
 
 Las operaciones señaladas en el citado artículo 46, fracciones I y II, las realizará en los términos del artículo 47 de dicho ordenamiento; Fracción reformada DOF 10-01-2014
 
-II. Emitir bonos bancarios de desarrollo. Dichos títulos procurarán fomentar el desarrollo del mercado de capitales y la inversión institucional, serán susceptibles de colocarse entre el gran público inversionista, caso en el cual le serán aplicables las disposiciones legales respectivas; III. Otorgar créditos a los sujetos comprendidos en los ámbitos señalados en el artículo [3](articulo-3o.md)o. de la presente Ley;
+II. Emitir bonos bancarios de desarrollo. Dichos títulos procurarán fomentar el desarrollo del mercado de capitales y la inversión institucional, serán susceptibles de colocarse entre el gran público inversionista, caso en el cual le serán aplicables las disposiciones legales respectivas;
+
+III. Otorgar créditos a los sujetos comprendidos en los ámbitos señalados en el artículo [3](articulo-3o.md)o. de la presente Ley;
 
 IV. Tomar a su cargo o garantizar las emisiones de valores y de títulos de crédito en serie, emitidos o garantizados por las dependencias y entidades de la Administración Pública Federal, del Distrito Federal, de los estados y municipios y los que emita la propia Sociedad en el ejercicio de sus atribuciones fiduciarias, previa autorización de la Secretaría de Hacienda y Crédito Público;
 

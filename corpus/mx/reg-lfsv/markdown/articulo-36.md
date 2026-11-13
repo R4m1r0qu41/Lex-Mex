@@ -17,7 +17,9 @@ source_sha256: 1311332a5177afc73a9d005e9953e0cd34487524768e6fe099a1c6fef29bdbb7
 
 # Artículo 36
 
-El [SENASICA](articulo-2.md), con base en el Sistema Nacional de Vigilancia Epidemiológica Fitosanitaria, realizará las acciones siguientes: I. Detectar la presencia, transitoriedad y, en su caso, determinar la ausencia de [Plagas Reglamentadas](articulo-2.md), determinadas como prioritarias en zonas agrícolas de riesgo en el territorio nacional;
+El [SENASICA](articulo-2.md), con base en el Sistema Nacional de Vigilancia Epidemiológica Fitosanitaria, realizará las acciones siguientes:
+
+I. Detectar la presencia, transitoriedad y, en su caso, determinar la ausencia de [Plagas Reglamentadas](articulo-2.md), determinadas como prioritarias en zonas agrícolas de riesgo en el territorio nacional;
 
 II. Coadyuvar en la delimitación de Plagas Reglamentadas o de Riesgos Fitosanitarios y, en su caso, una vez realizada esta delimitación podrá participar en la aplicación de las Medidas Fitosanitarias para el control de las Plagas Reglamentadas presentes o emergentes, a efecto de evitar la diseminación o dispersión de la misma, así como notificar dichas Medidas Fitosanitarias a los productores para su aplicación inmediata;
 

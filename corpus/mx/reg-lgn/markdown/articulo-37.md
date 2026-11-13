@@ -33,7 +33,9 @@ VI. Realizar las detenciones en caso de urgencia y flagrancia, conforme a lo dis
 
 VII. Supervisar, en el ámbito de su competencia, que los integrantes preserven el lugar de los hechos, así como la integridad de los indicios, huellas o vestigios del hecho delictivo, incluyendo los instrumentos, objetos o productos del delito, en términos de las disposiciones jurídicas aplicables;
 
-VIII. Auxiliar a las unidades de la Institución que lo soliciten, así como a la autoridad que lo requiera en la búsqueda, preservación y obtención de indicios y pruebas, a fin de coadyuvar en el cumplimiento de sus funciones constitucionales de investigación para la prevención de los delitos; IX. Realizar bajo la conducción y mando de las autoridades competentes las investigaciones relativas al combate de los delitos cometidos, así como las actuaciones que en esa materia le instruyan éstas, conforme a las disposiciones jurídicas aplicables;
+VIII. Auxiliar a las unidades de la Institución que lo soliciten, así como a la autoridad que lo requiera en la búsqueda, preservación y obtención de indicios y pruebas, a fin de coadyuvar en el cumplimiento de sus funciones constitucionales de investigación para la prevención de los delitos;
+
+IX. Realizar bajo la conducción y mando de las autoridades competentes las investigaciones relativas al combate de los delitos cometidos, así como las actuaciones que en esa materia le instruyan éstas, conforme a las disposiciones jurídicas aplicables;
 
 X. Coordinar y organizar a los integrantes que tenga a su cargo en la realización de operativos conjuntos con otras instituciones o autoridades federales, locales o municipales, en el ámbito de su competencia;
 

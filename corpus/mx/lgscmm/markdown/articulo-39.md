@@ -57,7 +57,9 @@ X. La admisión al servicio público educativo estará sujeta a la disponibilida
 
 XI. Las plazas docentes que queden vacantes durante el ciclo escolar, deberán asignarse de conformidad con el orden de las personas participantes que hayan obtenido los puntajes más altos en el proceso de selección para la admisión que se haya realizado en una entidad federativa y no hayan obtenido una plaza. Agotado dicho orden, la autoridad educativa podrá proponer a las personas participantes que hayan obtenido los puntajes más altos en el proceso de selección para la admisión realizado en otras entidades federativas circunvecinas y no hayan obtenido una plaza;
 
-XII. Agotadas las personas participantes a las que refiere la fracción anterior, la autoridad educativa podrá contratar personal que cumpla con el perfil profesional requerido, al cual le otorgará un nombramiento temporal como máximo hasta por el término del ciclo escolar; XIII. En los procesos de selección para la admisión al Sistema se utilizarán los perfiles profesionales, criterios e indicadores definidos de conformidad con lo establecido en esta Ley;
+XII. Agotadas las personas participantes a las que refiere la fracción anterior, la autoridad educativa podrá contratar personal que cumpla con el perfil profesional requerido, al cual le otorgará un nombramiento temporal como máximo hasta por el término del ciclo escolar;
+
+XIII. En los procesos de selección para la admisión al Sistema se utilizarán los perfiles profesionales, criterios e indicadores definidos de conformidad con lo establecido en esta Ley;
 
 XIV. Los procesos de selección para la admisión al servicio educativo serán públicos; podrán participar todas las personas que cumplan con el perfil profesional relacionado con el nivel, tipo de servicio, modalidad y materia educativa correspondiente y con los requisitos que se establezcan en las convocatorias, y
 

@@ -19,7 +19,9 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 Al frente de la Coordinación General de Servicios Periciales habrá un Coordinador General, quien ejercerá por sí o a través de los servidores públicos que le estén adscritos, las atribuciones siguientes:
 
-I. Diseñar y establecer los criterios y lineamientos que deben apegarse la presentación y formulación de los dictámenes e informes de las diversas especialidades periciales; II. Diseñar los mecanismos, procedimientos y programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos a la Procuraduría;
+I. Diseñar y establecer los criterios y lineamientos que deben apegarse la presentación y formulación de los dictámenes e informes de las diversas especialidades periciales;
+
+II. Diseñar los mecanismos, procedimientos y programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos a la Procuraduría;
 
 III. Evaluar y controlar la intervención de los peritos volantes en las diversas especialidades;
 

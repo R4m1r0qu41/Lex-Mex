@@ -31,7 +31,9 @@ III. 15% para regalías, para asistencia técnica, así como para otros gastos d
 
 IV. En el caso de activos intangibles que permitan la explotación de bienes del dominio público o la prestación de un servicio público concesionado, el porciento máximo se calculará dividiendo la unidad entre el número de años por los cuales se otorgó la concesión, el cociente así obtenido se multiplicará por cien y el producto se expresará en porciento.
 
-B. Tratándose de activos fijos por tipo de bien son los siguientes: I. Tratándose de construcciones:
+B. Tratándose de activos fijos por tipo de bien son los siguientes:
+
+I. Tratándose de construcciones:
 
 a) 20% para inmuebles declarados como monumentos arqueológicos, artísticos, históricos o patrimoniales, conforme a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, que cuenten con el certificado de restauración expedido por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes.
 
@@ -99,7 +101,9 @@ III. 13% en la fabricación de pulpa, papel y productos similares.
 
 IV. 13% en la fabricación de vehículos de motor y sus partes; en la construcción de ferrocarriles y navíos; en la fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; en la elaboración de productos alimenticios y de bebidas, excepto granos, azúcar, aceites comestibles y derivados.
 
-V. 20% en el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y farmacobiológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica. VI. 20% en el transporte eléctrico; en infraestructura fija para el transporte, almacenamiento y procesamiento de hidrocarburos.
+V. 20% en el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y farmacobiológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica.
+
+VI. 20% en el transporte eléctrico; en infraestructura fija para el transporte, almacenamiento y procesamiento de hidrocarburos.
 
 VII. 25% en la fabricación, acabado, teñido y estampado de productos textiles, así como de prendas para el vestido.
 

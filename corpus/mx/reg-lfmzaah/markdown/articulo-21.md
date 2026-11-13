@@ -7,8 +7,8 @@ provision_type: article
 number: "21"
 aliases: ["REG-LFMZAAH — Artículo 21"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMZAAH_031220.pdf
 source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 ---
@@ -21,7 +21,9 @@ Para obtener el registro de monumentos, a petición de parte interesada, deberá
 
 I.- Formular solicitud, utilizando la forma oficialmente aprobada, con los datos que en ella se exijan;
 
-II.- Presentar, en su caso, la declaratoria de monumento; III.- Exhibir, en su caso, los documentos que acrediten la propiedad o posesión del monumento;
+II.- Presentar, en su caso, la declaratoria de monumento;
+
+III.- Exhibir, en su caso, los documentos que acrediten la propiedad o posesión del monumento;
 
 IV.- Entregar plano de localización plantas arquitectónicas, cortes y fachadas, en caso de inmueble; y
 

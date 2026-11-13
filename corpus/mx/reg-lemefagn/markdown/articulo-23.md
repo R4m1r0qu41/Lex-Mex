@@ -7,8 +7,8 @@ provision_type: article
 number: "23"
 aliases: ["REG-LEMEFAGN — Artículo 23"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEMEFAGN.pdf
 source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 ---
@@ -49,7 +49,9 @@ XIV. Actualizar sus conocimientos didácticos y de la especialidad para hacer ef
 
 XV. Evitar el empleo de su posición como docente para influir en materia política y religiosa o imbuir ideas contrarias a la doctrina militar;
 
-XVI. Evitar actividades de publicidad o comercialización de bienes o servicios, dentro de las Instituciones Educativas; XVII. Asistir a los cursos de capacitación docente que programe la Dirección y Rectoría o las Instituciones Educativas;
+XVI. Evitar actividades de publicidad o comercialización de bienes o servicios, dentro de las Instituciones Educativas;
+
+XVII. Asistir a los cursos de capacitación docente que programe la Dirección y Rectoría o las Instituciones Educativas;
 
 XVIII. Exhibir la documentación personal que le sea requerida por la Institución Educativa, para efectos de control y registro, y
 

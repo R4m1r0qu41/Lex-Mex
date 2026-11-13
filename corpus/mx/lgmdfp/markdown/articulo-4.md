@@ -43,7 +43,9 @@ V. Comisiones Locales de Búsqueda: a las Comisiones de Búsqueda de Personas en
 
 VI. Consejo Ciudadano: al Consejo Nacional Ciudadano, órgano del Sistema Nacional de Búsqueda de Personas;
 
-VII. Declaración Especial de Ausencia: a la Declaración Especial de Ausencia por Desaparición; VII Bis. Enfoque de identificación humana complementario: al Sistema forense que combina la investigación forense de pequeña, moderada escala, individualizado o tradicional con una de enfoque integral de investigación forense de gran escala. Ambos se complementan y si las circunstancias lo exigen, pueden combinarse; Fracción adicionada DOF 13-05-2022
+VII. Declaración Especial de Ausencia: a la Declaración Especial de Ausencia por Desaparición;
+
+VII Bis. Enfoque de identificación humana complementario: al Sistema forense que combina la investigación forense de pequeña, moderada escala, individualizado o tradicional con una de enfoque integral de investigación forense de gran escala. Ambos se complementan y si las circunstancias lo exigen, pueden combinarse; Fracción adicionada DOF 13-05-2022
 
 VII Ter. Enfoque individualizado o tradicional: al Sistema forense multidisciplinario en el que se busca la identificación humana contrastando información caso por caso; Fracción adicionada DOF 13-05-2022
 

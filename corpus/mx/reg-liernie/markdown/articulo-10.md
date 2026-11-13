@@ -27,7 +27,9 @@ III. Naves industriales;
 
 IV. Centros comerciales;
 
-V. Centros de investigación; VI. Desarrollos turísticos, siempre que no contengan inmuebles destinados a fines residenciales;
+V. Centros de investigación;
+
+VI. Desarrollos turísticos, siempre que no contengan inmuebles destinados a fines residenciales;
 
 VII. Marinas turísticas;
 

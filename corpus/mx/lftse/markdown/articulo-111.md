@@ -17,9 +17,9 @@ source_sha256: 2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe
 
 # Artículo 111
 
-Los trabajadores que sufran enfermedades no profesionales, tendrán derecho a que se les concedan licencias, para dejar de concurrir a sus labores, previo dictamen y la consecuente vigilancia médica, en los siguientes términos: LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL
+Los trabajadores que sufran enfermedades no profesionales, tendrán derecho a que se les concedan licencias, para dejar de concurrir a sus labores, previo dictamen y la consecuente vigilancia médica, en los siguientes términos:
 
-ARTÍCULO 123 CONSTITUCIONAL I.- A los empleados que tengan menos de un año de servicios, se les podrá conceder licencia por enfermedad no profesional, hasta quince días con goce de sueldo íntegro y hasta quince días más con medio sueldo.
+I.- A los empleados que tengan menos de un año de servicios, se les podrá conceder licencia por enfermedad no profesional, hasta quince días con goce de sueldo íntegro y hasta quince días más con medio sueldo.
 
 II.- A los que tengan de uno a cinco años de servicios, hasta treinta días con goce de sueldo íntegro y hasta treinta días más con medio sueldo.
 

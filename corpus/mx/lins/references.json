@@ -72,11 +72,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lins:article:5:reference:2117-2118:2:direct",
+    "id": "urn:lex-mx:federal:statute:lins:article:5:reference:2118-2119:2:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lins:article:5",
     "source_span": "2",
-    "start_char": 2117,
-    "end_char": 2118,
+    "start_char": 2118,
+    "end_char": 2119,
     "target_instrument_id": "urn:lex-mx:federal:statute:lins",
     "target_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
     "qualifiers": [],
@@ -127,19 +127,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lins:article:7-bis:reference:507-508:6:direct",
+    "id": "urn:lex-mx:federal:statute:lins:article:7-bis:reference:508-509:6:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lins:article:7-bis",
     "source_span": "6",
-    "start_char": 507,
-    "end_char": 508,
+    "start_char": 508,
+    "end_char": 509,
     "target_instrument_id": "urn:lex-mx:federal:statute:lins",
     "target_provision_id": "urn:lex-mx:federal:statute:lins:article:6",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones II, III, IV, V, VI, IX, X, XI, XII, XIII y XIV",
-        "start_char": 436,
-        "end_char": 493
+        "start_char": 437,
+        "end_char": 494
       }
     ],
     "basis": "express_cross_reference",
@@ -150,19 +150,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lins:article:7-bis:reference:615-616:6:direct",
+    "id": "urn:lex-mx:federal:statute:lins:article:7-bis:reference:616-617:6:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lins:article:7-bis",
     "source_span": "6",
-    "start_char": 615,
-    "end_char": 616,
+    "start_char": 616,
+    "end_char": 617,
     "target_instrument_id": "urn:lex-mx:federal:statute:lins",
     "target_provision_id": "urn:lex-mx:federal:statute:lins:article:6",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones VII y VIII",
-        "start_char": 580,
-        "end_char": 601
+        "start_char": 581,
+        "end_char": 602
       }
     ],
     "basis": "express_cross_reference",

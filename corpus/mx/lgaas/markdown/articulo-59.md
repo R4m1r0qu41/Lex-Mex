@@ -21,7 +21,9 @@ El [SINSAMAC](articulo-2.md) estará organizado en los tres niveles de gobierno,
 
 I. Una persona titular, que recae en la persona titular del Ejecutivo Federal;
 
-II. Una Dirección, que será ejercida por la persona titular de la Secretaría de Salud; III. Un Consejo Intersectorial Nacional;
+II. Una Dirección, que será ejercida por la persona titular de la Secretaría de Salud;
+
+III. Un Consejo Intersectorial Nacional;
 
 IV. Consejos Intersectoriales Estatales y de la Ciudad de México;
 

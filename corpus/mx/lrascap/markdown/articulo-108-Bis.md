@@ -23,7 +23,9 @@ No podrán ser materia de un programa de autocorrección en los términos del pr
 
 I. Las irregularidades o incumplimientos que sean detectados por la Comisión en ejercicio de sus facultades de inspección y vigilancia, antes de la presentación por parte de la Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación I a IV del programa de autocorrección respectivo.
 
-Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado a la Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación I a IV la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita; II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o
+Se entenderá que la irregularidad fue detectada previamente por la Comisión, en el caso de las facultades de vigilancia, cuando se haya notificado a la Sociedad Cooperativa de Ahorro y Préstamo con Niveles de Operación I a IV la irregularidad; en el caso de las facultades de inspección, cuando haya sido detectada en el transcurso de la visita de inspección, o bien, corregida con posterioridad a que haya mediado requerimiento en el transcurso de la visita;
+
+II. Cuando la contravención a la norma de que se trate, corresponda a alguno de los delitos contemplados en esta Ley, o
 
 III. Cuando se trate de alguna de las infracciones consideradas como graves en términos de esta Ley.
 

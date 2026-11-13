@@ -21,7 +21,9 @@ Para el cumplimiento de su objeto el Instituto Nacional de Investigaciones Nucle
 
 I.- Realizar e impulsar las actividades que conduzcan al desarrollo científico y tecnológico en el campo de las ciencias y tecnologías nucleares, así como promover la transferencia, adaptación y asimilación de tecnología en esta materia;
 
-II.- Prestar asistencia técnica a las dependencias y entidades públicas y privadas que lo requieran, en el diseño, construcción y operación de instalaciones radiactivas y, en su caso, en la contratación de dichos servicios; asimismo, los prestará a los organismos autorizados en materia de instalaciones nucleares; III.- Promover el desarrollo nacional de la tecnología en la industria nuclear realizando y fomentando la innovación, transferencia y adaptación de tecnologías para el diseño, la fabricación y la construcción de componentes y equipos;
+II.- Prestar asistencia técnica a las dependencias y entidades públicas y privadas que lo requieran, en el diseño, construcción y operación de instalaciones radiactivas y, en su caso, en la contratación de dichos servicios; asimismo, los prestará a los organismos autorizados en materia de instalaciones nucleares;
+
+III.- Promover el desarrollo nacional de la tecnología en la industria nuclear realizando y fomentando la innovación, transferencia y adaptación de tecnologías para el diseño, la fabricación y la construcción de componentes y equipos;
 
 IV.- Realizar actividades de investigación y desarrollo relativas a las aplicaciones y aprovechamiento de sistemas nucleares y materiales radiactivos para usos no energéticos requeridos por el desarrollo nacional. Además, promoverá las aplicaciones de las radiaciones y los radioisótopos en sus diversos campos;
 

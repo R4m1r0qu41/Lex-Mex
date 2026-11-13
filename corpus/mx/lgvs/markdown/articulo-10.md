@@ -33,7 +33,9 @@ VI. La conducción de la política de información y difusión en materia de vid
 
 VII. La creación y administración del registro estatal de las organizaciones relacionadas con la conservación y aprovechamiento sustentable de la vida silvestre.
 
-VIII. La creación y administración del registro de la entidad federativa de los prestadores de servicios vinculados a la transformación, tratamiento, preparación, aprovechamiento y comercialización de ejemplares, partes y derivados de la vida silvestre, así como la supervisión de sus actividades. Fracción reformada DOF 19-01-2018 IX. La creación y administración del padrón de la entidad federativa de mascotas de especies silvestres y aves de presa. Fracción reformada DOF 19-01-2018
+VIII. La creación y administración del registro de la entidad federativa de los prestadores de servicios vinculados a la transformación, tratamiento, preparación, aprovechamiento y comercialización de ejemplares, partes y derivados de la vida silvestre, así como la supervisión de sus actividades. Fracción reformada DOF 19-01-2018
+
+IX. La creación y administración del padrón de la entidad federativa de mascotas de especies silvestres y aves de presa. Fracción reformada DOF 19-01-2018
 
 X. La coordinación de la participación social en las actividades que incumben a las autoridades de las entidades federativas. Fracción reformada DOF 19-01-2018
 

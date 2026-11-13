@@ -35,4 +35,6 @@ VII.- Uno o más dibujos cuando fuesen necesarios para comprender la invención,
 
 VIII.- La constancia de depósito del material biológico en una institución reconocida por el [Instituto](articulo-4.md), conforme a lo establecido en los [Tratados Internacionales](articulo-4.md), cuando la invención se refiera a material biológico no accesible al público o a su utilización;
 
-IX.- El listado de secuencias de nucleótidos o de aminoácidos, cuando fuese necesario para divulgar la invención, mismo que se considerará parte integrante de la descripción y deberá cumplir con lo dispuesto por el Acuerdo que emita la persona Titular de la Dirección General para tal efecto, y X.- Los demás que prevenga el Reglamento de esta [Ley](articulo-4.md).
+IX.- El listado de secuencias de nucleótidos o de aminoácidos, cuando fuese necesario para divulgar la invención, mismo que se considerará parte integrante de la descripción y deberá cumplir con lo dispuesto por el Acuerdo que emita la persona Titular de la Dirección General para tal efecto, y
+
+X.- Los demás que prevenga el Reglamento de esta [Ley](articulo-4.md).

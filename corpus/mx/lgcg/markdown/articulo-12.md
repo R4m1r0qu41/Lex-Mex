@@ -31,4 +31,6 @@ V. El Director General del Instituto para el Desarrollo Técnico de las Hacienda
 
 VI. Un representante de la Federación Nacional de la Asociación Mexicana de Colegios de Contadores Públicos;
 
-VII. Un representante del Instituto Mexicano de Contadores Públicos, y VIII. Los representantes de otras organizaciones de profesionales expertos en materia contable que sean invitados por el consejo.
+VII. Un representante del Instituto Mexicano de Contadores Públicos, y
+
+VIII. Los representantes de otras organizaciones de profesionales expertos en materia contable que sean invitados por el consejo.

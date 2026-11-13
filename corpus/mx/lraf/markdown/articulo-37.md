@@ -21,7 +21,7 @@ Los consejeros independientes y, en su caso, los respectivos suplentes, deberán
 
 La asamblea general de accionistas en la que se designe o ratifique a los miembros del consejo de administración o, en su caso, aquella en la que se informe sobre dichas designaciones o ratificaciones, calificará la independencia de sus consejeros. Sin perjuicio de lo anterior, en ningún caso podrán designarse ni fungir como consejeros independientes las personas siguientes:
 
-I. Los Directivos Relevantes, los directivos del [Grupo Empresarial](articulo-5o.md) o [Consorcio](articulo-5o.md) al que pertenezca la [Sociedad Controladora](articulo-5o.md), los comisarios de las entidades integrantes del [Grupo Financiero](articulo-5o.md) o [Subcontroladoras](articulo-5o.md), y las personas que hayan ocupado alguno de estos cargos durante los doce meses inmediatos anteriores al momento en que se pretenda hacer su designación.
+I. Los [Directivos Relevantes](articulo-5o.md), los directivos del [Grupo Empresarial](articulo-5o.md) o [Consorcio](articulo-5o.md) al que pertenezca la [Sociedad Controladora](articulo-5o.md), los comisarios de las entidades integrantes del [Grupo Financiero](articulo-5o.md) o [Subcontroladoras](articulo-5o.md), y las personas que hayan ocupado alguno de estos cargos durante los doce meses inmediatos anteriores al momento en que se pretenda hacer su designación.
 
 II. Las personas físicas que tengan [Poder de Mando](articulo-5o.md) en la Sociedad Controladora o en alguna de las entidades financieras o Subcontroladoras que formen parte del Grupo Empresarial o Consorcio al que dicha Sociedad Controladora pertenezca.
 

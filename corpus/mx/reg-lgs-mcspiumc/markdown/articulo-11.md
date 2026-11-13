@@ -25,4 +25,6 @@ I. La cantidad de [Materia Prima](articulo-3.md), [Derivados Farmacológicos](ar
 
 II. El documento que compruebe el origen del material objeto del Protocolo de Investigación;
 
-III. El documento en el que conste el cumplimiento del Testado y [Trazabilidad](articulo-3.md), desde el origen hasta la disposición final, conforme a las disposiciones que expida la autoridad competente, y IV. El Protocolo de Investigación.
+III. El documento en el que conste el cumplimiento del Testado y [Trazabilidad](articulo-3.md), desde el origen hasta la disposición final, conforme a las disposiciones que expida la autoridad competente, y
+
+IV. El Protocolo de Investigación.

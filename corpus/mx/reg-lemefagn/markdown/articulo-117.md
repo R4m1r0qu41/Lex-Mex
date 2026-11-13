@@ -7,8 +7,8 @@ provision_type: article
 number: "117"
 aliases: ["REG-LEMEFAGN — Artículo 117"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEMEFAGN.pdf
 source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 ---
@@ -33,4 +33,6 @@ VI. Los bancos de reactivos para los exámenes de admisión;
 
 VII. El calendario de actividades de admisión;
 
-VIII. La asignación de funciones y responsabilidades a los organismos participantes, y IX. Otros aspectos que determine la Secretaría.
+VIII. La asignación de funciones y responsabilidades a los organismos participantes, y
+
+IX. Otros aspectos que determine la Secretaría.

@@ -47,7 +47,9 @@ III. Multa de 3,000 a 15,000 días de salario:
 
 a) A las uniones que no obtengan la autorización o no cumplan con lo señalado por el artículo [63](articulo-63.md) de la presente Ley. Inciso reformado DOF 10-01-2014
 
-b) A las uniones que se opongan u obstaculicen el ejercicio de las facultades que esta Ley y otras disposiciones aplicables le confieren a la Comisión. No se entenderá como obstaculización el hacer valer los recursos de defensa que la ley prevé y en cualquier caso, previo a la sanción, se deberá oír al infractor. IV. Multa de 5,000 a 20,000 días de salario:
+b) A las uniones que se opongan u obstaculicen el ejercicio de las facultades que esta Ley y otras disposiciones aplicables le confieren a la Comisión. No se entenderá como obstaculización el hacer valer los recursos de defensa que la ley prevé y en cualquier caso, previo a la sanción, se deberá oír al infractor.
+
+IV. Multa de 5,000 a 20,000 días de salario:
 
 a) A las uniones que den noticias o información de las operaciones celebradas con sus socios en contravención a lo dispuesto por el artículo [44](articulo-44.md) de esta Ley.
 

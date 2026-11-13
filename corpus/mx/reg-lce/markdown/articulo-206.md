@@ -19,7 +19,9 @@ source_sha256: 14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd
 
 En la evaluación para otorgar el Premio Nacional de Exportación se considerará a las empresas e instituciones, que reúnan las siguientes características:
 
-I. Que su actividad contribuya a un proceso sostenido de exportación en sus áreas de producción de bienes o servicios; II. Que presenten una descripción general sobre sus sistemas y procesos para lograr la exportación, así como de los resultados cuantitativos y cualitativos que hubieren alcanzado, y que estén dispuestas a que un grupo de expertos en la materia verifique la información presentada;
+I. Que su actividad contribuya a un proceso sostenido de exportación en sus áreas de producción de bienes o servicios;
+
+II. Que presenten una descripción general sobre sus sistemas y procesos para lograr la exportación, así como de los resultados cuantitativos y cualitativos que hubieren alcanzado, y que estén dispuestas a que un grupo de expertos en la materia verifique la información presentada;
 
 III. Que estén dispuestas, si resultan premiadas, a dar a conocer en forma pública la información de los aspectos primordiales de sus sistemas, procesos y logros en materia de exportación, con el objeto de que puedan servir de ejemplo a otras empresas;
 

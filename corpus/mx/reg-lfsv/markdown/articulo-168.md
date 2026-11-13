@@ -25,7 +25,9 @@ II. La ubicación y justificación técnica;
 
 III. El perfil técnico de los servidores públicos que operan estos Puntos o en su caso, del personal de los terceros que los operen;
 
-IV. La instalación, identificación, funcionamiento y operación, así como las actividades que se desarrollarán; V. Los tipos de Verificación;
+IV. La instalación, identificación, funcionamiento y operación, así como las actividades que se desarrollarán;
+
+V. Los tipos de Verificación;
 
 VI. Los Servicios Fitosanitarios que podrán prestarse en ellos;
 

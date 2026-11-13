@@ -37,7 +37,9 @@ VIII. Dirigir la formación de la estadística y rendir los informes que le sean
 
 IX.- Encomendar a cualquiera de las o los defensores el despacho de determinado asunto, relacionado con actos propios del servicio, independientemente de sus labores permanentes; Fracción reformada DOF 16-07-2025
 
-X. Informar a las Secretarías de los asuntos administrativos de su competencia; XI.- Supervisar las actividades de las o los defensores, con el fin de verificar que su desempeño profesional cumpla con el principio constitucional de una defensa adecuada; Fracción reformada DOF 16-07-2025
+X. Informar a las Secretarías de los asuntos administrativos de su competencia;
+
+XI.- Supervisar las actividades de las o los defensores, con el fin de verificar que su desempeño profesional cumpla con el principio constitucional de una defensa adecuada; Fracción reformada DOF 16-07-2025
 
 XII. Llevar a cabo mensualmente visitas de cárcel, en el lugar de su residencia;
 

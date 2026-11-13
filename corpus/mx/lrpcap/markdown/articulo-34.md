@@ -17,4 +17,4 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 34
 
-La [Secretaría](articulo-2.md) revocará el reconocimiento de la condición de refugiado cuando, con posterioridad a su reconocimiento, un refugiado realice conductas contempladas en las fracciones I y III del artículo [27](articulo-27.md) de esta Ley.
+La [Secretaría](articulo-2.md) revocará el reconocimiento de la condición de refugiado cuando, con posterioridad a su reconocimiento, un refugiado realice conductas contempladas en las fracciones I y III del artículo [27](articulo-27.md) de esta [Ley](articulo-2.md).

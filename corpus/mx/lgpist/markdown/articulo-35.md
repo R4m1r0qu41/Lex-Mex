@@ -25,7 +25,9 @@ II. Comenzar con la integración de la carpeta de investigación correspondiente
 
 III. Realizar el registro del hecho en el [Registro Nacional](articulo-5.md);
 
-IV. Informarán a la persona denunciante de su derecho a contar con un asesor jurídico; V. Solicitar a las autoridades competentes el resguardo del probable lugar de los hechos y solicitarán a los peritos su intervención para el procesamiento del mismo;
+IV. Informarán a la persona denunciante de su derecho a contar con un asesor jurídico;
+
+V. Solicitar a las autoridades competentes el resguardo del probable lugar de los hechos y solicitarán a los peritos su intervención para el procesamiento del mismo;
 
 VI. Solicitar la intervención de peritos para que realicen el dictamen médico-psicológico correspondiente y los demás que se requieran;
 

@@ -23,7 +23,9 @@ I. Nombre del titular de la concesión o concesiones por afectar;
 
 II. Nombre del lote, en el caso de reducción, división o identificación, o de los lotes, si se trata de unificación, así como número de título;
 
-III. Nombre del nuevo lote por conservar en el caso de reducción, identificación o unificación o lotes, si se trata de reducción o división, y su superficie; IV. Las coordenadas correspondientes del punto de partida del nuevo lote o lotes;
+III. Nombre del nuevo lote por conservar en el caso de reducción, identificación o unificación o lotes, si se trata de reducción o división, y su superficie;
+
+IV. Las coordenadas correspondientes del punto de partida del nuevo lote o lotes;
 
 V. Lados, rumbos, distancias horizontales y colindancias del perímetro del nuevo lote o lotes y, en su caso, de cada línea o líneas auxiliares del punto de partida a su respectivo perímetro. Las solicitudes respecto de lotes que tengan perímetros interiores deberán señalar tal circunstancia en la solicitud correspondiente, y
 

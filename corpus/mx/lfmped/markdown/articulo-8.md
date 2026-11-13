@@ -17,7 +17,9 @@ source_sha256: 1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291
 
 # Artículo 8
 
-El contrato constitutivo del [Fondo Mexicano del Petróleo](articulo-2.md) deberá prever, al menos, lo siguiente: I. La duración indefinida y el carácter irrevocable del fideicomiso;
+El contrato constitutivo del [Fondo Mexicano del Petróleo](articulo-2.md) deberá prever, al menos, lo siguiente:
+
+I. La duración indefinida y el carácter irrevocable del fideicomiso;
 
 II. Que su [Comité](articulo-2.md) tendrá las siguientes atribuciones:
 
@@ -25,7 +27,7 @@ a) Determinar, con el voto favorable de por lo menos cinco de sus miembros:
 
 1. La política de inversión en activos financieros que el fiduciario deberá observar en las decisiones de inversión individual que le corresponde tomar respecto del ahorro de largo plazo.
 
-En la determinación de las políticas de inversión a que se refiere el párrafo anterior, el Comité deberá establecer parámetros y lineamientos generales, así como metodologías de evaluación sobre las inversiones correspondientes y, dentro de los activos elegibles de inversión, éstos deberán comprender una amplia gama de instrumentos seleccionados con el propósito de incrementar el rendimiento y proteger a la Reserva del Fondo de riesgos inherentes a eventos adversos en la economía nacional;
+En la determinación de las políticas de inversión a que se refiere el párrafo anterior, el Comité deberá establecer parámetros y lineamientos generales, así como metodologías de evaluación sobre las inversiones correspondientes y, dentro de los activos elegibles de inversión, éstos deberán comprender una amplia gama de instrumentos seleccionados con el propósito de incrementar el rendimiento y proteger a la [Reserva del Fondo](articulo-2.md) de riesgos inherentes a eventos adversos en la economía nacional;
 
 2. La estrategia de administración de riesgos que el fiduciario deberá observar en relación con las respectivas inversiones y que, entre otros aspectos, esté referida a las variaciones en el valor del portafolio correspondiente a dichas inversiones;
 
@@ -59,6 +61,8 @@ V. El Comité deliberará en forma colegiada y sus decisiones se adoptarán por 
 
 VI. El procedimiento para determinar los honorarios fiduciarios, los cuales deberán erogarse con cargo al patrimonio fideicomitido, y fijarse observando criterios de eficiencia y economía, que cubran al Banco de México los gastos necesarios para la debida operación del Fondo Mexicano del Petróleo;
 
-VII. La obligación del fiduciario hacia el Comité de transparentar y rendir cuentas sobre el manejo de los recursos aportados al fideicomiso y de proporcionar a las autoridades competentes los informes que permitan su vigilancia y fiscalización, así como las facilidades para realizar auditorías y visitas de inspección por parte de las instancias fiscalizadoras federales; VIII. El fiduciario deberá proporcionar a la Secretaría de Hacienda y Crédito Público la información que ésta le requiera, para efectos de integración de informes en materia de presupuesto, contabilidad gubernamental y fiscalización, y
+VII. La obligación del fiduciario hacia el Comité de transparentar y rendir cuentas sobre el manejo de los recursos aportados al fideicomiso y de proporcionar a las autoridades competentes los informes que permitan su vigilancia y fiscalización, así como las facilidades para realizar auditorías y visitas de inspección por parte de las instancias fiscalizadoras federales;
+
+VIII. El fiduciario deberá proporcionar a la Secretaría de Hacienda y Crédito Público la información que ésta le requiera, para efectos de integración de informes en materia de presupuesto, contabilidad gubernamental y fiscalización, y
 
 IX. Las demás disposiciones que, en el marco de lo previsto en esta Ley, establezcan el fideicomitente y el fiduciario para la adecuada organización, funcionamiento y operación del Fondo Mexicano del Petróleo.

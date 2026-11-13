@@ -41,7 +41,9 @@ X. Coadyuvar en la instrumentación de las acciones de promoción de las activid
 
 XI. Promover el impulso de las micro, pequeñas y medianas empresas turísticas;
 
-XII. Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan; XIII. Operar módulos de información y orientación al turista;
+XII. Participar en los programas de prevención y atención de emergencias y desastres, así como en acciones para la gestión integral de los riesgos, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XIII. Operar módulos de información y orientación al turista;
 
 XIV. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente;
 

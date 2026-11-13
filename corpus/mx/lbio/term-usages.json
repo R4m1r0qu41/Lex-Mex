@@ -73,120 +73,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:831-838",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:832-839",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 831,
-    "end_char": 838
+    "start_char": 832,
+    "end_char": 839
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:844-858",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:845-859",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 844,
-    "end_char": 858
+    "start_char": 845,
+    "end_char": 859
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:863-873",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:864-874",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 863,
-    "end_char": 873
+    "start_char": 864,
+    "end_char": 874
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:901-915",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:902-916",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 901,
-    "end_char": 915
+    "start_char": 902,
+    "end_char": 916
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:917-927",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:918-928",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 917,
-    "end_char": 927
+    "start_char": 918,
+    "end_char": 928
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:929-945",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:930-946",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 929,
-    "end_char": 945
+    "start_char": 930,
+    "end_char": 946
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:947-959",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:948-960",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 947,
-    "end_char": 959
+    "start_char": 948,
+    "end_char": 960
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:966-985",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:967-986",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 966,
-    "end_char": 985
+    "start_char": 967,
+    "end_char": 986
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:989-1004",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:990-1005",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 989,
-    "end_char": 1004
+    "start_char": 990,
+    "end_char": 1005
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:1182-1197",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:1183-1198",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1182,
-    "end_char": 1197
+    "start_char": 1183,
+    "end_char": 1198
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:1491-1501",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:1492-1502",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 1491,
-    "end_char": 1501
+    "start_char": 1492,
+    "end_char": 1502
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:1505-1520",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:1506-1521",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1505,
-    "end_char": 1520
+    "start_char": 1506,
+    "end_char": 1521
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:1556-1571",
+    "id": "urn:lex-mx:federal:statute:lbio:article:1:term-usage:1557-1572",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:1",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1556,
-    "end_char": 1571
+    "start_char": 1557,
+    "end_char": 1572
   },
   {
     "schema_version": "0.1.0",
@@ -262,75 +262,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2177-2184",
+    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2178-2185",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 2177,
-    "end_char": 2184
+    "start_char": 2178,
+    "end_char": 2185
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2218-2233",
+    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2219-2234",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 2218,
-    "end_char": 2233
+    "start_char": 2219,
+    "end_char": 2234
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2318-2321",
+    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2319-2322",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
     "span": "Ley",
-    "start_char": 2318,
-    "end_char": 2321
+    "start_char": 2319,
+    "end_char": 2322
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2387-2402",
+    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2388-2403",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 2387,
-    "end_char": 2402
+    "start_char": 2388,
+    "end_char": 2403
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2670-2675",
+    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:2671-2676",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:sener",
     "span": "SENER",
-    "start_char": 2670,
-    "end_char": 2675
+    "start_char": 2671,
+    "end_char": 2676
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:3049-3064",
+    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:3050-3065",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 3049,
-    "end_char": 3064
+    "start_char": 3050,
+    "end_char": 3065
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:3153-3169",
+    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:3154-3170",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 3153,
-    "end_char": 3169
+    "start_char": 3154,
+    "end_char": 3170
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:3252-3264",
+    "id": "urn:lex-mx:federal:statute:lbio:article:2:term-usage:3253-3265",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:2",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 3252,
-    "end_char": 3264
+    "start_char": 3253,
+    "end_char": 3265
   },
   {
     "schema_version": "0.1.0",
@@ -496,822 +496,822 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:436-446",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:437-447",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 436,
-    "end_char": 446
+    "start_char": 437,
+    "end_char": 447
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:479-493",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:480-494",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 479,
-    "end_char": 493
+    "start_char": 480,
+    "end_char": 494
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:495-505",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:496-506",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 495,
-    "end_char": 505
+    "start_char": 496,
+    "end_char": 506
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:507-523",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:508-524",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 507,
-    "end_char": 523
+    "start_char": 508,
+    "end_char": 524
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:525-537",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:526-538",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 525,
-    "end_char": 537
+    "start_char": 526,
+    "end_char": 538
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:540-559",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:541-560",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 540,
-    "end_char": 559
+    "start_char": 541,
+    "end_char": 560
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:563-578",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:564-579",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 563,
-    "end_char": 578
+    "start_char": 564,
+    "end_char": 579
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:640-647",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:641-648",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 640,
-    "end_char": 647
+    "start_char": 641,
+    "end_char": 648
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:653-668",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:654-669",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 653,
-    "end_char": 668
+    "start_char": 654,
+    "end_char": 669
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:673-683",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:674-684",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 673,
-    "end_char": 683
+    "start_char": 674,
+    "end_char": 684
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:687-702",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:688-703",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 687,
-    "end_char": 702
+    "start_char": 688,
+    "end_char": 703
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:889-896",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:890-897",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 889,
-    "end_char": 896
+    "start_char": 890,
+    "end_char": 897
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:902-916",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:903-917",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 902,
-    "end_char": 916
+    "start_char": 903,
+    "end_char": 917
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:921-931",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:922-932",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 921,
-    "end_char": 931
+    "start_char": 922,
+    "end_char": 932
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:939-954",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:940-955",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 939,
-    "end_char": 954
+    "start_char": 940,
+    "end_char": 955
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:968-982",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:969-983",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 968,
-    "end_char": 982
+    "start_char": 969,
+    "end_char": 983
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:987-997",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:988-998",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 987,
-    "end_char": 997
+    "start_char": 988,
+    "end_char": 998
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1002-1018",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1003-1019",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 1002,
-    "end_char": 1018
+    "start_char": 1003,
+    "end_char": 1019
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1023-1035",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1024-1036",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 1023,
-    "end_char": 1035
+    "start_char": 1024,
+    "end_char": 1036
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1041-1060",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1042-1061",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 1041,
-    "end_char": 1060
+    "start_char": 1042,
+    "end_char": 1061
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1068-1083",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1069-1084",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1068,
-    "end_char": 1083
+    "start_char": 1069,
+    "end_char": 1084
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1376-1383",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1377-1384",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 1376,
-    "end_char": 1383
+    "start_char": 1377,
+    "end_char": 1384
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1389-1403",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1390-1404",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 1389,
-    "end_char": 1403
+    "start_char": 1390,
+    "end_char": 1404
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1408-1418",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1409-1419",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 1408,
-    "end_char": 1418
+    "start_char": 1409,
+    "end_char": 1419
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1422-1437",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1423-1438",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1422,
-    "end_char": 1437
+    "start_char": 1423,
+    "end_char": 1438
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1450-1464",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1451-1465",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 1450,
-    "end_char": 1464
+    "start_char": 1451,
+    "end_char": 1465
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1469-1479",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1470-1480",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 1469,
-    "end_char": 1479
+    "start_char": 1470,
+    "end_char": 1480
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1484-1500",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1485-1501",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 1484,
-    "end_char": 1500
+    "start_char": 1485,
+    "end_char": 1501
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1505-1517",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1506-1518",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 1505,
-    "end_char": 1517
+    "start_char": 1506,
+    "end_char": 1518
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1523-1542",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1524-1543",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 1523,
-    "end_char": 1542
+    "start_char": 1524,
+    "end_char": 1543
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1550-1565",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1551-1566",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1550,
-    "end_char": 1565
+    "start_char": 1551,
+    "end_char": 1566
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1624-1639",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1625-1640",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1624,
-    "end_char": 1639
+    "start_char": 1625,
+    "end_char": 1640
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1646-1656",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1647-1657",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:estrategia",
     "span": "Estrategia",
-    "start_char": 1646,
-    "end_char": 1656
+    "start_char": 1647,
+    "end_char": 1657
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1738-1753",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1739-1754",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1738,
-    "end_char": 1753
+    "start_char": 1739,
+    "end_char": 1754
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1760-1770",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1761-1771",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:subsistema",
     "span": "Subsistema",
-    "start_char": 1760,
-    "end_char": 1770
+    "start_char": 1761,
+    "end_char": 1771
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1831-1846",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:1832-1847",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1831,
-    "end_char": 1846
+    "start_char": 1832,
+    "end_char": 1847
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2075-2085",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2076-2086",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 2075,
-    "end_char": 2085
+    "start_char": 2076,
+    "end_char": 2086
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2122-2136",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2123-2137",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 2122,
-    "end_char": 2136
+    "start_char": 2123,
+    "end_char": 2137
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2141-2151",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2142-2152",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 2141,
-    "end_char": 2151
+    "start_char": 2142,
+    "end_char": 2152
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2156-2172",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2157-2173",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 2156,
-    "end_char": 2172
+    "start_char": 2157,
+    "end_char": 2173
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2177-2189",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2178-2190",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 2177,
-    "end_char": 2189
+    "start_char": 2178,
+    "end_char": 2190
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2195-2214",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2196-2215",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 2195,
-    "end_char": 2214
+    "start_char": 2196,
+    "end_char": 2215
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2218-2233",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2219-2234",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 2218,
-    "end_char": 2233
+    "start_char": 2219,
+    "end_char": 2234
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2252-2262",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2253-2263",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 2252,
-    "end_char": 2262
+    "start_char": 2253,
+    "end_char": 2263
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2266-2281",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2267-2282",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 2266,
-    "end_char": 2281
+    "start_char": 2267,
+    "end_char": 2282
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2378-2388",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2379-2389",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:reglamento",
     "span": "Reglamento",
-    "start_char": 2378,
-    "end_char": 2388
+    "start_char": 2379,
+    "end_char": 2389
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2404-2407",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2405-2408",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
     "span": "Ley",
-    "start_char": 2404,
-    "end_char": 2407
+    "start_char": 2405,
+    "end_char": 2408
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2470-2478",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2471-2479",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:registro",
     "span": "Registro",
-    "start_char": 2470,
-    "end_char": 2478
+    "start_char": 2471,
+    "end_char": 2479
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2569-2578",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2570-2579",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:bitacora",
     "span": "Bitácoras",
-    "start_char": 2569,
-    "end_char": 2578
+    "start_char": 2570,
+    "end_char": 2579
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2734-2744",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2735-2745",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 2734,
-    "end_char": 2744
+    "start_char": 2735,
+    "end_char": 2745
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2772-2786",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2773-2787",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 2772,
-    "end_char": 2786
+    "start_char": 2773,
+    "end_char": 2787
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2788-2798",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2789-2799",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 2788,
-    "end_char": 2798
+    "start_char": 2789,
+    "end_char": 2799
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2800-2816",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2801-2817",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 2800,
-    "end_char": 2816
+    "start_char": 2801,
+    "end_char": 2817
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2818-2830",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2819-2831",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 2818,
-    "end_char": 2830
+    "start_char": 2819,
+    "end_char": 2831
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2833-2852",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2834-2853",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 2833,
-    "end_char": 2852
+    "start_char": 2834,
+    "end_char": 2853
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2856-2871",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2857-2872",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 2856,
-    "end_char": 2871
+    "start_char": 2857,
+    "end_char": 2872
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2993-3008",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:2994-3009",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 2993,
-    "end_char": 3008
+    "start_char": 2994,
+    "end_char": 3009
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3185-3192",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3186-3193",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 3185,
-    "end_char": 3192
+    "start_char": 3186,
+    "end_char": 3193
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3198-3212",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3199-3213",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 3198,
-    "end_char": 3212
+    "start_char": 3199,
+    "end_char": 3213
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3219-3229",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3220-3230",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 3219,
-    "end_char": 3229
+    "start_char": 3220,
+    "end_char": 3230
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3231-3245",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3232-3246",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 3231,
-    "end_char": 3245
+    "start_char": 3232,
+    "end_char": 3246
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3247-3257",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3248-3258",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 3247,
-    "end_char": 3257
+    "start_char": 3248,
+    "end_char": 3258
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3259-3275",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3260-3276",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 3259,
-    "end_char": 3275
+    "start_char": 3260,
+    "end_char": 3276
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3277-3289",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3278-3290",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 3277,
-    "end_char": 3289
+    "start_char": 3278,
+    "end_char": 3290
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3295-3314",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3296-3315",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 3295,
-    "end_char": 3314
+    "start_char": 3296,
+    "end_char": 3315
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3318-3333",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3319-3334",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 3318,
-    "end_char": 3333
+    "start_char": 3319,
+    "end_char": 3334
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3421-3436",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3423-3438",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 3421,
-    "end_char": 3436
+    "start_char": 3423,
+    "end_char": 3438
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3469-3476",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3471-3478",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 3469,
-    "end_char": 3476
+    "start_char": 3471,
+    "end_char": 3478
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3482-3496",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3484-3498",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 3482,
-    "end_char": 3496
+    "start_char": 3484,
+    "end_char": 3498
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3501-3511",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3503-3513",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 3501,
-    "end_char": 3511
+    "start_char": 3503,
+    "end_char": 3513
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3539-3553",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3541-3555",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 3539,
-    "end_char": 3553
+    "start_char": 3541,
+    "end_char": 3555
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3555-3565",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3557-3567",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 3555,
-    "end_char": 3565
+    "start_char": 3557,
+    "end_char": 3567
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3567-3583",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3569-3585",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 3567,
-    "end_char": 3583
+    "start_char": 3569,
+    "end_char": 3585
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3585-3597",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3587-3599",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 3585,
-    "end_char": 3597
+    "start_char": 3587,
+    "end_char": 3599
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3600-3619",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3602-3621",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 3600,
-    "end_char": 3619
+    "start_char": 3602,
+    "end_char": 3621
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3623-3638",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3625-3640",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 3623,
-    "end_char": 3638
+    "start_char": 3625,
+    "end_char": 3640
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3730-3733",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3732-3735",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
     "span": "Ley",
-    "start_char": 3730,
-    "end_char": 3733
+    "start_char": 3732,
+    "end_char": 3735
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3801-3811",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3803-3813",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 3801,
-    "end_char": 3811
+    "start_char": 3803,
+    "end_char": 3813
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3839-3853",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3841-3855",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 3839,
-    "end_char": 3853
+    "start_char": 3841,
+    "end_char": 3855
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3855-3865",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3857-3867",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 3855,
-    "end_char": 3865
+    "start_char": 3857,
+    "end_char": 3867
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3867-3883",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3869-3885",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 3867,
-    "end_char": 3883
+    "start_char": 3869,
+    "end_char": 3885
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3885-3897",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3887-3899",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 3885,
-    "end_char": 3897
+    "start_char": 3887,
+    "end_char": 3899
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3900-3919",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3902-3921",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 3900,
-    "end_char": 3919
+    "start_char": 3902,
+    "end_char": 3921
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3923-3938",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3925-3940",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 3923,
-    "end_char": 3938
+    "start_char": 3925,
+    "end_char": 3940
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3965-3970",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3967-3972",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:sader",
     "span": "SADER",
-    "start_char": 3965,
-    "end_char": 3970
+    "start_char": 3967,
+    "end_char": 3972
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3976-3984",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:3978-3986",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:semarnat",
     "span": "SEMARNAT",
-    "start_char": 3976,
-    "end_char": 3984
+    "start_char": 3978,
+    "end_char": 3986
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4079-4086",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4081-4088",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 4079,
-    "end_char": 4086
+    "start_char": 4081,
+    "end_char": 4088
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4090-4107",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4092-4109",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
     "span": "Suelos Marginales",
-    "start_char": 4090,
-    "end_char": 4107
+    "start_char": 4092,
+    "end_char": 4109
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4116-4126",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4118-4128",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 4116,
-    "end_char": 4126
+    "start_char": 4118,
+    "end_char": 4128
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4130-4145",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4132-4147",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 4130,
-    "end_char": 4145
+    "start_char": 4132,
+    "end_char": 4147
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4170-4185",
+    "id": "urn:lex-mx:federal:statute:lbio:article:5:term-usage:4172-4187",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:5",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 4170,
-    "end_char": 4185
+    "start_char": 4172,
+    "end_char": 4187
   },
   {
     "schema_version": "0.1.0",
@@ -3916,336 +3916,336 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:547-554",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:548-555",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 547,
-    "end_char": 554
+    "start_char": 548,
+    "end_char": 555
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:558-575",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:559-576",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
     "span": "Suelos Marginales",
-    "start_char": 558,
-    "end_char": 575
+    "start_char": 559,
+    "end_char": 576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:601-615",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:602-616",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 601,
-    "end_char": 615
+    "start_char": 602,
+    "end_char": 616
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:626-636",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:627-637",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 626,
-    "end_char": 636
+    "start_char": 627,
+    "end_char": 637
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:706-713",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:707-714",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 706,
-    "end_char": 713
+    "start_char": 707,
+    "end_char": 714
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:717-734",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:718-735",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
     "span": "Suelos Marginales",
-    "start_char": 717,
-    "end_char": 734
+    "start_char": 718,
+    "end_char": 735
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:760-774",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:761-775",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 760,
-    "end_char": 774
+    "start_char": 761,
+    "end_char": 775
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:785-795",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:786-796",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 785,
-    "end_char": 795
+    "start_char": 786,
+    "end_char": 796
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:944-951",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:945-952",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 944,
-    "end_char": 951
+    "start_char": 945,
+    "end_char": 952
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:955-972",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:956-973",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
     "span": "Suelos Marginales",
-    "start_char": 955,
-    "end_char": 972
+    "start_char": 956,
+    "end_char": 973
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:998-1012",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:999-1013",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 998,
-    "end_char": 1012
+    "start_char": 999,
+    "end_char": 1013
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1023-1033",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1024-1034",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 1023,
-    "end_char": 1033
+    "start_char": 1024,
+    "end_char": 1034
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1125-1135",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1126-1136",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 1125,
-    "end_char": 1135
+    "start_char": 1126,
+    "end_char": 1136
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1151-1158",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1152-1159",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 1151,
-    "end_char": 1158
+    "start_char": 1152,
+    "end_char": 1159
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1164-1179",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1165-1180",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1164,
-    "end_char": 1179
+    "start_char": 1165,
+    "end_char": 1180
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1331-1338",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1332-1339",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 1331,
-    "end_char": 1338
+    "start_char": 1332,
+    "end_char": 1339
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1342-1359",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1343-1360",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
     "span": "Suelos Marginales",
-    "start_char": 1342,
-    "end_char": 1359
+    "start_char": 1343,
+    "end_char": 1360
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1385-1399",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1386-1400",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 1385,
-    "end_char": 1399
+    "start_char": 1386,
+    "end_char": 1400
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1410-1420",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1411-1421",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 1410,
-    "end_char": 1420
+    "start_char": 1411,
+    "end_char": 1421
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1807-1814",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1808-1815",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 1807,
-    "end_char": 1814
+    "start_char": 1808,
+    "end_char": 1815
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1818-1835",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1819-1836",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
     "span": "Suelos Marginales",
-    "start_char": 1818,
-    "end_char": 1835
+    "start_char": 1819,
+    "end_char": 1836
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1861-1875",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1862-1876",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 1861,
-    "end_char": 1875
+    "start_char": 1862,
+    "end_char": 1876
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1886-1896",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1887-1897",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 1886,
-    "end_char": 1896
+    "start_char": 1887,
+    "end_char": 1897
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1955-1962",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1956-1963",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 1955,
-    "end_char": 1962
+    "start_char": 1956,
+    "end_char": 1963
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1966-1983",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:1967-1984",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
     "span": "Suelos Marginales",
-    "start_char": 1966,
-    "end_char": 1983
+    "start_char": 1967,
+    "end_char": 1984
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2010-2024",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2011-2025",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 2010,
-    "end_char": 2024
+    "start_char": 2011,
+    "end_char": 2025
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2035-2045",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2036-2046",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 2035,
-    "end_char": 2045
+    "start_char": 2036,
+    "end_char": 2046
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2416-2423",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2417-2424",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 2416,
-    "end_char": 2423
+    "start_char": 2417,
+    "end_char": 2424
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2427-2444",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2428-2445",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
     "span": "Suelos Marginales",
-    "start_char": 2427,
-    "end_char": 2444
+    "start_char": 2428,
+    "end_char": 2445
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2470-2484",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2471-2485",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 2470,
-    "end_char": 2484
+    "start_char": 2471,
+    "end_char": 2485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2495-2505",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2496-2506",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 2495,
-    "end_char": 2505
+    "start_char": 2496,
+    "end_char": 2506
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2586-2593",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2587-2594",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biomasa",
     "span": "Biomasa",
-    "start_char": 2586,
-    "end_char": 2593
+    "start_char": 2587,
+    "end_char": 2594
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2597-2614",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2598-2615",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:suelos-marginales",
     "span": "Suelos Marginales",
-    "start_char": 2597,
-    "end_char": 2614
+    "start_char": 2598,
+    "end_char": 2615
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2640-2654",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2641-2655",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustible",
-    "start_char": 2640,
-    "end_char": 2654
+    "start_char": 2641,
+    "end_char": 2655
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2665-2675",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2666-2676",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 2665,
-    "end_char": 2675
+    "start_char": 2666,
+    "end_char": 2676
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2944-2947",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:2945-2948",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
     "span": "Ley",
-    "start_char": 2944,
-    "end_char": 2947
+    "start_char": 2945,
+    "end_char": 2948
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:3089-3104",
+    "id": "urn:lex-mx:federal:statute:lbio:article:21:term-usage:3090-3105",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:21",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 3089,
-    "end_char": 3104
+    "start_char": 3090,
+    "end_char": 3105
   },
   {
     "schema_version": "0.1.0",
@@ -4357,39 +4357,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:22:term-usage:361-369",
+    "id": "urn:lex-mx:federal:statute:lbio:article:22:term-usage:362-370",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:22",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:registro",
     "span": "Registro",
-    "start_char": 361,
-    "end_char": 369
+    "start_char": 362,
+    "end_char": 370
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:22:term-usage:414-429",
+    "id": "urn:lex-mx:federal:statute:lbio:article:22:term-usage:415-430",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:22",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 414,
-    "end_char": 429
+    "start_char": 415,
+    "end_char": 430
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:22:term-usage:464-474",
+    "id": "urn:lex-mx:federal:statute:lbio:article:22:term-usage:465-475",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:22",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:reglamento",
     "span": "Reglamento",
-    "start_char": 464,
-    "end_char": 474
+    "start_char": 465,
+    "end_char": 475
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:22:term-usage:490-493",
+    "id": "urn:lex-mx:federal:statute:lbio:article:22:term-usage:491-494",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:22",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
     "span": "Ley",
-    "start_char": 490,
-    "end_char": 493
+    "start_char": 491,
+    "end_char": 494
   },
   {
     "schema_version": "0.1.0",
@@ -4960,12 +4960,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:30:term-usage:695-705",
+    "id": "urn:lex-mx:federal:statute:lbio:article:30:term-usage:696-706",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:30",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:reglamento",
     "span": "Reglamento",
-    "start_char": 695,
-    "end_char": 705
+    "start_char": 696,
+    "end_char": 706
   },
   {
     "schema_version": "0.1.0",
@@ -5185,57 +5185,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1881-1891",
+    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1882-1892",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:36",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 1881,
-    "end_char": 1891
+    "start_char": 1882,
+    "end_char": 1892
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1893-1909",
+    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1894-1910",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:36",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 1893,
-    "end_char": 1909
+    "start_char": 1894,
+    "end_char": 1910
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1911-1925",
+    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1912-1926",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:36",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 1911,
-    "end_char": 1925
+    "start_char": 1912,
+    "end_char": 1926
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1927-1939",
+    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1928-1940",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:36",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 1927,
-    "end_char": 1939
+    "start_char": 1928,
+    "end_char": 1940
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1942-1961",
+    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1943-1962",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:36",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 1942,
-    "end_char": 1961
+    "start_char": 1943,
+    "end_char": 1962
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1965-1980",
+    "id": "urn:lex-mx:federal:statute:lbio:article:36:term-usage:1966-1981",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:36",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 1965,
-    "end_char": 1980
+    "start_char": 1966,
+    "end_char": 1981
   },
   {
     "schema_version": "0.1.0",
@@ -5734,165 +5734,165 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2127-2142",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2128-2143",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 2127,
-    "end_char": 2142
+    "start_char": 2128,
+    "end_char": 2143
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2242-2252",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2243-2253",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:reglamento",
     "span": "Reglamento",
-    "start_char": 2242,
-    "end_char": 2252
+    "start_char": 2243,
+    "end_char": 2253
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2702-2712",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2703-2713",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:produccion",
     "span": "Producción",
-    "start_char": 2702,
-    "end_char": 2712
+    "start_char": 2703,
+    "end_char": 2713
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2740-2754",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2741-2755",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 2740,
-    "end_char": 2754
+    "start_char": 2741,
+    "end_char": 2755
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2756-2766",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2757-2767",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 2756,
-    "end_char": 2766
+    "start_char": 2757,
+    "end_char": 2767
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2768-2780",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2769-2781",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 2768,
-    "end_char": 2780
+    "start_char": 2769,
+    "end_char": 2781
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2782-2798",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2783-2799",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 2782,
-    "end_char": 2798
+    "start_char": 2783,
+    "end_char": 2799
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2800-2819",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2801-2820",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 2800,
-    "end_char": 2819
+    "start_char": 2801,
+    "end_char": 2820
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2823-2838",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:2824-2839",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 2823,
-    "end_char": 2838
+    "start_char": 2824,
+    "end_char": 2839
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3024-3033",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3025-3034",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:bitacora",
     "span": "Bitácoras",
-    "start_char": 3024,
-    "end_char": 3033
+    "start_char": 3025,
+    "end_char": 3034
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3251-3265",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3252-3266",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:almacenamiento",
     "span": "Almacenamiento",
-    "start_char": 3251,
-    "end_char": 3265
+    "start_char": 3252,
+    "end_char": 3266
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3267-3277",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3268-3278",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:transporte",
     "span": "Transporte",
-    "start_char": 3267,
-    "end_char": 3277
+    "start_char": 3268,
+    "end_char": 3278
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3279-3291",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3280-3292",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:distribucion",
     "span": "Distribución",
-    "start_char": 3279,
-    "end_char": 3291
+    "start_char": 3280,
+    "end_char": 3292
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3293-3309",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3294-3310",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:comercializacion",
     "span": "Comercialización",
-    "start_char": 3293,
-    "end_char": 3309
+    "start_char": 3294,
+    "end_char": 3310
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3311-3330",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3312-3331",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:expendio-al-publico",
     "span": "Expendio al Público",
-    "start_char": 3311,
-    "end_char": 3330
+    "start_char": 3312,
+    "end_char": 3331
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3369-3384",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3370-3385",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:biocombustible",
     "span": "Biocombustibles",
-    "start_char": 3369,
-    "end_char": 3384
+    "start_char": 3370,
+    "end_char": 3385
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3836-3839",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3837-3840",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:ley",
     "span": "Ley",
-    "start_char": 3836,
-    "end_char": 3839
+    "start_char": 3837,
+    "end_char": 3840
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3967-3972",
+    "id": "urn:lex-mx:federal:statute:lbio:article:41:term-usage:3968-3973",
     "provision_id": "urn:lex-mx:federal:statute:lbio:article:41",
     "term_id": "urn:lex-mx:federal:statute:lbio:term:sener",
     "span": "SENER",
-    "start_char": 3967,
-    "end_char": 3972
+    "start_char": 3968,
+    "end_char": 3973
   },
   {
     "schema_version": "0.1.0",

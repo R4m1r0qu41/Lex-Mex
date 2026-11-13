@@ -21,7 +21,9 @@ En la formulación y conducción de la política en materia de prevención, valo
 
 I. El derecho de toda persona a vivir en un medio ambiente adecuado para su desarrollo y bienestar;
 
-II. Sujetar las actividades relacionadas con la generación y manejo integral de los residuos a las modalidades que dicte el orden e interés público para el logro del desarrollo nacional sustentable; III. La prevención y minimización de la generación de los residuos, de su liberación al ambiente, y su transferencia de un medio a otro, así como su manejo integral para evitar riesgos a la salud y daños a los ecosistemas;
+II. Sujetar las actividades relacionadas con la generación y manejo integral de los residuos a las modalidades que dicte el orden e interés público para el logro del desarrollo nacional sustentable;
+
+III. La prevención y minimización de la generación de los residuos, de su liberación al ambiente, y su transferencia de un medio a otro, así como su manejo integral para evitar riesgos a la salud y daños a los ecosistemas;
 
 IV. Corresponde a quien genere residuos, la asunción de los costos derivados del manejo integral de los mismos y, en su caso, de la reparación de los daños;
 

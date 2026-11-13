@@ -33,7 +33,9 @@ VI. Difundir entre las autoridades correspondientes y la población en general l
 
 VII. Asesorar y apoyar a los gobiernos de las entidades federativas, en coordinación con la Secretaría de Hacienda y Crédito Público, en el análisis y selección del modelo requerido para la transferencia de riesgos a que se refiere el artículo [18](articulo-18.md) de esta Ley;
 
-VIII. Asesorar y apoyar a los gobiernos de las entidades federativas en el análisis y selección del modelo requerido para la transferencia de riesgos a que se refiere el artículo 19 de esta Ley, para lo cual podrá solicitar recursos de los instrumentos financieros; IX. Instrumentar y en su caso, operar redes de detección, monitoreo, pronóstico y sistemas de alertamiento, en coordinación con las dependencias responsables e incorporando los esfuerzos de otras redes de monitoreo públicas o privadas;
+VIII. Asesorar y apoyar a los gobiernos de las entidades federativas en el análisis y selección del modelo requerido para la transferencia de riesgos a que se refiere el artículo 19 de esta Ley, para lo cual podrá solicitar recursos de los instrumentos financieros;
+
+IX. Instrumentar y en su caso, operar redes de detección, monitoreo, pronóstico y sistemas de alertamiento, en coordinación con las dependencias responsables e incorporando los esfuerzos de otras redes de monitoreo públicas o privadas;
 
 X. Suscribir convenios en materia de protección civil y gestión de riesgos en el ámbito nacional e internacional, en coordinación con las autoridades competentes en la materia;
 

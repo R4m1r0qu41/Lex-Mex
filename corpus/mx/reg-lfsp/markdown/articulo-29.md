@@ -27,6 +27,8 @@ III. Divulgar información derivada del ejercicio de sus funciones;
 
 IV. Hacer mal uso de los instrumentos y equipos que le sean proporcionados para prestar sus servicios;
 
-V. Inferir, tolerar o permitir actos de tortura, malos tratos, actos crueles, inhumanos o degradantes, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenazas a la seguridad pública, y VI. Los demás que establezcan otras disposiciones aplicables.
+V. Inferir, tolerar o permitir actos de tortura, malos tratos, actos crueles, inhumanos o degradantes, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenazas a la seguridad pública, y
+
+VI. Los demás que establezcan otras disposiciones aplicables.
 
 La inobservancia por parte del personal operativo a la [Ley](articulo-2.md), el Reglamento y a lo ordenado en las disposiciones internas del Prestador de Servicios, dará lugar a la aplicación de las sanciones previstas en el Reglamento Interior de Trabajo, Manual o Instructivo operativo aplicable, con independencia de las demás responsabilidades jurídicas que su conducta pudiera generar, tanto para el personal operativo, como para el Prestador de Servicios.

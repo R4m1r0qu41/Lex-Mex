@@ -17,7 +17,9 @@ source_sha256: 05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d
 
 # Artículo 5o
 
-Son partes en el juicio de amparo: I. La persona quejosa, teniendo tal carácter quien aduce ser titular de un derecho subjetivo o de un interés legítimo individual o colectivo, siempre que alegue que la norma, acto u omisión reclamados violan los derechos previstos en el artículo [1](articulo-1o.md)o. de la presente Ley y con ello se produzca una afectación real y actual a su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico. Párrafo reformado DOF 13-03-2025
+Son partes en el juicio de amparo:
+
+I. La persona quejosa, teniendo tal carácter quien aduce ser titular de un derecho subjetivo o de un interés legítimo individual o colectivo, siempre que alegue que la norma, acto u omisión reclamados violan los derechos previstos en el artículo [1](articulo-1o.md)o. de la presente Ley y con ello se produzca una afectación real y actual a su esfera jurídica, ya sea de manera directa o en virtud de su especial situación frente al orden jurídico. Párrafo reformado DOF 13-03-2025
 
 Tratándose del interés legítimo, la norma, acto u omisión reclamado deberá ocasionar en la persona quejosa una lesión jurídica individual o colectiva, real y diferenciada del resto de las personas, de tal forma que su anulación produzca un beneficio cierto y no meramente hipotético o eventual en caso de que se otorgue el amparo. Párrafo adicionado DOF 16-10-2025
 

@@ -31,7 +31,9 @@ V. La satisfacción de las necesidades complementarias en infraestructura, espac
 
 VI. La protección del [Patrimonio Natural y Cultural](articulo-3.md) de los Centros de Población;
 
-VII. La simplificación de los trámites administrativos que se requieran para la ejecución de acciones e inversiones de Desarrollo Urbano; VIII. El fortalecimiento de las administraciones públicas estatales y municipales para el Desarrollo Urbano;
+VII. La simplificación de los trámites administrativos que se requieran para la ejecución de acciones e inversiones de Desarrollo Urbano;
+
+VIII. El fortalecimiento de las administraciones públicas estatales y municipales para el Desarrollo Urbano;
 
 IX. La modernización de los sistemas catastrales y registrales de la propiedad inmobiliaria en los Centros de Población;
 

@@ -7,8 +7,8 @@ provision_type: article
 number: "43 Bis"
 aliases: ["LGSC — Artículo 43 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf
 source_sha256: 7bed7f706ac5003e5089abf84b9134fa97495a1d6c9570c0841e418d48d7565f
 ---
@@ -29,7 +29,9 @@ IV. No estar sentenciado por delitos intencionales patrimoniales;
 
 V. No tener litigio pendiente con la Cooperativa;
 
-VI. No haber celebrado con la Cooperativa, directa o indirectamente, contratos de obras, servicios, suministros o cualquier otro de naturaleza análoga, o participar en empresas con las que la Cooperativa celebre cualquiera de los actos antes señalados; VII. No desempeñar un cargo público de elección popular o de dirigencia partidista;
+VI. No haber celebrado con la Cooperativa, directa o indirectamente, contratos de obras, servicios, suministros o cualquier otro de naturaleza análoga, o participar en empresas con las que la Cooperativa celebre cualquiera de los actos antes señalados;
+
+VII. No desempeñar un cargo público de elección popular o de dirigencia partidista;
 
 VIII. No estar inhabilitado para ejercer cualquier cargo, comisión o empleo en el servicio público federal, de las entidades federativas o municipal, o en el sistema financiero mexicano; Fracción reformada DOF 19-01-2018
 

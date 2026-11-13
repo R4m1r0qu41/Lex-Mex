@@ -55,30 +55,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:1:term-usage:1711-1739",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:1:term-usage:1712-1740",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:1",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 1711,
-    "end_char": 1739
+    "start_char": 1712,
+    "end_char": 1740
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:1:term-usage:1796-1833",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:1:term-usage:1797-1834",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:1",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:sistema-general-de-unidades-de-medida",
     "span": "Sistema General de Unidades de Medida",
-    "start_char": 1796,
-    "end_char": 1833
+    "start_char": 1797,
+    "end_char": 1834
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:1:term-usage:2083-2111",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:1:term-usage:2084-2112",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:1",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 2083,
-    "end_char": 2111
+    "start_char": 2084,
+    "end_char": 2112
   },
   {
     "schema_version": "0.1.0",
@@ -901,264 +901,264 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:3207-3233",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:3208-3234",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 3207,
-    "end_char": 3233
+    "start_char": 3208,
+    "end_char": 3234
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:3235-3245",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:3236-3246",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 3235,
-    "end_char": 3245
+    "start_char": 3236,
+    "end_char": 3246
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:3247-3269",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:3248-3270",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 3247,
-    "end_char": 3269
+    "start_char": 3248,
+    "end_char": 3270
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:4740-4766",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:4741-4767",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 4740,
-    "end_char": 4766
+    "start_char": 4741,
+    "end_char": 4767
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5501-5524",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5502-5525",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidad de Acreditación",
-    "start_char": 5501,
-    "end_char": 5524
+    "start_char": 5502,
+    "end_char": 5525
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5546-5569",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5547-5570",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 5546,
-    "end_char": 5569
+    "start_char": 5547,
+    "end_char": 5570
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5592-5618",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5593-5619",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 5592,
-    "end_char": 5618
+    "start_char": 5593,
+    "end_char": 5619
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5620-5630",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5621-5631",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 5620,
-    "end_char": 5630
+    "start_char": 5621,
+    "end_char": 5631
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5632-5654",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5633-5655",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 5632,
-    "end_char": 5654
+    "start_char": 5633,
+    "end_char": 5655
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5756-5779",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5757-5780",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidad de Acreditación",
-    "start_char": 5756,
-    "end_char": 5779
+    "start_char": 5757,
+    "end_char": 5780
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5820-5843",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5821-5844",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 5820,
-    "end_char": 5843
+    "start_char": 5821,
+    "end_char": 5844
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5878-5906",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:5879-5907",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 5878,
-    "end_char": 5906
+    "start_char": 5879,
+    "end_char": 5907
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6154-6182",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6155-6183",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 6154,
-    "end_char": 6182
+    "start_char": 6155,
+    "end_char": 6183
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6237-6266",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6238-6267",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:infraestructura-de-la-calidad",
     "span": "Infraestructura de la Calidad",
-    "start_char": 6237,
-    "end_char": 6266
+    "start_char": 6238,
+    "end_char": 6267
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6283-6291",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6284-6292",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 6283,
-    "end_char": 6291
+    "start_char": 6284,
+    "end_char": 6292
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6471-6493",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6473-6495",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 6471,
-    "end_char": 6493
+    "start_char": 6473,
+    "end_char": 6495
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6496-6504",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6498-6506",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 6496,
-    "end_char": 6504
+    "start_char": 6498,
+    "end_char": 6506
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6833-6859",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6835-6861",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 6833,
-    "end_char": 6859
+    "start_char": 6835,
+    "end_char": 6861
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6944-6969",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6946-6971",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidades de Acreditación",
-    "start_char": 6944,
-    "end_char": 6969
+    "start_char": 6946,
+    "end_char": 6971
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6977-7019",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:6979-7021",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:organismos-de-evaluacion-de-la-conformidad",
     "span": "Organismos de Evaluación de la Conformidad",
-    "start_char": 6977,
-    "end_char": 7019
+    "start_char": 6979,
+    "end_char": 7021
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:7241-7269",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:7243-7271",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 7241,
-    "end_char": 7269
+    "start_char": 7243,
+    "end_char": 7271
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:7668-7694",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:7670-7696",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 7668,
-    "end_char": 7694
+    "start_char": 7670,
+    "end_char": 7696
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:7704-7714",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:7706-7716",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 7704,
-    "end_char": 7714
+    "start_char": 7706,
+    "end_char": 7716
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8526-8552",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8528-8554",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 8526,
-    "end_char": 8552
+    "start_char": 8528,
+    "end_char": 8554
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8555-8565",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8557-8567",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 8555,
-    "end_char": 8565
+    "start_char": 8557,
+    "end_char": 8567
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8753-8778",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8755-8780",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidades de Acreditación",
-    "start_char": 8753,
-    "end_char": 8778
+    "start_char": 8755,
+    "end_char": 8780
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8785-8827",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8787-8829",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:organismos-de-evaluacion-de-la-conformidad",
     "span": "Organismos de Evaluación de la Conformidad",
-    "start_char": 8785,
-    "end_char": 8827
+    "start_char": 8787,
+    "end_char": 8829
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8890-8900",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8892-8902",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:secretaria",
     "span": "Secretaría",
-    "start_char": 8890,
-    "end_char": 8900
+    "start_char": 8892,
+    "end_char": 8902
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8972-9036",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:4:term-usage:8974-9038",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:4",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:plataforma-tecnologica-integral-de-infraestructura-de-la-calidad",
     "span": "Plataforma Tecnológica Integral de Infraestructura de la Calidad",
-    "start_char": 8972,
-    "end_char": 9036
+    "start_char": 8974,
+    "end_char": 9038
   },
   {
     "schema_version": "0.1.0",
@@ -1189,147 +1189,147 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:543-569",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:544-570",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 543,
-    "end_char": 569
+    "start_char": 544,
+    "end_char": 570
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:669-694",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:670-695",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidades de Acreditación",
-    "start_char": 669,
-    "end_char": 694
+    "start_char": 670,
+    "end_char": 695
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:700-742",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:701-743",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:organismos-de-evaluacion-de-la-conformidad",
     "span": "Organismos de Evaluación de la Conformidad",
-    "start_char": 700,
-    "end_char": 742
+    "start_char": 701,
+    "end_char": 743
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:858-907",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:859-908",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:sistema-nacional-de-infraestructura-de-la-calidad",
     "span": "Sistema Nacional de Infraestructura de la Calidad",
-    "start_char": 858,
-    "end_char": 907
+    "start_char": 859,
+    "end_char": 908
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1090-1118",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1091-1119",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 1090,
-    "end_char": 1118
+    "start_char": 1091,
+    "end_char": 1119
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1283-1309",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1284-1310",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 1283,
-    "end_char": 1309
+    "start_char": 1284,
+    "end_char": 1310
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1312-1322",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1313-1323",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 1312,
-    "end_char": 1322
+    "start_char": 1313,
+    "end_char": 1323
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1391-1417",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1392-1418",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 1391,
-    "end_char": 1417
+    "start_char": 1392,
+    "end_char": 1418
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1722-1750",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1723-1751",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 1722,
-    "end_char": 1750
+    "start_char": 1723,
+    "end_char": 1751
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1992-2018",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:1993-2019",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 1992,
-    "end_char": 2018
+    "start_char": 1993,
+    "end_char": 2019
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2025-2035",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2026-2036",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 2025,
-    "end_char": 2035
+    "start_char": 2026,
+    "end_char": 2036
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2070-2098",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2071-2099",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 2070,
-    "end_char": 2098
+    "start_char": 2071,
+    "end_char": 2099
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2569-2595",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2570-2596",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 2569,
-    "end_char": 2595
+    "start_char": 2570,
+    "end_char": 2596
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2602-2612",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2603-2613",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 2602,
-    "end_char": 2612
+    "start_char": 2603,
+    "end_char": 2613
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2637-2659",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:2638-2660",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 2637,
-    "end_char": 2659
+    "start_char": 2638,
+    "end_char": 2660
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:3690-3739",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:5:term-usage:3691-3740",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:sistema-nacional-de-infraestructura-de-la-calidad",
     "span": "Sistema Nacional de Infraestructura de la Calidad",
-    "start_char": 3690,
-    "end_char": 3739
+    "start_char": 3691,
+    "end_char": 3740
   },
   {
     "schema_version": "0.1.0",
@@ -1702,84 +1702,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:349-360",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:350-361",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:secretaria",
     "span": "Secretarías",
-    "start_char": 349,
-    "end_char": 360
+    "start_char": 350,
+    "end_char": 361
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:839-847",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:840-848",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 839,
-    "end_char": 847
+    "start_char": 840,
+    "end_char": 848
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:883-891",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:884-892",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 883,
-    "end_char": 891
+    "start_char": 884,
+    "end_char": 892
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:918-926",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:919-927",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 918,
-    "end_char": 926
+    "start_char": 919,
+    "end_char": 927
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:1406-1414",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:1407-1415",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 1406,
-    "end_char": 1414
+    "start_char": 1407,
+    "end_char": 1415
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:1827-1835",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:1828-1836",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 1827,
-    "end_char": 1835
+    "start_char": 1828,
+    "end_char": 1836
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:2544-2572",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:2545-2573",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 2544,
-    "end_char": 2572
+    "start_char": 2545,
+    "end_char": 2573
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:2733-2758",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:2734-2759",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidades de Acreditación",
-    "start_char": 2733,
-    "end_char": 2758
+    "start_char": 2734,
+    "end_char": 2759
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:2857-2865",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:16:term-usage:2858-2866",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:16",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 2857,
-    "end_char": 2865
+    "start_char": 2858,
+    "end_char": 2866
   },
   {
     "schema_version": "0.1.0",
@@ -1801,156 +1801,156 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:161-210",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:162-211",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:sistema-nacional-de-infraestructura-de-la-calidad",
     "span": "Sistema Nacional de Infraestructura de la Calidad",
-    "start_char": 161,
-    "end_char": 210
+    "start_char": 162,
+    "end_char": 211
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:259-267",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:260-268",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:programa",
     "span": "Programa",
-    "start_char": 259,
-    "end_char": 267
+    "start_char": 260,
+    "end_char": 268
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:467-493",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:468-494",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 467,
-    "end_char": 493
+    "start_char": 468,
+    "end_char": 494
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:496-506",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:497-507",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 496,
-    "end_char": 506
+    "start_char": 497,
+    "end_char": 507
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:649-675",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:650-676",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 649,
-    "end_char": 675
+    "start_char": 650,
+    "end_char": 676
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:812-837",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:813-838",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidades de Acreditación",
-    "start_char": 812,
-    "end_char": 837
+    "start_char": 813,
+    "end_char": 838
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1125-1148",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1126-1149",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 1125,
-    "end_char": 1148
+    "start_char": 1126,
+    "end_char": 1149
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1492-1521",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1493-1522",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:infraestructura-de-la-calidad",
     "span": "Infraestructura de la Calidad",
-    "start_char": 1492,
-    "end_char": 1521
+    "start_char": 1493,
+    "end_char": 1522
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1801-1829",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1802-1830",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 1801,
-    "end_char": 1829
+    "start_char": 1802,
+    "end_char": 1830
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1934-1942",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1935-1943",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:programa",
     "span": "Programa",
-    "start_char": 1934,
-    "end_char": 1942
+    "start_char": 1935,
+    "end_char": 1943
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1976-1988",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1977-1989",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
     "span": "Verificación",
-    "start_char": 1976,
-    "end_char": 1988
+    "start_char": 1977,
+    "end_char": 1989
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1990-2000",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:1991-2001",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 1990,
-    "end_char": 2000
+    "start_char": 1991,
+    "end_char": 2001
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:2034-2060",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:2035-2061",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 2034,
-    "end_char": 2060
+    "start_char": 2035,
+    "end_char": 2061
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:2079-2087",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:2080-2088",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 2079,
-    "end_char": 2087
+    "start_char": 2080,
+    "end_char": 2088
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:2121-2147",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:2122-2148",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 2121,
-    "end_char": 2147
+    "start_char": 2122,
+    "end_char": 2148
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:2371-2379",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:2372-2380",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 2371,
-    "end_char": 2379
+    "start_char": 2372,
+    "end_char": 2380
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:3126-3134",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:18:term-usage:3127-3135",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:18",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 3126,
-    "end_char": 3134
+    "start_char": 3127,
+    "end_char": 3135
   },
   {
     "schema_version": "0.1.0",
@@ -2881,102 +2881,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:547-575",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:548-576",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 547,
-    "end_char": 575
+    "start_char": 548,
+    "end_char": 576
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:792-804",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:793-805",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
     "span": "Verificación",
-    "start_char": 792,
-    "end_char": 804
+    "start_char": 793,
+    "end_char": 805
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:810-820",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:811-821",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 810,
-    "end_char": 820
+    "start_char": 811,
+    "end_char": 821
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:876-886",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:877-887",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 876,
-    "end_char": 886
+    "start_char": 877,
+    "end_char": 887
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:940-962",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:941-963",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 940,
-    "end_char": 962
+    "start_char": 941,
+    "end_char": 963
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1182-1192",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1183-1193",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 1182,
-    "end_char": 1192
+    "start_char": 1183,
+    "end_char": 1193
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1198-1220",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1199-1221",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 1198,
-    "end_char": 1220
+    "start_char": 1199,
+    "end_char": 1221
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1331-1353",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1332-1354",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 1331,
-    "end_char": 1353
+    "start_char": 1332,
+    "end_char": 1354
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1541-1549",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1542-1550",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:comision",
     "span": "Comisión",
-    "start_char": 1541,
-    "end_char": 1549
+    "start_char": 1542,
+    "end_char": 1550
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1832-1854",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1833-1855",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 1832,
-    "end_char": 1854
+    "start_char": 1833,
+    "end_char": 1855
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1909-1935",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:34:term-usage:1910-1936",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:34",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 1909,
-    "end_char": 1935
+    "start_char": 1910,
+    "end_char": 1936
   },
   {
     "schema_version": "0.1.0",
@@ -2998,174 +2998,174 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:925-948",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:926-949",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 925,
-    "end_char": 948
+    "start_char": 926,
+    "end_char": 949
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1020-1043",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1021-1044",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 1020,
-    "end_char": 1043
+    "start_char": 1021,
+    "end_char": 1044
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1137-1159",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1138-1160",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 1137,
-    "end_char": 1159
+    "start_char": 1138,
+    "end_char": 1160
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1244-1308",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1245-1309",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:plataforma-tecnologica-integral-de-infraestructura-de-la-calidad",
     "span": "Plataforma Tecnológica Integral de Infraestructura de la Calidad",
-    "start_char": 1244,
-    "end_char": 1308
+    "start_char": 1245,
+    "end_char": 1309
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1414-1437",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1415-1438",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 1414,
-    "end_char": 1437
+    "start_char": 1415,
+    "end_char": 1438
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1975-2039",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:1976-2040",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:plataforma-tecnologica-integral-de-infraestructura-de-la-calidad",
     "span": "Plataforma Tecnológica Integral de Infraestructura de la Calidad",
-    "start_char": 1975,
-    "end_char": 2039
+    "start_char": 1976,
+    "end_char": 2040
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2272-2294",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2273-2295",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 2272,
-    "end_char": 2294
+    "start_char": 2273,
+    "end_char": 2295
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2540-2562",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2541-2563",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 2540,
-    "end_char": 2562
+    "start_char": 2541,
+    "end_char": 2563
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2696-2719",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2697-2720",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 2696,
-    "end_char": 2719
+    "start_char": 2697,
+    "end_char": 2720
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2767-2790",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2768-2791",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 2767,
-    "end_char": 2790
+    "start_char": 2768,
+    "end_char": 2791
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2813-2823",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2814-2824",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2813,
-    "end_char": 2823
+    "start_char": 2814,
+    "end_char": 2824
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2845-2909",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:2846-2910",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:plataforma-tecnologica-integral-de-infraestructura-de-la-calidad",
     "span": "Plataforma Tecnológica Integral de Infraestructura de la Calidad",
-    "start_char": 2845,
-    "end_char": 2909
+    "start_char": 2846,
+    "end_char": 2910
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3076-3098",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3077-3099",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 3076,
-    "end_char": 3098
+    "start_char": 3077,
+    "end_char": 3099
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3135-3158",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3136-3159",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 3135,
-    "end_char": 3158
+    "start_char": 3136,
+    "end_char": 3159
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3177-3199",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3178-3200",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 3177,
-    "end_char": 3199
+    "start_char": 3178,
+    "end_char": 3200
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3304-3368",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3305-3369",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:plataforma-tecnologica-integral-de-infraestructura-de-la-calidad",
     "span": "Plataforma Tecnológica Integral de Infraestructura de la Calidad",
-    "start_char": 3304,
-    "end_char": 3368
+    "start_char": 3305,
+    "end_char": 3369
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3396-3422",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3397-3423",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 3396,
-    "end_char": 3422
+    "start_char": 3397,
+    "end_char": 3423
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3475-3501",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3476-3502",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 3475,
-    "end_char": 3501
+    "start_char": 3476,
+    "end_char": 3502
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3675-3701",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:35:term-usage:3676-3702",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:35",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 3675,
-    "end_char": 3701
+    "start_char": 3676,
+    "end_char": 3702
   },
   {
     "schema_version": "0.1.0",
@@ -4420,66 +4420,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:689-717",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:690-718",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 689,
-    "end_char": 717
+    "start_char": 690,
+    "end_char": 718
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:727-753",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:728-754",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 727,
-    "end_char": 753
+    "start_char": 728,
+    "end_char": 754
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:755-765",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:756-766",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 755,
-    "end_char": 765
+    "start_char": 756,
+    "end_char": 766
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:767-789",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:768-790",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 767,
-    "end_char": 789
+    "start_char": 768,
+    "end_char": 790
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:1011-1034",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:1012-1035",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidad de Acreditación",
-    "start_char": 1011,
-    "end_char": 1034
+    "start_char": 1012,
+    "end_char": 1035
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:1083-1106",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:1084-1107",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 1083,
-    "end_char": 1106
+    "start_char": 1084,
+    "end_char": 1107
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:1277-1305",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:55:term-usage:1278-1306",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:55",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 1277,
-    "end_char": 1305
+    "start_char": 1278,
+    "end_char": 1306
   },
   {
     "schema_version": "0.1.0",
@@ -4627,102 +4627,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:493-516",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:494-517",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidad de Acreditación",
-    "start_char": 493,
-    "end_char": 516
+    "start_char": 494,
+    "end_char": 517
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:522-532",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:523-533",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 522,
-    "end_char": 532
+    "start_char": 523,
+    "end_char": 533
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:540-566",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:541-567",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 540,
-    "end_char": 566
+    "start_char": 541,
+    "end_char": 567
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:842-865",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:843-866",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidad de Acreditación",
-    "start_char": 842,
-    "end_char": 865
+    "start_char": 843,
+    "end_char": 866
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:873-896",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:874-897",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 873,
-    "end_char": 896
+    "start_char": 874,
+    "end_char": 897
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1067-1090",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1068-1091",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidad de Acreditación",
-    "start_char": 1067,
-    "end_char": 1090
+    "start_char": 1068,
+    "end_char": 1091
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1096-1119",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1097-1120",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 1096,
-    "end_char": 1119
+    "start_char": 1097,
+    "end_char": 1120
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1545-1571",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1546-1572",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 1545,
-    "end_char": 1571
+    "start_char": 1546,
+    "end_char": 1572
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1573-1583",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1574-1584",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 1573,
-    "end_char": 1583
+    "start_char": 1574,
+    "end_char": 1584
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1585-1607",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1586-1608",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 1585,
-    "end_char": 1607
+    "start_char": 1586,
+    "end_char": 1608
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1798-1824",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:58:term-usage:1799-1825",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:58",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 1798,
-    "end_char": 1824
+    "start_char": 1799,
+    "end_char": 1825
   },
   {
     "schema_version": "0.1.0",
@@ -4762,75 +4762,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1233-1256",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1234-1257",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:entidades-de-acreditacion",
     "span": "Entidad de Acreditación",
-    "start_char": 1233,
-    "end_char": 1256
+    "start_char": 1234,
+    "end_char": 1257
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1264-1287",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1265-1288",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 1264,
-    "end_char": 1287
+    "start_char": 1265,
+    "end_char": 1288
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1447-1473",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1448-1474",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 1447,
-    "end_char": 1473
+    "start_char": 1448,
+    "end_char": 1474
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1475-1485",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1476-1486",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 1475,
-    "end_char": 1485
+    "start_char": 1476,
+    "end_char": 1486
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1487-1509",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1488-1510",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 1487,
-    "end_char": 1509
+    "start_char": 1488,
+    "end_char": 1510
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1701-1727",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:1702-1728",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 1701,
-    "end_char": 1727
+    "start_char": 1702,
+    "end_char": 1728
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:2014-2056",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:2015-2057",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:organismos-de-evaluacion-de-la-conformidad",
     "span": "Organismos de Evaluación de la Conformidad",
-    "start_char": 2014,
-    "end_char": 2056
+    "start_char": 2015,
+    "end_char": 2057
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:2075-2101",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:59:term-usage:2076-2102",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:59",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridades Normalizadoras",
-    "start_char": 2075,
-    "end_char": 2101
+    "start_char": 2076,
+    "end_char": 2102
   },
   {
     "schema_version": "0.1.0",
@@ -5752,39 +5752,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:75:term-usage:437-459",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:75:term-usage:438-460",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:75",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 437,
-    "end_char": 459
+    "start_char": 438,
+    "end_char": 460
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:75:term-usage:676-686",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:75:term-usage:677-687",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:75",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 676,
-    "end_char": 686
+    "start_char": 677,
+    "end_char": 687
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:75:term-usage:692-714",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:75:term-usage:693-715",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:75",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-internacional",
     "span": "Normas Internacionales",
-    "start_char": 692,
-    "end_char": 714
+    "start_char": 693,
+    "end_char": 715
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:75:term-usage:825-833",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:75:term-usage:826-834",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:75",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 825,
-    "end_char": 833
+    "start_char": 826,
+    "end_char": 834
   },
   {
     "schema_version": "0.1.0",
@@ -5932,138 +5932,138 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:816-824",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:817-825",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 816,
-    "end_char": 824
+    "start_char": 817,
+    "end_char": 825
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1063-1071",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1064-1072",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 1063,
-    "end_char": 1071
+    "start_char": 1064,
+    "end_char": 1072
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1088-1098",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1089-1099",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1088,
-    "end_char": 1098
+    "start_char": 1089,
+    "end_char": 1099
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1153-1217",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1154-1218",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:plataforma-tecnologica-integral-de-infraestructura-de-la-calidad",
     "span": "Plataforma Tecnológica Integral de Infraestructura de la Calidad",
-    "start_char": 1153,
-    "end_char": 1217
+    "start_char": 1154,
+    "end_char": 1218
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1288-1296",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1289-1297",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 1288,
-    "end_char": 1296
+    "start_char": 1289,
+    "end_char": 1297
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1319-1342",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1320-1343",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:autoridad-normalizadora",
     "span": "Autoridad Normalizadora",
-    "start_char": 1319,
-    "end_char": 1342
+    "start_char": 1320,
+    "end_char": 1343
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1383-1447",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1384-1448",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:plataforma-tecnologica-integral-de-infraestructura-de-la-calidad",
     "span": "Plataforma Tecnológica Integral de Infraestructura de la Calidad",
-    "start_char": 1383,
-    "end_char": 1447
+    "start_char": 1384,
+    "end_char": 1448
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1678-1686",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1679-1687",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 1678,
-    "end_char": 1686
+    "start_char": 1679,
+    "end_char": 1687
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1808-1816",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1809-1817",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 1808,
-    "end_char": 1816
+    "start_char": 1809,
+    "end_char": 1817
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1892-1900",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:1893-1901",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 1892,
-    "end_char": 1900
+    "start_char": 1893,
+    "end_char": 1901
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2268-2276",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2269-2277",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 2268,
-    "end_char": 2276
+    "start_char": 2269,
+    "end_char": 2277
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2420-2428",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2421-2429",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 2420,
-    "end_char": 2428
+    "start_char": 2421,
+    "end_char": 2429
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2446-2454",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2447-2455",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 2446,
-    "end_char": 2454
+    "start_char": 2447,
+    "end_char": 2455
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2473-2483",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2474-2484",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2473,
-    "end_char": 2483
+    "start_char": 2474,
+    "end_char": 2484
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2518-2582",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:80:term-usage:2519-2583",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:80",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:plataforma-tecnologica-integral-de-infraestructura-de-la-calidad",
     "span": "Plataforma Tecnológica Integral de Infraestructura de la Calidad",
-    "start_char": 2518,
-    "end_char": 2582
+    "start_char": 2519,
+    "end_char": 2583
   },
   {
     "schema_version": "0.1.0",
@@ -7786,30 +7786,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:139:term-usage:603-629",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:139:term-usage:604-630",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:139",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 603,
-    "end_char": 629
+    "start_char": 604,
+    "end_char": 630
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:139:term-usage:636-646",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:139:term-usage:637-647",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:139",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 636,
-    "end_char": 646
+    "start_char": 637,
+    "end_char": 647
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:139:term-usage:828-877",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:139:term-usage:829-878",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:139",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:sistema-nacional-de-infraestructura-de-la-calidad",
     "span": "Sistema Nacional de Infraestructura de la Calidad",
-    "start_char": 828,
-    "end_char": 877
+    "start_char": 829,
+    "end_char": 878
   },
   {
     "schema_version": "0.1.0",
@@ -8065,93 +8065,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:665-677",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:666-678",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
     "span": "Verificación",
-    "start_char": 665,
-    "end_char": 677
+    "start_char": 666,
+    "end_char": 678
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:680-690",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:681-691",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 680,
-    "end_char": 690
+    "start_char": 681,
+    "end_char": 691
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:753-765",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:754-766",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
     "span": "Verificación",
-    "start_char": 753,
-    "end_char": 765
+    "start_char": 754,
+    "end_char": 766
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:768-778",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:769-779",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 768,
-    "end_char": 778
+    "start_char": 769,
+    "end_char": 779
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1036-1048",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1037-1049",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
     "span": "Verificación",
-    "start_char": 1036,
-    "end_char": 1048
+    "start_char": 1037,
+    "end_char": 1049
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1051-1061",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1052-1062",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 1051,
-    "end_char": 1061
+    "start_char": 1052,
+    "end_char": 1062
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1157-1169",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1158-1170",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
     "span": "Verificación",
-    "start_char": 1157,
-    "end_char": 1169
+    "start_char": 1158,
+    "end_char": 1170
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1469-1481",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1470-1482",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
     "span": "Verificación",
-    "start_char": 1469,
-    "end_char": 1481
+    "start_char": 1470,
+    "end_char": 1482
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1569-1581",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1570-1582",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:verificacion",
     "span": "Verificación",
-    "start_char": 1569,
-    "end_char": 1581
+    "start_char": 1570,
+    "end_char": 1582
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1584-1594",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:143:term-usage:1585-1595",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:143",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:vigilancia",
     "span": "Vigilancia",
-    "start_char": 1584,
-    "end_char": 1594
+    "start_char": 1585,
+    "end_char": 1595
   },
   {
     "schema_version": "0.1.0",
@@ -8443,48 +8443,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:167-193",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:168-194",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:147",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 167,
-    "end_char": 193
+    "start_char": 168,
+    "end_char": 194
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:196-206",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:197-207",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:147",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándares",
-    "start_char": 196,
-    "end_char": 206
+    "start_char": 197,
+    "end_char": 207
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:849-913",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:850-914",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:147",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:plataforma-tecnologica-integral-de-infraestructura-de-la-calidad",
     "span": "Plataforma Tecnológica Integral de Infraestructura de la Calidad",
-    "start_char": 849,
-    "end_char": 913
+    "start_char": 850,
+    "end_char": 914
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:1064-1086",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:1065-1087",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:147",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 1064,
-    "end_char": 1086
+    "start_char": 1065,
+    "end_char": 1087
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:3126-3148",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:147:term-usage:3127-3149",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:147",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 3126,
-    "end_char": 3148
+    "start_char": 3127,
+    "end_char": 3149
   },
   {
     "schema_version": "0.1.0",
@@ -8614,12 +8614,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:154:term-usage:568-596",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:154:term-usage:569-597",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:154",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 568,
-    "end_char": 596
+    "start_char": 569,
+    "end_char": 597
   },
   {
     "schema_version": "0.1.0",
@@ -8686,48 +8686,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2038-2060",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2039-2061",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:155",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Norma Oficial Mexicana",
-    "start_char": 2038,
-    "end_char": 2060
+    "start_char": 2039,
+    "end_char": 2061
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2063-2071",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2064-2072",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:155",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:estandar",
     "span": "Estándar",
-    "start_char": 2063,
-    "end_char": 2071
+    "start_char": 2064,
+    "end_char": 2072
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2510-2536",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2511-2537",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:155",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 2510,
-    "end_char": 2536
+    "start_char": 2511,
+    "end_char": 2537
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2602-2628",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2603-2629",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:155",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:norma-oficial-mexicana",
     "span": "Normas Oficiales Mexicanas",
-    "start_char": 2602,
-    "end_char": 2628
+    "start_char": 2603,
+    "end_char": 2629
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2767-2795",
+    "id": "urn:lex-mx:federal:statute:lic-calidad:article:155:term-usage:2768-2796",
     "provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:155",
     "term_id": "urn:lex-mx:federal:statute:lic-calidad:term:evaluacion-de-la-conformidad",
     "span": "Evaluación de la Conformidad",
-    "start_char": 2767,
-    "end_char": 2795
+    "start_char": 2768,
+    "end_char": 2796
   },
   {
     "schema_version": "0.1.0",

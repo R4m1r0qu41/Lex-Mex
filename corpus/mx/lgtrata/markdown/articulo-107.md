@@ -33,7 +33,9 @@ VI. Realizarán campañas para el registro de todas las niñas y niños que nazc
 
 [La Secretaría](articulo-4o.md) de Educación Pública, a través de las escuelas, facilitará el registro de las niñas y los niños que intenten ser inscritos y no cuenten con acta de nacimiento;
 
-VII. Otorgarán estímulos a las asociaciones civiles que se dediquen a la prevención de este delito y a la atención, protección y asistencia a las víctimas y sus familias; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS VIII. Promoverán la participación de la sociedad en la prevención de este delito y en la atención, protección y asistencia a las víctimas y sus familias, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Capítulo;
+VII. Otorgarán estímulos a las asociaciones civiles que se dediquen a la prevención de este delito y a la atención, protección y asistencia a las víctimas y sus familias;
+
+VIII. Promoverán la participación de la sociedad en la prevención de este delito y en la atención, protección y asistencia a las víctimas y sus familias, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este Capítulo;
 
 IX. Concederán reconocimientos y distinciones a quienes contribuyan a la consecución de los propósitos mencionados en el [artículo anterior](articulo-106.md), y
 

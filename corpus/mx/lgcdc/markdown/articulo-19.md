@@ -23,7 +23,9 @@ I. Establecer y conducir la política nacional en materia de cultura, en los té
 
 II. Coordinar los programas de cultura de las dependencias y entidades de la Administración Pública Federal;
 
-III. Coordinar la programación de las actividades del sector cultura, con sujeción a las leyes que regulen a las entidades participantes; IV. Impulsar las actividades científicas y tecnológicas en el campo de la cultura; así como promover su uso y aprovechamiento en los servicios culturales;
+III. Coordinar la programación de las actividades del sector cultura, con sujeción a las leyes que regulen a las entidades participantes;
+
+IV. Impulsar las actividades científicas y tecnológicas en el campo de la cultura; así como promover su uso y aprovechamiento en los servicios culturales;
 
 V. Promover el establecimiento de un Sistema Nacional de Información en materia de Cultura;
 

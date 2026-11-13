@@ -21,7 +21,9 @@ El [Gasto total](articulo-2.md) propuesto por el Ejecutivo de la [Entidad Federa
 
 Las Entidades Federativas deberán generar Balances presupuestarios sostenibles. Se cumple con esta premisa, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. Igualmente, el [Balance presupuestario de recursos disponibles](articulo-2.md) es sostenible, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El [Financiamiento Neto](articulo-2.md) que, en su caso se contrate por parte de la Entidad Federativa y se utilice para el cálculo del Balance presupuestario de recursos disponibles sostenible, deberá estar dentro del [Techo de Financiamiento Neto](articulo-2.md) que resulte de la aplicación del [Sistema de Alertas](articulo-2.md), de acuerdo con el artículo [46](articulo-46.md) de esta Ley.
 
-Debido a razones excepcionales, las iniciativas de [Ley de Ingresos](articulo-2.md) y de Presupuesto de Egresos podrán prever un Balance presupuestario de recursos disponibles negativo. En estos casos, el Ejecutivo de la Entidad Federativa, deberá dar cuenta a la Legislatura local de los siguientes aspectos: I. Las razones excepcionales que justifican el Balance presupuestario de recursos disponibles negativo, conforme a lo dispuesto en el siguiente artículo;
+Debido a razones excepcionales, las iniciativas de [Ley de Ingresos](articulo-2.md) y de Presupuesto de Egresos podrán prever un Balance presupuestario de recursos disponibles negativo. En estos casos, el Ejecutivo de la Entidad Federativa, deberá dar cuenta a la Legislatura local de los siguientes aspectos:
+
+I. Las razones excepcionales que justifican el Balance presupuestario de recursos disponibles negativo, conforme a lo dispuesto en el siguiente artículo;
 
 II. Las fuentes de recursos necesarias y el monto específico para cubrir el Balance presupuestario de recursos disponibles negativo, y
 

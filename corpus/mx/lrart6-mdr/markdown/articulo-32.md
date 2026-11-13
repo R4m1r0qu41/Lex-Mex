@@ -21,7 +21,9 @@ En el escrito en que el sujeto obligado demandado formule su contestación deber
 
 I. Nombre del medio de comunicación, agencia de noticias, productor independiente o cualquier otro emisor de información y, en su caso, de su representante legal;
 
-II. Domicilio para oír y recibir notificaciones; III. Contestación a cada uno de los hechos que consigne la solicitud;
+II. Domicilio para oír y recibir notificaciones;
+
+III. Contestación a cada uno de los hechos que consigne la solicitud;
 
 IV. Excepciones y defensas;
 

@@ -23,7 +23,9 @@ I. La aeronave reúne las condiciones de aeronavegabilidad;
 
 I. Bis. La aeronave cuente con certificado de matrícula y certificado de aeronavegabilidad vigentes o, en su caso, el documento que acredite la asignación de marcas de nacionalidad y matrícula; Fracción adicionada DOF 21-01-2022
 
-II. La aeronave cuente con la liberación del área de mantenimiento; III. Los instrumentos y equipos necesarios para la operación que vaya a efectuarse estén instalados y sean suficientes para realizar el vuelo correspondiente, de acuerdo con la lista de equipo mínimo;
+II. La aeronave cuente con la liberación del área de mantenimiento;
+
+III. Los instrumentos y equipos necesarios para la operación que vaya a efectuarse estén instalados y sean suficientes para realizar el vuelo correspondiente, de acuerdo con la lista de equipo mínimo;
 
 IV. El peso de la aeronave y el lugar del centro de gravedad permitan realizar el vuelo con seguridad, teniendo en cuenta las condiciones de vuelo previstas; Fracción reformada DOF 21-01-2022
 

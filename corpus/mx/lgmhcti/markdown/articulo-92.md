@@ -21,7 +21,9 @@ Los [Centros Públicos](articulo-4.md) deben contar con los siguientes órganos 
 
 I. Órgano de Gobierno;
 
-II. Dirección General o equivalente; III. Consejo Consultivo Interno o equivalente, con un Comité Académico y un Comité Técnico;
+II. Dirección General o equivalente;
+
+III. Consejo Consultivo Interno o equivalente, con un Comité Académico y un Comité Técnico;
 
 IV. [Asamblea del Personal](articulo-4.md) de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación;
 

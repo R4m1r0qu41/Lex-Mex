@@ -19,6 +19,15 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:2:term-usage:294-321",
+    "provision_id": "urn:lex-mx:federal:statute:lfmped:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
+    "span": "Fondo Mexicano del Petróleo",
+    "start_char": 294,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfmped:article:3:term-usage:118-145",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:3",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
@@ -217,129 +226,147 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:177-183",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:178-184",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 177,
-    "end_char": 183
+    "start_char": 178,
+    "end_char": 184
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:578-584",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:579-585",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 578,
-    "end_char": 584
+    "start_char": 579,
+    "end_char": 585
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:1295-1301",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:899-916",
+    "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfmped:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 899,
+    "end_char": 916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:1296-1302",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 1295,
-    "end_char": 1301
+    "start_char": 1296,
+    "end_char": 1302
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:1463-1469",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:1464-1470",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 1463,
-    "end_char": 1469
+    "start_char": 1464,
+    "end_char": 1470
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:1753-1780",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:1754-1781",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 1753,
-    "end_char": 1780
+    "start_char": 1754,
+    "end_char": 1781
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:2852-2879",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:2853-2880",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 2852,
-    "end_char": 2879
+    "start_char": 2853,
+    "end_char": 2880
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:4239-4245",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:2965-2982",
+    "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfmped:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 2965,
+    "end_char": 2982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:4240-4246",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 4239,
-    "end_char": 4245
+    "start_char": 4240,
+    "end_char": 4246
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:4471-4477",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:4472-4478",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 4471,
-    "end_char": 4477
+    "start_char": 4472,
+    "end_char": 4478
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:4652-4658",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:4653-4659",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 4652,
-    "end_char": 4658
+    "start_char": 4653,
+    "end_char": 4659
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:5129-5135",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:5130-5136",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 5129,
-    "end_char": 5135
+    "start_char": 5130,
+    "end_char": 5136
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:5227-5233",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:5228-5234",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 5227,
-    "end_char": 5233
+    "start_char": 5228,
+    "end_char": 5234
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:5725-5752",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:5726-5753",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 5725,
-    "end_char": 5752
+    "start_char": 5726,
+    "end_char": 5753
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:5798-5804",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:5799-5805",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 5798,
-    "end_char": 5804
+    "start_char": 5799,
+    "end_char": 5805
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:6547-6574",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:8:term-usage:6549-6576",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:8",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 6547,
-    "end_char": 6574
+    "start_char": 6549,
+    "end_char": 6576
   },
   {
     "schema_version": "0.1.0",
@@ -487,12 +514,57 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:16:term-usage:2109-2126",
+    "provision_id": "urn:lex-mx:federal:statute:lfmped:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfmped:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 2109,
+    "end_char": 2126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:16:term-usage:2271-2288",
+    "provision_id": "urn:lex-mx:federal:statute:lfmped:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfmped:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 2271,
+    "end_char": 2288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:16:term-usage:2682-2699",
+    "provision_id": "urn:lex-mx:federal:statute:lfmped:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfmped:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 2682,
+    "end_char": 2699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:17:term-usage:66-83",
+    "provision_id": "urn:lex-mx:federal:statute:lfmped:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfmped:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 66,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfmped:article:17:term-usage:543-549",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:17",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
     "start_char": 543,
     "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:17:term-usage:933-950",
+    "provision_id": "urn:lex-mx:federal:statute:lfmped:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfmped:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 933,
+    "end_char": 950
   },
   {
     "schema_version": "0.1.0",
@@ -532,30 +604,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:19:term-usage:593-620",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:19:term-usage:594-621",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:19",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 593,
-    "end_char": 620
+    "start_char": 594,
+    "end_char": 621
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:19:term-usage:1008-1035",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:19:term-usage:1009-1036",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:19",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 1008,
-    "end_char": 1035
+    "start_char": 1009,
+    "end_char": 1036
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:19:term-usage:1118-1145",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:19:term-usage:1119-1146",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:19",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 1118,
-    "end_char": 1145
+    "start_char": 1119,
+    "end_char": 1146
   },
   {
     "schema_version": "0.1.0",
@@ -730,84 +802,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:868-874",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:869-875",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:25",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 868,
-    "end_char": 874
+    "start_char": 869,
+    "end_char": 875
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:1128-1155",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:1129-1156",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:25",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 1128,
-    "end_char": 1155
+    "start_char": 1129,
+    "end_char": 1156
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:1542-1548",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:1543-1549",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:25",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 1542,
-    "end_char": 1548
+    "start_char": 1543,
+    "end_char": 1549
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:1553-1580",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:1554-1581",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:25",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 1553,
-    "end_char": 1580
+    "start_char": 1554,
+    "end_char": 1581
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:1686-1692",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:1687-1693",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:25",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 1686,
-    "end_char": 1692
+    "start_char": 1687,
+    "end_char": 1693
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:2146-2173",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:2147-2174",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:25",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 2146,
-    "end_char": 2173
+    "start_char": 2147,
+    "end_char": 2174
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:2327-2333",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:2328-2334",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:25",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 2327,
-    "end_char": 2333
+    "start_char": 2328,
+    "end_char": 2334
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:2346-2373",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:2347-2374",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:25",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 2346,
-    "end_char": 2373
+    "start_char": 2347,
+    "end_char": 2374
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:2579-2585",
+    "id": "urn:lex-mx:federal:statute:lfmped:article:25:term-usage:2580-2586",
     "provision_id": "urn:lex-mx:federal:statute:lfmped:article:25",
     "term_id": "urn:lex-mx:federal:statute:lfmped:term:comite",
     "span": "Comité",
-    "start_char": 2579,
-    "end_char": 2585
+    "start_char": 2580,
+    "end_char": 2586
   },
   {
     "schema_version": "0.1.0",
@@ -826,6 +898,15 @@
     "span": "Fondo Mexicano del Petróleo",
     "start_char": 390,
     "end_char": 417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfmped:transitory:segundo:term-usage:482-499",
+    "provision_id": "urn:lex-mx:federal:statute:lfmped:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lfmped:term:reserva-del-fondo",
+    "span": "Reserva del Fondo",
+    "start_char": 482,
+    "end_char": 499
   },
   {
     "schema_version": "0.1.0",

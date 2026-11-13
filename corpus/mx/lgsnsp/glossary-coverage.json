@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgsnsp:article:4",
-      "provision_text_sha256": "6d1c48971b1f7afb6e2829871098a79637dea40f272e40eb34872fe44960e5e9",
+      "provision_text_sha256": "95609fce2b205d18ebaac19abaf8f5172e674194c7da50dd44002b6311177664",
       "method": "wider_pass",
       "fractions": [
         "I",
@@ -31,5 +31,5 @@
   ],
   "imports": [],
   "term_count": 13,
-  "usage_count": 600
+  "usage_count": 579
 }

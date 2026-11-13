@@ -23,7 +23,9 @@ I. Respetando el derecho de toda persona a no ser revictimizada;
 
 II. De manera colegiada y/o individual y privada, salvo por el caso previsto en el artículo [275](../../cnpp/markdown/articulo-275.md) del Código Nacional de Procedimientos Penales;
 
-III. Cuando la [Víctima](articulo-5.md) sea una niña, niño o adolescente en todo caso será acompañado de sus padres o quien ejerza la patria potestad, tutela, guarda o custodia, o esté a cargo de la representación en suplencia, salvo disposición judicial en contrario, en términos de las disposiciones jurídicas aplicables; y siempre respetando el derecho a la intimidad y el interés superior de la niñez; IV. Sobre los hechos específicos relacionados con los actos de tortura, evitando interrogatorios innecesarios sobre la personalidad de la probable Víctima o cualquier otro que afecte la intimidad, la condición de salud física y mental, o estigmatice, discrimine o propicien la revictimización;
+III. Cuando la [Víctima](articulo-5.md) sea una niña, niño o adolescente en todo caso será acompañado de sus padres o quien ejerza la patria potestad, tutela, guarda o custodia, o esté a cargo de la representación en suplencia, salvo disposición judicial en contrario, en términos de las disposiciones jurídicas aplicables; y siempre respetando el derecho a la intimidad y el interés superior de la niñez;
+
+IV. Sobre los hechos específicos relacionados con los actos de tortura, evitando interrogatorios innecesarios sobre la personalidad de la probable Víctima o cualquier otro que afecte la intimidad, la condición de salud física y mental, o estigmatice, discrimine o propicien la revictimización;
 
 V. En lugares seguros, salubres, que garanticen la privacidad de la Víctima evitando replicar el sitio donde los actos de tortura fueron cometidos. En el caso de que se realice en algún lugar de privación de libertad, se garantizará su aplicación en las instalaciones del centro médico del mismo; y
 

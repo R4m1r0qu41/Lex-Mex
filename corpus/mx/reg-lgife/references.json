@@ -56,11 +56,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:reference:3156-3158:51:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:2:reference:3157-3159:51:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:2",
     "source_span": "51",
-    "start_char": 3156,
-    "end_char": 3158,
+    "start_char": 3157,
+    "end_char": 3159,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:51",
     "qualifiers": [],
@@ -136,11 +136,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:reference:1950-1952:39:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:reference:1951-1953:39:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
     "source_span": "39",
-    "start_char": 1950,
-    "end_char": 1952,
+    "start_char": 1951,
+    "end_char": 1953,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:39",
     "qualifiers": [],
@@ -152,11 +152,34 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:reference:3181-3183:38:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:reference:2167-2170:36:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "source_span": "III",
+    "start_char": 2167,
+    "end_char": 2170,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 2167,
+        "end_char": 2170
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:36:reference:3182-3184:38:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:36",
     "source_span": "38",
-    "start_char": 3181,
-    "end_char": 3183,
+    "start_char": 3182,
+    "end_char": 3184,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:38",
     "qualifiers": [],
@@ -214,19 +237,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:37:reference:1158-1160:35:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgife:article:37:reference:1159-1161:35:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:37",
     "source_span": "35",
-    "start_char": 1158,
-    "end_char": 1160,
+    "start_char": 1159,
+    "end_char": 1161,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgife",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgife:article:35",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VI",
-        "start_char": 1133,
-        "end_char": 1144
+        "start_char": 1134,
+        "end_char": 1145
       }
     ],
     "basis": "express_cross_reference",

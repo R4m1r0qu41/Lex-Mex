@@ -25,7 +25,9 @@ II.- Las acciones a realizar a corto, mediano y largo plazo, estableciendo su vi
 
 III.- La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentadas en la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su protección y aprovechamiento sustentable;
 
-IV.- Los objetivos específicos del área natural protegida; V.- La referencia a las normas oficiales mexicanas aplicables a todas y cada una de las actividades a que esté sujeta el área;
+IV.- Los objetivos específicos del área natural protegida;
+
+V.- La referencia a las normas oficiales mexicanas aplicables a todas y cada una de las actividades a que esté sujeta el área;
 
 VI.- Los inventarios biológicos existentes y los que se prevea realizar, y
 

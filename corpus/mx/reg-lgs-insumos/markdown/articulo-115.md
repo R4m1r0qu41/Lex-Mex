@@ -17,7 +17,9 @@ source_sha256: e56e8f67f42d7c34c2ed95938cb5f27011f44ab6cf97b653c7dc846e29512fd6
 
 # Artículo 115
 
-Las fórmulas magistrales que no sean ni contengan psicotrópicos ni estupefacientes, cuya preparación se efectúe en las droguerías, deberán registrarse en libreta foliada o en sistemas automatizados electrónicos, anotando los siguientes datos: I. La fecha, indicando día, mes y año;
+Las fórmulas magistrales que no sean ni contengan psicotrópicos ni estupefacientes, cuya preparación se efectúe en las droguerías, deberán registrarse en libreta foliada o en sistemas automatizados electrónicos, anotando los siguientes datos:
+
+I. La fecha, indicando día, mes y año;
 
 II. El nombre del preparado;
 

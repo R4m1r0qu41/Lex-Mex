@@ -37,7 +37,9 @@ VIII. Formular los proyectos de adecuación y mejoras al régimen de estímulos 
 
 IX. Realizar propuestas de instituciones similares nacionales e internacionales, con las que sea posible el intercambio de información tendiente a optimizar las atribuciones de la Unidad de Asuntos Internos;
 
-X. Elaborar estudios en materia de Investigación, supervisión y vigilancia; XI. Informar al titular de la Unidad de Asuntos Internos respecto de los hechos en que se desprendan presuntas infracciones a la [Ley](articulo-2.md) Federal de Responsabilidades Administrativas de los Servidores Públicos;
+X. Elaborar estudios en materia de Investigación, supervisión y vigilancia;
+
+XI. Informar al titular de la Unidad de Asuntos Internos respecto de los hechos en que se desprendan presuntas infracciones a la [Ley](articulo-2.md) Federal de Responsabilidades Administrativas de los Servidores Públicos;
 
 XII. Asentar constancia por escrito de todas sus actuaciones;
 

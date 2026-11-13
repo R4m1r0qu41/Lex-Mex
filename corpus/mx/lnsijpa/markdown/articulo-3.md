@@ -33,7 +33,9 @@ VI. Convención: Convención sobre los Derechos del Niño;
 
 VII. Defensa: La o el defensor público o la o el defensor particular especializado en el [Sistema](articulo-3.md) Integral de Justicia Penal para Adolescentes en los términos de esta Ley;
 
-VIII. Facilitador: Profesional certificado y especializado en adolescentes, cuya función es facilitar la participación de los intervinientes en los mecanismos alternativos y justicia restaurativa; IX. Grupo etario I: Grupo de personas adolescentes que por su edad se encuentren comprendidas en el rango de edad de doce años cumplidos a menos de catorce años;
+VIII. Facilitador: Profesional certificado y especializado en adolescentes, cuya función es facilitar la participación de los intervinientes en los mecanismos alternativos y justicia restaurativa;
+
+IX. Grupo etario I: Grupo de personas adolescentes que por su edad se encuentren comprendidas en el rango de edad de doce años cumplidos a menos de catorce años;
 
 X. Grupo etario II: Grupo de personas adolescentes que por su edad se encuentren comprendidas en el rango de edad de catorce años cumplidos a menos de dieciséis años;
 

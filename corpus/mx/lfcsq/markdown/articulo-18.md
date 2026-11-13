@@ -17,7 +17,7 @@ source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 
 # Artículo 18
 
-Los sujetos obligados que realicen alguna de las Actividades Reguladas a que se refiere el artículo [2](articulo-2.md), fracción I, inciso a), de la presente Ley, deberán solicitar su inscripción en el [Registro](articulo-2.md). Para tal efecto, proporcionarán a la [Secretaría](articulo-2.md) los documentos y datos siguientes:
+Los sujetos obligados que realicen alguna de las [Actividades Reguladas](articulo-2.md) a que se refiere el artículo [2](articulo-2.md), fracción I, inciso a), de la presente Ley, deberán solicitar su inscripción en el [Registro](articulo-2.md). Para tal efecto, proporcionarán a la [Secretaría](articulo-2.md) los documentos y datos siguientes:
 
 I. Copia certificada del acta constitutiva protocolizada en que obre su denominación o razón social, debidamente inscrita en el registro público correspondiente, nombre de sus miembros o accionistas, de su representante legal, así como su domicilio social o, en el caso de personas físicas, el formato de inscripción al Registro Federal de Contribuyentes;
 

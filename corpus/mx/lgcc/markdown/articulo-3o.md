@@ -31,7 +31,9 @@ IV. Cambio climático: Variación del clima atribuido directa o indirectamente a
 
 V. Comisión: Comisión Intersecretarial de Cambio Climático. Fracción recorrida DOF 13-07-2018
 
-VI. Compuestos de efecto invernadero: Gases de efecto invernadero, sus precursores y partículas que absorben y emiten radiación infrarroja en la atmósfera; Fracción recorrida DOF 13-07-2018 VII. Comunicación Nacional: Informe nacional elaborado periódicamente en cumplimiento de los compromisos establecidos por la Convención Marco de las Naciones Unidas sobre el Cambio Climático. Fracción recorrida DOF 13-07-2018
+VI. Compuestos de efecto invernadero: Gases de efecto invernadero, sus precursores y partículas que absorben y emiten radiación infrarroja en la atmósfera; Fracción recorrida DOF 13-07-2018
+
+VII. Comunicación Nacional: Informe nacional elaborado periódicamente en cumplimiento de los compromisos establecidos por la Convención Marco de las Naciones Unidas sobre el Cambio Climático. Fracción recorrida DOF 13-07-2018
 
 VIII. Consejo: Consejo de Cambio Climático. Fracción recorrida DOF 13-07-2018
 
@@ -55,7 +57,9 @@ XVII. Emisiones de línea base: Estimación de las emisiones, absorción o captu
 
 XVIII. Escenario de línea base: Descripción hipotética de lo que podría ocurrir con las variables que determinan las emisiones, absorciones o capturas de gases y compuestos de efecto invernadero. Fracción recorrida DOF 13-07-2018
 
-XIX. Estrategia Nacional: Estrategia Nacional de Cambio Climático. Fracción recorrida DOF 13-07-2018 XX. Fomento de capacidad: Proceso de desarrollo de técnicas y capacidades institucionales, para que puedan participar en todos los aspectos de la adaptación, mitigación e investigación sobre el cambio climático. Fracción recorrida DOF 13-07-2018
+XIX. Estrategia Nacional: Estrategia Nacional de Cambio Climático. Fracción recorrida DOF 13-07-2018
+
+XX. Fomento de capacidad: Proceso de desarrollo de técnicas y capacidades institucionales, para que puedan participar en todos los aspectos de la adaptación, mitigación e investigación sobre el cambio climático. Fracción recorrida DOF 13-07-2018
 
 XXI. Se deroga. Fracción recorrida DOF 13-07-2018. Derogada DOF 06-11-2020
 
@@ -81,7 +85,9 @@ XXXI. Política Nacional de Adaptación: Proceso de identificación de necesidad
 
 XXXII. Protocolo de Kioto: Protocolo de Kioto de la Convención Marco de las Naciones Unidas sobre el Cambio Climático. Fracción recorrida DOF 13-07-2018
 
-XXXIII. Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos. Fracción recorrida DOF 13-07-2018 XXXIV. Registro: Registro Nacional de Emisiones. Fracción recorrida DOF 13-07-2018
+XXXIII. Reducciones certificadas de emisiones: Reducciones de emisiones expresadas en toneladas de bióxido de carbono equivalentes y logradas por actividades o proyectos, que fueron certificadas por alguna entidad autorizada para dichos efectos. Fracción recorrida DOF 13-07-2018
+
+XXXIV. Registro: Registro Nacional de Emisiones. Fracción recorrida DOF 13-07-2018
 
 XXXV. Resiliencia: Capacidad de los sistemas naturales o sociales para recuperarse o soportar los efectos derivados del cambio climático. Fracción recorrida DOF 13-07-2018
 

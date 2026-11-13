@@ -27,7 +27,9 @@ III. Grado, arma, rama, servicio o cuerpo;
 
 IV. Matrícula;
 
-V. Antigüedad; VI. Corporaciones y dependencias en que ha servido;
+V. Antigüedad;
+
+VI. Corporaciones y dependencias en que ha servido;
 
 VII. Tiempo de servicios efectivos, abonos y deducciones; Fracción reformada DOF 08-05-2006
 

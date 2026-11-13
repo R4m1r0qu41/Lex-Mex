@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
-      "provision_text_sha256": "31de31961596c8451d146f556db139f2c23640d372a5aba7904f6c9a4c79250c",
+      "provision_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -26,6 +26,7 @@
         "XII",
         "XII Bis",
         "XIII",
+        "XIV",
         "XV",
         "XVI",
         "XVII",
@@ -38,10 +39,10 @@
         "XXIV"
       ],
       "unread_fractions": [],
-      "term_count": 25
+      "term_count": 26
     }
   ],
   "imports": [],
-  "term_count": 25,
+  "term_count": 26,
   "usage_count": 939
 }

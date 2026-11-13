@@ -33,7 +33,9 @@ VI. Representar legalmente al Instituto y a sus unidades administrativas ante cu
 
 VII. Realizar las funciones de Unidad de Transparencia del Instituto, en términos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones jurídicas aplicables;
 
-VIII. Tramitar el procedimiento para la emisión de declaratorias de monumentos y de zona de monumentos arqueológicos, históricos y [Bienes de Interés Paleontológico](articulo-2.md); IX. Elaborar, previa consulta con las coordinaciones nacionales, la opinión de iniciativas de leyes y decretos, de proyectos de tratados y de convenios internacionales, así como de reglamentos y decretos, y de [Normativa Interna](articulo-2.md);
+VIII. Tramitar el procedimiento para la emisión de declaratorias de monumentos y de zona de monumentos arqueológicos, históricos y [Bienes de Interés Paleontológico](articulo-2.md);
+
+IX. Elaborar, previa consulta con las coordinaciones nacionales, la opinión de iniciativas de leyes y decretos, de proyectos de tratados y de convenios internacionales, así como de reglamentos y decretos, y de [Normativa Interna](articulo-2.md);
 
 X. Compilar y difundir las leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas que se relacionen con las atribuciones del Instituto;
 

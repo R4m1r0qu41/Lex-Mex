@@ -39,7 +39,9 @@ VII. Si reiteradamente, a pesar de las observaciones de la Comisión, la Socieda
 
 VIII. Cuando por causas imputables a la Sociedad Cooperativa de Ahorro y Préstamo, no aparezcan debida y oportunamente registradas en su contabilidad las operaciones que haya efectuado.
 
-IX. Si la Sociedad Cooperativa de Ahorro y Préstamo no cumple cualesquiera de las medidas correctivas mínimas; no cumple con más de una medida correctiva especial adicional, o bien incumple de manera reiterada una medida correctiva especial adicional. Lo anterior en los términos, plazos y condiciones que haya determinado la Comisión mediante disposiciones de carácter general a que se refiere el Artículo [76](articulo-76.md) de esta Ley. X. Si la Sociedad Cooperativa de Ahorro y Préstamo se niega reiteradamente a proporcionar información, o bien, de manera dolosa, presenta información falsa, imprecisa o incompleta al Comité de Supervisión Auxiliar, al [Comité de Protección al Ahorro Cooperativo](articulo-2.md), o a la Comisión.
+IX. Si la Sociedad Cooperativa de Ahorro y Préstamo no cumple cualesquiera de las medidas correctivas mínimas; no cumple con más de una medida correctiva especial adicional, o bien incumple de manera reiterada una medida correctiva especial adicional. Lo anterior en los términos, plazos y condiciones que haya determinado la Comisión mediante disposiciones de carácter general a que se refiere el Artículo [76](articulo-76.md) de esta Ley.
+
+X. Si la Sociedad Cooperativa de Ahorro y Préstamo se niega reiteradamente a proporcionar información, o bien, de manera dolosa, presenta información falsa, imprecisa o incompleta al Comité de Supervisión Auxiliar, al [Comité de Protección al Ahorro Cooperativo](articulo-2.md), o a la Comisión.
 
 XI. Si la Sociedad Cooperativa de Ahorro y Préstamo obra sin autorización de la Comisión, en los casos en que la Ley así lo exija.
 

@@ -21,4 +21,6 @@ Además de lo establecido en el [artículo anterior](articulo-48.md), se requier
 
 I. Relación de especies y variedades vegetales que sean objeto de su mantenimiento, en caso de variedades protegidas conforme lo establece la Ley Federal de Variedades Vegetales, presentar autorización por escrito del titular de las variedades para el uso de las mismas;
 
-II. Descripción de las técnicas a utilizar en la conservación de la identificación varietal, y III. Indicar si dentro de sus objetivos está realizar la caracterización varietal, y en su caso, señalar las especies vegetales que serán sujetas a este proceso.
+II. Descripción de las técnicas a utilizar en la conservación de la identificación varietal, y
+
+III. Indicar si dentro de sus objetivos está realizar la caracterización varietal, y en su caso, señalar las especies vegetales que serán sujetas a este proceso.

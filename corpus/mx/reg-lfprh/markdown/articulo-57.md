@@ -27,7 +27,9 @@ III. Las asignaciones para entidades federativas y municipios, consistentes en p
 
 IV. Obligaciones contractuales plurianuales cuya suspensión implique costos adicionales, incluyendo las correspondientes a la inversión pública;
 
-V. Pago de la deuda pública y los adeudos del ejercicio fiscal anterior; VI. Gasto corriente aprobado para el año anterior hasta por el equivalente a un 20 por ciento con base mensual;
+V. Pago de la deuda pública y los adeudos del ejercicio fiscal anterior;
+
+VI. Gasto corriente aprobado para el año anterior hasta por el equivalente a un 20 por ciento con base mensual;
 
 VII. Erogaciones para cubrir indemnizaciones y obligaciones que se deriven de resoluciones definitivas emitidas por autoridad competente hasta por el monto que corresponda ejercer en dicho año, que se determine conforme al artículo [47](../../lfprh/markdown/articulo-47.md) de la Ley;
 

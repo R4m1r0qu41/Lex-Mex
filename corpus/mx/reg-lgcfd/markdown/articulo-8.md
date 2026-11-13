@@ -7,8 +7,8 @@ provision_type: article
 number: "8"
 aliases: ["REG-LGCFD — Artículo 8"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -21,7 +21,9 @@ El Pleno del SINADE es la máxima autoridad e instancia colegiada de dicho siste
 
 I. Las dependencias y entidades de los Estados y del Distrito Federal, encargadas de la Cultura Física y el Deporte;
 
-II. Las asociaciones deportivas nacionales; III. Las asociaciones y sociedades deportivas que no estén afiliadas a una asociación deportiva nacional, que se encuentren debidamente reconocidas y registradas conforme a la Ley y el presente Reglamento y que cuenten con una invitación aprobada por el Pleno;
+II. Las asociaciones deportivas nacionales;
+
+III. Las asociaciones y sociedades deportivas que no estén afiliadas a una asociación deportiva nacional, que se encuentren debidamente reconocidas y registradas conforme a la Ley y el presente Reglamento y que cuenten con una invitación aprobada por el Pleno;
 
 IV. La CONADE;
 

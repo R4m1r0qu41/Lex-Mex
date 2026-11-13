@@ -7,8 +7,8 @@ provision_type: article
 number: "46 Bis"
 aliases: ["LGAMVLV — Artículo 46 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -31,7 +31,9 @@ V. Orientar a las víctimas de violencia laboral sobre las instituciones que pre
 
 VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
-VII. Celebrar convenios de cooperación, coordinación y concertación en la materia; VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del [Programa](articulo-5.md), y
+VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del [Programa](articulo-5.md), y
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
 

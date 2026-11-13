@@ -23,7 +23,9 @@ I. Aplicar la política y estrategias en materia de planeación y administració
 
 II. Proponer al titular de la Secretaría Administrativa los anteproyectos de modificación de la estructura orgánica y ocupacional del Instituto;
 
-III. Elaborar e instrumentar los procesos y programas para el reclutamiento, selección, contratación, nombramiento, capacitación, certificación de capacidades, desarrollo integral, evaluación del desempeño, separación, salario, remuneraciones, prestaciones y servicios del personal del Instituto sujeto al servicio profesional de carrera, así como del personal de apoyo, de confianza, y eventual, de conformidad con las disposiciones jurídicas aplicables; IV. Expedir el nombramiento del personal de base del Instituto, y participar en la capacitación, certificación de capacidades, desarrollo integral, evaluación del desempeño, separación, salario, remuneraciones, prestaciones y servicios, de conformidad con la normativa aplicable;
+III. Elaborar e instrumentar los procesos y programas para el reclutamiento, selección, contratación, nombramiento, capacitación, certificación de capacidades, desarrollo integral, evaluación del desempeño, separación, salario, remuneraciones, prestaciones y servicios del personal del Instituto sujeto al servicio profesional de carrera, así como del personal de apoyo, de confianza, y eventual, de conformidad con las disposiciones jurídicas aplicables;
+
+IV. Expedir el nombramiento del personal de base del Instituto, y participar en la capacitación, certificación de capacidades, desarrollo integral, evaluación del desempeño, separación, salario, remuneraciones, prestaciones y servicios, de conformidad con la normativa aplicable;
 
 V. Planear, programar y ejercer el presupuesto de servicios personales del Instituto, así como gestionar, ante las autoridades competentes, las adecuaciones y modificaciones presupuestarias correspondientes;
 

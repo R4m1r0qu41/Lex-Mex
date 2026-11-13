@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["LMIN — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf
 source_sha256: 22262b49007ce5a26efe0c942142721b710b0de7675459bf05bf8e99b60b7746
 ---
@@ -37,7 +37,9 @@ VIII.- Adquisición, arrendamiento y mantenimiento de equipos para perforación 
 
 IX.- Adquisición, arrendamiento y mantenimiento de equipos de laboratorio físico-químicos y de investigación metalúrgica;
 
-X.- Adquisición, arrendamiento y mantenimiento de vehículos de trabajo y para la transportación del personal; XI.- Obras y equipos destinados a la seguridad en el trabajo y a la prevención de la contaminación o la recuperación del medio ambiente;
+X.- Adquisición, arrendamiento y mantenimiento de vehículos de trabajo y para la transportación del personal;
+
+XI.- Obras y equipos destinados a la seguridad en el trabajo y a la prevención de la contaminación o la recuperación del medio ambiente;
 
 XII.- Instalaciones de almacenes, oficinas, talleres, campamentos, casas habitación y servicios a los trabajadores;
 

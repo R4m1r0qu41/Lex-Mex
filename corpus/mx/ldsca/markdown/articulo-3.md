@@ -27,7 +27,9 @@ III. Ciclo Azucarero: El periodo comprendido del 1 de octubre de un año al 30 d
 
 IV. Comisión Intersecretarial: La Comisión Intersecretarial de Desarrollo Rural Sustentable;
 
-V. Comité Nacional: El Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar; VI. Comité Regional: Cada uno de los Comités Regionales para el Desarrollo Sustentable de la Caña de Azúcar;
+V. Comité Nacional: El Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar;
+
+VI. Comité Regional: Cada uno de los Comités Regionales para el Desarrollo Sustentable de la Caña de Azúcar;
 
 VII. Comité: Cada uno de los Comités de Producción y Calidad Cañera de cada [Ingenio](articulo-3.md);
 

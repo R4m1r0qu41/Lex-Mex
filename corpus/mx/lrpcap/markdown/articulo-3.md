@@ -17,6 +17,6 @@ source_sha256: cf241af670623476911e625178a081e9e05921b4b6cc73ae92b41a47da45487a
 
 # Artículo 3
 
-La presente Ley tiene por objeto regular el otorgamiento de asilo político, el reconocimiento de la condición de refugiado y el otorgamiento de protección complementaria, así como establecer las bases para la atención a los solicitantes y asistencia a los asilos y refugiados que se encuentran en territorio nacional, con la finalidad de garantizar el pleno respeto a sus derechos humanos y propiciar la interculturalidad.
+La presente [Ley](articulo-2.md) tiene por objeto regular el otorgamiento de asilo político, el reconocimiento de la condición de refugiado y el otorgamiento de protección complementaria, así como establecer las bases para la atención a los solicitantes y asistencia a los asilos y refugiados que se encuentran en territorio nacional, con la finalidad de garantizar el pleno respeto a sus derechos humanos y propiciar la interculturalidad.
 
 Artículo reformado DOF 30-10-2014, 18-02-2022

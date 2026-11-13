@@ -17,7 +17,9 @@ source_sha256: 199baa54ad422398c57a8c173ef25c3a75ed0d6532128d244fcd46246e6f4e08
 
 # Artículo 62
 
-Cuando una plaga o enfermedad tenga efectos nocivos a la sanidad animal y que no sea declarada como campaña oficial, la Secretaría en caso promoverá e inducirá programas para su control. Estos programas determinarán, entre otros aspectos: I. Las medidas zoosanitarias que deberán aplicarse;
+Cuando una plaga o enfermedad tenga efectos nocivos a la sanidad animal y que no sea declarada como campaña oficial, la Secretaría en caso promoverá e inducirá programas para su control. Estos programas determinarán, entre otros aspectos:
+
+I. Las medidas zoosanitarias que deberán aplicarse;
 
 II. Las zonas en control y coberturas poblacionales;
 

@@ -17,7 +17,9 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 # Artículo 31
 
-La educación normal y de formación docente tiene por objeto: I. Formar de manera integral profesionales de la educación básica y media superior, en los niveles de licenciatura, especialidad, maestría y doctorado, comprometidos con su comunidad y con responsabilidad social para contribuir a la construcción y desarrollo de una sociedad justa, inclusiva y democrática;
+La educación normal y de formación docente tiene por objeto:
+
+I. Formar de manera integral profesionales de la educación básica y media superior, en los niveles de licenciatura, especialidad, maestría y doctorado, comprometidos con su comunidad y con responsabilidad social para contribuir a la construcción y desarrollo de una sociedad justa, inclusiva y democrática;
 
 II. Contribuir al fortalecimiento y la mejora continua de la educación básica y media superior para lograr la inclusión, equidad y excelencia educativa, y
 

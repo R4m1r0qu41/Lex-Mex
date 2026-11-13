@@ -43,7 +43,9 @@ VI. Requerir a la persona adolescente proporcione muestras, sin previo aviso, pa
 
 VII. Proporcionar todos los servicios disponibles para la plena reinserción y reintegración familiar y social de las personas adolescentes, en coordinación con las autoridades corresponsables y coadyuvantes que se considere conveniente;
 
-VIII. Conservar actualizada una base de datos sobre las medidas y condiciones impuestas, su seguimiento y conclusión; IX. Solicitar a la persona adolescente la información que sea necesaria para verificar el cumplimiento de las medidas y condiciones impuestas;
+VIII. Conservar actualizada una base de datos sobre las medidas y condiciones impuestas, su seguimiento y conclusión;
+
+IX. Solicitar a la persona adolescente la información que sea necesaria para verificar el cumplimiento de las medidas y condiciones impuestas;
 
 X. Canalizar a la persona adolescente a servicios sociales de asistencia, públicos o privados, en materia de salud, educación, vivienda, apoyo jurídico y de adquisición de habilidades y destrezas para el desempeño de un oficio, arte, industria o profesión, cuando la modalidad de la medida cautelar, de la suspensión condicional del proceso, o la medida de sanción impuesta así lo requiera;
 

@@ -19,7 +19,9 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 La Secretaría, a través de disposiciones de buenas prácticas pecuarias y buenas prácticas de manufactura en Establecimientos TIF, determinará las características del Programa Nacional de Control y Monitoreo de Residuos Tóxicos en los bienes de origen animal, así como el Programa de Monitoreo de Residuos Tóxicos en animales, además de los programas de reducción de riesgos de contaminantes o riesgos zoosanitarios por microorganismos patógenos y sustancias prohibidas o no autorizadas, mismos que se ajustarán al Sistema de Trazabilidad a que se refiere el [artículo siguiente](articulo-25.md).
 
-Estos programas deberán contener las siguientes acciones: I. Establecer y verificar los límites máximos permisibles de cada sustancia considerada como residuo tóxico en los animales y bienes de origen animal;
+Estos programas deberán contener las siguientes acciones:
+
+I. Establecer y verificar los límites máximos permisibles de cada sustancia considerada como residuo tóxico en los animales y bienes de origen animal;
 
 II. Determinar los procedimientos y frecuencia del monitoreo, verificación e inspección, pruebas y métodos analíticos que se utilizarán en los laboratorios para la detección de cada sustancia considerada residuo tóxico;
 

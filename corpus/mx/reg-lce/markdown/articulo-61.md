@@ -25,7 +25,9 @@ II. Si están legalmente reconocidas como asociadas en negocios;
 
 III. Si tienen una relación de patrón y trabajador;
 
-IV. Si una persona tiene directa o indirectamente la propiedad, el control o la posesión del cinco por ciento o más de las acciones, partes sociales, aportaciones o títulos en circulación y con derecho a voto en ambos; V. Si una de ellas controla directa o indirectamente a la otra;
+IV. Si una persona tiene directa o indirectamente la propiedad, el control o la posesión del cinco por ciento o más de las acciones, partes sociales, aportaciones o títulos en circulación y con derecho a voto en ambos;
+
+V. Si una de ellas controla directa o indirectamente a la otra;
 
 VI. Si ambas personas están controladas directa o indirectamente por una tercera persona;
 

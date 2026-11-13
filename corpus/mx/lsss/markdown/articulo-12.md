@@ -17,7 +17,9 @@ source_sha256: 4618876b444def89a7cb2464b71019e0119288ebe6695d90b6a82ae8289b937e
 
 # Artículo 12
 
-La calidad de socio se pierde por: I.- Separación voluntaria;
+La calidad de socio se pierde por:
+
+I.- Separación voluntaria;
 
 II.- Muerte;
 

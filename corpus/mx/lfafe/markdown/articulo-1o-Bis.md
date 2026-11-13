@@ -7,8 +7,8 @@ provision_type: article
 number: "1o Bis"
 aliases: ["LFAFE — Artículo 1o Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf
 source_sha256: 96092a4581d4e87910eb58939da4045879e4fe613b12f4413d7392bcc2c6e884
 ---
@@ -29,7 +29,9 @@ IV.- Arma o armas, al arma o armas de fuego;
 
 V.- Arma o armas de fuego, todo instrumento que cuente con cañón y que lance a través de éste un proyectil o bala por la acción de una deflagración de pólvora; por sus efectos similares a un arma de fuego, se incluyen en esta categoría las armas accionadas por algún tipo de gas inerte, aire comprimido o pistón que generen una energía cinética superior a los 140 Joules;
 
-VI.- Artificios, los iniciadores, detonadores, mechas de seguridad, cordones detonantes, pirotécnicos, y cualquier instrumento, máquina o ingenio con aplicación al uso de explosivos; VII.- Fuerza Armada Permanente, las instituciones a que hace referencia el artículo [89](../../cpeum/markdown/articulo-89.md) fracción VI de la Constitución Política de los Estados Unidos Mexicanos;
+VI.- Artificios, los iniciadores, detonadores, mechas de seguridad, cordones detonantes, pirotécnicos, y cualquier instrumento, máquina o ingenio con aplicación al uso de explosivos;
+
+VII.- Fuerza Armada Permanente, las instituciones a que hace referencia el artículo [89](../../cpeum/markdown/articulo-89.md) fracción VI de la Constitución Política de los Estados Unidos Mexicanos;
 
 VIII.- Funcionamiento semiautomático de un arma, la función que requiere que el tirador accione el disparador en cada disparo;
 

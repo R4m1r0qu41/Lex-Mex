@@ -49,7 +49,9 @@ VI. La Ley de Ingresos y el Presupuesto de Egresos de la Federación deberán pu
 
 Asimismo, el Ejecutivo Federal, por conducto de la Secretaría, deberá enviar a la Cámara de Diputados, a más tardar 20 días naturales después de publicado el Presupuesto de Egresos en el Diario Oficial de la Federación, todos los tomos y anexos del Presupuesto, con las modificaciones respectivas, que conformarán el Presupuesto aprobado;
 
-VII. La Cámara de Diputados, en el marco de las disposiciones de la presente Ley, podrá prever en el Presupuesto de Egresos los lineamientos de carácter general que sean necesarios a fin de asegurar que el gasto sea ejercido de acuerdo con los criterios establecidos en el párrafo segundo del artículo [1](articulo-1.md) de esta Ley; VIII. En el proceso de examen, discusión, modificación y aprobación de la Ley de Ingresos y del Presupuesto de Egresos, los legisladores observarán los siguientes principios:
+VII. La Cámara de Diputados, en el marco de las disposiciones de la presente Ley, podrá prever en el Presupuesto de Egresos los lineamientos de carácter general que sean necesarios a fin de asegurar que el gasto sea ejercido de acuerdo con los criterios establecidos en el párrafo segundo del artículo [1](articulo-1.md) de esta Ley;
+
+VIII. En el proceso de examen, discusión, modificación y aprobación de la Ley de Ingresos y del Presupuesto de Egresos, los legisladores observarán los siguientes principios:
 
 a) Las propuestas serán congruentes con la estimación del precio de la mezcla de petróleo mexicano para el ejercicio fiscal que se presupuesta, determinada conforme a lo dispuesto en el artículo [31](articulo-31.md) de esta Ley, así como observando los criterios generales de política económica;
 

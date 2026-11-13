@@ -29,7 +29,9 @@ IV. Manuales internos que contengan como mínimo lo siguiente:
 
 a) Descripción del proceso de calificación, en el cual deberá precisarse la escala, nomenclaturas e interpretación de la calificación.
 
-b) Políticas y medios de divulgación al público sobre los dictámenes, calificaciones y análisis emitidos, así como sus modificaciones. V. Proyecto de código de conducta que regirá la actuación de la propia sociedad, así como de los consejeros y demás directivos involucrados en el proceso de dictaminación de la calidad crediticia de los valores sobre los cuales presten sus servicios, que se ajuste a estándares internacionales.
+b) Políticas y medios de divulgación al público sobre los dictámenes, calificaciones y análisis emitidos, así como sus modificaciones.
+
+V. Proyecto de código de conducta que regirá la actuación de la propia sociedad, así como de los consejeros y demás directivos involucrados en el proceso de dictaminación de la calidad crediticia de los valores sobre los cuales presten sus servicios, que se ajuste a estándares internacionales.
 
 VI. La demás documentación e información que la [Comisión](articulo-2.md), en relación con las fracciones anteriores, requiera mediante disposiciones de carácter general, previo acuerdo de su Junta de Gobierno.
 

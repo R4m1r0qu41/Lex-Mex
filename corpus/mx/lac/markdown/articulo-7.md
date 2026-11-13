@@ -35,6 +35,8 @@ IV. Vigilar que el personal de las comandancias de aeropuerto de su región est�
 
 V. Vigilar la seguridad y eficiencia de las operaciones aeronáuticas;
 
-VI. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y VII. Las demás que expresamente les sean conferidas por su superior jerárquico y se encuentren fundadas en la legislación vigente aplicable a la materia.
+VI. Levantar actas administrativas por violaciones a lo previsto en esta Ley, sus reglamentos y normas oficiales mexicanas; actuar como auxiliar del ministerio público; cumplimentar las resoluciones judiciales y coordinar sus actividades con las demás autoridades que ejerzan funciones en los aeropuertos; y
+
+VII. Las demás que expresamente les sean conferidas por su superior jerárquico y se encuentren fundadas en la legislación vigente aplicable a la materia.
 
 Artículo reformado DOF 23-01-1998, 28-12-2001

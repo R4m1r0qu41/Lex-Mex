@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 26
 
-Las Cámaras de Comercio, Servicios y Turismo y las Cámaras de Industria podrán establecer en su circunscripción las delegaciones que consideren necesarias para el cumplimiento de su objeto.
+Las [Cámaras](articulo-2.md) de Comercio, Servicios y Turismo y las Cámaras de Industria podrán establecer en su circunscripción las delegaciones que consideren necesarias para el cumplimiento de su objeto.
 
 El Consejo Directivo de cada Cámara determinará la sede y circunscripción de sus delegaciones.
 

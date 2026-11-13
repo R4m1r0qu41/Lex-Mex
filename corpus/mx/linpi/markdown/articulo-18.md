@@ -21,7 +21,9 @@ El Instituto contará con un Consejo Nacional de Pueblos Indígenas, integrado p
 
 I. Representantes de los pueblos indígenas y afromexicano, de conformidad con las disposiciones legales aplicables derivadas del artículo [2](../../cpeum/markdown/articulo-2o.md)o. de la Constitución Política de los Estados Unidos Mexicanos. Para garantizar la participación de estos pueblos se atenderá a los criterios de autoadscripción acreditada, representatividad y reconocimiento comunitario, etnolingüísticos, distribución geográfica y demográfica. Asimismo, se promoverá la participación igualitaria de las mujeres indígenas;
 
-II. Representantes de instituciones académicas y de investigación nacionales, especialistas en materia indígena; III. Representantes de organizaciones indígenas que trabajen sobre derechos y desarrollo de los pueblos indígenas y afromexicano;
+II. Representantes de instituciones académicas y de investigación nacionales, especialistas en materia indígena;
+
+III. Representantes de organizaciones indígenas que trabajen sobre derechos y desarrollo de los pueblos indígenas y afromexicano;
 
 IV. Dos representantes de la población indígena migrante residente en el extranjero, particularmente en los Estados Unidos de América y Canadá;
 

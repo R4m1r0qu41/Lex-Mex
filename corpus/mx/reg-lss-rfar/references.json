@@ -14,12 +14,6 @@
         "text": "fracciones III y IV",
         "start_char": 230,
         "end_char": 249
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "tercer párrafo",
-        "start_char": 457,
-        "end_char": 471
       }
     ],
     "basis": "express_cross_reference",

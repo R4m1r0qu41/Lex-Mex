@@ -29,6 +29,8 @@ IV. La Beneficencia Pública;
 
 V. Instituciones Educativas;
 
-VI. El Estado o las Entidades Federativas, y VII. En su defecto, a quien, teniendo interés en la sucesión, señale la legislación sustantiva correspondiente.
+VI. El Estado o las Entidades Federativas, y
+
+VII. En su defecto, a quien, teniendo interés en la sucesión, señale la legislación sustantiva correspondiente.
 
 A dicho inventario concurrirá conjuntamente el albacea.

@@ -17,7 +17,9 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 # Artículo 67
 
-Los [Lineamientos](articulo-4.md) para el otorgamiento de [Permisos](articulo-4.md), deberán prever que los [Solicitantes](articulo-4.md) presenten, en los formatos que al efecto señale la propia [Autoridad Federal](articulo-4.md), lo siguiente: I. El comprobante de pago que, en su caso, deba realizarse por el estudio y trámite de la solicitud para el otorgamiento del Permiso, en los términos de las disposiciones jurídicas aplicables;
+Los [Lineamientos](articulo-4.md) para el otorgamiento de [Permisos](articulo-4.md), deberán prever que los [Solicitantes](articulo-4.md) presenten, en los formatos que al efecto señale la propia [Autoridad Federal](articulo-4.md), lo siguiente:
+
+I. El comprobante de pago que, en su caso, deba realizarse por el estudio y trámite de la solicitud para el otorgamiento del Permiso, en los términos de las disposiciones jurídicas aplicables;
 
 II. El instrumento en el que conste el acta constitutiva de la sociedad mercantil de que se trate y, en su caso, sus modificaciones, debidamente inscritas en el Registro Público de la Propiedad y Comercio, así como el poder notarial del representante legal de dicha sociedad;
 
@@ -75,7 +77,9 @@ IX. Las medidas para reducir o eliminar los efectos negativos del desplazamiento
 
 X. Un esquema de expansión de la Zona, en caso de ser necesario;
 
-XI. La autorización de impacto ambiental emitida en términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y las demás disposiciones jurídicas aplicables, en su caso; XII. Los estudios y evaluaciones que acrediten que las actividades, instalaciones, bienes, materiales y el tratamiento de residuos sólidos que se pretenden llevar a cabo en la Zona, cumplen con las disposiciones en materia del medio ambiente;
+XI. La autorización de impacto ambiental emitida en términos de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y las demás disposiciones jurídicas aplicables, en su caso;
+
+XII. Los estudios y evaluaciones que acrediten que las actividades, instalaciones, bienes, materiales y el tratamiento de residuos sólidos que se pretenden llevar a cabo en la Zona, cumplen con las disposiciones en materia del medio ambiente;
 
 XIII. El número aproximado de trabajadores que pretende contratar en la Zona, y
 

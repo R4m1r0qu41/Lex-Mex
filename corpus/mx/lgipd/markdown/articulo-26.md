@@ -29,6 +29,8 @@ IV. Difundir las actividades culturales;
 
 V. Impulsar el reconocimiento y el apoyo de su identidad cultural y lingüística específica, incluidas la [Lengua de Señas Mexicana](articulo-2.md) y la cultura de los sordos;
 
-VI. Establecer la capacitación de recursos humanos, el uso de materiales y tecnología con la finalidad de lograr su integración en las actividades culturales; VII. Fomentar la elaboración de materiales de lectura, inclusive en sistema Braille u otros formatos accesibles, y
+VI. Establecer la capacitación de recursos humanos, el uso de materiales y tecnología con la finalidad de lograr su integración en las actividades culturales;
+
+VII. Fomentar la elaboración de materiales de lectura, inclusive en sistema Braille u otros formatos accesibles, y
 
 VIII. Las demás que dispongan otros ordenamientos.

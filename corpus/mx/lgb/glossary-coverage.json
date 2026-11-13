@@ -8,9 +8,10 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgb:article:2",
-      "provision_text_sha256": "b30afeb6c65c2a3a39168169d32fa9b74500873f3c2a85574e10e14940fb9e38",
+      "provision_text_sha256": "34ec74c6d5ec49fbd68ef9566830bb48a3d3cf7d24a9c775099cb47c8fde091c",
       "method": "established_pass",
       "fractions": [
+        "I",
         "II",
         "III",
         "IV",
@@ -22,6 +23,7 @@
         "X",
         "XI",
         "XII",
+        "XIII",
         "XIV",
         "XV",
         "XVI",
@@ -34,13 +36,14 @@
         "XXIII",
         "XXIV",
         "XXV",
-        "XXVI"
+        "XXVI",
+        "XXVII"
       ],
       "unread_fractions": [],
-      "term_count": 24
+      "term_count": 27
     }
   ],
   "imports": [],
-  "term_count": 24,
-  "usage_count": 83
+  "term_count": 27,
+  "usage_count": 94
 }

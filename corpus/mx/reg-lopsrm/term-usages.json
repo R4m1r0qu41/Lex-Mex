@@ -28,39 +28,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2:term-usage:2495-2498",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2:term-usage:2496-2499",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 2495,
-    "end_char": 2498
+    "start_char": 2496,
+    "end_char": 2499
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2:term-usage:5298-5301",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2:term-usage:5299-5302",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 5298,
-    "end_char": 5301
+    "start_char": 5299,
+    "end_char": 5302
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2:term-usage:6715-6718",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2:term-usage:6716-6719",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 6715,
-    "end_char": 6718
+    "start_char": 6716,
+    "end_char": 6719
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2:term-usage:6915-6918",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2:term-usage:6916-6919",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 6915,
-    "end_char": 6918
+    "start_char": 6916,
+    "end_char": 6919
   },
   {
     "schema_version": "0.1.0",
@@ -244,48 +244,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:601-604",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:602-605",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 601,
-    "end_char": 604
+    "start_char": 602,
+    "end_char": 605
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:883-886",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:884-887",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 883,
-    "end_char": 886
+    "start_char": 884,
+    "end_char": 887
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:1355-1358",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:1356-1359",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 1355,
-    "end_char": 1358
+    "start_char": 1356,
+    "end_char": 1359
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:1590-1593",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:1591-1594",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 1590,
-    "end_char": 1593
+    "start_char": 1591,
+    "end_char": 1594
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:1883-1918",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11:term-usage:1884-1919",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:11",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:area-responsable-de-la-contratacion",
     "span": "Área responsable de la contratación",
-    "start_char": 1883,
-    "end_char": 1918
+    "start_char": 1884,
+    "end_char": 1919
   },
   {
     "schema_version": "0.1.0",
@@ -487,39 +487,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21:term-usage:3193-3196",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21:term-usage:3194-3197",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 3193,
-    "end_char": 3196
+    "start_char": 3194,
+    "end_char": 3197
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21:term-usage:3621-3624",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21:term-usage:3622-3625",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 3621,
-    "end_char": 3624
+    "start_char": 3622,
+    "end_char": 3625
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21:term-usage:5295-5298",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21:term-usage:5296-5299",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 5295,
-    "end_char": 5298
+    "start_char": 5296,
+    "end_char": 5299
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21:term-usage:5576-5579",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21:term-usage:5577-5580",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:21",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 5576,
-    "end_char": 5579
+    "start_char": 5577,
+    "end_char": 5580
   },
   {
     "schema_version": "0.1.0",
@@ -739,30 +739,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:27:term-usage:1592-1595",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:27:term-usage:1593-1596",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:27",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 1592,
-    "end_char": 1595
+    "start_char": 1593,
+    "end_char": 1596
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:27:term-usage:1690-1693",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:27:term-usage:1691-1694",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:27",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 1690,
-    "end_char": 1693
+    "start_char": 1691,
+    "end_char": 1694
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:27:term-usage:1794-1800",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:27:term-usage:1795-1801",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:27",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:comite",
     "span": "Comité",
-    "start_char": 1794,
-    "end_char": 1800
+    "start_char": 1795,
+    "end_char": 1801
   },
   {
     "schema_version": "0.1.0",
@@ -1036,12 +1036,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:31:term-usage:2050-2053",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:31:term-usage:2051-2054",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:31",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 2050,
-    "end_char": 2053
+    "start_char": 2051,
+    "end_char": 2054
   },
   {
     "schema_version": "0.1.0",
@@ -1216,12 +1216,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:36:term-usage:1147-1150",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:36:term-usage:1148-1151",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 1147,
-    "end_char": 1150
+    "start_char": 1148,
+    "end_char": 1151
   },
   {
     "schema_version": "0.1.0",
@@ -1387,12 +1387,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:45:term-usage:3902-3905",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:45:term-usage:3903-3906",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:45",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 3902,
-    "end_char": 3905
+    "start_char": 3903,
+    "end_char": 3906
   },
   {
     "schema_version": "0.1.0",
@@ -1594,39 +1594,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53:term-usage:976-982",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53:term-usage:977-983",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:comite",
     "span": "Comité",
-    "start_char": 976,
-    "end_char": 982
+    "start_char": 977,
+    "end_char": 983
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53:term-usage:1372-1396",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53:term-usage:1373-1397",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:proyecto-de-convocatoria",
     "span": "Proyecto de convocatoria",
-    "start_char": 1372,
-    "end_char": 1396
+    "start_char": 1373,
+    "end_char": 1397
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53:term-usage:1471-1477",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53:term-usage:1472-1478",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:comite",
     "span": "Comité",
-    "start_char": 1471,
-    "end_char": 1477
+    "start_char": 1472,
+    "end_char": 1478
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53:term-usage:1662-1668",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53:term-usage:1663-1669",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:53",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:comite",
     "span": "Comité",
-    "start_char": 1662,
-    "end_char": 1668
+    "start_char": 1663,
+    "end_char": 1669
   },
   {
     "schema_version": "0.1.0",
@@ -1927,12 +1927,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:64:term-usage:2331-2334",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:64:term-usage:2332-2335",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:64",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 2331,
-    "end_char": 2334
+    "start_char": 2332,
+    "end_char": 2335
   },
   {
     "schema_version": "0.1.0",
@@ -2044,12 +2044,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:69:term-usage:972-975",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:69:term-usage:973-976",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:69",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 972,
-    "end_char": 975
+    "start_char": 973,
+    "end_char": 976
   },
   {
     "schema_version": "0.1.0",
@@ -2314,66 +2314,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:865-900",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:866-901",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:area-responsable-de-la-contratacion",
     "span": "Área responsable de la contratación",
-    "start_char": 865,
-    "end_char": 900
+    "start_char": 866,
+    "end_char": 901
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:982-1017",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:983-1018",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:area-responsable-de-la-contratacion",
     "span": "Área responsable de la contratación",
-    "start_char": 982,
-    "end_char": 1017
+    "start_char": 983,
+    "end_char": 1018
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1023-1038",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1024-1039",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:area-requirente",
     "span": "Área requirente",
-    "start_char": 1023,
-    "end_char": 1038
+    "start_char": 1024,
+    "end_char": 1039
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1341-1356",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1342-1357",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:area-requirente",
     "span": "Área requirente",
-    "start_char": 1341,
-    "end_char": 1356
+    "start_char": 1342,
+    "end_char": 1357
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1362-1397",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1363-1398",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:area-responsable-de-la-contratacion",
     "span": "Área responsable de la contratación",
-    "start_char": 1362,
-    "end_char": 1397
+    "start_char": 1363,
+    "end_char": 1398
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1410-1425",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1411-1426",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:area-requirente",
     "span": "Área requirente",
-    "start_char": 1410,
-    "end_char": 1425
+    "start_char": 1411,
+    "end_char": 1426
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1442-1477",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75:term-usage:1443-1478",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:area-responsable-de-la-contratacion",
     "span": "Área responsable de la contratación",
-    "start_char": 1442,
-    "end_char": 1477
+    "start_char": 1443,
+    "end_char": 1478
   },
   {
     "schema_version": "0.1.0",
@@ -2836,21 +2836,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:108:term-usage:2101-2104",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:108:term-usage:2102-2105",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:108",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 2101,
-    "end_char": 2104
+    "start_char": 2102,
+    "end_char": 2105
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:108:term-usage:2206-2214",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:108:term-usage:2207-2215",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:108",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:bitacora",
     "span": "Bitácora",
-    "start_char": 2206,
-    "end_char": 2214
+    "start_char": 2207,
+    "end_char": 2215
   },
   {
     "schema_version": "0.1.0",
@@ -2899,30 +2899,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:113:term-usage:788-796",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:113:term-usage:789-797",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:113",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:bitacora",
     "span": "Bitácora",
-    "start_char": 788,
-    "end_char": 796
+    "start_char": 789,
+    "end_char": 797
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:113:term-usage:1017-1025",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:113:term-usage:1018-1026",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:113",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:bitacora",
     "span": "Bitácora",
-    "start_char": 1017,
-    "end_char": 1025
+    "start_char": 1018,
+    "end_char": 1026
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:113:term-usage:2923-2938",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:113:term-usage:2924-2939",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:113",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:area-requirente",
     "span": "Área requirente",
-    "start_char": 2923,
-    "end_char": 2938
+    "start_char": 2924,
+    "end_char": 2939
   },
   {
     "schema_version": "0.1.0",
@@ -2944,21 +2944,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:115:term-usage:2244-2252",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:115:term-usage:2245-2253",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:115",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:bitacora",
     "span": "Bitácora",
-    "start_char": 2244,
-    "end_char": 2252
+    "start_char": 2245,
+    "end_char": 2253
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:115:term-usage:2561-2569",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:115:term-usage:2562-2570",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:115",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:bitacora",
     "span": "Bitácora",
-    "start_char": 2561,
-    "end_char": 2569
+    "start_char": 2562,
+    "end_char": 2570
   },
   {
     "schema_version": "0.1.0",
@@ -3403,12 +3403,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:149:term-usage:1339-1347",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:149:term-usage:1340-1348",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:149",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:bitacora",
     "span": "Bitácora",
-    "start_char": 1339,
-    "end_char": 1347
+    "start_char": 1340,
+    "end_char": 1348
   },
   {
     "schema_version": "0.1.0",
@@ -3790,12 +3790,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:230:term-usage:819-822",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:230:term-usage:820-823",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:230",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 819,
-    "end_char": 822
+    "start_char": 820,
+    "end_char": 823
   },
   {
     "schema_version": "0.1.0",
@@ -4042,12 +4042,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:254:term-usage:439-442",
+    "id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:254:term-usage:440-443",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lopsrm:article:254",
     "term_id": "urn:lex-mx:federal:regulation:reg-lopsrm:term:ley",
     "span": "Ley",
-    "start_char": 439,
-    "end_char": 442
+    "start_char": 440,
+    "end_char": 443
   },
   {
     "schema_version": "0.1.0",

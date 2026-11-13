@@ -23,7 +23,9 @@ I. Copia de la solicitud del ejercicio de derechos que corresponda, así como co
 
 II. El documento que acredite que actúa por su propio derecho o en representación del titular;
 
-III. El documento en que conste la respuesta del responsable, de ser el caso; IV. En el supuesto en que impugne la falta de respuesta del responsable, deberá acompañar una copia en la que obre el acuse o constancia de recepción de la solicitud del ejercicio de derechos por parte del responsable;
+III. El documento en que conste la respuesta del responsable, de ser el caso;
+
+IV. En el supuesto en que impugne la falta de respuesta del responsable, deberá acompañar una copia en la que obre el acuse o constancia de recepción de la solicitud del ejercicio de derechos por parte del responsable;
 
 V. Las pruebas documentales que ofrece para demostrar sus afirmaciones;
 

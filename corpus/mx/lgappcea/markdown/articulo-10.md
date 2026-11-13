@@ -19,7 +19,9 @@ source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 
 Se reconocen como derechos fundamentales de las personas con la condición del espectro autista y/o de sus familias, en los términos de las disposiciones aplicables, los siguientes:
 
-I. Gozar plenamente de los derechos humanos que garantiza la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables; II. Recibir el apoyo y la protección de sus derechos constitucionales y legales por parte del Estado Mexicano –federación, entidades federativas y municipios–;
+I. Gozar plenamente de los derechos humanos que garantiza la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables;
+
+II. Recibir el apoyo y la protección de sus derechos constitucionales y legales por parte del Estado Mexicano –federación, entidades federativas y municipios–;
 
 III. Tener un diagnóstico y una evaluación clínica temprana, precisa, accesible y sin prejuicios de acuerdo con los objetivos del Sistema Nacional de Salud;
 
@@ -49,7 +51,9 @@ XV. Recibir formación y capacitación para obtener un empleo adecuado, sin disc
 
 XVI. Percibir la remuneración justa por la prestación de su colaboración laboral productiva, que les alcance para alimentarse, vestirse y alojarse adecuadamente, así como también para solventar cualquier otra necesidad vital, en los términos de las disposiciones constitucionales y de las correspondientes leyes reglamentarias;
 
-XVII. Utilizar el servicio del transporte público y privado como medio de libre desplazamiento; XVIII. Disfrutar de la cultura, de las distracciones, del tiempo libre, de las actividades recreativas y deportivas que coadyuven a su desarrollo físico y mental;
+XVII. Utilizar el servicio del transporte público y privado como medio de libre desplazamiento;
+
+XVIII. Disfrutar de la cultura, de las distracciones, del tiempo libre, de las actividades recreativas y deportivas que coadyuven a su desarrollo físico y mental;
 
 XIX. Tomar decisiones por sí o a través de sus padres o tutores para el ejercicio de sus legítimos derechos;
 

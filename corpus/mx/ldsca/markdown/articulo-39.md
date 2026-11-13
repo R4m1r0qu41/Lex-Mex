@@ -21,7 +21,9 @@ Las organizaciones nacionales, entre otros, tendrán por objeto:
 
 I. Representar los intereses de sus afiliados ante cualquier autoridad u organismo de carácter público o privado;
 
-II. Apoyar el desarrollo y fortalecimiento de las organizaciones locales afiliadas; III. Fomentar la modernización del campo cañero nacional y la adopción de mejoras tecnológicas;
+II. Apoyar el desarrollo y fortalecimiento de las organizaciones locales afiliadas;
+
+III. Fomentar la modernización del campo cañero nacional y la adopción de mejoras tecnológicas;
 
 IV. Promover la instrumentación de políticas que impulsen el desarrollo equilibrado de la actividad cañera en nuestro país;
 

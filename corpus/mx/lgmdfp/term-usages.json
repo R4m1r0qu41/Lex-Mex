@@ -10,147 +10,147 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:556-563",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:557-564",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:noticia",
     "span": "Noticia",
-    "start_char": 556,
-    "end_char": 563
+    "start_char": 557,
+    "end_char": 564
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:565-572",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:566-573",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reporte",
     "span": "Reporte",
-    "start_char": 565,
-    "end_char": 572
+    "start_char": 566,
+    "end_char": 573
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:587-607",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:588-608",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 587,
-    "end_char": 607
+    "start_char": 588,
+    "end_char": 608
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:667-696",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:668-697",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 667,
-    "end_char": 696
+    "start_char": 668,
+    "end_char": 697
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1043-1085",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1044-1086",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:base-nacional-de-carpetas-de-investigacion",
     "span": "Base Nacional de Carpetas de Investigación",
-    "start_char": 1043,
-    "end_char": 1085
+    "start_char": 1044,
+    "end_char": 1086
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1089-1111",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1090-1112",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 1089,
-    "end_char": 1111
+    "start_char": 1090,
+    "end_char": 1112
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1531-1547",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1532-1548",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1531,
-    "end_char": 1547
+    "start_char": 1532,
+    "end_char": 1548
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1587-1616",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1588-1617",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 1587,
-    "end_char": 1616
+    "start_char": 1588,
+    "end_char": 1617
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1642-1672",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1643-1673",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 1642,
-    "end_char": 1672
+    "start_char": 1643,
+    "end_char": 1673
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1680-1701",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1681-1702",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1680,
-    "end_char": 1701
+    "start_char": 1681,
+    "end_char": 1702
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1764-1786",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:1765-1787",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 1764,
-    "end_char": 1786
+    "start_char": 1765,
+    "end_char": 1787
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2022-2037",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2023-2038",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:centro-nacional",
     "span": "Centro Nacional",
-    "start_char": 2022,
-    "end_char": 2037
+    "start_char": 2023,
+    "end_char": 2038
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2147-2176",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2148-2177",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 2147,
-    "end_char": 2176
+    "start_char": 2148,
+    "end_char": 2177
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2227-2244",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2228-2245",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 2227,
-    "end_char": 2244
+    "start_char": 2228,
+    "end_char": 2245
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2341-2351",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2342-2352",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 2341,
-    "end_char": 2351
+    "start_char": 2342,
+    "end_char": 2352
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2453-2475",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:2:term-usage:2454-2476",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:2",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 2453,
-    "end_char": 2475
+    "start_char": 2454,
+    "end_char": 2476
   },
   {
     "schema_version": "0.1.0",
@@ -271,165 +271,165 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:4099-4119",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:4100-4120",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 4099,
-    "end_char": 4119
+    "start_char": 4100,
+    "end_char": 4120
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:4489-4509",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:4490-4510",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 4489,
-    "end_char": 4509
+    "start_char": 4490,
+    "end_char": 4510
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:4652-4672",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:4653-4673",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 4652,
-    "end_char": 4672
+    "start_char": 4653,
+    "end_char": 4673
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:5346-5354",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:5347-5355",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 5346,
-    "end_char": 5354
+    "start_char": 5347,
+    "end_char": 5355
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:5375-5383",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:5376-5384",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 5375,
-    "end_char": 5383
+    "start_char": 5376,
+    "end_char": 5384
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:5409-5426",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:5410-5427",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-locales",
     "span": "Fiscalías Locales",
-    "start_char": 5409,
-    "end_char": 5426
+    "start_char": 5410,
+    "end_char": 5427
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:5692-5721",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:5693-5722",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 5692,
-    "end_char": 5721
+    "start_char": 5693,
+    "end_char": 5722
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:6664-6693",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:6665-6694",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 6664,
-    "end_char": 6693
+    "start_char": 6665,
+    "end_char": 6694
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:6762-6786",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:6763-6787",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 6762,
-    "end_char": 6786
+    "start_char": 6763,
+    "end_char": 6787
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8209-8218",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8210-8219",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalías",
-    "start_char": 8209,
-    "end_char": 8218
+    "start_char": 8210,
+    "end_char": 8219
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8264-8285",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8265-8286",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 8264,
-    "end_char": 8285
+    "start_char": 8265,
+    "end_char": 8286
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8460-8482",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8461-8483",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 8460,
-    "end_char": 8482
+    "start_char": 8461,
+    "end_char": 8483
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8536-8557",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8537-8558",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 8536,
-    "end_char": 8557
+    "start_char": 8537,
+    "end_char": 8558
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8865-8886",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:8866-8887",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 8865,
-    "end_char": 8886
+    "start_char": 8866,
+    "end_char": 8887
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:9195-9203",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:9196-9204",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 9195,
-    "end_char": 9203
+    "start_char": 9196,
+    "end_char": 9204
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:9210-9219",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:9211-9220",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalías",
-    "start_char": 9210,
-    "end_char": 9219
+    "start_char": 9211,
+    "end_char": 9220
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:9652-9659",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:9653-9660",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:noticia",
     "span": "Noticia",
-    "start_char": 9652,
-    "end_char": 9659
+    "start_char": 9653,
+    "end_char": 9660
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:9661-9668",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:4:term-usage:9662-9669",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reporte",
     "span": "Reporte",
-    "start_char": 9661,
-    "end_char": 9668
+    "start_char": 9662,
+    "end_char": 9669
   },
   {
     "schema_version": "0.1.0",
@@ -550,30 +550,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:5:term-usage:5482-5502",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:5:term-usage:5483-5503",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 5482,
-    "end_char": 5502
+    "start_char": 5483,
+    "end_char": 5503
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:5:term-usage:5821-5829",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:5:term-usage:5822-5830",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:victimas",
     "span": "Víctimas",
-    "start_char": 5821,
-    "end_char": 5829
+    "start_char": 5822,
+    "end_char": 5830
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:5:term-usage:6427-6456",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:5:term-usage:6428-6457",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:5",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:plataforma-unica-de-identidad",
     "span": "Plataforma Única de Identidad",
-    "start_char": 6427,
-    "end_char": 6456
+    "start_char": 6428,
+    "end_char": 6457
   },
   {
     "schema_version": "0.1.0",
@@ -712,30 +712,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:12-ter:term-usage:448-484",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:12-ter:term-usage:449-485",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:12-ter",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:clave-unica-de-registro-de-poblacion",
     "span": "Clave Única de Registro de Población",
-    "start_char": 448,
-    "end_char": 484
+    "start_char": 449,
+    "end_char": 485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:12-ter:term-usage:492-512",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:12-ter:term-usage:493-513",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:12-ter",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 492,
-    "end_char": 512
+    "start_char": 493,
+    "end_char": 513
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:12-ter:term-usage:770-790",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:12-ter:term-usage:771-791",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:12-ter",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 770,
-    "end_char": 790
+    "start_char": 771,
+    "end_char": 791
   },
   {
     "schema_version": "0.1.0",
@@ -1432,21 +1432,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:32:term-usage:996-1016",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:32:term-usage:997-1017",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:32",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 996,
-    "end_char": 1016
+    "start_char": 997,
+    "end_char": 1017
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:32:term-usage:1039-1073",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:32:term-usage:1040-1074",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:32",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 1039,
-    "end_char": 1073
+    "start_char": 1040,
+    "end_char": 1074
   },
   {
     "schema_version": "0.1.0",
@@ -1567,102 +1567,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:999-1029",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1000-1030",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 999,
-    "end_char": 1029
+    "start_char": 1000,
+    "end_char": 1030
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1170-1187",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1171-1188",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-locales",
     "span": "Fiscalías Locales",
-    "start_char": 1170,
-    "end_char": 1187
+    "start_char": 1171,
+    "end_char": 1188
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1367-1385",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1368-1386",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 1367,
-    "end_char": 1385
+    "start_char": 1368,
+    "end_char": 1386
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1475-1491",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1476-1492",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1475,
-    "end_char": 1491
+    "start_char": 1476,
+    "end_char": 1492
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1622-1630",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1623-1631",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 1622,
-    "end_char": 1630
+    "start_char": 1623,
+    "end_char": 1631
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1709-1717",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1710-1718",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 1709,
-    "end_char": 1717
+    "start_char": 1710,
+    "end_char": 1718
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1955-1971",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:1956-1972",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1955,
-    "end_char": 1971
+    "start_char": 1956,
+    "end_char": 1972
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:2134-2151",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:2135-2152",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-locales",
     "span": "Fiscalías Locales",
-    "start_char": 2134,
-    "end_char": 2151
+    "start_char": 2135,
+    "end_char": 2152
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:2268-2284",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:2269-2285",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 2268,
-    "end_char": 2284
+    "start_char": 2269,
+    "end_char": 2285
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:2343-2352",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:2344-2353",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:autoridades",
     "span": "Autoridad",
-    "start_char": 2343,
-    "end_char": 2352
+    "start_char": 2344,
+    "end_char": 2353
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:2570-2586",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:45:term-usage:2571-2587",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:45",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 2570,
-    "end_char": 2586
+    "start_char": 2571,
+    "end_char": 2587
   },
   {
     "schema_version": "0.1.0",
@@ -1837,102 +1837,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:1688-1704",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:1689-1705",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 1688,
-    "end_char": 1704
+    "start_char": 1689,
+    "end_char": 1705
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:1802-1824",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:1803-1825",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 1802,
-    "end_char": 1824
+    "start_char": 1803,
+    "end_char": 1825
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:1943-1967",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:1944-1968",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 1943,
-    "end_char": 1967
+    "start_char": 1944,
+    "end_char": 1968
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:1975-1996",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:1976-1997",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1975,
-    "end_char": 1996
+    "start_char": 1976,
+    "end_char": 1997
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2183-2215",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2184-2216",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:banco-nacional-de-datos-forenses",
     "span": "Banco Nacional de Datos Forenses",
-    "start_char": 2183,
-    "end_char": 2215
+    "start_char": 2184,
+    "end_char": 2216
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2300-2326",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2301-2327",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional-de-fosas",
     "span": "Registro Nacional de Fosas",
-    "start_char": 2300,
-    "end_char": 2326
+    "start_char": 2301,
+    "end_char": 2327
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2386-2401",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2387-2402",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:centro-nacional",
     "span": "Centro Nacional",
-    "start_char": 2386,
-    "end_char": 2401
+    "start_char": 2387,
+    "end_char": 2402
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2732-2749",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2733-2750",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:consejo-ciudadano",
     "span": "Consejo Ciudadano",
-    "start_char": 2732,
-    "end_char": 2749
+    "start_char": 2733,
+    "end_char": 2750
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2844-2861",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2845-2862",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:consejo-ciudadano",
     "span": "Consejo Ciudadano",
-    "start_char": 2844,
-    "end_char": 2861
+    "start_char": 2845,
+    "end_char": 2862
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2961-2971",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:2962-2972",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 2961,
-    "end_char": 2971
+    "start_char": 2962,
+    "end_char": 2972
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:3017-3049",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:49:term-usage:3018-3050",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:49",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:protocolo-homologado-de-busqueda",
     "span": "Protocolo Homologado de Búsqueda",
-    "start_char": 3017,
-    "end_char": 3049
+    "start_char": 3018,
+    "end_char": 3050
   },
   {
     "schema_version": "0.1.0",
@@ -2071,552 +2071,552 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:277-294",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:278-295",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 277,
-    "end_char": 294
+    "start_char": 278,
+    "end_char": 295
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:474-508",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:475-509",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:instituciones-de-seguridad-publica",
     "span": "Instituciones de Seguridad Pública",
-    "start_char": 474,
-    "end_char": 508
+    "start_char": 475,
+    "end_char": 509
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:822-851",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:823-852",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 822,
-    "end_char": 851
+    "start_char": 823,
+    "end_char": 852
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1369-1399",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1370-1400",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 1369,
-    "end_char": 1399
+    "start_char": 1370,
+    "end_char": 1400
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1600-1632",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1601-1633",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:protocolo-homologado-de-busqueda",
     "span": "Protocolo Homologado de Búsqueda",
-    "start_char": 1600,
-    "end_char": 1632
+    "start_char": 1601,
+    "end_char": 1633
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1821-1843",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1822-1844",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 1821,
-    "end_char": 1843
+    "start_char": 1822,
+    "end_char": 1844
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1894-1904",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1895-1905",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 1894,
-    "end_char": 1904
+    "start_char": 1895,
+    "end_char": 1905
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1913-1935",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:1914-1936",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalía Especializada",
-    "start_char": 1913,
-    "end_char": 1935
+    "start_char": 1914,
+    "end_char": 1936
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:2209-2239",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:2210-2240",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 2209,
-    "end_char": 2239
+    "start_char": 2210,
+    "end_char": 2240
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:2584-2604",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:2585-2605",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 2584,
-    "end_char": 2604
+    "start_char": 2585,
+    "end_char": 2605
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:2895-2917",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:2896-2918",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 2895,
-    "end_char": 2917
+    "start_char": 2896,
+    "end_char": 2918
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:3089-3111",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:3090-3112",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 3089,
-    "end_char": 3111
+    "start_char": 3090,
+    "end_char": 3112
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:3532-3562",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:3533-3563",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 3532,
-    "end_char": 3562
+    "start_char": 3533,
+    "end_char": 3563
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:3704-3726",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:3705-3727",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalía Especializada",
-    "start_char": 3704,
-    "end_char": 3726
+    "start_char": 3705,
+    "end_char": 3727
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:3906-3938",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:3907-3939",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:protocolo-homologado-de-busqueda",
     "span": "Protocolo Homologado de Búsqueda",
-    "start_char": 3906,
-    "end_char": 3938
+    "start_char": 3907,
+    "end_char": 3939
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4216-4238",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4217-4239",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 4216,
-    "end_char": 4238
+    "start_char": 4217,
+    "end_char": 4239
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4347-4371",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4348-4372",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 4347,
-    "end_char": 4371
+    "start_char": 4348,
+    "end_char": 4372
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4583-4610",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4584-4611",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:mecanismo-de-apoyo-exterior",
     "span": "Mecanismo de Apoyo Exterior",
-    "start_char": 4583,
-    "end_char": 4610
+    "start_char": 4584,
+    "end_char": 4611
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4839-4861",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4840-4862",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 4839,
-    "end_char": 4861
+    "start_char": 4840,
+    "end_char": 4862
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4956-4977",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:4957-4978",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 4956,
-    "end_char": 4977
+    "start_char": 4957,
+    "end_char": 4978
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5236-5257",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5237-5258",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 5236,
-    "end_char": 5257
+    "start_char": 5237,
+    "end_char": 5258
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5400-5430",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5401-5431",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 5400,
-    "end_char": 5430
+    "start_char": 5401,
+    "end_char": 5431
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5435-5443",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5436-5444",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 5435,
-    "end_char": 5443
+    "start_char": 5436,
+    "end_char": 5444
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5449-5473",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5450-5474",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 5449,
-    "end_char": 5473
+    "start_char": 5450,
+    "end_char": 5474
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5615-5631",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5616-5632",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 5615,
-    "end_char": 5631
+    "start_char": 5616,
+    "end_char": 5632
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5939-5954",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:5940-5955",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:centro-nacional",
     "span": "Centro Nacional",
-    "start_char": 5939,
-    "end_char": 5954
+    "start_char": 5940,
+    "end_char": 5955
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:6323-6331",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:6324-6332",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 6323,
-    "end_char": 6331
+    "start_char": 6324,
+    "end_char": 6332
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:6333-6357",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:6334-6358",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 6333,
-    "end_char": 6357
+    "start_char": 6334,
+    "end_char": 6358
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:6886-6908",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:6887-6909",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 6886,
-    "end_char": 6908
+    "start_char": 6887,
+    "end_char": 6909
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7096-7104",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7097-7105",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 7096,
-    "end_char": 7104
+    "start_char": 7097,
+    "end_char": 7105
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7110-7119",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7111-7120",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalías",
-    "start_char": 7110,
-    "end_char": 7119
+    "start_char": 7111,
+    "end_char": 7120
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7229-7244",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7230-7245",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:centro-nacional",
     "span": "Centro Nacional",
-    "start_char": 7229,
-    "end_char": 7244
+    "start_char": 7230,
+    "end_char": 7245
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7273-7283",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7274-7284",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reglamento",
     "span": "Reglamento",
-    "start_char": 7273,
-    "end_char": 7283
+    "start_char": 7274,
+    "end_char": 7284
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7789-7805",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:7790-7806",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 7789,
-    "end_char": 7805
+    "start_char": 7790,
+    "end_char": 7806
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:8300-8322",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:8301-8323",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 8300,
-    "end_char": 8322
+    "start_char": 8301,
+    "end_char": 8323
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:8609-8619",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:8610-8620",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 8609,
-    "end_char": 8619
+    "start_char": 8610,
+    "end_char": 8620
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:8678-8700",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:8679-8701",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 8678,
-    "end_char": 8700
+    "start_char": 8679,
+    "end_char": 8701
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:9086-9104",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:9088-9106",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidad Federativa",
-    "start_char": 9086,
-    "end_char": 9104
+    "start_char": 9088,
+    "end_char": 9106
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:9294-9324",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:9296-9326",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 9294,
-    "end_char": 9324
+    "start_char": 9296,
+    "end_char": 9326
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:9572-9594",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:9574-9596",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 9572,
-    "end_char": 9594
+    "start_char": 9574,
+    "end_char": 9596
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:9722-9730",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:9724-9732",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reporte",
     "span": "Reportes",
-    "start_char": 9722,
-    "end_char": 9730
+    "start_char": 9724,
+    "end_char": 9732
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:10038-10065",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:10040-10067",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:mecanismo-de-apoyo-exterior",
     "span": "Mecanismo de Apoyo Exterior",
-    "start_char": 10038,
-    "end_char": 10065
+    "start_char": 10040,
+    "end_char": 10067
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:10310-10327",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:10312-10329",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:consejo-ciudadano",
     "span": "Consejo Ciudadano",
-    "start_char": 10310,
-    "end_char": 10327
+    "start_char": 10312,
+    "end_char": 10329
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:10393-10422",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:10395-10424",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 10393,
-    "end_char": 10422
+    "start_char": 10395,
+    "end_char": 10424
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:10648-10670",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:10650-10672",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalía Especializada",
-    "start_char": 10648,
-    "end_char": 10670
+    "start_char": 10650,
+    "end_char": 10672
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11150-11160",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11152-11162",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 11150,
-    "end_char": 11160
+    "start_char": 11152,
+    "end_char": 11162
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11222-11251",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11224-11253",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 11222,
-    "end_char": 11251
+    "start_char": 11224,
+    "end_char": 11253
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11310-11328",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11312-11330",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 11310,
-    "end_char": 11328
+    "start_char": 11312,
+    "end_char": 11330
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11337-11359",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11339-11361",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-de-victimas",
     "span": "Comisiones de Víctimas",
-    "start_char": 11337,
-    "end_char": 11359
+    "start_char": 11339,
+    "end_char": 11361
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11527-11537",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11529-11539",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 11527,
-    "end_char": 11537
+    "start_char": 11529,
+    "end_char": 11539
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11545-11567",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11547-11569",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 11545,
-    "end_char": 11567
+    "start_char": 11547,
+    "end_char": 11569
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11783-11805",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11785-11807",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 11783,
-    "end_char": 11805
+    "start_char": 11785,
+    "end_char": 11807
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11989-11999",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:11991-12001",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 11989,
-    "end_char": 11999
+    "start_char": 11991,
+    "end_char": 12001
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13127-13147",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13129-13149",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 13127,
-    "end_char": 13147
+    "start_char": 13129,
+    "end_char": 13149
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13345-13367",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13347-13369",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 13345,
-    "end_char": 13367
+    "start_char": 13347,
+    "end_char": 13369
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13406-13436",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13408-13438",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 13406,
-    "end_char": 13436
+    "start_char": 13408,
+    "end_char": 13438
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13910-13920",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13912-13922",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reglamento",
     "span": "Reglamento",
-    "start_char": 13910,
-    "end_char": 13920
+    "start_char": 13912,
+    "end_char": 13922
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13945-13974",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:13947-13976",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 13945,
-    "end_char": 13974
+    "start_char": 13947,
+    "end_char": 13976
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:14168-14197",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:14170-14199",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 14168,
-    "end_char": 14197
+    "start_char": 14170,
+    "end_char": 14199
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:14267-14277",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:14269-14279",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reglamento",
     "span": "Reglamento",
-    "start_char": 14267,
-    "end_char": 14277
+    "start_char": 14269,
+    "end_char": 14279
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:14284-14313",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:53:term-usage:14286-14315",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:53",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 14284,
-    "end_char": 14313
+    "start_char": 14286,
+    "end_char": 14315
   },
   {
     "schema_version": "0.1.0",
@@ -2863,102 +2863,102 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:68-84",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:69-85",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 68,
-    "end_char": 84
+    "start_char": 69,
+    "end_char": 85
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:92-121",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:93-122",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 92,
-    "end_char": 121
+    "start_char": 93,
+    "end_char": 122
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:264-280",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:265-281",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 264,
-    "end_char": 280
+    "start_char": 265,
+    "end_char": 281
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:637-653",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:638-654",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 637,
-    "end_char": 653
+    "start_char": 638,
+    "end_char": 654
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:846-862",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:847-863",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:sistema-nacional",
     "span": "Sistema Nacional",
-    "start_char": 846,
-    "end_char": 862
+    "start_char": 847,
+    "end_char": 863
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1228-1250",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1229-1251",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 1228,
-    "end_char": 1250
+    "start_char": 1229,
+    "end_char": 1251
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1447-1469",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1448-1470",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 1447,
-    "end_char": 1469
+    "start_char": 1448,
+    "end_char": 1470
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1609-1638",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1610-1639",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 1609,
-    "end_char": 1638
+    "start_char": 1610,
+    "end_char": 1639
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1743-1753",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1744-1754",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reglamento",
     "span": "Reglamento",
-    "start_char": 1743,
-    "end_char": 1753
+    "start_char": 1744,
+    "end_char": 1754
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1760-1781",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1761-1782",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 1760,
-    "end_char": 1781
+    "start_char": 1761,
+    "end_char": 1782
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1869-1899",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:62:term-usage:1870-1900",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:62",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 1869,
-    "end_char": 1899
+    "start_char": 1870,
+    "end_char": 1900
   },
   {
     "schema_version": "0.1.0",
@@ -3016,21 +3016,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:64:term-usage:660-670",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:64:term-usage:661-671",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:64",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reglamento",
     "span": "Reglamento",
-    "start_char": 660,
-    "end_char": 670
+    "start_char": 661,
+    "end_char": 671
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:64:term-usage:706-716",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:64:term-usage:707-717",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:64",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 706,
-    "end_char": 716
+    "start_char": 707,
+    "end_char": 717
   },
   {
     "schema_version": "0.1.0",
@@ -3385,138 +3385,138 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:4211-4229",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:4212-4230",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 4211,
-    "end_char": 4229
+    "start_char": 4212,
+    "end_char": 4230
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:4239-4261",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:4240-4262",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-de-victimas",
     "span": "Comisiones de Víctimas",
-    "start_char": 4239,
-    "end_char": 4261
+    "start_char": 4240,
+    "end_char": 4262
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:4817-4854",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:4818-4855",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:protocolo-homologado-de-investigacion",
     "span": "Protocolo Homologado de Investigación",
-    "start_char": 4817,
-    "end_char": 4854
+    "start_char": 4818,
+    "end_char": 4855
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:5190-5212",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:5191-5213",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 5190,
-    "end_char": 5212
+    "start_char": 5191,
+    "end_char": 5213
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:5305-5334",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:5306-5335",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 5305,
-    "end_char": 5334
+    "start_char": 5306,
+    "end_char": 5335
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:5341-5371",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:5342-5372",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisiones Locales de Búsqueda",
-    "start_char": 5341,
-    "end_char": 5371
+    "start_char": 5342,
+    "end_char": 5372
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6012-6034",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6013-6035",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 6012,
-    "end_char": 6034
+    "start_char": 6013,
+    "end_char": 6035
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6182-6192",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6183-6193",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 6182,
-    "end_char": 6192
+    "start_char": 6183,
+    "end_char": 6193
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6301-6311",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6302-6312",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 6301,
-    "end_char": 6311
+    "start_char": 6302,
+    "end_char": 6312
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6670-6688",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6672-6690",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-ejecutiva",
     "span": "Comisión Ejecutiva",
-    "start_char": 6670,
-    "end_char": 6688
+    "start_char": 6672,
+    "end_char": 6690
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6695-6717",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6697-6719",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-de-victimas",
     "span": "Comisiones de Víctimas",
-    "start_char": 6695,
-    "end_char": 6717
+    "start_char": 6697,
+    "end_char": 6719
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6762-6770",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6764-6772",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:victimas",
     "span": "Víctimas",
-    "start_char": 6762,
-    "end_char": 6770
+    "start_char": 6764,
+    "end_char": 6772
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6874-6891",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:6876-6893",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:consejo-ciudadano",
     "span": "Consejo Ciudadano",
-    "start_char": 6874,
-    "end_char": 6891
+    "start_char": 6876,
+    "end_char": 6893
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:7049-7073",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:7051-7075",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 7049,
-    "end_char": 7073
+    "start_char": 7051,
+    "end_char": 7075
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:7081-7102",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:70:term-usage:7083-7104",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:70",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 7081,
-    "end_char": 7102
+    "start_char": 7083,
+    "end_char": 7104
   },
   {
     "schema_version": "0.1.0",
@@ -3808,48 +3808,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:148-155",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:149-156",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:80",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:noticia",
     "span": "Noticia",
-    "start_char": 148,
-    "end_char": 155
+    "start_char": 149,
+    "end_char": 156
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:160-167",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:161-168",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:80",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reporte",
     "span": "Reporte",
-    "start_char": 160,
-    "end_char": 167
+    "start_char": 161,
+    "end_char": 168
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:380-387",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:381-388",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:80",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:noticia",
     "span": "Noticia",
-    "start_char": 380,
-    "end_char": 387
+    "start_char": 381,
+    "end_char": 388
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:389-396",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:390-397",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:80",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reporte",
     "span": "Reporte",
-    "start_char": 389,
-    "end_char": 396
+    "start_char": 390,
+    "end_char": 397
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:444-466",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:80:term-usage:445-467",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:80",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalía Especializada",
-    "start_char": 444,
-    "end_char": 466
+    "start_char": 445,
+    "end_char": 467
   },
   {
     "schema_version": "0.1.0",
@@ -4699,30 +4699,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:94:term-usage:707-724",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:94:term-usage:708-725",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 707,
-    "end_char": 724
+    "start_char": 708,
+    "end_char": 725
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:94:term-usage:1679-1708",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:94:term-usage:1680-1709",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 1679,
-    "end_char": 1708
+    "start_char": 1680,
+    "end_char": 1709
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:94:term-usage:1714-1740",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:94:term-usage:1715-1741",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:94",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comisiones-locales-de-busqueda",
     "span": "Comisión Local de Búsqueda",
-    "start_char": 1714,
-    "end_char": 1740
+    "start_char": 1715,
+    "end_char": 1741
   },
   {
     "schema_version": "0.1.0",
@@ -4789,48 +4789,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:555-587",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:556-588",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:96",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:protocolo-homologado-de-busqueda",
     "span": "Protocolo Homologado de Búsqueda",
-    "start_char": 555,
-    "end_char": 587
+    "start_char": 556,
+    "end_char": 588
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:954-964",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:955-965",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:96",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 954,
-    "end_char": 964
+    "start_char": 955,
+    "end_char": 965
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:1185-1195",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:1186-1196",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:96",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 1185,
-    "end_char": 1195
+    "start_char": 1186,
+    "end_char": 1196
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:1325-1335",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:1326-1336",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:96",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 1325,
-    "end_char": 1335
+    "start_char": 1326,
+    "end_char": 1336
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:1631-1648",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:96:term-usage:1632-1649",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:96",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 1631,
-    "end_char": 1648
+    "start_char": 1632,
+    "end_char": 1649
   },
   {
     "schema_version": "0.1.0",
@@ -4987,147 +4987,147 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:894-901",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:895-902",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reporte",
     "span": "Reporte",
-    "start_char": 894,
-    "end_char": 901
+    "start_char": 895,
+    "end_char": 902
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:914-921",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:915-922",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:noticia",
     "span": "Noticia",
-    "start_char": 914,
-    "end_char": 921
+    "start_char": 915,
+    "end_char": 922
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:929-949",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:930-950",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 929,
-    "end_char": 949
+    "start_char": 930,
+    "end_char": 950
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:1494-1501",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:1495-1502",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:reporte",
     "span": "Reporte",
-    "start_char": 1494,
-    "end_char": 1501
+    "start_char": 1495,
+    "end_char": 1502
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:1514-1521",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:1515-1522",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:noticia",
     "span": "Noticia",
-    "start_char": 1514,
-    "end_char": 1521
+    "start_char": 1515,
+    "end_char": 1522
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:1729-1749",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:1730-1750",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 1729,
-    "end_char": 1749
+    "start_char": 1730,
+    "end_char": 1750
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2205-2232",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2206-2233",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:mecanismo-de-apoyo-exterior",
     "span": "Mecanismo de Apoyo Exterior",
-    "start_char": 2205,
-    "end_char": 2232
+    "start_char": 2206,
+    "end_char": 2233
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2543-2553",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2544-2554",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 2543,
-    "end_char": 2553
+    "start_char": 2544,
+    "end_char": 2554
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2632-2652",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2633-2653",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 2632,
-    "end_char": 2652
+    "start_char": 2633,
+    "end_char": 2653
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2734-2744",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2735-2745",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 2734,
-    "end_char": 2744
+    "start_char": 2735,
+    "end_char": 2745
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2963-2973",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:2964-2974",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 2963,
-    "end_char": 2973
+    "start_char": 2964,
+    "end_char": 2974
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:3709-3730",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:3711-3732",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:entidades-federativas",
     "span": "Entidades Federativas",
-    "start_char": 3709,
-    "end_char": 3730
+    "start_char": 3711,
+    "end_char": 3732
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:3900-3920",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:3902-3922",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 3900,
-    "end_char": 3920
+    "start_char": 3902,
+    "end_char": 3922
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:4182-4192",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:4184-4194",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 4182,
-    "end_char": 4192
+    "start_char": 4184,
+    "end_char": 4194
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:4426-4436",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:4428-4438",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 4426,
-    "end_char": 4436
+    "start_char": 4428,
+    "end_char": 4438
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:4768-4778",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:99:term-usage:4770-4780",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:99",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 4768,
-    "end_char": 4778
+    "start_char": 4770,
+    "end_char": 4780
   },
   {
     "schema_version": "0.1.0",
@@ -6139,21 +6139,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:124:term-usage:245-255",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:124:term-usage:246-256",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:124",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 245,
-    "end_char": 255
+    "start_char": 246,
+    "end_char": 256
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:124:term-usage:356-378",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:124:term-usage:357-379",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:124",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Personas Desaparecidas",
-    "start_char": 356,
-    "end_char": 378
+    "start_char": 357,
+    "end_char": 379
   },
   {
     "schema_version": "0.1.0",
@@ -6409,12 +6409,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:134:term-usage:1947-1964",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:134:term-usage:1948-1965",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:134",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:registro-nacional",
     "span": "Registro Nacional",
-    "start_char": 1947,
-    "end_char": 1964
+    "start_char": 1948,
+    "end_char": 1965
   },
   {
     "schema_version": "0.1.0",
@@ -6427,30 +6427,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:135:term-usage:1090-1114",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:135:term-usage:1091-1115",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:135",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalias-especializadas",
     "span": "Fiscalías Especializadas",
-    "start_char": 1090,
-    "end_char": 1114
+    "start_char": 1091,
+    "end_char": 1115
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:135:term-usage:2769-2777",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:135:term-usage:2770-2778",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:135",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:fiscalia",
     "span": "Fiscalía",
-    "start_char": 2769,
-    "end_char": 2777
+    "start_char": 2770,
+    "end_char": 2778
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:135:term-usage:2988-3017",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:135:term-usage:2989-3018",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:135",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 2988,
-    "end_char": 3017
+    "start_char": 2989,
+    "end_char": 3018
   },
   {
     "schema_version": "0.1.0",
@@ -6553,21 +6553,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:138:term-usage:1412-1441",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:138:term-usage:1413-1442",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:138",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:comision-nacional-de-busqueda",
     "span": "Comisión Nacional de Búsqueda",
-    "start_char": 1412,
-    "end_char": 1441
+    "start_char": 1413,
+    "end_char": 1442
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:138:term-usage:2082-2092",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:138:term-usage:2083-2093",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:138",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 2082,
-    "end_char": 2092
+    "start_char": 2083,
+    "end_char": 2093
   },
   {
     "schema_version": "0.1.0",
@@ -6868,57 +6868,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:585-605",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:586-606",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:146",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 585,
-    "end_char": 605
+    "start_char": 586,
+    "end_char": 606
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:790-800",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:791-801",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:146",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:familiares",
     "span": "Familiares",
-    "start_char": 790,
-    "end_char": 800
+    "start_char": 791,
+    "end_char": 801
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:903-923",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:904-924",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:146",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 903,
-    "end_char": 923
+    "start_char": 904,
+    "end_char": 924
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:1036-1056",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:1037-1057",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:146",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 1036,
-    "end_char": 1056
+    "start_char": 1037,
+    "end_char": 1057
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:1265-1285",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:1266-1286",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:146",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 1265,
-    "end_char": 1285
+    "start_char": 1266,
+    "end_char": 1286
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:1367-1387",
+    "id": "urn:lex-mx:federal:statute:lgmdfp:article:146:term-usage:1368-1388",
     "provision_id": "urn:lex-mx:federal:statute:lgmdfp:article:146",
     "term_id": "urn:lex-mx:federal:statute:lgmdfp:term:persona-desaparecida",
     "span": "Persona Desaparecida",
-    "start_char": 1367,
-    "end_char": 1387
+    "start_char": 1368,
+    "end_char": 1388
   },
   {
     "schema_version": "0.1.0",

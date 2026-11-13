@@ -25,7 +25,9 @@ II. Donar un órgano o parte de él que al ser extraído su función pueda ser c
 
 III. Tener compatibilidad aceptable con el receptor;
 
-IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante; V. Haber otorgado su consentimiento en forma expresa, en términos de los artículos [322](articulo-322.md) y [323](articulo-323.md) de esta Ley, y Fracción reformada DOF 12-12-2011
+IV. Recibir información completa sobre los riesgos de la operación y las consecuencias de la extracción del órgano o tejido, por un médico distinto de los que intervendrán en el trasplante;
+
+V. Haber otorgado su consentimiento en forma expresa, en términos de los artículos [322](articulo-322.md) y [323](articulo-323.md) de esta Ley, y Fracción reformada DOF 12-12-2011
 
 VI.- Los trasplantes se realizarán, de preferencia, entre personas que tengan parentesco por consanguinidad, civil o de afinidad. Sin embargo, cuando no exista un donador relacionado por algún tipo de parentesco, será posible realizar una donación, siempre y cuando se cumpla con los siguientes requisitos:
 

@@ -13,6 +13,8 @@ source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf
 source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 ---
 
+> Título Sexto · Capítulo Único
+
 # Artículo 92
 
 La [Secretaría](articulo-5.md) aplicará las sanciones que procedan a las personas servidoras públicas que infrinjan las disposiciones de este ordenamiento, conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas.

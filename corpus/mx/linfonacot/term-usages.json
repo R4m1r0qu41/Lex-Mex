@@ -82,48 +82,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:145-154",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:146-155",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 145,
-    "end_char": 154
+    "start_char": 146,
+    "end_char": 155
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:223-232",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:224-233",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 223,
-    "end_char": 232
+    "start_char": 224,
+    "end_char": 233
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:513-518",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:514-519",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:fondo",
     "span": "Fondo",
-    "start_char": 513,
-    "end_char": 518
+    "start_char": 514,
+    "end_char": 519
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:737-746",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:738-747",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 737,
-    "end_char": 746
+    "start_char": 738,
+    "end_char": 747
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:774-777",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:4:term-usage:775-778",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:ley",
     "span": "Ley",
-    "start_char": 774,
-    "end_char": 777
+    "start_char": 775,
+    "end_char": 778
   },
   {
     "schema_version": "0.1.0",
@@ -253,39 +253,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:8:term-usage:182-185",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:8:term-usage:183-186",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:8",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:ley",
     "span": "Ley",
-    "start_char": 182,
-    "end_char": 185
+    "start_char": 183,
+    "end_char": 186
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:8:term-usage:569-572",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:8:term-usage:570-573",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:8",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:ley",
     "span": "Ley",
-    "start_char": 569,
-    "end_char": 572
+    "start_char": 570,
+    "end_char": 573
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:8:term-usage:1357-1366",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:8:term-usage:1358-1367",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:8",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 1357,
-    "end_char": 1366
+    "start_char": 1358,
+    "end_char": 1367
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:8:term-usage:1474-1477",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:8:term-usage:1475-1478",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:8",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:ley",
     "span": "Ley",
-    "start_char": 1474,
-    "end_char": 1477
+    "start_char": 1475,
+    "end_char": 1478
   },
   {
     "schema_version": "0.1.0",
@@ -316,48 +316,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1462-1484",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1463-1485",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:secretaria-de-hacienda",
     "span": "Secretaría de Hacienda",
-    "start_char": 1462,
-    "end_char": 1484
+    "start_char": 1463,
+    "end_char": 1485
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1516-1525",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1517-1526",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 1516,
-    "end_char": 1525
+    "start_char": 1517,
+    "end_char": 1526
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1675-1693",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1676-1694",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:recursos-del-fondo",
     "span": "Recursos del Fondo",
-    "start_char": 1675,
-    "end_char": 1693
+    "start_char": 1676,
+    "end_char": 1694
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1801-1819",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1802-1820",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:recursos-del-fondo",
     "span": "Recursos del Fondo",
-    "start_char": 1801,
-    "end_char": 1819
+    "start_char": 1802,
+    "end_char": 1820
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1964-1986",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:term-usage:1965-1987",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:secretaria-de-hacienda",
     "span": "Secretaría de Hacienda",
-    "start_char": 1964,
-    "end_char": 1986
+    "start_char": 1965,
+    "end_char": 1987
   },
   {
     "schema_version": "0.1.0",
@@ -442,39 +442,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:14:term-usage:578-600",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:14:term-usage:579-601",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:14",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:secretaria-del-trabajo",
     "span": "Secretaría del Trabajo",
-    "start_char": 578,
-    "end_char": 600
+    "start_char": 579,
+    "end_char": 601
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:14:term-usage:620-642",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:14:term-usage:621-643",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:14",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:secretaria-del-trabajo",
     "span": "Secretaría del Trabajo",
-    "start_char": 620,
-    "end_char": 642
+    "start_char": 621,
+    "end_char": 643
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:14:term-usage:953-960",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:14:term-usage:954-961",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:14",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:consejo",
     "span": "Consejo",
-    "start_char": 953,
-    "end_char": 960
+    "start_char": 954,
+    "end_char": 961
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:14:term-usage:1249-1256",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:14:term-usage:1250-1257",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:14",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:consejo",
     "span": "Consejo",
-    "start_char": 1249,
-    "end_char": 1256
+    "start_char": 1250,
+    "end_char": 1257
   },
   {
     "schema_version": "0.1.0",
@@ -586,120 +586,120 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:383-392",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:384-393",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 383,
-    "end_char": 392
+    "start_char": 384,
+    "end_char": 393
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:507-516",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:508-517",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 507,
-    "end_char": 516
+    "start_char": 508,
+    "end_char": 517
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:638-647",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:639-648",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 638,
-    "end_char": 647
+    "start_char": 639,
+    "end_char": 648
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:862-871",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:863-872",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 862,
-    "end_char": 871
+    "start_char": 863,
+    "end_char": 872
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1090-1099",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1091-1100",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 1090,
-    "end_char": 1099
+    "start_char": 1091,
+    "end_char": 1100
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1219-1228",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1220-1229",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 1219,
-    "end_char": 1228
+    "start_char": 1220,
+    "end_char": 1229
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1324-1333",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1325-1334",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 1324,
-    "end_char": 1333
+    "start_char": 1325,
+    "end_char": 1334
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1725-1734",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1726-1735",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 1725,
-    "end_char": 1734
+    "start_char": 1726,
+    "end_char": 1735
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1842-1845",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1843-1846",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:ley",
     "span": "Ley",
-    "start_char": 1842,
-    "end_char": 1845
+    "start_char": 1843,
+    "end_char": 1846
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1974-1983",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:1975-1984",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 1974,
-    "end_char": 1983
+    "start_char": 1975,
+    "end_char": 1984
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:2319-2328",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:2320-2329",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 2319,
-    "end_char": 2328
+    "start_char": 2320,
+    "end_char": 2329
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:2754-2761",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:2755-2762",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:consejo",
     "span": "Consejo",
-    "start_char": 2754,
-    "end_char": 2761
+    "start_char": 2755,
+    "end_char": 2762
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:2927-2930",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:term-usage:2928-2931",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:ley",
     "span": "Ley",
-    "start_char": 2927,
-    "end_char": 2930
+    "start_char": 2928,
+    "end_char": 2931
   },
   {
     "schema_version": "0.1.0",
@@ -712,12 +712,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:19:term-usage:237-244",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:19:term-usage:238-245",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:19",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:consejo",
     "span": "Consejo",
-    "start_char": 237,
-    "end_char": 244
+    "start_char": 238,
+    "end_char": 245
   },
   {
     "schema_version": "0.1.0",
@@ -829,12 +829,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:26:term-usage:287-296",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:26:term-usage:288-297",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:26",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 287,
-    "end_char": 296
+    "start_char": 288,
+    "end_char": 297
   },
   {
     "schema_version": "0.1.0",
@@ -928,66 +928,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:1851-1860",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:1852-1861",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 1851,
-    "end_char": 1860
+    "start_char": 1852,
+    "end_char": 1861
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:1918-1925",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:1919-1926",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:consejo",
     "span": "Consejo",
-    "start_char": 1918,
-    "end_char": 1925
+    "start_char": 1919,
+    "end_char": 1926
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2112-2134",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2113-2135",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:secretaria-de-hacienda",
     "span": "Secretaría de Hacienda",
-    "start_char": 2112,
-    "end_char": 2134
+    "start_char": 2113,
+    "end_char": 2135
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2296-2305",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2297-2306",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 2296,
-    "end_char": 2305
+    "start_char": 2297,
+    "end_char": 2306
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2394-2397",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2395-2398",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:ley",
     "span": "Ley",
-    "start_char": 2394,
-    "end_char": 2397
+    "start_char": 2395,
+    "end_char": 2398
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2432-2439",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2433-2440",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:consejo",
     "span": "Consejo",
-    "start_char": 2432,
-    "end_char": 2439
+    "start_char": 2433,
+    "end_char": 2440
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2482-2491",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:term-usage:2483-2492",
     "provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
     "term_id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
     "span": "Instituto",
-    "start_char": 2482,
-    "end_char": 2491
+    "start_char": 2483,
+    "end_char": 2492
   },
   {
     "schema_version": "0.1.0",

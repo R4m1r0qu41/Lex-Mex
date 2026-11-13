@@ -27,7 +27,9 @@ III. Derogada. Fracción derogada DOF 25-04-2014
 
 IV. Balance financiero: la diferencia entre los ingresos y el gasto neto total, incluyendo el costo financiero de la deuda pública del Gobierno Federal y de las entidades de control directo;
 
-V. Balance primario: la diferencia entre los ingresos y el gasto neto total, excluyendo el costo financiero de la deuda pública del Gobierno Federal y de las entidades de control directo; VI. Cartera: los Programas y Proyectos de Inversión de conformidad con lo establecido en los artículos [34](../../lfprh/markdown/articulo-34.md), fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 46 de este Reglamento;
+V. Balance primario: la diferencia entre los ingresos y el gasto neto total, excluyendo el costo financiero de la deuda pública del Gobierno Federal y de las entidades de control directo;
+
+VI. Cartera: los Programas y Proyectos de Inversión de conformidad con lo establecido en los artículos [34](../../lfprh/markdown/articulo-34.md), fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 46 de este Reglamento;
 
 VII. Clave presupuestaria: la agrupación de los componentes de las clasificaciones a que se refiere el artículo [28](../../lfprh/markdown/articulo-28.md) de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que identifica, ordena y consolida en un registro, la información de dichas clasificaciones y vincula las asignaciones que se determinan durante la programación, integración y aprobación del Presupuesto de Egresos, con las etapas de control, y las de ejecución y seguimiento del ejercicio del gasto;
 

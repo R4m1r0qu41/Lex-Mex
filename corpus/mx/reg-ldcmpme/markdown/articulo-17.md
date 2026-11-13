@@ -35,4 +35,4 @@ VII. Desarrollo de proveedores y distribuidores con las MIPYMES;
 
 VIII. Acceso a mercados, y
 
-IX. Mejora y simplificación normativa. REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA La Secretaría promoverá la participación del Sector Público y los Sectores en el desarrollo de actividades, tales como la planeación estratégica, la sistematización de la información, la investigación prospectiva, la ejecución de Programas y acciones, y la determinación de los elementos del seguimiento y su evaluación.
+IX. Mejora y simplificación normativa. La Secretaría promoverá la participación del Sector Público y los Sectores en el desarrollo de actividades, tales como la planeación estratégica, la sistematización de la información, la investigación prospectiva, la ejecución de Programas y acciones, y la determinación de los elementos del seguimiento y su evaluación.

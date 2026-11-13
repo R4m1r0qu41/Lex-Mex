@@ -41,6 +41,8 @@ X. Vigilar que las personas puestas a su disposición, permanezcan en el área q
 
 XI. Comunicar a la representación diplomática o consular que corresponda, cuando se ponga a su disposición a un extranjero;
 
-XII. Proporcionar alimentos y agua a los imputados y permitir que sus familiares, en su caso, se los proporcionen; XIII. Proteger su integridad psicofísica durante el tiempo que permanezcan a su disposición, evitando en todo momento se les infrinjan actos de tortura, tratos crueles, inhumanos y degradantes o cualquier otro acto prohibido por las leyes y los instrumentos internacionales, y
+XII. Proporcionar alimentos y agua a los imputados y permitir que sus familiares, en su caso, se los proporcionen;
+
+XIII. Proteger su integridad psicofísica durante el tiempo que permanezcan a su disposición, evitando en todo momento se les infrinjan actos de tortura, tratos crueles, inhumanos y degradantes o cualquier otro acto prohibido por las leyes y los instrumentos internacionales, y
 
 XIV. Las demás que determine la normatividad aplicable.

@@ -29,7 +29,9 @@ IV. Retardar la conciliación de un negocio injustificadamente;
 
 V. No informar a las Juntas de Conciliación y Arbitraje a que se encuentren adscritos respecto de los resultados logrados en las audiencias de conciliación que se les encomienden, con la periodicidad que ellas determinen;
 
-VI. No dar cuenta a las Juntas de Conciliación y Arbitraje de su adscripción sobre los convenios a que hubieren llegado las partes para efectos de su aprobación, cuando proceda; y VII. Las demás que establezcan las Leyes.
+VI. No dar cuenta a las Juntas de Conciliación y Arbitraje de su adscripción sobre los convenios a que hubieren llegado las partes para efectos de su aprobación, cuando proceda; y
+
+VII. Las demás que establezcan las Leyes.
 
 Artículo adicionado DOF 30-11-2012
 

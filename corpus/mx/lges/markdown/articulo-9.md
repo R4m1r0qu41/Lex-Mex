@@ -29,7 +29,9 @@ IV. Fomentar los conocimientos y habilidades digitales a fin de coadyuvar a la e
 
 V. Coadyuvar, a través de la generación, transmisión, aplicación y difusión del conocimiento, a la solución de los problemas locales, regionales, nacionales e internacionales, al cuidado y sustentabilidad del medio ambiente, así como al desarrollo sostenible del país y a la conformación de una sociedad más justa e incluyente;
 
-VI. Contribuir a la preservación, enriquecimiento y difusión de los bienes y valores de las diversas culturas; VII. Ampliar las oportunidades de inclusión social y educativa para coadyuvar al bienestar de la población;
+VI. Contribuir a la preservación, enriquecimiento y difusión de los bienes y valores de las diversas culturas;
+
+VII. Ampliar las oportunidades de inclusión social y educativa para coadyuvar al bienestar de la población;
 
 VIII. Desarrollar las habilidades de las personas que cursen educación superior para facilitar su incorporación a los sectores social, productivo y laboral, y
 

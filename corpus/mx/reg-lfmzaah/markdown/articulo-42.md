@@ -7,8 +7,8 @@ provision_type: article
 number: "42"
 aliases: ["REG-LFMZAAH — Artículo 42"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMZAAH_031220.pdf
 source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 ---
@@ -23,7 +23,9 @@ I.- Nombre y domicilio del solicitante:
 
 II.- Nombre y domicilio del responsable de la obra;
 
-III.- Nombre y domicilio del propietario; IV.- Características, planos y especificaciones de la obra a realizarse;
+III.- Nombre y domicilio del propietario;
+
+IV.- Características, planos y especificaciones de la obra a realizarse;
 
 V.- Planos, descripción y fotografías del estado actual del monumento y, en el caso de ser inmueble, sus colindancias;
 

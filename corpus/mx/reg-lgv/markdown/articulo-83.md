@@ -27,7 +27,9 @@ II. Descripción del daño o daños que haya sufrido la víctima;
 
 III. La evaluación de la condición socioeconómica de la víctima;
 
-IV. Detalle de las necesidades de la víctima para enfrentar las consecuencias del delito o de la violación a sus derechos humanos; V. En caso de contar con ello, relación de partes médicos o psicológicos que detallen las afectaciones a la víctima con motivo de la comisión del delito o de la violación a los derechos humanos;
+IV. Detalle de las necesidades de la víctima para enfrentar las consecuencias del delito o de la violación a sus derechos humanos;
+
+V. En caso de contar con ello, relación de partes médicos o psicológicos que detallen las afectaciones a la víctima con motivo de la comisión del delito o de la violación a los derechos humanos;
 
 VI. Estudio de trabajo social elaborado por el Comité Interdisciplinario Evaluador en el que se haga una relación de las condiciones de victimización que enfrenta la víctima y las necesidades que requiere satisfacer para enfrentar las secuelas de la victimización;
 

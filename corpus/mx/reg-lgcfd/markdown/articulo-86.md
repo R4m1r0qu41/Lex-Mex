@@ -7,8 +7,8 @@ provision_type: article
 number: "86"
 aliases: ["REG-LGCFD — Artículo 86"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -21,7 +21,9 @@ El Comité Nacional Antidopaje tiene las atribuciones siguientes:
 
 I. Planear, coordinar, implementar, monitorear y apoyar las mejoras en el control de dopaje, así como cooperar con otras organizaciones antidopaje con el objetivo de fomentar y uniformar los controles de dopaje;
 
-II. Planear, implementar y monitorear la información, prevención y educación antidopaje, estimulando, fomentando y promoviendo publicaciones referentes a la lucha contra el dopaje en el Deporte; III. Proponer al SINADE los procedimientos de control de dopaje en competencias y fuera de ellas, tomando en consideración los estándares internacionales para los controles vigentes;
+II. Planear, implementar y monitorear la información, prevención y educación antidopaje, estimulando, fomentando y promoviendo publicaciones referentes a la lucha contra el dopaje en el Deporte;
+
+III. Proponer al SINADE los procedimientos de control de dopaje en competencias y fuera de ellas, tomando en consideración los estándares internacionales para los controles vigentes;
 
 IV. Realizar un seguimiento exhaustivo de todas las potenciales infracciones a las normas antidopaje en el país, incluyendo la investigación sobre el personal de apoyo al [Deportista](articulo-2.md), [Entrenadores](articulo-2.md) u otras personas que hayan podido estar involucrados en cada caso de dopaje, evaluando, tras el estudio de los expedientes correspondientes, la resolución de las asociaciones deportivas nacionales en donde se hayan presentado casos con resultados analíticos adversos, y de considerarlo, instarlas a la apertura de expedientes disciplinarios. En caso de discrepancia entre las opiniones vertidas, las autoridades correspondientes notificarán al Deportista para los efectos legales que correspondan;
 

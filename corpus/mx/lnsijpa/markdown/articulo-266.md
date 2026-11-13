@@ -25,4 +25,6 @@ II. Establecer albergues o centros de alojamiento para personas adolescentes que
 
 III. Promover el establecimiento y la organización de centros de desarrollo comunitario, instalaciones y servicios de recreo que atiendan a las personas adolescentes y que les acerquen a la cultura y al deporte, particularmente a quienes se encuentren expuestos a riesgo social;
 
-IV. Establecer centros de prevención, asistencia y tratamiento contra las adicciones especializados para personas adolescentes, que les atiendan de manera integral, con absoluto respeto de sus derechos humanos, y V. Impulsar la creación de organizaciones juveniles de gestión de asuntos comunitarios que alienten a las personas adolescentes a desarrollar proyectos colectivos y voluntarios a favor de la comunidad, en particular proyectos cuya finalidad sea prestar ayuda a personas adolescentes en situación de mayor vulnerabilidad o riesgo.
+IV. Establecer centros de prevención, asistencia y tratamiento contra las adicciones especializados para personas adolescentes, que les atiendan de manera integral, con absoluto respeto de sus derechos humanos, y
+
+V. Impulsar la creación de organizaciones juveniles de gestión de asuntos comunitarios que alienten a las personas adolescentes a desarrollar proyectos colectivos y voluntarios a favor de la comunidad, en particular proyectos cuya finalidad sea prestar ayuda a personas adolescentes en situación de mayor vulnerabilidad o riesgo.

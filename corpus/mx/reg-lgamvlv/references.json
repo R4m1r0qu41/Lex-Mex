@@ -65,19 +65,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:2:reference:2358-2360:36:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:2:reference:2359-2361:36:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgamvlv:article:2",
     "source_span": "36",
-    "start_char": 2358,
-    "end_char": 2360,
+    "start_char": 2359,
+    "end_char": 2361,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:36",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VIII",
-        "start_char": 2362,
-        "end_char": 2375
+        "start_char": 2363,
+        "end_char": 2376
       }
     ],
     "basis": "express_cross_reference",

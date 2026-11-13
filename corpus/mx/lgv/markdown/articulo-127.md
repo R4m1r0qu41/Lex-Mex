@@ -7,8 +7,8 @@ provision_type: article
 number: "127"
 aliases: ["LGV — Artículo 127"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -27,7 +27,7 @@ III. Facilitar el acceso de la víctima a la investigación, con el objeto de re
 
 IV. Colaborar con los tribunales de justicia, el ministerio público, las procuradurías, contralorías y demás autoridades en todas las actuaciones policiales requeridas;
 
-V. Remitir los datos de prueba e informes respectivos, con debida diligencia en concordancia con el artículo [5](articulo-5.md) de la presente Ley;
+V. Remitir los datos de prueba e informes respectivos, con debida diligencia en concordancia con el artículo [5](articulo-5.md) de la presente [Ley](articulo-6.md);
 
 VI. Respetar las mejores prácticas y los estándares mínimos de derecho internacional de los derechos humanos, y
 

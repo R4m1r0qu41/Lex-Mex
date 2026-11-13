@@ -62,7 +62,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "VI",
     "start_char": 1281,
-    "end_char": 1557,
+    "end_char": 1558,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "VII",
-    "start_char": 1557,
-    "end_char": 1757,
+    "start_char": 1558,
+    "end_char": 1758,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "VIII",
-    "start_char": 1757,
-    "end_char": 2271,
+    "start_char": 1758,
+    "end_char": 2272,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "IX",
-    "start_char": 2271,
-    "end_char": 2424,
+    "start_char": 2272,
+    "end_char": 2425,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "X",
-    "start_char": 2424,
-    "end_char": 2798,
+    "start_char": 2425,
+    "end_char": 2799,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "X Bis",
-    "start_char": 2798,
-    "end_char": 3167,
+    "start_char": 2799,
+    "end_char": 3168,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "X Ter",
-    "start_char": 3167,
-    "end_char": 3537,
+    "start_char": 3168,
+    "end_char": 3538,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "X Quáter",
-    "start_char": 3537,
-    "end_char": 3917,
+    "start_char": 3538,
+    "end_char": 3918,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XI",
-    "start_char": 3917,
-    "end_char": 4086,
+    "start_char": 3918,
+    "end_char": 4087,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XII",
-    "start_char": 4086,
-    "end_char": 4202,
+    "start_char": 4087,
+    "end_char": 4203,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XIII",
-    "start_char": 4202,
-    "end_char": 4425,
+    "start_char": 4203,
+    "end_char": 4426,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XIV",
-    "start_char": 4425,
-    "end_char": 4476,
+    "start_char": 4426,
+    "end_char": 4477,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XV",
-    "start_char": 4476,
-    "end_char": 4792,
+    "start_char": 4477,
+    "end_char": 4793,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XVI",
-    "start_char": 4792,
-    "end_char": 4976,
+    "start_char": 4793,
+    "end_char": 4977,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XVII",
-    "start_char": 4976,
-    "end_char": 5162,
+    "start_char": 4977,
+    "end_char": 5163,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XVIII",
-    "start_char": 5162,
-    "end_char": 5388,
+    "start_char": 5163,
+    "end_char": 5389,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XIX",
-    "start_char": 5388,
-    "end_char": 5598,
+    "start_char": 5389,
+    "end_char": 5599,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XX",
-    "start_char": 5598,
-    "end_char": 5663,
+    "start_char": 5599,
+    "end_char": 5664,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XXI",
-    "start_char": 5663,
-    "end_char": 5836,
+    "start_char": 5664,
+    "end_char": 5837,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XXII",
-    "start_char": 5836,
-    "end_char": 6337,
+    "start_char": 5837,
+    "end_char": 6338,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XXIII",
-    "start_char": 6337,
-    "end_char": 6381,
+    "start_char": 6338,
+    "end_char": 6382,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XXIV",
-    "start_char": 6381,
-    "end_char": 6544,
+    "start_char": 6382,
+    "end_char": 6545,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XXV",
-    "start_char": 6544,
-    "end_char": 6746,
+    "start_char": 6545,
+    "end_char": 6747,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgct",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgct:article:6",
     "fraction": "XXVI",
-    "start_char": 6746,
-    "end_char": 6955,
+    "start_char": 6747,
+    "end_char": 6956,
     "basis": "express_definition"
   }
 ]

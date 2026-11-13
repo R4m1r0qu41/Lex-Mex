@@ -28,48 +28,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:726-731",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:727-732",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:pleno",
     "span": "Pleno",
-    "start_char": 726,
-    "end_char": 731
+    "start_char": 727,
+    "end_char": 732
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:736-742",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:737-743",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:organo",
     "span": "Órgano",
-    "start_char": 736,
-    "end_char": 742
+    "start_char": 737,
+    "end_char": 743
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:993-999",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:994-1000",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:pleno",
     "span": "Plenos",
-    "start_char": 993,
-    "end_char": 999
+    "start_char": 994,
+    "end_char": 1000
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:1252-1258",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:1253-1259",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:organo",
     "span": "Órgano",
-    "start_char": 1252,
-    "end_char": 1258
+    "start_char": 1253,
+    "end_char": 1259
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:1344-1350",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:2:term-usage:1345-1351",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:2",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:organo",
     "span": "Órgano",
-    "start_char": 1344,
-    "end_char": 1350
+    "start_char": 1345,
+    "end_char": 1351
   },
   {
     "schema_version": "0.1.0",
@@ -154,21 +154,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:7:term-usage:1357-1373",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:7:term-usage:1358-1374",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:7",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:carrera-judicial",
     "span": "Carrera Judicial",
-    "start_char": 1357,
-    "end_char": 1373
+    "start_char": 1358,
+    "end_char": 1374
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:7:term-usage:1597-1613",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:7:term-usage:1598-1614",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:7",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:carrera-judicial",
     "span": "Carrera Judicial",
-    "start_char": 1597,
-    "end_char": 1613
+    "start_char": 1598,
+    "end_char": 1614
   },
   {
     "schema_version": "0.1.0",
@@ -415,39 +415,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:22:term-usage:311-317",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:22:term-usage:312-318",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:organo",
     "span": "Órgano",
-    "start_char": 311,
-    "end_char": 317
+    "start_char": 312,
+    "end_char": 318
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:22:term-usage:478-494",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:22:term-usage:479-495",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:carrera-judicial",
     "span": "Carrera Judicial",
-    "start_char": 478,
-    "end_char": 494
+    "start_char": 479,
+    "end_char": 495
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:22:term-usage:515-528",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:22:term-usage:516-529",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:suprema-corte",
     "span": "Suprema Corte",
-    "start_char": 515,
-    "end_char": 528
+    "start_char": 516,
+    "end_char": 529
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:22:term-usage:533-551",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:22:term-usage:534-552",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:22",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:tribunal-electoral",
     "span": "Tribunal Electoral",
-    "start_char": 533,
-    "end_char": 551
+    "start_char": 534,
+    "end_char": 552
   },
   {
     "schema_version": "0.1.0",
@@ -1189,12 +1189,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:43:term-usage:1850-1853",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:43:term-usage:1851-1854",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:43",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:ley",
     "span": "Ley",
-    "start_char": 1850,
-    "end_char": 1853
+    "start_char": 1851,
+    "end_char": 1854
   },
   {
     "schema_version": "0.1.0",
@@ -1387,84 +1387,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:647-654",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:648-655",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:titulares",
     "span": "Titular",
-    "start_char": 647,
-    "end_char": 654
+    "start_char": 648,
+    "end_char": 655
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:793-802",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:794-803",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:titulares",
     "span": "Titulares",
-    "start_char": 793,
-    "end_char": 802
+    "start_char": 794,
+    "end_char": 803
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:1035-1044",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:1036-1045",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:titulares",
     "span": "Titulares",
-    "start_char": 1035,
-    "end_char": 1044
+    "start_char": 1036,
+    "end_char": 1045
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:1253-1262",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:1254-1263",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:titulares",
     "span": "Titulares",
-    "start_char": 1253,
-    "end_char": 1262
+    "start_char": 1254,
+    "end_char": 1263
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:1546-1555",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:1547-1556",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:titulares",
     "span": "Titulares",
-    "start_char": 1546,
-    "end_char": 1555
+    "start_char": 1547,
+    "end_char": 1556
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:1944-1951",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:1945-1952",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:titulares",
     "span": "Titular",
-    "start_char": 1944,
-    "end_char": 1951
+    "start_char": 1945,
+    "end_char": 1952
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:2124-2133",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:2125-2134",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:titulares",
     "span": "Titulares",
-    "start_char": 2124,
-    "end_char": 2133
+    "start_char": 2125,
+    "end_char": 2134
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:2272-2281",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:2273-2282",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:titulares",
     "span": "Titulares",
-    "start_char": 2272,
-    "end_char": 2281
+    "start_char": 2273,
+    "end_char": 2282
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:2620-2623",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:51:term-usage:2621-2624",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:51",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:ley",
     "span": "Ley",
-    "start_char": 2620,
-    "end_char": 2623
+    "start_char": 2621,
+    "end_char": 2624
   },
   {
     "schema_version": "0.1.0",
@@ -1900,66 +1900,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:367-370",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:368-371",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:65",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:ley",
     "span": "Ley",
-    "start_char": 367,
-    "end_char": 370
+    "start_char": 368,
+    "end_char": 371
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:585-603",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:586-604",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:65",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:defensoria-publica",
     "span": "Defensoría Pública",
-    "start_char": 585,
-    "end_char": 603
+    "start_char": 586,
+    "end_char": 604
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:924-942",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:925-943",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:65",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:defensoria-publica",
     "span": "Defensoría Pública",
-    "start_char": 924,
-    "end_char": 942
+    "start_char": 925,
+    "end_char": 943
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:1170-1186",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:1171-1187",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:65",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:carrera-judicial",
     "span": "Carrera Judicial",
-    "start_char": 1170,
-    "end_char": 1186
+    "start_char": 1171,
+    "end_char": 1187
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:1594-1610",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:1595-1611",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:65",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:carrera-judicial",
     "span": "Carrera Judicial",
-    "start_char": 1594,
-    "end_char": 1610
+    "start_char": 1595,
+    "end_char": 1611
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:2114-2120",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:2115-2121",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:65",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:organo",
     "span": "Órgano",
-    "start_char": 2114,
-    "end_char": 2120
+    "start_char": 2115,
+    "end_char": 2121
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:2383-2389",
+    "id": "urn:lex-mx:federal:statute:lcjpjf:article:65:term-usage:2384-2390",
     "provision_id": "urn:lex-mx:federal:statute:lcjpjf:article:65",
     "term_id": "urn:lex-mx:federal:statute:lcjpjf:term:organo",
     "span": "Órgano",
-    "start_char": 2383,
-    "end_char": 2389
+    "start_char": 2384,
+    "end_char": 2390
   },
   {
     "schema_version": "0.1.0",

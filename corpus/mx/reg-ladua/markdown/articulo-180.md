@@ -25,7 +25,9 @@ II. Presenten su programa de inversión;
 
 III. Instalen el equipo de cómputo y de transmisión de datos en los términos que señale el [SAT](articulo-1.md);
 
-IV. Cuenten con locales que reúnan las condiciones de seguridad que requiera la Autoridad Aduanera y anexen los planos de los mismos, en donde se señalen las adaptaciones a realizar y los plazos que se requieran para tal efecto; V. Otorguen una garantía en los montos y medios que determine el SAT, y
+IV. Cuenten con locales que reúnan las condiciones de seguridad que requiera la Autoridad Aduanera y anexen los planos de los mismos, en donde se señalen las adaptaciones a realizar y los plazos que se requieran para tal efecto;
+
+V. Otorguen una garantía en los montos y medios que determine el SAT, y
 
 VI. Las demás que establezca el SAT mediante Reglas.
 

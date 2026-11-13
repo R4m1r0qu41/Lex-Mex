@@ -17,6 +17,8 @@ source_sha256: b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef
 
 # Artículo 331
 
-Los dependientes podrán despedirse de sus principales antes del plazo fijado: I.- Por falta de cumplimiento, por parte del principal, de cualquiera de las condiciones concertadas en beneficio del dependiente;
+Los dependientes podrán despedirse de sus principales antes del plazo fijado:
+
+I.- Por falta de cumplimiento, por parte del principal, de cualquiera de las condiciones concertadas en beneficio del dependiente;
 
 II.- Por malos tratamientos ú ofensas graves, por parte del principal.

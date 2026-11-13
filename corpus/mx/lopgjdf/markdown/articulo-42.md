@@ -33,6 +33,8 @@ VI. Haber aprobado el concurso de ingreso y el Diplomado en Ciencias Forenses im
 
 VII. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
 
-VIII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables; IX. Acreditar los exámenes y evaluaciones, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General del Sistema Nacional de Seguridad Pública, y,
+VIII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
+
+IX. Acreditar los exámenes y evaluaciones, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General del Sistema Nacional de Seguridad Pública, y,
 
 X. Los demás requisitos que establezcan otras disposiciones aplicables.

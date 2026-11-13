@@ -19,7 +19,9 @@ source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
 
 Resolución que ordena el cateo La resolución judicial que ordena el cateo deberá contener cuando menos:
 
-I. El nombre y cargo del Juez de control que lo autoriza y la identificación del expediente en el cual se ordena. II. La determinación concreta del lugar o los lugares que habrán de ser cateados y lo que se espera encontrar en estos.
+I. El nombre y cargo del Juez de control que lo autoriza y la identificación del expediente en el cual se ordena.
+
+II. La determinación concreta del lugar o los lugares que habrán de ser cateados y lo que se espera encontrar en estos.
 
 III. El motivo del cateo, debiéndose indicar o expresar los indicios de los que se desprenda la posibilidad de encontrar en el lugar la persona o personas que hayan de aprehenderse o los objetos que se buscan.
 

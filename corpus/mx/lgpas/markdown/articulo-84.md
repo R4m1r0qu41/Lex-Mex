@@ -19,7 +19,9 @@ source_sha256: 160e5e85efddb1749a79f6b154af31711a9b31a5e32bace3c07e2859c2620ecf
 
 La Carta Nacional Acuícola deberá contener, al menos, la siguiente información:
 
-I. El inventario de las especies acuícolas susceptibles de reproducción y cultivo; II. Caracterización de las zonas por su vocación y potencial de cultivo;
+I. El inventario de las especies acuícolas susceptibles de reproducción y cultivo;
+
+II. Caracterización de las zonas por su vocación y potencial de cultivo;
 
 III. Análisis de capacidad instalada por región;
 

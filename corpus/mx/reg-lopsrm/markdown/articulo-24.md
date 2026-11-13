@@ -19,7 +19,9 @@ source_sha256: 2828ab54bad472120dc40073d722c684b122a714662f3559bfcf22a79f04bfe9
 
 Las dependencias y entidades sólo iniciarán la ejecución de obras o servicios, ya sea por administración directa o por contrato, cuando:
 
-I. Cuenten, dependiendo del tipo de contrato, con los estudios y proyectos de arquitectura e ingeniería; las especificaciones técnicas generales y particulares y las normas de calidad correspondientes; el presupuesto de obra total y, en su caso, para cada ejercicio presupuestario; el programa de ejecución convenido, los programas de suministro de materiales, mano de obra y maquinaria y equipo y, en su caso, de equipo de instalación permanente, ya sea que éstos sean proporcionados por la convocante o los contratistas. Tratándose de servicios se deberá contar con los términos de referencia; los programas de prestación de servicios; la plantilla y organigrama del personal, y el presupuesto de los trabajos; II. Se haya garantizado y formalizado el contrato o el acuerdo de ejecución por administración directa, y
+I. Cuenten, dependiendo del tipo de contrato, con los estudios y proyectos de arquitectura e ingeniería; las especificaciones técnicas generales y particulares y las normas de calidad correspondientes; el presupuesto de obra total y, en su caso, para cada ejercicio presupuestario; el programa de ejecución convenido, los programas de suministro de materiales, mano de obra y maquinaria y equipo y, en su caso, de equipo de instalación permanente, ya sea que éstos sean proporcionados por la convocante o los contratistas. Tratándose de servicios se deberá contar con los términos de referencia; los programas de prestación de servicios; la plantilla y organigrama del personal, y el presupuesto de los trabajos;
+
+II. Se haya garantizado y formalizado el contrato o el acuerdo de ejecución por administración directa, y
 
 III. Se haya designado por escrito a las personas que se encargarán de la residencia y de la superintendencia del contratista.
 

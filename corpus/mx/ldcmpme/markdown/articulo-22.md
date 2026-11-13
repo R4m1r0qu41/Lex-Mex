@@ -33,7 +33,9 @@ VI. Facilitar la integración entre las MIPYMES;
 
 VII. Impulsar la vinculación de las MIPYMES con la gran empresa;
 
-VIII. Estimular la integración y eficiencia de las cadenas productivas, con la participación de los Sectores, con una visión de corto, mediano y largo plazo; IX. Formular mecanismos y estrategias de promoción a la exportación directa e indirecta de las MIPYMES;
+VIII. Estimular la integración y eficiencia de las cadenas productivas, con la participación de los Sectores, con una visión de corto, mediano y largo plazo;
+
+IX. Formular mecanismos y estrategias de promoción a la exportación directa e indirecta de las MIPYMES;
 
 X. Impulsar esquemas que faciliten el acceso al financiamiento de las MIPYMES, y
 

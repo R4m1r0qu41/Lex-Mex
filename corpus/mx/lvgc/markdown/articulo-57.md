@@ -17,7 +17,9 @@ source_sha256: a4becbaa8039573e226e916618697661f1294aa26dac434a01144ba65b13699e
 
 # Artículo 57
 
-Las empresas estarán obligadas a aplicar las tarifas sin variación alguna. Quedan, en consecuencia, prohibidos: I.- Todos los actos o contratos por los que se conceda directa o indirectamente a una o más personas, ya sea a un precio menor que el autorizado en la tarifa, ya sean condiciones distintas de las que ésta establece.
+Las empresas estarán obligadas a aplicar las tarifas sin variación alguna. Quedan, en consecuencia, prohibidos:
+
+I.- Todos los actos o contratos por los que se conceda directa o indirectamente a una o más personas, ya sea a un precio menor que el autorizado en la tarifa, ya sean condiciones distintas de las que ésta establece.
 
 II.- La devolución de todo o de parte del precio cobrado, cuando tienda a reducir las cuotas de las tarifas, aun cuando no se haga directamente a los interesados, sino a personas que puedan considerarse como intermediarias, ya sean agentes, comisionistas, etc., y
 

@@ -17,7 +17,9 @@ source_sha256: a4becbaa8039573e226e916618697661f1294aa26dac434a01144ba65b13699e
 
 # Artículo 69
 
-Las empresas de transporte no tienen derecho para limitar la responsabilidad que les impone esta ley con motivo del transporte, excepto en los casos siguientes: I.- Aquellos en que una tarifa fije cuotas más bajas que las ordinarias, a cambio de que la empresa asuma la obligación de pagar por la mercancía, en caso de pérdida, no el valor real de ésta, sino uno menor señalado en la tarifa, y
+Las empresas de transporte no tienen derecho para limitar la responsabilidad que les impone esta ley con motivo del transporte, excepto en los casos siguientes:
+
+I.- Aquellos en que una tarifa fije cuotas más bajas que las ordinarias, a cambio de que la empresa asuma la obligación de pagar por la mercancía, en caso de pérdida, no el valor real de ésta, sino uno menor señalado en la tarifa, y
 
 II.- Aquel en que la tarifa sea reducida porque la empresa quede relevada de responsabilidad o limitada ésta, por retardo que le sea imputable en la entrega de la mercancía.
 

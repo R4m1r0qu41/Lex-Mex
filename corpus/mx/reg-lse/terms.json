@@ -51,7 +51,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "V",
     "start_char": 1534,
-    "end_char": 1627,
+    "end_char": 1628,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "VI",
-    "start_char": 1627,
-    "end_char": 2092,
+    "start_char": 1628,
+    "end_char": 2093,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "VII",
-    "start_char": 2092,
-    "end_char": 2311,
+    "start_char": 2093,
+    "end_char": 2312,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "VIII",
-    "start_char": 2311,
-    "end_char": 2661,
+    "start_char": 2312,
+    "end_char": 2662,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "IX",
-    "start_char": 2661,
-    "end_char": 2882,
+    "start_char": 2662,
+    "end_char": 2883,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "X",
-    "start_char": 2882,
-    "end_char": 3363,
+    "start_char": 2883,
+    "end_char": 3364,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XI",
-    "start_char": 3363,
-    "end_char": 3758,
+    "start_char": 3364,
+    "end_char": 3759,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XII",
-    "start_char": 3758,
-    "end_char": 3813,
+    "start_char": 3759,
+    "end_char": 3814,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XIII",
-    "start_char": 3813,
-    "end_char": 4396,
+    "start_char": 3814,
+    "end_char": 4397,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XIV",
-    "start_char": 4396,
-    "end_char": 4655,
+    "start_char": 4397,
+    "end_char": 4656,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XV",
-    "start_char": 4655,
-    "end_char": 5035,
+    "start_char": 4656,
+    "end_char": 5036,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XVI",
-    "start_char": 5035,
-    "end_char": 5301,
+    "start_char": 5036,
+    "end_char": 5302,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XVII",
-    "start_char": 5301,
-    "end_char": 5738,
+    "start_char": 5302,
+    "end_char": 5739,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XVIII",
-    "start_char": 5738,
-    "end_char": 5776,
+    "start_char": 5739,
+    "end_char": 5778,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XIX",
-    "start_char": 5776,
-    "end_char": 6158,
+    "start_char": 5778,
+    "end_char": 6160,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XX",
-    "start_char": 6158,
-    "end_char": 6490,
+    "start_char": 6160,
+    "end_char": 6492,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXI",
-    "start_char": 6490,
-    "end_char": 7068,
+    "start_char": 6492,
+    "end_char": 7070,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXII",
-    "start_char": 7068,
-    "end_char": 7481,
+    "start_char": 7070,
+    "end_char": 7483,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXIII",
-    "start_char": 7481,
-    "end_char": 7780,
+    "start_char": 7483,
+    "end_char": 7782,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXIV",
-    "start_char": 7780,
-    "end_char": 8130,
+    "start_char": 7782,
+    "end_char": 8132,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXV",
-    "start_char": 8130,
-    "end_char": 8688,
+    "start_char": 8132,
+    "end_char": 8690,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXVI",
-    "start_char": 8688,
-    "end_char": 9169,
+    "start_char": 8690,
+    "end_char": 9171,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXVII",
-    "start_char": 9169,
-    "end_char": 9666,
+    "start_char": 9171,
+    "end_char": 9668,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXVIII",
-    "start_char": 9666,
-    "end_char": 10011,
+    "start_char": 9668,
+    "end_char": 10013,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXIX",
-    "start_char": 10011,
-    "end_char": 10124,
+    "start_char": 10013,
+    "end_char": 10126,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXX",
-    "start_char": 10124,
-    "end_char": 10592,
+    "start_char": 10126,
+    "end_char": 10594,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXXI",
-    "start_char": 10592,
-    "end_char": 10907,
+    "start_char": 10594,
+    "end_char": 10909,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lse",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lse:article:2",
     "fraction": "XXXII",
-    "start_char": 10907,
-    "end_char": 11166,
+    "start_char": 10909,
+    "end_char": 11168,
     "basis": "express_definition"
   }
 ]

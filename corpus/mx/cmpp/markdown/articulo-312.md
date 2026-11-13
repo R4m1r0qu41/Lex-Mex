@@ -19,7 +19,9 @@ source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
 
 Requisitos para dictar el auto de vinculación a proceso El Juez de control, a petición del agente del [Ministerio Público](articulo-3.md), dictará el auto de vinculación del imputado a proceso, siempre que:
 
-I. Se haya formulado la imputación. II. Se haya otorgado al imputado la oportunidad para declarar.
+I. Se haya formulado la imputación.
+
+II. Se haya otorgado al imputado la oportunidad para declarar.
 
 III. De los antecedentes de la investigación expuestos por el Ministerio Público, se desprendan datos de prueba que establezcan que se ha cometido un hecho que la ley señala como delito y que exista la probabilidad de que el imputado lo cometió o participó en su comisión. Se entenderá que obran datos que establecen que se ha cometido un hecho que la ley señale como delito cuando existan indicios razonables que así permitan suponerlo.
 

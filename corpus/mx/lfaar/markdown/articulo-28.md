@@ -27,6 +27,8 @@ III. Causar daño patrimonial al [Fondo de Aseguramiento](articulo-2o.md) o a su
 
 IV. No cubrir totalmente y en forma oportuna al Fondo de Aseguramiento las aportaciones a su cargo;
 
-V. No realizar operaciones de seguros con el Fondo de Aseguramiento, y VI. Las demás que establezcan los Estatutos.
+V. No realizar operaciones de seguros con el Fondo de Aseguramiento, y
+
+VI. Las demás que establezcan los Estatutos.
 
 La suspensión podrá ser hasta por dos años según lo acuerde la Asamblea General de Socios. En caso de daños causados, la suspensión durará hasta que los mismos sean reparados o compensados a satisfacción del Fondo de Aseguramiento o de los socios afectados. En caso de reincidencia, la Asamblea General de Socios podrá resolver la exclusión del socio, lo que implicará la pérdida definitiva de sus derechos como tal.

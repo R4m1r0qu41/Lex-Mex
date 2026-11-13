@@ -41,7 +41,9 @@ IX. Recibir transferencias de documentos de archivo con valor histórico de suje
 
 X. Analizar y aprobar, en su caso, las peticiones de particulares que posean documentos y soliciten sean incorporados de manera voluntaria a acervos del Archivo General;
 
-XI. Establecer técnicas de reproducción que no afecten la integridad física de los documentos; XII. Proveer, cuando los documentos históricos presenten un deterioro físico que impida acceder a ellos directamente, su conservación y restauración que permita su posterior reproducción que no afecte la integridad del documento;
+XI. Establecer técnicas de reproducción que no afecten la integridad física de los documentos;
+
+XII. Proveer, cuando los documentos históricos presenten un deterioro físico que impida acceder a ellos directamente, su conservación y restauración que permita su posterior reproducción que no afecte la integridad del documento;
 
 XIII. Desarrollar investigaciones encaminadas a la organización, conservación y difusión del patrimonio documental que resguarda;
 
@@ -75,7 +77,9 @@ XXVII. Brindar asesoría técnica sobre gestión documental y administración de
 
 XXVIII. Coadyuvar en la elaboración de Normas Oficiales Mexicanas en materia de archivos o vinculadas a la misma;
 
-XXIX. Fomentar el desarrollo profesional de archivólogos, archivónomos y archivistas, a través de convenios de colaboración o concertación con autoridades e instituciones educativas públicas o privadas, nacionales o extranjeras; XXX. Proporcionar los servicios complementarios que determinen las disposiciones reglamentarias y demás disposiciones jurídicas aplicables;
+XXIX. Fomentar el desarrollo profesional de archivólogos, archivónomos y archivistas, a través de convenios de colaboración o concertación con autoridades e instituciones educativas públicas o privadas, nacionales o extranjeras;
+
+XXX. Proporcionar los servicios complementarios que determinen las disposiciones reglamentarias y demás disposiciones jurídicas aplicables;
 
 XXXI. Suscribir convenios en materia archivística en el ámbito nacional e internacional, en coordinación con las autoridades competentes en la materia;
 

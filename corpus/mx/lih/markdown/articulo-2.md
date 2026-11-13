@@ -7,8 +7,8 @@ provision_type: article
 number: "2"
 aliases: ["LIH — Artículo 2"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf
 source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 ---
@@ -17,7 +17,9 @@ source_sha256: 8262a75eac7bfb608d4f48657ffb2714fe115d0b9694c42ac81624fd275bf5f6
 
 # Artículo 2
 
-Sin perjuicio de las demás obligaciones fiscales de los Contratistas y Asignatarios, el Estado Mexicano percibirá ingresos por las actividades de Exploración y Extracción de Hidrocarburos conforme a lo siguiente: I. Por [Contrato](articulo-3.md), las [Contraprestaciones](articulo-3.md) establecidas a favor del Estado en cada Contrato de conformidad con esta Ley;
+Sin perjuicio de las demás obligaciones fiscales de los Contratistas y Asignatarios, el Estado Mexicano percibirá ingresos por las actividades de Exploración y Extracción de Hidrocarburos conforme a lo siguiente:
+
+I. Por [Contrato](articulo-3.md), las [Contraprestaciones](articulo-3.md) establecidas a favor del Estado en cada Contrato de conformidad con esta Ley;
 
 II. Por Asignación, el derecho a que se refiere el Título Tercero de esta Ley; Fracción reformada DOF 18-03-2025
 

@@ -65,7 +65,9 @@ XXII. Celebrar convenios, acuerdos y todo tipo de actos jurídicos que sean nece
 
 XXIII. Promover la coordinación de acciones y programas que realicen otras dependencias y entidades de la Administración Pública Federal, de los gobiernos estatales y municipales y del Distrito Federal, que tengan como destinatarios a las personas adultas mayores, buscando con ello optimizar la utilización de los recursos materiales y humanos y evitar la duplicidad de acciones; Fracción reformada DOF 26-01-2005
 
-XXIV. Establecer reuniones con instituciones afines, nacionales e internacionales, para intercambiar experiencias que permitan orientar las acciones y programas en busca de nuevas alternativas de atención; XXV. Promover y difundir las acciones y programas de atención integral a favor de las personas adultas mayores, así como los resultados de las investigaciones sobre la vejez y su participación social, política y económica; Fracción reformada DOF 26-01-2005
+XXIV. Establecer reuniones con instituciones afines, nacionales e internacionales, para intercambiar experiencias que permitan orientar las acciones y programas en busca de nuevas alternativas de atención;
+
+XXV. Promover y difundir las acciones y programas de atención integral a favor de las personas adultas mayores, así como los resultados de las investigaciones sobre la vejez y su participación social, política y económica; Fracción reformada DOF 26-01-2005
 
 XXVI. Promover la participación de las personas adultas mayores en todas las áreas de la vida pública, a fin de que sean copartícipes y protagonistas de su propio cambio; Fracción reformada DOF 26-01-2005
 

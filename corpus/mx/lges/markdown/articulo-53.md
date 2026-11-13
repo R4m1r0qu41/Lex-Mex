@@ -17,7 +17,9 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 # Artículo 53
 
-El Consejo Nacional para la Coordinación de la Educación Superior tendrá las siguientes funciones: I. Fomentar la deliberación y la construcción de consensos entre sus integrantes para la formulación e implementación de estrategias y acciones para el desarrollo de la educación superior con base en lo previsto en esta Ley;
+El Consejo Nacional para la Coordinación de la Educación Superior tendrá las siguientes funciones:
+
+I. Fomentar la deliberación y la construcción de consensos entre sus integrantes para la formulación e implementación de estrategias y acciones para el desarrollo de la educación superior con base en lo previsto en esta Ley;
 
 II. Promover la interrelación entre el tipo de educación superior, el de media superior y el de básica, para formular estrategias comunes que ofrezcan una formación integral al educando y cuente con una preparación académica que le permita continuidad en su trayecto escolar y un egreso oportuno en educación superior;
 

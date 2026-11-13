@@ -21,4 +21,6 @@ Recibidas las constancias por el tribunal de segunda instancia, éste procederá
 
 I. Radicará el asunto en segunda instancia;
 
-II. Analizará minuciosamente si se interpuso en los términos establecidos en el artículo [164](articulo-164.md) de esta [Ley](articulo-2.md), y III. Si la apelación es admitida, citará a las partes para oír resolución, la cual deberá dictarse dentro del plazo de quince días contados a partir de que surta efectos la notificación del auto al que se refiere este artículo, bajo responsabilidad de la autoridad que conozca en segunda instancia por el retardo en la administración de justicia.
+II. Analizará minuciosamente si se interpuso en los términos establecidos en el artículo [164](articulo-164.md) de esta [Ley](articulo-2.md), y
+
+III. Si la apelación es admitida, citará a las partes para oír resolución, la cual deberá dictarse dentro del plazo de quince días contados a partir de que surta efectos la notificación del auto al que se refiere este artículo, bajo responsabilidad de la autoridad que conozca en segunda instancia por el retardo en la administración de justicia.

@@ -39,7 +39,9 @@ VII. Designación del representante legal y domicilio para oír y recibir notifi
 
 VIII. Designación de la persona encargada del manejo de los recursos financieros y de la rendición de informes correspondientes.
 
-c) La solicitud deberá acompañarse de la siguiente documentación: I. Formato en el que manifieste su voluntad de ser Candidato Independiente, a que se refiere esta Ley;
+c) La solicitud deberá acompañarse de la siguiente documentación:
+
+I. Formato en el que manifieste su voluntad de ser Candidato Independiente, a que se refiere esta Ley;
 
 II. Copia del acta de nacimiento y del anverso y reverso de la credencial para votar vigente;
 

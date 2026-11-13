@@ -39,4 +39,6 @@ VIII. Establecer servicios de información y atención a los Trabajadores;
 
 IX. Entregar los recursos a la [Aseguradora](articulo-6.md) o Administradora que el Trabajador o sus Familiares [Derechohabientes](articulo-6.md) hayan elegido, para la contratación de [Rentas](articulo-6.md) vitalicias, del [Seguro de Sobrevivencia](articulo-6.md), o [Retiros Programados](articulo-6.md);
 
-X. Contratar cualquier tipo de servicios requeridos para la administración de las Cuentas Individuales y la inversión de los recursos, y XI. Las demás que le otorguen ésta u otras leyes.
+X. Contratar cualquier tipo de servicios requeridos para la administración de las Cuentas Individuales y la inversión de los recursos, y
+
+XI. Las demás que le otorguen ésta u otras leyes.

@@ -17,4 +17,4 @@ source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 
 # Artículo 27
 
-En los términos de los lineamientos que emita el Consejo se podrá establecer la integración de los Grupos de Trabajo que atenderá a criterios de desarrollo regional. REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+En los términos de los lineamientos que emita el Consejo se podrá establecer la integración de los Grupos de Trabajo que atenderá a criterios de desarrollo regional.

@@ -35,4 +35,6 @@ VI.- Establecerá la política de investigación y desarrollo tecnológico en la
 
 VII.- Tendrá a su cargo el almacenamiento, transporte y depósito de combustibles nucleares y de desechos radiactivos cualquiera que sea su origen;
 
-VIII.- Podrá autorizar a los organismos públicos correspondientes el almacenamiento temporal de combustibles nucleares y de desechos radiactivos derivados de su utilización, y IX.- Será responsable de la observancia de los tratados y demás instrumentos jurídicos internacionales suscritos en materia nuclear, en el ámbito de su competencia.
+VIII.- Podrá autorizar a los organismos públicos correspondientes el almacenamiento temporal de combustibles nucleares y de desechos radiactivos derivados de su utilización, y
+
+IX.- Será responsable de la observancia de los tratados y demás instrumentos jurídicos internacionales suscritos en materia nuclear, en el ámbito de su competencia.

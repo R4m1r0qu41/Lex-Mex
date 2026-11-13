@@ -21,6 +21,8 @@ Para tal efecto, el Instituto podrá otorgar las garantías o instrumentos de pa
 
 Para concluir las operaciones a que se refiere este artículo, el Instituto deberá observar lo siguiente:
 
-I. Se aplicará íntegramente el capital de las Instituciones mencionadas a cubrir sus pérdidas, y II. La suma de las garantías o instrumentos de pago prevista en la Sección Cuarta del documento mencionado en el primer párrafo de este artículo, no podrá exceder del monto total actualizado conforme a la Tasa de Interés Interbancaria de Equilibrio;
+I. Se aplicará íntegramente el capital de las Instituciones mencionadas a cubrir sus pérdidas, y
+
+II. La suma de las garantías o instrumentos de pago prevista en la Sección Cuarta del documento mencionado en el primer párrafo de este artículo, no podrá exceder del monto total actualizado conforme a la Tasa de Interés Interbancaria de Equilibrio;
 
 III. Si de las auditorías que al efecto se realicen resultaren operaciones ilegales, el Instituto deberá proceder a instaurar las demandas y denuncias correspondientes, a fin de deslindar las responsabilidades económicas a que hubiere lugar.

@@ -29,7 +29,9 @@ IV. Promover la actividad de clubes, asociaciones, ligas y deportistas, cuando e
 
 V. Cooperar con los Órganos de las entidades federativas de Cultura Física y Deporte y, en su caso, con los Municipales o demarcaciones territoriales de la Ciudad de México, y con el sector social y privado, en el desarrollo de los planes de la actividad deportiva escolar y universitaria, así como en los de construcción, mejora y sostenimiento de instalaciones deportivas para el desarrollo del deporte de alto rendimiento; Fracción reformada DOF 19-01-2018
 
-VI. Promover con los [CONDE](articulo-4.md), Universidades y demás instituciones educativas la participación en los programas deportivos y cooperar con éstos para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas; VII. Promover con las Universidades la participación en los programas deportivos universitarios y cooperar con éstas para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
+VI. Promover con los [CONDE](articulo-4.md), Universidades y demás instituciones educativas la participación en los programas deportivos y cooperar con éstos para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
+
+VII. Promover con las Universidades la participación en los programas deportivos universitarios y cooperar con éstas para la dotación de instalaciones y medios necesarios para el desarrollo de sus programas;
 
 VIII. Contribuir a elevar el desarrollo deportivo de los países de nuestro entorno histórico y cultural en respuesta a tratados o convenios de cooperación internacional;
 

@@ -23,6 +23,8 @@ I. En el caso de porcentaje de germinación se deberá señalar la fecha del úl
 
 II. En caso de que se haya aplicado un tratamiento que implique un riesgo para la salud, deberá contener la leyenda de: “No apta para consumo humano y animal; así como materia prima para la industria de productos comestibles”;
 
-III. En caso de señalarse como semilla calificada, deberá acompañarse de la etiqueta de calificación, entregada por el SNICS u organismo de certificación. En caso de ser semilla que se encuentra en proceso de calificación y requiere de movilización, ésta deberá estar debidamente identificada en forma documental por el SNICS u organismo de certificación, y IV. Señalar, según lo establecido en la Regla para el cultivo correspondiente, la tolerancia máxima de semillas de plantas nocivas o cuarentenarias conforme a lo señalado en las normas oficiales mexicanas.
+III. En caso de señalarse como semilla calificada, deberá acompañarse de la etiqueta de calificación, entregada por el SNICS u organismo de certificación. En caso de ser semilla que se encuentra en proceso de calificación y requiere de movilización, ésta deberá estar debidamente identificada en forma documental por el SNICS u organismo de certificación, y
+
+IV. Señalar, según lo establecido en la Regla para el cultivo correspondiente, la tolerancia máxima de semillas de plantas nocivas o cuarentenarias conforme a lo señalado en las normas oficiales mexicanas.
 
 Para dar cumplimiento al artículo [33](../../lfpccs/markdown/articulo-33.md) de la Ley, el SNICS deberá tener evidencia de que el producto en movilización o puesto en venta, es semilla para siembra.

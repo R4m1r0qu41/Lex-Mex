@@ -27,6 +27,8 @@ III. Dar a conocer a las autoridades competentes aquellos hechos no constitutivo
 
 IV. Conocer de las quejas por demoras, excesos y faltas de los Agentes del Ministerio Público, de la Policía de Investigación, Oficiales Secretarios y Peritos, iniciando los procedimientos legales que correspondan en los términos fijados por las normas reglamentarias y demás disposiciones aplicables;
 
-V. Ejercer y desarrollar normas de inspección, supervisión y vigilancia en el aspecto técnico-jurídico en todas las unidades del Ministerio Público, Policía de Investigación y Peritos, así como realizar operativos de supervisión, visitas, estudios o análisis, monitoreo y demás medios de control e inspección; VI. Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes con base en el Sistema Integral de Justicia para Adolescentes; y,
+V. Ejercer y desarrollar normas de inspección, supervisión y vigilancia en el aspecto técnico-jurídico en todas las unidades del Ministerio Público, Policía de Investigación y Peritos, así como realizar operativos de supervisión, visitas, estudios o análisis, monitoreo y demás medios de control e inspección;
+
+VI. Velar en todo momento, en los asuntos de su conocimiento, por el respeto, integridad, dignidad y estricto cumplimiento de los derechos y garantías de los adolescentes con base en el Sistema Integral de Justicia para Adolescentes; y,
 
 VII. Las demás que establezcan las normas legales aplicables.

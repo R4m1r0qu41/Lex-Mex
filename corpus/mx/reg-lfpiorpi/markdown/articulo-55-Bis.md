@@ -21,7 +21,7 @@ El reconocimiento expreso referido en el artículo [55](../../lfpiorpi/markdown/
 
 a) Presentar escrito libre ante el SAT firmado por quien realiza la Actividad Vulnerable o su representante legal, adjuntando la documentación que acredite dicha personalidad;
 
-b) En el escrito deberá especificar de forma clara y precisa la totalidad de las faltas en que incurrió, detallando la operación y el periodo en que se debió haber dado cumplimiento; REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA c) Manifestar, bajo protesta de decir verdad, que la totalidad de las faltas detalladas han sido corregidas o subsanadas, y
+b) En el escrito deberá especificar de forma clara y precisa la totalidad de las faltas en que incurrió, detallando la operación y el periodo en que se debió haber dado cumplimiento; c) Manifestar, bajo protesta de decir verdad, que la totalidad de las faltas detalladas han sido corregidas o subsanadas, y
 
 d) Anexar la documentación que acredite el cumplimiento de la totalidad de las obligaciones objeto de infracción.
 

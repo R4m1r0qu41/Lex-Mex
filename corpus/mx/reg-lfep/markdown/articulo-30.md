@@ -49,7 +49,9 @@ g) Formulación de las recomendaciones procedentes, y
 
 h) Los demás que se consideren necesarios;
 
-VII. Evaluar aspectos específicos de las entidades paraestatales y hacer las recomendaciones procedentes; VIII. Vigilar y dar seguimiento a los procesos de desincorporación de las entidades paraestatales; fungir como representante de la Secretaría de la Contraloría General de la Federación ante las dependencias, entidades e instancias que Intervengan en estos procesos. Requerir a las instancias involucradas la información necesaria para el cumplimiento de las funciones a su cargo, así como recomendar las medidas que procedan tendientes a promover la conclusión de los procesos con estricto apego a las a las disposiciones aplicables;
+VII. Evaluar aspectos específicos de las entidades paraestatales y hacer las recomendaciones procedentes;
+
+VIII. Vigilar y dar seguimiento a los procesos de desincorporación de las entidades paraestatales; fungir como representante de la Secretaría de la Contraloría General de la Federación ante las dependencias, entidades e instancias que Intervengan en estos procesos. Requerir a las instancias involucradas la información necesaria para el cumplimiento de las funciones a su cargo, así como recomendar las medidas que procedan tendientes a promover la conclusión de los procesos con estricto apego a las a las disposiciones aplicables;
 
 IX. Verificar la debida integración y funcionamiento de los órganos de gobierno de las entidades;
 

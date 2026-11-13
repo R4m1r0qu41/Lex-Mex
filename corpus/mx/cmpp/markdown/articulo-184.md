@@ -17,7 +17,9 @@ source_sha256: 351c69a7bc3f61976933d76e45cf185a721a331a145778dd3f315df5216a5e32
 
 # Artículo 184
 
-Control sobre los acuerdos reparatorios Procederán los acuerdos reparatorios únicamente en los casos siguientes: I. Delitos que se persiguen por querella, por requisito equivalente de parte ofendida o que admitan el perdón de la víctima u ofendido.
+Control sobre los acuerdos reparatorios Procederán los acuerdos reparatorios únicamente en los casos siguientes:
+
+I. Delitos que se persiguen por querella, por requisito equivalente de parte ofendida o que admitan el perdón de la víctima u ofendido.
 
 II. Delitos no intencionales o de imprudencia.
 

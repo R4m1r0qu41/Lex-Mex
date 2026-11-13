@@ -284,19 +284,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpisdme:article:7:reference:583-585:73:direct",
+    "id": "urn:lex-mx:federal:statute:lgpisdme:article:7:reference:584-586:73:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgpisdme:article:7",
     "source_span": "73",
-    "start_char": 583,
-    "end_char": 585,
+    "start_char": 584,
+    "end_char": 586,
     "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
     "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:73",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XXI",
-        "start_char": 557,
-        "end_char": 569
+        "start_char": 558,
+        "end_char": 570
       }
     ],
     "basis": "express_cross_reference",

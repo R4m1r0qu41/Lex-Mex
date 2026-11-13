@@ -390,11 +390,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaebsp:article:39:reference:744-746:68:direct",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:39:reference:745-747:68:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:39",
     "source_span": "68",
-    "start_char": 744,
-    "end_char": 746,
+    "start_char": 745,
+    "end_char": 747,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
     "target_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:68",
     "qualifiers": [],
@@ -406,11 +406,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaebsp:article:39:reference:929-931:31:direct",
+    "id": "urn:lex-mx:federal:statute:lfaebsp:article:39:reference:930-932:31:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:39",
     "source_span": "31",
-    "start_char": 929,
-    "end_char": 931,
+    "start_char": 930,
+    "end_char": 932,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
     "target_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:31",
     "qualifiers": [],
@@ -429,14 +429,7 @@
     "end_char": 1051,
     "target_instrument_id": "urn:lex-mx:federal:statute:lfaebsp",
     "target_provision_id": "urn:lex-mx:federal:statute:lfaebsp:article:2",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1100,
-        "end_char": 1111
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -893,28 +886,5 @@
     "resolution_status": "resolved",
     "reference_form": "direct",
     "resolution_rule": "own_instrument_marker"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfaebsp:transitory:noveno:reference:557-559:89:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lfaebsp:transitory:noveno",
-    "source_span": "89",
-    "start_char": 557,
-    "end_char": 559,
-    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
-    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 533,
-        "end_char": 543
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct",
-    "resolution_rule": "named_instrument"
   }
 ]

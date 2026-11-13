@@ -23,7 +23,9 @@ I. Cuando el acreedor rehuse recibir la cantidad correspondiente;
 
 II. Cuando el acreedor se niegue a entregar el comprobante de pago;
 
-III. Cuando exista duda sobre la procedencia del pago; IV. Mientras exista incumplimiento de algunas de las obligaciones contraídas por la contraparte, en tanto se concluye el procedimiento ante la Procuraduría;
+III. Cuando exista duda sobre la procedencia del pago;
+
+IV. Mientras exista incumplimiento de algunas de las obligaciones contraídas por la contraparte, en tanto se concluye el procedimiento ante la Procuraduría;
 
 V. En cumplimiento de convenios o laudos; y
 

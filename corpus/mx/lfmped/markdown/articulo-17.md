@@ -17,7 +17,7 @@ source_sha256: 1f33240cef59d86e064987331b3448af4f030f168813be571117bd3e09f20291
 
 # Artículo 17
 
-La política de inversiones y de administración de riesgos para la Reserva del Fondo deberá contemplar, al menos, los siguientes lineamientos:
+La política de inversiones y de administración de riesgos para la [Reserva del Fondo](articulo-2.md) deberá contemplar, al menos, los siguientes lineamientos:
 
 I. Buscar el máximo retorno a la inversión con un nivel adecuado de riesgo;
 

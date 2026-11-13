@@ -19,7 +19,9 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 La Comisión Ejecutiva del [Fondo](articulo-6.md) de la Vivienda, tendrá las atribuciones y funciones siguientes:
 
-I. Resolver sobre las operaciones del Fondo de la Vivienda, excepto aquellas que por su importancia ameriten acuerdo expreso de la Junta Directiva, la que deberá acordar lo conducente dentro de los quince días siguientes a la fecha en que se haga la petición correspondiente; II. Examinar, en su caso aprobar y presentar, a la Junta Directiva por conducto del Vocal Ejecutivo, los presupuestos de ingresos y egresos, los planes de labores y financiamientos, así como los estados financieros y el informe de labores formulados por el Vocal Ejecutivo;
+I. Resolver sobre las operaciones del Fondo de la Vivienda, excepto aquellas que por su importancia ameriten acuerdo expreso de la Junta Directiva, la que deberá acordar lo conducente dentro de los quince días siguientes a la fecha en que se haga la petición correspondiente;
+
+II. Examinar, en su caso aprobar y presentar, a la Junta Directiva por conducto del Vocal Ejecutivo, los presupuestos de ingresos y egresos, los planes de labores y financiamientos, así como los estados financieros y el informe de labores formulados por el Vocal Ejecutivo;
 
 III. Presentar por conducto del Vocal Ejecutivo a la Junta Directiva para su aprobación, el presupuesto de gastos de administración, operación y vigilancia del Fondo de la Vivienda;
 

@@ -21,7 +21,9 @@ Son causas de cancelación del registro o autorización de los productos para us
 
 I. Cuando el resultado de los análisis de identidad y calidad del producto, no coincidan con la garantía o información contenida en el documento de análisis del producto, ante cualquier monitoreo aleatorio que realice la Secretaría;
 
-II. Cuando con base en información técnica o referencias internacionales, se establezca que se trata de un producto de riesgo para la salud pública, de los animales o del medio ambiente; III. A solicitud por escrito de la empresa titular del producto;
+II. Cuando con base en información técnica o referencias internacionales, se establezca que se trata de un producto de riesgo para la salud pública, de los animales o del medio ambiente;
+
+III. A solicitud por escrito de la empresa titular del producto;
 
 IV. Cuando el producto contenga principios activos clasificados como prohibidos;
 

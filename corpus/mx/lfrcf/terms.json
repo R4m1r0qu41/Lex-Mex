@@ -73,7 +73,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "VII",
     "start_char": 1358,
-    "end_char": 1446,
+    "end_char": 1447,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "VIII",
-    "start_char": 1446,
-    "end_char": 1697,
+    "start_char": 1447,
+    "end_char": 1698,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "IX",
-    "start_char": 1697,
-    "end_char": 2328,
+    "start_char": 1698,
+    "end_char": 2329,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "X",
-    "start_char": 2328,
-    "end_char": 2415,
+    "start_char": 2329,
+    "end_char": 2416,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XI",
-    "start_char": 2415,
-    "end_char": 3420,
+    "start_char": 2416,
+    "end_char": 3421,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XII",
-    "start_char": 3420,
-    "end_char": 3593,
+    "start_char": 3421,
+    "end_char": 3594,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XIII",
-    "start_char": 3593,
-    "end_char": 3705,
+    "start_char": 3594,
+    "end_char": 3706,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XIV",
-    "start_char": 3705,
-    "end_char": 4187,
+    "start_char": 3706,
+    "end_char": 4188,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XV",
-    "start_char": 4187,
-    "end_char": 4278,
+    "start_char": 4188,
+    "end_char": 4279,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XVI",
-    "start_char": 4278,
-    "end_char": 4420,
+    "start_char": 4279,
+    "end_char": 4421,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XVII",
-    "start_char": 4420,
-    "end_char": 4891,
+    "start_char": 4421,
+    "end_char": 4892,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XVIII",
-    "start_char": 4891,
-    "end_char": 4987,
+    "start_char": 4892,
+    "end_char": 4989,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XIX",
-    "start_char": 4987,
-    "end_char": 5501,
+    "start_char": 4989,
+    "end_char": 5503,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XX",
-    "start_char": 5501,
-    "end_char": 5617,
+    "start_char": 5503,
+    "end_char": 5619,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXI",
-    "start_char": 5617,
-    "end_char": 5805,
+    "start_char": 5619,
+    "end_char": 5807,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXII",
-    "start_char": 5805,
-    "end_char": 5920,
+    "start_char": 5807,
+    "end_char": 5922,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXIII",
-    "start_char": 5920,
-    "end_char": 6015,
+    "start_char": 5922,
+    "end_char": 6017,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXIV",
-    "start_char": 6015,
-    "end_char": 6336,
+    "start_char": 6017,
+    "end_char": 6338,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXV",
-    "start_char": 6336,
-    "end_char": 6704,
+    "start_char": 6338,
+    "end_char": 6706,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXVI",
-    "start_char": 6704,
-    "end_char": 6816,
+    "start_char": 6706,
+    "end_char": 6818,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXVII",
-    "start_char": 6816,
-    "end_char": 7005,
+    "start_char": 6818,
+    "end_char": 7007,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXVIII",
-    "start_char": 7005,
-    "end_char": 7327,
+    "start_char": 7007,
+    "end_char": 7329,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXIX",
-    "start_char": 7327,
-    "end_char": 7391,
+    "start_char": 7329,
+    "end_char": 7393,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXX",
-    "start_char": 7391,
-    "end_char": 7550,
+    "start_char": 7393,
+    "end_char": 7552,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXXI",
-    "start_char": 7550,
-    "end_char": 7615,
+    "start_char": 7552,
+    "end_char": 7617,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXXII",
-    "start_char": 7615,
-    "end_char": 7683,
+    "start_char": 7617,
+    "end_char": 7685,
     "basis": "express_definition"
   },
   {
@@ -358,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfrcf",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfrcf:article:4",
     "fraction": "XXXIII",
-    "start_char": 7683,
-    "end_char": 8306,
+    "start_char": 7685,
+    "end_char": 8308,
     "basis": "express_definition"
   }
 ]

@@ -23,7 +23,9 @@ I. Las escrituras públicas, pólizas y actas otorgadas ante corredor público, 
 
 II. Los documentos auténticos e informes expedidos por personas funcionarias que desempeñen cargo público, en lo que se refiere al ejercicio de sus funciones, con firma autógrafa o electrónica avanzada;
 
-III. Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos, o los dependientes del Gobierno Federal, de los Estados, de los Ayuntamientos, con firma original o electrónica autorizada; IV. Las certificaciones de las actas del estado civil expedidas por las autoridades jurisdiccionales, personas funcionarias públicas del Registro Civil o dependencia pública de acuerdo con cada Entidad Federativa, y las certificaciones que sean expedidas por medios manuales o electrónicos y que cuenten con la firma autógrafa digitalizada o firma electrónica avanzada de las personas facultadas para ello, respecto a constancias existentes en los libros correspondientes;
+III. Los documentos auténticos, libros de actas, estatutos, registros y catastros que se hallen en los archivos públicos, o los dependientes del Gobierno Federal, de los Estados, de los Ayuntamientos, con firma original o electrónica autorizada;
+
+IV. Las certificaciones de las actas del estado civil expedidas por las autoridades jurisdiccionales, personas funcionarias públicas del Registro Civil o dependencia pública de acuerdo con cada Entidad Federativa, y las certificaciones que sean expedidas por medios manuales o electrónicos y que cuenten con la firma autógrafa digitalizada o firma electrónica avanzada de las personas facultadas para ello, respecto a constancias existentes en los libros correspondientes;
 
 V. Las certificaciones de constancias existentes en los archivos públicos físicos o electrónicos firmados en forma autógrafa o electrónicamente expedidas por personas funcionarias a quienes competa;
 

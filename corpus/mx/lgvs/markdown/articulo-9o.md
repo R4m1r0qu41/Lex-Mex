@@ -31,7 +31,9 @@ V. La expedición de las normas oficiales mexicanas relacionadas con las materia
 
 VI. La atención de los asuntos relativos a la conservación y aprovechamiento sustentable de la vida silvestre nacional, en los casos de actos originados en el territorio o zonas sujetas a la soberanía y jurisdicción de otros países, o en zonas que estén más allá de la jurisdicción de cualquier país, que pudieran afectar la vida silvestre nacional.
 
-VII. La atención de los asuntos relativos a la vida silvestre en los casos de actos originados en el territorio nacional o en zonas sujetas a la jurisdicción de la Nación que pudieran afectar la vida silvestre en el territorio, o en zonas sujetas a la soberanía y jurisdicción de otros países, o de zonas que estén más allá de la jurisdicción de cualquier país. VIII. La promoción del establecimiento de las condiciones necesarias para el desarrollo de mercados nacionales e internacionales para la vida silvestre basados en criterios de sustentabilidad, así como la aplicación de los instrumentos de política ambiental para estimular el logro de los objetivos de conservación y aprovechamiento sustentable de la vida silvestre.
+VII. La atención de los asuntos relativos a la vida silvestre en los casos de actos originados en el territorio nacional o en zonas sujetas a la jurisdicción de la Nación que pudieran afectar la vida silvestre en el territorio, o en zonas sujetas a la soberanía y jurisdicción de otros países, o de zonas que estén más allá de la jurisdicción de cualquier país.
+
+VIII. La promoción del establecimiento de las condiciones necesarias para el desarrollo de mercados nacionales e internacionales para la vida silvestre basados en criterios de sustentabilidad, así como la aplicación de los instrumentos de política ambiental para estimular el logro de los objetivos de conservación y aprovechamiento sustentable de la vida silvestre.
 
 IX. La conducción de la política nacional de información y difusión en materia de vida silvestre, así como la integración, seguimiento y actualización del Subsistema Nacional de Información sobre la [Vida Silvestre](articulo-3o.md).
 
@@ -55,7 +57,9 @@ XVIII. La emisión de recomendaciones a las autoridades estatales competentes en
 
 XIX. La atención y promoción de los asuntos relativos al trato digno y respetuoso de la fauna silvestre.
 
-XX. La promoción del establecimiento de las condiciones para el manejo y destino de ejemplares fuera de su hábitat natural, de conformidad con los procedimientos establecidos en la presente ley. XXI. La inspección y vigilancia del cumplimiento de esta Ley y de las normas que de ella se deriven, así como la imposición de las medidas de seguridad y de las sanciones administrativas establecidas en la propia Ley, con la colaboración que corresponda a las entidades federativas.
+XX. La promoción del establecimiento de las condiciones para el manejo y destino de ejemplares fuera de su hábitat natural, de conformidad con los procedimientos establecidos en la presente ley.
+
+XXI. La inspección y vigilancia del cumplimiento de esta Ley y de las normas que de ella se deriven, así como la imposición de las medidas de seguridad y de las sanciones administrativas establecidas en la propia Ley, con la colaboración que corresponda a las entidades federativas.
 
 Las atribuciones que esta Ley otorga al Ejecutivo Federal serán ejercidas a través de la [Secretaría](articulo-3o.md), salvo aquellas que corresponde ejercer directamente al titular del Ejecutivo Federal.
 

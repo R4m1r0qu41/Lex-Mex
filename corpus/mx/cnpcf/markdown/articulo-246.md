@@ -23,6 +23,8 @@ I. Ser de fecha posterior a dichos escritos;
 
 II. Los anteriores respecto de los cuales, protestando decir verdad, asevere la parte que los presente no haber tenido antes conocimiento de su existencia;
 
-III. Los que no haya sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada, y siempre que haya hecho oportunamente la designación expresa en los términos de lo dispuesto en el presente [Código Nacional](articulo-2.md); IV. Los documentos que sirvan de pruebas contra excepciones alegadas o contra acciones en lo principal o reconvencional, y
+III. Los que no haya sido posible adquirir con anterioridad por causas que no sean imputables a la parte interesada, y siempre que haya hecho oportunamente la designación expresa en los términos de lo dispuesto en el presente [Código Nacional](articulo-2.md);
+
+IV. Los documentos que sirvan de pruebas contra excepciones alegadas o contra acciones en lo principal o reconvencional, y
 
 V. Los que se ofrezcan para la impugnación de pruebas de la contraria.

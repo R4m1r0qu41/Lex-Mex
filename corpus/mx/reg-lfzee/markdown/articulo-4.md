@@ -19,7 +19,9 @@ source_sha256: b8f75dc45895e70fc2299799d9308a6df8782a1e2e3e736e3e3f537c751137c9
 
 Para los efectos de este Reglamento, se entenderá por:
 
-I. Actividades Económicas Productivas: las actividades que se podrán realizar en las [Zonas](articulo-4.md) necesarias para el cumplimiento del objeto de la [Ley](articulo-4.md), entre otras, las de manufactura; agroindustria; procesamiento, transformación y almacenamiento de materias primas e insumos; innovación y desarrollo científico y tecnológico; prestación de servicios de soporte a las actividades económicas como servicios logísticos, financieros, informáticos y profesionales, así como la introducción de mercancías para tales efectos; II. Acuerdos de la Comisión Intersecretarial: las decisiones adoptadas por mayoría de las [Dependencias](articulo-4.md) y [Entidades](articulo-4.md) que integran la [Comisión Intersecretarial](articulo-4.md), las cuales tienen por objeto que éstas lleven a cabo, de manera obligatoria y en los plazos establecidos, las acciones que les competan para la planeación, el establecimiento y la operación de las Zonas y el desarrollo de sus Áreas de Influencia;
+I. Actividades Económicas Productivas: las actividades que se podrán realizar en las [Zonas](articulo-4.md) necesarias para el cumplimiento del objeto de la [Ley](articulo-4.md), entre otras, las de manufactura; agroindustria; procesamiento, transformación y almacenamiento de materias primas e insumos; innovación y desarrollo científico y tecnológico; prestación de servicios de soporte a las actividades económicas como servicios logísticos, financieros, informáticos y profesionales, así como la introducción de mercancías para tales efectos;
+
+II. Acuerdos de la Comisión Intersecretarial: las decisiones adoptadas por mayoría de las [Dependencias](articulo-4.md) y [Entidades](articulo-4.md) que integran la [Comisión Intersecretarial](articulo-4.md), las cuales tienen por objeto que éstas lleven a cabo, de manera obligatoria y en los plazos establecidos, las acciones que les competan para la planeación, el establecimiento y la operación de las Zonas y el desarrollo de sus Áreas de Influencia;
 
 III. Administrador Integral: la sociedad mercantil constituida conforme a la legislación mexicana o la entidad paraestatal que, con base en un [Permiso](articulo-4.md) o [Asignación](articulo-4.md) que expide la [Autoridad Federal](articulo-4.md), respectivamente, funge como desarrollador-operador de la Zona y en tal carácter tiene a su cargo la construcción, desarrollo, administración y mantenimiento de la misma, incluyendo los [Servicios Asociados](articulo-4.md) o, en su caso, la tramitación de éstos ante las instancias correspondientes;
 
@@ -41,7 +43,9 @@ XI. Consejo Técnico de la Zona: el órgano colegiado de cada Zona, integrado po
 
 XII. Consulta: el procedimiento mediante el cual se ejerce el derecho colectivo de las comunidades y pueblos indígenas a ser consultados de forma previa, libre e informada, cuando se prevea que la operación de una Zona es susceptible de afectar sus intereses y derechos;
 
-XIII. Convenio de Coordinación: el instrumento suscrito entre el Gobierno Federal y los titulares de los gobiernos de las Entidades Federativas y de los Municipios, en el que se establecerán las obligaciones de los tres órdenes de gobierno para el establecimiento y desarrollo de la Zona y su Área de Influencia; XIV. Decreto de Declaratoria de la Zona: el acto jurídico mediante el cual el Presidente de la República determina el establecimiento de una Zona y su Área de Influencia, señalando su delimitación geográfica precisa, los beneficios fiscales, aduaneros y financieros, así como las facilidades administrativas aplicables en dicha Zona;
+XIII. Convenio de Coordinación: el instrumento suscrito entre el Gobierno Federal y los titulares de los gobiernos de las Entidades Federativas y de los Municipios, en el que se establecerán las obligaciones de los tres órdenes de gobierno para el establecimiento y desarrollo de la Zona y su Área de Influencia;
+
+XIV. Decreto de Declaratoria de la Zona: el acto jurídico mediante el cual el Presidente de la República determina el establecimiento de una Zona y su Área de Influencia, señalando su delimitación geográfica precisa, los beneficios fiscales, aduaneros y financieros, así como las facilidades administrativas aplicables en dicha Zona;
 
 XV. Dependencias: a las secretarías de Estado, incluyendo a sus respectivos órganos administrativos desconcentrados y los órganos reguladores coordinados en materia energética, conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Federal, que en el ámbito de sus respectivas competencias, deben emitir actos administrativos o ejecutar políticas públicas y programas relacionados con las Zonas y sus Áreas de Influencia;
 
@@ -63,7 +67,9 @@ XXIII. Ley: la Ley Federal de Zonas Económicas Especiales;
 
 XXIV. Lineamientos: las disposiciones que, en su caso, emita la Autoridad Federal para especificar los requisitos, procedimientos y criterios de evaluación para el otorgamiento de Permisos, Asignaciones y [Autorizaciones](articulo-4.md);
 
-XXV. Municipios: los municipios de las Entidades Federativas en los cuales se ubicará la Zona y su Área de Influencia; XXVI. Permiso: el acto jurídico administrativo mediante el cual la Autoridad Federal otorga a una sociedad mercantil constituida conforme a la legislación mexicana, fungir como Administrador Integral en una Zona;
+XXV. Municipios: los municipios de las Entidades Federativas en los cuales se ubicará la Zona y su Área de Influencia;
+
+XXVI. Permiso: el acto jurídico administrativo mediante el cual la Autoridad Federal otorga a una sociedad mercantil constituida conforme a la legislación mexicana, fungir como Administrador Integral en una Zona;
 
 XXVII. Plan Maestro de la Zona: el instrumento de planeación de la Zona, elaborado por el Administrador Integral y aprobado por la Autoridad Federal, que prevé los elementos y características generales de [Infraestructura](articulo-4.md) y de los Servicios Asociados de la Zona, para la construcción, desarrollo, administración y mantenimiento de la Zona, el cual será revisado cada cinco años;
 

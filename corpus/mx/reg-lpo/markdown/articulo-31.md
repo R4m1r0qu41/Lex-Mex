@@ -17,6 +17,8 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 31
 
-La aprobación otorgada a un Organismo de Certificación Orgánica podrá ser objeto de prórroga: I. Hasta por 60 días hábiles cuando se encuentre en trámite su solicitud de renovación, y
+La aprobación otorgada a un Organismo de Certificación Orgánica podrá ser objeto de prórroga:
+
+I. Hasta por 60 días hábiles cuando se encuentre en trámite su solicitud de renovación, y
 
 II. Hasta por 30 días hábiles cuando exista caso fortuito o fuerza mayor y la Secretaría por conducto del [SENASICA](articulo-2.md) se encuentre imposibilitada para resolver sobre la solicitud de renovación.

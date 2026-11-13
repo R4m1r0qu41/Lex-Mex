@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:larefam:article:2",
-      "provision_text_sha256": "cbbc496d0c79dffd384a9b11dc3653808e333c679a24c6fdac354f60169f076e",
+      "provision_text_sha256": "ea845bcebabe2b306f392c56e3d8470390101cd044e6a5900665201572130bf7",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -30,5 +30,5 @@
   ],
   "imports": [],
   "term_count": 12,
-  "usage_count": 156
+  "usage_count": 154
 }

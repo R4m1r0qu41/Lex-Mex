@@ -21,6 +21,8 @@ La presente Ley es de orden público e interés general y de aplicación en todo
 
 La Agencia tiene por objeto la protección de las personas, el medio ambiente y las instalaciones del sector hidrocarburos a través de la regulación y supervisión de:
 
-I. La [Seguridad Industrial](articulo-3o.md) y [Seguridad Operativa](articulo-3o.md); II. Las actividades de desmantelamiento y abandono de instalaciones, y
+I. La [Seguridad Industrial](articulo-3o.md) y [Seguridad Operativa](articulo-3o.md);
+
+II. Las actividades de desmantelamiento y abandono de instalaciones, y
 
 III. El control integral de los residuos y emisiones contaminantes.

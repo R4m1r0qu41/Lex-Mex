@@ -31,7 +31,9 @@ b) Cantidad de mano de obra utilizada y las categorías del personal encargado e
 
 c) Cantidad de maquinaria o equipo de construcción utilizado en horas efectivas, los que deben ser proporcionados en forma eficiente y con rendimientos de máquinas y equipos nuevos, y
 
-d) Cantidad o volumen de obra realizado durante la jornada; IV. Que una vez vencido el plazo de los sesenta días, sin llegar a la conciliación, la dependencia o entidad determinará el precio extraordinario definitivo con base en lo observado en la fracción anterior; debiendo considerar los porcentajes de indirectos, financiamiento, utilidad y cargos adicionales, pactados en el contrato, y
+d) Cantidad o volumen de obra realizado durante la jornada;
+
+IV. Que una vez vencido el plazo de los sesenta días, sin llegar a la conciliación, la dependencia o entidad determinará el precio extraordinario definitivo con base en lo observado en la fracción anterior; debiendo considerar los porcentajes de indirectos, financiamiento, utilidad y cargos adicionales, pactados en el contrato, y
 
 V. Que en el caso de que exista un pago en exceso, se deberá hacer el ajuste correspondiente en la siguiente estimación, o bien, en el finiquito, y se procederá de acuerdo con lo establecido en el último párrafo del artículo [55](../../lopsrm/markdown/articulo-55.md) de la [Ley](articulo-2.md), sin responsabilidad alguna para las partes.
 

@@ -17,4 +17,4 @@ source_sha256: ad4c6635514637c1f3a27c11314083f86c965f3a68273e862c8dfe306c80483a
 
 # Artículo 9
 
-La Dirección y Rectoría dispondrá de los recursos presupuestales que le sean asignados por conducto de la [Secretaría](articulo-2.md).
+La [Dirección y Rectoría](articulo-2.md) dispondrá de los recursos presupuestales que le sean asignados por conducto de la [Secretaría](articulo-2.md).

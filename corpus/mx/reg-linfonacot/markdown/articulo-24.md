@@ -29,7 +29,9 @@ IV. Aprobar, a propuesta del Director General, las Reglas Generales de Operació
 
 V. Fijar las remuneraciones que correspondan a los integrantes de los comités de apoyo;
 
-VI. Constituir otros comités de apoyo cuando se justifiquen, de acuerdo con lo dispuesto en el artículo [19](../../linfonacot/markdown/articulo-19.md), fracción VI, de la Ley y determinar su integración, objetivos y reglas de operación, así como la forma y términos en que deberán informar al propio Consejo Directivo de cada asunto que dictaminen; VII. Aprobar, a propuesta del Director General, las aportaciones o donativos a realizar por el Instituto, tomando en cuenta las disposiciones aplicables;
+VI. Constituir otros comités de apoyo cuando se justifiquen, de acuerdo con lo dispuesto en el artículo [19](../../linfonacot/markdown/articulo-19.md), fracción VI, de la Ley y determinar su integración, objetivos y reglas de operación, así como la forma y términos en que deberán informar al propio Consejo Directivo de cada asunto que dictaminen;
+
+VII. Aprobar, a propuesta del Director General, las aportaciones o donativos a realizar por el Instituto, tomando en cuenta las disposiciones aplicables;
 
 VIII. Aprobar el programa de protección de los bienes patrimoniales del Instituto, y
 

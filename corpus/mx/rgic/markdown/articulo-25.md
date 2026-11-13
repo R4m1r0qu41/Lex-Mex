@@ -39,6 +39,8 @@ IX.- Asentar y firmar en todos los expedientes los trámites que se les dieren y
 
 X.- Llevar un libro en que asiente por orden cronológico y a la letra, las leyes que expida el Congreso de la Unión, la Cámara de Diputados o la de Senadores, debiendo ser autorizadas por el Presidente y un Secretario de la Cámara respectiva;
 
-XI.- Firmar en unión del Presidente, los nombramientos o las remociones de los empleados que hayan acordado las Cámaras respectivas, conforme a la fracción III del artículo 77 constitucional y los nombramientos y remociones que la misma haga de los empleados de la Contaduría Mayor de Hacienda; XII.- Inspeccionar el trabajo que hace la Oficialía Mayor y Oficinas de la Secretaría;
+XI.- Firmar en unión del Presidente, los nombramientos o las remociones de los empleados que hayan acordado las Cámaras respectivas, conforme a la fracción III del artículo 77 constitucional y los nombramientos y remociones que la misma haga de los empleados de la Contaduría Mayor de Hacienda;
+
+XII.- Inspeccionar el trabajo que hace la Oficialía Mayor y Oficinas de la Secretaría;
 
 XIII.- Cuidar de la impresión y distribución del “Diario de los Debates.”

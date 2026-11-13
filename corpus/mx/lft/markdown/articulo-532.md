@@ -21,7 +21,9 @@ El Procurador General deberá satisfacer los requisitos siguientes:
 
 I. Ser mexicano, mayor de edad y estar en pleno ejercicio de sus derechos;
 
-II. Tener título legalmente expedido de licenciado en derecho y una práctica profesional no menor de tres años; III. Haberse distinguido en estudios de derecho del trabajo y de la seguridad social;
+II. Tener título legalmente expedido de licenciado en derecho y una práctica profesional no menor de tres años;
+
+III. Haberse distinguido en estudios de derecho del trabajo y de la seguridad social;
 
 IV. No ser ministro de culto; y Fracción reformada DOF 30-11-2012
 

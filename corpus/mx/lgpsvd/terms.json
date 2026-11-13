@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
     "fraction": "VIII",
     "start_char": 872,
-    "end_char": 983,
+    "end_char": 984,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
     "fraction": "IX",
-    "start_char": 983,
-    "end_char": 1081,
+    "start_char": 984,
+    "end_char": 1082,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
     "fraction": "X",
-    "start_char": 1081,
-    "end_char": 1148,
+    "start_char": 1082,
+    "end_char": 1149,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lgpsvd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
     "fraction": "XI",
-    "start_char": 1148,
-    "end_char": 1593,
+    "start_char": 1149,
+    "end_char": 1594,
     "basis": "express_definition"
   }
 ]

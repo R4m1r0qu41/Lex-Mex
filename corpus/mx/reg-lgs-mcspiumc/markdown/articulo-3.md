@@ -31,7 +31,9 @@ V. Calificación de Semilla: Procedimiento por el cual se verifican las semillas
 
 VI. Cannabinoides: Compuestos orgánicos pertenecientes al grupo de los terpenofenoles, entre los que se encuentran, el cannabidiol y tetrahidrocannabinol;
 
-VII. Cannabis: Planta de cannabis sativa, índica y americana o mariguana, su resina, preparados y semillas; VIII. Catálogo Nacional de Variedades Vegetales: El previsto en el artículo [3](../../lfpccs/markdown/articulo-3.md), fracción VII de la Ley Federal de Producción, Certificación y Comercio de Semillas;
+VII. Cannabis: Planta de cannabis sativa, índica y americana o mariguana, su resina, preparados y semillas;
+
+VIII. Catálogo Nacional de Variedades Vegetales: El previsto en el artículo [3](../../lfpccs/markdown/articulo-3.md), fracción VII de la Ley Federal de Producción, Certificación y Comercio de Semillas;
 
 IX. CBD: Cannabidiol y sus formas ácidas, compuesto cannabinoide que carece de propiedades psicoactivas;
 
@@ -89,7 +91,9 @@ XXXV. SE: Secretaría de Economía;
 
 XXXVI. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria, órgano administrativo desconcentrado de la SADER;
 
-XXXVII. Sistema de Gestión de Calidad: Mecanismo a través del cual el [Laboratorio de Control de Calidad](articulo-3.md) da cumplimiento a lo establecido en el artículo [8](../../reg-lgs-insumos/markdown/articulo-8o.md)o. del Reglamento de Insumos para la Salud y controla las actividades asociadas con la calidad; XXXVIII. Sitio Confinado Permitido: Espacio físico donde se encuentra la [Producción Primaria](articulo-3.md) de Cannabis y se realiza su comercialización, siempre que en la realización de tales actividades se utilicen barreras, con el fin de limitar de manera efectiva su contacto con la población y el medio ambiente;
+XXXVII. Sistema de Gestión de Calidad: Mecanismo a través del cual el [Laboratorio de Control de Calidad](articulo-3.md) da cumplimiento a lo establecido en el artículo [8](../../reg-lgs-insumos/markdown/articulo-8o.md)o. del Reglamento de Insumos para la Salud y controla las actividades asociadas con la calidad;
+
+XXXVIII. Sitio Confinado Permitido: Espacio físico donde se encuentra la [Producción Primaria](articulo-3.md) de Cannabis y se realiza su comercialización, siempre que en la realización de tales actividades se utilicen barreras, con el fin de limitar de manera efectiva su contacto con la población y el medio ambiente;
 
 XXXIX. SNICS: Servicio Nacional de Inspección y Certificación de Semillas, órgano administrativo desconcentrado de la SADER;
 

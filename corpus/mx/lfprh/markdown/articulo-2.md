@@ -19,7 +19,9 @@ source_sha256: ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Actividad institucional: las acciones sustantivas o de apoyo que realizan los ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas, de conformidad con las atribuciones que les señala su respectiva ley orgánica o el ordenamiento jurídico que les es aplicable; II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional programática, administrativa, y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al [Presupuesto de Egresos](articulo-2.md) o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;
+I. Actividad institucional: las acciones sustantivas o de apoyo que realizan los ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas, de conformidad con las atribuciones que les señala su respectiva ley orgánica o el ordenamiento jurídico que les es aplicable;
+
+II. Adecuaciones presupuestarias: las modificaciones a las estructuras funcional programática, administrativa, y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al [Presupuesto de Egresos](articulo-2.md) o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;
 
 III. Ahorro presupuestario: los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
 
@@ -39,7 +41,9 @@ IX. Dependencias coordinadoras de sector: las dependencias que designe el Ejecut
 
 X. Economías: los remanentes de recursos no devengados del presupuesto modificado;
 
-XI. Eficacia en la aplicación del gasto público: lograr en el ejercicio fiscal los objetivos y las metas programadas en los términos de esta Ley y demás disposiciones aplicables; XII. Eficiencia en el ejercicio del gasto público: el ejercicio del Presupuesto de Egresos en tiempo y forma, en los términos de esta Ley y demás disposiciones aplicables;
+XI. Eficacia en la aplicación del gasto público: lograr en el ejercicio fiscal los objetivos y las metas programadas en los términos de esta Ley y demás disposiciones aplicables;
+
+XII. Eficiencia en el ejercicio del gasto público: el ejercicio del Presupuesto de Egresos en tiempo y forma, en los términos de esta Ley y demás disposiciones aplicables;
 
 XIII. Ejecutores de gasto: los Poderes Legislativo y Judicial, los entes autónomos a los que se asignen recursos del Presupuesto de Egresos a través de los ramos autónomos, así como las dependencias y entidades, que realizan las erogaciones a que se refiere el artículo [4](articulo-4.md) de esta Ley con cargo al Presupuesto de Egresos;
 
@@ -63,7 +67,9 @@ XXII. Estructura Programática: el conjunto de categorías y elementos programá
 
 XXIII. Flujo de efectivo: el registro de las entradas y salidas de recursos efectivos en un ejercicio fiscal;
 
-XXIII Bis. Fondo Mexicano del Petróleo: el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, a que se refieren el artículo 28, párrafo sexto de la Constitución y los transitorios Décimo Cuarto y Décimo Quinto del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013; Fracción adicionada DOF 11-08-2014 XXIV. Función Pública: la Secretaría de la Función Pública;
+XXIII Bis. Fondo Mexicano del Petróleo: el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, a que se refieren el artículo 28, párrafo sexto de la Constitución y los transitorios Décimo Cuarto y Décimo Quinto del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2013; Fracción adicionada DOF 11-08-2014
+
+XXIV. Función Pública: la Secretaría de la Función Pública;
 
 XXIV Bis. Gasto corriente estructural: el monto correspondiente al gasto neto total, excluyendo los gastos por concepto de costo financiero, participaciones a las entidades federativas, a los municipios y demarcaciones territoriales de la Ciudad de México, adeudos de ejercicios fiscales anteriores, combustibles utilizados para la generación de electricidad, pago de pensiones y jubilaciones del sector público, los programas sociales universales establecidos en la Constitución Política de los Estados Unidos Mexicanos, los servicios personales correspondientes a las funciones de gasto de Educación, Salud y Seguridad Pública, y la inversión física y financiera directa de la Administración Pública Federal; Fracción adicionada DOF 24-01-2014. Reformada DOF 09-04-2026
 
@@ -83,7 +89,9 @@ XXX Bis. Ingresos Petroleros: los recursos que reciba el Gobierno Federal por la
 
 XXXI. Ingresos propios: los recursos que por cualquier concepto obtengan las entidades, distintos a los recursos por concepto de subsidios y transferencias, conforme a lo dispuesto en el artículo [52](../../lfep/markdown/articulo-52.md) de la Ley Federal de las Entidades Paraestatales;
 
-XXXI Bis. Inversión física y financiera directa: las erogaciones que tienen como contraprestación la constitución de un activo; Fracción adicionada DOF 24-01-2014 XXXII. Ley de Ingresos: la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
+XXXI Bis. Inversión física y financiera directa: las erogaciones que tienen como contraprestación la constitución de un activo; Fracción adicionada DOF 24-01-2014
+
+XXXII. Ley de Ingresos: la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
 
 XXXII Bis. Límite máximo del gasto corriente estructural: es el gasto corriente estructural de la última [Cuenta Pública](articulo-2.md) disponible al momento de presentar a la Cámara de Diputados la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos, más un incremento real por cada año, que deberá ser menor a la tasa anual de crecimiento potencial del Producto Interno Bruto y que será determinado en términos del [Reglamento](articulo-2.md); Fracción adicionada DOF 24-01-2014
 
@@ -103,7 +111,9 @@ XXXIX. Proyectos de inversión: las acciones que implican erogaciones de gasto d
 
 XXXIX Bis. Proyectos para el desarrollo con bienestar: los proyectos de infraestructura estratégica, prestación de servicios o adquisición de bienes o equipo a que se refiere la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar; Fracción adicionada DOF 09-04-2026
 
-XL. Ramo: la previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos; XLI. Ramos administrativos: los ramos por medio de los cuales se asignan recursos en el Presupuesto de Egresos a las dependencias y en su caso entidades, a la Presidencia de la República y a los tribunales administrativos; Fracción reformada DOF 20-05-2021
+XL. Ramo: la previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos;
+
+XLI. Ramos administrativos: los ramos por medio de los cuales se asignan recursos en el Presupuesto de Egresos a las dependencias y en su caso entidades, a la Presidencia de la República y a los tribunales administrativos; Fracción reformada DOF 20-05-2021
 
 XLII. Ramos autónomos: los ramos por medio de los cuales se asignan recursos en el Presupuesto de Egresos a los Poderes Legislativo y Judicial, y a los entes autónomos;
 
@@ -125,7 +135,9 @@ XLIX. Saldo histórico de los requerimientos financieros del sector público: lo
 
 L. Secretaría: la Secretaría de Hacienda y Crédito Público;
 
-LI. Sistema de Evaluación del Desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos; LII. Subejercicio de gasto: las disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso formal de su ejecución;
+LI. Sistema de Evaluación del Desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
+
+LII. Subejercicio de gasto: las disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso formal de su ejecución;
 
 LIII. Subsidios: las asignaciones de recursos federales previstas en el Presupuesto de Egresos que, a través de las dependencias y entidades, se otorgan a los diferentes sectores de la sociedad, a las entidades federativas o municipios para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
 

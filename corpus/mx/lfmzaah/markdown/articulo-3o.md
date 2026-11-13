@@ -23,7 +23,9 @@ I.- El Presidente de la República;
 
 II.- El Secretario de Cultura; Fracción reformada DOF 16-02-2018
 
-III.- El Secretario del Patrimonio Nacional; IV.- El Instituto Nacional de Antropología e Historia;
+III.- El Secretario del Patrimonio Nacional;
+
+IV.- El Instituto Nacional de Antropología e Historia;
 
 V.- El Instituto Nacional de Bellas Artes y Literatura y
 

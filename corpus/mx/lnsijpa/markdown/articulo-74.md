@@ -23,7 +23,9 @@ Los elementos de las instituciones de seguridad pública que intervengan en la d
 
 I. Utilizar un lenguaje sencillo y comprensible cuando se dirija a ésta;
 
-II. Abstenerse de esposar a las personas adolescentes detenidas, a menos que exista un riesgo real inminente y fundado de que la persona pueda causar un daño para sí o para otros; III. Hacer uso razonable de la fuerza únicamente en caso de extrema necesidad y hacerlo de manera legítima, proporcional, gradual y oportuna;
+II. Abstenerse de esposar a las personas adolescentes detenidas, a menos que exista un riesgo real inminente y fundado de que la persona pueda causar un daño para sí o para otros;
+
+III. Hacer uso razonable de la fuerza únicamente en caso de extrema necesidad y hacerlo de manera legítima, proporcional, gradual y oportuna;
 
 IV. Permitir que la persona adolescente detenida sea acompañada por quienes ejercen la patria potestad, tutela o por persona de su confianza;
 

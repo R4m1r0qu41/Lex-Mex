@@ -29,7 +29,9 @@ III. Recibir alimentación nutritiva, suficiente y de calidad, adecuada para la 
 
 IV. Permanecer en estancias designadas conforme a la ubicación establecida en el artículo [5](articulo-5.md) de esta Ley;
 
-V. Ser informada de sus derechos y deberes, desde el momento en que sea internada en el Centro, de manera que se garantice el entendimiento acerca de su situación. La información deberá ser proporcionada conforme al artículo [38](articulo-38.md) de esta Ley y a las demás disposiciones aplicables; VI. Recibir un suministro suficiente, salubre, aceptable y permanente de agua para su consumo y cuidado personal;
+V. Ser informada de sus derechos y deberes, desde el momento en que sea internada en el Centro, de manera que se garantice el entendimiento acerca de su situación. La información deberá ser proporcionada conforme al artículo [38](articulo-38.md) de esta Ley y a las demás disposiciones aplicables;
+
+VI. Recibir un suministro suficiente, salubre, aceptable y permanente de agua para su consumo y cuidado personal;
 
 VII. Recibir un suministro de artículos de aseo diario necesarios;
 

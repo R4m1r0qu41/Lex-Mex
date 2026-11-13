@@ -23,7 +23,9 @@ I. El día siguiente en que se hubiere hecho el emplazamiento o notificación pe
 
 II. Fuera de los casos señalados en la fracción anterior, el día siguiente a aquel en que surtió sus efectos la notificación realizada por el medio de comunicación procesal oficial;
 
-III. La notificación realizada por medio de comunicación judicial surtirá efectos el mismo día a aquel en que por sistema se confirme que recibió el archivo electrónico correspondiente; IV. También podrán notificarse por correo certificado y el plazo correrá a partir del día siguiente hábil en que fue recibida la notificación, y
+III. La notificación realizada por medio de comunicación judicial surtirá efectos el mismo día a aquel en que por sistema se confirme que recibió el archivo electrónico correspondiente;
+
+IV. También podrán notificarse por correo certificado y el plazo correrá a partir del día siguiente hábil en que fue recibida la notificación, y
 
 V. En las audiencias del juicio oral las resoluciones dictadas por la autoridad jurisdiccional surtirán efectos en el momento en que las emita, estén o no presentes las partes.
 

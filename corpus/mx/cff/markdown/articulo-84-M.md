@@ -21,6 +21,8 @@ Son infracciones relacionadas con las obligaciones establecidas en los artículo
 
 I. No obtener, no conservar o no presentar la información a que se refiere el artículo [32-B Ter](articulo-32-B-Ter.md) de este Código o no presentarla a través de los medios o formatos que señale el Servicio de Administración Tributaria dentro de los plazos establecidos en las disposiciones fiscales.
 
-II. No mantener actualizada la información relativa a los beneficiarios controladores a que se refiere el artículo [32-B Ter](articulo-32-B-Ter.md) de este Código. III. Presentar la información a que se refiere el artículo [32-B Ter](articulo-32-B-Ter.md) de este Código de forma incompleta, inexacta, con errores o en forma distinta a lo señalado en las disposiciones aplicables.
+II. No mantener actualizada la información relativa a los beneficiarios controladores a que se refiere el artículo [32-B Ter](articulo-32-B-Ter.md) de este Código.
+
+III. Presentar la información a que se refiere el artículo [32-B Ter](articulo-32-B-Ter.md) de este Código de forma incompleta, inexacta, con errores o en forma distinta a lo señalado en las disposiciones aplicables.
 
 Artículo adicionado DOF 12-11-2021

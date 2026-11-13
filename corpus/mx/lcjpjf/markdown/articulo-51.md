@@ -21,7 +21,9 @@ Impedimentos en los nombramientos Las y los [Titulares](articulo-2.md) están im
 
 I. Con la que tenga vínculo o relación familiar o de pareja, o conflicto de interés;
 
-II. Con la que tenga vínculo o relación familiar o de pareja con cualquier persona servidora pública del órgano jurisdiccional en el que es Titular, lo que incluye al resto de Titulares en el caso de órganos jurisdiccionales colegiados y al personal de la Secretaría de Acuerdos; III. A quien tenga vínculo o relación familiar o de pareja, o conflicto de interés, con otra persona Titular de órgano jurisdiccional o área administrativa, si se configura alguno de los siguientes esquemas:
+II. Con la que tenga vínculo o relación familiar o de pareja con cualquier persona servidora pública del órgano jurisdiccional en el que es Titular, lo que incluye al resto de Titulares en el caso de órganos jurisdiccionales colegiados y al personal de la Secretaría de Acuerdos;
+
+III. A quien tenga vínculo o relación familiar o de pareja, o conflicto de interés, con otra persona Titular de órgano jurisdiccional o área administrativa, si se configura alguno de los siguientes esquemas:
 
 a) Nombramientos cruzados: Cuando dos Titulares contraten entre sí familiares de cada uno de ellos, o personas con las que tengan conflicto de interés, con independencia de que los respectivos nombramientos sean o no simultáneos.
 

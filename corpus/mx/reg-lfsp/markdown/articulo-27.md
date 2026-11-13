@@ -25,7 +25,9 @@ II. Cuidar en todo momento por la integridad, dignidad, protección y trato corr
 
 III. Cumplir sus funciones con imparcialidad, sin discriminar a ninguna persona;
 
-IV. Procurar la prevención de conductas antijurídicas; V. Recurrir como última opción, al uso de la fuerza;
+IV. Procurar la prevención de conductas antijurídicas;
+
+V. Recurrir como última opción, al uso de la fuerza;
 
 VI. No incitar de ninguna forma a la comisión de ilícitos;
 

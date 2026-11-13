@@ -27,6 +27,8 @@ III. Suministrar e intercambiar la información obtenida mediante los sistemas e
 
 IV. Llevar a cabo campañas orientadas a prevenir y evitar los factores y causas que originan el fenómeno delictivo sancionado en esta Ley, así como difundir su contenido;
 
-V. Establecer relaciones de colaboración con las autoridades competentes, así como con las organizaciones sociales privadas con el objetivo de orientar a la sociedad en las medidas que debe adoptar para prevenir los delitos establecidos en esta Ley; VI. Establecer y, en su caso, conforme a la legislación correspondiente, colaborar con el registro e identificación ante los órganos de seguridad pública, de escoltas privadas o personales que no pertenezcan a ninguna empresa privada de seguridad, y
+V. Establecer relaciones de colaboración con las autoridades competentes, así como con las organizaciones sociales privadas con el objetivo de orientar a la sociedad en las medidas que debe adoptar para prevenir los delitos establecidos en esta Ley;
+
+VI. Establecer y, en su caso, conforme a la legislación correspondiente, colaborar con el registro e identificación ante los órganos de seguridad pública, de escoltas privadas o personales que no pertenezcan a ninguna empresa privada de seguridad, y
 
 VII. Observar las demás obligaciones establecidas en otros ordenamientos.

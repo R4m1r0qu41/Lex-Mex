@@ -19,4 +19,6 @@ source_sha256: 36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf
 
 Las terminales, marinas e instalaciones portuarias se clasifican por su uso en:
 
-I. Públicas, cuando se trate de terminales de contenedores y carga general o exista obligación de ponerlas a disposición de cualquier solicitante, y Fracción reformada DOF 11-06-2012 II. Particulares, cuando el titular las destine para sus propios fines, y a los de terceros mediante contrato, siempre y cuando los servicios y la carga de que se trate sean de naturaleza similar a los autorizados originalmente para la terminal. Fracción reformada DOF 11-06-2012
+I. Públicas, cuando se trate de terminales de contenedores y carga general o exista obligación de ponerlas a disposición de cualquier solicitante, y Fracción reformada DOF 11-06-2012
+
+II. Particulares, cuando el titular las destine para sus propios fines, y a los de terceros mediante contrato, siempre y cuando los servicios y la carga de que se trate sean de naturaleza similar a los autorizados originalmente para la terminal. Fracción reformada DOF 11-06-2012

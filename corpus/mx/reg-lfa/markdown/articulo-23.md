@@ -17,7 +17,9 @@ source_sha256: 8577b72dfc67461533ecea0bdaef39ebf0b29e6d4f3b6117a4235e98d7309e34
 
 # Artículo 23
 
-El Archivo General de la Nación podrá brindar los siguientes servicios complementarios, en términos del artículo 44, fracción XII, de la Ley: I. Tecnológicos, tales como expedición de guías, tutoriales multimedia, proyectos de tecnología y desarrollo, [Estabilización](articulo-2.md), así como suministro, custodia de materiales archivísticos y restauración documental;
+El Archivo General de la Nación podrá brindar los siguientes servicios complementarios, en términos del artículo 44, fracción XII, de la Ley:
+
+I. Tecnológicos, tales como expedición de guías, tutoriales multimedia, proyectos de tecnología y desarrollo, [Estabilización](articulo-2.md), así como suministro, custodia de materiales archivísticos y restauración documental;
 
 II. Técnicos, tales como el uso de instalaciones, equipos y laboratorios del Archivo General de la Nación, así como la capacitación a distancia;
 

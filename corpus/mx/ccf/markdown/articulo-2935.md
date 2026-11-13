@@ -21,7 +21,9 @@ Tienen derecho de pedir la hipoteca necesaria para seguridad de sus créditos:
 
 I. El coheredero o partícipe, sobre los inmuebles repartidos, en cuanto importen los respectivos saneamientos o el exceso de los bienes que hayan recibido;
 
-II. Los descendientes de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos, para garantizar la conservación y devolución de aquéllos; teniendo en cuenta lo que dispone la fracción III del artículo [520](articulo-520.md); III. Los menores y demás incapacitados sobre los bienes de sus tutores, por los que éstos administren;
+II. Los descendientes de cuyos bienes fueren meros administradores los ascendientes, sobre los bienes de éstos, para garantizar la conservación y devolución de aquéllos; teniendo en cuenta lo que dispone la fracción III del artículo [520](articulo-520.md);
+
+III. Los menores y demás incapacitados sobre los bienes de sus tutores, por los que éstos administren;
 
 IV. Los legatarios, por el importe de sus legados, si no hubiere hipoteca especial designada por el mismo testador;
 

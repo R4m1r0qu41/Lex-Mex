@@ -23,4 +23,6 @@ I. La prescripción, dosificación y administración de biológicos, químicos o
 
 II. Los tratamientos médicos, quirúrgicos, nutricionales o conductuales deben estar siempre supervisados por un médico veterinario y de acuerdo a las disposiciones de sanidad animal que emita la Secretaría;
 
-III. Las vacunaciones deberán ser programadas y realizadas, tomando en consideración las zoonosis y las campañas zoosanitarias oficiales, así como el criterio del médico veterinario, en cuanto al momento de aplicación y el tipo de vacuna a utilizar, y IV. Es obligación de los propietarios o responsables de los animales mantener un programa de desparasitación.
+III. Las vacunaciones deberán ser programadas y realizadas, tomando en consideración las zoonosis y las campañas zoosanitarias oficiales, así como el criterio del médico veterinario, en cuanto al momento de aplicación y el tipo de vacuna a utilizar, y
+
+IV. Es obligación de los propietarios o responsables de los animales mantener un programa de desparasitación.

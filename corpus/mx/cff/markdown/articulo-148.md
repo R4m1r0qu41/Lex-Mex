@@ -23,7 +23,9 @@ El producto obtenido en los términos de este Artículo, se aplicará a cubrir l
 
 I. Los gastos de ejecución.
 
-II. Los accesorios de las aportaciones de seguridad social. III. Las aportaciones de seguridad social.
+II. Los accesorios de las aportaciones de seguridad social.
+
+III. Las aportaciones de seguridad social.
 
 IV. Los accesorios de las demás contribuciones y otros créditos fiscales.
 

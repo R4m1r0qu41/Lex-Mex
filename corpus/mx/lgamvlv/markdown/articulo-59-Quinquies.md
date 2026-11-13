@@ -7,8 +7,8 @@ provision_type: article
 number: "59 Quinquies"
 aliases: ["LGAMVLV — Artículo 59 Quinquies"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -19,7 +19,9 @@ source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 
 La atención brindada por los [Centros de Justicia para las Mujeres](articulo-5.md) se realizará a través de la participación coordinada de las secretarías y dependencias públicas estatales cuya competencia incida en la atención integral a mujeres víctimas de violencia, y previa firma de los convenios correspondientes, con otras secretarías y dependencias del sector público federal y municipal.
 
-Las instituciones estatales encargadas de brindar los servicios en los Centros de Justicia para las Mujeres, como mínimo, son las siguientes o sus equivalentes en las entidades federativas: I. Secretaría de Gobierno;
+Las instituciones estatales encargadas de brindar los servicios en los Centros de Justicia para las Mujeres, como mínimo, son las siguientes o sus equivalentes en las entidades federativas:
+
+I. Secretaría de Gobierno;
 
 II. Secretaría de Seguridad Pública o Ciudadana;
 

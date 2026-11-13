@@ -37,7 +37,9 @@ VIII. Dictar la política y normativa para la prestación de servicios de salud 
 
 IX.- Organizar y administrar servicios sanitarios generales en toda la República;
 
-X. Dirigir acciones de inspección médico sanitaria, con excepción de la agropecuaria, salvo cuando se trate de preservar la salud humana; Fracción reformada DOF 30-11-2018 XI. Dirigir acciones de inspección médico sanitaria especial en los puertos, costas y fronteras, con excepción de la agropecuaria, salvo cuando afecte o pueda afectar a la salud humana; Fracción reformada DOF 30-11-2018
+X. Dirigir acciones de inspección médico sanitaria, con excepción de la agropecuaria, salvo cuando se trate de preservar la salud humana; Fracción reformada DOF 30-11-2018
+
+XI. Dirigir acciones de inspección médico sanitaria especial en los puertos, costas y fronteras, con excepción de la agropecuaria, salvo cuando afecte o pueda afectar a la salud humana; Fracción reformada DOF 30-11-2018
 
 XII.- Realizar el control higiénico e inspección sobre preparación, posesión, uso, suministro, importación, exportación y circulación de comestibles y bebidas;
 
@@ -59,7 +61,9 @@ XX. Prestar los servicios de su competencia, directamente o en coordinación con
 
 XXI. Actuar como autoridad sanitaria, ejercer las facultades de salubridad general que las leyes le confieren al Ejecutivo Federal, vigilar el cumplimiento de la Ley General de Salud, sus reglamentos y demás disposiciones aplicables y ejercer la acción extraordinaria en la materia; Fracción reformada DOF 29-12-1982, 21-01-1985, 28-11-2024
 
-XXII. Planear e integrar la demanda de medicamentos e insumos para la salud, en el marco de los procedimientos de contratación consolidados que se instrumenten y en los que intervengan las dependencias y entidades de la Administración Pública Federal que presten servicios de atención médica, salud pública y asistencia social, así como dar seguimiento y, en su caso, asesoría durante el procedimiento de contratación y su ejecución, para efecto de garantizar la política nacional de abasto; Fracción adicionada DOF 29-12-1982. Reformada DOF 28-11-2024 XXIII. Establecer y ejecutar con la participación que corresponda a otras dependencias asistenciales, públicas y privadas, planes y programas para la asistencia, prevención, atención y tratamiento a grupos de atención prioritaria; Fracción adicionada DOF 28-12-1994. Reformada DOF 28-11-2024
+XXII. Planear e integrar la demanda de medicamentos e insumos para la salud, en el marco de los procedimientos de contratación consolidados que se instrumenten y en los que intervengan las dependencias y entidades de la Administración Pública Federal que presten servicios de atención médica, salud pública y asistencia social, así como dar seguimiento y, en su caso, asesoría durante el procedimiento de contratación y su ejecución, para efecto de garantizar la política nacional de abasto; Fracción adicionada DOF 29-12-1982. Reformada DOF 28-11-2024
+
+XXIII. Establecer y ejecutar con la participación que corresponda a otras dependencias asistenciales, públicas y privadas, planes y programas para la asistencia, prevención, atención y tratamiento a grupos de atención prioritaria; Fracción adicionada DOF 28-12-1994. Reformada DOF 28-11-2024
 
 XXIV. Elaborar y conducir políticas tendientes a garantizar acceso a los servicios de salud para las personas que no sean beneficiarios o derechohabientes de alguna institución del sector salud; Fracción adicionada DOF 30-11-2018
 

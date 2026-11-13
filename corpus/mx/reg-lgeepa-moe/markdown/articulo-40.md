@@ -21,6 +21,8 @@ Para la formulación de los programas de ordenamiento ecológico regional en los
 
 I. Identificar las actividades sectoriales que inciden en el área de estudio, así como su relación con posibles conflictos ambientales que generen, sobre todo con respecto a la oferta y demanda de recursos naturales; el mantenimiento de los bienes y servicios ambientales, así como de la protección y conservación de los ecosistemas y de la biodiversidad;
 
-II. Ubicar las zonas donde se presenten conflictos ambientales que deban resolverse con la aplicación de las estrategias ecológicas definidas en el programa de ordenamiento ecológico; y III. Generar un modelo de ordenamiento ecológico que maximice el consenso entre los sectores, minimice los conflictos ambientales y favorezca el desarrollo sustentable en la región.
+II. Ubicar las zonas donde se presenten conflictos ambientales que deban resolverse con la aplicación de las estrategias ecológicas definidas en el programa de ordenamiento ecológico; y
+
+III. Generar un modelo de ordenamiento ecológico que maximice el consenso entre los sectores, minimice los conflictos ambientales y favorezca el desarrollo sustentable en la región.
 
 Los programas de ordenamiento ecológico regional, referidos en este artículo, no podrán considerar o regular las actividades que permiten el desarrollo de la industria de hidrocarburos, ni las actividades a que se refiere el artículo [3](../../lansi/markdown/articulo-3o.md)o., fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, en acatamiento a lo previsto en el artículo 95 de la [Ley](articulo-3o.md) de Hidrocarburos. Párrafo adicionado DOF 31-10-2014

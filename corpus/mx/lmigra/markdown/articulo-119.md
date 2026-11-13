@@ -23,7 +23,9 @@ I. Ser informado de su derecho a recibir protección de su representación consu
 
 II. Recibir información acerca de la posibilidad de permanecer en el país de manera regular, así como del procedimiento de retorno asistido, incluyendo aquella relativa a los recursos jurídicos disponibles;
 
-III. Avisar a sus familiares, representante legal o persona de su confianza, ya sea en territorio nacional o fuera de éste, para tal efecto, se le facilitarán los medios para comunicarse con ésta lo antes posible; IV. Contar con un traductor o intérprete para facilitar la comunicación, para el caso de que no hable o no entienda el español;
+III. Avisar a sus familiares, representante legal o persona de su confianza, ya sea en territorio nacional o fuera de éste, para tal efecto, se le facilitarán los medios para comunicarse con ésta lo antes posible;
+
+IV. Contar con un traductor o intérprete para facilitar la comunicación, para el caso de que no hable o no entienda el español;
 
 V. Que el procedimiento sea sustanciado por autoridad competente y el derecho a recibir asesoría legal, ofrecer pruebas y alegar lo que a su derecho convenga, así como tener acceso a las constancias del expediente administrativo migratorio;
 

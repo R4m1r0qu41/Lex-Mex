@@ -23,4 +23,6 @@ I. Las acusaciones que se hagan contra los servidores públicos considerados en 
 
 II. Los asuntos que por su gravedad o trascendencia plantean al Pleno conjuntamente la Mesa y los grupos parlamentarios en materia de faltas a la disciplina parlamentaria por parte de los senadores;
 
-III. Los asuntos que con carácter de reservados en términos de ley dirijan el Ejecutivo Federal, el Poder Judicial Federal, la Cámara de Diputados del Congreso de la Unión, los Gobernadores, el Jefe de Gobierno de la Ciudad de México y las legislaturas de las entidades federativas, y Fracción reformada DOF 14-03-2017 IV. Aquellos otros asuntos que a juicio de la Mesa deben tener el carácter de reservados conforme a las normas legales aplicables.
+III. Los asuntos que con carácter de reservados en términos de ley dirijan el Ejecutivo Federal, el Poder Judicial Federal, la Cámara de Diputados del Congreso de la Unión, los Gobernadores, el Jefe de Gobierno de la Ciudad de México y las legislaturas de las entidades federativas, y Fracción reformada DOF 14-03-2017
+
+IV. Aquellos otros asuntos que a juicio de la Mesa deben tener el carácter de reservados conforme a las normas legales aplicables.

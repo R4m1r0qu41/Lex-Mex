@@ -25,7 +25,9 @@ II. Los ductos y redes de infraestructura vial, hidráulica y de energía primar
 
 III. Instalaciones de tratamiento, confinamiento, eliminación o disposición de residuos peligrosos y municipales;
 
-IV. Los equipamientos de propiedad pública donde se brinden servicios de salud, educación, seguridad, transporte y abasto, y V. Las instalaciones de almacenamiento, confinamiento, distribución, venta o transformación de combustibles.
+IV. Los equipamientos de propiedad pública donde se brinden servicios de salud, educación, seguridad, transporte y abasto, y
+
+V. Las instalaciones de almacenamiento, confinamiento, distribución, venta o transformación de combustibles.
 
 Los estudios de prevención de riesgos geológicos e hidrometeorológicos contendrán las especificaciones, responsables técnicos, requisitos y alcances que determine el acuerdo que para tales efectos publique la Secretaría de Gobernación, en coordinación con la [Secretaría](articulo-3.md).
 

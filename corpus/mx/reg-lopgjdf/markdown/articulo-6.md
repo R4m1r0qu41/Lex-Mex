@@ -95,7 +95,9 @@ XXII. Iniciar las averiguaciones previas con motivo de denuncias presentadas por
 
 XXIII. Recibir y resolver la solicitud para la disposición de órganos, tejidos y células humanas, que se realice a través del acta de intervención, en términos de la Ley General de Salud, la Ley de Salud del Distrito Federal y demás normatividad aplicable;
 
-XXIV. Determinar el destino final de los cadáveres, y en su caso autorizar su entrega a instituciones educativas, para fines de investigación y docencia, en términos de la Ley General de Salud; XXV. Remitir la propuesta de ejercicio de la acción penal a la Dirección de Consignaciones o a la Fiscalía de Procesos de Paz Penal, según corresponda, debiendo acompañar la averiguación previa debidamente foliada y rubricada, el cuadernillo correspondiente y el pliego de consignación respectivo, el cual deberá contener lo siguiente:
+XXIV. Determinar el destino final de los cadáveres, y en su caso autorizar su entrega a instituciones educativas, para fines de investigación y docencia, en términos de la Ley General de Salud;
+
+XXV. Remitir la propuesta de ejercicio de la acción penal a la Dirección de Consignaciones o a la Fiscalía de Procesos de Paz Penal, según corresponda, debiendo acompañar la averiguación previa debidamente foliada y rubricada, el cuadernillo correspondiente y el pliego de consignación respectivo, el cual deberá contener lo siguiente:
 
 a) Los artículos correspondientes de las leyes penales aplicables en los que se describa la conducta y la sanción;
 
@@ -127,7 +129,9 @@ XXX. Determinar su incompetencia, cuando sea procedente conforme a la normativid
 
 XXXI. Garantizar que en las instalaciones de la agencia a su cargo no se encuentre persona alguna privada de su libertad sin que jurídicamente exista justificación;
 
-XXXII. Atender las solicitudes de información que realice algún organismo de derechos humanos o la Dirección General de Derechos Humanos de esta Procuraduría; XXXIII. Investigar los delitos del orden común, las conductas tipificadas como delitos en las leyes penales atribuidas a los adolescentes, así como los del fuero federal y respecto de los cuales exista petición de colaboración o competencia concurrente, como la posesión, el comercio y el suministro de narcóticos en los términos de la Ley General de Salud y los que se deriven de la normatividad aplicable;
+XXXII. Atender las solicitudes de información que realice algún organismo de derechos humanos o la Dirección General de Derechos Humanos de esta Procuraduría;
+
+XXXIII. Investigar los delitos del orden común, las conductas tipificadas como delitos en las leyes penales atribuidas a los adolescentes, así como los del fuero federal y respecto de los cuales exista petición de colaboración o competencia concurrente, como la posesión, el comercio y el suministro de narcóticos en los términos de la Ley General de Salud y los que se deriven de la normatividad aplicable;
 
 XXXIV. Para el ejercicio de la atribución prevista en el Artículo [2](../../lopgjdf/markdown/articulo-2.md), fracción X, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, el Ministerio Público requerirá informes, documentos y opiniones de las dependencias y entidades de la Administración Pública Federal, únicamente cuando se trate de los delitos de su competencia. Asimismo, de las autoridades competentes del Distrito Federal, también podrá solicitar información acerca de los actos traslativos de dominio celebrados por personas físicas o morales, ante notario público o quien tenga fe pública, respecto de bienes muebles o inmuebles que pudieran estar relacionados con delitos o hechos ilícitos de extinción de dominio, y
 

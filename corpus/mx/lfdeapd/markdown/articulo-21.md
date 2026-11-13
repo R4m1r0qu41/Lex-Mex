@@ -29,7 +29,9 @@ IV. Proteger el patrimonio de la Persona Desaparecida, incluyendo los bienes adq
 
 V. Fijar la forma y plazos para que los [Familiares](articulo-3.md) u otras personas legitimadas por ley, pueden acceder, previo control judicial, al patrimonio de la Persona Desaparecida;
 
-VI. Permitir que las personas beneficiarias de un régimen de seguridad social derivado de una relación de trabajo de la Persona Desaparecida continúen gozando de todos los derechos y beneficios aplicables a este régimen; VII. Suspender de forma provisional los actos judiciales, mercantiles, civiles o administrativos en contra de los derechos o bienes de la Persona Desaparecida;
+VI. Permitir que las personas beneficiarias de un régimen de seguridad social derivado de una relación de trabajo de la Persona Desaparecida continúen gozando de todos los derechos y beneficios aplicables a este régimen;
+
+VII. Suspender de forma provisional los actos judiciales, mercantiles, civiles o administrativos en contra de los derechos o bienes de la Persona Desaparecida;
 
 VIII. Declarar la inexigibilidad o la suspensión temporal de obligaciones o responsabilidades que la Persona Desaparecida tenía a su cargo, incluyendo aquellas derivadas de la adquisición de bienes a crédito y cuyos plazos de amortización se encuentren vigentes;
 

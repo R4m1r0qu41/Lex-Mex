@@ -118,12 +118,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2:term-usage:7883-7901",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2:term-usage:7884-7902",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:normas-extranjeras",
     "span": "Normas Extranjeras",
-    "start_char": 7883,
-    "end_char": 7901
+    "start_char": 7884,
+    "end_char": 7902
   },
   {
     "schema_version": "0.1.0",
@@ -154,39 +154,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5:term-usage:803-811",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5:term-usage:804-812",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 803,
-    "end_char": 811
+    "start_char": 804,
+    "end_char": 812
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5:term-usage:838-846",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5:term-usage:839-847",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 838,
-    "end_char": 846
+    "start_char": 839,
+    "end_char": 847
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5:term-usage:1206-1228",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5:term-usage:1207-1229",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:vigilancia-del-mercado",
     "span": "Vigilancia del Mercado",
-    "start_char": 1206,
-    "end_char": 1228
+    "start_char": 1207,
+    "end_char": 1229
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5:term-usage:1452-1455",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5:term-usage:1453-1456",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:ley",
     "span": "Ley",
-    "start_char": 1452,
-    "end_char": 1455
+    "start_char": 1453,
+    "end_char": 1456
   },
   {
     "schema_version": "0.1.0",
@@ -442,12 +442,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:23:term-usage:702-710",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:23:term-usage:703-711",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:23",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 702,
-    "end_char": 710
+    "start_char": 703,
+    "end_char": 711
   },
   {
     "schema_version": "0.1.0",
@@ -532,12 +532,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:32:term-usage:1028-1058",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:32:term-usage:1029-1059",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:32",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:instituciones-de-investigacion",
     "span": "Instituciones de Investigación",
-    "start_char": 1028,
-    "end_char": 1058
+    "start_char": 1029,
+    "end_char": 1059
   },
   {
     "schema_version": "0.1.0",
@@ -1018,12 +1018,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:90:term-usage:373-393",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:90:term-usage:374-394",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:90",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:conflicto-de-interes",
     "span": "Conflicto de Interés",
-    "start_char": 373,
-    "end_char": 393
+    "start_char": 374,
+    "end_char": 394
   },
   {
     "schema_version": "0.1.0",
@@ -1234,57 +1234,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:823-854",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:824-855",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:comite-tecnico-de-certificacion",
     "span": "Comité Técnico de Certificación",
-    "start_char": 823,
-    "end_char": 854
+    "start_char": 824,
+    "end_char": 855
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:895-926",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:896-927",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:comite-tecnico-de-certificacion",
     "span": "Comité Técnico de Certificación",
-    "start_char": 895,
-    "end_char": 926
+    "start_char": 896,
+    "end_char": 927
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:1054-1136",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:1055-1137",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:criterios-generales-en-materia-de-certificacion-de-la-evaluacion-de-la-conformidad",
     "span": "Criterios Generales en Materia de Certificación de la Evaluación de la Conformidad",
-    "start_char": 1054,
-    "end_char": 1136
+    "start_char": 1055,
+    "end_char": 1137
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:1184-1192",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:1185-1193",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 1184,
-    "end_char": 1192
+    "start_char": 1185,
+    "end_char": 1193
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:1291-1373",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:1292-1374",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:criterios-generales-en-materia-de-certificacion-de-la-evaluacion-de-la-conformidad",
     "span": "Criterios Generales en Materia de Certificación de la Evaluación de la Conformidad",
-    "start_char": 1291,
-    "end_char": 1373
+    "start_char": 1292,
+    "end_char": 1374
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:1855-1937",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107:term-usage:1856-1938",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:107",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:criterios-generales-en-materia-de-certificacion-de-la-evaluacion-de-la-conformidad",
     "span": "Criterios Generales en Materia de Certificación de la Evaluación de la Conformidad",
-    "start_char": 1855,
-    "end_char": 1937
+    "start_char": 1856,
+    "end_char": 1938
   },
   {
     "schema_version": "0.1.0",
@@ -1396,12 +1396,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:116:term-usage:445-448",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:116:term-usage:446-449",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:116",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:ley",
     "span": "Ley",
-    "start_char": 445,
-    "end_char": 448
+    "start_char": 446,
+    "end_char": 449
   },
   {
     "schema_version": "0.1.0",
@@ -1414,30 +1414,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118:term-usage:2401-2404",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118:term-usage:2402-2405",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:ley",
     "span": "Ley",
-    "start_char": 2401,
-    "end_char": 2404
+    "start_char": 2402,
+    "end_char": 2405
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118:term-usage:2436-2444",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118:term-usage:2437-2445",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 2436,
-    "end_char": 2444
+    "start_char": 2437,
+    "end_char": 2445
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118:term-usage:2572-2575",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118:term-usage:2573-2576",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:ley",
     "span": "Ley",
-    "start_char": 2572,
-    "end_char": 2575
+    "start_char": 2573,
+    "end_char": 2576
   },
   {
     "schema_version": "0.1.0",
@@ -1513,30 +1513,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:132:term-usage:993-1023",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:132:term-usage:994-1024",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:132",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:instituciones-de-investigacion",
     "span": "Instituciones de Investigación",
-    "start_char": 993,
-    "end_char": 1023
+    "start_char": 994,
+    "end_char": 1024
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:132:term-usage:1163-1183",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:132:term-usage:1164-1184",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:132",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:conflicto-de-interes",
     "span": "Conflicto de Interés",
-    "start_char": 1163,
-    "end_char": 1183
+    "start_char": 1164,
+    "end_char": 1184
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:140:term-usage:894-902",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:140:term-usage:895-903",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:140",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 894,
-    "end_char": 902
+    "start_char": 895,
+    "end_char": 903
   },
   {
     "schema_version": "0.1.0",
@@ -1666,12 +1666,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:163:term-usage:421-429",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:163:term-usage:422-430",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:163",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 421,
-    "end_char": 429
+    "start_char": 422,
+    "end_char": 430
   },
   {
     "schema_version": "0.1.0",
@@ -1855,12 +1855,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:184:term-usage:1583-1591",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:184:term-usage:1584-1592",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:184",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 1583,
-    "end_char": 1591
+    "start_char": 1584,
+    "end_char": 1592
   },
   {
     "schema_version": "0.1.0",
@@ -1981,12 +1981,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:187:term-usage:1504-1512",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:187:term-usage:1505-1513",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:187",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 1504,
-    "end_char": 1512
+    "start_char": 1505,
+    "end_char": 1513
   },
   {
     "schema_version": "0.1.0",
@@ -2125,30 +2125,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189:term-usage:1242-1254",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189:term-usage:1243-1255",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:laboratorio",
     "span": "Laboratorios",
-    "start_char": 1242,
-    "end_char": 1254
+    "start_char": 1243,
+    "end_char": 1255
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189:term-usage:1258-1269",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189:term-usage:1259-1270",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:calibracion",
     "span": "Calibración",
-    "start_char": 1258,
-    "end_char": 1269
+    "start_char": 1259,
+    "end_char": 1270
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189:term-usage:1363-1371",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189:term-usage:1364-1372",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:189",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:platiica",
     "span": "PLATIICA",
-    "start_char": 1363,
-    "end_char": 1371
+    "start_char": 1364,
+    "end_char": 1372
   },
   {
     "schema_version": "0.1.0",
@@ -2359,57 +2359,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:589-600",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:590-601",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:calibracion",
     "span": "Calibración",
-    "start_char": 589,
-    "end_char": 600
+    "start_char": 590,
+    "end_char": 601
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:1687-1699",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:1688-1700",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:certificado",
     "span": "Certificados",
-    "start_char": 1687,
-    "end_char": 1699
+    "start_char": 1688,
+    "end_char": 1700
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:1703-1714",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:1704-1715",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:calibracion",
     "span": "Calibración",
-    "start_char": 1703,
-    "end_char": 1714
+    "start_char": 1704,
+    "end_char": 1715
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:2056-2067",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:2057-2068",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:calibracion",
     "span": "Calibración",
-    "start_char": 2056,
-    "end_char": 2067
+    "start_char": 2057,
+    "end_char": 2068
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:2075-2087",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:2076-2088",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:laboratorio",
     "span": "Laboratorios",
-    "start_char": 2075,
-    "end_char": 2087
+    "start_char": 2076,
+    "end_char": 2088
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:2153-2156",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:term-usage:2154-2157",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:ley",
     "span": "Ley",
-    "start_char": 2153,
-    "end_char": 2156
+    "start_char": 2154,
+    "end_char": 2157
   },
   {
     "schema_version": "0.1.0",
@@ -2431,12 +2431,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:197:term-usage:758-769",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:197:term-usage:759-770",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:197",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:calibracion",
     "span": "Calibración",
-    "start_char": 758,
-    "end_char": 769
+    "start_char": 759,
+    "end_char": 770
   },
   {
     "schema_version": "0.1.0",
@@ -2512,75 +2512,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:306-342",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:307-343",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:objetivo-legitimo-de-interes-publico",
     "span": "Objetivo Legítimo de Interés Público",
-    "start_char": 306,
-    "end_char": 342
+    "start_char": 307,
+    "end_char": 343
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:538-574",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:539-575",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:objetivo-legitimo-de-interes-publico",
     "span": "Objetivo Legítimo de Interés Público",
-    "start_char": 538,
-    "end_char": 574
+    "start_char": 539,
+    "end_char": 575
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:651-676",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:652-677",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:control-metrologico-legal",
     "span": "Control Metrológico Legal",
-    "start_char": 651,
-    "end_char": 676
+    "start_char": 652,
+    "end_char": 677
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:771-796",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:772-797",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:control-metrologico-legal",
     "span": "Control Metrológico Legal",
-    "start_char": 771,
-    "end_char": 796
+    "start_char": 772,
+    "end_char": 797
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:901-926",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:902-927",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:control-metrologico-legal",
     "span": "Control Metrológico Legal",
-    "start_char": 901,
-    "end_char": 926
+    "start_char": 902,
+    "end_char": 927
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:1063-1088",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:1064-1089",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:control-metrologico-legal",
     "span": "Control Metrológico Legal",
-    "start_char": 1063,
-    "end_char": 1088
+    "start_char": 1064,
+    "end_char": 1089
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:1188-1224",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:1189-1225",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:objetivo-legitimo-de-interes-publico",
     "span": "Objetivo Legítimo de Interés Público",
-    "start_char": 1188,
-    "end_char": 1224
+    "start_char": 1189,
+    "end_char": 1225
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:1388-1420",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200:term-usage:1389-1421",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:200",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:aprobacion-de-modelo-o-prototipo",
     "span": "Aprobación de Modelo o Prototipo",
-    "start_char": 1388,
-    "end_char": 1420
+    "start_char": 1389,
+    "end_char": 1421
   },
   {
     "schema_version": "0.1.0",
@@ -2674,12 +2674,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:203:term-usage:937-940",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:203:term-usage:938-941",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:203",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:ley",
     "span": "Ley",
-    "start_char": 937,
-    "end_char": 940
+    "start_char": 938,
+    "end_char": 941
   },
   {
     "schema_version": "0.1.0",
@@ -3115,12 +3115,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:234:term-usage:247-258",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:234:term-usage:248-259",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:234",
     "term_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:term:laboratorio",
     "span": "Laboratorio",
-    "start_char": 247,
-    "end_char": 258
+    "start_char": 248,
+    "end_char": 259
   },
   {
     "schema_version": "0.1.0",

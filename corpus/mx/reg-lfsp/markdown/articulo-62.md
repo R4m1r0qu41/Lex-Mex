@@ -19,7 +19,9 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 En caso de reincidencia en el incumplimiento de alguna de las obligaciones comprendidas en la [Ley](articulo-2.md) y el presente Reglamento, se impondrán las sanciones siguientes:
 
-I. Cuando la reincidencia fuese por alguna de las infracciones señaladas en el artículo [60](articulo-60.md), fracción l del presente Reglamento, se aplicará la sanción prevista en la fracción ll del mismo artículo; II. Cuando la reincidencia cometida sea por alguna de las infracciones señaladas en el artículo [60](articulo-60.md), fracción ll del presente Reglamento, le será aplicable la sanción prevista en la fracción lll del mismo artículo;
+I. Cuando la reincidencia fuese por alguna de las infracciones señaladas en el artículo [60](articulo-60.md), fracción l del presente Reglamento, se aplicará la sanción prevista en la fracción ll del mismo artículo;
+
+II. Cuando la reincidencia cometida sea por alguna de las infracciones señaladas en el artículo [60](articulo-60.md), fracción ll del presente Reglamento, le será aplicable la sanción prevista en la fracción lll del mismo artículo;
 
 III. Cuando la reincidencia fuese por alguna de las infracciones señaladas en el artículo [60](articulo-60.md), fracción lll del presente Reglamento, se aplicará la sanción prevista en la fracción lV del mismo artículo;
 

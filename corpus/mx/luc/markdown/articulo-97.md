@@ -33,7 +33,9 @@ VI. Cuando por causas imputables a la unión no se registren en la contabilidad,
 
 VII. Si la unión actúa sin autorización de la Comisión, en los casos en que la Ley así lo exija;
 
-VIII. Si omite dar cumplimiento a los requerimientos de las autoridades financieras con motivo del ejercicio de sus facultades; IX. Cuando en dos o más ocasiones se proporcione información imprecisa o incompleta a las autoridades financieras;
+VIII. Si omite dar cumplimiento a los requerimientos de las autoridades financieras con motivo del ejercicio de sus facultades;
+
+IX. Cuando en dos o más ocasiones se proporcione información imprecisa o incompleta a las autoridades financieras;
 
 X. Cuando se proporcione información falsa a las autoridades financieras;
 

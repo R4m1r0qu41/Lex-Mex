@@ -25,7 +25,9 @@ II. La unidad administrativa que lo otorgue o administre;
 
 III. La población objetivo o beneficiaria, así como el padrón respectivo con el nombre de las personas físicas o la razón o denominación social de las personas morales beneficiarias;
 
-IV. Los criterios de la unidad administrativa para otorgarlos; V. El periodo para el cual se otorgaron;
+IV. Los criterios de la unidad administrativa para otorgarlos;
+
+V. El periodo para el cual se otorgaron;
 
 VI. Los montos, y
 

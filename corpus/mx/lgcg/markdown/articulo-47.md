@@ -23,6 +23,8 @@ I. Estado analítico de la deuda, del cual se derivarán las siguientes clasific
 
 a) Corto y largo plazo;
 
-b) Fuentes de financiamiento; II. Endeudamiento neto, financiamiento menos amortización, y
+b) Fuentes de financiamiento;
+
+II. Endeudamiento neto, financiamiento menos amortización, y
 
 III. Intereses de la deuda.

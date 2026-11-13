@@ -27,6 +27,8 @@ III. Los certificados se expedirán y firmarán por la persona moral respectiva 
 
 IV. Para que la transmisión de los derechos que amparan dichos certificados tenga validez, se requiere la transmisión de los certificados mismos;
 
-V. La transmisión de los certificados entre los propios usuarios, o a terceras personas que los sustituyan como usuarios dentro de la unidad de riego, podrá efectuarse sin mayor trámite que los que se señalen en el reglamento de la unidad de riego, y VI. Los derechos de explotación, uso o aprovechamiento del agua que amparan los certificados no pueden ser transferidos fuera de la unidad de riego, ni a fuentes distintas de las concesiones de origen.
+V. La transmisión de los certificados entre los propios usuarios, o a terceras personas que los sustituyan como usuarios dentro de la unidad de riego, podrá efectuarse sin mayor trámite que los que se señalen en el reglamento de la unidad de riego, y
+
+VI. Los derechos de explotación, uso o aprovechamiento del agua que amparan los certificados no pueden ser transferidos fuera de la unidad de riego, ni a fuentes distintas de las concesiones de origen.
 
 Los certificados no crean derechos reales sobre aguas nacionales.

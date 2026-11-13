@@ -7,8 +7,8 @@ provision_type: article
 number: "140"
 aliases: ["LGV — Artículo 140"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -17,6 +17,6 @@ source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 
 # Artículo 140
 
-Los [Recursos de Ayuda](articulo-6.md), asistencia y reparación integral que se otorguen al amparo de esta Ley y del [Reglamento](articulo-6.md), serán fiscalizados anualmente por la Auditoría Superior de la Federación.
+Los [Recursos de Ayuda](articulo-6.md), asistencia y reparación integral que se otorguen al amparo de esta [Ley](articulo-6.md) y del [Reglamento](articulo-6.md), serán fiscalizados anualmente por la Auditoría Superior de la Federación.
 
 Artículo reformado DOF 03-05-2013, 06-11-2020

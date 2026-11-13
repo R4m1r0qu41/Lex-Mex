@@ -23,6 +23,8 @@ I. Las que tengan un nexo o vínculo laboral con el Instituto;
 
 II. Las que tengan litigio pendiente con el Instituto;
 
-III. Las sentenciadas por delitos patrimoniales y las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano, y IV. El cónyuge, concubina o concubinario o las personas que tengan relación de parentesco hasta el cuarto grado por consanguinidad o afinidad con algún Consejero, con el Director General o los Comisarios Públicos.
+III. Las sentenciadas por delitos patrimoniales y las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público o en el sistema financiero mexicano, y
+
+IV. El cónyuge, concubina o concubinario o las personas que tengan relación de parentesco hasta el cuarto grado por consanguinidad o afinidad con algún Consejero, con el Director General o los Comisarios Públicos.
 
 Al tomar posesión del cargo, el profesionista independiente o el especialista del sector de los trabajadores deberá declarar, bajo protesta de decir verdad, que no tiene impedimento alguno para desempeñar la actividad encomendada.

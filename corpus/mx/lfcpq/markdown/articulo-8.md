@@ -21,4 +21,6 @@ Las personas físicas o morales que realicen el transporte terrestre, marítimo 
 
 I. Nombre, Registro Federal de Contribuyentes y domicilio y, en el caso de las personas morales, además, denominación o razón social, y todos aquellos datos referentes a su constitución, objeto social y nombre de las personas socias. Fracción reformada DOF 03-05-2023
 
-II. Datos de identificación de los vehículos terrestres, marítimos o aéreos que serán utilizados, y III. Datos de la concesión, autorización o permiso emitido por la Secretaría de Infraestructura, Comunicaciones y Transportes o por la Secretaría de Marina, según corresponda, en los términos de las disposiciones aplicables. Fracción reformada DOF 03-05-2023
+II. Datos de identificación de los vehículos terrestres, marítimos o aéreos que serán utilizados, y
+
+III. Datos de la concesión, autorización o permiso emitido por la Secretaría de Infraestructura, Comunicaciones y Transportes o por la Secretaría de Marina, según corresponda, en los términos de las disposiciones aplicables. Fracción reformada DOF 03-05-2023

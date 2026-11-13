@@ -33,7 +33,9 @@ VI.- (Se deroga). Fracción derogada DOF 22-12-1993
 
 VII.- (Se deroga). Fracción reformada DOF 13-03-1943. Derogada DOF 22-12-1993
 
-VIII.- (Se deroga). Fracción derogada DOF 12-05-1995 IX.- (Se deroga). Fracción derogada DOF 07-06-1995
+VIII.- (Se deroga). Fracción derogada DOF 12-05-1995
+
+IX.- (Se deroga). Fracción derogada DOF 07-06-1995
 
 XI. Las rutas del servicio postal, y Fracción derogada DOF 07-06-1995. Adicionada DOF 16-07-2025
 

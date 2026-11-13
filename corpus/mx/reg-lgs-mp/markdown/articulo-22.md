@@ -25,7 +25,9 @@ II. Afirmar que el producto llena por sí solo los requerimientos nutricionales 
 
 III. Atribuir a los alimentos industrializados un valor nutritivo superior o distinto al que tengan;
 
-IV. Realizar comparaciones en menoscabo de las propiedades de los alimentos naturales; V. Expresar o sugerir, a través de personajes reales o ficticios, que la ingestión de estos productos proporciona a las personas características o habilidades extraordinarias;
+IV. Realizar comparaciones en menoscabo de las propiedades de los alimentos naturales;
+
+V. Expresar o sugerir, a través de personajes reales o ficticios, que la ingestión de estos productos proporciona a las personas características o habilidades extraordinarias;
 
 VI. Asociarse directa o indirectamente con el consumo de bebidas alcohólicas o tabaco, y
 

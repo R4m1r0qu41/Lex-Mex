@@ -17,19 +17,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:34-ter:reference:6273-6274:6:direct",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:34-ter:reference:6274-6275:6:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34-ter",
     "source_span": "6",
-    "start_char": 6273,
-    "end_char": 6274,
+    "start_char": 6274,
+    "end_char": 6275,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:6",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VI",
-        "start_char": 6276,
-        "end_char": 6287
+        "start_char": 6277,
+        "end_char": 6288
       }
     ],
     "basis": "express_cross_reference",
@@ -63,19 +63,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:reference:3392-3394:41:direct",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:42:reference:3394-3396:41:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:42",
     "source_span": "41",
-    "start_char": 3392,
-    "end_char": 3394,
+    "start_char": 3394,
+    "end_char": 3396,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:41",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XVII",
-        "start_char": 3396,
-        "end_char": 3409
+        "start_char": 3398,
+        "end_char": 3411
       }
     ],
     "basis": "express_cross_reference",
@@ -86,11 +86,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:reference:2953-2955:34:direct",
+    "id": "urn:lex-mx:federal:statute:lgamvlv:article:44:reference:2954-2956:34:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:44",
     "source_span": "34",
-    "start_char": 2953,
-    "end_char": 2955,
+    "start_char": 2954,
+    "end_char": 2956,
     "target_instrument_id": "urn:lex-mx:federal:statute:lgamvlv",
     "target_provision_id": "urn:lex-mx:federal:statute:lgamvlv:article:34",
     "qualifiers": [],

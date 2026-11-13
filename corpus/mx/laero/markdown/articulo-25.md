@@ -35,7 +35,9 @@ VII. Los requisitos para el inicio de operaciones;
 
 VIII. Los servicios que podrá prestar el concesionario o permisionario;
 
-IX. La facultad para arrendar los espacios en los aeródromos civiles para la prestación de los servicios de que se trate; X. Los derechos y obligaciones del concesionario o permisionario;
+IX. La facultad para arrendar los espacios en los aeródromos civiles para la prestación de los servicios de que se trate;
+
+X. Los derechos y obligaciones del concesionario o permisionario;
 
 XI. El periodo de vigencia;
 

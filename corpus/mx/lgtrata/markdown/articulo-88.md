@@ -21,7 +21,7 @@ source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
 
 I. Proponer su Reglamento Interno;
 
-II. Elaborar el proyecto de Programa Nacional, que contendrá la política del Estado Mexicano en relación a estos delitos. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS Este Programa deberá incluir las estrategias y políticas del Estado Mexicano de prevención, protección y asistencia, y persecución.
+II. Elaborar el proyecto de Programa Nacional, que contendrá la política del Estado Mexicano en relación a estos delitos. Este Programa deberá incluir las estrategias y políticas del Estado Mexicano de prevención, protección y asistencia, y persecución.
 
 Deberá contener, también, políticas generales y focalizadas en materia de prevención, investigación, persecución y sanción, así como de protección, asistencia y resocialización de víctimas, ofendidos y testigos;
 
@@ -47,7 +47,7 @@ b) Interinstitucionales entre dependencias del gobierno federal, en materia de s
 
 VII. Los convenios de colaboración interinstitucional y acuerdos deberán ajustarse, en lo conducente, a las bases previas en la Ley General del Sistema Nacional de Seguridad Pública y en la Ley General de Migración.
 
-Estos convenios y acuerdos podrán suscribirse con organizaciones de la sociedad civil y la academia, con los siguientes fines: LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS a) Informar y capacitar con perspectiva de género, de derechos humanos y conforme al interés superior de la niñez, sobre los conceptos fundamentales y las implicaciones de los delitos previstos en esta Ley y de los instrumentos internacionales relacionados con la materia al personal de la administración pública federal relacionado con este fenómeno delictivo;
+Estos convenios y acuerdos podrán suscribirse con organizaciones de la sociedad civil y la academia, con los siguientes fines: a) Informar y capacitar con perspectiva de género, de derechos humanos y conforme al interés superior de la niñez, sobre los conceptos fundamentales y las implicaciones de los delitos previstos en esta Ley y de los instrumentos internacionales relacionados con la materia al personal de la administración pública federal relacionado con este fenómeno delictivo;
 
 b) Promover la investigación científica y el intercambio de experiencias entre organismos e instituciones a nivel nacional e internacional, incluyendo organizaciones de la sociedad civil vinculadas con la protección de los derechos de las niñas, niños, adolescentes y mujeres;
 
@@ -73,6 +73,8 @@ XI. Establecer programas de asistencia y apoyo para la reunificación familiar y
 
 XII. Realizar campañas para promover la denuncia de los delitos objeto de esta Ley y lograr la detección, persecución y desarticulación de las redes delictivas de los delitos previsto en esta Ley;
 
-XIII. Desarrollar programas educativos sobre los riesgos en el uso de internet y redes sociales; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS XIV. Desarrollar programas para la protección de datos personales y control de la información personal, que incluya distintas formas de operación para el reclutamiento, modos y formas de intervención de cuentas, y restricciones de envío de fotografías personales e íntimas;
+XIII. Desarrollar programas educativos sobre los riesgos en el uso de internet y redes sociales;
+
+XIV. Desarrollar programas para la protección de datos personales y control de la información personal, que incluya distintas formas de operación para el reclutamiento, modos y formas de intervención de cuentas, y restricciones de envío de fotografías personales e íntimas;
 
 XV. En coordinación con la Secretaría, monitorear y vigilar de manera permanente que los anuncios clasificados que se publiquen por cualquier medio, conforme a los lineamientos que emitirá para este efecto.

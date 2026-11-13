@@ -23,7 +23,9 @@ I. Tener el mayor cuidado en la guarda y conservación de los equipos, materiale
 
 II. Informar con oportunidad sobre los costos pactados para el uso de los servicios de telecomunicaciones y del consumo de electricidad, derivados del teletrabajo;
 
-III. Obedecer y conducirse con apego a las disposiciones en materia de seguridad y salud en el trabajo establecidas por el patrón; IV. Atender y utilizar los mecanismos y sistemas operativos para la supervisión de sus actividades, y
+III. Obedecer y conducirse con apego a las disposiciones en materia de seguridad y salud en el trabajo establecidas por el patrón;
+
+IV. Atender y utilizar los mecanismos y sistemas operativos para la supervisión de sus actividades, y
 
 V. Atender las políticas y mecanismos de protección de datos utilizados en el desempeño de sus actividades, así como las restricciones sobre su uso y almacenamiento.
 

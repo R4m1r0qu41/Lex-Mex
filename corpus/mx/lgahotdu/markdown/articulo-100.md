@@ -19,7 +19,9 @@ source_sha256: dd294df803cf4a31421f3533f6fd4be308305d6e6f43a89a07e6a30d72d0ddd5
 
 Para apoyar el funcionamiento de los observatorios, las dependencias y entidades de la Administración Pública Federal, estatal, municipal y de las [Demarcaciones Territoriales](articulo-3.md):
 
-I. Proporcionarles la información asequible sobre el proceso de [Desarrollo Urbano](articulo-3.md) y el ordenamiento territorial, así como de los actos administrativos y autorizaciones que afecten al mismo; II. Promover, desarrollar y difundir investigaciones, estudios, diagnósticos y propuestas en la materia;
+I. Proporcionarles la información asequible sobre el proceso de [Desarrollo Urbano](articulo-3.md) y el ordenamiento territorial, así como de los actos administrativos y autorizaciones que afecten al mismo;
+
+II. Promover, desarrollar y difundir investigaciones, estudios, diagnósticos y propuestas en la materia;
 
 III. Mejorar la recolección, manejo, análisis y uso de la información en la formulación de políticas urbanas;
 

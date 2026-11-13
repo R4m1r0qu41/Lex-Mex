@@ -7,8 +7,8 @@ provision_type: article
 number: "35"
 aliases: ["REG-LGP — Artículo 35"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf
 source_sha256: d1b105c503cd9d4e593d9e349b440a77cffc4bf1f3507fe1d1659ab97c8befd8
 ---
@@ -29,4 +29,4 @@ IV. Celebrar las bases y procedimientos de coordinación con el Ejecutivo de las
 
 V. Promover que las entidades federativas formulen los respectivos programas de población en el marco de la política nacional de población, y
 
-VI. Las demás que señala la Ley, el presente [Reglamento](articulo-3.md) y las que sean necesarias para el cumplimiento de sus fines y funciones.
+VI. Las demás que señala la [Ley](articulo-3.md), el presente [Reglamento](articulo-3.md) y las que sean necesarias para el cumplimiento de sus fines y funciones.

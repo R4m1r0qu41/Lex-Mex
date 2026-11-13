@@ -19,7 +19,9 @@ source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5
 
 Las [Cuotas](articulo-6.md) y [Aportaciones](articulo-6.md) a que se refiere este Capítulo serán:
 
-I. A los Trabajadores les corresponde una Cuota de seis punto ciento veinticinco por ciento del [Sueldo Básico](articulo-6.md); II. A las [Dependencias](articulo-6.md) y [Entidades](articulo-6.md) les corresponde una Aportación de retiro de dos por ciento, y por cesantía en edad avanzada y vejez, de tres punto ciento setenta y cinco por ciento del Sueldo Básico, y
+I. A los Trabajadores les corresponde una Cuota de seis punto ciento veinticinco por ciento del [Sueldo Básico](articulo-6.md);
+
+II. A las [Dependencias](articulo-6.md) y [Entidades](articulo-6.md) les corresponde una Aportación de retiro de dos por ciento, y por cesantía en edad avanzada y vejez, de tres punto ciento setenta y cinco por ciento del Sueldo Básico, y
 
 III. El Gobierno Federal cubrirá mensualmente una [Cuota Social](articulo-6.md) diaria por cada Trabajador, equivalente al cinco punto cinco por ciento del salario mínimo general para el Distrito Federal vigente al día primero de julio de mil novecientos noventa y siete actualizado trimestralmente conforme al Índice Nacional de Precios al Consumidor al día de la entrada en vigor de esta Ley. La cantidad inicial que resulte, a su vez, se actualizará trimestralmente en los meses de marzo, junio, septiembre y diciembre, conforme al Índice Nacional del Precios al Consumidor.
 

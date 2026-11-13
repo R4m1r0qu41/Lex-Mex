@@ -19,7 +19,9 @@ source_sha256: 8d3d1a9b2d2dec12c65695cd5b87d60f76e2f3c64356f73ab6011d7dc40fbe37
 
 Queda estrictamente prohibido para la atención y preservación de los derechos de las personas con la condición del espectro autista y sus familias:
 
-I. Rechazar su atención en clínicas y hospitales del sector público y privado; II. Negar la orientación necesaria para un diagnóstico y tratamiento adecuado, y desestimar el traslado de individuos a instituciones especializadas, en el supuesto de carecer de los conocimientos necesarios para su atención adecuada;
+I. Rechazar su atención en clínicas y hospitales del sector público y privado;
+
+II. Negar la orientación necesaria para un diagnóstico y tratamiento adecuado, y desestimar el traslado de individuos a instituciones especializadas, en el supuesto de carecer de los conocimientos necesarios para su atención adecuada;
 
 III. Actuar con negligencia y realizar acciones que pongan en riesgo la salud de las personas, así como aplicar terapias riesgosas, indicar sobre-medicación que altere el grado de la condición u ordenar internamientos injustificados en instituciones psiquiátricas;
 

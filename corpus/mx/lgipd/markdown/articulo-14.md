@@ -17,4 +17,4 @@ source_sha256: 952f9d7ef0ed8b0efaf968bf3a002030b1705463d4c8c3d0ca7f392953caa71f
 
 # Artículo 14
 
-La [Lengua de Señas Mexicana](articulo-2.md), es reconocida oficialmente como una lengua nacional y forma parte del patrimonio lingüístico con que cuenta la nación mexicana. Serán reconocidos el Sistema Braille, los modos, medios y formatos de comunicación accesibles que elijan las personas con discapacidad.
+La [Lengua de Señas Mexicana](articulo-2.md), es reconocida oficialmente como una lengua nacional y forma parte del patrimonio lingüístico con que cuenta la nación mexicana. Serán reconocidos el [Sistema](articulo-2.md) Braille, los modos, medios y formatos de comunicación accesibles que elijan las personas con discapacidad.

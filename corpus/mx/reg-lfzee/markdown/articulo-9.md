@@ -37,7 +37,9 @@ VIII. La Secretaría de Comunicaciones y Transportes;
 
 IX. La Secretaría de la Función Pública;
 
-X. La Secretaría de Educación Pública; XI. La Secretaría de Salud;
+X. La Secretaría de Educación Pública;
+
+XI. La Secretaría de Salud;
 
 XII. La Secretaría del Trabajo y Previsión Social;
 

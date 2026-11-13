@@ -41,6 +41,8 @@ X. Presentar periódicamente al Organo de Gobierno el informe del desempeño de 
 
 XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la entidad y presentar al Organo de Gobierno por lo menos dos veces al año la evaluación de gestión con el detalle que previamente se acuerde con el Organo y escuchando al Comisario Público;
 
-XII. Ejecutar los acuerdos que dicte el Organo de Gobierno; XIII. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales de la entidad con sus trabajadores; y
+XII. Ejecutar los acuerdos que dicte el Organo de Gobierno;
+
+XIII. Suscribir, en su caso, los contratos colectivos e individuales que regulen las relaciones laborales de la entidad con sus trabajadores; y
 
 XIV. Las que señalen las otras Leyes, Reglamentos, Decretos, Acuerdos y demás disposiciones administrativas aplicables con las únicas salvedades a que se contrae este ordenamiento.

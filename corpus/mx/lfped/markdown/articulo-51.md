@@ -7,8 +7,8 @@ provision_type: article
 number: "51"
 aliases: ["LFPED — Artículo 51"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf
 source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 ---

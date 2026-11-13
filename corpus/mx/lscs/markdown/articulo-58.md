@@ -17,7 +17,9 @@ source_sha256: 8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06
 
 # Artículo 58
 
-La agravación del riesgo no producirá sus efectos: I.- Si no ejerció influencia sobre el siniestro o sobre la extensión de las prestaciones de la empresa aseguradora;
+La agravación del riesgo no producirá sus efectos:
+
+I.- Si no ejerció influencia sobre el siniestro o sobre la extensión de las prestaciones de la empresa aseguradora;
 
 II.- Si tuvo por objeto salvaguardar los intereses de la empresa aseguradora o cumplir con un deber de humanidad;
 

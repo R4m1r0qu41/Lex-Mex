@@ -27,7 +27,9 @@ II. El pago de los daños físicos, materiales, psicológicos, así como la repa
 
 Incluirá, por lo menos, los costos de tratamiento médico, medicina, exámenes clínicos e intervenciones necesarias, rehabilitación física, prótesis o aparatos ortopédicos, así también la terapia o tratamiento psiquiátrico, psicológico y rehabilitación social y ocupacional hasta la rehabilitación total de la víctima.
 
-III. La pérdida de oportunidades, del empleo, educación y prestaciones sociales que de no haberse cometido el delito se tendrían; por tanto deberá repararse el daño para que la víctima u ofendido puedan acceder a nuevos sistemas de educación, laborales y sociales acorde a sus circunstancias; LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS IV. El pago de los ingresos económicos que se hubieren perdido, así como y el lucro cesante ocasionado por la comisión del delito, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima, en caso de no contar con esa información, será conforme al salario mínimo general vigente para el Distrito Federal, al tiempo del dictado de la sentencia;
+III. La pérdida de oportunidades, del empleo, educación y prestaciones sociales que de no haberse cometido el delito se tendrían; por tanto deberá repararse el daño para que la víctima u ofendido puedan acceder a nuevos sistemas de educación, laborales y sociales acorde a sus circunstancias;
+
+IV. El pago de los ingresos económicos que se hubieren perdido, así como y el lucro cesante ocasionado por la comisión del delito, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima, en caso de no contar con esa información, será conforme al salario mínimo general vigente para el Distrito Federal, al tiempo del dictado de la sentencia;
 
 V. Los gastos de asistencia y representación jurídica o de peritos, hasta la total conclusión de los procedimientos legales;
 

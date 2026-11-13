@@ -235,183 +235,201 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:4975-4990",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:4976-4991",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
     "span": "Administradoras",
-    "start_char": 4975,
-    "end_char": 4990
+    "start_char": 4976,
+    "end_char": 4991
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5214-5226",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5215-5227",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajadores",
-    "start_char": 5214,
-    "end_char": 5226
+    "start_char": 5215,
+    "end_char": 5227
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5347-5357",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5348-5358",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajador",
-    "start_char": 5347,
-    "end_char": 5357
+    "start_char": 5348,
+    "end_char": 5358
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5363-5385",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5364-5386",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores-no-afiliados",
     "span": "Trabajador no Afiliado",
-    "start_char": 5363,
-    "end_char": 5385
+    "start_char": 5364,
+    "end_char": 5386
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5403-5427",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5404-5428",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora-receptora",
     "span": "Administradora Receptora",
-    "start_char": 5403,
-    "end_char": 5427
+    "start_char": 5404,
+    "end_char": 5428
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5477-5485",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5478-5486",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
     "span": "Traspaso",
-    "start_char": 5477,
-    "end_char": 5485
+    "start_char": 5478,
+    "end_char": 5486
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5740-5765",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5741-5766",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores-no-afiliados",
     "span": "Trabajadores no Afiliados",
-    "start_char": 5740,
-    "end_char": 5765
+    "start_char": 5741,
+    "end_char": 5766
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5810-5813",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5811-5814",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
     "span": "Ley",
-    "start_char": 5810,
-    "end_char": 5813
+    "start_char": 5811,
+    "end_char": 5814
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5888-5913",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:5889-5914",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:aportaciones-al-fovissste",
     "span": "Aportaciones al FOVISSSTE",
-    "start_char": 5888,
-    "end_char": 5913
+    "start_char": 5889,
+    "end_char": 5914
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6532-6557",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6533-6558",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:aportaciones-al-infonavit",
     "span": "Aportaciones al INFONAVIT",
-    "start_char": 6532,
-    "end_char": 6557
+    "start_char": 6533,
+    "end_char": 6558
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6827-6830",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:6828-6831",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
     "span": "Ley",
-    "start_char": 6827,
-    "end_char": 6830
+    "start_char": 6828,
+    "end_char": 6831
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7135-7138",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7136-7139",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
     "span": "Ley",
-    "start_char": 7135,
-    "end_char": 7138
+    "start_char": 7136,
+    "end_char": 7139
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7268-7271",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7269-7272",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
     "span": "Ley",
-    "start_char": 7268,
-    "end_char": 7271
+    "start_char": 7269,
+    "end_char": 7272
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7334-7358",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7335-7359",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora-receptora",
     "span": "Administradora Receptora",
-    "start_char": 7334,
-    "end_char": 7358
+    "start_char": 7335,
+    "end_char": 7359
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7364-7391",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7365-7392",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora-transferente",
     "span": "Administradora Transferente",
-    "start_char": 7364,
-    "end_char": 7391
+    "start_char": 7365,
+    "end_char": 7392
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7413-7423",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7414-7424",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajador",
-    "start_char": 7413,
-    "end_char": 7423
+    "start_char": 7414,
+    "end_char": 7424
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7429-7451",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7430-7452",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores-no-afiliados",
     "span": "Trabajador no Afiliado",
-    "start_char": 7429,
-    "end_char": 7451
+    "start_char": 7430,
+    "end_char": 7452
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7553-7556",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7554-7557",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
     "span": "Ley",
-    "start_char": 7553,
-    "end_char": 7556
+    "start_char": 7554,
+    "end_char": 7557
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7696-7706",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7661-7669",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
+    "span": "Traspaso",
+    "start_char": 7661,
+    "end_char": 7669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7698-7708",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajador",
-    "start_char": 7696,
-    "end_char": 7706
+    "start_char": 7698,
+    "end_char": 7708
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7713-7735",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7715-7737",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores-no-afiliados",
     "span": "Trabajador no Afiliado",
-    "start_char": 7713,
-    "end_char": 7735
+    "start_char": 7715,
+    "end_char": 7737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:2:term-usage:7905-7913",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
+    "span": "Traspaso",
+    "start_char": 7905,
+    "end_char": 7913
   },
   {
     "schema_version": "0.1.0",
@@ -469,12 +487,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:4:term-usage:886-900",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:4:term-usage:887-901",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:4",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
     "span": "Administradora",
-    "start_char": 886,
-    "end_char": 900
+    "start_char": 887,
+    "end_char": 901
   },
   {
     "schema_version": "0.1.0",
@@ -1351,84 +1369,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:1756-1770",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:1757-1771",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
     "span": "Administradora",
-    "start_char": 1756,
-    "end_char": 1770
+    "start_char": 1757,
+    "end_char": 1771
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:1878-1886",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:1879-1887",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
     "span": "Traspaso",
-    "start_char": 1878,
-    "end_char": 1886
+    "start_char": 1879,
+    "end_char": 1887
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:1918-1932",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:1919-1933",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
     "span": "Administradora",
-    "start_char": 1918,
-    "end_char": 1932
+    "start_char": 1919,
+    "end_char": 1933
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2108-2116",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2109-2126",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
-    "span": "Traspaso",
-    "start_char": 2108,
-    "end_char": 2116
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso-indebido",
+    "span": "Traspaso Indebido",
+    "start_char": 2109,
+    "end_char": 2126
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2355-2358",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2356-2359",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
     "span": "Ley",
-    "start_char": 2355,
-    "end_char": 2358
+    "start_char": 2356,
+    "end_char": 2359
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2797-2801",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2798-2802",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:imss",
     "span": "IMSS",
-    "start_char": 2797,
-    "end_char": 2801
+    "start_char": 2798,
+    "end_char": 2802
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2803-2812",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2804-2813",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:infonavit",
     "span": "INFONAVIT",
-    "start_char": 2803,
-    "end_char": 2812
+    "start_char": 2804,
+    "end_char": 2813
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2815-2821",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:2816-2822",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:issste",
     "span": "ISSSTE",
-    "start_char": 2815,
-    "end_char": 2821
+    "start_char": 2816,
+    "end_char": 2822
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:3265-3290",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:33:term-usage:3266-3291",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:33",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores-no-afiliados",
     "span": "Trabajadores no Afiliados",
-    "start_char": 3265,
-    "end_char": 3290
+    "start_char": 3266,
+    "end_char": 3291
   },
   {
     "schema_version": "0.1.0",
@@ -2368,12 +2386,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:43:term-usage:54-62",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:43:term-usage:54-71",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:43",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
-    "span": "Traspaso",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso-indebido",
+    "span": "Traspaso Indebido",
     "start_char": 54,
-    "end_char": 62
+    "end_char": 71
   },
   {
     "schema_version": "0.1.0",
@@ -2404,12 +2422,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:43:term-usage:323-331",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:43:term-usage:323-340",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:43",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
-    "span": "Traspaso",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso-indebido",
+    "span": "Traspaso Indebido",
     "start_char": 323,
-    "end_char": 331
+    "end_char": 340
   },
   {
     "schema_version": "0.1.0",
@@ -2431,12 +2449,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:43:term-usage:530-538",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:43:term-usage:530-547",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:43",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
-    "span": "Traspaso",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso-indebido",
+    "span": "Traspaso Indebido",
     "start_char": 530,
-    "end_char": 538
+    "end_char": 547
   },
   {
     "schema_version": "0.1.0",
@@ -2566,12 +2584,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:43:term-usage:1584-1592",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:43:term-usage:1584-1601",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:43",
-    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
-    "span": "Traspaso",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso-indebido",
+    "span": "Traspaso Indebido",
     "start_char": 1584,
-    "end_char": 1592
+    "end_char": 1601
   },
   {
     "schema_version": "0.1.0",
@@ -4897,264 +4915,264 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5664-5676",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5665-5677",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajadores",
-    "start_char": 5664,
-    "end_char": 5676
+    "start_char": 5665,
+    "end_char": 5677
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5769-5773",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5770-5774",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:imss",
     "span": "IMSS",
-    "start_char": 5769,
-    "end_char": 5773
+    "start_char": 5770,
+    "end_char": 5774
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5775-5784",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5776-5785",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:infonavit",
     "span": "INFONAVIT",
-    "start_char": 5775,
-    "end_char": 5784
+    "start_char": 5776,
+    "end_char": 5785
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5786-5792",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5787-5793",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:issste",
     "span": "ISSSTE",
-    "start_char": 5786,
-    "end_char": 5792
+    "start_char": 5787,
+    "end_char": 5793
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5794-5803",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:5795-5804",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:fovissste",
     "span": "FOVISSSTE",
-    "start_char": 5794,
-    "end_char": 5803
+    "start_char": 5795,
+    "end_char": 5804
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6072-6112",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6073-6113",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:manual-de-procedimientos-transaccionales",
     "span": "Manual de Procedimientos Transaccionales",
-    "start_char": 6072,
-    "end_char": 6112
+    "start_char": 6073,
+    "end_char": 6113
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6521-6525",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6522-6526",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:imss",
     "span": "IMSS",
-    "start_char": 6521,
-    "end_char": 6525
+    "start_char": 6522,
+    "end_char": 6526
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6528-6537",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6529-6538",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:infonavit",
     "span": "INFONAVIT",
-    "start_char": 6528,
-    "end_char": 6537
+    "start_char": 6529,
+    "end_char": 6538
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6544-6550",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6545-6551",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:issste",
     "span": "ISSSTE",
-    "start_char": 6544,
-    "end_char": 6550
+    "start_char": 6545,
+    "end_char": 6551
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6553-6562",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6554-6563",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:fovissste",
     "span": "FOVISSSTE",
-    "start_char": 6553,
-    "end_char": 6562
+    "start_char": 6554,
+    "end_char": 6563
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6631-6671",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6632-6672",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:manual-de-procedimientos-transaccionales",
     "span": "Manual de Procedimientos Transaccionales",
-    "start_char": 6631,
-    "end_char": 6671
+    "start_char": 6632,
+    "end_char": 6672
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6982-7002",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:6983-7003",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:cuenta-concentradora",
     "span": "Cuenta Concentradora",
-    "start_char": 6982,
-    "end_char": 7002
+    "start_char": 6983,
+    "end_char": 7003
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7009-7024",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7010-7025",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
     "span": "Administradoras",
-    "start_char": 7009,
-    "end_char": 7024
+    "start_char": 7010,
+    "end_char": 7025
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7188-7200",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7189-7201",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajadores",
-    "start_char": 7188,
-    "end_char": 7200
+    "start_char": 7189,
+    "end_char": 7201
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7210-7235",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7211-7236",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores-no-afiliados",
     "span": "Trabajadores no Afiliados",
-    "start_char": 7210,
-    "end_char": 7235
+    "start_char": 7211,
+    "end_char": 7236
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7281-7289",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7282-7290",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:traspaso",
     "span": "Traspaso",
-    "start_char": 7281,
-    "end_char": 7289
+    "start_char": 7282,
+    "end_char": 7290
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7321-7333",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7322-7334",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajadores",
-    "start_char": 7321,
-    "end_char": 7333
+    "start_char": 7322,
+    "end_char": 7334
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7343-7368",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7344-7369",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores-no-afiliados",
     "span": "Trabajadores no Afiliados",
-    "start_char": 7343,
-    "end_char": 7368
+    "start_char": 7344,
+    "end_char": 7369
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7467-7482",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7468-7483",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
     "span": "Administradoras",
-    "start_char": 7467,
-    "end_char": 7482
+    "start_char": 7468,
+    "end_char": 7483
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7484-7488",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7485-7489",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:imss",
     "span": "IMSS",
-    "start_char": 7484,
-    "end_char": 7488
+    "start_char": 7485,
+    "end_char": 7489
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7490-7499",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7491-7500",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:infonavit",
     "span": "INFONAVIT",
-    "start_char": 7490,
-    "end_char": 7499
+    "start_char": 7491,
+    "end_char": 7500
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7501-7507",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7502-7508",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:issste",
     "span": "ISSSTE",
-    "start_char": 7501,
-    "end_char": 7507
+    "start_char": 7502,
+    "end_char": 7508
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7510-7519",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7511-7520",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:fovissste",
     "span": "FOVISSSTE",
-    "start_char": 7510,
-    "end_char": 7519
+    "start_char": 7511,
+    "end_char": 7520
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7594-7615",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7595-7616",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:separacion-de-cuentas",
     "span": "Separación de Cuentas",
-    "start_char": 7594,
-    "end_char": 7615
+    "start_char": 7595,
+    "end_char": 7616
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7623-7635",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:7624-7636",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajadores",
-    "start_char": 7623,
-    "end_char": 7635
+    "start_char": 7624,
+    "end_char": 7636
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:8247-8250",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:8248-8251",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
     "span": "Ley",
-    "start_char": 8247,
-    "end_char": 8250
+    "start_char": 8248,
+    "end_char": 8251
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:8769-8772",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:8771-8774",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
     "span": "Ley",
-    "start_char": 8769,
-    "end_char": 8772
+    "start_char": 8771,
+    "end_char": 8774
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:8813-8823",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:8815-8825",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:secretaria",
     "span": "Secretaría",
-    "start_char": 8813,
-    "end_char": 8823
+    "start_char": 8815,
+    "end_char": 8825
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:9027-9030",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:68:term-usage:9029-9032",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:68",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:ley",
     "span": "Ley",
-    "start_char": 9027,
-    "end_char": 9030
+    "start_char": 9029,
+    "end_char": 9032
   },
   {
     "schema_version": "0.1.0",
@@ -5491,66 +5509,66 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:497-509",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:498-510",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajadores",
-    "start_char": 497,
-    "end_char": 509
+    "start_char": 498,
+    "end_char": 510
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:674-695",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:675-696",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:separacion-de-cuentas",
     "span": "Separación de Cuentas",
-    "start_char": 674,
-    "end_char": 695
+    "start_char": 675,
+    "end_char": 696
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:730-764",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:731-765",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:subcuenta-del-fondo-de-la-vivienda",
     "span": "Subcuenta del Fondo de la Vivienda",
-    "start_char": 730,
-    "end_char": 764
+    "start_char": 731,
+    "end_char": 765
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:770-784",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:771-785",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:administradora",
     "span": "Administradora",
-    "start_char": 770,
-    "end_char": 784
+    "start_char": 771,
+    "end_char": 785
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:819-829",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:820-830",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:trabajadores",
     "span": "Trabajador",
-    "start_char": 819,
-    "end_char": 829
+    "start_char": 820,
+    "end_char": 830
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:845-851",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:846-852",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:issste",
     "span": "ISSSTE",
-    "start_char": 845,
-    "end_char": 851
+    "start_char": 846,
+    "end_char": 852
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:1088-1128",
+    "id": "urn:lex-mx:federal:regulation:reg-lsar:article:75:term-usage:1089-1129",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lsar:article:75",
     "term_id": "urn:lex-mx:federal:regulation:reg-lsar:term:manual-de-procedimientos-transaccionales",
     "span": "Manual de Procedimientos Transaccionales",
-    "start_char": 1088,
-    "end_char": 1128
+    "start_char": 1089,
+    "end_char": 1129
   },
   {
     "schema_version": "0.1.0",

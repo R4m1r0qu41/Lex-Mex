@@ -25,6 +25,8 @@ II. Evitar la especulación de inmuebles aptos para el Desarrollo Urbano y la vi
 
 III. Reducir y abatir los procesos de ocupación irregular de áreas y predios, mediante la oferta de suelo con infraestructura y servicios, terminados o progresivos, que atienda preferentemente, las necesidades de los grupos de bajos ingresos;
 
-IV. Garantizar los derechos de vía para asegurar el diseño y construcción de una red de vialidades primarias, como partes de una retícula, que faciliten la conectividad, la [Movilidad](articulo-3.md) y el desarrollo de infraestructura urbana; V. Asegurar la disponibilidad de suelo para los diferentes [Usos del suelo](articulo-3.md) y [Destinos](articulo-3.md) que determinen los planes o programas de Desarrollo Urbano, y
+IV. Garantizar los derechos de vía para asegurar el diseño y construcción de una red de vialidades primarias, como partes de una retícula, que faciliten la conectividad, la [Movilidad](articulo-3.md) y el desarrollo de infraestructura urbana;
+
+V. Asegurar la disponibilidad de suelo para los diferentes [Usos del suelo](articulo-3.md) y [Destinos](articulo-3.md) que determinen los planes o programas de Desarrollo Urbano, y
 
 VI. Garantizar el cumplimiento de los planes o programas de Desarrollo Urbano.

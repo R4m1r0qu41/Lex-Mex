@@ -17,7 +17,9 @@ source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
 
 # Artículo 425
 
-De manera enunciativa y no limitativa, podrá tramitarse la jurisdicción voluntaria en los siguientes casos: I. Para justificar algún hecho o acreditar un derecho;
+De manera enunciativa y no limitativa, podrá tramitarse la jurisdicción voluntaria en los siguientes casos:
+
+I. Para justificar algún hecho o acreditar un derecho;
 
 II. Cuando se pretenda justificar la posesión como medio para acreditar el dominio pleno de un inmueble o derecho real;
 

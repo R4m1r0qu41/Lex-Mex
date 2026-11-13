@@ -27,7 +27,9 @@ III. Nombrar y remover a propuesta de la persona Titular de la Dirección Genera
 
 IV. Acordar los asuntos que se sometan a su consideración sobre la administración del agua y sobre los bienes y recursos de "la Comisión";
 
-V. Conocer y acordar las políticas y medidas que permitan la programación sobre la administración del agua y la acción coordinada entre las dependencias de la Administración Pública Federal y otras que deban intervenir en materia hídrica; VI. Aprobar los términos en que se podrán gestionar y concertar los créditos y otros mecanismos de financiamiento que requiera "la Comisión";
+V. Conocer y acordar las políticas y medidas que permitan la programación sobre la administración del agua y la acción coordinada entre las dependencias de la Administración Pública Federal y otras que deban intervenir en materia hídrica;
+
+VI. Aprobar los términos en que se podrán gestionar y concertar los créditos y otros mecanismos de financiamiento que requiera "la Comisión";
 
 VII. Acordar la creación de Consejos de Cuenca, así como modificaciones a los existentes;
 

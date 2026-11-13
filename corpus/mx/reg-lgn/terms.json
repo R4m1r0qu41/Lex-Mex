@@ -29,7 +29,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "III",
     "start_char": 461,
-    "end_char": 521,
+    "end_char": 522,
     "basis": "express_definition"
   },
   {
@@ -39,8 +39,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "IV",
-    "start_char": 521,
-    "end_char": 642,
+    "start_char": 522,
+    "end_char": 643,
     "basis": "express_definition"
   },
   {
@@ -50,8 +50,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "V",
-    "start_char": 642,
-    "end_char": 712,
+    "start_char": 643,
+    "end_char": 713,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "VII",
-    "start_char": 841,
-    "end_char": 881,
+    "start_char": 842,
+    "end_char": 882,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "VIII",
-    "start_char": 881,
-    "end_char": 1088,
+    "start_char": 882,
+    "end_char": 1089,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "IX",
-    "start_char": 1088,
-    "end_char": 1382,
+    "start_char": 1089,
+    "end_char": 1383,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "X",
-    "start_char": 1382,
-    "end_char": 1422,
+    "start_char": 1383,
+    "end_char": 1423,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XI",
-    "start_char": 1422,
-    "end_char": 1498,
+    "start_char": 1423,
+    "end_char": 1499,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XII",
-    "start_char": 1498,
-    "end_char": 1573,
+    "start_char": 1499,
+    "end_char": 1574,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XIII",
-    "start_char": 1573,
-    "end_char": 1672,
+    "start_char": 1574,
+    "end_char": 1673,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XIV",
-    "start_char": 1672,
-    "end_char": 1750,
+    "start_char": 1673,
+    "end_char": 1751,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XV",
-    "start_char": 1750,
-    "end_char": 1815,
+    "start_char": 1751,
+    "end_char": 1816,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XVI",
-    "start_char": 1815,
-    "end_char": 1880,
+    "start_char": 1816,
+    "end_char": 1881,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XVII",
-    "start_char": 1880,
-    "end_char": 2058,
+    "start_char": 1881,
+    "end_char": 2059,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XVIII",
-    "start_char": 2058,
-    "end_char": 2313,
+    "start_char": 2059,
+    "end_char": 2314,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XIX",
-    "start_char": 2313,
-    "end_char": 2784,
+    "start_char": 2314,
+    "end_char": 2785,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XX",
-    "start_char": 2784,
-    "end_char": 2827,
+    "start_char": 2785,
+    "end_char": 2828,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XXI",
-    "start_char": 2827,
-    "end_char": 2896,
+    "start_char": 2828,
+    "end_char": 2897,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,19 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
     "fraction": "XXII",
-    "start_char": 2896,
-    "end_char": 3038,
+    "start_char": 2897,
+    "end_char": 2983,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XXIII",
+    "start_char": 2983,
+    "end_char": 3040,
     "basis": "express_definition"
   }
 ]

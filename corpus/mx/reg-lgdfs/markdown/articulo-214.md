@@ -37,4 +37,6 @@ VIII. Usos y actividades permitidas y sus restricciones;
 
 IX. Acciones y procedimientos para lograr los objetivos de la Veda;
 
-X. En su caso, las medidas para la coordinación y participación de los sectores público, social y privado interesados en la aplicación de la Veda, y XI. Programa de seguimiento y evaluación de los efectos de la Veda sobre los Ecosistemas forestales, así como sobre las comunidades afectadas por esta.
+X. En su caso, las medidas para la coordinación y participación de los sectores público, social y privado interesados en la aplicación de la Veda, y
+
+XI. Programa de seguimiento y evaluación de los efectos de la Veda sobre los Ecosistemas forestales, así como sobre las comunidades afectadas por esta.

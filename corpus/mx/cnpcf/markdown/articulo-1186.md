@@ -21,7 +21,9 @@ Las sentencias, laudos arbitrales privados de carácter no comercial y resolucio
 
 I. Que se hayan satisfecho las formalidades previstas en este Código en materia de exhortos o cartas rogatorias provenientes del extranjero y llenen los requisitos para ser considerados como auténticos;
 
-II. Que no hayan sido dictados como consecuencia del ejercicio de una acción real inmobiliaria; III. Que la autoridad jurisdiccional que dictó la sentencia haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en la esfera internacional, que sean análogas y compatibles con las adoptadas por el orden jurídico mexicano;
+II. Que no hayan sido dictados como consecuencia del ejercicio de una acción real inmobiliaria;
+
+III. Que la autoridad jurisdiccional que dictó la sentencia haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en la esfera internacional, que sean análogas y compatibles con las adoptadas por el orden jurídico mexicano;
 
 IV. No se reconocerá la competencia de la autoridad jurisdiccional extranjera cuando el acuerdo de elección del foro sea estimado como nulo si alguna de las partes carecía de la capacidad para celebrar el acuerdo;
 

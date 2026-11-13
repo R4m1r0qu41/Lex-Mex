@@ -7,8 +7,8 @@ provision_type: article
 number: "44"
 aliases: ["LGAMVLV — Artículo 44"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf
 source_sha256: 9a35a6a9017840b7d052dfc0726ff668a76257fd3f76f741c615630125fbf535
 ---
@@ -33,7 +33,9 @@ VI. Ejecutar y dar seguimiento a las acciones del [Programa](articulo-5.md) que 
 
 VII. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
 
-VIII. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres; IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+VIII. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
+
+IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
 X. Celebrar convenios de cooperación, coordinación y concertación en la materia; Fracción reformada DOF 14-06-2012
 

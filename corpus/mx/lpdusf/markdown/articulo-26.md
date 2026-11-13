@@ -25,7 +25,9 @@ II. Ejecutar los acuerdos de la Junta;
 
 III. Imponer las sanciones que correspondan de conformidad con lo establecido en esta Ley, así como conocer y resolver sobre el recurso de revisión, y proponer a la Junta la condonación total o parcial de las multas;
 
-IV. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto de la Comisión Nacional; V. Suscribir y negociar títulos de crédito, así como realizar operaciones de crédito; Fracción reformada DOF 05-01-2000
+IV. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto de la Comisión Nacional;
+
+V. Suscribir y negociar títulos de crédito, así como realizar operaciones de crédito; Fracción reformada DOF 05-01-2000
 
 VI. Formular denuncias y querellas, así como otorgar el perdón correspondiente;
 

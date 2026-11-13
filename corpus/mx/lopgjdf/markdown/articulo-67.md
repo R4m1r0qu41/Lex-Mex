@@ -17,7 +17,9 @@ source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 
 # Artículo 67
 
-(Derechos) Los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la Policía de Investigación y los Peritos, tendrán los derechos siguientes: I. Participar en los cursos de capacitación, actualización y especialización correspondientes, así como aquellos que se acuerden con otras instituciones académicas, que tengan relación con sus funciones y según lo permitan las necesidades del servicio;
+(Derechos) Los Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la Policía de Investigación y los Peritos, tendrán los derechos siguientes:
+
+I. Participar en los cursos de capacitación, actualización y especialización correspondientes, así como aquellos que se acuerden con otras instituciones académicas, que tengan relación con sus funciones y según lo permitan las necesidades del servicio;
 
 II. Percibir prestaciones acordes con las características del servicio, atendiendo a las disponibilidades presupuestales de la Procuraduría y de conformidad con la normatividad aplicable;
 

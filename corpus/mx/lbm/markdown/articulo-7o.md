@@ -29,7 +29,9 @@ IV. Constituir depósitos en instituciones de crédito o depositarias de valores
 
 V. Adquirir valores emitidos por organismos financieros internacionales o personas morales domiciliadas en el exterior, de los previstos en la fracción II del artículo [20](articulo-20.md);
 
-VI. Emitir bonos de regulación monetaria; VII. Recibir depósitos bancarios de dinero del Gobierno Federal, de entidades financieras del país y del exterior, de fideicomisos públicos de fomento económico y de los referidos en la fracción XI siguiente, de instituciones para el depósito de valores, así como de entidades de la administración pública federal cuando las leyes así lo dispongan;
+VI. Emitir bonos de regulación monetaria;
+
+VII. Recibir depósitos bancarios de dinero del Gobierno Federal, de entidades financieras del país y del exterior, de fideicomisos públicos de fomento económico y de los referidos en la fracción XI siguiente, de instituciones para el depósito de valores, así como de entidades de la administración pública federal cuando las leyes así lo dispongan;
 
 VIII. Recibir depósitos bancarios de dinero de las personas a que se refiere la fracción VI del artículo [3](articulo-3o.md)o.;
 

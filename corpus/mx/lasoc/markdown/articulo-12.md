@@ -37,7 +37,9 @@ g) La promoción de la participación consciente y organizada de la población c
 
 h) El apoyo a la educación y capacitación para el trabajo de personas con carencias socio- económicas, e
 
-i) La prestación de servicios funerarios. II. La promoción del desarrollo, el mejoramiento y la integración familiar;
+i) La prestación de servicios funerarios.
+
+II. La promoción del desarrollo, el mejoramiento y la integración familiar;
 
 III. La protección de los derechos de niñas, niños y adolescentes, la representación jurídica y la promoción de su sano desarrollo físico, mental y social;
 

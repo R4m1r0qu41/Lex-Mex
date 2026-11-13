@@ -19,7 +19,9 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 Al frente de la Dirección General de Recursos Humanos habrá un Director General, quien ejercerá por sí o a través de los servidores públicos que le estén adscritos, las atribuciones siguientes:
 
-I. Planear, coordinar, dirigir y evaluar la administración de los recursos humanos de la Procuraduría e instrumentar y garantizar la aplicación de los sistemas y procedimientos para su desarrollo y superación integral, en congruencia con las directrices y normatividad interna y la que emita el Gobierno del Distrito Federal; II. Participar en el ámbito de su competencia, en la elaboración de los criterios, normas, lineamientos, procedimientos, formulación y consolidación del Servicio Profesional de Carrera para el personal sustantivo de la Institución, así como en la ejecución y evaluación del mismo;
+I. Planear, coordinar, dirigir y evaluar la administración de los recursos humanos de la Procuraduría e instrumentar y garantizar la aplicación de los sistemas y procedimientos para su desarrollo y superación integral, en congruencia con las directrices y normatividad interna y la que emita el Gobierno del Distrito Federal;
+
+II. Participar en el ámbito de su competencia, en la elaboración de los criterios, normas, lineamientos, procedimientos, formulación y consolidación del Servicio Profesional de Carrera para el personal sustantivo de la Institución, así como en la ejecución y evaluación del mismo;
 
 III. Aplicar las políticas y procedimientos para el reclutamiento, selección y designación del personal administrativo que requieran las diversas áreas de la Procuraduría, así como para llevar a cabo el análisis de puestos, definición y aplicación de tabuladores de sueldos, de conformidad con las disposiciones correspondientes;
 

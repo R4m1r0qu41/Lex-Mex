@@ -23,7 +23,9 @@ Sin perjuicio de lo anterior, la [Comisión](articulo-2.md) podrá exceptuar de 
 
 I. Adquisiciones a precio de mercado que resulten de una redistribución de acciones ordinarias entre integrantes de un mismo grupo de personas, prevalezca o no este último, siempre que los adquirentes hayan sido accionistas por más de cinco años de la sociedad y el grupo de personas que mantenga el control como resultado de la adquisición, haya tenido durante dicho plazo un porcentaje relevante del capital social.
 
-II. Reducciones de capital social en las que la participación de la persona o grupo de personas de que se trate, resulte en un treinta por ciento o más del total de acciones ordinarias. III. Se encuentre en riesgo la viabilidad de la sociedad como negocio en marcha y se adquieran las acciones ordinarias como consecuencia de aumentos de capital o de reestructuraciones societarias tales como fusiones, escisiones, compra y venta de activos y capitalización de pasivos, siempre que se cuente con la opinión favorable del consejo de administración, previo acuerdo del comité que desempeñe funciones en materia de prácticas societarias.
+II. Reducciones de capital social en las que la participación de la persona o grupo de personas de que se trate, resulte en un treinta por ciento o más del total de acciones ordinarias.
+
+III. Se encuentre en riesgo la viabilidad de la sociedad como negocio en marcha y se adquieran las acciones ordinarias como consecuencia de aumentos de capital o de reestructuraciones societarias tales como fusiones, escisiones, compra y venta de activos y capitalización de pasivos, siempre que se cuente con la opinión favorable del consejo de administración, previo acuerdo del comité que desempeñe funciones en materia de prácticas societarias.
 
 IV. Ejecución y adjudicación, judicial o extrajudicial, de garantías sobre acciones, derivada de un adeudo cuya garantía se encuentre constituida a favor de entidades financieras, incluyendo cuando actúen como fiduciarias.
 

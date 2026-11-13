@@ -33,7 +33,9 @@ V. Emitir opinión sobre las reglas de carácter general y los formatos oficiale
 
 VI. Participar, en conjunto con la UIF, en la suscripción de los convenios a que se refiere el artículo [32](articulo-32.md) del presente Reglamento;
 
-VII. Sustanciar y resolver el procedimiento sancionador, así como imponer las sanciones administrativas previstas en la Ley; Fracción reformada DOF 27-03-2026 REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA VIII. Informar a las autoridades competentes cuando se actualicen los supuestos previstos en los artículos [56](../../lfpiorpi/markdown/articulo-56.md), [57](../../lfpiorpi/markdown/articulo-57.md), [58](../../lfpiorpi/markdown/articulo-58.md) y [59](../../lfpiorpi/markdown/articulo-59.md) de la Ley, a efecto de que estas procedan a imponer las sanciones correspondientes; Fracción reformada DOF 27-03-2026
+VII. Sustanciar y resolver el procedimiento sancionador, así como imponer las sanciones administrativas previstas en la Ley; Fracción reformada DOF 27-03-2026
+
+VIII. Informar a las autoridades competentes cuando se actualicen los supuestos previstos en los artículos [56](../../lfpiorpi/markdown/articulo-56.md), [57](../../lfpiorpi/markdown/articulo-57.md), [58](../../lfpiorpi/markdown/articulo-58.md) y [59](../../lfpiorpi/markdown/articulo-59.md) de la Ley, a efecto de que estas procedan a imponer las sanciones correspondientes; Fracción reformada DOF 27-03-2026
 
 IX. Solicitar el auxilio de la fuerza pública federal o local, cuando las circunstancias así lo requieran, para el ejercicio de sus facultades; Fracción adicionada DOF 27-03-2026
 

@@ -23,7 +23,9 @@ I. Asignación: acto administrativo a través del cual la Secretaría otorga a l
 
 II. Autorización: acto administrativo mediante el cual el Instituto otorga a una persona física o moral la explotación de los derechos de emisión y recepción de señales y Bandas de frecuencias asociadas a Sistemas satelitales extranjeros que presten Servicios satelitales en el territorio nacional;
 
-III. Bandas de frecuencias asociadas: son las porciones de Espectro radioeléctrico comprendido entre dos frecuencias determinadas atribuidas a una Posición orbital geoestacionaria u Órbita satelital; IV. Capacidad satelital: cantidad de espectro radioeléctrico cuantificada en Hertz, susceptible de ser suministrada por un Sistema satelital para cursar tráfico de Servicios satelitales;
+III. Bandas de frecuencias asociadas: son las porciones de Espectro radioeléctrico comprendido entre dos frecuencias determinadas atribuidas a una Posición orbital geoestacionaria u Órbita satelital;
+
+IV. Capacidad satelital: cantidad de espectro radioeléctrico cuantificada en Hertz, susceptible de ser suministrada por un Sistema satelital para cursar tráfico de Servicios satelitales;
 
 V. Concesión: acto administrativo mediante el cual el Instituto confiere el derecho a una persona para ocupar y explotar recursos orbitales;
 

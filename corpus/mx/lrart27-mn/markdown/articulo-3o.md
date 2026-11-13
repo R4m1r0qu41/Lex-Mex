@@ -25,7 +25,9 @@ II.- Instalación nuclear: aquélla en la que se fabrica, procesa, utiliza, repr
 
 III.- Instalación radiactiva: aquélla en la que se produce, fabrica, almacena o hace uso de material radiactivo o equipo que lo contenga; o se tratan, condicionan o almacenan desechos radiactivos;
 
-IV.- Material nuclear: cualquier material básico o material fisionable especial; V.- Material básico:
+IV.- Material nuclear: cualquier material básico o material fisionable especial;
+
+V.- Material básico:
 
 a) El uranio natural;
 

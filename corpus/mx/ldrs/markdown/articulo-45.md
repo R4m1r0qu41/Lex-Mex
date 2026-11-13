@@ -25,7 +25,9 @@ II. Articular los esfuerzos de capacitación de las diversas instancias del gobi
 
 III. Mejorar la calidad y cobertura de los servicios de capacitación;
 
-IV. Validar los programas de capacitación; V. Realizar el seguimiento y evaluar los programas de capacitación que realicen las instituciones públicas y privadas;
+IV. Validar los programas de capacitación;
+
+V. Realizar el seguimiento y evaluar los programas de capacitación que realicen las instituciones públicas y privadas;
 
 VI. Apoyar el mejor aprovechamiento de las capacidades y recursos que en esta materia poseen las entidades de los sectores público, social y privado, orientando su ejercicio en correspondencia con el Programa Nacional de Capacitación Rural Integral;
 

@@ -71,7 +71,9 @@ h) Pronunciarse ante el consejo de administración y la dirección general sobre
 
 i) Contribuir a la aplicación efectiva del sistema integral de administración de riesgos a que se refiere la fracción I de este artículo, en particular a modelizar el riesgo en que se basa el cálculo del requerimiento de capital de solvencia en términos de lo previsto en los artículos [235](articulo-235.md) y [237](articulo-237.md) de esta Ley, así como en la autoevaluación periódica en materia de riesgos y solvencia señalada en la fracción I del presente artículo.
 
-La función actuarial deberá ser desempeñada por personas con conocimientos y experiencia suficientes de matemática actuarial y financiera, y estadística. La Comisión, en las disposiciones de carácter general a que se refiere este artículo, establecerá la forma y términos en que se deberá acreditar el cumplimiento de los requisitos anteriores, y V. En materia de la contratación de servicios con terceros, las Instituciones deberán establecer políticas y procedimientos para garantizar que las funciones operativas relacionadas con su actividad que sean contratadas con terceros, sigan cumpliendo con todas las obligaciones previstas en esta Ley.
+La función actuarial deberá ser desempeñada por personas con conocimientos y experiencia suficientes de matemática actuarial y financiera, y estadística. La Comisión, en las disposiciones de carácter general a que se refiere este artículo, establecerá la forma y términos en que se deberá acreditar el cumplimiento de los requisitos anteriores, y
+
+V. En materia de la contratación de servicios con terceros, las Instituciones deberán establecer políticas y procedimientos para garantizar que las funciones operativas relacionadas con su actividad que sean contratadas con terceros, sigan cumpliendo con todas las obligaciones previstas en esta Ley.
 
 Dichas políticas, además de apegarse a lo señalado en los artículos [268](articulo-268.md) y [269](articulo-269.md) de este ordenamiento, deberán prever que no se podrán contratar con terceros la realización de funciones operativas de la Institución de que se trate, cuando dicha contratación pudiera ocasionar que:
 

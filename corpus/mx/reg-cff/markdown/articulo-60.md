@@ -31,7 +31,9 @@ IV. Reciba, por cualquier circunstancia o motivo, participación directa en func
 
 V. Sea agente o corredor de bolsa de valores en ejercicio;
 
-VI. Sea funcionario o empleado del Gobierno Federal, de las entidades federativas coordinadas en materia de contribuciones federales o de un organismo descentralizado competente para determinar contribuciones; VII. Reciba de cualquiera de los contribuyentes o de sus partes relacionadas, a los que les proporcione servicios de auditoría externa, bienes que se consideren inversiones y terrenos en propiedad para su explotación por parte del contador público inscrito, de la sociedad o de la asociación civil que conforme el despacho en el que dicho contador público preste sus servicios, o inversiones de capital, financiamientos u otros beneficios económicos. Excepto si los bienes o beneficios se reciben como contraprestación por la prestación de sus servicios;
+VI. Sea funcionario o empleado del Gobierno Federal, de las entidades federativas coordinadas en materia de contribuciones federales o de un organismo descentralizado competente para determinar contribuciones;
+
+VII. Reciba de cualquiera de los contribuyentes o de sus partes relacionadas, a los que les proporcione servicios de auditoría externa, bienes que se consideren inversiones y terrenos en propiedad para su explotación por parte del contador público inscrito, de la sociedad o de la asociación civil que conforme el despacho en el que dicho contador público preste sus servicios, o inversiones de capital, financiamientos u otros beneficios económicos. Excepto si los bienes o beneficios se reciben como contraprestación por la prestación de sus servicios;
 
 VIII. Proporcione directamente, o por medio de un socio o empleado de la sociedad o asociación civil que conforme el despacho en el que el contador público preste sus servicios, adicionalmente al de dictaminar, los servicios de:
 

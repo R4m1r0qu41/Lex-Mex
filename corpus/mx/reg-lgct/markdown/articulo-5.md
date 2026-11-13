@@ -7,8 +7,8 @@ provision_type: article
 number: "5"
 aliases: ["REG-LGCT — Artículo 5"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCT.pdf
 source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 ---
@@ -17,7 +17,9 @@ source_sha256: 4afbc3d9466d845cfcfb8c2a64a1b7b5cf4efcbc31fe8b58afba418bb9600c52
 
 # Artículo 5
 
-Sin perjuicio de las facultades que les corresponden a las demás autoridades competentes determinadas en la Ley y este Reglamento, la Secretaría para la correcta aplicación de la Ley y este Reglamento ejercerá las siguientes atribuciones: I. Recibir y atender las denuncias o quejas que al efecto se interpongan por incumplimiento de la Ley y este Reglamento;
+Sin perjuicio de las facultades que les corresponden a las demás autoridades competentes determinadas en la Ley y este Reglamento, la Secretaría para la correcta aplicación de la Ley y este Reglamento ejercerá las siguientes atribuciones:
+
+I. Recibir y atender las denuncias o quejas que al efecto se interpongan por incumplimiento de la Ley y este Reglamento;
 
 II. Instrumentar los procedimientos de vigilancia y control sanitarios;
 

@@ -39,7 +39,9 @@ En este caso, cualquier persona de ciudadanía mexicana podrá aportar informaci
 
 IX. Emitir los estatutos, acuerdos, protocolos, lineamientos, circulares, instructivos, bases, criterios, el manual de organización y procedimientos de la Fiscalía General, y demás disposiciones administrativas generales necesarias para el ejercicio de las facultades a cargo de las personas agentes del [Ministerio Público](articulo-9.md) de la Federación y de las personas servidoras públicas de la Fiscalía General;
 
-X. Presidir la Junta de Gobierno del Instituto Nacional de Ciencias Penales; XI. Nombrar a la persona titular del Instituto Nacional de Ciencias Penales;
+X. Presidir la Junta de Gobierno del Instituto Nacional de Ciencias Penales;
+
+XI. Nombrar a la persona titular del Instituto Nacional de Ciencias Penales;
 
 XII. Representar a la Fiscalía General en las relaciones institucionales con autoridades federales y con los gobiernos de las entidades federativas y municipios, organismos públicos autónomos, así como órganos gubernamentales extranjeros u organismos internacionales;
 
@@ -67,7 +69,9 @@ XXIII. Solicitar y recibir de las personas concesionarias de telecomunicaciones,
 
 XXIV. Emitir los protocolos que regulen las técnicas de investigación, de entrega vigilada y las operaciones encubiertas;
 
-XXV. Autorizar la infiltración de personas agentes de la [Policía](articulo-9.md) Federal Ministerial para investigaciones, así como los actos de entrega vigilada y las operaciones encubiertas previstos en la ley y en los tratados internacionales ratificados por el Estado mexicano; XXVI. Ordenar la implementación de los bancos de datos y sistemas de información para la generación de inteligencia necesaria a efecto de dar cumplimiento a las atribuciones constitucionales de la Fiscalía General y del Ministerio Público;
+XXV. Autorizar la infiltración de personas agentes de la [Policía](articulo-9.md) Federal Ministerial para investigaciones, así como los actos de entrega vigilada y las operaciones encubiertas previstos en la ley y en los tratados internacionales ratificados por el Estado mexicano;
+
+XXVI. Ordenar la implementación de los bancos de datos y sistemas de información para la generación de inteligencia necesaria a efecto de dar cumplimiento a las atribuciones constitucionales de la Fiscalía General y del Ministerio Público;
 
 XXVII. Autorizar a la persona agente del Ministerio Público de la Federación solicitar a la autoridad judicial la cancelación de las órdenes de aprehensión, reaprehensión o comparecencia, en los términos que disponga el Código Nacional;
 
@@ -115,7 +119,9 @@ XLII. Emitir las disposiciones normativas relativas a obra pública, administrac
 
 XLIII. Establecer los criterios generales en materia de recursos humanos, condiciones generales de trabajo, así como para la fijación de los tabuladores y remuneraciones de las personas servidoras públicas de la Fiscalía General en términos de la legislación aplicable;
 
-XLIV. Otorgar estímulos por productividad o desempeño a las personas servidoras públicas, así como en los términos de la Ley de Premios, Estímulos y Recompensas Civiles; XLV. Designar de manera especial, cuando las necesidades de la función lo requieran, a las personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras;
+XLIV. Otorgar estímulos por productividad o desempeño a las personas servidoras públicas, así como en los términos de la Ley de Premios, Estímulos y Recompensas Civiles;
+
+XLV. Designar de manera especial, cuando las necesidades de la función lo requieran, a las personas agentes del Ministerio Público de la Federación, personas agentes de la Policía Federal Ministerial, personas peritas, personas analistas y personas facilitadoras;
 
 XLVI. Aprobar e implementar protocolos de actuación para la investigación de delitos con perspectivas de derechos humanos, género y protección integral de los derechos de la niñez;
 

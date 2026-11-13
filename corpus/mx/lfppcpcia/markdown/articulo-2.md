@@ -19,7 +19,9 @@ source_sha256: 7263691565a635e37b58c99dbea5ad01b4e911550d48954dd5553b76d1664abe
 
 La [Ley](articulo-3.md) tiene los siguientes fines:
 
-I. Reconocer y garantizar el derecho de propiedad de los pueblos y comunidades indígenas y afromexicanas sobre los elementos que conforman su patrimonio cultural, sus conocimientos y expresiones culturales tradicionales, así como la propiedad intelectual colectiva respecto de dicho patrimonio; II. Promover el respeto y desarrollo del patrimonio cultural de los pueblos y comunidades indígenas y afromexicanas, así como reconocer la diversidad de sus elementos;
+I. Reconocer y garantizar el derecho de propiedad de los pueblos y comunidades indígenas y afromexicanas sobre los elementos que conforman su patrimonio cultural, sus conocimientos y expresiones culturales tradicionales, así como la propiedad intelectual colectiva respecto de dicho patrimonio;
+
+II. Promover el respeto y desarrollo del patrimonio cultural de los pueblos y comunidades indígenas y afromexicanas, así como reconocer la diversidad de sus elementos;
 
 III. Establecer disposiciones para que, en ejercicio de su libre determinación y autonomía, los pueblos y comunidades indígenas y afromexicanas definan, preserven, protejan, controlen y desarrollen los elementos de su patrimonio cultural, sus conocimientos y expresiones culturales tradicionales;
 

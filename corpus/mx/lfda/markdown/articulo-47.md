@@ -23,4 +23,6 @@ I. El número de ediciones o, en su caso, reimpresiones, que comprende, así com
 
 II. La cantidad de ejemplares de que conste cada edición;
 
-III. Si la entrega del material es o no en exclusiva, y IV. La remuneración que deba percibir el autor o el titular de los derechos patrimoniales.
+III. Si la entrega del material es o no en exclusiva, y
+
+IV. La remuneración que deba percibir el autor o el titular de los derechos patrimoniales.

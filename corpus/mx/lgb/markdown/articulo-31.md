@@ -23,4 +23,6 @@ I. Recibir trato digno;
 
 II. Ser asesorado sobre la información que busca;
 
-III. Que el personal destinado a la operación de una biblioteca no lo discrimine sobre sus ideas y búsquedas, y IV. Que la biblioteca pública conserve el patrimonio cultural oral de su comunidad.
+III. Que el personal destinado a la operación de una biblioteca no lo discrimine sobre sus ideas y búsquedas, y
+
+IV. Que la biblioteca pública conserve el patrimonio cultural oral de su comunidad.

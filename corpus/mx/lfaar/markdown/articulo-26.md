@@ -21,7 +21,9 @@ Para ser socio de un [Fondo de Aseguramiento](articulo-2o.md) se requiere:
 
 I. Ser persona física de nacionalidad mexicana en pleno ejercicio de sus derechos y que realice actividades agrícolas o pecuarias, o tenga su residencia en el medio rural; o bien, ser persona moral de nacionalidad mexicana con cláusula de exclusión de extranjeros, cuyo objeto social prevea la realización de actividades agrícolas o pecuarias, o del medio rural;
 
-II. Presentar por escrito solicitud de ingreso; III. No ser socio de otro Fondo de Aseguramiento, excepto en lo previsto en la fracción VI de este mismo artículo. En caso de que el interesado haya participado en otro Fondo de Aseguramiento deberá presentar el acta de la Asamblea General que haya acordado su separación; o bien, la solicitud de separación recibida por el Fondo de Aseguramiento al que perteneció, cuando no se le hubiere dado respuesta a la misma en el plazo a que se refiere el [artículo siguiente](articulo-27.md);
+II. Presentar por escrito solicitud de ingreso;
+
+III. No ser socio de otro Fondo de Aseguramiento, excepto en lo previsto en la fracción VI de este mismo artículo. En caso de que el interesado haya participado en otro Fondo de Aseguramiento deberá presentar el acta de la Asamblea General que haya acordado su separación; o bien, la solicitud de separación recibida por el Fondo de Aseguramiento al que perteneció, cuando no se le hubiere dado respuesta a la misma en el plazo a que se refiere el [artículo siguiente](articulo-27.md);
 
 IV. Presentar la información para efecto de determinar si es susceptible de integrarse como socio al Fondo de Aseguramiento. Cada Fondo de Aseguramiento fijará los requisitos que deberá cumplir el interesado;
 

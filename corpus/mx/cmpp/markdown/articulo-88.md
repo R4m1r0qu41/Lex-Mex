@@ -33,6 +33,8 @@ II. El día y hora en que debe comparecer;
 
 III. El objeto de la ésta;
 
-IV. El procedimiento del que se deriva; V. La firma de la autoridad que la ordena, y
+IV. El procedimiento del que se deriva;
+
+V. La firma de la autoridad que la ordena, y
 
 VI. El apercibimiento de la imposición de un medio de apremio en caso de incumplimiento.

@@ -17,7 +17,9 @@ source_sha256: b47aeec8015f6cd2ccbcc51a81b3beb06b2b9b096cd738dae46bc725c8a0d644
 
 # Artículo 72
 
-La [Secretaría](articulo-2.md) en las disposiciones de carácter general a que se refiere el Artículo [71](articulo-71.md) anterior, emitirá los lineamientos sobre el procedimiento y criterios que Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV deberán observar respecto de: I. El adecuado conocimiento de sus [Socios](articulo-2.md), para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen.
+La [Secretaría](articulo-2.md) en las disposiciones de carácter general a que se refiere el Artículo [71](articulo-71.md) anterior, emitirá los lineamientos sobre el procedimiento y criterios que Sociedades Cooperativas de Ahorro y Préstamo con Niveles de Operación I a IV deberán observar respecto de:
+
+I. El adecuado conocimiento de sus [Socios](articulo-2.md), para lo cual aquéllas deberán considerar los antecedentes, condiciones específicas, actividad económica o profesional y las plazas en que operen.
 
 II. La información y documentación que dichas Sociedades Cooperativas de Ahorro y Préstamo deban recabar para la apertura de cuentas o celebración de contratos relativos a las operaciones y servicios que ellas presten y que acredite plenamente la identidad de sus Socios.
 

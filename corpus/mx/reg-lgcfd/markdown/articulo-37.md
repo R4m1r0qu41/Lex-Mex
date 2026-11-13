@@ -7,8 +7,8 @@ provision_type: article
 number: "37"
 aliases: ["REG-LGCFD — Artículo 37"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf
 source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 ---
@@ -17,7 +17,9 @@ source_sha256: 86403c810586af2075eedff012e34e00c2b65dce27b4108fb7efda04a6739c4c
 
 # Artículo 37
 
-Tratándose de instalaciones deportivas públicas o privadas, compete a las dependencias o entidades de Cultura Física y Deporte de la jurisdicción donde el inmueble se ubique, realizar la inscripción en el RENADE, para lo cual deberán presentar: I. Documento que acredite la propiedad o legítima posesión;
+Tratándose de instalaciones deportivas públicas o privadas, compete a las dependencias o entidades de Cultura Física y Deporte de la jurisdicción donde el inmueble se ubique, realizar la inscripción en el RENADE, para lo cual deberán presentar:
+
+I. Documento que acredite la propiedad o legítima posesión;
 
 II. Nombre de la persona física o moral que administre el inmueble;
 

@@ -27,7 +27,9 @@ III. Verificar que los [Integrantes](articulo-2.md) de las unidades especiales d
 
 IV. Llevar a cabo las políticas, planes y estrategias para la crianza, selección, adiestramiento, capacitación, atención veterinaria, supervisión y baja de los semovientes equinos;
 
-V. Cumplir con los mecanismos de evaluación, certificación y registro de los semovientes equinos, conforme a las disposiciones jurídicas aplicables; VI. Elaborar los programas de capacitación y profesionalización, en coordinación con la Coordinación del [Sistema](articulo-2.md) de Desarrollo Policial, de los Integrantes de las unidades especiales de la División de Gendarmería;
+V. Cumplir con los mecanismos de evaluación, certificación y registro de los semovientes equinos, conforme a las disposiciones jurídicas aplicables;
+
+VI. Elaborar los programas de capacitación y profesionalización, en coordinación con la Coordinación del [Sistema](articulo-2.md) de Desarrollo Policial, de los Integrantes de las unidades especiales de la División de Gendarmería;
 
 VII. Establecer de conformidad con las disposiciones jurídicas aplicables, vínculos de cooperación e intercambio de información con instituciones homólogas nacionales y extranjeras, y
 

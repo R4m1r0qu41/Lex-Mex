@@ -29,7 +29,9 @@ IV. Construir, operar y explotar terminales, marinas e instalaciones portuarias 
 
 V. Prestar servicios portuarios y conexos por sí, o a través de terceros mediante el contrato respectivo;
 
-VI. Opinar sobre la delimitación de las zonas y áreas del puerto; VII. Formular las reglas de operación del puerto, que incluirán, entre otros, los horarios del puerto, los requisitos que deban cumplir los prestadores de servicios portuarios y, previa opinión del comité de operación, someterlas a la autorización de la [Secretaría](articulo-2o.md);
+VI. Opinar sobre la delimitación de las zonas y áreas del puerto;
+
+VII. Formular las reglas de operación del puerto, que incluirán, entre otros, los horarios del puerto, los requisitos que deban cumplir los prestadores de servicios portuarios y, previa opinión del comité de operación, someterlas a la autorización de la [Secretaría](articulo-2o.md);
 
 VIII. Asignar las posiciones de atraque en los términos de las reglas de operación;
 

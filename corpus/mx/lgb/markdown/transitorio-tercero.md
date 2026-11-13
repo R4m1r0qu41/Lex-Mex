@@ -15,4 +15,4 @@ source_sha256: 1a7dcb966c812b4d78487fc81a4f873a2d1fd63e0f40a021dc8aa2d56e31dc19
 
 # Tercero
 
-Se abroga el Decreto que dispone la obligación de los editores y productores de materiales bibliográficos y documentales, de entregar ejemplares de sus obras a la Biblioteca Nacional y a la [Biblioteca del Congreso de la Unión](articulo-2.md), publicado en el Diario Oficial de la Federación el 23 de julio de 1991.
+Se abroga el Decreto que dispone la obligación de los editores y productores de materiales bibliográficos y documentales, de entregar ejemplares de sus obras a la [Biblioteca](articulo-2.md) Nacional y a la [Biblioteca del Congreso de la Unión](articulo-2.md), publicado en el Diario Oficial de la Federación el 23 de julio de 1991.

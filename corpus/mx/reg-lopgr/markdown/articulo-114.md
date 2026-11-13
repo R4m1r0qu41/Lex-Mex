@@ -27,4 +27,6 @@ III. Psicométrico y psicológico;
 
 IV. Poligráfico;
 
-V. Toxicológico, y VI. Los demás que establezcan las normas aplicables.
+V. Toxicológico, y
+
+VI. Los demás que establezcan las normas aplicables.

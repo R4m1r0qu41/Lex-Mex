@@ -7,8 +7,8 @@ provision_type: article
 number: "29"
 aliases: ["REG-LFMZAAH — Artículo 29"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMZAAH_031220.pdf
 source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 ---
@@ -19,7 +19,9 @@ source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 
 Para obtener la certificación de autenticidad de un monumento, el interesado presentará solicitud en el Instituto competente, la cual deberá contener:
 
-I.- Los datos generales del interesado; II.- La naturaleza del bien presentado; y
+I.- Los datos generales del interesado;
+
+II.- La naturaleza del bien presentado; y
 
 III.- La descripción de las características del bien.
 

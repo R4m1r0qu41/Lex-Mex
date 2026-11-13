@@ -652,11 +652,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:120:reference:890-894:17-a:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:120:reference:891-895:17-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:120",
     "source_span": "17-A",
-    "start_char": 890,
-    "end_char": 894,
+    "start_char": 891,
+    "end_char": 895,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-a",
     "qualifiers": [],
@@ -668,11 +668,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:120:reference:1181-1183:56:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:120:reference:1182-1184:56:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:120",
     "source_span": "56",
-    "start_char": 1181,
-    "end_char": 1183,
+    "start_char": 1182,
+    "end_char": 1184,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:56",
     "qualifiers": [],
@@ -684,19 +684,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:120:reference:1818-1820:120:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:120:reference:1819-1821:120:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:120",
     "source_span": "II",
-    "start_char": 1818,
-    "end_char": 1820,
+    "start_char": 1819,
+    "end_char": 1821,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:120",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "II",
-        "start_char": 1818,
-        "end_char": 1820
+        "start_char": 1819,
+        "end_char": 1821
       }
     ],
     "basis": "express_cross_reference",
@@ -1263,11 +1263,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:4340-4343:151:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:4341-4344:151:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:144",
     "source_span": "151",
-    "start_char": 4340,
-    "end_char": 4343,
+    "start_char": 4341,
+    "end_char": 4344,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:151",
     "qualifiers": [],
@@ -1279,11 +1279,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:4764-4766:43:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:4765-4767:43:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:144",
     "source_span": "43",
-    "start_char": 4764,
-    "end_char": 4766,
+    "start_char": 4765,
+    "end_char": 4767,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:43",
     "qualifiers": [],
@@ -1295,25 +1295,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:5621-5625:36-a:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:5622-5626:36-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:144",
     "source_span": "36-A",
-    "start_char": 5621,
-    "end_char": 5625,
+    "start_char": 5622,
+    "end_char": 5626,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:36-a",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 5627,
-        "end_char": 5637
+        "start_char": 5628,
+        "end_char": 5638
       },
       {
         "qualifier_type": "subsection",
         "text": "inciso e",
-        "start_char": 5639,
-        "end_char": 5647
+        "start_char": 5640,
+        "end_char": 5648
       }
     ],
     "basis": "express_cross_reference",
@@ -1324,11 +1324,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:8208-8215:159-bis:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:8210-8217:159-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:144",
     "source_span": "159 bis",
-    "start_char": 8208,
-    "end_char": 8215,
+    "start_char": 8210,
+    "end_char": 8217,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:159-bis",
     "qualifiers": [],
@@ -1340,11 +1340,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:8422-8429:159-bis:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:8424-8431:159-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:144",
     "source_span": "159 bis",
-    "start_char": 8422,
-    "end_char": 8429,
+    "start_char": 8424,
+    "end_char": 8431,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:159-bis",
     "qualifiers": [],
@@ -1356,25 +1356,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:8823-8827:36-a:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:8825-8829:36-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:144",
     "source_span": "36-A",
-    "start_char": 8823,
-    "end_char": 8827,
+    "start_char": 8825,
+    "end_char": 8829,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:36-a",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 8829,
-        "end_char": 8839
+        "start_char": 8831,
+        "end_char": 8841
       },
       {
         "qualifier_type": "subsection",
         "text": "inciso e",
-        "start_char": 8841,
-        "end_char": 8849
+        "start_char": 8843,
+        "end_char": 8851
       }
     ],
     "basis": "express_cross_reference",
@@ -1385,11 +1385,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:11028-11029:9:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:144:reference:11030-11031:9:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:144",
     "source_span": "9",
-    "start_char": 11028,
-    "end_char": 11029,
+    "start_char": 11030,
+    "end_char": 11031,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:9",
     "qualifiers": [],
@@ -1518,26 +1518,7 @@
     "end_char": 11224,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:144-a",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 11369,
-        "end_char": 11383
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones II, III, IV, V y VI",
-        "start_char": 11393,
-        "end_char": 11423
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones VII y VIII",
-        "start_char": 11449,
-        "end_char": 11470
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -3366,12 +3347,6 @@
         "text": "primer párrafo",
         "start_char": 7070,
         "end_char": 7084
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 7133,
-        "end_char": 7147
       }
     ],
     "basis": "express_cross_reference",
@@ -3547,11 +3522,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-d:reference:3820-3825:167-e:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-d:reference:3821-3826:167-e:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-d",
     "source_span": "167-E",
-    "start_char": 3820,
-    "end_char": 3825,
+    "start_char": 3821,
+    "end_char": 3826,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-e",
     "qualifiers": [],
@@ -3563,11 +3538,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-d:reference:5871-5878:159-bis:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-d:reference:5872-5879:159-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-d",
     "source_span": "159 bis",
-    "start_char": 5871,
-    "end_char": 5878,
+    "start_char": 5872,
+    "end_char": 5879,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:159-bis",
     "qualifiers": [],
@@ -3680,25 +3655,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:601-606:167-j:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:602-607:167-j:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "167-J",
-    "start_char": 601,
-    "end_char": 606,
+    "start_char": 602,
+    "end_char": 607,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-j",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VI",
-        "start_char": 576,
-        "end_char": 587
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 627,
-        "end_char": 638
+        "start_char": 577,
+        "end_char": 588
       }
     ],
     "basis": "express_cross_reference",
@@ -3709,19 +3678,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:652-655:165:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:653-656:165:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "165",
-    "start_char": 652,
-    "end_char": 655,
+    "start_char": 653,
+    "end_char": 656,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:165",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción II",
-        "start_char": 627,
-        "end_char": 638
+        "start_char": 628,
+        "end_char": 639
       }
     ],
     "basis": "express_cross_reference",
@@ -3732,19 +3701,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:985-988:127:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:986-989:127:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "127",
-    "start_char": 985,
-    "end_char": 988,
+    "start_char": 986,
+    "end_char": 989,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:127",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción II",
-        "start_char": 990,
-        "end_char": 1001
+        "start_char": 991,
+        "end_char": 1002
       }
     ],
     "basis": "express_cross_reference",
@@ -3755,19 +3724,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:1004-1007:131:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:1005-1008:131:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "131",
-    "start_char": 1004,
-    "end_char": 1007,
+    "start_char": 1005,
+    "end_char": 1008,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:131",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción II",
-        "start_char": 1009,
-        "end_char": 1020
+        "start_char": 1010,
+        "end_char": 1021
       }
     ],
     "basis": "express_cross_reference",
@@ -3778,11 +3747,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:1917-1921:17-h:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:1918-1922:17-h:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "17-H",
-    "start_char": 1917,
-    "end_char": 1921,
+    "start_char": 1918,
+    "end_char": 1922,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-h",
     "qualifiers": [],
@@ -3794,11 +3763,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:1924-1932:17-h-bis:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:1925-1933:17-h-bis:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "17-H Bis",
-    "start_char": 1924,
-    "end_char": 1932,
+    "start_char": 1925,
+    "end_char": 1933,
     "target_instrument_id": "urn:lex-mx:federal:code:cff",
     "target_provision_id": "urn:lex-mx:federal:code:cff:article:17-h-bis",
     "qualifiers": [],
@@ -3810,19 +3779,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2036-2037:167-g:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2037-2038:167-g:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "I",
-    "start_char": 2036,
-    "end_char": 2037,
+    "start_char": 2037,
+    "end_char": 2038,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "I",
-        "start_char": 2036,
-        "end_char": 2037
+        "start_char": 2037,
+        "end_char": 2038
       }
     ],
     "basis": "express_cross_reference",
@@ -3833,19 +3802,42 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2045-2047:167-g:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2040-2043:167-g:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
+    "source_span": "III",
+    "start_char": 2040,
+    "end_char": 2043,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
+    "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 2040,
+        "end_char": 2043
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2046-2048:167-g:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "IV",
-    "start_char": 2045,
-    "end_char": 2047,
+    "start_char": 2046,
+    "end_char": 2048,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "IV",
-        "start_char": 2045,
-        "end_char": 2047
+        "start_char": 2046,
+        "end_char": 2048
       }
     ],
     "basis": "express_cross_reference",
@@ -3856,19 +3848,42 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2227-2229:167-g:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2222-2225:167-g:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
+    "source_span": "III",
+    "start_char": 2222,
+    "end_char": 2225,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
+    "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 2222,
+        "end_char": 2225
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2228-2230:167-g:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "IV",
-    "start_char": 2227,
-    "end_char": 2229,
+    "start_char": 2228,
+    "end_char": 2230,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "IV",
-        "start_char": 2227,
-        "end_char": 2229
+        "start_char": 2228,
+        "end_char": 2230
       }
     ],
     "basis": "express_cross_reference",
@@ -3879,19 +3894,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2823-2824:167-g:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2824-2825:167-g:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "V",
-    "start_char": 2823,
-    "end_char": 2824,
+    "start_char": 2824,
+    "end_char": 2825,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "V",
-        "start_char": 2823,
-        "end_char": 2824
+        "start_char": 2824,
+        "end_char": 2825
       }
     ],
     "basis": "express_cross_reference",
@@ -3902,19 +3917,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2827-2829:167-g:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-g:reference:2828-2830:167-g:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "source_span": "VI",
-    "start_char": 2827,
-    "end_char": 2829,
+    "start_char": 2828,
+    "end_char": 2830,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-g",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "VI",
-        "start_char": 2827,
-        "end_char": 2829
+        "start_char": 2828,
+        "end_char": 2830
       }
     ],
     "basis": "express_cross_reference",
@@ -3925,11 +3940,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-h:reference:862-863:6:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-h:reference:863-864:6:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-h",
     "source_span": "6",
-    "start_char": 862,
-    "end_char": 863,
+    "start_char": 863,
+    "end_char": 864,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:6",
     "qualifiers": [],
@@ -3941,19 +3956,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-h:reference:1489-1490:6:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-h:reference:1490-1491:6:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-h",
     "source_span": "6",
-    "start_char": 1489,
-    "end_char": 1490,
+    "start_char": 1490,
+    "end_char": 1491,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:6",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "cuarto párrafo",
-        "start_char": 1461,
-        "end_char": 1475
+        "start_char": 1462,
+        "end_char": 1476
       }
     ],
     "basis": "express_cross_reference",
@@ -3964,25 +3979,25 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-h:reference:2046-2051:167-d:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-h:reference:2047-2052:167-d:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-h",
     "source_span": "167-D",
-    "start_char": 2046,
-    "end_char": 2051,
+    "start_char": 2047,
+    "end_char": 2052,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-d",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 2053,
-        "end_char": 2068
+        "start_char": 2054,
+        "end_char": 2069
       },
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",
-        "start_char": 2070,
-        "end_char": 2081
+        "start_char": 2071,
+        "end_char": 2082
       }
     ],
     "basis": "express_cross_reference",
@@ -4057,19 +4072,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1090-1093:165:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1091-1094:165:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-j",
     "source_span": "165",
-    "start_char": 1090,
-    "end_char": 1093,
+    "start_char": 1091,
+    "end_char": 1094,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:165",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones II, III, VII, X, XI, XIII, XV, XVI y XVII",
-        "start_char": 1024,
-        "end_char": 1076
+        "start_char": 1025,
+        "end_char": 1077
       }
     ],
     "basis": "express_cross_reference",
@@ -4080,11 +4095,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1957-1960:167:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1958-1961:167:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-j",
     "source_span": "167",
-    "start_char": 1957,
-    "end_char": 1960,
+    "start_char": 1958,
+    "end_char": 1961,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167",
     "qualifiers": [],
@@ -4096,11 +4111,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1962-1967:167-a:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1963-1968:167-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-j",
     "source_span": "167-A",
-    "start_char": 1962,
-    "end_char": 1967,
+    "start_char": 1963,
+    "end_char": 1968,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-a",
     "qualifiers": [],
@@ -4112,11 +4127,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1969-1974:167-b:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1970-1975:167-b:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-j",
     "source_span": "167-B",
-    "start_char": 1969,
-    "end_char": 1974,
+    "start_char": 1970,
+    "end_char": 1975,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-b",
     "qualifiers": [],
@@ -4128,11 +4143,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1977-1982:167-c:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:167-j:reference:1978-1983:167-c:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-j",
     "source_span": "167-C",
-    "start_char": 1977,
-    "end_char": 1982,
+    "start_char": 1978,
+    "end_char": 1983,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:167-c",
     "qualifiers": [],
@@ -4396,14 +4411,7 @@
     "end_char": 3964,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:59",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 4007,
-        "end_char": 4017
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -4483,19 +4491,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:1547-1550:144:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:1548-1551:144:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:177",
     "source_span": "144",
-    "start_char": 1547,
-    "end_char": 1550,
+    "start_char": 1548,
+    "end_char": 1551,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:144",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XX",
-        "start_char": 1522,
-        "end_char": 1533
+        "start_char": 1523,
+        "end_char": 1534
       }
     ],
     "basis": "express_cross_reference",
@@ -4506,19 +4514,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:1770-1773:144:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:1771-1774:144:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:177",
     "source_span": "144",
-    "start_char": 1770,
-    "end_char": 1773,
+    "start_char": 1771,
+    "end_char": 1774,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:144",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción XX",
-        "start_char": 1745,
-        "end_char": 1756
+        "start_char": 1746,
+        "end_char": 1757
       }
     ],
     "basis": "express_cross_reference",
@@ -4529,11 +4537,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:2456-2458:86:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:2457-2459:86:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:177",
     "source_span": "86",
-    "start_char": 2456,
-    "end_char": 2458,
+    "start_char": 2457,
+    "end_char": 2459,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:86",
     "qualifiers": [],
@@ -4545,11 +4553,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:3408-3410:72:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:3409-3411:72:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:177",
     "source_span": "72",
-    "start_char": 3408,
-    "end_char": 3410,
+    "start_char": 3409,
+    "end_char": 3411,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:72",
     "qualifiers": [],
@@ -4561,11 +4569,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:3413-3415:73:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:177:reference:3414-3416:73:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:177",
     "source_span": "73",
-    "start_char": 3413,
-    "end_char": 3415,
+    "start_char": 3414,
+    "end_char": 3416,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:73",
     "qualifiers": [],
@@ -5191,11 +5199,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:1611-1613:36:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:1612-1614:36:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:184",
     "source_span": "36",
-    "start_char": 1611,
-    "end_char": 1613,
+    "start_char": 1612,
+    "end_char": 1614,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:36",
     "qualifiers": [],
@@ -5207,11 +5215,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:1616-1620:36-a:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:1617-1621:36-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:184",
     "source_span": "36-A",
-    "start_char": 1616,
-    "end_char": 1620,
+    "start_char": 1617,
+    "end_char": 1621,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:36-a",
     "qualifiers": [],
@@ -5223,19 +5231,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:4146-4147:7:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:4147-4148:7:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:184",
     "source_span": "7",
-    "start_char": 4146,
-    "end_char": 4147,
+    "start_char": 4147,
+    "end_char": 4148,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:7",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "primer párrafo",
-        "start_char": 4118,
-        "end_char": 4132
+        "start_char": 4119,
+        "end_char": 4133
       }
     ],
     "basis": "express_cross_reference",
@@ -5246,19 +5254,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:4313-4315:20:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:4314-4316:20:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:184",
     "source_span": "20",
-    "start_char": 4313,
-    "end_char": 4315,
+    "start_char": 4314,
+    "end_char": 4316,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:20",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción VII",
-        "start_char": 4287,
-        "end_char": 4299
+        "start_char": 4288,
+        "end_char": 4300
       }
     ],
     "basis": "express_cross_reference",
@@ -5269,19 +5277,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:4436-4437:7:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:4437-4438:7:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:184",
     "source_span": "7",
-    "start_char": 4436,
-    "end_char": 4437,
+    "start_char": 4437,
+    "end_char": 4438,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:7",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 4407,
-        "end_char": 4422
+        "start_char": 4408,
+        "end_char": 4423
       }
     ],
     "basis": "express_cross_reference",
@@ -5292,19 +5300,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:4935-4937:87:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:4936-4938:87:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:184",
     "source_span": "87",
-    "start_char": 4935,
-    "end_char": 4937,
+    "start_char": 4936,
+    "end_char": 4938,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:87",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 4939,
-        "end_char": 4949
+        "start_char": 4940,
+        "end_char": 4950
       }
     ],
     "basis": "express_cross_reference",
@@ -5315,19 +5323,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:6330-6331:9:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:184:reference:6331-6332:9:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:184",
     "source_span": "9",
-    "start_char": 6330,
-    "end_char": 6331,
+    "start_char": 6331,
+    "end_char": 6332,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:9",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 6301,
-        "end_char": 6316
+        "start_char": 6302,
+        "end_char": 6317
       }
     ],
     "basis": "express_cross_reference",
@@ -5396,12 +5404,6 @@
         "text": "inciso e",
         "start_char": 1562,
         "end_char": 1570
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción I",
-        "start_char": 1586,
-        "end_char": 1596
       }
     ],
     "basis": "express_cross_reference",
@@ -5490,19 +5492,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:923-925:20:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:924-926:20:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "20",
-    "start_char": 923,
-    "end_char": 925,
+    "start_char": 924,
+    "end_char": 926,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:20",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones I, V y VIII",
-        "start_char": 887,
-        "end_char": 909
+        "start_char": 888,
+        "end_char": 910
       }
     ],
     "basis": "express_cross_reference",
@@ -5513,19 +5515,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:1815-1817:26:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:1816-1818:26:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "26",
-    "start_char": 1815,
-    "end_char": 1817,
+    "start_char": 1816,
+    "end_char": 1818,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:26",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones VI y VII",
-        "start_char": 1782,
-        "end_char": 1801
+        "start_char": 1783,
+        "end_char": 1802
       }
     ],
     "basis": "express_cross_reference",
@@ -5536,19 +5538,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:2594-2597:164:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:2595-2598:164:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "164",
-    "start_char": 2594,
-    "end_char": 2597,
+    "start_char": 2595,
+    "end_char": 2598,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:164",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción II",
-        "start_char": 2569,
-        "end_char": 2580
+        "start_char": 2570,
+        "end_char": 2581
       }
     ],
     "basis": "express_cross_reference",
@@ -5559,19 +5561,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:2835-2837:21:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:2836-2838:21:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "21",
-    "start_char": 2835,
-    "end_char": 2837,
+    "start_char": 2836,
+    "end_char": 2838,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:21",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción IV",
-        "start_char": 2880,
-        "end_char": 2891
+        "start_char": 2881,
+        "end_char": 2892
       }
     ],
     "basis": "express_cross_reference",
@@ -5582,25 +5584,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:3557-3559:15:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:3558-3560:15:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "15",
-    "start_char": 3557,
-    "end_char": 3559,
+    "start_char": 3558,
+    "end_char": 3560,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:15",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "primer párrafo",
-        "start_char": 3529,
-        "end_char": 3543
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 3568,
-        "end_char": 3580
+        "start_char": 3530,
+        "end_char": 3544
       }
     ],
     "basis": "express_cross_reference",
@@ -5611,19 +5607,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:3594-3596:26:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:3595-3597:26:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "26",
-    "start_char": 3594,
-    "end_char": 3596,
+    "start_char": 3595,
+    "end_char": 3597,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:26",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción III",
-        "start_char": 3568,
-        "end_char": 3580
+        "start_char": 3569,
+        "end_char": 3581
       }
     ],
     "basis": "express_cross_reference",
@@ -5634,11 +5630,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:3722-3725:121:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:3724-3727:121:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "121",
-    "start_char": 3722,
-    "end_char": 3725,
+    "start_char": 3724,
+    "end_char": 3727,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:121",
     "qualifiers": [],
@@ -5650,19 +5646,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:4462-4464:87:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:4464-4466:87:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "87",
-    "start_char": 4462,
-    "end_char": 4464,
+    "start_char": 4464,
+    "end_char": 4466,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:87",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones II o III",
-        "start_char": 4429,
-        "end_char": 4448
+        "start_char": 4431,
+        "end_char": 4450
       }
     ],
     "basis": "express_cross_reference",
@@ -5673,19 +5669,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:4703-4706:121:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:4705-4708:121:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "121",
-    "start_char": 4703,
-    "end_char": 4706,
+    "start_char": 4705,
+    "end_char": 4708,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:121",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 4708,
-        "end_char": 4718
+        "start_char": 4710,
+        "end_char": 4720
       }
     ],
     "basis": "express_cross_reference",
@@ -5696,11 +5692,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:5026-5027:4:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:5028-5029:4:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "4",
-    "start_char": 5026,
-    "end_char": 5027,
+    "start_char": 5028,
+    "end_char": 5029,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:4",
     "qualifiers": [],
@@ -5712,19 +5708,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:5361-5365:14-c:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:5363-5367:14-c:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "14-C",
-    "start_char": 5361,
-    "end_char": 5365,
+    "start_char": 5363,
+    "end_char": 5367,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:14-c",
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
         "text": "segundo párrafo",
-        "start_char": 5332,
-        "end_char": 5347
+        "start_char": 5334,
+        "end_char": 5349
       }
     ],
     "basis": "express_cross_reference",
@@ -5735,11 +5731,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:5668-5672:14-d:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:5670-5674:14-d:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "14-D",
-    "start_char": 5668,
-    "end_char": 5672,
+    "start_char": 5670,
+    "end_char": 5674,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:14-d",
     "qualifiers": [],
@@ -5751,11 +5747,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:5675-5680:135-a:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:186:reference:5677-5682:135-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:186",
     "source_span": "135-A",
-    "start_char": 5675,
-    "end_char": 5680,
+    "start_char": 5677,
+    "end_char": 5682,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:135-a",
     "qualifiers": [],
@@ -5978,20 +5974,7 @@
     "end_char": 117,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:16-a",
-    "qualifiers": [
-      {
-        "qualifier_type": "paragraph",
-        "text": "último párrafo",
-        "start_char": 144,
-        "end_char": 158
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción IV",
-        "start_char": 164,
-        "end_char": 175
-      }
-    ],
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -7098,11 +7081,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:53:reference:2953-2956:119:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:53:reference:2954-2957:119:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:53",
     "source_span": "119",
-    "start_char": 2953,
-    "end_char": 2956,
+    "start_char": 2954,
+    "end_char": 2957,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:119",
     "qualifiers": [],
@@ -7114,19 +7097,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:53:reference:3270-3272:26:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:53:reference:3271-3273:26:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:53",
     "source_span": "26",
-    "start_char": 3270,
-    "end_char": 3272,
+    "start_char": 3271,
+    "end_char": 3273,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:26",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones VII y VIII",
-        "start_char": 3235,
-        "end_char": 3256
+        "start_char": 3236,
+        "end_char": 3257
       }
     ],
     "basis": "express_cross_reference",
@@ -8229,11 +8212,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:78-a:reference:2178-2182:36-a:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:78-a:reference:2179-2183:36-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:78-a",
     "source_span": "36-A",
-    "start_char": 2178,
-    "end_char": 2182,
+    "start_char": 2179,
+    "end_char": 2183,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:36-a",
     "qualifiers": [],
@@ -8245,19 +8228,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:78-a:reference:2184-2188:37-a:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:78-a:reference:2185-2189:37-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:78-a",
     "source_span": "37-A",
-    "start_char": 2184,
-    "end_char": 2188,
+    "start_char": 2185,
+    "end_char": 2189,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:37-a",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción I",
-        "start_char": 2190,
-        "end_char": 2200
+        "start_char": 2191,
+        "end_char": 2201
       }
     ],
     "basis": "express_cross_reference",
@@ -8268,11 +8251,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:78-a:reference:2203-2207:59-a:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:78-a:reference:2204-2208:59-a:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:78-a",
     "source_span": "59-A",
-    "start_char": 2203,
-    "end_char": 2207,
+    "start_char": 2204,
+    "end_char": 2208,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:59-a",
     "qualifiers": [],
@@ -8747,12 +8730,6 @@
         "text": "fracción IX",
         "start_char": 1358,
         "end_char": 1369
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 1491,
-        "end_char": 1505
       }
     ],
     "basis": "express_cross_reference",
@@ -8792,12 +8769,6 @@
         "text": "fracción VI",
         "start_char": 2153,
         "end_char": 2164
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "primer párrafo",
-        "start_char": 2248,
-        "end_char": 2262
       }
     ],
     "basis": "express_cross_reference",
@@ -8808,11 +8779,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:88-bis:reference:1864-1865:1:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:88-bis:reference:1865-1866:1:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:88-bis",
     "source_span": "1",
-    "start_char": 1864,
-    "end_char": 1865,
+    "start_char": 1865,
+    "end_char": 1866,
     "target_instrument_id": "urn:lex-mx:federal:statute:liva",
     "target_provision_id": "urn:lex-mx:federal:statute:liva:article:1",
     "qualifiers": [],
@@ -8959,19 +8930,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:99:reference:1246-1248:98:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:99:reference:1247-1249:98:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:99",
     "source_span": "98",
-    "start_char": 1246,
-    "end_char": 1248,
+    "start_char": 1247,
+    "end_char": 1249,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:98",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracción V",
-        "start_char": 1222,
-        "end_char": 1232
+        "start_char": 1223,
+        "end_char": 1233
       }
     ],
     "basis": "express_cross_reference",
@@ -8982,11 +8953,34 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ladua:article:99:reference:4197-4199:98:direct",
+    "id": "urn:lex-mx:federal:statute:ladua:article:99:reference:3495-3496:99:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:99",
+    "source_span": "I",
+    "start_char": 3495,
+    "end_char": 3496,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
+    "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:99",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 3495,
+        "end_char": 3496
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct",
+    "resolution_rule": "same_article"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ladua:article:99:reference:4198-4200:98:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:ladua:article:99",
     "source_span": "98",
-    "start_char": 4197,
-    "end_char": 4199,
+    "start_char": 4198,
+    "end_char": 4200,
     "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
     "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:98",
     "qualifiers": [],

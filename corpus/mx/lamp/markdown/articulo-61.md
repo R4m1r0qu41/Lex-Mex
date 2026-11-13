@@ -29,7 +29,9 @@ IV. Contra resoluciones dictadas por el Tribunal Electoral del Poder Judicial de
 
 V. Contra actos del Congreso de la Unión, su Comisión Permanente o cualquiera de sus cámaras en procedimiento de colaboración con los otros poderes que objeten o no ratifiquen nombramientos o designaciones para ocupar cargos, empleos o comisiones en entidades o dependencias de la Administración Pública Federal, centralizada o descentralizada, órganos dotados de autonomía constitucional u órganos jurisdiccionales de cualquier naturaleza;
 
-VI. Contra resoluciones de los tribunales colegiados de circuito; VII. Contra las resoluciones o declaraciones del Congreso Federal o de las Cámaras que lo constituyen, de las Legislaturas de los Estados o de sus respectivas Comisiones o Diputaciones Permanentes, en declaración de procedencia y en juicio político, así como en elección, suspensión o remoción de funcionarios en los casos en que las Constituciones correspondientes les confieran la facultad de resolver soberana o discrecionalmente;
+VI. Contra resoluciones de los tribunales colegiados de circuito;
+
+VII. Contra las resoluciones o declaraciones del Congreso Federal o de las Cámaras que lo constituyen, de las Legislaturas de los Estados o de sus respectivas Comisiones o Diputaciones Permanentes, en declaración de procedencia y en juicio político, así como en elección, suspensión o remoción de funcionarios en los casos en que las Constituciones correspondientes les confieran la facultad de resolver soberana o discrecionalmente;
 
 VIII. Contra normas generales respecto de las cuales la Suprema Corte de Justicia de la Nación haya emitido una declaratoria general de inconstitucionalidad en términos de lo dispuesto por el Capítulo VI del Título Cuarto de esta Ley, o en términos de lo dispuesto por la Ley Reglamentaria de las Fracciones I y II del Artículo [105](../../cpeum/markdown/articulo-105.md) de la Constitución Política de los Estados Unidos Mexicanos;
 

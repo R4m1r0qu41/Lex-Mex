@@ -23,7 +23,9 @@ I.- Personalmente con quien deba entenderse la diligencia, en las oficinas del I
 
 II.- Por correo certificado con acuse de recibo o servicios de mensajería;
 
-III.- A través de medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos; IV.- Por edicto, cuando se desconozca el domicilio de la persona a quien deba notificarse, haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
+III.- A través de medios de comunicación electrónica o cualquier otro medio, cuando así lo haya aceptado expresamente el promovente y siempre que pueda comprobarse fehacientemente la recepción de los mismos;
+
+IV.- Por edicto, cuando se desconozca el domicilio de la persona a quien deba notificarse, haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 
 Para el caso de procedimientos de declaración administrativa de nulidad, cancelación y caducidad, previo a la notificación por edicto, la persona solicitante deberá agotar los domicilios señalados por el titular afectado en el expediente de la patente, registro, publicación o autorización respectivo, y Párrafo reformado DOF 03-04-2026
 

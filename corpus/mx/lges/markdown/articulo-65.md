@@ -25,7 +25,9 @@ II. Los planes de desarrollo de las instituciones de educación superior y la di
 
 III. Los planes y programas de la Secretaría relacionados con la educación superior;
 
-IV. La cobertura educativa en la entidad federativa y las necesidades financieras derivadas de la ampliación de la población escolar atendida, de la oferta educativa y la desconcentración geográfica; V. Las necesidades para garantizar el fortalecimiento académico y el cumplimiento de las funciones de docencia, investigación, extensión, difusión del conocimiento, la cultura y gestión institucional, y
+IV. La cobertura educativa en la entidad federativa y las necesidades financieras derivadas de la ampliación de la población escolar atendida, de la oferta educativa y la desconcentración geográfica;
+
+V. Las necesidades para garantizar el fortalecimiento académico y el cumplimiento de las funciones de docencia, investigación, extensión, difusión del conocimiento, la cultura y gestión institucional, y
 
 VI. El ejercicio responsable y transparente de los recursos públicos, de conformidad con la legislación aplicable.
 

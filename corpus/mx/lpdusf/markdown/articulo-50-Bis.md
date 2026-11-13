@@ -17,7 +17,9 @@ source_sha256: cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7
 
 # Artículo 50 Bis
 
-Cada [Institución Financiera](articulo-2o.md) deberá contar con una Unidad Especializada que tendrá por objeto atender consultas y reclamaciones de los [Usuarios](articulo-2o.md). Dicha Unidad se sujetará a lo siguiente: I. El Titular de la Unidad deberá tener facultades para representar y obligar a la Institución Financiera al cumplimiento de los acuerdos derivados de la atención que se dé a la reclamación;
+Cada [Institución Financiera](articulo-2o.md) deberá contar con una Unidad Especializada que tendrá por objeto atender consultas y reclamaciones de los [Usuarios](articulo-2o.md). Dicha Unidad se sujetará a lo siguiente:
+
+I. El Titular de la Unidad deberá tener facultades para representar y obligar a la Institución Financiera al cumplimiento de los acuerdos derivados de la atención que se dé a la reclamación;
 
 II. Contará con encargados regionales en cada entidad federativa en que la Institución Financiera tenga sucursales u oficinas de atención al público; Fracción reformada DOF 10-01-2014
 

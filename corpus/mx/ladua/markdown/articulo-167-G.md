@@ -21,7 +21,9 @@ La agencia aduanal será inhabilitada para operar, cuando:
 
 I. Se incumpla lo previsto en las fracciones VI, VII y VIII del artículo [167-F](articulo-167-F.md) de esta Ley.
 
-II. Se incumpla con lo dispuesto en las fracciones I, II, III, IV, V, IX y X del artículo [167-F](articulo-167-F.md) de esta Ley, en cuyo caso la inhabilitación aplicará desde el inicio del procedimiento hasta en tanto no se cumpla con el requisito correspondiente. III. Se omita el pago de las contribuciones o cuotas compensatorias, en el despacho aduanero que promueva, siempre que no sea aplicable la causal de cancelación establecida en la fracción VI del artículo [167-J](articulo-167-J.md), en relación con la fracción II del artículo [165](articulo-165.md) de esta Ley. Fracción reformada DOF 19-11-2025
+II. Se incumpla con lo dispuesto en las fracciones I, II, III, IV, V, IX y X del artículo [167-F](articulo-167-F.md) de esta Ley, en cuyo caso la inhabilitación aplicará desde el inicio del procedimiento hasta en tanto no se cumpla con el requisito correspondiente.
+
+III. Se omita el pago de las contribuciones o cuotas compensatorias, en el despacho aduanero que promueva, siempre que no sea aplicable la causal de cancelación establecida en la fracción VI del artículo [167-J](articulo-167-J.md), en relación con la fracción II del artículo [165](articulo-165.md) de esta Ley. Fracción reformada DOF 19-11-2025
 
 IV. Tratándose de los regímenes aduaneros temporales, de depósito fiscal, de tránsito de mercancías y de recinto fiscalizado estratégico, declarar con inexactitud algún dato, siempre que, con los datos aportados, excluida la liquidación provisional a que se refieren los artículos [127](articulo-127.md), fracción II y [131](articulo-131.md), fracción II de esta Ley, de haberse destinado la mercancía de que se trate al régimen de importación definitiva, la omisión no exceda de $241,620.00. Cantidad de la fracción actualizada DOF 24-12-2021, 27-12-2022, 28-12-2023, 30-12-2024 Fracción reformada DOF 19-11-2025 Cantidad de la fracción actualizada DOF 27-12-2025
 

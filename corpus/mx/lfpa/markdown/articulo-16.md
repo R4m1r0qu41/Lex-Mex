@@ -29,7 +29,9 @@ IV. Hacer constar en las copias de los documentos que se presenten junto con los
 
 V. Admitir las pruebas permitidas por la ley y recibir alegatos, los que deberán ser tomados en cuenta por el órgano competente al dictar resolución;
 
-VI. Abstenerse de requerir documentos o solicitar información que no sean exigidos por las normas aplicables al procedimiento, o que ya se encuentren en el expediente que se está tramitando; VII. Proporcionar información y orientar acerca de los requisitos jurídicos o técnicos que las disposiciones legales vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar;
+VI. Abstenerse de requerir documentos o solicitar información que no sean exigidos por las normas aplicables al procedimiento, o que ya se encuentren en el expediente que se está tramitando;
+
+VII. Proporcionar información y orientar acerca de los requisitos jurídicos o técnicos que las disposiciones legales vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar;
 
 VIII. Permitir el acceso a sus registros y archivos en los términos previstos en ésta u otras leyes;
 

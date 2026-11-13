@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "VIII",
     "start_char": 799,
-    "end_char": 990,
+    "end_char": 991,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "IX",
-    "start_char": 990,
-    "end_char": 1087,
+    "start_char": 991,
+    "end_char": 1088,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "X",
-    "start_char": 1087,
-    "end_char": 1369,
+    "start_char": 1088,
+    "end_char": 1370,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "XI",
-    "start_char": 1369,
-    "end_char": 1624,
+    "start_char": 1370,
+    "end_char": 1625,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "XII",
-    "start_char": 1624,
-    "end_char": 1876,
+    "start_char": 1625,
+    "end_char": 1877,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "XIII",
-    "start_char": 1876,
-    "end_char": 1974,
+    "start_char": 1877,
+    "end_char": 1975,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "XIV",
-    "start_char": 1974,
-    "end_char": 2042,
+    "start_char": 1975,
+    "end_char": 2043,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "XV",
-    "start_char": 2042,
-    "end_char": 2162,
+    "start_char": 2043,
+    "end_char": 2163,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "XVI",
-    "start_char": 2162,
-    "end_char": 2333,
+    "start_char": 2163,
+    "end_char": 2334,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "XVII",
-    "start_char": 2333,
-    "end_char": 2523,
+    "start_char": 2334,
+    "end_char": 2524,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "XVIII",
-    "start_char": 2523,
-    "end_char": 2660,
+    "start_char": 2524,
+    "end_char": 2661,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-logan",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-logan:article:2",
     "fraction": "XIX",
-    "start_char": 2660,
-    "end_char": 2708,
+    "start_char": 2661,
+    "end_char": 2709,
     "basis": "express_definition"
   }
 ]

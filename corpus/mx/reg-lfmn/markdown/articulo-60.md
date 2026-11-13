@@ -32,6 +32,8 @@ lV. Coordinar su actividad con otros comités consultivos nacionales de normaliz
 
 V. Proponer representantes ante la Secretaría, para participar en eventos o asuntos internacionales;
 
-Vl. Participar en la homologación y armonización de normas con sus similares extranjeras e internacionales; VII. Proponer a la dependencia competente, sus reglas de operación en las cuales se establecerá su organización, y
+Vl. Participar en la homologación y armonización de normas con sus similares extranjeras e internacionales;
+
+VII. Proponer a la dependencia competente, sus reglas de operación en las cuales se establecerá su organización, y
 
 VIIl. Cualquier otra actividad relacionada con sus funciones que le sea encomendada por la dependencia que lo presida o por la Comisión Nacional de Normalización.

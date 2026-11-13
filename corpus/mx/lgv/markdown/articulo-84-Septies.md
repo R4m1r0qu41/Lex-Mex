@@ -7,8 +7,8 @@ provision_type: article
 number: "84 Septies"
 aliases: ["LGV — Artículo 84 Septies"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -21,7 +21,7 @@ La Junta de Gobierno tendrá exclusivamente las siguientes atribuciones:
 
 I. Aprobar y modificar su reglamento de sesiones, con base en la propuesta que presente el Comisionado o Comisionada Ejecutiva; Fracción reformada DOF 28-04-2022
 
-II. Aprobar las disposiciones normativas que el Comisionado o Comisionada Ejecutiva someta a su consideración en términos de la Ley y el [Reglamento](articulo-6.md); Fracción reformada DOF 28-04-2022
+II. Aprobar las disposiciones normativas que el Comisionado o Comisionada Ejecutiva someta a su consideración en términos de la [Ley](articulo-6.md) y el [Reglamento](articulo-6.md); Fracción reformada DOF 28-04-2022
 
 III. Definir los criterios, prioridades y metas de la [Comisión Ejecutiva](articulo-6.md) que proponga el Comisionado o Comisionada Ejecutiva; Fracción reformada DOF 28-04-2022
 

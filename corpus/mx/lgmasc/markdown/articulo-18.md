@@ -17,7 +17,9 @@ source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 
 # Artículo 18
 
-Corresponde al [Consejo](articulo-5.md), en el ámbito de sus facultades, lo siguiente: I. Expedir los Lineamientos de capacitación, evaluación, certificación, renovación, suspensión y revocación de personas facilitadoras;
+Corresponde al [Consejo](articulo-5.md), en el ámbito de sus facultades, lo siguiente:
+
+I. Expedir los Lineamientos de capacitación, evaluación, certificación, renovación, suspensión y revocación de personas facilitadoras;
 
 II. Expedir los Lineamientos de creación de la [Plataforma Nacional de Personas Facilitadoras](articulo-5.md), que deberá contener la información de todas las personas que ejerzan en el territorio nacional, así como su actualización y publicación en el sitio web oficial, que estará a cargo del Consejo de la Judicatura Federal para su consulta pública;
 

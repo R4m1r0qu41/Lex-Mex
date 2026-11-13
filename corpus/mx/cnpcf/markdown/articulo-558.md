@@ -25,7 +25,9 @@ En el desahogo de la comparecencia la autoridad jurisdiccional deberá observar 
 
 I. Que la comparecencia no se lleve a cabo en un ambiente hostil;
 
-II. Asegurar que esté presente un equipo interdisciplinario, formado por: una persona profesional en psicología, preferentemente con especialidad en desarrollo infantil, una persona Agente del Ministerio Público y una persona tutora especial que se designe para el desahogo de la actuación, persona que deberá de pertenecer al Sistema al Desarrollo Integral de la Familia o a la Procuraduría de Protección de Niñas, Niños y Adolescentes; III. La entrevista con las niñas, niños y adolescentes, está exceptuada de contradicción y debe ser resguardada en absoluta discrecionalidad, atendiendo a los principios de confidencialidad y privacidad que les asisten a las niñas, niños y adolescentes; se llevará a cabo sin la presencia de sus progenitores o tutores;
+II. Asegurar que esté presente un equipo interdisciplinario, formado por: una persona profesional en psicología, preferentemente con especialidad en desarrollo infantil, una persona Agente del Ministerio Público y una persona tutora especial que se designe para el desahogo de la actuación, persona que deberá de pertenecer al Sistema al Desarrollo Integral de la Familia o a la Procuraduría de Protección de Niñas, Niños y Adolescentes;
+
+III. La entrevista con las niñas, niños y adolescentes, está exceptuada de contradicción y debe ser resguardada en absoluta discrecionalidad, atendiendo a los principios de confidencialidad y privacidad que les asisten a las niñas, niños y adolescentes; se llevará a cabo sin la presencia de sus progenitores o tutores;
 
 IV. En los casos en los que la niña, niño o adolescente requiera el apoyo de una persona familiar o profesional de su confianza podrá acompañarle, particularmente cuando se trate de violencia sexual infantil, ya que sólo con auxilio de sus progenitores o terapeutas suelen revelar la violencia, y
 

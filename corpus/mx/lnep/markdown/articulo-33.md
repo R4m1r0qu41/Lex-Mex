@@ -45,7 +45,9 @@ XII. De trato respecto del procedimiento para su ingreso, permanencia o egreso t
 
 XIII. De clasificación de áreas;
 
-XIV. De visitas y entrevistas con las personas defensoras; XV. De actuación en casos que involucren personas pertenecientes a pueblos o comunidades indígenas o afromexicanas privadas de la libertad; Fracción reformada DOF 01-04-2024
+XIV. De visitas y entrevistas con las personas defensoras;
+
+XV. De actuación en casos que involucren personas pertenecientes a pueblos o comunidades indígenas o afromexicanas privadas de la libertad; Fracción reformada DOF 01-04-2024
 
 XVI. Del tratamiento de adicciones;
 

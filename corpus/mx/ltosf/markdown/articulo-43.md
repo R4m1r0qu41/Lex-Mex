@@ -27,7 +27,9 @@ III. No acaten la orden de la Comisión Nacional para la Protección y Defensa d
 
 IV. Cobren [Comisiones](articulo-3.md) distintas a las pactadas en los Contratos de Adhesión.
 
-V. No suspendan la publicidad conforme al artículo [12](articulo-12.md) de esta Ley. VI. No modifiquen los estados de cuenta en los términos que señale la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, cuando éstos no se ajusten a lo previsto en el artículo [13](articulo-13.md) o en las disposiciones de carácter general que del propio precepto emanen. Fracción reformada DOF 25-06-2009
+V. No suspendan la publicidad conforme al artículo [12](articulo-12.md) de esta Ley.
+
+VI. No modifiquen los estados de cuenta en los términos que señale la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, cuando éstos no se ajusten a lo previsto en el artículo [13](articulo-13.md) o en las disposiciones de carácter general que del propio precepto emanen. Fracción reformada DOF 25-06-2009
 
 VII. No incorporen el [CAT](articulo-3.md) en la publicidad o en los Contratos de Adhesión o se abstengan de resaltarlo en los documentos respectivos de manera clara, notoria e indubitable.
 

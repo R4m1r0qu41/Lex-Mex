@@ -29,6 +29,8 @@ IV. Difundir e implantar en su ámbito de competencia, las normas preventivas de
 
 V. Integrar y operar con regularidad las Comisiones de Seguridad y Salud en el Trabajo brindando las facilidades necesarias a sus integrantes para el adecuado desarrollo de sus funciones;
 
-VI. Elaborar, con base en los lineamientos que para tal efecto emita el Instituto, su programa de prevención de enfermedades y accidentes del trabajo, así como implantarlo conforme a las disposiciones que establezca; VII. Capacitar a los Trabajadores sobre la prevención de enfermedades y accidentes del trabajo, atendiendo a la naturaleza de las actividades que se llevan a cabo en los centros de trabajo, y
+VI. Elaborar, con base en los lineamientos que para tal efecto emita el Instituto, su programa de prevención de enfermedades y accidentes del trabajo, así como implantarlo conforme a las disposiciones que establezca;
+
+VII. Capacitar a los Trabajadores sobre la prevención de enfermedades y accidentes del trabajo, atendiendo a la naturaleza de las actividades que se llevan a cabo en los centros de trabajo, y
 
 VIII. Llevar a cabo aquellas otras acciones que se establezcan en los reglamentos en la materia.

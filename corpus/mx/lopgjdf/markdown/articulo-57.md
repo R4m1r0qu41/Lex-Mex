@@ -17,7 +17,9 @@ source_sha256: 9029a84a765e797a83c088c2832fafbcc600701d6d15347f9fe890a4245a1e58
 
 # Artículo 57
 
-Las disposiciones sobre el Servicio Profesional de Carrera de la Procuraduría deberán: I. Determinar, en su caso, categorías de servidores públicos a fin de ser considerados para el acceso a las categorías básicas de Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la Policía de Investigación y Peritos, por medio de concurso de oposición, de conformidad con lo establecido en la Ley General del Sistema Nacional de Seguridad Pública;
+Las disposiciones sobre el Servicio Profesional de Carrera de la Procuraduría deberán:
+
+I. Determinar, en su caso, categorías de servidores públicos a fin de ser considerados para el acceso a las categorías básicas de Agentes del Ministerio Público, Oficiales Secretarios, Agentes de la Policía de Investigación y Peritos, por medio de concurso de oposición, de conformidad con lo establecido en la Ley General del Sistema Nacional de Seguridad Pública;
 
 II. Determinar, en su caso, categorías de los servidores públicos, en función de su especialización, responsabilidad asignada, años mínimos de ejercicio profesional y otros criterios que permitan establecerlas;
 

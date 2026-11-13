@@ -19,7 +19,9 @@ source_sha256: 08a1e07c7b82309ac734f7905b7457f059141336731e7b9047042f5bd84aac69
 
 Es competencia de la [Secretaría](articulo-2.md), por conducto de la [Dirección General](articulo-2.md), autorizar los servicios de [Seguridad Privada](articulo-2.md), cuando estos se presten en dos o más entidades federativas y de acuerdo a las modalidades siguientes:
 
-I. SEGURIDAD PRIVADA A PERSONAS. Consiste en la protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal del prestatario; II. SEGURIDAD PRIVADA EN LOS BIENES. Se refiere al cuidado y protección de bienes muebles e inmuebles;
+I. SEGURIDAD PRIVADA A PERSONAS. Consiste en la protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal del prestatario;
+
+II. SEGURIDAD PRIVADA EN LOS BIENES. Se refiere al cuidado y protección de bienes muebles e inmuebles;
 
 III. SEGURIDAD PRIVADA EN EL TRASLADO DE BIENES O VALORES. Consiste en la prestación de servicios de custodia, vigilancia, cuidado y protección de bienes muebles o valores, incluyendo su traslado;
 

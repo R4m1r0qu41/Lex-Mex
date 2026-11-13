@@ -19,7 +19,9 @@ source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680
 
 Imposición de la multa Al imponerse multa al sentenciado, el Juez de Ejecución procederá de acuerdo con las siguientes reglas:
 
-I. Notificará al sentenciado el plazo para cubrirla, para ese efecto se considerará su capacidad económica, si el órgano judicial que dictó la sentencia no lo fijó para el otorgamiento del plazo se considerará lo manifestado por las partes intervinientes y resolverá; II. Si dentro del plazo concedido, el sentenciado demuestra que carece de recursos para cubrirla el Juez de Ejecución podrá sustituirla total o parcialmente, por trabajo en favor de la comunidad;
+I. Notificará al sentenciado el plazo para cubrirla, para ese efecto se considerará su capacidad económica, si el órgano judicial que dictó la sentencia no lo fijó para el otorgamiento del plazo se considerará lo manifestado por las partes intervinientes y resolverá;
+
+II. Si dentro del plazo concedido, el sentenciado demuestra que carece de recursos para cubrirla el Juez de Ejecución podrá sustituirla total o parcialmente, por trabajo en favor de la comunidad;
 
 III. Si dentro del plazo concedido el sentenciado demuestra que puede cubrir solamente una parte de la multa, el Juez de Ejecución también podrá establecer un plazo que no excederá del total de la pena de prisión impuesta, para cubrir la cantidad restante; para tal efecto el sentenciado hará los depósitos en la institución pública o institución financiera que corresponda conforme la normatividad aplicable, y
 

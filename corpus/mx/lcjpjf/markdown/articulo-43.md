@@ -25,7 +25,9 @@ II. Participar en los cursos de capacitación que imparta la [Escuela Judicial](
 
 III. Conducirse con respeto a la normativa en materia de igualdad de género y fomentar espacios laborales libres de violencia y discriminación;
 
-IV. Proporcionar la información y documentación necesarias a la persona servidora pública que se designe para suplirlo en ausencias temporales, conforme a la normativa aplicable; V. Realizar las funciones propias de su cargo conforme a la normativa y en el tiempo y lugar estipulado, con la responsabilidad, la prontitud, el cuidado y la eficiencia que sean compatibles con sus aptitudes, su preparación y su destreza;
+IV. Proporcionar la información y documentación necesarias a la persona servidora pública que se designe para suplirlo en ausencias temporales, conforme a la normativa aplicable;
+
+V. Realizar las funciones propias de su cargo conforme a la normativa y en el tiempo y lugar estipulado, con la responsabilidad, la prontitud, el cuidado y la eficiencia que sean compatibles con sus aptitudes, su preparación y su destreza;
 
 VI. Abstenerse de participar, directa o indirectamente en la designación o nombramiento en cualquier órgano jurisdiccional o área administrativa del Poder Judicial de la Federación en que ejerza funciones, de personas con las que tenga lazos de parentesco por consanguinidad o afinidad hasta el cuarto grado o vínculo de matrimonio, concubinato o afectivo;
 

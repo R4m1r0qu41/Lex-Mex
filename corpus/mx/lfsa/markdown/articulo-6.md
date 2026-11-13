@@ -41,7 +41,9 @@ X. Integrar y coordinar los Comités Consultivos Nacionales de Normalización en
 
 XI. Instrumentar, organizar y operar el Servicio Oficial de Seguridad Zoosanitaria;
 
-XII. Regular, controlar y, en su caso, autorizar el establecimiento y operación de los puntos de verificación e inspección zoosanitaria previstos en esta Ley; XIII. Establecer y aplicar las medidas zoosanitarias de la producción, industrialización, comercialización y movilización de mercancías reguladas;
+XII. Regular, controlar y, en su caso, autorizar el establecimiento y operación de los puntos de verificación e inspección zoosanitaria previstos en esta Ley;
+
+XIII. Establecer y aplicar las medidas zoosanitarias de la producción, industrialización, comercialización y movilización de mercancías reguladas;
 
 XIV. Regular y controlar la producción, importación, comercialización de substancias para uso o consumo de animales;
 
@@ -71,7 +73,9 @@ XXVI. Regular, inspeccionar, verificar y certificar las actividades en materia d
 
 XXVII. Promover la armonización y equivalencia internacional de las disposiciones de sanidad animal;
 
-XXVIII. Celebrar acuerdos de reconocimiento de equivalencia de sistemas veterinarios y de inspección con otros países con los que los Estados Unidos Mexicanos efectúe intercambio comercial de mercancías reguladas; XXIX. Proponer al Titular del Ejecutivo Federal la formulación, celebración o la adhesión a los tratados internacionales que en materia de sanidad animal sean de interés para el país;
+XXVIII. Celebrar acuerdos de reconocimiento de equivalencia de sistemas veterinarios y de inspección con otros países con los que los Estados Unidos Mexicanos efectúe intercambio comercial de mercancías reguladas;
+
+XXIX. Proponer al Titular del Ejecutivo Federal la formulación, celebración o la adhesión a los tratados internacionales que en materia de sanidad animal sean de interés para el país;
 
 XXX. Suscribir los acuerdos interinstitucionales que sean necesarios para lograr la armonización internacional de las medidas zoosanitarias;
 
@@ -103,7 +107,9 @@ XLIII. Elaborar y aplicar permanentemente programas de capacitación y actualiza
 
 XLIV. Otorgar el Premio Nacional de Sanidad Animal;
 
-XLV. Atender las denuncias ciudadanas que se presenten conforme a lo establecido en esta Ley; XLVI. Imponer sanciones, resolver recursos de revisión y presentar denuncias ante la autoridad competente por la probable comisión de un delito, en términos de esta Ley;
+XLV. Atender las denuncias ciudadanas que se presenten conforme a lo establecido en esta Ley;
+
+XLVI. Imponer sanciones, resolver recursos de revisión y presentar denuncias ante la autoridad competente por la probable comisión de un delito, en términos de esta Ley;
 
 XLVII. Establecer y coordinar el Sistema Nacional de Vigilancia Epidemiológica, así como el Sistema de Trazabilidad;
 
@@ -151,6 +157,8 @@ LXVIII. Expedir criterios técnicos, que sirvan de base para la aplicación de b
 
 LXIX. Promover la armonización y equivalencia internacional de las disposiciones en materia de buenas prácticas pecuarias de los bienes de origen animal;
 
-LXX. Fomentar y establecer los programas destinados a la prevención y control de contaminantes, a través de esquemas de buenas prácticas pecuarias y buenas prácticas de manufactura en las unidades de producción primaria y en los establecimientos TIF dedicados al sacrificio y procesamiento de bienes de origen animal; y LXXI. Las demás que señalen esta Ley, leyes federales y tratados internacionales de los que sea parte los Estados Unidos Mexicanos.
+LXX. Fomentar y establecer los programas destinados a la prevención y control de contaminantes, a través de esquemas de buenas prácticas pecuarias y buenas prácticas de manufactura en las unidades de producción primaria y en los establecimientos TIF dedicados al sacrificio y procesamiento de bienes de origen animal; y
+
+LXXI. Las demás que señalen esta Ley, leyes federales y tratados internacionales de los que sea parte los Estados Unidos Mexicanos.
 
 Las Secretarías de Seguridad Pública, de la Defensa Nacional, de Marina, así como las autoridades estatales y municipales, colaborarán con la Secretaría en el ejercicio de sus atribuciones, cuando por la naturaleza y gravedad del problema así lo determine esta última.

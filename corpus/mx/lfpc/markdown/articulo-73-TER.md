@@ -19,7 +19,9 @@ source_sha256: 7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55
 
 El contrato que se pretenda registrar en los términos del párrafo segundo del artículo [73](articulo-73.md), deberá cumplir al menos, con los siguientes requisitos:
 
-I. Lugar y fecha de celebración del contrato; II. Estar escrito en idioma español, sin perjuicio de que puedan ser expresados, además, en otro idioma. En caso de diferencias en el texto o redacción, se estará a lo manifestado en el idioma español;
+I. Lugar y fecha de celebración del contrato;
+
+II. Estar escrito en idioma español, sin perjuicio de que puedan ser expresados, además, en otro idioma. En caso de diferencias en el texto o redacción, se estará a lo manifestado en el idioma español;
 
 III. Nombre, denominación o razón social, domicilio y registro federal de contribuyentes del proveedor, de conformidad con los ordenamientos legales sobre la materia;
 

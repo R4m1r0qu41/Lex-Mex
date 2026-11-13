@@ -31,6 +31,8 @@ V. Formular el anteproyecto de presupuesto anual y presentarlo ante la [Secretar
 
 VI. Ejercer o autorizar el ejercicio del presupuesto autorizado a la Agencia;
 
-VII. Participar en las negociaciones de tratados internacionales que lleve a cabo el Ejecutivo Federal en las materias de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente que tengan vinculación con el Sector, y VIII. Las demás que sean necesarias para el cumplimiento de sus atribuciones y de la presente Ley.
+VII. Participar en las negociaciones de tratados internacionales que lleve a cabo el Ejecutivo Federal en las materias de Seguridad Industrial, Seguridad Operativa y protección al medio ambiente que tengan vinculación con el Sector, y
+
+VIII. Las demás que sean necesarias para el cumplimiento de sus atribuciones y de la presente Ley.
 
 El Director Ejecutivo podrá delegar la representación legal de la Agencia y sus facultades en favor de los servidores públicos previstos en el Reglamento Interior respectivo, mediante acuerdo delegatorio que deberá publicarse en el Diario Oficial de la Federación, con excepción de la prevista en la fracción IV del presente artículo.

@@ -23,7 +23,9 @@ I. Argumentos sobre la necesidad de la medida;
 
 II. Información de la que se desprenda la preparación de delitos;
 
-III. Finalidad de inteligencia, relativa a la identificación de probables autores o partícipes del delito; IV. Autorización formal del [Comandante](articulo-2.md);
+III. Finalidad de inteligencia, relativa a la identificación de probables autores o partícipes del delito;
+
+IV. Autorización formal del [Comandante](articulo-2.md);
 
 V. Planeamiento táctico de la operación y designación de los agentes;
 

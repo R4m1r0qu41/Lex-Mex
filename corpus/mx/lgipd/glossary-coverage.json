@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgipd:article:2",
-      "provision_text_sha256": "ccc1fdad506421fafdb74651bbd0711ec2dcdbbaee2dc99af23ad0afc5129060",
+      "provision_text_sha256": "dca89340540c6ed4ac2ac7cdb4161d91c47fd64e20170f9018890575f4df481b",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -42,14 +42,15 @@
         "XXIX",
         "XXX",
         "XXXI",
+        "XXXII",
         "XXXIII",
         "XXXIV"
       ],
       "unread_fractions": [],
-      "term_count": 33
+      "term_count": 34
     }
   ],
   "imports": [],
-  "term_count": 33,
-  "usage_count": 124
+  "term_count": 34,
+  "usage_count": 137
 }

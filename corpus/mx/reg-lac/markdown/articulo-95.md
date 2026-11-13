@@ -29,7 +29,9 @@ IV. La relación de los instructores con los que contará el centro, debidamente
 
 V. La carta de aceptación de responsabilidad del encargado de la institución educativa y el organigrama correspondiente; Fracción reformada DOF 31-05-2023
 
-VI. La propuesta de las carreras, planes y programas de formación o de capacitación y adiestramiento elaborados conforme a las disposiciones técnico-administrativas correspondientes que emita la Agencia Federal de Aviación Civil. Cualquier modificación a las carreras, planes y programas debe ser aprobada por la Agencia Federal de Aviación Civil; Fracción reformada DOF 08-08-2000, 31-05-2023 VII. La descripción de las instalaciones, así como de los equipos y su información técnica, material didáctico y, en su caso, de las aeronaves con los que se deben realizar la formación, capacitación y adiestramiento, de conformidad con las disposiciones técnico-administrativas correspondientes, y Fracción reformada DOF 31-05-2023
+VI. La propuesta de las carreras, planes y programas de formación o de capacitación y adiestramiento elaborados conforme a las disposiciones técnico-administrativas correspondientes que emita la Agencia Federal de Aviación Civil. Cualquier modificación a las carreras, planes y programas debe ser aprobada por la Agencia Federal de Aviación Civil; Fracción reformada DOF 08-08-2000, 31-05-2023
+
+VII. La descripción de las instalaciones, así como de los equipos y su información técnica, material didáctico y, en su caso, de las aeronaves con los que se deben realizar la formación, capacitación y adiestramiento, de conformidad con las disposiciones técnico-administrativas correspondientes, y Fracción reformada DOF 31-05-2023
 
 VIII. El Manual General de Capacitación, el cual contendrá los lineamientos y procedimientos bajo los cuales la institución educativa proporcionará la formación, capacitación o adiestramiento, mismo que deberá ser elaborado, autorizado y mantenerse actualizado de conformidad con las disposiciones técnico-administrativas. Fracción adicionada DOF 31-05-2023
 

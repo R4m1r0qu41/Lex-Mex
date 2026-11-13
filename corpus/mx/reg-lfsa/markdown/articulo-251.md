@@ -19,4 +19,6 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 Para la expedición de los certificados zoosanitarios y conservación de los mismos, el interesado deberá cumplir con lo siguiente:
 
-I. Presentar los originales y copias simples de las constancias, dictámenes, autorizaciones y formatos oficiales, según corresponda, que demuestren el cumplimiento de los requisitos zoosanitarios establecidos para tal efecto en las disposiciones de sanidad animal o de reducción de riesgos de contaminación, y II. Verificar que el tercero especialista autorizado adscrito a un organismo de certificación o el personal de la Secretaría, anote en el apartado correspondiente del certificado zoosanitario, los números de folios de los dictámenes, constancias o autorizaciones, que demuestren el cumplimiento de las disposiciones normativas.
+I. Presentar los originales y copias simples de las constancias, dictámenes, autorizaciones y formatos oficiales, según corresponda, que demuestren el cumplimiento de los requisitos zoosanitarios establecidos para tal efecto en las disposiciones de sanidad animal o de reducción de riesgos de contaminación, y
+
+II. Verificar que el tercero especialista autorizado adscrito a un organismo de certificación o el personal de la Secretaría, anote en el apartado correspondiente del certificado zoosanitario, los números de folios de los dictámenes, constancias o autorizaciones, que demuestren el cumplimiento de las disposiciones normativas.

@@ -189,6 +189,22 @@ fn append_outdated_reference_notices(output: &mut String, corpus: &Corpus, sourc
     }
 }
 
+/// Reviewer notes are shown as attributed annotations, never as source text.
+fn append_provision_notes(output: &mut String, corpus: &Corpus, provision_id: &str) {
+    for note in corpus
+        .instrument
+        .provision_notes
+        .iter()
+        .filter(|note| note.provision_id == provision_id)
+    {
+        let _ = write!(
+            output,
+            "> **Nota del revisor ({}):** {} Fundamento: «{}»\n\n",
+            note.reviewer, note.note, note.source_basis
+        );
+    }
+}
+
 fn append_source_repeal_notice(output: &mut String, corpus: &Corpus) {
     if let Some(notice) = &corpus.instrument.source_repeal_notice {
         if let Some(clause) = &notice.successor_clause {
@@ -205,9 +221,15 @@ fn append_source_repeal_notice(output: &mut String, corpus: &Corpus) {
             );
             return;
         }
+        // An SCJN invalidity declaration ends force without abrogating the law.
+        let label = if notice.source_note.starts_with("Declaratoria de invalidez") {
+            "Ley declarada inválida por la SCJN (no abrogada) — texto histórico."
+        } else {
+            "Ley abrogada — texto histórico."
+        };
         let _ = write!(
             output,
-            "> **Ley abrogada — texto histórico.** {}\n> Fuente formal: [Diario Oficial de la Federación]({}). No se infieren fechas ni efectos por disposición.\n\n",
+            "> **{label}** {}\n> Fuente formal: [Diario Oficial de la Federación]({}). No se infieren fechas ni efectos por disposición.\n\n",
             notice.source_note, notice.formal_publication_url
         );
     }
@@ -494,6 +516,7 @@ fn standard_markdown(
     let mut output = front_matter(corpus, provision);
     append_source_repeal_notice(&mut output, corpus);
     append_outdated_reference_notices(&mut output, corpus, &provision.id);
+    append_provision_notes(&mut output, corpus, &provision.id);
     if let Some(title) = &provision.heading_context.title {
         let _ = write!(output, "> {title}");
         if let Some(chapter) = &provision.heading_context.chapter {
@@ -543,6 +566,7 @@ fn obsidian_markdown(
     let mut output = front_matter(corpus, provision);
     append_source_repeal_notice(&mut output, corpus);
     append_outdated_reference_notices(&mut output, corpus, &provision.id);
+    append_provision_notes(&mut output, corpus, &provision.id);
     let _ = write!(
         output,
         "[[Corpus/{0}/{0}|← Índice {0}]]\n\n",
@@ -1457,6 +1481,7 @@ mod tests {
             parser_version: "0.1.0".to_owned(),
             status: InstrumentStatus::InForce,
             source_repeal_notice: None,
+            provision_notes: Vec::new(),
             issuing_authorities: Vec::new(),
             formal_publication_url: None,
             formal_publication_code: None,
@@ -1774,6 +1799,42 @@ mod tests {
         }
     }
     #[test]
+    fn reviewer_provision_note_is_attributed_and_kept_out_of_the_text() {
+        let mut instrument = sample_instrument();
+        let article = sample_article("1");
+        instrument.provision_notes = vec![lex_core::ProvisionNote {
+            provision_id: article.id.clone(),
+            provision_text_sha256: lex_core::ProvisionNote::text_hash(&article.text),
+            note: "Artículo vigente a partir del proceso electoral 2028.".to_owned(),
+            source_sha256: instrument.source_sha256.clone(),
+            source_basis: "Segundo. Aplicable a partir de 2028.".to_owned(),
+            reviewer: "JRH".to_owned(),
+            captured_at: "2026-11-13T05:00:00Z".to_owned(),
+            rationale: "Fixture only".to_owned(),
+            decision_source: "fixture".to_owned(),
+            decision_source_sha256: "c".repeat(64),
+        }];
+        let text = article.text.clone();
+        let corpus = Corpus {
+            instrument,
+            provisions: vec![article],
+            references: vec![],
+            terms: vec![],
+            term_usages: vec![],
+            amendment_references: vec![],
+            enactment_evidence: vec![],
+        };
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+        let page = super::standard_markdown(&corpus, &targets, &terms, &corpus.provisions[0]);
+        assert!(page.contains(
+            "> **Nota del revisor (JRH):** Artículo vigente a partir del proceso electoral 2028."
+        ));
+        assert_eq!(corpus.provisions[0].text, text);
+        assert!(!corpus.provisions[0].text.contains("2028"));
+    }
+
+    #[test]
     fn historical_instrument_notice_is_visible_without_changing_provision_state() {
         let mut instrument = sample_instrument();
         instrument.status = InstrumentStatus::Repealed;
@@ -1811,6 +1872,15 @@ mod tests {
         );
         let article = super::standard_markdown(&corpus, &targets, &terms, &corpus.provisions[0]);
         assert!(article.contains("Ley abrogada — texto histórico"));
+        let mut invalidated = corpus.clone();
+        if let Some(notice) = invalidated.instrument.source_repeal_notice.as_mut() {
+            notice.source_note =
+                "Declaratoria de invalidez del Decreto DOF 02-03-2023 que expidió esta Ley"
+                    .to_owned();
+        }
+        let index = super::markdown_index(&invalidated, &targets, &terms, false);
+        assert!(index.contains("Ley declarada inválida por la SCJN (no abrogada)"));
+        assert!(!index.contains("Ley abrogada"));
         assert_eq!(
             corpus.provisions[0].temporal_status,
             TemporalStatus::Unknown

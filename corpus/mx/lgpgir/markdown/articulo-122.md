@@ -21,6 +21,8 @@ La autoridad encargada de resolver el recurso podrá:
 
 I. Desecharlo por improcedente o sobreseerlo;
 
-II. Confirmar el acto impugnado; III. Declarar la inexistencia, nulidad o anulabilidad del acto impugnado o revocarlo total o parcialmente, y
+II. Confirmar el acto impugnado;
+
+III. Declarar la inexistencia, nulidad o anulabilidad del acto impugnado o revocarlo total o parcialmente, y
 
 IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente a favor del recurrente.

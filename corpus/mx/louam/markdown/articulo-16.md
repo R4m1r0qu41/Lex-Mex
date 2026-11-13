@@ -25,7 +25,9 @@ II.- Hacer cumplir las normas y disposiciones reglamentarias que expida el Coleg
 
 III.- Presentar, en el mes de febrero, un informe al Colegio Académico de las actividades de la Universidad realizadas durante el año anterior;
 
-IV.- Otorgar, sustituir y revocar poderes; V.- Nombrar y remover libremente al Secretario General y al Abogado General de la Universidad. El Secretario General deberá reunir los requisitos a que se refiere el artículo [8](articulo-8.md) de esta ley;
+IV.- Otorgar, sustituir y revocar poderes;
+
+V.- Nombrar y remover libremente al Secretario General y al Abogado General de la Universidad. El Secretario General deberá reunir los requisitos a que se refiere el artículo [8](articulo-8.md) de esta ley;
 
 VI.- Gozar del derecho de veto respecto de los acuerdos del Colegio Académico; y
 

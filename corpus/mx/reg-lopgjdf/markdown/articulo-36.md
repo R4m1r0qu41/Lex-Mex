@@ -35,7 +35,9 @@ VII. Dar vista a la Contraloría Interna; al Consejo de Honor y Justicia de la P
 
 VIII. Emitir recomendaciones genéricas o específicas, a los servidores públicos de la Procuraduría, para subsanar deficiencias detectadas o para la práctica de diligencias que perfeccionen su actuación;
 
-IX. Hacer del conocimiento de otras instancias de control o vigilancia, aquellos hechos posiblemente constitutivos de responsabilidad, que no sean competencia de la Visitaduría Ministerial, pero que sean advertidos en el ejercicio de sus funciones o con motivo de ellas; X. Coordinar con la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos de los servidores públicos adscritos a la Visitaduría Ministerial, así como la presentación de las promociones y los recursos que deban interponerse;
+IX. Hacer del conocimiento de otras instancias de control o vigilancia, aquellos hechos posiblemente constitutivos de responsabilidad, que no sean competencia de la Visitaduría Ministerial, pero que sean advertidos en el ejercicio de sus funciones o con motivo de ellas;
+
+X. Coordinar con la Dirección General Jurídico Consultiva y de Implementación del Sistema de Justicia Penal la formulación de los informes previos y justificados en los juicios de amparo promovidos contra actos de los servidores públicos adscritos a la Visitaduría Ministerial, así como la presentación de las promociones y los recursos que deban interponerse;
 
 XI. Integrar y rendir los informes y estadísticas que establezca la normatividad interna de la Procuraduría y aquellos que les sean solicitados por el Procurador;
 

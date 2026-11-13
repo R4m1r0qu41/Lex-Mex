@@ -17,7 +17,9 @@ source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 
 # Artículo 2
 
-Para los efectos previstos en la presente Ley, se entenderá por: I. Actividades Reguladas:
+Para los efectos previstos en la presente Ley, se entenderá por:
+
+I. Actividades Reguladas:
 
 a) La elaboración, producción, consumo y transferencia de las sustancias químicas enunciadas en el [Listado Nacional](articulo-2.md), y
 
@@ -47,7 +49,9 @@ IX. Consejo: El Consejo de Seguridad Nacional previsto en la Ley de Seguridad Na
 
 X. Convención: Convención sobre la Prohibición del Desarrollo, la Producción, el Almacenamiento y el Empleo de [Armas Químicas](articulo-2.md) y sobre su Destrucción, así como sus respectivos anexos;
 
-XI. Destino Final: Último destino de las sustancias químicas controladas bajo la presente Ley, que hayan sido objeto de [Transferencia](articulo-2.md); XII. Desvío: La realización de cualquiera de las Actividades Reguladas para fines prohibidos por la Convención o por la presente Ley;
+XI. Destino Final: Último destino de las sustancias químicas controladas bajo la presente Ley, que hayan sido objeto de [Transferencia](articulo-2.md);
+
+XII. Desvío: La realización de cualquiera de las [Actividades Reguladas](articulo-2.md) para fines prohibidos por la Convención o por la presente Ley;
 
 XIII. Estados Parte: Estados que han consentido en obligarse por la Convención y con respecto a los cuales dicho tratado internacional está en vigor, los cuales se encuentran relacionados en el Apéndice Dos de esta Ley;
 
@@ -73,7 +77,9 @@ XXIII. Mandato de Inspección Nacional: Instrucciones de la Secretaría para la 
 
 XXIV. Normas Generales: Normas Generales de Verificación contenidas en la Parte II del “[Anexo sobre Verificación](articulo-2.md)” de la Convención;
 
-XXV. OPAQ: Organización para la Prohibición de las Armas Químicas; XXVI. Polígono de Inspección: Toda instalación o zona sujeta a una Inspección Internacional o Nacional, vinculada con el desarrollo de Actividades Reguladas, que se haya definido específicamente en el correspondiente [Mandato de Inspección Internacional](articulo-2.md) o Nacional;
+XXV. OPAQ: Organización para la Prohibición de las Armas Químicas;
+
+XXVI. Polígono de Inspección: Toda instalación o zona sujeta a una Inspección Internacional o Nacional, vinculada con el desarrollo de Actividades Reguladas, que se haya definido específicamente en el correspondiente [Mandato de Inspección Internacional](articulo-2.md) o Nacional;
 
 XXVII. Registro: Registro Nacional para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas;
 

@@ -17,7 +17,9 @@ source_sha256: e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68
 
 # Artículo 115
 
-La [Ley](articulo-2.md) reconoce como medios de prueba, de manera enunciativa, más no limitativa: I. La declaración de parte;
+La [Ley](articulo-2.md) reconoce como medios de prueba, de manera enunciativa, más no limitativa:
+
+I. La declaración de parte;
 
 II. Los documentos públicos;
 

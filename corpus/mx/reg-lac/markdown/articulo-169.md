@@ -19,7 +19,9 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 Toda persona comandante o piloto al mando de la aeronave que opere dentro del espacio aéreo bajo la jurisdicción mexicana y los que operen en zonas de alta mar con las aeronaves que ostenten las marcas de nacionalidad y matrícula mexicanas, deben cumplir con las disposiciones que se establezcan en las reglas de tránsito aéreo relativas a: Párrafo reformado DOF 31-05-2023
 
-I. Las reglas generales de vuelo y tierra; II. Las reglas de vuelo por instrumentos;
+I. Las reglas generales de vuelo y tierra;
+
+II. Las reglas de vuelo por instrumentos;
 
 III. Las reglas de vuelo visual, y
 

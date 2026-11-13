@@ -21,4 +21,6 @@ Se considerarán infracciones administrativas al presente Reglamento, las siguie
 
 I.- Cuando el solicitante presente documentos apócrifos o alterados distintos a los señalados en el inciso c) de la fracción II del artículo [33](../../lnac/markdown/articulo-33.md) de la [Ley](articulo-2.md), así como la mala fe con que se conduzca al realizar el trámite para hacer caer en error a la Secretaría;
 
-II.- Cuando el solicitante haya ocultado a la Secretaría el hecho de que se le haya decretado auto de formal prisión o de sujeción a proceso, o sus equivalentes en el extranjero en cualquier momento del trámite, así como el tener antecedentes penales en México o en el extranjero, o III.- Cuando el solicitante presente documentos que haya obtenido de manera fraudulenta, de lo que la Secretaría tenga evidencia.
+II.- Cuando el solicitante haya ocultado a la Secretaría el hecho de que se le haya decretado auto de formal prisión o de sujeción a proceso, o sus equivalentes en el extranjero en cualquier momento del trámite, así como el tener antecedentes penales en México o en el extranjero, o
+
+III.- Cuando el solicitante presente documentos que haya obtenido de manera fraudulenta, de lo que la Secretaría tenga evidencia.

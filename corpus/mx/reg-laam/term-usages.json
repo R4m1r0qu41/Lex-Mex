@@ -1738,21 +1738,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:1901-1918",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:1902-1919",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
     "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
     "span": "Promoción General",
-    "start_char": 1901,
-    "end_char": 1918
+    "start_char": 1902,
+    "end_char": 1919
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:2131-2148",
+    "id": "urn:lex-mx:federal:regulation:reg-laam:article:132:term-usage:2132-2149",
     "provision_id": "urn:lex-mx:federal:regulation:reg-laam:article:132",
     "term_id": "urn:lex-mx:federal:regulation:reg-laam:term:promocion-general",
     "span": "Promoción General",
-    "start_char": 2131,
-    "end_char": 2148
+    "start_char": 2132,
+    "end_char": 2149
   },
   {
     "schema_version": "0.1.0",

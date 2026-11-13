@@ -21,7 +21,9 @@ El Centro Federal de Conciliación y Registro Laboral hará pública, para consu
 
 El texto íntegro de los documentos del registro de los sindicatos, las tomas de nota, el estatuto, las actas de asambleas y todos los documentos contenidos en el expediente de registro sindical, deberán estar disponibles en los sitios de Internet del Centro Federal de Conciliación y Registro Laboral. Párrafo reformado DOF 01-05-2019
 
-Los registros de los sindicatos deberán contener, cuando menos, los siguientes datos: I. Domicilio;
+Los registros de los sindicatos deberán contener, cuando menos, los siguientes datos:
+
+I. Domicilio;
 
 II. Número de registro;
 

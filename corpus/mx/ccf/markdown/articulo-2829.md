@@ -23,4 +23,6 @@ I. De la deuda principal;
 
 II. De los intereses respectivos, desde que haya noticiado el pago al deudor, aun cuando éste no estuviere obligado por razón del contrato a pagarlos al acreedor;
 
-III. De los gastos que haya hecho desde que dio noticia al deudor de haber sido requerido de pago; IV. De los daños y perjuicios que haya sufrido por causa del deudor.
+III. De los gastos que haya hecho desde que dio noticia al deudor de haber sido requerido de pago;
+
+IV. De los daños y perjuicios que haya sufrido por causa del deudor.

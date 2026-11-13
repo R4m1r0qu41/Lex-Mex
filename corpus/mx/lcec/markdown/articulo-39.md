@@ -17,6 +17,6 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 39
 
-La [Secretaría](articulo-2.md) sancionará con multa de dos mil a tres mil salarios mínimos a quienes utilicen o incorporen en su denominación o razón social los términos "Cámara" o "[Confederación](articulo-2.md)" seguidos de los vocablos que hagan referencia a la circunscripción, actividad o giro que establece el presente ordenamiento, en forma contraria a la prevista por el artículo [5](articulo-5.md), salvo cuando otras Leyes prevean específicamente el uso de dichas denominaciones.
+La [Secretaría](articulo-2.md) sancionará con multa de dos mil a tres mil salarios mínimos a quienes utilicen o incorporen en su denominación o razón social los términos "[Cámara](articulo-2.md)" o "[Confederación](articulo-2.md)" seguidos de los vocablos que hagan referencia a la circunscripción, actividad o giro que establece el presente ordenamiento, en forma contraria a la prevista por el artículo [5](articulo-5.md), salvo cuando otras Leyes prevean específicamente el uso de dichas denominaciones.
 
 En caso de reincidencia, la Secretaría podrá imponer multa de hasta por el doble de la sanción anterior y deberá proceder a la clausura del local o locales donde se ubiquen el domicilio e instalaciones de la persona de que se trate; ello sin detrimento de exigir las responsabilidades penales a que se refiere el artículo [5](articulo-5.md) de esta Ley.

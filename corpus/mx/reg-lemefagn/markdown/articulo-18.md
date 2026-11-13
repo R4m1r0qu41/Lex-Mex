@@ -7,8 +7,8 @@ provision_type: article
 number: "18"
 aliases: ["REG-LEMEFAGN — Artículo 18"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEMEFAGN.pdf
 source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 ---
@@ -19,7 +19,9 @@ source_sha256: 703f083c0baedfb4ef5ce8b62c78684d8ee0073f393321d476d75ebe4878e1d5
 
 La persona militar, para desempeñar funciones docentes, deberá cubrir los requisitos siguientes: Párrafo reformado DOF 20-03-2026
 
-I. Buena conducta militar y civil; II. Aptitud y actitud para la práctica docente y para el trabajo en equipo;
+I. Buena conducta militar y civil;
+
+II. Aptitud y actitud para la práctica docente y para el trabajo en equipo;
 
 III. Nivel académico igual o superior a los estudios que imparta en la [Institución Educativa](articulo-3.md) a la cual sea asignado;
 

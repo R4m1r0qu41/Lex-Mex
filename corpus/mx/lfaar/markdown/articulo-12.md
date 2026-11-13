@@ -37,4 +37,6 @@ a) Incumplir los acuerdos adoptados por la Asamblea General de Socios o lo previ
 
 b) Utilizar en su provecho los recursos económicos, financieros, humanos o materiales del Fondo de Aseguramiento o cometer actos ilícitos en perjuicio o en agravio del Fondo de Aseguramiento o de sus socios, y
 
-c) Incurrir en las causas de remoción que establezcan los Estatutos o esta Ley. VIII. Cualquier otro asunto que se le reserve en los términos de esta Ley y de los Estatutos.
+c) Incurrir en las causas de remoción que establezcan los Estatutos o esta Ley.
+
+VIII. Cualquier otro asunto que se le reserve en los términos de esta Ley y de los Estatutos.

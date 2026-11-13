@@ -23,7 +23,9 @@ I. Garantizar en el ámbito de su competencia, el cabal cumplimiento de la prese
 
 II. Aplicar el [Programa Nacional](articulo-4.md) a que se refiere esta Ley;
 
-III. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del [Sistema Nacional de Protección Integral](articulo-4.md) y del Programa Nacional; IV. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
+III. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del [Sistema Nacional de Protección Integral](articulo-4.md) y del Programa Nacional;
+
+IV. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
 
 V. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas federales;
 

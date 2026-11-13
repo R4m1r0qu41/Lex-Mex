@@ -25,6 +25,8 @@ II. Motivo de la Invitación;
 
 III. Lugar y fecha de expedición;
 
-IV. Indicación del día, hora y lugar de celebración de la sesión del [Mecanismo Alternativo](articulo-3.md); V. Breve explicación de la naturaleza del mecanismo con su fundamento legal, y
+IV. Indicación del día, hora y lugar de celebración de la sesión del [Mecanismo Alternativo](articulo-3.md);
+
+V. Breve explicación de la naturaleza del mecanismo con su fundamento legal, y
 
 VI. Nombre y firma del [Facilitador](articulo-3.md) que la elaboró.

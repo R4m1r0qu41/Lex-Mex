@@ -23,7 +23,9 @@ La acción de responsabilidad podrá ser ejercida:
 
 I. Por la Sociedad Controladora.
 
-II. Por la entidad financiera. III. Por los accionistas de la Sociedad Controladora que, en lo individual o en su conjunto, representen el quince por ciento o más del capital social de la Sociedad Controladora.
+II. Por la entidad financiera.
+
+III. Por los accionistas de la Sociedad Controladora que, en lo individual o en su conjunto, representen el quince por ciento o más del capital social de la Sociedad Controladora.
 
 El demandante podrá transigir en juicio el monto de la indemnización por daños y perjuicios, siempre que previamente someta a aprobación del consejo de administración de la Sociedad Controladora, los términos y condiciones del convenio judicial correspondiente. La falta de dicha formalidad será causa de nulidad relativa.
 

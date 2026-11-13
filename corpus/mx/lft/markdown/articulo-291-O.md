@@ -23,7 +23,9 @@ I. El engaño de la empresa de plataforma digital a la persona trabajadora para 
 
 II. La existencia de un peligro grave para la seguridad o salud del trabajador en el desempeño de su trabajo;
 
-III. La no aceptación de nuevas tareas, servicios, obras o trabajos por no recibir el salario correspondiente en la fecha y forma convenidas o acostumbradas; IV. Comprometer la empresa de plataforma digital con su imprudencia, omisión o descuido inexcusables, la seguridad de las personas trabajadoras o de las personas usuarias o clientes de la plataforma digital, y
+III. La no aceptación de nuevas tareas, servicios, obras o trabajos por no recibir el salario correspondiente en la fecha y forma convenidas o acostumbradas;
+
+IV. Comprometer la empresa de plataforma digital con su imprudencia, omisión o descuido inexcusables, la seguridad de las personas trabajadoras o de las personas usuarias o clientes de la plataforma digital, y
 
 V. La no aceptación de tareas, servicios, obras o trabajos cuando el ingreso ofrecido sea desproporcionadamente bajo o no cubra los costos operativos, de tiempo y esfuerzo, afectando negativamente a la persona trabajadora.
 

@@ -41,6 +41,8 @@ X. La entrevista de testigos; Fracción reformada DOF 17-06-2016
 
 XI. Recompensas, en términos de los acuerdos que para tal efecto emite el Procurador, y Fracción adicionada DOF 17-06-2016
 
-XII. Las demás en las que expresamente no se prevea control judicial. Fracción recorrida DOF 17-06-2016 En los casos de la fracción IX, dichas actuaciones deberán ser autorizadas por el Procurador o por el servidor público en quien éste delegue dicha facultad.
+XII. Las demás en las que expresamente no se prevea control judicial. Fracción recorrida DOF 17-06-2016
+
+En los casos de la fracción IX, dichas actuaciones deberán ser autorizadas por el Procurador o por el servidor público en quien éste delegue dicha facultad.
 
 Para los efectos de la fracción X de este artículo, cuando un testigo se niegue a ser entrevistado, será citado por el [Ministerio Público](articulo-3o.md) o en su caso por el Juez de control en los términos que prevé el presente [Código](articulo-3o.md).

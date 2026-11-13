@@ -17,7 +17,9 @@ source_sha256: 025de5f30e5b2b422e8654f9470ddefda03486c72a732489146cfe09065d5409
 
 # Artículo 7
 
-Para garantizar el derecho humano al agua se deberán asegurar los siguientes elementos: I. Accesibilidad: Toda persona, sin discriminación, debe tener alcance físico al agua y a las instalaciones y servicios en su hogar, institución educativa, lugar de trabajo o en sus cercanías inmediatas. La seguridad física no debe verse amenazada durante el acceso a los servicios e instalaciones de agua;
+Para garantizar el derecho humano al agua se deberán asegurar los siguientes elementos:
+
+I. Accesibilidad: Toda persona, sin discriminación, debe tener alcance físico al agua y a las instalaciones y servicios en su hogar, institución educativa, lugar de trabajo o en sus cercanías inmediatas. La seguridad física no debe verse amenazada durante el acceso a los servicios e instalaciones de agua;
 
 II. Acceso a la Información: Derecho a solicitar, recibir y difundir información relacionada con el derecho humano al agua, de acuerdo con principios de transparencia y rendición de cuentas, en términos de la legislación aplicable;
 

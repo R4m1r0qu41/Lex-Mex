@@ -15,4 +15,4 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # QUINTO
 
-Se otorga un plazo de un año a todas las Cámaras y sus [Confederaciones](articulo-2.md), para adecuar sus Estatutos a lo dispuesto en esta Ley.
+Se otorga un plazo de un año a todas las [Cámaras](articulo-2.md) y sus [Confederaciones](articulo-2.md), para adecuar sus Estatutos a lo dispuesto en esta Ley.

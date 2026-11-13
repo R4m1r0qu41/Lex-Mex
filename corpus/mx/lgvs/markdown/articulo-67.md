@@ -17,7 +17,9 @@ source_sha256: b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911
 
 # Artículo 67
 
-Las áreas de refugio para proteger especies acuáticas podrán ser establecidas para la protección de: I. Todas las especies nativas de la vida silvestre que se desarrollen en medio acuático presentes en el sitio;
+Las áreas de refugio para proteger especies acuáticas podrán ser establecidas para la protección de:
+
+I. Todas las especies nativas de la vida silvestre que se desarrollen en medio acuático presentes en el sitio;
 
 II. Aquellas especies nativas de la vida silvestre que se desarrollen en medio acuático mencionadas en el instrumento correspondiente;
 

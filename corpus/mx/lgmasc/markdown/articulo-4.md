@@ -17,7 +17,9 @@ source_sha256: d6c47a12a294da2615fcac2b41f76a897373325184ac9f8c5debe6357aa43f4a
 
 # Artículo 4
 
-Son mecanismos alternativos de solución de controversias, de manera enunciativa y no limitativa, los siguientes: I. Negociación. Es el proceso por virtud del cual las partes, por sí mismas con o sin intermediarios, plantean soluciones a través del diálogo, con el fin de resolver una controversia o conflicto;
+Son mecanismos alternativos de solución de controversias, de manera enunciativa y no limitativa, los siguientes:
+
+I. Negociación. Es el proceso por virtud del cual las partes, por sí mismas con o sin intermediarios, plantean soluciones a través del diálogo, con el fin de resolver una controversia o conflicto;
 
 II. Negociación Colaborativa. Es el proceso por el cual las partes buscan la solución pacífica y equitativa de su conflicto, con la asesoría de personas abogadas colaborativas, a través del diálogo y si fuera necesario, el apoyo de terceros;
 

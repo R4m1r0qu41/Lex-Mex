@@ -17,7 +17,9 @@ source_sha256: 4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d
 
 # Artículo 7 BIS
 
-Se declara de interés público: I. La cuenca conjuntamente con los acuíferos como la unidad territorial básica para la gestión integrada de los recursos hídricos;
+Se declara de interés público:
+
+I. La cuenca conjuntamente con los acuíferos como la unidad territorial básica para la gestión integrada de los recursos hídricos;
 
 II. La descentralización y mejoramiento de la gestión de los recursos hídricos por cuenca hidrológica, a través de Organismos de Cuenca de índole gubernamental y de Consejos de Cuenca de composición mixta, con participación de los tres órdenes de gobierno, de los usuarios del agua y de las organizaciones de la sociedad en la toma de decisiones y asunción de compromisos;
 

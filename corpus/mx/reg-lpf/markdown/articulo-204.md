@@ -23,7 +23,9 @@ I. Elaborar y proponer proyectos de resolución de los asuntos que le sean turna
 
 II. Participar en las sesiones, acuerdos y resoluciones del [Consejo Federal](articulo-2.md), con voz y voto;
 
-III. Formular voto particular en caso de estimarlo necesario; IV. Integrar las Comisiones que el Pleno determine;
+III. Formular voto particular en caso de estimarlo necesario;
+
+IV. Integrar las Comisiones que el Pleno determine;
 
 V. Dar cuenta, en la sesión del Pleno que corresponda, de los proyectos de resolución, señalando los argumentos y consideraciones jurídicas que sustenten el sentido de los mismos, y
 

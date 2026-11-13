@@ -17,4 +17,4 @@ source_sha256: db115e165edc517f5ad816da7be01e11727838a59b9e68906fe686685f4c5087
 
 # Artículo 14
 
-La Comisión celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que convoque su Presidente y Secretario Ejecutivo o por acuerdo de la mayoría de sus miembros.
+La [Comisión](articulo-3.md) celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que convoque su Presidente y Secretario Ejecutivo o por acuerdo de la mayoría de sus miembros.

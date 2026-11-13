@@ -23,7 +23,9 @@ I. Formación educativa y capacitación para el trabajador y su familia;
 
 II. Servicios de salud;
 
-III. Mejoramiento de la vivienda, incluyendo autoconstrucción; IV. Mobiliario y enseres para el hogar, equipo informático, instrumentos musicales, ropa y calzado;
+III. Mejoramiento de la vivienda, incluyendo autoconstrucción;
+
+IV. Mobiliario y enseres para el hogar, equipo informático, instrumentos musicales, ropa y calzado;
 
 V. Apoyo a empresas y talleres familiares, que incluye maquinaria y equipamiento menor, materiales y herramienta;
 

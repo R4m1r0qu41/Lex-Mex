@@ -45,6 +45,8 @@ XII. Sociedad Financiera Comunitaria, en plural o singular, a las sociedades an�
 
 XIII. Organismo u Organismo de Integración Financiera Rural, en singular o plural, a la persona moral autorizada por la Comisión para promover la integración operativa de las Sociedades Financieras Comunitarias, en términos de esta Ley;
 
-XIV. Socio, a las personas que participen en el capital social de las Sociedades Financieras Populares, Sociedades Financieras Comunitarias y Organismos de Integración Financiera Rural, y XV. Zona Rural, en plural o singular, a aquellas zonas de la República Mexicana que cumplan con los requisitos que en materia de territorio, densidad y actividades productivas determine la Comisión mediante disposiciones de carácter general.
+XIV. Socio, a las personas que participen en el capital social de las Sociedades Financieras Populares, Sociedades Financieras Comunitarias y Organismos de Integración Financiera Rural, y
+
+XV. Zona Rural, en plural o singular, a aquellas zonas de la República Mexicana que cumplan con los requisitos que en materia de territorio, densidad y actividades productivas determine la Comisión mediante disposiciones de carácter general.
 
 Artículo reformado DOF 13-08-2009

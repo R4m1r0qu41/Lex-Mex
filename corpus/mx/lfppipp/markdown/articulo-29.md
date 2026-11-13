@@ -35,4 +35,6 @@ VII. Someterse a tratamientos médicos, y de rehabilitación a que hubiere lugar
 
 VIII. Mantener comunicación con el [Director](articulo-2.md), a través del agente de la [Unidad](articulo-2.md) que haya sido asignado, salvo situaciones de extrema gravedad o urgencia.
 
-IX. Cuando sea reubicado abstenerse de entrar en contacto sin autorización, con familiares que no se encuentren dentro del Programa, o con personas con quien hubiese sostenido relación antes de su incorporación al Programa. X. Otras medidas que a consideración del Centro sean necesarias y que podrán estar expresamente señaladas en el Convenio de Entendimiento.
+IX. Cuando sea reubicado abstenerse de entrar en contacto sin autorización, con familiares que no se encuentren dentro del Programa, o con personas con quien hubiese sostenido relación antes de su incorporación al Programa.
+
+X. Otras medidas que a consideración del Centro sean necesarias y que podrán estar expresamente señaladas en el Convenio de Entendimiento.

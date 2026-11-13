@@ -23,7 +23,9 @@ I. Que al momento en que se solicite la inscripción del fideicomiso en el Regis
 
 Cuando no se hagan las manifestaciones previstas en el párrafo anterior en el momento en que se solicite la inscripción del fideicomiso en el Registro Federal de Contribuyentes, se podrá ejercer la opción a que se refiere este artículo, a partir del mes siguiente a aquél en el que se realicen dichas manifestaciones por escrito ante el Servicio de Administración Tributaria;
 
-II. Que la institución fiduciaria calcule y entere el impuesto que corresponda a las actividades realizadas por el fideicomiso y lleve a cabo el acreditamiento del impuesto en los términos y con los requisitos que establece la Ley. Si en la declaración de pago resulta saldo a favor, la institución fiduciaria de que se trate estará a lo dispuesto en el artículo [6](../../liva/markdown/articulo-6o.md)o. de la Ley, y III. Que la citada institución cumpla con las demás obligaciones previstas en la Ley, incluyendo la de llevar contabilidad por las actividades realizadas a través del fideicomiso y la de recabar comprobantes que reúnan requisitos fiscales.
+II. Que la institución fiduciaria calcule y entere el impuesto que corresponda a las actividades realizadas por el fideicomiso y lleve a cabo el acreditamiento del impuesto en los términos y con los requisitos que establece la Ley. Si en la declaración de pago resulta saldo a favor, la institución fiduciaria de que se trate estará a lo dispuesto en el artículo [6](../../liva/markdown/articulo-6o.md)o. de la Ley, y
+
+III. Que la citada institución cumpla con las demás obligaciones previstas en la Ley, incluyendo la de llevar contabilidad por las actividades realizadas a través del fideicomiso y la de recabar comprobantes que reúnan requisitos fiscales.
 
 Tratándose de los fideicomisos a que se refiere este artículo, el adquirente de los derechos de fideicomitente o fideicomisario, podrá efectuar el acreditamiento que corresponda del impuesto que le haya sido trasladado por la adquisición de esos derechos, a través de la institución fiduciaria, de conformidad con lo dispuesto en la Ley.
 

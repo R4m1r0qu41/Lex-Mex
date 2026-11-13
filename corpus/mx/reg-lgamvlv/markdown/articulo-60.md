@@ -7,8 +7,8 @@ provision_type: article
 number: "60"
 aliases: ["REG-LGAMVLV — Artículo 60"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf
 source_sha256: 71ee875c26fc6a1024ea9481ca0690721959514689d860112c3093f0176dfcfb
 ---
@@ -25,7 +25,9 @@ II. Integrar las investigaciones promovidas por dependencias de la Administraci�
 
 III. Proponer a los integrantes del Sistema, en coordinación con la [Comisión Nacional](articulo-2.md), los [Modelos](articulo-2.md), programas, medidas y estrategias, así como las normas técnicas respectivas en torno a la violencia de género y operación de los refugios y centros de atención para víctimas;
 
-IV. Promover la atención especializada y profesional de las diversas Modalidades de Violencia, con base en los principios y lineamientos que la Ley y el presente Reglamento determinen; V. Coadyuvar con las instancias respectivas a garantizar el derecho de las mujeres a una vida libre de violencia, y difundir los Derechos Humanos de las Mujeres;
+IV. Promover la atención especializada y profesional de las diversas Modalidades de Violencia, con base en los principios y lineamientos que la Ley y el presente Reglamento determinen;
+
+V. Coadyuvar con las instancias respectivas a garantizar el derecho de las mujeres a una vida libre de violencia, y difundir los Derechos Humanos de las Mujeres;
 
 VI. Realizar un inventario de los Modelos que prevé el presente Reglamento;
 

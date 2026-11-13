@@ -226,11 +226,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118:reference:2392-2394:70:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118:reference:2393-2395:70:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:118",
     "source_span": "70",
-    "start_char": 2392,
-    "end_char": 2394,
+    "start_char": 2393,
+    "end_char": 2395,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:70",
     "qualifiers": [],
@@ -988,11 +988,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:reference:1899-1902:187:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:reference:1900-1903:187:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
     "source_span": "187",
-    "start_char": 1899,
-    "end_char": 1902,
+    "start_char": 1900,
+    "end_char": 1903,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:187",
     "qualifiers": [],
@@ -1004,11 +1004,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:reference:2144-2146:66:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195:reference:2145-2147:66:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lic-calidad:article:195",
     "source_span": "66",
-    "start_char": 2144,
-    "end_char": 2146,
+    "start_char": 2145,
+    "end_char": 2147,
     "target_instrument_id": "urn:lex-mx:federal:statute:lic-calidad",
     "target_provision_id": "urn:lex-mx:federal:statute:lic-calidad:article:66",
     "qualifiers": [],
@@ -1780,18 +1780,6 @@
         "text": "fracciones I y II",
         "start_char": 517,
         "end_char": 534
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones III",
-        "start_char": 644,
-        "end_char": 658
-      },
-      {
-        "qualifier_type": "paragraph",
-        "text": "párrafo segundo",
-        "start_char": 668,
-        "end_char": 683
       }
     ],
     "basis": "express_cross_reference",

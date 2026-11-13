@@ -27,6 +27,8 @@ III. Agencia Especializada para la atención de delitos cometidos por servidores
 
 IV. Agencia Especializada de Investigación para el delito de Tortura;
 
-V. Agencia de Investigación de Turno con detenido; VI. Coordinación de Policía de Investigación, y
+V. Agencia de Investigación de Turno con detenido;
+
+VI. Coordinación de Policía de Investigación, y
 
 VII. Jefatura de Unidad Departamental de Enlace Administrativo.

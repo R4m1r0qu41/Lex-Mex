@@ -17,7 +17,9 @@ source_sha256: ef1a4d30a004381523a1c2ed66513cbebc095f7a96c163ff9b66efce7f76ad03
 
 # Artículo 94
 
-A efecto de determinar la ubicación de la [Persona Desaparecida](articulo-4.md) o No Localizada, la [Comisión Nacional de Búsqueda](articulo-4.md) o la [Comisión Local de Búsqueda](articulo-4.md) correspondiente debe consultar, mediante los sistemas informáticos instrumentados para ello, de manera periódica y exhaustiva las bases de datos o registros de: I. Hospitales, clínicas, centros de atención psiquiátrica, centros de Desarrollo Integral para la Familia, centros de salud, centros de atención de adicciones y rehabilitación, públicos y privados;
+A efecto de determinar la ubicación de la [Persona Desaparecida](articulo-4.md) o No Localizada, la [Comisión Nacional de Búsqueda](articulo-4.md) o la [Comisión Local de Búsqueda](articulo-4.md) correspondiente debe consultar, mediante los sistemas informáticos instrumentados para ello, de manera periódica y exhaustiva las bases de datos o registros de:
+
+I. Hospitales, clínicas, centros de atención psiquiátrica, centros de Desarrollo Integral para la Familia, centros de salud, centros de atención de adicciones y rehabilitación, públicos y privados;
 
 II. Centros de detención y reclusorios a cargo del sistema penitenciario;
 

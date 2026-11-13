@@ -21,6 +21,8 @@ El recurso de inconformidad podrá desecharse en los siguientes casos:
 
 I.- Cuando se presente fuera del término a que se refiere el artículo [439](../../lgs/markdown/articulo-439.md) de la Ley;
 
-II.- Cuando no se acredite, en términos de la Ley, la personalidad del promovente; III.- Si el recurrente, dentro del término señalado en el acuerdo respectivo, no cumple con la prevención emitida por la Secretaría, y
+II.- Cuando no se acredite, en términos de la Ley, la personalidad del promovente;
+
+III.- Si el recurrente, dentro del término señalado en el acuerdo respectivo, no cumple con la prevención emitida por la Secretaría, y
 
 IV.- Los demás que procedan conforme a las disposiciones legales aplicables en la Ley y el Código Federal de Procedimientos Civiles.

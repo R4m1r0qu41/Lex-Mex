@@ -21,7 +21,9 @@ La [Secretaría](articulo-2.md) será la autoridad competente para la aplicació
 
 I. Integrar y administrar el [Registro](articulo-2.md);
 
-II. Expedir las constancias de inscripción al Registro, así como las constancias de declaraciones que correspondan conforme a este ordenamiento; III. Prevenir a los sujetos obligados cuando las solicitudes de inscripción al Registro o las declaraciones no cumplan con los requisitos previstos en la presente Ley, otorgando un plazo de diez días hábiles para el desahogo de la prevención. Transcurrido dicho plazo sin que se haya desahogado la prevención, no se continuará el trámite de solicitud de inscripción al Registro o declaración correspondiente, dejando a salvo los derechos del [Sujeto Obligado](articulo-2.md) para promover una nueva solicitud de inscripción al Registro.
+II. Expedir las constancias de inscripción al Registro, así como las constancias de declaraciones que correspondan conforme a este ordenamiento;
+
+III. Prevenir a los sujetos obligados cuando las solicitudes de inscripción al Registro o las declaraciones no cumplan con los requisitos previstos en la presente Ley, otorgando un plazo de diez días hábiles para el desahogo de la prevención. Transcurrido dicho plazo sin que se haya desahogado la prevención, no se continuará el trámite de solicitud de inscripción al Registro o declaración correspondiente, dejando a salvo los derechos del [Sujeto Obligado](articulo-2.md) para promover una nueva solicitud de inscripción al Registro.
 
 La Secretaría contará con un plazo de diez días hábiles, contados a partir del día hábil siguiente a la presentación de la solicitud de inscripción o de la declaración correspondiente, para prevenir a los sujetos obligados;
 
@@ -53,7 +55,9 @@ XVI. Convocar a sesiones ordinarias y extraordinarias de la Autoridad Nacional;
 
 XVII. Coordinar y dar seguimiento a los acuerdos adoptados por la Autoridad Nacional;
 
-XVIII. Expedir los formatos y formularios a que se refiere la presente Ley; XIX. Autorizar, en su caso, las instalaciones únicas en pequeña escala y las alternas, que cumplan con los requisitos establecidos en la presente Ley;
+XVIII. Expedir los formatos y formularios a que se refiere la presente Ley;
+
+XIX. Autorizar, en su caso, las instalaciones únicas en pequeña escala y las alternas, que cumplan con los requisitos establecidos en la presente Ley;
 
 XX. Emitir la opinión correspondiente a la consulta obligatoria que formulen las dependencias y entidades de la Administración Pública Federal, en términos de la presente Ley;
 

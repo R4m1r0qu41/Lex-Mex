@@ -41,4 +41,6 @@ XI.- Designar a propuesta de la Comisión de Vigilancia a los miembros del Comit
 
 XII.- Conocer los informes que le presente el Comité de Auditoría, así como los dictámenes de la Comisión de Vigilancia sobre la situación que guarda el sistema de control interno del Instituto; Fracción adicionada DOF 01-06-2005
 
-XIII.- Ratificar los nombramientos y remociones de los integrantes del Comité de Auditoría, y Fracción adicionada DOF 01-06-2005 XIV.- Las demás a que se refiere la presente Ley y las necesarias para el cumplimiento de los fines del Instituto, que no se encuentren encomendadas a otro órgano del mismo. Fracción adicionada DOF 01-06-2005
+XIII.- Ratificar los nombramientos y remociones de los integrantes del Comité de Auditoría, y Fracción adicionada DOF 01-06-2005
+
+XIV.- Las demás a que se refiere la presente Ley y las necesarias para el cumplimiento de los fines del Instituto, que no se encuentren encomendadas a otro órgano del mismo. Fracción adicionada DOF 01-06-2005

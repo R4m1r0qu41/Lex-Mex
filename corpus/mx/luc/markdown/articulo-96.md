@@ -25,7 +25,9 @@ I. Amonestación con apercibimiento;
 
 II. Multa de 2,000 a 5,000 días de salario;
 
-III. Multa adicional de 100 días de salario por cada día que persista la infracción, y IV. El auxilio de la fuerza pública.
+III. Multa adicional de 100 días de salario por cada día que persista la infracción, y
+
+IV. El auxilio de la fuerza pública.
 
 Si fuera insuficiente el apremio, se podrá solicitar a la autoridad competente se proceda contra el rebelde por desobediencia a un mandato legítimo de autoridad competente.
 

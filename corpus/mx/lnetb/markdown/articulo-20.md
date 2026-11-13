@@ -17,4 +17,6 @@ source_sha256: 193ffb402e2decb38aac42ad136c90b9a944a097b4f9b94b6e161ca1bd30f839
 
 # Artículo 20
 
-Son herramientas para eliminar trámites burocráticos mediante la simplificación de [Trámites](articulo-3.md) y [Servicios](articulo-3.md): I. La [Agenda de Simplificación y Digitalización](articulo-3.md) de Trámites y Servicios; II. La Agenda Regulatoria; III. El Análisis de Impacto Regulatorio; IV. El [Portal Ciudadano Único de Trámites y Servicios](articulo-3.md); V. El Registro Nacional de [Regulaciones](articulo-3.md), y VI. Las demás que determine la Autoridad Nacional.
+Son herramientas para eliminar trámites burocráticos mediante la simplificación de [Trámites](articulo-3.md) y [Servicios](articulo-3.md): I. La [Agenda de Simplificación y Digitalización](articulo-3.md) de Trámites y Servicios; II. La Agenda Regulatoria; III. El Análisis de Impacto Regulatorio;
+
+IV. El [Portal Ciudadano Único de Trámites y Servicios](articulo-3.md); V. El Registro Nacional de [Regulaciones](articulo-3.md), y VI. Las demás que determine la Autoridad Nacional.

@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
-      "provision_text_sha256": "036b40ad33f6f704af0867152f4b28ebc2d5c7a535e52dfc6a7026f346d0c5a9",
+      "provision_text_sha256": "7aaa5342a53beda41d581e708162b3397baf95a431747667114ce4d62ddf33af",
       "method": "established_pass",
       "fractions": [
         "I",
@@ -31,15 +31,16 @@
         "XIX",
         "XX",
         "XXI",
-        "XXII"
+        "XXII",
+        "XXIII"
       ],
       "unread_fractions": [
         "VI"
       ],
-      "term_count": 21
+      "term_count": 22
     }
   ],
   "imports": [],
-  "term_count": 21,
-  "usage_count": 963
+  "term_count": 22,
+  "usage_count": 973
 }

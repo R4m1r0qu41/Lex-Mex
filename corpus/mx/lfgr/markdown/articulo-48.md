@@ -25,7 +25,9 @@ II. Remitir a la instancia que corresponda la información recopilada en el cump
 
 III. Apoyar a las autoridades de procuración de justicia cuando se requiera en la investigación y persecución de delitos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
 
-IV. Ejecutar mandamientos judiciales y ministeriales que les sean asignados, así como aquellos de los que tengan conocimiento con motivo de sus funciones y en el marco de sus facultades; V. Obedecer las órdenes de las personas superiores jerárquicas, o de quienes ejerzan sobre ellos funciones de mando y cumplir con todas sus obligaciones;
+IV. Ejecutar mandamientos judiciales y ministeriales que les sean asignados, así como aquellos de los que tengan conocimiento con motivo de sus funciones y en el marco de sus facultades;
+
+V. Obedecer las órdenes de las personas superiores jerárquicas, o de quienes ejerzan sobre ellos funciones de mando y cumplir con todas sus obligaciones;
 
 VI. Hacer uso de la fuerza en el ejercicio de sus funciones atendiendo a los principios de racionalidad, necesidad, legalidad, oportunidad, proporcionalidad, congruencia, responsabilidad y respeto a los derechos humanos, apegándose a las disposiciones normativas y administrativas aplicables, con el fin de preservar la vida, la integridad, bienes y derechos de las personas, así como mantener y restablecer el orden y la paz pública;
 

@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
     "fraction": "VIII",
     "start_char": 2510,
-    "end_char": 2611,
+    "end_char": 2612,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
     "fraction": "IX",
-    "start_char": 2611,
-    "end_char": 2784,
+    "start_char": 2612,
+    "end_char": 2785,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lfdeapd",
     "defining_provision_id": "urn:lex-mx:federal:statute:lfdeapd:article:3",
     "fraction": "X",
-    "start_char": 2784,
-    "end_char": 2896,
+    "start_char": 2785,
+    "end_char": 2897,
     "basis": "express_definition"
   }
 ]

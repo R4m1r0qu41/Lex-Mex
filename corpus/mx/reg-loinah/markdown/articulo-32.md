@@ -41,7 +41,9 @@ X. Emitir opinión técnica y asesorar sobre los expedientes técnicos que integ
 
 XI. Supervisar que las contrataciones de obra y servicios relacionados con la misma, se lleven a cabo conforme a la normativa aplicable;
 
-XII. Solicitar al titular de la Secretaría Administrativa el inicio de los procedimientos administrativos, proporcionando la información necesaria hasta que se emita la resolución correspondiente; XIII. Supervisar que las obras y servicios relacionados con las mismas, a realizarse en inmuebles y en monumentos históricos inmuebles, así como en la infraestructura de bienes y servicios en Sitios y zonas de monumentos Arqueológicos; se realicen de conformidad con los lineamientos y requerimientos de las unidades administrativas del Instituto y cuenten con la autorización y supervisión correspondiente en términos de la normativa aplicable;
+XII. Solicitar al titular de la Secretaría Administrativa el inicio de los procedimientos administrativos, proporcionando la información necesaria hasta que se emita la resolución correspondiente;
+
+XIII. Supervisar que las obras y servicios relacionados con las mismas, a realizarse en inmuebles y en monumentos históricos inmuebles, así como en la infraestructura de bienes y servicios en Sitios y zonas de monumentos Arqueológicos; se realicen de conformidad con los lineamientos y requerimientos de las unidades administrativas del Instituto y cuenten con la autorización y supervisión correspondiente en términos de la normativa aplicable;
 
 XIV. Supervisar el proceso de ejecución de las obras contratadas;
 

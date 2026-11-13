@@ -27,7 +27,9 @@ III.- Determinarán la participación y responsabilidad que corresponda a cada u
 
 IV.- Establecerán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, incluyendo las de evaluación, así como el cronograma de las actividades a realizar;
 
-V.- Definirán los mecanismos de información que se requieran, a fin de que las partes suscriptoras puedan asegurar el cumplimiento de su objeto; VI.- Precisarán la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, el número y duración de sus prórrogas;
+V.- Definirán los mecanismos de información que se requieran, a fin de que las partes suscriptoras puedan asegurar el cumplimiento de su objeto;
+
+VI.- Precisarán la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, el número y duración de sus prórrogas;
 
 VII.- Contendrán, en su caso, los anexos técnicos necesarios para detallar los compromisos adquiridos, y
 

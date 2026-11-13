@@ -23,7 +23,9 @@ I. Haber presentado los avisos, declaraciones y demás información que establec
 
 II. Que no se determinaron diferencias a su cargo en el pago de impuestos y accesorios superiores al 10%, respecto de las que hubiera declarado o que se hubieran declarado pérdidas fiscales mayores en un 10% a las realmente sufridas, en caso de que las autoridades hubieran ejercido facultades de comprobación respecto de cualquiera de los tres últimos ejercicios fiscales.
 
-III. (Se deroga). IV. Haber cumplido los requerimientos que, en su caso, le hubieren hecho las autoridades fiscales en los tres últimos ejercicios fiscales.
+III. (Se deroga).
+
+IV. Haber cumplido los requerimientos que, en su caso, le hubieren hecho las autoridades fiscales en los tres últimos ejercicios fiscales.
 
 V. No haber incurrido en alguna de las agravantes a que se refiere el artículo [75](articulo-75.md) de este Código al momento en que las autoridades fiscales impongan la multa.
 

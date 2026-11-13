@@ -17,7 +17,9 @@ source_sha256: cbd3307808b89748077396e108c02651da8099a5bc491657c17fa676618d85f1
 
 # Artículo 76
 
-[Para la imposición de las sanciones administrativas serán tomados en consideración los elementos siguientes: I. La gravedad de la conducta que se atribuya a la persona servidora pública;
+[Para la imposición de las sanciones administrativas serán tomados en consideración los elementos siguientes:
+
+I. La gravedad de la conducta que se atribuya a la persona servidora pública;
 
 II. La necesidad de suprimir conductas y/o prácticas que afecten la imagen y el debido funcionamiento de la [Fiscalía General](articulo-9.md);
 

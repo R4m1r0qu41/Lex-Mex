@@ -25,7 +25,9 @@ I. [Una vez entregados los informes trimestrales, si de la revisión que realice
 
 II. En todo caso los informes trimestrales tienen carácter exclusivamente informativo para la autoridad.
 
-b) Informes anuales: I. [Una vez entregados los informes anuales, la Unidad Técnica tendrá un término de sesenta días para su revisión y estará facultado en todo momento para solicitar al órgano previsto en el artículo [43](articulo-43.md), inciso c) de esta Ley de cada partido, la documentación necesaria para comprobar la veracidad de lo reportado en los informes;] Fracción reformada DOF 02-03-2023 Fracción declarada inválida y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023
+b) Informes anuales:
+
+I. [Una vez entregados los informes anuales, la Unidad Técnica tendrá un término de sesenta días para su revisión y estará facultado en todo momento para solicitar al órgano previsto en el artículo [43](articulo-43.md), inciso c) de esta Ley de cada partido, la documentación necesaria para comprobar la veracidad de lo reportado en los informes;] Fracción reformada DOF 02-03-2023 Fracción declarada inválida y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023
 
 II. [Si durante la revisión de los informes la Unidad Técnica advierte la existencia de errores u omisiones técnicas, prevendrá al partido político que haya incurrido en ellos para que en un plazo de diez días, contados a partir de dicha prevención, presente las aclaraciones o rectificaciones que considere pertinentes;] Fracción reformada DOF 02-03-2023 Fracción declarada inválida y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023
 

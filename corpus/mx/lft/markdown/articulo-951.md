@@ -17,7 +17,9 @@ source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
 
 # Artículo 951
 
-En la diligencia de requerimiento de pago y embargo se observarán las normas siguientes: I. Se practicará en el lugar donde se presta o prestaron los servicios, en el nuevo domicilio del deudor o en la habitación, oficina, establecimiento o lugar señalado por el actuario en el acta de notificación de conformidad con el artículo [740](articulo-740.md) de esta Ley;
+En la diligencia de requerimiento de pago y embargo se observarán las normas siguientes:
+
+I. Se practicará en el lugar donde se presta o prestaron los servicios, en el nuevo domicilio del deudor o en la habitación, oficina, establecimiento o lugar señalado por el actuario en el acta de notificación de conformidad con el artículo [740](articulo-740.md) de esta Ley;
 
 II. Si no se encuentra el deudor, la diligencia se practicará con cualquier persona que esté presente;
 

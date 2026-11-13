@@ -29,7 +29,9 @@ IV. Proponer las directivas generales de operación para aplicar en los operativ
 
 V. Colaborar con las autoridades competentes que así lo requieran, previa evaluación de la solicitud;
 
-VI. Determinar las acciones a realizar en los operativos en coordinación con las autoridades competentes; VII. Determinar las operaciones para preservar el lugar de los hechos, indicios, huellas, instrumentos, objetos o productos del delito, o cuando la autoridad competente lo requiera;
+VI. Determinar las acciones a realizar en los operativos en coordinación con las autoridades competentes;
+
+VII. Determinar las operaciones para preservar el lugar de los hechos, indicios, huellas, instrumentos, objetos o productos del delito, o cuando la autoridad competente lo requiera;
 
 VIII. Dictar las políticas para que la [Institución](articulo-2.md) en el ámbito de su competencia establezca los mecanismos necesarios para la atención de las personas detenidas, y
 

@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 25
 
-El patrimonio de las Cámaras y [Confederaciones](articulo-2.md) será destinado estrictamente a satisfacer su objeto y comprenderá:
+El patrimonio de las [Cámaras](articulo-2.md) y [Confederaciones](articulo-2.md) será destinado estrictamente a satisfacer su objeto y comprenderá:
 
 I. Los bienes muebles e inmuebles que posea o que adquiera en el futuro;
 

@@ -17,6 +17,6 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 8
 
-Las Cámaras que representen la actividad comercial, de servicios y turismo integrarán la [Confederación](articulo-2.md) de Cámaras de Comercio, Servicios y Turismo.
+Las [Cámaras](articulo-2.md) que representen la actividad comercial, de servicios y turismo integrarán la [Confederación](articulo-2.md) de Cámaras de Comercio, Servicios y Turismo.
 
 Las Cámaras que representen la actividad industrial, integrarán la Confederación de Cámaras de Industria.

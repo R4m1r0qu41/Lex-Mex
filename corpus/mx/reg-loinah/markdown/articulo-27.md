@@ -37,7 +37,9 @@ VIII. Supervisar el cumplimiento de la normativa para la seguridad del Patrimoni
 
 IX. Fomentar la transmisión del conocimiento del Patrimonio Cultural en resguardo, a la población escolar y a los docentes, mediante estrategias pedagógicas;
 
-X. Promover el acceso a los museos a cargo del Instituto, en condiciones dignas a todas las personas, así como propiciar el establecimiento de servicios básicos en dichos museos; XI. Promover la participación de investigadores en la conformación y actualización de guiones científicos y museológicos;
+X. Promover el acceso a los museos a cargo del Instituto, en condiciones dignas a todas las personas, así como propiciar el establecimiento de servicios básicos en dichos museos;
+
+XI. Promover la participación de investigadores en la conformación y actualización de guiones científicos y museológicos;
 
 XII. Impulsar la integración y realización de investigaciones que sustenten el desarrollo y actualización de los contenidos de los guiones científicos y museológicos;
 

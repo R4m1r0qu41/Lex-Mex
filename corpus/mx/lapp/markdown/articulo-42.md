@@ -19,7 +19,9 @@ source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
 
 No podrán participar en los concursos, ni recibir adjudicación para desarrollar un proyecto de asociación público-privada, las personas siguientes:
 
-I. Aquellas en las que algún servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, o bien de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos o por afinidad hasta el cuarto grado, o civil, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate; II. Las personas condenadas, mediante sentencia firme dentro de los tres años inmediatos anteriores a la fecha de la convocatoria, por incumplimiento de contratos celebrados con dependencias o entidades federales;
+I. Aquellas en las que algún servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, o bien de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos o por afinidad hasta el cuarto grado, o civil, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
+
+II. Las personas condenadas, mediante sentencia firme dentro de los tres años inmediatos anteriores a la fecha de la convocatoria, por incumplimiento de contratos celebrados con dependencias o entidades federales;
 
 III. Aquellas que, por causas imputables a ellas mismas, alguna dependencia o entidad federal les hubiere rescindido administrativamente un contrato, dentro del año calendario inmediato anterior a la convocatoria;
 

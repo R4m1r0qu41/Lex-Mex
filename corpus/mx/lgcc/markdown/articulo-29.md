@@ -27,7 +27,9 @@ III. El manejo, protección, conservación y restauración de los ecosistemas, r
 
 IV. La conservación, el aprovechamiento sustentable, rehabilitación de playas, costas, zona federal marítimo terrestre, terrenos ganados al mar y cualquier otro depósito que se forme con aguas marítimas para uso turístico, industrial, agrícola, pesquero, acuícola o de conservación;
 
-V. Los programas hídricos de cuencas hidrológicas; VI. La construcción y mantenimiento de infraestructura;
+V. Los programas hídricos de cuencas hidrológicas;
+
+VI. La construcción y mantenimiento de infraestructura;
 
 VII. La protección de zonas inundables y zonas áridas;
 

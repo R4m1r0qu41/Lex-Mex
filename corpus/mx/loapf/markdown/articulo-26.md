@@ -35,7 +35,9 @@ VII. Secretaría de Bienestar;
 
 VIII. Secretaría de Medio Ambiente y Recursos Naturales;
 
-IX. Secretaría de Energía; X. Secretaría de Economía;
+IX. Secretaría de Energía;
+
+X. Secretaría de Economía;
 
 XI. Secretaría de Agricultura y Desarrollo Rural;
 

@@ -154,30 +154,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:24:term-usage:698-708",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:24:term-usage:699-709",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 698,
-    "end_char": 708
+    "start_char": 699,
+    "end_char": 709
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:24:term-usage:1612-1622",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:24:term-usage:1613-1623",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1612,
-    "end_char": 1622
+    "start_char": 1613,
+    "end_char": 1623
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:24:term-usage:1879-1889",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:24:term-usage:1880-1890",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:24",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1879,
-    "end_char": 1889
+    "start_char": 1880,
+    "end_char": 1890
   },
   {
     "schema_version": "0.1.0",
@@ -226,12 +226,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:31:term-usage:1379-1389",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:31:term-usage:1380-1390",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:31",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1379,
-    "end_char": 1389
+    "start_char": 1380,
+    "end_char": 1390
   },
   {
     "schema_version": "0.1.0",
@@ -244,12 +244,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:42:term-usage:1539-1549",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:42:term-usage:1540-1550",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:42",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1539,
-    "end_char": 1549
+    "start_char": 1540,
+    "end_char": 1550
   },
   {
     "schema_version": "0.1.0",
@@ -262,12 +262,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:44:term-usage:441-451",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:44:term-usage:442-452",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:44",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 441,
-    "end_char": 451
+    "start_char": 442,
+    "end_char": 452
   },
   {
     "schema_version": "0.1.0",
@@ -586,12 +586,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:86:term-usage:197-200",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:86:term-usage:198-201",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:86",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:ley",
     "span": "Ley",
-    "start_char": 197,
-    "end_char": 200
+    "start_char": 198,
+    "end_char": 201
   },
   {
     "schema_version": "0.1.0",
@@ -847,12 +847,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:104:term-usage:367-377",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:104:term-usage:368-378",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:104",
     "term_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:secretaria",
     "span": "Secretaría",
-    "start_char": 367,
-    "end_char": 377
+    "start_char": 368,
+    "end_char": 378
   },
   {
     "schema_version": "0.1.0",

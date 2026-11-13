@@ -33,6 +33,8 @@ IV. Atención preferente a la demanda, considerando la inducción necesaria para
 
 V. La concurrencia de recursos federales, estatales y municipales y de los propios beneficiarios, a fin de asegurar la corresponsabilidad entre el [Estado](articulo-3o.md) y la sociedad y multiplicar el efecto del gasto público;
 
-VI. Transparencia; mediante la difusión de las reglas para su acceso y la publicación de los montos y tipo de apoyo por beneficiario; VII. Evaluación y factibilidad en función de su impacto económico y social, la eficiencia en su administración y la pertinencia de las reglas para su otorgamiento; y
+VI. Transparencia; mediante la difusión de las reglas para su acceso y la publicación de los montos y tipo de apoyo por beneficiario;
+
+VII. Evaluación y factibilidad en función de su impacto económico y social, la eficiencia en su administración y la pertinencia de las reglas para su otorgamiento; y
 
 VIII. Responsabilidad de los productores y de las instituciones respecto a la utilización de los apoyos, conforme al destino de los mismos y a las reglas para su otorgamiento.

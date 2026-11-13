@@ -37,4 +37,6 @@ VI. Identificación de tecnologías, herramientas, sistemas de interconexión e 
 
 VII. Lineamientos relativos al manejo de datos de fenómenos delictivos;
 
-VIII. Lineamientos que permitan el establecimiento de políticas generales para la utilización de inteligencia en seguridad pública y para la prevención, investigación y persecución de hechos posiblemente constitutivos de delitos, sobre todo de alto impacto, y IX. Todos aquellos que la [Secretaría](articulo-2.md) considere necesarios para el cumplimiento de los fines del Sistema y el logro de la paz social del país, en apego a las disposiciones legales que resulten aplicables.
+VIII. Lineamientos que permitan el establecimiento de políticas generales para la utilización de inteligencia en seguridad pública y para la prevención, investigación y persecución de hechos posiblemente constitutivos de delitos, sobre todo de alto impacto, y
+
+IX. Todos aquellos que la [Secretaría](articulo-2.md) considere necesarios para el cumplimiento de los fines del Sistema y el logro de la paz social del país, en apego a las disposiciones legales que resulten aplicables.

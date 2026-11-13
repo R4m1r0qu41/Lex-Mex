@@ -17,7 +17,9 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 133
 
-El certificado a que se refiere este Capítulo se extinguirá por las siguientes causas: I. Por vencer el plazo por el que fue otorgado;
+El certificado a que se refiere este Capítulo se extinguirá por las siguientes causas:
+
+I. Por vencer el plazo por el que fue otorgado;
 
 II. Por muerte del titular. En caso de personas morales por liquidación, escisión o fusión;
 

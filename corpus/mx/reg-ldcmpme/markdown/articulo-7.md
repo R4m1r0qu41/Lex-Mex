@@ -17,4 +17,4 @@ source_sha256: 478ff012a0c6ad39c7b826a81d91c5eac3decac66b10fd725138c02c2586b165
 
 # Artículo 7
 
-En la planeación y realización de acciones a cargo de las dependencias y entidades de la Administración Pública Federal, conforme a sus respectivas esferas de competencia, promoverán lo relativo al desarrollo de la competitividad de las MIPYMES. REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+En la planeación y realización de acciones a cargo de las dependencias y entidades de la Administración Pública Federal, conforme a sus respectivas esferas de competencia, promoverán lo relativo al desarrollo de la competitividad de las MIPYMES.

@@ -27,7 +27,9 @@ III. 7% en la fabricación de pulpa, papel y productos similares. Fracción refo
 
 IV. 8% en la fabricación de vehículos de motor y sus partes; en la construcción de ferrocarriles y navíos; en la fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; en la elaboración de productos alimenticios y de bebidas, excepto granos, azúcar, aceites comestibles y derivados.
 
-V. 9% en el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y farmacobiológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica. VI. 10% en el transporte eléctrico; en infraestructura fija para el transporte, almacenamiento y procesamiento de hidrocarburos, en plataformas y embarcaciones de perforación de pozos, y embarcaciones de procesamiento y almacenamiento de hidrocarburos. Fracción reformada DOF 30-11-2016
+V. 9% en el curtido de piel y la fabricación de artículos de piel; en la elaboración de productos químicos, petroquímicos y farmacobiológicos; en la fabricación de productos de caucho y de plástico; en la impresión y publicación gráfica.
+
+VI. 10% en el transporte eléctrico; en infraestructura fija para el transporte, almacenamiento y procesamiento de hidrocarburos, en plataformas y embarcaciones de perforación de pozos, y embarcaciones de procesamiento y almacenamiento de hidrocarburos. Fracción reformada DOF 30-11-2016
 
 VII. 11% en la fabricación, acabado, teñido y estampado de productos textiles, así como de prendas para el vestido.
 

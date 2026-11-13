@@ -17,7 +17,9 @@ source_sha256: 64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df
 
 # Artículo 195-K-11
 
-Por la expedición y modificación de permiso de asesor especializado en seguridad radiológica para establecimiento de diagnóstico médico con rayos X, se pagarán derechos conforme a las siguientes cuotas: I. Por la expedición ................................................................................................. $17,556.45
+Por la expedición y modificación de permiso de asesor especializado en seguridad radiológica para establecimiento de diagnóstico médico con rayos X, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por la expedición ................................................................................................. $17,556.45
 
 II. Por la modificación .............................................................................................. $14,294.80
 

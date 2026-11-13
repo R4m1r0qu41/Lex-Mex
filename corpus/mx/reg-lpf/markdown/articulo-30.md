@@ -29,7 +29,9 @@ IV. Elaborar proyectos de programas que permitan desarrollar, instrumentar y apl
 
 V. Diseñar, coordinar y operar los sistemas de recolección, clasificación, registro, evaluación y análisis de la información de las estructuras criminales, dedicadas a la producción, tráfico y comercialización de estupefacientes y sustancias psicotrópicas;
 
-VI. Gestionar ante las autoridades competentes, la aprobación de los protocolos para la búsqueda, obtención y preservación de indicios y pruebas; VII. Plantear a su superior jerárquico, políticas y mejores prácticas para operar los sistemas de recopilación, clasificación, registro y explotación de información que en materia de seguridad pública se genere en su materia;
+VI. Gestionar ante las autoridades competentes, la aprobación de los protocolos para la búsqueda, obtención y preservación de indicios y pruebas;
+
+VII. Plantear a su superior jerárquico, políticas y mejores prácticas para operar los sistemas de recopilación, clasificación, registro y explotación de información que en materia de seguridad pública se genere en su materia;
 
 VIII. Proponer se solicite información a que se refiere la fracción XXVIII del artículo [8](../../lpf/markdown/articulo-8.md) de la [Ley](articulo-2.md), para los fines de su materia;
 

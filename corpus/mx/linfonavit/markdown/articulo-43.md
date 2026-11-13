@@ -27,7 +27,9 @@ II. Aprobar, a través de su comité auxiliar en materia de inversiones, un port
 
 III. Aprobar la normativa que establezca las políticas generales aplicables en materia de inversiones, y
 
-IV. Garantizar en todo momento que el Instituto cuente con los recursos requeridos para atender las necesidades de vivienda de los trabajadores. Párrafo adicionado DOF 12-01-2012. Reformado con fracciones DOF 30-04-2024 Sin perjuicio de lo anterior, el Instituto con cargo a la cuenta que el Banco de México le lleve, podrá mantener en efectivo o en depósitos bancarios a la vista las cantidades estrictamente necesarias para la realización de sus operaciones diarias. Párrafo reformado DOF 12-01-2012
+IV. Garantizar en todo momento que el Instituto cuente con los recursos requeridos para atender las necesidades de vivienda de los trabajadores. Párrafo adicionado DOF 12-01-2012. Reformado con fracciones DOF 30-04-2024
+
+Sin perjuicio de lo anterior, el Instituto con cargo a la cuenta que el Banco de México le lleve, podrá mantener en efectivo o en depósitos bancarios a la vista las cantidades estrictamente necesarias para la realización de sus operaciones diarias. Párrafo reformado DOF 12-01-2012
 
 Por los servicios de recepción de pagos que las entidades receptoras le brinden al Instituto, éste podrá, por acuerdo de su Consejo de Administración, establecer el mecanismo de remuneración correspondiente, de conformidad con las disposiciones de carácter general que emita la Comisión Nacional del Sistema de Ahorro para el Retiro.
 

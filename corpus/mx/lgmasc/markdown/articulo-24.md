@@ -25,7 +25,9 @@ II. Proporcionar la información accesible al público, respecto del trámite y 
 
 III. Garantizar la accesibilidad y asequibilidad a los mecanismos alternativos de solución de controversias;
 
-IV. Integrar y poner a disposición del público el Directorio actualizado de personas facilitadoras en el ámbito público y privado de la demarcación; V. Promover, impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias;
+IV. Integrar y poner a disposición del público el Directorio actualizado de personas facilitadoras en el ámbito público y privado de la demarcación;
+
+V. Promover, impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias;
 
 VI. Coadyuvar en la implementación de programas, acciones y tareas en el ámbito de sus respectivas competencias en la materia;
 

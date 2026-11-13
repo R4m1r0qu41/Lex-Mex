@@ -29,7 +29,7 @@ III. La UIF tenga acceso, vía remota y directa, a la información completa que 
 
 Para efectos de lo señalado en el párrafo anterior, la UIF determinará y dará a conocer los medios de cumplimiento alternativos que cumplan con las condiciones señaladas en las fracciones anteriores y, hasta en tanto la UIF no dé a conocer estos, quienes realicen dichas Actividades Vulnerables deberán dar cumplimiento a la obligación de presentar Avisos en los términos establecidos en la Ley, este Reglamento, las reglas de carácter general y demás disposiciones que de estos emanen. Párrafo reformado DOF 27-03-2026
 
-Quienes realicen las Actividades Vulnerables señaladas en el párrafo segundo de este artículo, podrán proponer por escrito a la UIF la determinación de medios de cumplimiento alternativos, siempre y cuando estos cumplan con lo establecido en las fracciones de este artículo. La UIF, a más tardar a los REGLAMENTO DE LA LEY FEDERAL PARA LA PREVENCIÓN E IDENTIFICACIÓN DE OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA veinte días hábiles de recibida la solicitud, resolverá si el medio propuesto se considera medio de cumplimiento alternativo.
+Quienes realicen las Actividades Vulnerables señaladas en el párrafo segundo de este artículo, podrán proponer por escrito a la UIF la determinación de medios de cumplimiento alternativos, siempre y cuando estos cumplan con lo establecido en las fracciones de este artículo. La UIF, a más tardar a los veinte días hábiles de recibida la solicitud, resolverá si el medio propuesto se considera medio de cumplimiento alternativo.
 
 La UIF deberá notificar al SAT respecto de los medios de cumplimiento alternativos que determine dentro del plazo de cinco días hábiles a partir de su resolución.
 

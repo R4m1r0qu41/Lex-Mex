@@ -21,4 +21,6 @@ En el escrito de recusación deberán manifestarse, bajo protesta de decir verda
 
 Asimismo, el órgano jurisdiccional desechará de plano la recusación, cuando:
 
-I. Se advierta que existan elementos suficientes que demuestren que su promoción se haya dirigido a entorpecer o dilatar el procedimiento en cuestión, o II. Sea presentada para que algún Ministro o Ministra, Magistrado o Magistrada se abstenga de conocer de cuestiones accesorias o diversas al fondo de la controversia. Párrafo con fracciones adicionado DOF 16-10-2025
+I. Se advierta que existan elementos suficientes que demuestren que su promoción se haya dirigido a entorpecer o dilatar el procedimiento en cuestión, o
+
+II. Sea presentada para que algún Ministro o Ministra, Magistrado o Magistrada se abstenga de conocer de cuestiones accesorias o diversas al fondo de la controversia. Párrafo con fracciones adicionado DOF 16-10-2025

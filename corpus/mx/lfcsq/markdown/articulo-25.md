@@ -19,7 +19,9 @@ source_sha256: 414c7e193ba776fc660f862c8bf2e8c0d91d35f6566979542132fcac0c82d923
 
 El [Grupo de Inspección Nacional](articulo-2.md) tiene las siguientes atribuciones:
 
-I. Requerir y obtener del [Sujeto Obligado](articulo-2.md) datos y documentos sobre las actividades que se realizan en el [Polígono de Inspección](articulo-2.md) y sobre las medidas de seguridad vigentes; II. Requerir y obtener del Sujeto Obligado, apoyo administrativo y logístico para desahogar la inspección;
+I. Requerir y obtener del [Sujeto Obligado](articulo-2.md) datos y documentos sobre las actividades que se realizan en el [Polígono de Inspección](articulo-2.md) y sobre las medidas de seguridad vigentes;
+
+II. Requerir y obtener del Sujeto Obligado, apoyo administrativo y logístico para desahogar la inspección;
 
 III. Acceder y reconocer el Polígono de Inspección, con el equipo de inspección necesario;
 

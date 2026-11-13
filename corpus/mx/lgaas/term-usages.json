@@ -64,30 +64,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgaas:article:59:term-usage:809-817",
+    "id": "urn:lex-mx:federal:statute:lgaas:article:59:term-usage:810-818",
     "provision_id": "urn:lex-mx:federal:statute:lgaas:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgaas:term:sinsamac",
     "span": "SINSAMAC",
-    "start_char": 809,
-    "end_char": 817
+    "start_char": 810,
+    "end_char": 818
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgaas:article:59:term-usage:873-881",
+    "id": "urn:lex-mx:federal:statute:lgaas:article:59:term-usage:874-882",
     "provision_id": "urn:lex-mx:federal:statute:lgaas:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgaas:term:sinsamac",
     "span": "SINSAMAC",
-    "start_char": 873,
-    "end_char": 881
+    "start_char": 874,
+    "end_char": 882
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgaas:article:59:term-usage:1241-1249",
+    "id": "urn:lex-mx:federal:statute:lgaas:article:59:term-usage:1242-1250",
     "provision_id": "urn:lex-mx:federal:statute:lgaas:article:59",
     "term_id": "urn:lex-mx:federal:statute:lgaas:term:sinsamac",
     "span": "SINSAMAC",
-    "start_char": 1241,
-    "end_char": 1249
+    "start_char": 1242,
+    "end_char": 1250
   },
   {
     "schema_version": "0.1.0",

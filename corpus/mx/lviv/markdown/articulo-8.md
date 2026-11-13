@@ -27,7 +27,9 @@ III. La estrategia general habitacional, que comprenderá las acciones básicas 
 
 IV. La identificación de las fuentes de financiamiento y la estimación de los recursos necesarios para las acciones de vivienda, tanto para hacer posible su oferta como la satisfacción de su demanda, así como los mecanismos para fomentar la participación y el financiamiento público, social y privado para la vivienda;
 
-V. Los apoyos e instrumentos para atender las necesidades de vivienda de la población, preferentemente de aquella en situación de pobreza, así como los lineamientos de coordinación entre las instancias correspondientes para su ejecución; VI. Las medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y disminuir los costos de la vivienda;
+V. Los apoyos e instrumentos para atender las necesidades de vivienda de la población, preferentemente de aquella en situación de pobreza, así como los lineamientos de coordinación entre las instancias correspondientes para su ejecución;
+
+VI. Las medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y disminuir los costos de la vivienda;
 
 VII. Los lineamientos para la normalización de los bienes y servicios que se utilicen en la producción de vivienda;
 

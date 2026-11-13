@@ -23,7 +23,9 @@ I. Cuando incumpla con el objeto o con cualesquiera otro de los términos y cond
 
 II. Tratándose de personas permisionarias, para la organización de juegos con apuesta en hipódromos, galgódromos, frontones, así como para la operación de centros de apuestas remotas y salas de sorteos de números, cuando incurran en incumplimiento de las obligaciones que les impone el artículo [29](articulo-29.md) de este reglamento; Fracción reformada DOF 16-11-2023
 
-III. Cuando la información proporcionada a la [Secretaría](articulo-3.md) para la obtención del permiso resulte falsa; IV. Cuando el permisionario, o bien, alguno de sus accionistas o beneficiarios sean condenados por delitos dolosos de índole patrimonial, fiscal o relacionados con la delincuencia organizada o de operaciones con recursos de procedencia ilícita;
+III. Cuando la información proporcionada a la [Secretaría](articulo-3.md) para la obtención del permiso resulte falsa;
+
+IV. Cuando el permisionario, o bien, alguno de sus accionistas o beneficiarios sean condenados por delitos dolosos de índole patrimonial, fiscal o relacionados con la delincuencia organizada o de operaciones con recursos de procedencia ilícita;
 
 V. Cuando el permisionario, o bien, alguno de sus accionistas o beneficiarios sean declarados en concurso;
 

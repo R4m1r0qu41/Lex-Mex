@@ -27,7 +27,9 @@ III. La Ley General de Organizaciones y Actividades Auxiliares del Crédito;
 
 III Bis. La Ley para Regular las Instituciones de Tecnología Financiera; Fracción adicionada DOF 09-03-2018
 
-IV. La Ley del Banco de México; V. Ley de Protección y Defensa al Usuario de Servicios Financieros;
+IV. La Ley del Banco de México;
+
+V. Ley de Protección y Defensa al Usuario de Servicios Financieros;
 
 VI. La Ley Federal de Protección al Consumidor;
 

@@ -23,7 +23,9 @@ I. Colectivo.- Grupo de individuos que, sin estar constituidos legalmente, reali
 
 II. Cooperativa.- Forma de organización social integrada por personas físicas con base en intereses comunes y en los principios de solidaridad, esfuerzo propio y ayuda mutua, con el propósito de satisfacer necesidades individuales y colectivas, a través de la realización de actividades económicas de producción, distribución y consumo de libros.
 
-Se considerarán labores fundamentales en favor del fomento a la lectura y el libro, así como para el desarrollo cultural del país, entre otras: I. La promoción y difusión de la lectura en sus espacios de reunión;
+Se considerarán labores fundamentales en favor del fomento a la lectura y el libro, así como para el desarrollo cultural del país, entre otras:
+
+I. La promoción y difusión de la lectura en sus espacios de reunión;
 
 II. La realización de actividades lúdicas de fomento a la lectura y el libro;
 

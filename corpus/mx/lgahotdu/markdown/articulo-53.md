@@ -41,4 +41,6 @@ X. La potestad administrativa que permita la celebración de convenios entre aut
 
 XI. La construcción y adecuación de la infraestructura, el equipamiento y los [Servicios Urbanos](articulo-3.md) para garantizar la seguridad, libre tránsito y accesibilidad universal requeridas por las personas con discapacidad, estableciendo los procedimientos de consulta a las personas con discapacidad sobre las características técnicas de los proyectos;
 
-XII. La promoción y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental, incluyendo la aplicación de azoteas o techos verdes y jardines verticales, y XIII. Las demás que se consideren necesarias para el mejor efecto de las acciones de Conservación y Mejoramiento.
+XII. La promoción y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental, incluyendo la aplicación de azoteas o techos verdes y jardines verticales, y
+
+XIII. Las demás que se consideren necesarias para el mejor efecto de las acciones de Conservación y Mejoramiento.

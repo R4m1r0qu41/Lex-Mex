@@ -21,7 +21,9 @@ No se permitirá a servidores públicos, ni a particulares, que habiten los inmu
 
 I.- Cuando quienes habiten los inmuebles federales sean beneficiarios de instituciones que presten un servicio social;
 
-II.- Cuando se trate de servidores públicos que, por razón de la función del inmueble federal, deban habitarlo; III.- Cuando se trate de servidores públicos que con motivo de su empleo, cargo o comisión en el servicio público, sea necesario que habiten en los inmuebles federales respectivos, y
+II.- Cuando se trate de servidores públicos que, por razón de la función del inmueble federal, deban habitarlo;
+
+III.- Cuando se trate de servidores públicos que con motivo de su empleo, cargo o comisión en el servicio público, sea necesario que habiten en los inmuebles federales respectivos, y
 
 IV.- En los demás casos previstos por leyes que regulen materias específicas.
 

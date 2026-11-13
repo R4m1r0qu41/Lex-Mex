@@ -37,4 +37,4 @@ En el caso de los refugios estos deberán ser especializados en brindar atenció
 
 VI. Diseñar y aplicar modelos con perspectiva de género y salvaguardando el interés superior de la niñez que ofrezcan alternativas dignas y apropiadas para las víctimas, con el propósito de restituirles sus derechos humanos, especialmente mujeres, niñas, niños y adolescentes; Fracción reformada DOF 07-06-2024
 
-VII. Generar y aplicar programas de protección y asistencia a las víctimas, ofendidos y testigos de delitos en que se encuentre involucrado el crimen organizado, que incluirán cambio de identidad y reubicación nacional o internacional. LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
+VII. Generar y aplicar programas de protección y asistencia a las víctimas, ofendidos y testigos de delitos en que se encuentre involucrado el crimen organizado, que incluirán cambio de identidad y reubicación nacional o internacional.

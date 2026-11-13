@@ -19,7 +19,9 @@ source_sha256: a3435ac18a1631617fea83ae6a81bad84f456e3e8fd44b69bb6b7ea39425df9c
 
 Previamente a la importación, el importador de muestras de productos para uso o consumo animal con fines académicos, de investigación, constatación y registro, así como muestras de bienes de origen animal para constatación, análisis y degustaciones, deberá hacer la solicitud ante la Secretaría para la autorización correspondiente, con cuando menos los siguientes datos.
 
-I. Nombre, denominación o razón social del importador. Si es persona moral, presentar el testimonio que acredite la personalidad jurídica del representante legal de la empresa. En el caso de personas físicas, presentar identificación oficial con fotografía; II. Descripción del producto;
+I. Nombre, denominación o razón social del importador. Si es persona moral, presentar el testimonio que acredite la personalidad jurídica del representante legal de la empresa. En el caso de personas físicas, presentar identificación oficial con fotografía;
+
+II. Descripción del producto;
 
 III. Descripción del uso o consumo del producto;
 

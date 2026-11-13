@@ -25,7 +25,9 @@ I. Terrorismo, previsto en los artículos [139](articulo-139.md) al [139 Ter](ar
 
 II. Uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo [172 Bis](articulo-172-Bis.md);
 
-III. Contra la salud, previsto en los artículos [194](articulo-194.md) y [195](articulo-195.md), párrafo primero; IV. Corrupción de personas menores de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo [201](articulo-201.md);
+III. Contra la salud, previsto en los artículos [194](articulo-194.md) y [195](articulo-195.md), párrafo primero;
+
+IV. Corrupción de personas menores de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, previsto en el artículo [201](articulo-201.md);
 
 V. Tráfico de influencia previsto en el artículo [221](articulo-221.md);
 
@@ -63,7 +65,9 @@ IV. Trata de personas, previsto en los artículos [10](../../lgtrata/markdown/ar
 
 V. Introducción clandestina de armas de fuego que no están reservadas al uso exclusivo del Ejército, Armada o Fuerza Aérea, previsto en el artículo [84 Bis](../../lfafe/markdown/articulo-84-Bis.md), de la Ley Federal de Armas de Fuego y Explosivos;
 
-VI. De la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos, los previstos en los artículos [9](articulo-9o.md), [10](articulo-10.md), [11](articulo-11.md) y [15](articulo-15.md); VII. Contrabando y su equiparable, previstos en los artículos [102](../../cff/markdown/articulo-102.md) y [105](../../cff/markdown/articulo-105.md) del Código Fiscal de la Federación;
+VI. De la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo [73](../../cpeum/markdown/articulo-73.md) de la Constitución Política de los Estados Unidos Mexicanos, los previstos en los artículos [9](articulo-9o.md), [10](articulo-10.md), [11](articulo-11.md) y [15](articulo-15.md);
+
+VII. Contrabando y su equiparable, previstos en los artículos [102](../../cff/markdown/articulo-102.md) y [105](../../cff/markdown/articulo-105.md) del Código Fiscal de la Federación;
 
 VIII. Defraudación Fiscal y su equiparable, previstos en los artículos [108](../../cff/markdown/articulo-108.md) y [109](../../cff/markdown/articulo-109.md), del Código Fiscal de la Federación;
 

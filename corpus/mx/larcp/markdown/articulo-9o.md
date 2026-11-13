@@ -29,4 +29,6 @@ IV. Celebrar todo tipo de actos jurídicos para el cumplimiento de su objeto sie
 
 V. Participar por sí o asociadas con personas físicas o morales en la constitución, administración, sostenimiento y funcionamiento de instituciones de asistencia privada, planteles educativos e instituciones de salud, siempre que no persigan fines de lucro y sujetándose además de a la presente, a las leyes que regulan esas materias;
 
-VI. Usar en forma exclusiva, para fines religiosos, bienes propiedad de la nación, en los términos que dicte el reglamento respectivo; y, VII. Disfrutar de los demás derechos que les confieren ésta y las demás leyes.
+VI. Usar en forma exclusiva, para fines religiosos, bienes propiedad de la nación, en los términos que dicte el reglamento respectivo; y,
+
+VII. Disfrutar de los demás derechos que les confieren ésta y las demás leyes.

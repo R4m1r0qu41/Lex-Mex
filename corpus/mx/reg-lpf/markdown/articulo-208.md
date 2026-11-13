@@ -17,7 +17,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 # Artículo 208
 
-Los principios que rigen las técnicas especiales de investigación son: I. Principio de legalidad, según el cual la investigación preventiva se desarrollará en los términos y condiciones que establezcan las disposiciones legales aplicables;
+Los principios que rigen las técnicas especiales de investigación son:
+
+I. Principio de legalidad, según el cual la investigación preventiva se desarrollará en los términos y condiciones que establezcan las disposiciones legales aplicables;
 
 II. Principio de necesidad, que ordena la práctica de la técnica especial cuando exista la probabilidad de que, utilizando en sistema ordinario de investigación no se logrará la obtención de la información buscada;
 

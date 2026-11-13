@@ -7,8 +7,8 @@ provision_type: article
 number: "114"
 aliases: ["LGV — Artículo 114"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -23,7 +23,7 @@ I. Garantizar el ejercicio pleno de los derechos de las víctimas;
 
 II. Formular y conducir la política nacional integral para reconocer y garantizar los derechos de las víctimas;
 
-III. Garantizar en el ámbito de su competencia, el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables;
+III. Garantizar en el ámbito de su competencia, el cabal cumplimiento de la presente [Ley](articulo-6.md) y de los instrumentos internacionales aplicables;
 
 IV. Elaborar, coordinar y aplicar el [Programa](articulo-6.md) a que se refiere la Ley, auxiliándose de las demás autoridades encargadas de implementar el presente ordenamiento legal;
 

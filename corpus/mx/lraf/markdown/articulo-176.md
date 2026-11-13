@@ -25,4 +25,6 @@ II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los 
 
 III. Se hubiere efectuado mediante oficio entregado por mensajería o por correo certificado, con acuse de recibo;
 
-IV. Se hubiere efectuado la última publicación a que se refiere el artículo [172](articulo-172.md), y V. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.
+IV. Se hubiere efectuado la última publicación a que se refiere el artículo [172](articulo-172.md), y
+
+V. Se hubiere efectuado por correo ordinario, telegrama, fax, medio electrónico o mensajería.

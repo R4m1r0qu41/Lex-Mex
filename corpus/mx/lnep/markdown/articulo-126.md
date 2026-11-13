@@ -25,7 +25,9 @@ II. El Juez de Ejecución verificará que las partes conocen de sus derechos con
 
 III. El Juez de Ejecución concederá el uso de la palabra al promovente y con posterioridad a las demás partes;
 
-IV. Las partes discutirán sobre la admisión de los medios de prueba y podrán apelar el desechamiento; V. El Juez de Ejecución admitirá los medios de prueba y se procederá a su desahogo conforme a las reglas del Código;
+IV. Las partes discutirán sobre la admisión de los medios de prueba y podrán apelar el desechamiento;
+
+V. El Juez de Ejecución admitirá los medios de prueba y se procederá a su desahogo conforme a las reglas del Código;
 
 VI. Las partes formularán los alegatos finales y de ser procedente, el Juez de Ejecución observará el derecho de réplica y dúplica cuando el debate así lo requiera;
 

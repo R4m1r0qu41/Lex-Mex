@@ -7,8 +7,8 @@ provision_type: article
 number: "83 Bis"
 aliases: ["LFPED — Artículo 83 Bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf
 source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 ---
@@ -17,7 +17,9 @@ source_sha256: f12e559ab950b52583c04f0ebddcf312054e07300f56b2c546028580e154a8d9
 
 # Artículo 83 Bis
 
-El [Consejo](articulo-1.md) podrá imponer las siguientes medidas de reparación: I. Restitución del derecho conculcado por el acto, omisión o práctica social discriminatoria;
+El [Consejo](articulo-1.md) podrá imponer las siguientes medidas de reparación:
+
+I. Restitución del derecho conculcado por el acto, omisión o práctica social discriminatoria;
 
 II. Compensación por el daño ocasionado;
 

@@ -51,7 +51,7 @@
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "III Bis",
     "start_char": 732,
-    "end_char": 967,
+    "end_char": 968,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "IV",
-    "start_char": 967,
-    "end_char": 1143,
+    "start_char": 968,
+    "end_char": 1144,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "V",
-    "start_char": 1143,
-    "end_char": 1253,
+    "start_char": 1144,
+    "end_char": 1254,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "V Bis",
-    "start_char": 1253,
-    "end_char": 1403,
+    "start_char": 1254,
+    "end_char": 1404,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "VI",
-    "start_char": 1403,
-    "end_char": 1478,
+    "start_char": 1404,
+    "end_char": 1479,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "VII",
-    "start_char": 1478,
-    "end_char": 1784,
+    "start_char": 1479,
+    "end_char": 1785,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "VIII",
-    "start_char": 1784,
-    "end_char": 1853,
+    "start_char": 1785,
+    "end_char": 1854,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "IX",
-    "start_char": 1853,
-    "end_char": 2097,
+    "start_char": 1854,
+    "end_char": 2098,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "X",
-    "start_char": 2097,
-    "end_char": 2212,
+    "start_char": 2098,
+    "end_char": 2213,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XI",
-    "start_char": 2212,
-    "end_char": 2707,
+    "start_char": 2213,
+    "end_char": 2708,
     "basis": "express_definition"
   },
   {
@@ -160,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XII",
-    "start_char": 2707,
-    "end_char": 2929,
+    "start_char": 2708,
+    "end_char": 2930,
     "basis": "express_definition"
   },
   {
@@ -171,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XIII",
-    "start_char": 2929,
-    "end_char": 3097,
+    "start_char": 2930,
+    "end_char": 3098,
     "basis": "express_definition"
   },
   {
@@ -182,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XIV",
-    "start_char": 3097,
-    "end_char": 3430,
+    "start_char": 3098,
+    "end_char": 3431,
     "basis": "express_definition"
   },
   {
@@ -193,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XV",
-    "start_char": 3430,
-    "end_char": 3530,
+    "start_char": 3431,
+    "end_char": 3531,
     "basis": "express_definition"
   },
   {
@@ -204,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XVI",
-    "start_char": 3530,
-    "end_char": 4132,
+    "start_char": 3531,
+    "end_char": 4133,
     "basis": "express_definition"
   },
   {
@@ -215,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XVII",
-    "start_char": 4132,
-    "end_char": 4355,
+    "start_char": 4133,
+    "end_char": 4356,
     "basis": "express_definition"
   },
   {
@@ -226,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XVIII",
-    "start_char": 4355,
-    "end_char": 4939,
+    "start_char": 4356,
+    "end_char": 4940,
     "basis": "express_definition"
   },
   {
@@ -237,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XIX",
-    "start_char": 4939,
-    "end_char": 5322,
+    "start_char": 4940,
+    "end_char": 5323,
     "basis": "express_definition"
   },
   {
@@ -248,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XX",
-    "start_char": 5322,
-    "end_char": 5394,
+    "start_char": 5323,
+    "end_char": 5395,
     "basis": "express_definition"
   },
   {
@@ -259,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXI",
-    "start_char": 5394,
-    "end_char": 5620,
+    "start_char": 5395,
+    "end_char": 5621,
     "basis": "express_definition"
   },
   {
@@ -270,8 +270,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXII",
-    "start_char": 5620,
-    "end_char": 6050,
+    "start_char": 5621,
+    "end_char": 6051,
     "basis": "express_definition"
   },
   {
@@ -281,8 +281,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXIII",
-    "start_char": 6050,
-    "end_char": 6164,
+    "start_char": 6051,
+    "end_char": 6165,
     "basis": "express_definition"
   },
   {
@@ -292,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXIV",
-    "start_char": 6164,
-    "end_char": 6406,
+    "start_char": 6165,
+    "end_char": 6407,
     "basis": "express_definition"
   },
   {
@@ -303,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXV",
-    "start_char": 6406,
-    "end_char": 6463,
+    "start_char": 6407,
+    "end_char": 6464,
     "basis": "express_definition"
   },
   {
@@ -314,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXVI",
-    "start_char": 6463,
-    "end_char": 6677,
+    "start_char": 6464,
+    "end_char": 6678,
     "basis": "express_definition"
   },
   {
@@ -325,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXVII",
-    "start_char": 6677,
-    "end_char": 7054,
+    "start_char": 6678,
+    "end_char": 7056,
     "basis": "express_definition"
   },
   {
@@ -336,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXVIII",
-    "start_char": 7054,
-    "end_char": 7795,
+    "start_char": 7056,
+    "end_char": 7797,
     "basis": "express_definition"
   },
   {
@@ -347,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXIX",
-    "start_char": 7795,
-    "end_char": 8001,
+    "start_char": 7797,
+    "end_char": 8003,
     "basis": "express_definition"
   },
   {
@@ -358,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXX",
-    "start_char": 8001,
-    "end_char": 8153,
+    "start_char": 8003,
+    "end_char": 8155,
     "basis": "express_definition"
   },
   {
@@ -369,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXXI",
-    "start_char": 8153,
-    "end_char": 8233,
+    "start_char": 8155,
+    "end_char": 8235,
     "basis": "express_definition"
   },
   {
@@ -380,8 +380,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXXII",
-    "start_char": 8233,
-    "end_char": 8410,
+    "start_char": 8235,
+    "end_char": 8412,
     "basis": "express_definition"
   },
   {
@@ -391,8 +391,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXXIII",
-    "start_char": 8410,
-    "end_char": 8642,
+    "start_char": 8412,
+    "end_char": 8644,
     "basis": "express_definition"
   },
   {
@@ -402,8 +402,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXXIV",
-    "start_char": 8642,
-    "end_char": 8871,
+    "start_char": 8644,
+    "end_char": 8873,
     "basis": "express_definition"
   },
   {
@@ -413,8 +413,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXXV",
-    "start_char": 8871,
-    "end_char": 8989,
+    "start_char": 8873,
+    "end_char": 8991,
     "basis": "express_definition"
   },
   {
@@ -424,8 +424,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXXVI",
-    "start_char": 8989,
-    "end_char": 9187,
+    "start_char": 8991,
+    "end_char": 9189,
     "basis": "express_definition"
   },
   {
@@ -435,8 +435,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXXVII",
-    "start_char": 9187,
-    "end_char": 9387,
+    "start_char": 9189,
+    "end_char": 9389,
     "basis": "express_definition"
   },
   {
@@ -446,8 +446,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXXVIII",
-    "start_char": 9387,
-    "end_char": 9626,
+    "start_char": 9389,
+    "end_char": 9628,
     "basis": "express_definition"
   },
   {
@@ -457,8 +457,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XXXIX",
-    "start_char": 9626,
-    "end_char": 9890,
+    "start_char": 9628,
+    "end_char": 9892,
     "basis": "express_definition"
   },
   {
@@ -468,8 +468,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XL",
-    "start_char": 9890,
-    "end_char": 10383,
+    "start_char": 9892,
+    "end_char": 10385,
     "basis": "express_definition"
   },
   {
@@ -479,8 +479,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XLI",
-    "start_char": 10383,
-    "end_char": 10502,
+    "start_char": 10385,
+    "end_char": 10504,
     "basis": "express_definition"
   },
   {
@@ -490,8 +490,8 @@
     "instrument_id": "urn:lex-mx:federal:statute:lac",
     "defining_provision_id": "urn:lex-mx:federal:statute:lac:article:2",
     "fraction": "XLII",
-    "start_char": 10502,
-    "end_char": 11411,
+    "start_char": 10504,
+    "end_char": 11413,
     "basis": "express_definition"
   }
 ]

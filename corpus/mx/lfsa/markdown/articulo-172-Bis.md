@@ -63,7 +63,9 @@ XXI. Nitrovin (Nitrovina)
 
 XXII. Olaquindox (MQCA)
 
-XXIII. Orciprenaline XXIV. Oxazolidona
+XXIII. Orciprenaline
+
+XXIV. Oxazolidona
 
 XXV. Pigmentantes sintéticos del grupo de los sudanes
 

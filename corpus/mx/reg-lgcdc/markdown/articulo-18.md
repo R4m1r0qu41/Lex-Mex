@@ -23,7 +23,9 @@ I. Artes escénicas;
 
 II. Artes visuales;
 
-III. Cine; IV. Danza;
+III. Cine;
+
+IV. Danza;
 
 V. Literatura, y
 

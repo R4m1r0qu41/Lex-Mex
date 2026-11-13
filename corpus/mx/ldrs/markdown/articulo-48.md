@@ -27,7 +27,9 @@ III. Un representante del Consejo de Certificación y Normalización de Competen
 
 IV. Un representante del [Consejo Mexicano](articulo-3o.md) y otro de los [Consejos Estatales](articulo-3o.md);
 
-V. Representantes de las organizaciones de campesinos y productores de los sectores social y privado, con representación nacional; VI. Los presidentes de los comités de normalización de competencia laboral del sector agropecuario, de desarrollo rural sustentable, pesca y alimentación;
+V. Representantes de las organizaciones de campesinos y productores de los sectores social y privado, con representación nacional;
+
+VI. Los presidentes de los comités de normalización de competencia laboral del sector agropecuario, de desarrollo rural sustentable, pesca y alimentación;
 
 VII. Representantes de las instituciones educativas y de desarrollo tecnológico agropecuario, agroindustrial y forestal;
 

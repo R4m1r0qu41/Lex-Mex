@@ -27,6 +27,8 @@ III. Vigilancia a través de patrullajes;
 
 IV. Chalecos antibalas, detector de metales, autos blindados y otros medios físicos de protección;
 
-V. Resguardo del [Beneficiario](articulo-3.md) y, en su caso, los medios necesarios para su subsistencia durante la implementación de la medida; VI. Servicios relacionados con cuestiones de logística y operación, y
+V. Resguardo del [Beneficiario](articulo-3.md) y, en su caso, los medios necesarios para su subsistencia durante la implementación de la medida;
+
+VI. Servicios relacionados con cuestiones de logística y operación, y
 
 VII. Las demás que sean necesarias para evitar cualquier tipo de afectación a la integridad del Beneficiario.

@@ -17,7 +17,9 @@ source_sha256: 98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d
 
 # Artículo 29 Bis
 
-Cuando la Comisión Nacional Bancaria y de Valores tenga conocimiento de que una institución de banca múltiple ha incurrido en alguno de los supuestos previstos en el artículo [28](articulo-28.md) de esta Ley, con excepción de los establecidos en las fracciones II y III de dicho artículo, le notificará dicha situación para que manifieste por escrito lo que a su derecho convenga dentro de los plazos siguientes: I. Quince días respecto de instituciones que hayan incurrido en las causales de revocación previstas en el artículo [28](articulo-28.md), fracciones I y VII de la presente Ley;
+Cuando la Comisión Nacional Bancaria y de Valores tenga conocimiento de que una institución de banca múltiple ha incurrido en alguno de los supuestos previstos en el artículo [28](articulo-28.md) de esta Ley, con excepción de los establecidos en las fracciones II y III de dicho artículo, le notificará dicha situación para que manifieste por escrito lo que a su derecho convenga dentro de los plazos siguientes:
+
+I. Quince días respecto de instituciones que hayan incurrido en las causales de revocación previstas en el artículo [28](articulo-28.md), fracciones I y VII de la presente Ley;
 
 II. Siete días tratándose de instituciones que hayan incurrido en las causales de revocación previstas en el artículo [28](articulo-28.md), fracciones IV y V de esta Ley. Las instituciones que se encuentren en el supuesto de la fracción V antes mencionada podrán, dentro de ese mismo plazo, formular la solicitud a que se refiere el artículo [29 Bis 2](articulo-29-Bis-2.md) de esta Ley, y
 

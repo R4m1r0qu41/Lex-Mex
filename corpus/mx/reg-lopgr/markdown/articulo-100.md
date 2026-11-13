@@ -23,7 +23,9 @@ I. Proponer los procedimientos de selección y formación de los aspirantes a mi
 
 II. Llevar a cabo acciones para la formación y capacitación inicial de los candidatos a agentes de la [Policía](articulo-2.md), peritos y oficiales ministeriales; así como actualizar, especializar y adiestrar a los agentes de la Policía, peritos y oficiales ministeriales para lograr su profesionalización;
 
-III. Proponer a la Dirección General de Formación Profesional un sistema de profesionalización del personal policial y pericial del Servicio de Carrera; IV. Capacitar, actualizar y especializar a los servidores públicos distintos a los señalados en la fracción II de este artículo, que designe el [Procurador](articulo-2.md) y que no queden comprendidos en programas de otros institutos u órganos conforme a las políticas y necesidades operativas de la Procuraduría;
+III. Proponer a la Dirección General de Formación Profesional un sistema de profesionalización del personal policial y pericial del Servicio de Carrera;
+
+IV. Capacitar, actualizar y especializar a los servidores públicos distintos a los señalados en la fracción II de este artículo, que designe el [Procurador](articulo-2.md) y que no queden comprendidos en programas de otros institutos u órganos conforme a las políticas y necesidades operativas de la Procuraduría;
 
 V. Elaborar, en coordinación con las unidades administrativas y órganos desconcentrados competentes, los planes y programas académicos del Instituto, con base en los lineamientos que para tal efecto se establezcan en el Sistema de Profesionalización, de conformidad con las disposiciones aplicables;
 

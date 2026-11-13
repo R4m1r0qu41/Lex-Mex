@@ -31,4 +31,6 @@ V. Constancia original vigente de capacitación básica en materia de seguridad,
 
 VI. Constancia original vigente del curso de capacitación, en el que se acredite su preparación para el cargo que solicita, expedida por el FIDENA;
 
-VII. Constancia original vigente de participación en el curso acorde a la especialidad, expedida por el FIDENA. Sólo se requiere en caso de navegar en buques especializados, y VIII. Dos fotografías a color, de frente de 3 x 2.5 centímetros tamaño infantil, con el uniforme que se menciona en el Manual de Uniformes que expida la [Dirección General](articulo-10.md).
+VII. Constancia original vigente de participación en el curso acorde a la especialidad, expedida por el FIDENA. Sólo se requiere en caso de navegar en buques especializados, y
+
+VIII. Dos fotografías a color, de frente de 3 x 2.5 centímetros tamaño infantil, con el uniforme que se menciona en el Manual de Uniformes que expida la [Dirección General](articulo-10.md).

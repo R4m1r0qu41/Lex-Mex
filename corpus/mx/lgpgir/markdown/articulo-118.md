@@ -23,7 +23,9 @@ I. Lo solicite expresamente el recurrente;
 
 II. Sea procedente el recurso;
 
-III. No se siga perjuicio al interés social o se contravengan disposiciones de orden público; IV. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable, y
+III. No se siga perjuicio al interés social o se contravengan disposiciones de orden público;
+
+IV. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable, y
 
 V. Tratándose de multas, el recurrente garantice el crédito fiscal en cualquiera de las formas previstas en el Código Fiscal de la Federación.
 

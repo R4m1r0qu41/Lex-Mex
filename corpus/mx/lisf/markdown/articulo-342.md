@@ -21,7 +21,9 @@ La actividad de las [Sociedades Mutualistas](articulo-2.md), estará sujeta a lo
 
 I. Las operaciones de seguros para las que tengan autorización, las practicarán en los términos de las disposiciones de esta Ley y las demás relativas;
 
-II. Las Sociedades Mutualistas constituirán las reservas técnicas previstas en esta Ley, de conformidad con lo señalado en las Secciones I y III, del Capítulo Tercero, Título Quinto de este ordenamiento; III. Los recursos que respalden las reservas técnicas, así como los demás que con motivo de sus operaciones mantengan, deberán invertirse conforme a lo dispuesto por el artículo [355](articulo-355.md) de esta Ley;
+II. Las Sociedades Mutualistas constituirán las reservas técnicas previstas en esta Ley, de conformidad con lo señalado en las Secciones I y III, del Capítulo Tercero, Título Quinto de este ordenamiento;
+
+III. Los recursos que respalden las reservas técnicas, así como los demás que con motivo de sus operaciones mantengan, deberán invertirse conforme a lo dispuesto por el artículo [355](articulo-355.md) de esta Ley;
 
 IV. Las reservas a que se refiere la fracción IV del artículo [341](articulo-341.md) de esta Ley, deberán invertirse en el país y de acuerdo a lo dispuesto por el artículo [355](articulo-355.md) de este ordenamiento;
 

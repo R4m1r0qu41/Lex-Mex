@@ -17,4 +17,4 @@ source_sha256: 40a949085c5ebbc522c1145f4a48fd04c4d1dc0c18592fd3a665b8d0dabeef87
 
 # Artículo 41
 
-La Unidad del [Sistema](articulo-7.md) regulará el proceso de promoción que será público, transparente, equitativo e imparcial; para ello, emitirá los lineamientos a los que se sujetarán las autoridades educativas de las entidades federativas en el proceso de selección para la promoción a funciones de dirección y de supervisión de la educación básica.
+La [Unidad del Sistema](articulo-7.md) regulará el proceso de promoción que será público, transparente, equitativo e imparcial; para ello, emitirá los lineamientos a los que se sujetarán las autoridades educativas de las entidades federativas en el proceso de selección para la promoción a funciones de dirección y de supervisión de la educación básica.

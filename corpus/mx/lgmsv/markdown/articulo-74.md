@@ -19,7 +19,9 @@ source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03
 
 Mecanismos de coordinación y colaboración. Las atribuciones en materia de movilidad y seguridad vial serán ejercidas de manera concurrente por la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos y esta [Ley](articulo-3.md), así como a través de los mecanismos de coordinación y colaboración que se generen, respetando de manera irrestricta la institucionalidad de cada orden de gobierno.
 
-Para tal efecto, las autoridades en materia de movilidad y seguridad vial, en sus respectivos ámbitos de competencia, serán las siguientes: I. La [Secretaría](articulo-3.md) de Desarrollo Agrario, Territorial y Urbano;
+Para tal efecto, las autoridades en materia de movilidad y seguridad vial, en sus respectivos ámbitos de competencia, serán las siguientes:
+
+I. La [Secretaría](articulo-3.md) de Desarrollo Agrario, Territorial y Urbano;
 
 II. La Secretaría de Infraestructura, Comunicaciones y [Transportes](articulo-3.md);
 

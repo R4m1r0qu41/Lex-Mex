@@ -19,7 +19,9 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 El Fiscal de Procesos en Juzgados Civiles, ejercerá por sí o a través de los servidores públicos que le estén adscritos, en el ámbito de su competencia, de conformidad con lo establecido en el presente Reglamento, en los acuerdos que para tal efecto emita el Procurador o en otras disposiciones jurídicas aplicables, las atribuciones siguientes:
 
-I. Supervisar la integración de las averiguaciones previas que se inicien por denuncias presentadas con motivo de juicios civiles; II. Intervenir en su carácter de representante social ante los juzgados y salas del ramo civil para la protección de los intereses individuales y sociales en general, en los términos que establezcan las leyes;
+I. Supervisar la integración de las averiguaciones previas que se inicien por denuncias presentadas con motivo de juicios civiles;
+
+II. Intervenir en su carácter de representante social ante los juzgados y salas del ramo civil para la protección de los intereses individuales y sociales en general, en los términos que establezcan las leyes;
 
 III. Expedir los lineamientos para la actuación del Ministerio Público en materia de justicia de paz civil;
 

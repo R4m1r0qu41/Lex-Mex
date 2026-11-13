@@ -41,7 +41,9 @@ X. Integrar grupos de trabajo con los diversos mandos para tratar los asuntos re
 
 XI. Proponer estrategias y políticas para garantizar la adecuada atención a las situaciones coyunturales en materia de seguridad pública en las que tenga que intervenir el personal operativo de las unidades de Reacción y Alerta Inmediata;
 
-XII. Evaluar las novedades diarias relacionadas al personal, material y servicios que se desarrollan en las unidades bajo su mando, debiendo así mismo rendir el informe correspondiente a su superior jerárquico; XIII. Cumplir los procedimientos operativos correspondientes, para que los [Integrantes](articulo-2.md) participen en operativos o acciones implementadas a restablecer la paz y el orden públicos;
+XII. Evaluar las novedades diarias relacionadas al personal, material y servicios que se desarrollan en las unidades bajo su mando, debiendo así mismo rendir el informe correspondiente a su superior jerárquico;
+
+XIII. Cumplir los procedimientos operativos correspondientes, para que los [Integrantes](articulo-2.md) participen en operativos o acciones implementadas a restablecer la paz y el orden públicos;
 
 XIV. Preservar y custodiar en apoyo de las unidades correspondientes, el lugar de los hechos, de conformidad con los protocolos y procedimientos sistemáticos operativos respectivos, y
 

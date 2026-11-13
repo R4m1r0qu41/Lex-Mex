@@ -31,7 +31,9 @@ V. Pertenencia a determinado grupo social: La pertenencia del solicitante a un g
 
 VI. Opiniones políticas: La profesión de opiniones o ideas del solicitante, propias o atribuidas, que constituyan, o bien sean interpretadas, como una crítica u oposición a las políticas, costumbres o métodos del agente persecutor;
 
-VII. Violencia generalizada: Enfrentamientos en el país de origen o residencia habitual, cuya naturaleza sea continua, general y sostenida, en los cuales se use la fuerza de manera indiscriminada; VIII. Agresión extranjera: El uso de la fuerza armada por parte de un Estado en contra de la soberanía, integridad territorial o independencia política del país de origen o residencia habitual del solicitante;
+VII. Violencia generalizada: Enfrentamientos en el país de origen o residencia habitual, cuya naturaleza sea continua, general y sostenida, en los cuales se use la fuerza de manera indiscriminada;
+
+VIII. Agresión extranjera: El uso de la fuerza armada por parte de un Estado en contra de la soberanía, integridad territorial o independencia política del país de origen o residencia habitual del solicitante;
 
 IX. Conflictos internos: Los enfrentamientos armados que se desarrollen en el territorio del país de origen o residencia habitual entre sus fuerzas armadas y grupos armados organizados o entre tales grupos;
 

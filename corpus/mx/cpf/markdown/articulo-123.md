@@ -41,7 +41,9 @@ VIII.- Oculte o auxilie a quien cometa actos de espionaje, sabiendo que los real
 
 IX.- Proporcione a un Estado extranjero o a grupos armados dirigidos por extranjeros, los elementos humanos o materiales para invadir el territorio nacional, o facilite su entrada a puestos militares o le entregue o haga entregar unidades de combate o almacenes de boca o guerra o impida que las tropas mexicanas reciban estos auxilios;
 
-X.- Solicite la intervención o el establecimiento de un protectorado de un Estado extranjero o solicite que aquel haga la guerra a México; si no se realiza lo solicitado, la prisión será de cuatro a ocho años y multa hasta de diez mil pesos; XI.- Invite a individuos de otro Estado para que hagan armas contra México o invadan el territorio nacional, sea cual fuere el motivo que se tome; si no se realiza cualquiera de estos hechos, se aplicará la pena de cuatro a ocho años de prisión y multa hasta de diez mil pesos;
+X.- Solicite la intervención o el establecimiento de un protectorado de un Estado extranjero o solicite que aquel haga la guerra a México; si no se realiza lo solicitado, la prisión será de cuatro a ocho años y multa hasta de diez mil pesos;
+
+XI.- Invite a individuos de otro Estado para que hagan armas contra México o invadan el territorio nacional, sea cual fuere el motivo que se tome; si no se realiza cualquiera de estos hechos, se aplicará la pena de cuatro a ocho años de prisión y multa hasta de diez mil pesos;
 
 XII.- Trate de enajenar o gravar el territorio nacional o contribuya a su desmembración;
 

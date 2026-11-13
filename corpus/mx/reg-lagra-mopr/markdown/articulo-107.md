@@ -19,7 +19,9 @@ source_sha256: dd0765466adfcca29aa02472b74211f58322f9c1ba9f72f2fb92431c58c0b162
 
 [La Secretaría](articulo-2o.md) dictaminará si el terreno es o no nacional, o si dentro de la superficie deslindada existen o no terrenos nacionales. El dictamen deberá contener lo siguiente:
 
-I. Identificación del terreno, nombre del predio, municipio y entidad federativa; II. Superficie, medidas, colindancias, clave única catastral del predio de que se trate y número de expediente del terreno deslindado;
+I. Identificación del terreno, nombre del predio, municipio y entidad federativa;
+
+II. Superficie, medidas, colindancias, clave única catastral del predio de que se trate y número de expediente del terreno deslindado;
 
 III. En su caso, nombre de los posesionarios y antigüedad de la posesión;
 

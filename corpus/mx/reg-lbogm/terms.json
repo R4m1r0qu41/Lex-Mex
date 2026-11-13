@@ -84,7 +84,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
     "fraction": "VIII",
     "start_char": 848,
-    "end_char": 916,
+    "end_char": 917,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
     "fraction": "IX",
-    "start_char": 916,
-    "end_char": 1030,
+    "start_char": 917,
+    "end_char": 1031,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lbogm:article:2",
     "fraction": "X",
-    "start_char": 1030,
-    "end_char": 1185,
+    "start_char": 1031,
+    "end_char": 1186,
     "basis": "express_definition"
   }
 ]

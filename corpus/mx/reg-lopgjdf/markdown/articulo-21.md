@@ -19,7 +19,9 @@ source_sha256: 048fb81a010d33935f618f15753a6b0c27e638d1c2e23e498ffb77dcddde4eb1
 
 El Ministerio Público especializado, que conozca de hechos que se relacionen con las conductas tipificadas como delitos por las leyes penales, y la probable responsabilidad, atribuidas a los adolescentes, en términos de las disposiciones que regulen la Justicia para Adolescentes en el Distrito Federal, tendrá las atribuciones siguientes:
 
-I. Recibir la denuncia o la querella, en forma escrita, verbal o por cualquier otro medio electrónico, por conductas tipificadas como delitos, atribuidas a los adolescentes; II. Practicar las diligencias que considere necesarias, para obtener las pruebas que sirvan para acreditar el cuerpo de la conducta tipificada como delito por las leyes penales y la probable responsabilidad de los adolescentes;
+I. Recibir la denuncia o la querella, en forma escrita, verbal o por cualquier otro medio electrónico, por conductas tipificadas como delitos, atribuidas a los adolescentes;
+
+II. Practicar las diligencias que considere necesarias, para obtener las pruebas que sirvan para acreditar el cuerpo de la conducta tipificada como delito por las leyes penales y la probable responsabilidad de los adolescentes;
 
 III. Acreditar la minoría de edad de los adolescentes, mediante el acta de nacimiento, misma que podrá ser solicitada en copia certificada en papel no valorado a la Oficina Central del Registro Civil, cuando se tenga conocimiento de que el adolescente nació o fue registrado en el Distrito Federal;
 

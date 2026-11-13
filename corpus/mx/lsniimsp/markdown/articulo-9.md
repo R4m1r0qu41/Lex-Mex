@@ -21,7 +21,9 @@ Atribuciones Para la realización de lo dispuesto en el artículo [7](articulo-7
 
 I. Emitir acuerdos para definir objetivos delictivos prioritarios y el tratamiento que deba dárseles, en términos de lo previsto en las leyes y códigos aplicables;
 
-II. Acordar la ejecución de operativos, operaciones especiales, acciones y medidas específicas para que las autoridades e instituciones dedicadas a la seguridad pública enfrenten situaciones o hechos concretos que amenacen o afecten la seguridad pública; III. Analizar y aprobar políticas, lineamientos, protocolos y acuerdos para el desarrollo de tareas de inteligencia en materia de seguridad pública, y evaluar su correcta y efectiva implementación para su constante mejoramiento, en congruencia con las decisiones del Consejo Nacional de Seguridad Pública, las acciones del Gabinete Federal de Seguridad y de conformidad con lo previsto en la política criminal, tanto la relativa a la seguridad pública, como la establecida para la procuración de justicia;
+II. Acordar la ejecución de operativos, operaciones especiales, acciones y medidas específicas para que las autoridades e instituciones dedicadas a la seguridad pública enfrenten situaciones o hechos concretos que amenacen o afecten la seguridad pública;
+
+III. Analizar y aprobar políticas, lineamientos, protocolos y acuerdos para el desarrollo de tareas de inteligencia en materia de seguridad pública, y evaluar su correcta y efectiva implementación para su constante mejoramiento, en congruencia con las decisiones del Consejo Nacional de Seguridad Pública, las acciones del Gabinete Federal de Seguridad y de conformidad con lo previsto en la política criminal, tanto la relativa a la seguridad pública, como la establecida para la procuración de justicia;
 
 IV. Emitir acuerdos generales de observancia obligatoria para todas las autoridades del Estado mexicano, en cuanto a la generación, el uso, manejo y aprovechamiento de información en materia de inteligencia para preservar la paz social y la seguridad pública;
 

@@ -25,7 +25,9 @@ II. La elaboración, fabricación o preparación de medicamentos, plaguicidas, n
 
 III. La aplicación de plaguicidas;
 
-IV. La utilización de fuentes de radiación para fines médicos o de diagnóstico, y V. Los establecimientos en que se practiquen actos quirúrgicos u obstétricos y los que presten servicios de hemodiálisis. Fracción reformada DOF 21-06-2018
+IV. La utilización de fuentes de radiación para fines médicos o de diagnóstico, y
+
+V. Los establecimientos en que se practiquen actos quirúrgicos u obstétricos y los que presten servicios de hemodiálisis. Fracción reformada DOF 21-06-2018
 
 VI. Centros de mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas. Fracción adicionada DOF 18-12-2007
 

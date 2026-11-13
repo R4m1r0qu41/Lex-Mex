@@ -23,7 +23,9 @@ I. Establecer y difundir las normas, criterios y procedimientos que rigen la adm
 
 II. Planear y organizar la adquisición, control y suministro de los recursos materiales, servicios generales y obra pública requeridos por las unidades administrativas de la Procuraduría;
 
-III. Establecer en coordinación con el Subcomité de Adquisiciones, Arrendamientos y Prestación de Servicios y el Subcomité de Obras, las bases, políticas y lineamientos en materia de arrendamiento, contratación de servicios, adquisición de bienes y obra pública; IV. Coordinar y proporcionar el mantenimiento preventivo y correctivo de los bienes muebles, inmuebles, vehículos y equipo propiedad de la Procuraduría;
+III. Establecer en coordinación con el Subcomité de Adquisiciones, Arrendamientos y Prestación de Servicios y el Subcomité de Obras, las bases, políticas y lineamientos en materia de arrendamiento, contratación de servicios, adquisición de bienes y obra pública;
+
+IV. Coordinar y proporcionar el mantenimiento preventivo y correctivo de los bienes muebles, inmuebles, vehículos y equipo propiedad de la Procuraduría;
 
 V. Planear y programar en coordinación con las unidades administrativas, la realización de los inventarios físicos de los activos fijos de la Procuraduría, así como llevar el registro y control documental de éste;
 
@@ -51,7 +53,9 @@ XVI. Establecer los lineamientos normativos que permitan proporcionar los servic
 
 XVII. Tramitar el pago de las facturas de adquisición de bienes, contratación de servicios y obra pública;
 
-XVIII. Gestionar ante las instancias pertinentes la destrucción de expedientes y documentación caduca que se encuentra en el Archivo de Concentración e Histórico, conforme a las disposiciones jurídicas y lineamientos establecidos en la materia; XIX. Realizar los procedimientos de adquisiciones, obras y servicios, conforme lo que señale la Ley de Adquisiciones para el Distrito Federal y la Ley de Obras Públicas del Distrito Federal;
+XVIII. Gestionar ante las instancias pertinentes la destrucción de expedientes y documentación caduca que se encuentra en el Archivo de Concentración e Histórico, conforme a las disposiciones jurídicas y lineamientos establecidos en la materia;
+
+XIX. Realizar los procedimientos de adquisiciones, obras y servicios, conforme lo que señale la Ley de Adquisiciones para el Distrito Federal y la Ley de Obras Públicas del Distrito Federal;
 
 XX. Establecer los lineamientos generales para el registro, control, custodia, entrega o enajenación de los bienes muebles e inmuebles propiedad de la Institución;
 

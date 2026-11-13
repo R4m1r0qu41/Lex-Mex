@@ -7,8 +7,8 @@ provision_type: article
 number: "4"
 aliases: ["LCID — Artículo 4"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf
 source_sha256: 1a64991c466c40c7ed0f3d7bffa1b5d5b87dc9df8aa59a97b525a99f98b381a6
 ---
@@ -37,7 +37,9 @@ VIII. Consejos Técnicos: Los Consejos Técnicos para la atención de temas espe
 
 IX. Demanda de Cooperación: Las acciones de cooperación internacional que México requiera para fortalecer sus capacidades educativas, científicas, técnicas y tecnológicas para su proceso de desarrollo.
 
-X. Director Ejecutivo: El Director Ejecutivo de la AMEXCID. XI. Oferta de Cooperación: Las acciones de cooperación internacional que las instituciones mexicanas pueden realizar en apoyo de terceros países, en las modalidades de cooperación vertical, horizontal y triangular.
+X. Director Ejecutivo: El Director Ejecutivo de la AMEXCID.
+
+XI. Oferta de Cooperación: Las acciones de cooperación internacional que las instituciones mexicanas pueden realizar en apoyo de terceros países, en las modalidades de cooperación vertical, horizontal y triangular.
 
 XII. Programa: Programa de [Cooperación Internacional](articulo-4.md) para el Desarrollo.
 

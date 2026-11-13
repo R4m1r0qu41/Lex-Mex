@@ -27,7 +27,9 @@ III. Un representante del SNICS quien fungirá como Secretario Técnico;
 
 IV. En representación de las instituciones públicas de investigación, técnicas, científicas, de enseñanza y de transferencia de tecnología, un máximo de tres miembros;
 
-V. En representación de las asociaciones de agricultores, productores, obtentores y comercializadores de semillas un máximo de tres miembros, y VI. Un representante de cada Comité Sistema Producto de los cultivos importantes de la región de la entidad federativa con un máximo de cinco miembros.
+V. En representación de las asociaciones de agricultores, productores, obtentores y comercializadores de semillas un máximo de tres miembros, y
+
+VI. Un representante de cada Comité Sistema Producto de los cultivos importantes de la región de la entidad federativa con un máximo de cinco miembros.
 
 Los representantes de los agricultores, productores y comercializadores de semillas serán designados a propuesta de las propias organizaciones.
 

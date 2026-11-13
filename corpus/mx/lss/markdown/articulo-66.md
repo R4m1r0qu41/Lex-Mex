@@ -17,7 +17,9 @@ source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
 
 # Artículo 66
 
-El total de las pensiones atribuidas a las personas señaladas en los artículos anteriores, en caso de fallecimiento de la o el asegurado, no excederá de la que correspondería a éste sí hubiese sufrido incapacidad permanente total. En caso de exceso, se reducirán proporcionalmente cada una de las pensiones. Párrafo reformado DOF 20-01-2023 Cuando se extinga el derecho de alguno de los pensionados se hará nueva distribución de las pensiones que queden vigentes, entre los restantes, sin que se rebasen las cuotas parciales ni el monto total de dichas pensiones.
+El total de las pensiones atribuidas a las personas señaladas en los artículos anteriores, en caso de fallecimiento de la o el asegurado, no excederá de la que correspondería a éste sí hubiese sufrido incapacidad permanente total. En caso de exceso, se reducirán proporcionalmente cada una de las pensiones. Párrafo reformado DOF 20-01-2023
+
+Cuando se extinga el derecho de alguno de los pensionados se hará nueva distribución de las pensiones que queden vigentes, entre los restantes, sin que se rebasen las cuotas parciales ni el monto total de dichas pensiones.
 
 A falta de viuda o viudo, huérfanos, concubina o concubinario con derecho a pensión, o de quien haya suscrito una unión civil, a cada uno de los ascendientes que dependían económicamente del trabajador fallecido, se le pensionará con una cantidad igual al veinte por ciento de la pensión que hubiese correspondido al asegurado, en el caso de incapacidad permanente total. Párrafo reformado DOF 20-01-2023
 

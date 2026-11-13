@@ -23,7 +23,9 @@ I.- Carroceros: Las personas físicas o morales dedicadas al ensamble o modifica
 
 II.- Comercializadoras: Las personas físicas o morales dedicadas a la compra, venta o importación de vehículos nuevos o usados;
 
-III.- Consejo Nacional de Seguridad Pública: La instancia superior de coordinación del Sistema Nacional de Seguridad Pública; IV.- Distribuidoras: Las personas físicas o morales que se dediquen a la venta de primera mano de vehículos que provengan de las ensambladoras; así como quienes importen vehículos nuevos para su venta en territorio nacional;
+III.- Consejo Nacional de Seguridad Pública: La instancia superior de coordinación del Sistema Nacional de Seguridad Pública;
+
+IV.- Distribuidoras: Las personas físicas o morales que se dediquen a la venta de primera mano de vehículos que provengan de las ensambladoras; así como quienes importen vehículos nuevos para su venta en territorio nacional;
 
 V.- Ensambladoras: Las personas físicas o morales que se dediquen a la fabricación, ensamblaje o importación para comercializar vehículos nuevos;
 

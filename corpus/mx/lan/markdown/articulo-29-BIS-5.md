@@ -29,7 +29,9 @@ IV. Cuando la persona solicitante no cumpla con los requisitos que exige la Ley;
 
 V. Derogada Fracción derogada DOF 11-12-2025
 
-VI. Cuando se afecten aguas sujetas a convenios internacionales, cuando las solicitudes no se adecuen a dichos convenios, a lo establecido en la presente Ley y demás ordenamientos legales aplicables; VII. Cuando la Federación decida emprender una explotación directa de los volúmenes solicitados;
+VI. Cuando se afecten aguas sujetas a convenios internacionales, cuando las solicitudes no se adecuen a dichos convenios, a lo establecido en la presente Ley y demás ordenamientos legales aplicables;
+
+VII. Cuando la Federación decida emprender una explotación directa de los volúmenes solicitados;
 
 VIII. Cuando se afecten recursos hídricos programados para la creación o sustento de reservas nacionales, y
 

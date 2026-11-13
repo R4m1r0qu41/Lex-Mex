@@ -33,7 +33,9 @@ VI. Efectuar operaciones con instrumentos financieros derivados, por cuenta prop
 
 VII. Promover o comercializar valores. Tratándose de valores objeto de inscripción simplificada, las características de los servicios de promoción o comercialización de los mismos serán realizadas, de conformidad con las disposiciones de carácter general que al efecto emita la Comisión. Fracción reformada DOF 28-12-2023
 
-VIII. Realizar los actos necesarios para obtener el reconocimiento de mercados y listado de valores en el sistema internacional de cotizaciones. IX. Administrar carteras de valores tomando decisiones de inversión a nombre y por cuenta de terceros.
+VIII. Realizar los actos necesarios para obtener el reconocimiento de mercados y listado de valores en el sistema internacional de cotizaciones.
+
+IX. Administrar carteras de valores tomando decisiones de inversión a nombre y por cuenta de terceros.
 
 X. Prestar el servicio de asesoría financiera o de inversión en valores, análisis y emisión de recomendaciones de inversión.
 

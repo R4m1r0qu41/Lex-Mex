@@ -9,6 +9,38 @@
 - **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 
+## 2026-11-12 four-goal upgrade checkpoint (branch `upgrade/four-goal-2026-11-12`, local, unpushed)
+
+Corpus-wide reparse with the page-break fraction rule: of the 353 instruments with retained,
+hash-matching text, 320 adopted (`92e1e1365`, `a2bd4353b`, `09e4a457f`; `laassp` with the P2
+elided-decree-article rule in `24d4fc083`, which also cleaned 13 further instruments), 28
+reparse unchanged, 5 held: `lic`, `lfpccs`, `lfvv` (reviewed guards, JRH), `cue-dcg-2003`,
+`scap-dcg-2012` (operator). A second batch of 112 instruments whose retained text was restored
+(hash-verified) adds 110 more (`b9f4d319f`); held there: `lieps` (parse guard, JRH) and `lftr`
+(accepted closure gap). A full reparse of all 465 instruments with text from `b9f4d319f`
+reproduces the committed corpus for every instrument except those 7 held, and `link --all`
+relinks nothing. `cjm` regains arts. 30 Sextus and 30 Séptimus,
+missing from the earlier corpus. New read-only commands: `verify-fidelity`, `audit-qualifiers`,
+`monitor-sources` (`bec9467a9`). Computed by script from the committed JSON at `b9f4d319f`: 468
+instruments; 64,861 articles / 3,506 transitories / 30 annexes; 36,105 references (sum of
+`validation.json` counts); temporal status `effective` 32,334, `unknown` 30,510, `repealed`
+5,551, `partially_repealed` 2. `verify-fidelity --all`: 66,495 of 66,977 provisions pass, 382
+of 468 instruments fully (input missing: `socap-sofipo-dcg-2006`; retained text not matching
+its manifest hash: `cub-dcg-2005`, `lfiiedb`). Separately, `monitor-sources` finds three
+official files changed at origin (`cpeum`, `cub-dcg-2005`, `socap-sofipo-dcg-2006`); `cpeum` was
+re-ingested on 2026-11-12 (`a461a41c0`, with JRH's 2028 application note on arts. 82, 116, 122);
+the two DCGs wait for the DCG pass. JRH decisions of 2026-11-12 are applied (`7e3416fab`..`f36ac6c11`): the
+qualifier-attribution repair (1,192 wrong qualifiers removed) is merged; `lic`, `lfpccs`, `lfvv`
+are adopted after re-confirmation; `lgmime` is recorded as declared invalid by the SCJN
+(AI 71/2023, effects 23-06-2023), status `repealed` with an invalidity note, provision
+`effective_to` deferred by JRH (not in force is what matters). A 465 reparse then differs
+only in the 4 still held: `lieps`, `cue-dcg-2003`, `scap-dcg-2012`, `lftr`. Codex reviewed the
+branch on 2026-11-12 (`docs/four-goal-upgrade-codex-review-2026-11-12.md`); its two change
+requests (audited re-confirmation, lost qualifier shapes) were addressed on 2026-11-13 and await
+re-review. Decision routing (JRH, `AGENTS.md`): only strict legal questions go to JRH; the open
+one is the LGPP/LGIPE status table. Branch pushed at `ee4f730c3`; later commits local. No deploy. Live state and next actions:
+[four-goal plan](plans/four-goal-system-upgrade.md).
+
 ## 2026-10-16 reverse-linking checkpoint
 
 `link --all` relinked the 467 committed instruments against unique official titles plus the curated alias table. Graphs were rewritten and still validate (27,429 → 35,887 references, 9,763 resolved cross-instrument edges; 5,451 of them are regulation citations of a bare "la Ley" resolved to the parent law, see [parent-law mapping](parent-law-mapping-2026-10-16.md)). 8 are held on their previous graphs ([review list](held-instruments-review-2026-10-16.md)) under the parser/linker repair of 2026-10-16 (see [repair report](parser-linker-repair-2026-10-16.md)): `lgdnna` (operator request; Article 135 Ter cites an Article 157 the retained text lacks; JRH to decide), six whose explicit citation to a missing article of their own text is now kept as an unresolved edge instead of silently dropped (`cub-dcg-2005`, `cucb-dcg-2004`, `lgcs`, `oaac-dcg-2009`, `reg-lagra-mcdets`, `reg-lfce`, `socap-sofipo-dcg-2006` — `lgoaac` was a hyphenated-suffix parser defect and is released; the DCGs are unreviewed), 10 whose new graph pointed (`lbm` was a `tercer`/`Ter` parser defect and is released) at an article the target corpus does not contain (one missing article rejects the whole graph), and `lrsic`, held by a guard that never lets a relink change a persisted historical or approved edge. No provision text or instrument record changed. A review of every retargeted and removed edge fixed three linker defects before landing (constitution self-citations, decree titles, and a head-noun over-match). `Ley de Amnistía` (`lamn`, `lamni`) stays unlinked. Detail: [corpus-wide reverse linking](plans/corpus-wide-reverse-linking.md) and the `corpus-wide-reverse-linking` entry in `docs/ingestion-difficulty-log.md`.

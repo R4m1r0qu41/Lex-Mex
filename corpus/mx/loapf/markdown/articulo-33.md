@@ -43,7 +43,9 @@ X. Promover el ahorro de energía, regular y, en su caso, expedir normas oficial
 
 XI. Regular y promover el desarrollo y uso de fuentes de energía alternas a los combustibles fósiles, así como las fuentes renovables de energía y las energías limpias; Fracción reformada DOF 11-08-2014, 18-03-2025
 
-XII. Regular y en su caso, expedir normas oficiales mexicanas sobre producción, comercialización, compraventa, condiciones de calidad, suministro de energía y demás aspectos que promuevan la modernización, eficiencia y desarrollo del sector, así como controlar y vigilar su debido cumplimiento; XIII. Regular y, en su caso, expedir normas oficiales mexicanas en materia de seguridad nuclear y salvaguardias, incluyendo lo relativo al uso, producción, explotación, aprovechamiento, transportación, enajenación, importación y exportación de materiales radioactivos, así como controlar y vigilar su debido cumplimiento; Fracción reformada DOF 11-08-2014
+XII. Regular y en su caso, expedir normas oficiales mexicanas sobre producción, comercialización, compraventa, condiciones de calidad, suministro de energía y demás aspectos que promuevan la modernización, eficiencia y desarrollo del sector, así como controlar y vigilar su debido cumplimiento;
+
+XIII. Regular y, en su caso, expedir normas oficiales mexicanas en materia de seguridad nuclear y salvaguardias, incluyendo lo relativo al uso, producción, explotación, aprovechamiento, transportación, enajenación, importación y exportación de materiales radioactivos, así como controlar y vigilar su debido cumplimiento; Fracción reformada DOF 11-08-2014
 
 XIV. Llevar los registros de geotermia y de biocombustibles en términos de las leyes aplicables; Fracción reformada DOF 11-08-2014, 18-03-2025
 
@@ -87,7 +89,9 @@ XXXII. Regular, expedir normas oficiales mexicanas y disposiciones administrativ
 
 XXXIII. Otorgar permisos, autorizaciones y llevar a cabo los demás actos necesarios, para el desarrollo de las actividades reguladas en el sector eléctrico y en el sector hidrocarburos; Fracción adicionada DOF 18-03-2025
 
-XXXIV. Realizar el seguimiento de las inversiones que se realicen en el sector energético; Fracción adicionada DOF 18-03-2025 XXXV. Requerir información a las personas físicas o morales con actividades en el sector, así como a los terceros que tengan cualquier relación de negocios con los sujetos regulados, en el ámbito de su competencia; Fracción adicionada DOF 18-03-2025
+XXXIV. Realizar el seguimiento de las inversiones que se realicen en el sector energético; Fracción adicionada DOF 18-03-2025
+
+XXXV. Requerir información a las personas físicas o morales con actividades en el sector, así como a los terceros que tengan cualquier relación de negocios con los sujetos regulados, en el ámbito de su competencia; Fracción adicionada DOF 18-03-2025
 
 XXXVI. Otorgar permisos, autorizaciones y llevar a cabo los demás actos necesarios para el desarrollo de las actividades reguladas en materia de biocombustibles y geotermia, y Fracción adicionada DOF 18-03-2025
 

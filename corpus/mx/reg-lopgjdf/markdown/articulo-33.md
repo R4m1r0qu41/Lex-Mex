@@ -23,7 +23,9 @@ I. Proponer los criterios de organización del Centro de Arraigo;
 
 II. Emitir los lineamientos de operación del Centro de Arraigo, con respeto irrestricto a los derechos humanos;
 
-III. Garantizar durante el ingreso y permanencia de las personas arraigadas, que reciba, en su caso, la atención médica adecuada; IV. Organizar y desarrollar mecanismos permanentes de coordinación con las autoridades Ministeriales solicitantes del arraigo, así como las áreas de la Oficialía Mayor de la Procuraduría, para la ejecución del arraigo;
+III. Garantizar durante el ingreso y permanencia de las personas arraigadas, que reciba, en su caso, la atención médica adecuada;
+
+IV. Organizar y desarrollar mecanismos permanentes de coordinación con las autoridades Ministeriales solicitantes del arraigo, así como las áreas de la Oficialía Mayor de la Procuraduría, para la ejecución del arraigo;
 
 V. Recibir para su custodia y vigilancia a las personas sujetas a la medida cautelar del arraigo, previa entrega del mandamiento judicial que lo autorice, certificado médico y oficio de solicitud del Ministerio Público responsable, en el que deberá constar día de inicio y vencimiento del arraigo;
 

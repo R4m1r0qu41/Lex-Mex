@@ -17,4 +17,6 @@ source_sha256: e090d2278f98a33ce43b69070c3bbbec5e3b7177f0ffdbee8d4c9bf29c36c317
 
 # Artículo 5
 
-Petróleos Mexicanos tiene su régimen especial en materia de: I. Empresas filiales; II. Remuneraciones y austeridad; III. Adquisiciones, arrendamientos, servicios y obra; IV. Bienes; V. Responsabilidades administrativas; VI. Presupuesto y contabilidad; VII. Deuda, y VIII. Sostenibilidad.
+Petróleos Mexicanos tiene su régimen especial en materia de:
+
+I. Empresas filiales; II. Remuneraciones y austeridad; III. Adquisiciones, arrendamientos, servicios y obra; IV. Bienes; V. Responsabilidades administrativas; VI. Presupuesto y contabilidad; VII. Deuda, y VIII. Sostenibilidad.

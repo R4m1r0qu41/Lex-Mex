@@ -21,7 +21,9 @@ La sentencia definitiva podrá:
 
 I. Reconocer la validez de la resolución impugnada.
 
-II. Declarar la nulidad de la resolución impugnada. III. En los casos en que la sentencia implique una modificación a la cuantía de la resolución administrativa impugnada, la Sala Regional Especializada competente deberá precisar, el monto, el alcance y los términos de la misma para su cumplimiento.
+II. Declarar la nulidad de la resolución impugnada.
+
+III. En los casos en que la sentencia implique una modificación a la cuantía de la resolución administrativa impugnada, la Sala Regional Especializada competente deberá precisar, el monto, el alcance y los términos de la misma para su cumplimiento.
 
 Tratándose de sanciones, cuando dicho [Tribunal](articulo-1-A.md) aprecie que la sanción es excesiva porque no se motivó adecuadamente o no se dieron los hechos agravantes de la sanción, deberá reducir el importe de la sanción apreciando libremente las circunstancias que dieron lugar a la misma.
 

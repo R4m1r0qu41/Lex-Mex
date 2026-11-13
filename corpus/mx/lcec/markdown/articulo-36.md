@@ -17,4 +17,4 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 36
 
-La liquidación estará a cargo de al menos un representante de la [Secretaría](articulo-2.md), uno de la [Confederación](articulo-2.md) respectiva y otro de la Cámara de que se trate.
+La liquidación estará a cargo de al menos un representante de la [Secretaría](articulo-2.md), uno de la [Confederación](articulo-2.md) respectiva y otro de la [Cámara](articulo-2.md) de que se trate.

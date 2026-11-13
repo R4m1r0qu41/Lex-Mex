@@ -23,7 +23,9 @@ I. Nombre, nacionalidad, edad, sexo, estado civil del trabajador y domicilio o l
 
 II. Días y horario para la entrega y recepción del trabajo y para el pago de los salarios;
 
-III. Naturaleza, calidad y cantidad del trabajo; IV. Materiales y útiles que en cada ocasión se proporcionen al trabajador, valor de los mismos y forma de pago de los objetos perdidos o deteriorados por culpa del trabajador;
+III. Naturaleza, calidad y cantidad del trabajo;
+
+IV. Materiales y útiles que en cada ocasión se proporcionen al trabajador, valor de los mismos y forma de pago de los objetos perdidos o deteriorados por culpa del trabajador;
 
 V. Forma y monto del salario; y
 

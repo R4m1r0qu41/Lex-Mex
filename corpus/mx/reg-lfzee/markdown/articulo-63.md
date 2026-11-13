@@ -21,7 +21,9 @@ La [Consulta](articulo-4.md) comprenderá las etapas siguientes:
 
 I. Plan de consulta: la [Autoridad Federal](articulo-4.md), la Secretaría de Gobernación y la Comisión Nacional para el Desarrollo de los Pueblos Indígenas planearán la realización de la Consulta y establecerán los mecanismos de coordinación para ejecutarla;
 
-II. Acuerdos previos: las definiciones que la Autoridad Federal, la Secretaría de Gobernación, la Comisión Nacional para el Desarrollo de los Pueblos Indígenas y las autoridades tradicionales o representativas de las comunidades y pueblos indígenas convienen sobre la forma en la que se llevará a cabo la Consulta; III. Informativa: la entrega de información suficiente y culturalmente pertinente a las comunidades y pueblos indígenas sobre la operación de la [Zona](articulo-4.md) que se someterá a Consulta;
+II. Acuerdos previos: las definiciones que la Autoridad Federal, la Secretaría de Gobernación, la Comisión Nacional para el Desarrollo de los Pueblos Indígenas y las autoridades tradicionales o representativas de las comunidades y pueblos indígenas convienen sobre la forma en la que se llevará a cabo la Consulta;
+
+III. Informativa: la entrega de información suficiente y culturalmente pertinente a las comunidades y pueblos indígenas sobre la operación de la [Zona](articulo-4.md) que se someterá a Consulta;
 
 IV. Deliberativa: el periodo de diálogo que ocurre al interior de la comunidad o pueblo indígena para la toma de decisiones sobre el proyecto sometido a Consulta;
 

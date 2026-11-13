@@ -19,7 +19,9 @@ source_sha256: e7b8eb91eb4546fb79066efffae991c1c22316a23d9d21c2727e32434e2e9b01
 
 Corresponde a la Dirección General de Enlace:
 
-I. Ejecutar los programas específicos en materias de acceso a la información y transparencia en las unidades administrativas de la [Institución](articulo-2.md); II. Requerir información a las unidades administrativas, en términos de las disposiciones aplicables;
+I. Ejecutar los programas específicos en materias de acceso a la información y transparencia en las unidades administrativas de la [Institución](articulo-2.md);
+
+II. Requerir información a las unidades administrativas, en términos de las disposiciones aplicables;
 
 III. Verificar que la información que en materia de acceso a la información sea proporcionada por las unidades administrativas de la Institución conforme a las disposiciones aplicables;
 

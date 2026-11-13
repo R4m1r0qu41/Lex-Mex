@@ -31,7 +31,9 @@ V. Determinar los indicadores que permitan evaluar la aplicación del Programa N
 
 VI. Asesorar a los gobiernos locales, municipales o, en su caso, a la Ciudad de México y las alcaldías de sus demarcaciones territoriales que lo soliciten, en la elaboración y ejecución de sus respectivos programas; Fracción reformada DOF 23-06-2017
 
-VII. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley; VIII. Promover y celebrar convenios de concertación con los sectores privado y social, para el impulso, fomento y desarrollo de los fines de la presente Ley;
+VII. Celebrar convenios de coordinación en la materia con los demás órdenes de gobierno, para alcanzar los fines de la presente Ley;
+
+VIII. Promover y celebrar convenios de concertación con los sectores privado y social, para el impulso, fomento y desarrollo de los fines de la presente Ley;
 
 IX. Fomentar, realizar y difundir estudios e investigaciones en la materia;
 

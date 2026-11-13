@@ -19,7 +19,9 @@ source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
 
 El agente naviero consignatario de buques actuará como representante del naviero ante las autoridades federales en el puerto y podrá desempeñar las siguientes funciones:
 
-I.- Recibir y asistir, en el puerto, a la embarcación que le fuere consignada; II.- Llevar a cabo todos los actos de administración que sean necesarios para obtener el despacho de la embarcación;
+I.- Recibir y asistir, en el puerto, a la embarcación que le fuere consignada;
+
+II.- Llevar a cabo todos los actos de administración que sean necesarios para obtener el despacho de la embarcación;
 
 III.- Realizar las gestiones necesarias para dar cumplimiento a las disposiciones, resoluciones o instrucciones que emanen de cualquier autoridad federal, en el ejercicio de sus funciones;
 

@@ -33,7 +33,9 @@ VI. Requerimientos de capitalización aplicables en función de los riesgos de c
 
 VII. Calificación de cartera crediticia y constitución de estimaciones preventivas por riesgo crediticio.
 
-VIII. Coeficientes de liquidez. IX. Diversificación de riesgos en las operaciones.
+VIII. Coeficientes de liquidez.
+
+IX. Diversificación de riesgos en las operaciones.
 
 X. Régimen de inversión de capital.
 

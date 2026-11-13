@@ -61,7 +61,9 @@ Dicho aseguramiento quedará sin efectos si la Agencia Federal de Aviación Civi
 
 Los gastos que genere el aseguramiento de la aeronave correrán a cargo del permisionario extranjero infractor, salvo que la autoridad resuelva que no cometió el cabotaje; Fracción adicionada DOF 26-01-2015. Reformada DOF 18-06-2018, 03-05-2023 (Ed. vesp., páginas 2 a 13), 03-05-2023 (Ed. vesp., páginas 17 a 62)
 
-IX. No reportar las incapacitaciones, durante el vuelo, del personal técnico-aeronáutico a la Agencia Federal de Aviación Civil dentro de las veinticuatro horas siguientes al suceso, con una multa de quinientas a mil Unidades de Medida y Actualización; Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62) IX Bis. Cuando la aeronave realice maniobras de vuelo que motiven la activación de un alertamiento aéreo con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia; Fracción adicionada DOF 03-05-2023
+IX. No reportar las incapacitaciones, durante el vuelo, del personal técnico-aeronáutico a la Agencia Federal de Aviación Civil dentro de las veinticuatro horas siguientes al suceso, con una multa de quinientas a mil Unidades de Medida y Actualización; Fracción adicionada DOF 03-05-2023 (Ed. vesp., páginas 2 a 13). Reformada DOF 03-05-2023 (Ed. vesp., páginas 17 a 62)
+
+IX Bis. Cuando la aeronave realice maniobras de vuelo que motiven la activación de un alertamiento aéreo con una multa de diez mil a veinticinco mil Unidades de Medida y Actualización, siempre y cuando no sea por falla técnica o emergencia; Fracción adicionada DOF 03-05-2023
 
 X. Permitir que el personal técnico-aeronáutico realice sus funciones:
 

@@ -25,4 +25,6 @@ II. Mando Superior en Jefe;
 
 III. Mandos Superiores;
 
-IV. Mandos Operativos, y V. Mandos Subordinados.
+IV. Mandos Operativos, y
+
+V. Mandos Subordinados.

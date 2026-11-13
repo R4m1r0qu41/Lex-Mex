@@ -118,21 +118,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:15:term-usage:2504-2513",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:15:term-usage:2505-2514",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:15",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:instituto",
     "span": "Instituto",
-    "start_char": 2504,
-    "end_char": 2513
+    "start_char": 2505,
+    "end_char": 2514
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:15:term-usage:4183-4192",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:15:term-usage:4184-4193",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:15",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:instituto",
     "span": "Instituto",
-    "start_char": 4183,
-    "end_char": 4192
+    "start_char": 4184,
+    "end_char": 4193
   },
   {
     "schema_version": "0.1.0",
@@ -145,111 +145,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:362-374",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:363-375",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 362,
-    "end_char": 374
+    "start_char": 363,
+    "end_char": 375
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:477-489",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:478-490",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 477,
-    "end_char": 489
+    "start_char": 478,
+    "end_char": 490
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:578-590",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:579-591",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 578,
-    "end_char": 590
+    "start_char": 579,
+    "end_char": 591
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:769-781",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:770-782",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 769,
-    "end_char": 781
+    "start_char": 770,
+    "end_char": 782
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:955-967",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:956-968",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 955,
-    "end_char": 967
+    "start_char": 956,
+    "end_char": 968
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1225-1237",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1226-1238",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 1225,
-    "end_char": 1237
+    "start_char": 1226,
+    "end_char": 1238
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1424-1436",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1425-1437",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 1424,
-    "end_char": 1436
+    "start_char": 1425,
+    "end_char": 1437
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1586-1598",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1587-1599",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 1586,
-    "end_char": 1598
+    "start_char": 1587,
+    "end_char": 1599
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1683-1695",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1684-1696",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 1683,
-    "end_char": 1695
+    "start_char": 1684,
+    "end_char": 1696
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1962-1974",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:1963-1975",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 1962,
-    "end_char": 1974
+    "start_char": 1963,
+    "end_char": 1975
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:2027-2039",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:2028-2040",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 2027,
-    "end_char": 2039
+    "start_char": 2028,
+    "end_char": 2040
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:2315-2327",
+    "id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16:term-usage:2316-2328",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lrpc:article:16",
     "term_id": "urn:lex-mx:federal:regulation:reg-lrpc:term:coordinacion",
     "span": "Coordinación",
-    "start_char": 2315,
-    "end_char": 2327
+    "start_char": 2316,
+    "end_char": 2328
   },
   {
     "schema_version": "0.1.0",

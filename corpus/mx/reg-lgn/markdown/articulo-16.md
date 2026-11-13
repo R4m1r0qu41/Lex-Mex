@@ -17,7 +17,9 @@ source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
 
 # Artículo 16
 
-El mando podrá ser ejercido en alguna de las formas siguientes: I. Titular, lo ejerce quien cuenta con nombramiento para desempeñar el cargo o comisión;
+El mando podrá ser ejercido en alguna de las formas siguientes:
+
+I. Titular, lo ejerce quien cuenta con nombramiento para desempeñar el cargo o comisión;
 
 II. Interino, es ejercido por quien es designado con ese carácter por la superioridad correspondiente en tanto se nombra al Titular;
 

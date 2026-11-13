@@ -23,7 +23,9 @@ I. Carreras de caballos en escenarios temporales;
 
 II. Peleas de gallos;
 
-III. Juegos de naipes y dados; IV. Ruleta, y
+III. Juegos de naipes y dados;
+
+IV. Ruleta, y
 
 V. Sorteos de símbolos y números en las modalidades que autoriza el presente Reglamento. Estos últimos podrán realizarse exclusivamente en las instalaciones en que se celebren las peleas de gallos, antes, durante y después de éstas, mientras que dicha instalación se encuentre abierta al público.
 

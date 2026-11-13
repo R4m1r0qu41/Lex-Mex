@@ -23,7 +23,9 @@ I.- Los títulos por los cuales se adquiera, transmita, modifique, grave o extin
 
 a).- (Se deroga). Inciso derogado DOF 12-05-1995
 
-b).- (Se deroga). Inciso derogado DOF 22-12-1995 c).- (Se deroga). Inciso derogado DOF 22-12-1995
+b).- (Se deroga). Inciso derogado DOF 22-12-1995
+
+c).- (Se deroga). Inciso derogado DOF 22-12-1995
 
 d).- (Se deroga). Inciso derogado DOF 12-05-1995
 

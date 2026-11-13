@@ -55,6 +55,8 @@ XVII. Derecho a la intimidad;
 
 XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
-XIX. Derechos de niñas, niños y adolescentes migrantes, y XX. Derecho de acceso a las Tecnologías de la Información y Comunicación. Fracción reformada DOF 20-06-2018
+XIX. Derechos de niñas, niños y adolescentes migrantes, y
+
+XX. Derecho de acceso a las Tecnologías de la Información y Comunicación. Fracción reformada DOF 20-06-2018
 
 Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias de conformidad con los deberes reforzados de protección del Estado con las niñas, niños y adolescentes, para garantizar sus derechos sin discriminación de ningún tipo o condición. Párrafo reformado DOF 23-06-2017, 15-01-2026

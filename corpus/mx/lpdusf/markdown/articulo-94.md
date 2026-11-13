@@ -35,7 +35,9 @@ IV. Multa hasta por el importe de lo reclamado por el [Usuario](articulo-2o.md),
 
 IV Bis. Multa de 300 a 1500 días de salario, a la Institución Financiera que no comparezca a la audiencia de conciliación a que se refiere el artículo [68](articulo-68.md) de esta Ley cuando la reclamación presentada por el Usuario no refiera importe alguno. Fracción adicionada DOF 25-06-2009
 
-V. Multa de 500 a 2000 días de salario, a la Institución Financiera que no cumpla con lo dispuesto por la fracción IX del artículo [68](articulo-68.md) de esta Ley; Fracción reformada DOF 05-01-2000 VI. Multa de 250 a 3000 días de salario, a la Institución Financiera:
+V. Multa de 500 a 2000 días de salario, a la Institución Financiera que no cumpla con lo dispuesto por la fracción IX del artículo [68](articulo-68.md) de esta Ley; Fracción reformada DOF 05-01-2000
+
+VI. Multa de 250 a 3000 días de salario, a la Institución Financiera:
 
 a) Que no registre o no constituya en tiempo el pasivo contingente o no constituya la reserva técnica específica para obligaciones pendientes de cumplir a que se refieren los artículos [68](articulo-68.md), fracción X, y [70](articulo-70.md) de esta Ley;
 
@@ -59,7 +61,9 @@ XIV. Multa de 500 a 2000 días de salario, a la Institución Financiera que no a
 
 a) La orden de suspensión de la información dirigida a los Usuarios sobre los servicios y productos financieros que ofrezca, y
 
-b) Las disposiciones de carácter general que la Comisión Nacional emita en términos de las fracciones XV, XVIII y XIX del artículo 11 de la Ley. Fracción adicionada DOF 10-01-2014 XV. Multa de 500 a 2000 días de salario, a la Institución Financiera que:
+b) Las disposiciones de carácter general que la Comisión Nacional emita en términos de las fracciones XV, XVIII y XIX del artículo 11 de la Ley. Fracción adicionada DOF 10-01-2014
+
+XV. Multa de 500 a 2000 días de salario, a la Institución Financiera que:
 
 a) No modifique los contratos de adhesión utilizados para la celebración de sus operaciones o la prestación de sus servicios, en términos de la normatividad que resulte aplicable.
 

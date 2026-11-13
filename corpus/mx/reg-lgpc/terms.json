@@ -51,7 +51,7 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "V",
     "start_char": 867,
-    "end_char": 1090,
+    "end_char": 1091,
     "basis": "express_definition"
   },
   {
@@ -61,8 +61,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "VI",
-    "start_char": 1090,
-    "end_char": 1364,
+    "start_char": 1091,
+    "end_char": 1365,
     "basis": "express_definition"
   },
   {
@@ -72,8 +72,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "VII",
-    "start_char": 1364,
-    "end_char": 1511,
+    "start_char": 1365,
+    "end_char": 1512,
     "basis": "express_definition"
   },
   {
@@ -83,8 +83,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "VIII",
-    "start_char": 1511,
-    "end_char": 2133,
+    "start_char": 1512,
+    "end_char": 2134,
     "basis": "express_definition"
   },
   {
@@ -94,8 +94,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "IX",
-    "start_char": 2133,
-    "end_char": 2188,
+    "start_char": 2134,
+    "end_char": 2189,
     "basis": "express_definition"
   },
   {
@@ -105,8 +105,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "X",
-    "start_char": 2188,
-    "end_char": 2495,
+    "start_char": 2189,
+    "end_char": 2496,
     "basis": "express_definition"
   },
   {
@@ -116,8 +116,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "XI",
-    "start_char": 2495,
-    "end_char": 2699,
+    "start_char": 2496,
+    "end_char": 2700,
     "basis": "express_definition"
   },
   {
@@ -127,8 +127,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "XII",
-    "start_char": 2699,
-    "end_char": 2746,
+    "start_char": 2700,
+    "end_char": 2747,
     "basis": "express_definition"
   },
   {
@@ -138,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "XIII",
-    "start_char": 2746,
-    "end_char": 3286,
+    "start_char": 2747,
+    "end_char": 3287,
     "basis": "express_definition"
   },
   {
@@ -149,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpc",
     "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpc:article:2",
     "fraction": "XIV",
-    "start_char": 3286,
-    "end_char": 3497,
+    "start_char": 3287,
+    "end_char": 3498,
     "basis": "express_definition"
   }
 ]

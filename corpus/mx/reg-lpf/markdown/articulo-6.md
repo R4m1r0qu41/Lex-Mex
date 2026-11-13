@@ -25,7 +25,9 @@ II. Ordenar y supervisar las líneas de investigación para obtener, analizar, e
 
 III. Ordenar y supervisar las acciones y operaciones para la prevención de los delitos y, para la persecución de los mismos, en términos de las disposiciones aplicables;
 
-IV. Dictar los lineamientos y políticas, bajo los cuales la Institución proporcionará los informes, datos o cooperación técnica y operativa que sean requeridos por alguna instancia de los gobiernos Federal, Estatal, del Distrito Federal y Municipal, y autoridades de otros países conforme a los procedimientos que resulten necesarios para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes federales y con pleno apego a las demás disposiciones jurídicas aplicables; V. Emitir los lineamientos para la planeación, obtención, procesamiento y aprovechamiento de la información que genere la Institución en materia de seguridad pública a fin de establecer los sistemas de información de la institución;
+IV. Dictar los lineamientos y políticas, bajo los cuales la Institución proporcionará los informes, datos o cooperación técnica y operativa que sean requeridos por alguna instancia de los gobiernos Federal, Estatal, del Distrito Federal y Municipal, y autoridades de otros países conforme a los procedimientos que resulten necesarios para la prevención de delitos, sea directamente o mediante los sistemas de coordinación previstos en otras leyes federales y con pleno apego a las demás disposiciones jurídicas aplicables;
+
+V. Emitir los lineamientos para la planeación, obtención, procesamiento y aprovechamiento de la información que genere la Institución en materia de seguridad pública a fin de establecer los sistemas de información de la institución;
 
 VI. Solicitar a la autoridad judicial correspondiente, por escrito y a través de cualquier medio, incluso aquéllos que los adelantos electrónicos y tecnológicos permitan conforme a las disposiciones aplicables la autorización para requerir a los concesionarios, permisionarios, operadoras telefónicas y todas aquellas comercializadoras de servicios en materia de telecomunicaciones, de sistemas de comunicación vía satélite, la información con que cuenten, así como la georreferenciación de los equipos de comunicación móvil en tiempo real, para el cumplimiento de los fines de prevención de los delitos;
 
@@ -51,7 +53,9 @@ XV. Planear y estructurar mecanismos y espacios para la atención integral a ví
 
 XVI. Administrar y ejecutar el presupuesto de la Institución, conforme a las disposiciones legales y reglamentarias correspondientes;
 
-XVII. Celebrar contratos, convenios y, en general, toda clase de actos jurídicos necesarios para el desarrollo de las atribuciones de la Institución o los que estén relacionados con la administración de los recursos humanos, materiales y financieros que ésta tenga asignados; XVIII. Participar, de conformidad con las disposiciones aplicables, en las negociaciones de los tratados internacionales que lleve a cabo el Ejecutivo Federal en materia de prevención de delitos cuando así se requiera;
+XVII. Celebrar contratos, convenios y, en general, toda clase de actos jurídicos necesarios para el desarrollo de las atribuciones de la Institución o los que estén relacionados con la administración de los recursos humanos, materiales y financieros que ésta tenga asignados;
+
+XVIII. Participar, de conformidad con las disposiciones aplicables, en las negociaciones de los tratados internacionales que lleve a cabo el Ejecutivo Federal en materia de prevención de delitos cuando así se requiera;
 
 XIX. Ordenar, para fines de seguridad pública, la vigilancia e inspección sobre el manejo, transporte o tenencia de mercancías de comercio exterior y de los medios que las transportan en todo el territorio nacional;
 
@@ -79,7 +83,9 @@ XXX. Suscribir y expedir las constancias de grado o las de grado homólogo a los
 
 XXXI. Expedir los Acuerdos y Manuales de la Institución que sean de su competencia;
 
-XXXII. Aprobar los manuales, protocolos y procedimientos sistemáticos operativos de las funciones operativas de la Institución; XXXIII. Delegar por cargo, grado o materia, así como autorizar de manera específica a determinado Integrante de la Institución, la realización de los actos jurídicos inherentes a las atribuciones que este artículo le otorga;
+XXXII. Aprobar los manuales, protocolos y procedimientos sistemáticos operativos de las funciones operativas de la Institución;
+
+XXXIII. Delegar por cargo, grado o materia, así como autorizar de manera específica a determinado Integrante de la Institución, la realización de los actos jurídicos inherentes a las atribuciones que este artículo le otorga;
 
 XXXIV. Aprobar el programa de profesionalización policial de la Institución, con el fin de fortalecer las propuestas académicas para el desarrollo de los Integrantes;
 

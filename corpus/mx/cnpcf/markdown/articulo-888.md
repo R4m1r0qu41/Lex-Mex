@@ -23,6 +23,8 @@ La autoridad jurisdiccional Federal deberá valorar que las medidas que se dicte
 
 Para el otorgamiento de dichas medidas se requerirá:
 
-I. Que la persona solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a causar. II. Que exista urgencia en el otorgamiento de la medida en virtud del riesgo de que se cause o continúe causando un daño de difícil o imposible reparación.
+I. Que la persona solicitante de la medida manifieste claramente cuáles son los actos, hechos o abstenciones que estén causando un daño o vulneración a los derechos o intereses colectivos o lo puedan llegar a causar.
+
+II. Que exista urgencia en el otorgamiento de la medida en virtud del riesgo de que se cause o continúe causando un daño de difícil o imposible reparación.
 
 Si con el otorgamiento de la medida se pudiera ocasionar daño a la persona demandada, ésta podrá otorgar garantía suficiente para reparar los daños que pudieran causarse a la colectividad, salvo aquellos casos en los que se trate de una amenaza inminente e irreparable al interés social, a la vida o a la salud de los miembros de la colectividad o por razones de seguridad nacional.

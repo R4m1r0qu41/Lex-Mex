@@ -47,7 +47,9 @@ IX. Constancia expedida por Institución competente o capacitadores internos o e
 
 X. Relación del personal directivo y administrativo, conteniendo nombre completo y domicilio;
 
-XI. Currícula del personal directivo, o en su caso, de quien ocupará los cargos relativos; XII. Relación de quienes se integrarán como personal operativo, para la consulta de antecedentes policiales en el Registro Nacional del Personal de Seguridad Pública, debiendo acompañar el comprobante de pago de derechos correspondiente, además de señalar el nombre, Registro Federal de Contribuyente y en su caso Clave Única de Registro de Población de cada uno de ellos;
+XI. Currícula del personal directivo, o en su caso, de quien ocupará los cargos relativos;
+
+XII. Relación de quienes se integrarán como personal operativo, para la consulta de antecedentes policiales en el Registro Nacional del Personal de Seguridad Pública, debiendo acompañar el comprobante de pago de derechos correspondiente, además de señalar el nombre, Registro Federal de Contribuyente y en su caso Clave Única de Registro de Población de cada uno de ellos;
 
 XIII. Adjuntar el formato de credencial que se expedirá al personal;
 

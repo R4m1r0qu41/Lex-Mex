@@ -39,7 +39,9 @@ IX. Seleccionar, capacitar y profesionalizar a los semovientes caninos y sus man
 
 X. Diseñar los perfiles para los manejadores y entrenadores caninos en las diferentes especialidades, así como llevar un registro de los mismos;
 
-XI. Integrar un cuerpo de entrenadores caninos en las diferentes especialidades, con reconocimiento nacional e internacional; XII. Verificar y supervisar que el personal médico veterinario-zootecnista lleve a cabo los esquemas de nutrición y la atención veterinaria requerida por los semovientes caninos;
+XI. Integrar un cuerpo de entrenadores caninos en las diferentes especialidades, con reconocimiento nacional e internacional;
+
+XII. Verificar y supervisar que el personal médico veterinario-zootecnista lleve a cabo los esquemas de nutrición y la atención veterinaria requerida por los semovientes caninos;
 
 XIII. Establecer vínculos de cooperación con instituciones homólogas nacionales y extranjeras, a fin de intercambiar planes y programas de capacitación, actualización y especialización de unidades caninas;
 

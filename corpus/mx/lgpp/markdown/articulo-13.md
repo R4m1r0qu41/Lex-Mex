@@ -31,7 +31,9 @@ b) La celebración de una asamblea local constitutiva ante la presencia del func
 
 I. [Que asistieron los delegados propietarios o suplentes, elegidos en las asambleas distritales, municipales o de las demarcaciones territoriales del Distrito Federal, según sea el caso;] Fracción reformada DOF 02-03-2023 Fracción declarada inválida y “recupera su vigencia con el texto que tenía al 2 de marzo de 2023” por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales el 23-06-2023 y publicada DOF 24-11-2023
 
-II. Que acreditaron, por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en el inciso anterior; III. Que se comprobó la identidad y residencia de los delegados a la asamblea local, por medio de su credencial para votar u otro documento fehaciente;
+II. Que acreditaron, por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en el inciso anterior;
+
+III. Que se comprobó la identidad y residencia de los delegados a la asamblea local, por medio de su credencial para votar u otro documento fehaciente;
 
 IV. Que los delegados aprobaron la declaración de principios, programa de acción y estatutos, y
 

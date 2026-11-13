@@ -37,7 +37,9 @@ VIII. Elaborar un registro de los [Integrantes](articulo-2.md) de la Institució
 
 IX. Desarrollar estrategias y políticas de formación de los Integrantes de la Institución;
 
-X. Analizar la revalidación de equivalencias de estudios de la profesionalización en el ámbito de su competencia; XI. Analizar las etapas, niveles de escolaridad y grados académicos de la profesionalización que propongan los institutos y academias de la Institución;
+X. Analizar la revalidación de equivalencias de estudios de la profesionalización en el ámbito de su competencia;
+
+XI. Analizar las etapas, niveles de escolaridad y grados académicos de la profesionalización que propongan los institutos y academias de la Institución;
 
 XII. Diseñar y desarrollar los programas de capacitación conforme a las necesidades detectadas en la Institución;
 

@@ -25,7 +25,9 @@ II. Tratar las aguas residuales previamente a su vertido a los cuerpos receptore
 
 III. Cubrir, cuando proceda, el derecho federal por el uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de aguas residuales;
 
-IV. Instalar y mantener en buen estado, los dispositivos de aforo y los accesos para muestreo que permitan verificar los volúmenes de descarga y las concentraciones de los parámetros previstos en los permisos de descarga; V. Informar a "La Comisión" de cualquier cambio en sus procesos, cuando con ello se ocasionen modificaciones en las características o en los volúmenes de las aguas residuales que hubieran servido para expedir el permiso de descarga correspondiente;
+IV. Instalar y mantener en buen estado, los dispositivos de aforo y los accesos para muestreo que permitan verificar los volúmenes de descarga y las concentraciones de los parámetros previstos en los permisos de descarga;
+
+V. Informar a "La Comisión" de cualquier cambio en sus procesos, cuando con ello se ocasionen modificaciones en las características o en los volúmenes de las aguas residuales que hubieran servido para expedir el permiso de descarga correspondiente;
 
 VI. Hacer del conocimiento de "La Comisión", los contaminantes presentes en las aguas residuales que generen por causa del proceso industrial o del servicio que vienen operando, y que no estuvieran considerados originalmente en las condiciones particulares de descarga que se les hubieran fijado;
 

@@ -21,7 +21,9 @@ El Fiscal General de Justicia Militar tendrá las siguientes atribuciones y debe
 
 I. Proponer los proyectos de iniciativas de ley o de reformas legislativas vinculadas con las materias de la competencia de la Fiscalía General;
 
-II. Someter a la Secretaría de la Defensa Nacional los proyectos de reglamentos de este Código, de la Policía y demás que fueran necesarios; III. Emitir los manuales de organización, funcionamiento y procedimientos de la Fiscalía General y de los organismos que le dependan;
+II. Someter a la Secretaría de la Defensa Nacional los proyectos de reglamentos de este Código, de la Policía y demás que fueran necesarios;
+
+III. Emitir los manuales de organización, funcionamiento y procedimientos de la Fiscalía General y de los organismos que le dependan;
 
 IV. Aprobar y evaluar los planes y programas que le presenten los órganos de la Fiscalía General, para cumplir los objetivos institucionales;
 
@@ -51,7 +53,9 @@ c) Colaborar con otras Instituciones para la atención de requerimientos relacio
 
 d) Emitir disposiciones para la observancia y atención en términos de ley, de las recomendaciones de la Comisión Nacional de los Derechos Humanos, así como dar cumplimiento a las de organismos internacionales de protección de derechos humanos, reconocidos por el Estado Mexicano.
 
-XIV. Participar en la elaboración del Programa Sectorial de la Secretaría de la Defensa Nacional, en los aspectos de su competencia; XV. Implementar acciones en materia de prevención del delito;
+XIV. Participar en la elaboración del Programa Sectorial de la Secretaría de la Defensa Nacional, en los aspectos de su competencia;
+
+XV. Implementar acciones en materia de prevención del delito;
 
 XVI. Ordenar la elaboración de la estadística en materia criminal y establecer la coordinación necesaria con el Tribunal Superior Militar y la Defensoría de Oficio Militar, para los mismos efectos;
 

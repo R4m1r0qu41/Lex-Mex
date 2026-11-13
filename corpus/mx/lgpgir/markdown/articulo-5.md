@@ -39,7 +39,9 @@ IX. Generador: Persona física o moral que produce residuos, a través del desar
 
 X. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XI. Gestor: Persona física o moral autorizada en los términos de este ordenamiento, para realizar la prestación de los servicios de una o más de las actividades de manejo integral de residuos; XII. Gran Generador: Persona física o moral que genere una cantidad igual o superior a 10 toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
+XI. Gestor: Persona física o moral autorizada en los términos de este ordenamiento, para realizar la prestación de los servicios de una o más de las actividades de manejo integral de residuos;
+
+XII. Gran Generador: Persona física o moral que genere una cantidad igual o superior a 10 toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida;
 
 XIII. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. En esta definición se incluye la pirólisis, la gasificación y plasma, sólo cuando los subproductos combustibles generados en estos procesos sean sometidos a combustión en un ambiente rico en oxígeno;
 
@@ -79,7 +81,9 @@ XXX. Residuos de Manejo Especial: Son aquellos generados en los procesos product
 
 XXX Bis. Residuos metalúrgicos: Son aquellos provenientes de los procesos de fundición, refinación y transformación de metales; Fracción adicionada DOF 08-05-2023
 
-XXX Bis 1. Residuos mineros: Son aquellos provenientes de las actividades de la explotación y beneficio de minerales o sustancias; Fracción adicionada DOF 08-05-2023 XXXI. Residuos Incompatibles: Aquellos que al entrar en contacto o al ser mezclados con agua u otros materiales o residuos, reaccionan produciendo calor, presión, fuego, partículas, gases o vapores dañinos;
+XXX Bis 1. Residuos mineros: Son aquellos provenientes de las actividades de la explotación y beneficio de minerales o sustancias; Fracción adicionada DOF 08-05-2023
+
+XXXI. Residuos Incompatibles: Aquellos que al entrar en contacto o al ser mezclados con agua u otros materiales o residuos, reaccionan produciendo calor, presión, fuego, partículas, gases o vapores dañinos;
 
 XXXII. Residuos Peligrosos: Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en esta Ley;
 
@@ -99,7 +103,9 @@ XXXIX. Separación Secundaria: Acción de segregar entre sí los residuos sólid
 
 XL. Sitio Contaminado: Lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que, por sus cantidades y características, pueden representar un riesgo para la salud humana, a los organismos vivos y el aprovechamiento de los bienes o propiedades de las personas;
 
-XLI. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad; XLII. Termólisis: Proceso térmico a que se sujetan los residuos en ausencia de, o en presencia de cantidades mínimas de oxígeno, que incluye la pirólisis en la que se produce una fracción orgánica combustible formada por hidrocarburos gaseosos y líquidos, así como carbón y una fase inorgánica formada por sólidos reducidos metálicos y no metálicos, y la gasificación que demanda mayores temperaturas y produce gases susceptibles de combustión;
+XLI. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
+
+XLII. Termólisis: Proceso térmico a que se sujetan los residuos en ausencia de, o en presencia de cantidades mínimas de oxígeno, que incluye la pirólisis en la que se produce una fracción orgánica combustible formada por hidrocarburos gaseosos y líquidos, así como carbón y una fase inorgánica formada por sólidos reducidos metálicos y no metálicos, y la gasificación que demanda mayores temperaturas y produce gases susceptibles de combustión;
 
 XLIII. Termovalorización: Aprovechamiento de residuos orgánicos e inorgánicos para la generación de energía eléctrica; Fracción adicionada DOF 18-01-2021. Reformada DOF 19-01-2026
 

@@ -39,4 +39,6 @@ VIII. Se registrarán los Financiamientos y Obligaciones de los Municipios y sus
 
 IX. Los Entes Públicos deberán publicar su información financiera de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable al cual hace referencia dicha Ley. Para tal efecto, los Entes Públicos deberán presentar la opinión de la entidad de fiscalización superior de la entidad federativa correspondiente, en la que manifieste si el ente público cumple con dicha publicación;
 
-X. Los Financiamientos destinados al [Refinanciamiento](articulo-2.md) sólo podrán liquidar Financiamientos previamente inscritos en el Registro Público Único, y XI. Los demás requisitos que establezca el propio reglamento del Registro Público Único.
+X. Los Financiamientos destinados al [Refinanciamiento](articulo-2.md) sólo podrán liquidar Financiamientos previamente inscritos en el Registro Público Único, y
+
+XI. Los demás requisitos que establezca el propio reglamento del Registro Público Único.

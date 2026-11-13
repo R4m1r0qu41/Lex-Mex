@@ -31,7 +31,9 @@ V. Las Estaciones Cuarentenarias y las instalaciones de Cuarentena Vegetal Poste
 
 VI. La red de Puntos de Verificación Interna y en las oficinas de Inspección de la Secretaría que se encuentran en los Puntos de Entrada al país, así como los puntos de Inspección internacional;
 
-VII. Las unidades administrativas de la Secretaría; VIII. Los centros de enseñanza e investigación relacionados con la Sanidad Vegetal, de conformidad con los acuerdos, contratos o convenios que al efecto se suscriban;
+VII. Las unidades administrativas de la Secretaría;
+
+VIII. Los centros de enseñanza e investigación relacionados con la Sanidad Vegetal, de conformidad con los acuerdos, contratos o convenios que al efecto se suscriban;
 
 IX. Los agricultores, profesionales técnicos, compañías agrícolas, gremios y entidades públicas o privadas relacionadas con la Sanidad Vegetal, de conformidad con los acuerdos, contratos o convenios que al efecto se suscriban;
 

@@ -17,7 +17,9 @@ source_sha256: 4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75
 
 # Artículo 90
 
-Para obtener una autorización para la prestación de servicios turísticos en el área natural protegida, el interesado deberá presentar solicitud por escrito, en la cual se contengan los siguientes datos: I.- Nombre, denominación o razón social;
+Para obtener una autorización para la prestación de servicios turísticos en el área natural protegida, el interesado deberá presentar solicitud por escrito, en la cual se contengan los siguientes datos:
+
+I.- Nombre, denominación o razón social;
 
 II.- Nacionalidad;
 

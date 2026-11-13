@@ -21,7 +21,9 @@ La visa de residencia temporal a que se refiere la fracción IV del artículo [4
 
 I. Que cuenta con solvencia económica suficiente para cubrir el monto de los gastos de alojamiento y manutención durante su estancia en el territorio nacional;
 
-II. Que forma parte de un proyecto de investigación científica o recolección de muestras en el territorio nacional o aguas jurisdiccionales del país, previa obtención de las autorizaciones correspondientes de las autoridades nacionales competentes; III. Que se encuentra dentro de las hipótesis de unidad familiar por vínculo con mexicano, residente temporal o permanente;
+II. Que forma parte de un proyecto de investigación científica o recolección de muestras en el territorio nacional o aguas jurisdiccionales del país, previa obtención de las autorizaciones correspondientes de las autoridades nacionales competentes;
+
+III. Que se encuentra dentro de las hipótesis de unidad familiar por vínculo con mexicano, residente temporal o permanente;
 
 IV. Que cuenta con invitación de una organización o de una institución pública o privada establecida en el territorio nacional para participar en alguna actividad por la que no perciba ingresos en el territorio nacional. La invitación deberá contenerse en papel membretado y señalar la actividad que realizará la persona extranjera, la temporalidad y el lugar, así como la responsabilidad solidaria del que invita para cubrir sus gastos de viaje y manutención. En caso contrario, la persona extranjera deberá acreditar solvencia económica suficiente para cubrir sus gastos de manutención durante su estancia en el territorio nacional;
 

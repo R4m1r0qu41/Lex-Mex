@@ -71,7 +71,9 @@ La información sobre el costo total de las emisiones de deuda interna y externa
 
 Se incluirá también un informe de las erogaciones derivadas de operaciones y programas de saneamiento financieros y de los programas de apoyo a ahorradores y deudores de la banca. Adicionalmente, en dicho informe se incluirá un apartado que refiera las operaciones activas y pasivas del Instituto de Protección al Ahorro Bancario, así como de su posición financiera, incluyendo aquéllas relativas a la enajenación de bienes, colocación de valores y apoyos otorgados.
 
-Se informará adicionalmente sobre las modificaciones que, en su caso, hayan sido realizadas al monto autorizado por intermediación financiera en la Ley de Ingresos. Párrafo adicionado DOF 24-01-2014 Este informe incluirá un apartado sobre los pasivos contingentes que se hubieran asumido con la garantía del Gobierno Federal, incluyendo los avales distintos de los proyectos de inversión productiva de largo plazo otorgados.
+Se informará adicionalmente sobre las modificaciones que, en su caso, hayan sido realizadas al monto autorizado por intermediación financiera en la Ley de Ingresos. Párrafo adicionado DOF 24-01-2014
+
+Este informe incluirá un apartado sobre los pasivos contingentes que se hubieran asumido con la garantía del Gobierno Federal, incluyendo los avales distintos de los proyectos de inversión productiva de largo plazo otorgados.
 
 De igual forma, incluirá un informe sobre el uso de recursos financieros de la banca de desarrollo y fondos de fomento para financiar al sector privado y social, detallando el balance de operación y el otorgamiento de créditos, así como sus fuentes de financiamiento, así como se reportará sobre las comisiones de compromiso pagadas por los créditos internos y externos contratados;
 

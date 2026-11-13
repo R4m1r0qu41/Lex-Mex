@@ -21,7 +21,9 @@ El [Centro de Conciliación](articulo-3o.-Ter.md) garantizará el cumplimiento d
 
 I. Las obligaciones específicas de los participantes durante el concurso y las causales de descalificación o eliminación del mismo;
 
-II. Las reglas del concurso, que deberán incluir el trámite de inscripción o registro, la forma y criterios de evaluación, la ponderación de cada área de competencia a evaluar y su impacto en la calificación final, las calificaciones mínimas aprobatorias y la publicación de resultados. Las reglas deberán contemplar que el desarrollo del examen será público; III. La integración del comité de evaluación y selección que llevará a cabo el concurso, y
+II. Las reglas del concurso, que deberán incluir el trámite de inscripción o registro, la forma y criterios de evaluación, la ponderación de cada área de competencia a evaluar y su impacto en la calificación final, las calificaciones mínimas aprobatorias y la publicación de resultados. Las reglas deberán contemplar que el desarrollo del examen será público;
+
+III. La integración del comité de evaluación y selección que llevará a cabo el concurso, y
 
 IV. Los lineamientos del proceso de selección de conciliadores, los que contendrán los criterios técnicos de evaluación, la integración de cada instrumento, sus escalas de desempeño y las formalidades para su aplicación.
 

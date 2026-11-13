@@ -17,7 +17,9 @@ source_sha256: eaf7300918a6f5dc58fbd5f36373f914841ad3b728a6ac60d6c9ff2f28ec8e12
 
 # Artículo 22
 
-En el Sistema Nacional de Educación Superior participarán con sentido de responsabilidad social los actores, instituciones y procesos que lo componen y estará integrado por: I. Las y los estudiantes de las instituciones de educación superior;
+En el Sistema Nacional de Educación Superior participarán con sentido de responsabilidad social los actores, instituciones y procesos que lo componen y estará integrado por:
+
+I. Las y los estudiantes de las instituciones de educación superior;
 
 II. El personal académico de las instituciones de educación superior;
 

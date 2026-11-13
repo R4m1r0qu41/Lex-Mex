@@ -19,7 +19,9 @@ source_sha256: 99d3d61b8abaa6f0c20427466c41a7f236feda5772e49a6aec7f677b29e14880
 
 La participación que realice Nacional Financiera en el capital social de empresas a que se refieren la fracción II del artículo [5](articulo-5o.md)o. y fracción IV del artículo [6](articulo-6o.md)o. de esta Ley, se sujetará a las siguientes bases:
 
-I.- Procurará que su participación en el capital social de empresas industriales o de tecnología sean actividades prioritarias y en forma temporal y minoritarias; II.- Podrá llegar hasta el 20% del capital de la emisora;
+I.- Procurará que su participación en el capital social de empresas industriales o de tecnología sean actividades prioritarias y en forma temporal y minoritarias;
+
+II.- Podrá llegar hasta el 20% del capital de la emisora;
 
 III.- Podrá llegar hasta el 50% del capital de la emisora, durante un plazo hasta de 7 años, previo acuerdo del Consejo Directivo;
 

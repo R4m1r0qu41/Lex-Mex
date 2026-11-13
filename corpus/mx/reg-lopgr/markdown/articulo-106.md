@@ -25,7 +25,9 @@ II. Supervisar las actividades de las agregadurías regionales y oficinas de enl
 
 III. Auxiliar a las unidades administrativas y coordinarse con los órganos desconcentrados de la Institución, para el ejercicio de sus funciones;
 
-IV. Llevar a cabo, en su circunscripción y con pleno respeto al marco jurídico aplicable, las acciones necesarias para la atención de los asuntos que le sean encomendados; V. Participar en reuniones y grupos de trabajo con autoridades de su circunscripción, organizaciones sociales e instituciones académicas, así como en foros internacionales, en relación con los asuntos de su competencia;
+IV. Llevar a cabo, en su circunscripción y con pleno respeto al marco jurídico aplicable, las acciones necesarias para la atención de los asuntos que le sean encomendados;
+
+V. Participar en reuniones y grupos de trabajo con autoridades de su circunscripción, organizaciones sociales e instituciones académicas, así como en foros internacionales, en relación con los asuntos de su competencia;
 
 VI. Recopilar y sistematizar la información relacionada con la procuración y administración de justicia en su circunscripción, y remitirla al Titular de la Coordinación de Asuntos Internacionales y Agregadurías;
 

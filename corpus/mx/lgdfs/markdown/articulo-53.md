@@ -17,7 +17,9 @@ source_sha256: 2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4
 
 # Artículo 53
 
-La [Secretaría](articulo-7.md) emitirá Normas Oficiales Mexicanas en materia forestal y de suelos, en los términos establecidos en la Ley Federal de Metrología y Normalización, que tengan por objeto: I. Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en cuencas, regiones, ecosistemas o zonas, en aprovechamiento de recursos forestales, en el desarrollo de actividades económicas, en el uso y destino de bienes, en insumos y en procesos;
+La [Secretaría](articulo-7.md) emitirá Normas Oficiales Mexicanas en materia forestal y de suelos, en los términos establecidos en la Ley Federal de Metrología y Normalización, que tengan por objeto:
+
+I. Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en cuencas, regiones, ecosistemas o zonas, en aprovechamiento de recursos forestales, en el desarrollo de actividades económicas, en el uso y destino de bienes, en insumos y en procesos;
 
 II. Considerar las condiciones necesarias para el bienestar de la población y la conservación, protección, producción, aprovechamiento o restauración de los recursos forestales y de sus ecosistemas;
 

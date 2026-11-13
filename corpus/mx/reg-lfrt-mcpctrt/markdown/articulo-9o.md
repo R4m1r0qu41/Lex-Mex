@@ -19,7 +19,9 @@ source_sha256: 73855d6591afa63747195c80772404550f8fd6d9a1d9fa82ef7a14ec9583fe6e
 
 A la Dirección General de Radio, Televisión y Cinematografía de la Secretaría de Gobernación compete:
 
-I. Ejercer las atribuciones que las leyes y reglamentos le confieren a la Secretaría de Gobernación en materia de radio y televisión; II. Someter al acuerdo del Secretario de Gobernación lo relativo a la coordinación, promoción y fomento de las actividades que, en el ámbito de su competencia, realiza la Secretaría en materia de radio y televisión;
+I. Ejercer las atribuciones que las leyes y reglamentos le confieren a la Secretaría de Gobernación en materia de radio y televisión;
+
+II. Someter al acuerdo del Secretario de Gobernación lo relativo a la coordinación, promoción y fomento de las actividades que, en el ámbito de su competencia, realiza la Secretaría en materia de radio y televisión;
 
 III. Regular los contenidos de las transmisiones de radio y televisión;
 

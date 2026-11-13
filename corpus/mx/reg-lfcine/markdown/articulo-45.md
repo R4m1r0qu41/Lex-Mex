@@ -25,7 +25,9 @@ El distribuidor de la película, con el acuerdo del productor, podrá pactar con
 
 La garantía a que se refiere este artículo, así como la reserva de que trata el [artículo anterior](articulo-44.md), estarán sujetas a la condición de que las películas y sus respectivas copias se encuentren disponibles, en buen estado y se ofrezcan en términos y condiciones de mercado.
 
-Para efectos del párrafo anterior, se entenderá por: I. Disponible: que el distribuidor haya mostrado al exhibidor la documentación que acredite que la película está autorizada y clasificada;
+Para efectos del párrafo anterior, se entenderá por:
+
+I. Disponible: que el distribuidor haya mostrado al exhibidor la documentación que acredite que la película está autorizada y clasificada;
 
 II. Buen estado: que la copia de la película no contenga rayaduras u otras características que afecten su apreciación por el público y esté en condiciones de ser proyectada sin causar daños al equipo de proyección, y
 

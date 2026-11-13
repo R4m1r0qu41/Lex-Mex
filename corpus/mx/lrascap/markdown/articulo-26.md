@@ -25,7 +25,9 @@ I. Los miembros del Consejo de Administración, del Consejo de Vigilancia y del 
 
 II. Los cónyuges y las personas que tengan parentesco con las personas señaladas en la fracción anterior.
 
-III. Se entenderá por parentesco al que existe por consanguinidad y afinidad en línea recta en primer grado, y por consanguinidad y afinidad en línea colateral en primer grado o civil. IV. Los funcionarios de la Sociedad Cooperativa de Ahorro y Préstamo, así como las personas distintas a éstos que con su firma puedan obligar a la Sociedad Cooperativa de Ahorro y Préstamo.
+III. Se entenderá por parentesco al que existe por consanguinidad y afinidad en línea recta en primer grado, y por consanguinidad y afinidad en línea colateral en primer grado o civil.
+
+IV. Los funcionarios de la Sociedad Cooperativa de Ahorro y Préstamo, así como las personas distintas a éstos que con su firma puedan obligar a la Sociedad Cooperativa de Ahorro y Préstamo.
 
 Se entenderá por funcionario al director o gerente general y a los funcionarios que ocupen cargos con la jerarquía inmediata inferior a la de aquéllos.
 

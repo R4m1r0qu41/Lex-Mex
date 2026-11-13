@@ -31,7 +31,9 @@ IV. Evitar comprometer recursos que excedan la capacidad financiera de los gobie
 
 V. Las prioridades de las entidades federativas con el fin de alcanzar los objetivos pretendidos;
 
-VI. Especificar, en su caso, las fuentes de recursos o potestades de recaudación de ingresos por parte de las entidades federativas que complementen los recursos transferidos o reasignados; VII. En la suscripción de dichos instrumentos deberá tomarse en cuenta si los objetivos pretendidos podrían alcanzarse de mejor manera transfiriendo total o parcialmente las responsabilidades a cargo del Gobierno Federal o sus entidades, por medio de modificaciones legales;
+VI. Especificar, en su caso, las fuentes de recursos o potestades de recaudación de ingresos por parte de las entidades federativas que complementen los recursos transferidos o reasignados;
+
+VII. En la suscripción de dichos instrumentos deberá tomarse en cuenta si los objetivos pretendidos podrían alcanzarse de mejor manera transfiriendo total o parcialmente las responsabilidades a cargo del Gobierno Federal o sus entidades, por medio de modificaciones legales;
 
 VIII. Las medidas o mecanismos que permitan afrontar contingencias en los programas y proyectos reasignados;
 

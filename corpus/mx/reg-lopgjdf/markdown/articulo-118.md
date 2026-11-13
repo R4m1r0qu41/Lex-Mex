@@ -33,7 +33,9 @@ e) Muerte.
 
 II. Terminación de los efectos del nombramiento, por incurrir en causas imputables al servidor público que impliquen la pérdida de la confianza o deficiencia en el servicio;
 
-III. Destitución o inhabilitación administrativa por resolución firme, por haber incurrido en responsabilidad administrativa en el desempeño de sus funciones; IV. Incumplimiento de alguno de los requisitos de Ley para el ingreso y permanencia en el puesto correspondiente, y
+III. Destitución o inhabilitación administrativa por resolución firme, por haber incurrido en responsabilidad administrativa en el desempeño de sus funciones;
+
+IV. Incumplimiento de alguno de los requisitos de Ley para el ingreso y permanencia en el puesto correspondiente, y
 
 V. Las demás que establezcan las disposiciones legales y reglamentarias aplicables.
 

@@ -39,7 +39,9 @@ V. Constituir depósitos en instituciones de crédito y entidades financieras de
 
 VI. Efectuar descuentos y otorgar préstamos o créditos;
 
-VII. Expedir tarjetas de crédito con base en contratos de apertura de crédito en cuenta corriente; VIII. Asumir obligaciones por cuenta de terceros, con base en créditos concedidos, a través del otorgamiento de aceptaciones, endoso o aval de títulos de crédito, así como de la expedición de cartas de crédito;
+VII. Expedir tarjetas de crédito con base en contratos de apertura de crédito en cuenta corriente;
+
+VIII. Asumir obligaciones por cuenta de terceros, con base en créditos concedidos, a través del otorgamiento de aceptaciones, endoso o aval de títulos de crédito, así como de la expedición de cartas de crédito;
 
 IX. Operar con valores en los términos de las disposiciones de la presente Ley y de la Ley Mercado de Valores;
 
@@ -71,7 +73,9 @@ XXI. Desempeñar la sindicatura o encargarse de la liquidación judicial o extra
 
 XXII. Encargarse de hacer avalúos que tendrán la misma fuerza probatoria que las leyes asignan a los hechos por corredor público o perito;
 
-XXIII. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda, y XXIV. Celebrar contratos de arrendamiento financiero y adquirir los bienes que sean objeto de tales contratos. Fracción adicionada DOF 23-07-1993 Reforma DOF 04-06-2001: Derogó de esta fracción el entonces párrafo segundo
+XXIII. Adquirir los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda, y
+
+XXIV. Celebrar contratos de arrendamiento financiero y adquirir los bienes que sean objeto de tales contratos. Fracción adicionada DOF 23-07-1993 Reforma DOF 04-06-2001: Derogó de esta fracción el entonces párrafo segundo
 
 XXV. Realizar operaciones derivadas, sujetándose a las disposiciones técnicas y operativas que expida el Banco de México, en las cuales se establezcan las características de dichas operaciones, tales como tipos, plazos, contrapartes, subyacentes, garantías y formas de liquidación; Fracción reformada DOF 23-07-1993 (se recorre), 04-06-2001, 01-02-2008
 

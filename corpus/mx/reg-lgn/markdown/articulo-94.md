@@ -29,7 +29,9 @@ c) Segundo Subinspector: 12 años, y
 
 d) Primer Subinspector: 15 años;
 
-II. Tener en el grado que ostente una antigüedad mínima de 3 años; III. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
+II. Tener en el grado que ostente una antigüedad mínima de 3 años;
+
+III. Tener buena salud y estar capacitado físicamente para el desempeño de las funciones propias del grado inmediato superior;
 
 IV. Haber aprobado los cursos de formación correspondientes;
 

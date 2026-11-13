@@ -27,4 +27,6 @@ III. Nombre, clave del registro federal de contribuyentes o, en su caso, clave �
 
 IV. La descripción del bien, arrendamiento o servicio de que se trate;
 
-V. Lugar y fecha de la operación, y VI. La leyenda “constancia de gastos comunes”.
+V. Lugar y fecha de la operación, y
+
+VI. La leyenda “constancia de gastos comunes”.

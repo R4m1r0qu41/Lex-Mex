@@ -21,4 +21,6 @@ Para los efectos de esta [Ley](articulo-2.md), se entenderá por:
 
 I. Ley, la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional; Fracción reformada DOF 16-07-2025
 
-II. Secretaría, la Secretaría de la Defensa Nacional, y III. Dirección y Rectoría, la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional. Fracción reformada DOF 16-07-2025
+II. Secretaría, la Secretaría de la Defensa Nacional, y
+
+III. Dirección y Rectoría, la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional. Fracción reformada DOF 16-07-2025

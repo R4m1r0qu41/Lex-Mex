@@ -37,21 +37,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:2:term-usage:6000-6015",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:2:term-usage:6001-6016",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:2",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 6000,
-    "end_char": 6015
+    "start_char": 6001,
+    "end_char": 6016
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:2:term-usage:8977-8992",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:2:term-usage:8978-8993",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:2",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 8977,
-    "end_char": 8992
+    "start_char": 8978,
+    "end_char": 8993
   },
   {
     "schema_version": "0.1.0",
@@ -91,39 +91,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:7:term-usage:1667-1682",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:7:term-usage:1668-1683",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:7",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1667,
-    "end_char": 1682
+    "start_char": 1668,
+    "end_char": 1683
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:7:term-usage:1990-2005",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:7:term-usage:1991-2006",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:7",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1990,
-    "end_char": 2005
+    "start_char": 1991,
+    "end_char": 2006
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:7:term-usage:3134-3149",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:7:term-usage:3135-3150",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:7",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 3134,
-    "end_char": 3149
+    "start_char": 3135,
+    "end_char": 3150
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:7:term-usage:4297-4312",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:7:term-usage:4298-4313",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:7",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 4297,
-    "end_char": 4312
+    "start_char": 4298,
+    "end_char": 4313
   },
   {
     "schema_version": "0.1.0",
@@ -415,12 +415,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:140:term-usage:3661-3676",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:140:term-usage:3662-3677",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:140",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 3661,
-    "end_char": 3676
+    "start_char": 3662,
+    "end_char": 3677
   },
   {
     "schema_version": "0.1.0",
@@ -694,12 +694,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:235:term-usage:2387-2402",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:235:term-usage:2388-2403",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:235",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 2387,
-    "end_char": 2402
+    "start_char": 2388,
+    "end_char": 2403
   },
   {
     "schema_version": "0.1.0",
@@ -730,12 +730,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:241:term-usage:2209-2224",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:241:term-usage:2210-2225",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:241",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 2209,
-    "end_char": 2224
+    "start_char": 2210,
+    "end_char": 2225
   },
   {
     "schema_version": "0.1.0",
@@ -1045,12 +1045,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:407:term-usage:1519-1534",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:407:term-usage:1520-1535",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:407",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1519,
-    "end_char": 1534
+    "start_char": 1520,
+    "end_char": 1535
   },
   {
     "schema_version": "0.1.0",
@@ -1423,12 +1423,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:550:term-usage:1338-1353",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:550:term-usage:1339-1354",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:550",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1338,
-    "end_char": 1353
+    "start_char": 1339,
+    "end_char": 1354
   },
   {
     "schema_version": "0.1.0",
@@ -1522,12 +1522,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:610:term-usage:2636-2651",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:610:term-usage:2637-2652",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:610",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 2636,
-    "end_char": 2651
+    "start_char": 2637,
+    "end_char": 2652
   },
   {
     "schema_version": "0.1.0",
@@ -2125,12 +2125,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:799:term-usage:1604-1619",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:799:term-usage:1605-1620",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:799",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1604,
-    "end_char": 1619
+    "start_char": 1605,
+    "end_char": 1620
   },
   {
     "schema_version": "0.1.0",
@@ -2314,12 +2314,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:851:term-usage:1099-1114",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:851:term-usage:1100-1115",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:851",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1099,
-    "end_char": 1114
+    "start_char": 1100,
+    "end_char": 1115
   },
   {
     "schema_version": "0.1.0",
@@ -2341,30 +2341,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:863:term-usage:1411-1426",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:863:term-usage:1412-1427",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:863",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1411,
-    "end_char": 1426
+    "start_char": 1412,
+    "end_char": 1427
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:863:term-usage:1768-1783",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:863:term-usage:1769-1784",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:863",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1768,
-    "end_char": 1783
+    "start_char": 1769,
+    "end_char": 1784
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:866:term-usage:896-911",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:866:term-usage:897-912",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:866",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 896,
-    "end_char": 911
+    "start_char": 897,
+    "end_char": 912
   },
   {
     "schema_version": "0.1.0",
@@ -2512,12 +2512,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:910:term-usage:556-571",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:910:term-usage:557-572",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:910",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 556,
-    "end_char": 571
+    "start_char": 557,
+    "end_char": 572
   },
   {
     "schema_version": "0.1.0",
@@ -2647,21 +2647,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:957:term-usage:5025-5040",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:957:term-usage:5026-5041",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:957",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 5025,
-    "end_char": 5040
+    "start_char": 5026,
+    "end_char": 5041
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:957:term-usage:5744-5759",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:957:term-usage:5745-5760",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:957",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 5744,
-    "end_char": 5759
+    "start_char": 5745,
+    "end_char": 5760
   },
   {
     "schema_version": "0.1.0",
@@ -2692,12 +2692,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:960:term-usage:1104-1119",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:960:term-usage:1105-1120",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:960",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 1104,
-    "end_char": 1119
+    "start_char": 1105,
+    "end_char": 1120
   },
   {
     "schema_version": "0.1.0",
@@ -2890,12 +2890,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:1039:term-usage:1966-1978",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:1039:term-usage:1967-1979",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:1039",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-civil",
     "span": "Código Civil",
-    "start_char": 1966,
-    "end_char": 1978
+    "start_char": 1967,
+    "end_char": 1979
   },
   {
     "schema_version": "0.1.0",
@@ -3088,12 +3088,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cnpcf:article:1137:term-usage:602-617",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:1137:term-usage:603-618",
     "provision_id": "urn:lex-mx:federal:code:cnpcf:article:1137",
     "term_id": "urn:lex-mx:federal:code:cnpcf:term:codigo-nacional",
     "span": "Código Nacional",
-    "start_char": 602,
-    "end_char": 617
+    "start_char": 603,
+    "end_char": 618
   },
   {
     "schema_version": "0.1.0",

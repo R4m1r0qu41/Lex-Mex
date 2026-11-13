@@ -21,7 +21,9 @@ De cada acto de [Verificación](articulo-4.md) o [Vigilancia](articulo-4.md), se
 
 I. Nombre, denominación o razón social de la persona a quien se practicó el acto de Verificación o Vigilancia;
 
-II. Hora, día, mes y año en que inicie y en que concluya la diligencia; III. Calle, número, población o colonia, municipio o alcaldía, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique el acto de Verificación o Vigilancia;
+II. Hora, día, mes y año en que inicie y en que concluya la diligencia;
+
+III. Calle, número, población o colonia, municipio o alcaldía, código postal y entidad federativa en que se encuentre ubicado el lugar en que se practique el acto de Verificación o Vigilancia;
 
 IV. Número y fecha del oficio de la autoridad que motivó la Verificación o Vigilancia;
 

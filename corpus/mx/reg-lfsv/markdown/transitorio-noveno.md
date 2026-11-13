@@ -21,7 +21,9 @@ I. El [Embarque](articulo-2.md) será producido comercialmente a partir de semil
 
 II. Los Embarques estén en paquetes de 9.09 kg (20 libras) o menos;
 
-III. Las especificaciones para el cumplimiento de las Medidas Fitosanitarias a que se refiere este transitorio, incluyendo la lista de Plagas Cuarentenarias específicas se establecerá en un [Plan de Trabajo Binacional](articulo-2.md) suscrito entre la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación a través del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria y la autoridad fitosanitaria competente del País de Origen; IV. Las papas frescas para procesamiento de todos los países son elegibles para importar a México siempre y cuando las papas cumplan con todos los requisitos señalados para las papas frescas para consumo con las excepciones siguientes:
+III. Las especificaciones para el cumplimiento de las Medidas Fitosanitarias a que se refiere este transitorio, incluyendo la lista de Plagas Cuarentenarias específicas se establecerá en un [Plan de Trabajo Binacional](articulo-2.md) suscrito entre la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación a través del Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria y la autoridad fitosanitaria competente del País de Origen;
+
+IV. Las papas frescas para procesamiento de todos los países son elegibles para importar a México siempre y cuando las papas cumplan con todos los requisitos señalados para las papas frescas para consumo con las excepciones siguientes:
 
 a) Los Embarques no requieren estar en paquetes al consumidor del tamaño de 9.09 kg. o menos;
 

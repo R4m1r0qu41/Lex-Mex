@@ -31,7 +31,9 @@ V. Diagnóstico de las emisiones en el país y acciones que den prioridad a los 
 
 VI. Oportunidades para la mitigación de emisiones en la generación y uso de energía, quema y venteo de gas natural, uso de suelo y cambio de uso de suelo, transporte, procesos industriales, gestión de residuos y demás sectores o actividades;
 
-VII. Escenario de línea base; VIII. Emisiones de línea base;
+VII. Escenario de línea base;
+
+VIII. Emisiones de línea base;
 
 IX. Trayectoria objetivo de emisiones;
 

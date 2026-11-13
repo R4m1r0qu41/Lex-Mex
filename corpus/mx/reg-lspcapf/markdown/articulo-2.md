@@ -21,7 +21,9 @@ Para efectos del presente reglamento, además de lo previsto en el artículo [3]
 
 I. Ascenso: la promoción de un servidor público de carrera a un mayor rango o grupo en la estructura jerárquica de la dependencia en la que labora o presta sus servicios;
 
-II. Capacidades profesionales: el conjunto de conocimientos, actitudes y habilidades del servidor público de carrera, las cuales se refieren a las competencias requeridas para el adecuado desempeño en un puesto, y serán objeto de evaluación y, en su caso, certificación; III. Convenio: el acto jurídico al que se refiere el artículo [43](../../lspcapf/markdown/articulo-43.md) de la Ley, que celebran las dependencias con las autoridades federales, las entidades federativas, los municipios, las demarcaciones territoriales de la Ciudad de México y los organismos públicos o privados para fortalecer el desarrollo profesional del servidor público de carrera;
+II. Capacidades profesionales: el conjunto de conocimientos, actitudes y habilidades del servidor público de carrera, las cuales se refieren a las competencias requeridas para el adecuado desempeño en un puesto, y serán objeto de evaluación y, en su caso, certificación;
+
+III. Convenio: el acto jurídico al que se refiere el artículo [43](../../lspcapf/markdown/articulo-43.md) de la Ley, que celebran las dependencias con las autoridades federales, las entidades federativas, los municipios, las demarcaciones territoriales de la Ciudad de México y los organismos públicos o privados para fortalecer el desarrollo profesional del servidor público de carrera;
 
 IV. Cuerpo de función: la clasificación de la rama de cargo o puesto con base en grupos de funciones vinculadas por sus actividades y capacidades profesionales y que es la base para permitir la movilidad vertical u horizontal de los servidores públicos de carrera mediante los procesos de profesionalización;
 

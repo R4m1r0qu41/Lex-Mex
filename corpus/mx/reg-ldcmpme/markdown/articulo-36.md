@@ -29,7 +29,9 @@ c) La cobertura y el volumen de atención a las MYPIMES, y
 
 d) La autosuficiencia financiera de los diferentes programas.
 
-II. Los mecanismos de evaluación externa a través de instituciones académicas de investigación u órganos especializados, que cuenten con experiencia en la materia; REGLAMENTO DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA III. El mecanismo para la presentación de información de manera periódica y transparente, al menos anualmente, a las instancias fiscalizadoras correspondientes y a la ciudadanía, según corresponda, sobre los avances y resultados de cada uno de los programas instrumentados;
+II. Los mecanismos de evaluación externa a través de instituciones académicas de investigación u órganos especializados, que cuenten con experiencia en la materia;
+
+III. El mecanismo para la presentación de información de manera periódica y transparente, al menos anualmente, a las instancias fiscalizadoras correspondientes y a la ciudadanía, según corresponda, sobre los avances y resultados de cada uno de los programas instrumentados;
 
 IV. Sistemas de mejora continua para corregir deficiencias y desviaciones en forma adecuada y oportuna, así como reforzar los programas de fomento exitosos y cancelar aquéllos que no justifiquen su impacto, costo-beneficio o viabilidad, y
 

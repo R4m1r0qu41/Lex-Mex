@@ -17,7 +17,9 @@ source_sha256: 8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f
 
 # Artículo 217
 
-Criterios para la sustitución de la medida de sanción Para la sustitución de las demás medidas de sanción por otras de menor gravedad, el Juez de Ejecución deberá considerar, entre otras: I. El interés superior de la niñez;
+Criterios para la sustitución de la medida de sanción Para la sustitución de las demás medidas de sanción por otras de menor gravedad, el Juez de Ejecución deberá considerar, entre otras:
+
+I. El interés superior de la niñez;
 
 II. Las condiciones en que ha venido cumpliendo la medida, y
 

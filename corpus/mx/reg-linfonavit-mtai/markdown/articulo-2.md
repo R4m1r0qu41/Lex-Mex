@@ -31,7 +31,9 @@ V. Comité de Transparencia y Acceso a la Información del INFONAVIT: El comité
 
 VI. Contraloría Interna: La Contraloría Interna del INFONAVIT;
 
-VII. Reglamento: el presente Reglamento; REGLAMENTO DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN VIII. Unidad de Enlace: La unidad administrativa del INFONAVIT que será el vínculo con el solicitante, encargada de recibir y dar trámite a una solicitud de información, hacer las gestiones internas para que se resuelva y entregue, y efectuar la notificación de la resolución que corresponda;
+VII. Reglamento: el presente Reglamento;
+
+VIII. Unidad de Enlace: La unidad administrativa del INFONAVIT que será el vínculo con el solicitante, encargada de recibir y dar trámite a una solicitud de información, hacer las gestiones internas para que se resuelva y entregue, y efectuar la notificación de la resolución que corresponda;
 
 IX. Solicitante: Cualquier persona que ejerce su derecho de acceso a la información del INFONAVIT o a sus datos personales o a la corrección de estos últimos, y
 

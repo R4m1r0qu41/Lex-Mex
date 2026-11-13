@@ -17,7 +17,9 @@ source_sha256: 931a461822618f46f4c830890fe77f07bca22c1161f03a2ce5e70106a43f8557
 
 # Artículo 56
 
-Los convenios de concertación incluirán lo siguiente: I. La definición de los programas, proyectos, acciones, obras, inversiones y servicios objeto de la concertación, señalando:
+Los convenios de concertación incluirán lo siguiente:
+
+I. La definición de los programas, proyectos, acciones, obras, inversiones y servicios objeto de la concertación, señalando:
 
 a. El programa anual de gasto en el que se identifiquen acciones concretas por programa y en el que se cuantifiquen metas, costos, ubicación geográfica, principales características y en su caso, zonas o productores de atención prioritaria, y
 

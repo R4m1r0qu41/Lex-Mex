@@ -25,6 +25,8 @@ II. Considerar el uso de técnicas y metodologías adecuadas conforme al conteni
 
 III. Usar apropiadamente el lenguaje y el diseño gráfico, para fortalecer el proceso de aprendizaje;
 
-IV. Prever facilidades de interacción entre las personas participantes e instructora o tutora, y V. Cumplir, cuando los cursos sean impartidos en modalidad virtual, con las características operativas y didácticas que se requieran para el logro de los aprendizajes de las personas participantes.
+IV. Prever facilidades de interacción entre las personas participantes e instructora o tutora, y
+
+V. Cumplir, cuando los cursos sean impartidos en modalidad virtual, con las características operativas y didácticas que se requieran para el logro de los aprendizajes de las personas participantes.
 
 Artículo reformado DOF 04-01-2024

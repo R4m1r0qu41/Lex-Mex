@@ -43,7 +43,9 @@ X. Participar en la negociación y, en su caso, en los convenios financieros de 
 
 XI. Estudiar políticas, planes y programas en materia de fomento al comercio exterior y su financiamiento, y someterlos a la consideración de las autoridades competentes;
 
-XII. Fungir como órgano de consulta de las autoridades competentes, en materia de comercio exterior y su financiamiento; XIII. Participar en las actividades inherentes a la promoción del comercio exterior, tales como difusión, estudio de productos y servicios exportables, sistemas de venta, apoyo a la comercialización y organización de productores, comerciantes, distribuidores y exportadores;
+XII. Fungir como órgano de consulta de las autoridades competentes, en materia de comercio exterior y su financiamiento;
+
+XIII. Participar en las actividades inherentes a la promoción del comercio exterior, tales como difusión, estudio de productos y servicios exportables, sistemas de venta, apoyo a la comercialización y organización de productores, comerciantes, distribuidores y exportadores;
 
 XIV. Opinar, a solicitud que le formulen directamente las autoridades competentes, sobre tratados y convenios que el país proyecte celebrar con otras naciones, en materia de comercio exterior y su financiamiento;
 

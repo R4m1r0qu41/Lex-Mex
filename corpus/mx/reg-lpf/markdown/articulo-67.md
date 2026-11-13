@@ -25,7 +25,9 @@ II. Desarrollar los sistemas y bases de datos para poder consultar, de manera fl
 
 III. Colaborar, en términos de las disposiciones aplicables, con instituciones de seguridad pública de los tres órdenes de gobierno a efecto de implementar canales seguros que permitan compartir información para la prevención y combate de los delitos que se cometen utilizando medios electrónicos, tecnológicos y aquéllos que lleguen a desarrollarse;
 
-IV. Cooperar con organismos homólogos, nacionales y extranjeros en acciones derivadas de la prevención y combate de delitos electrónicos, tecnológicos y aquéllos que lleguen a desarrollarse; V. Establecer una infraestructura de operación y correlación de seguridad informática y tecnológica, con el fin de identificar y monitorear amenazas tecnológicas, electrónicas, y de otras tecnologías que lleguen a desarrollarse;
+IV. Cooperar con organismos homólogos, nacionales y extranjeros en acciones derivadas de la prevención y combate de delitos electrónicos, tecnológicos y aquéllos que lleguen a desarrollarse;
+
+V. Establecer una infraestructura de operación y correlación de seguridad informática y tecnológica, con el fin de identificar y monitorear amenazas tecnológicas, electrónicas, y de otras tecnologías que lleguen a desarrollarse;
 
 VI. Establecer un centro de operaciones de seguridad electrónica interno para dar soporte en tiempo real referente a situaciones de rastreo contra el crimen cibernético, a situaciones de análisis de información y a la protección de la información derivada de las investigaciones o generada por inteligencia.
 

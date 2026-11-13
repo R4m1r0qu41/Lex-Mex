@@ -35,4 +35,6 @@ III. Conformar grupos de trabajo para la ejecución de cada una de las etapas qu
 
 IV. Fomentar el uso de tecnologías de la información y comunicación, mediante la implementación de un sistema web que opere como un canal de comunicación entre los organizadores y los participantes, además de que administre la información para efectos logísticos y de operación;
 
-V. Conformar la memoria de la Reunión Nacional, a través de relatorías, estenografía, así como grabación de audio y video, y VI. Elaborar la Agenda de Trabajo, de acuerdo al formato que se determine y a las líneas temáticas que se establezcan, en apego a los objetivos de la Ley.
+V. Conformar la memoria de la Reunión Nacional, a través de relatorías, estenografía, así como grabación de audio y video, y
+
+VI. Elaborar la Agenda de Trabajo, de acuerdo al formato que se determine y a las líneas temáticas que se establezcan, en apego a los objetivos de la Ley.

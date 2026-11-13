@@ -33,7 +33,9 @@ Las autoridades educativas podrán revocar las referidas autorizaciones cuando s
 
 Las constancias de revalidación y equivalencia de estudios deberán ser registradas en el Sistema de Información y Gestión Educativa, en los términos que establezca la Secretaría;
 
-VI. Suscribir los acuerdos y convenios que faciliten el tránsito nacional e internacional de estudiantes, así como promover la suscripción de tratados en la materia; VII. Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los de normal y demás para la formación de docentes de educación básica que impartan los particulares;
+VI. Suscribir los acuerdos y convenios que faciliten el tránsito nacional e internacional de estudiantes, así como promover la suscripción de tratados en la materia;
+
+VII. Otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los de normal y demás para la formación de docentes de educación básica que impartan los particulares;
 
 VIII. Editar libros y producir otros materiales educativos, distintos de los señalados en la fracción IV del artículo [113](articulo-113.md) de esta Ley, apegados a los fines y criterios establecidos en el artículo 3o. constitucional y para el cumplimiento de los planes y programas de estudio autorizados por la Secretaría;
 
@@ -53,7 +55,9 @@ XV. Promover entornos escolares saludables, a través de acciones que permitan a
 
 XVI. Promover en la educación obligatoria prácticas cooperativas de ahorro, producción y promoción de estilos de vida saludables en alimentación, de acuerdo con lo establecido en la ley y las Normas Oficiales Mexicanas de la materia y el Reglamento de Cooperativas Escolares; Fracción reformada DOF 20-12-2023
 
-XVII. Promover, ante las autoridades correspondientes, los permisos necesarios de acuerdo con la legislación laboral aplicable, con la finalidad de facilitar la participación de madres y padres de familia o tutores en las actividades de educación y desarrollo de sus hijas, hijos o pupilos menores de dieciocho años; XVIII. Aplicar los instrumentos que consideren necesarios para la mejora continua de la educación en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita la Comisión Nacional para la Mejora Continua de la Educación;
+XVII. Promover, ante las autoridades correspondientes, los permisos necesarios de acuerdo con la legislación laboral aplicable, con la finalidad de facilitar la participación de madres y padres de familia o tutores en las actividades de educación y desarrollo de sus hijas, hijos o pupilos menores de dieciocho años;
+
+XVIII. Aplicar los instrumentos que consideren necesarios para la mejora continua de la educación en el ámbito de su competencia, atendiendo los lineamientos que en ejercicio de sus atribuciones emita la Comisión Nacional para la Mejora Continua de la Educación;
 
 XIX. Coordinar y operar un sistema de asesoría y acompañamiento a las escuelas públicas de educación básica y media superior, como apoyo a la mejora de la práctica profesional, bajo la responsabilidad de los supervisores escolares;
 

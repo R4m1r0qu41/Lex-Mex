@@ -17,7 +17,7 @@ source_sha256: f0bce536c7b11ef67cbc2aea3216310a0293fd3971fdf98913368151b6a1ac62
 
 # Artículo 18
 
-Los [Entes Públicos](articulo-4.md) Federales, podrán destinar recursos presupuestarios para [Tiempos Comerciales](articulo-4.md), siempre y cuando, hayan solicitado los Tiempos Oficiales, y dichos tiempos no estuvieran disponibles en los espacios y tiempos solicitados.
+Los [Entes Públicos](articulo-4.md) Federales, podrán destinar recursos presupuestarios para [Tiempos Comerciales](articulo-4.md), siempre y cuando, hayan solicitado los [Tiempos Oficiales](articulo-4.md), y dichos tiempos no estuvieran disponibles en los espacios y tiempos solicitados.
 
 Los Entes Públicos, para la difusión de Campañas de Comunicación Social y de mensajes para atender situaciones de carácter contingente, deberán sujetarse a las disposiciones del Presupuesto de Egresos de la Federación o a sus presupuestos de egresos respectivos, así como su Programa Anual de Comunicación Social. Los Entes Públicos no podrán convenir el pago de créditos fiscales, ni de cualquier otra obligación de pago a favor de la autoridad, a través de la prestación de servicios de publicidad, impresiones, inserciones y demás actividades en materia de Comunicación Social.
 

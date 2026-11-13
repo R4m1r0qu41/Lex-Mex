@@ -17,7 +17,9 @@ source_sha256: e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68
 
 # Artículo 211
 
-La sentencia deberá señalar: I. La decisión sobre cada una de las pretensiones del [Ministerio Público](articulo-2.md);
+La sentencia deberá señalar:
+
+I. La decisión sobre cada una de las pretensiones del [Ministerio Público](articulo-2.md);
 
 II. La explicación de la desestimación de las pruebas de las partes, y
 

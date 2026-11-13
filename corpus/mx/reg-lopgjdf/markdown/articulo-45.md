@@ -37,7 +37,9 @@ VIII. Dirigir y coordinar la elaboración, actualización y edición de material
 
 IX. Dirigir y actualizar la página de Internet de la Institución como medio masivo de difusión en coordinación con la Dirección General de Tecnología y Sistemas Informáticos;
 
-X. Coordinar y brindar el apoyo que requieran las unidades administrativas y órganos desconcentrados de la Institución, en la organización de eventos que requieran el apoyo de relaciones públicas; XI. Mantener un archivo actualizado de las informaciones emitidas, así como de las recopilaciones de notas periodísticas, radiofónicas, televisivas, carteles, materiales audiovisuales y otras publicaciones oficiales de la Procuraduría para su consulta por las áreas interesadas;
+X. Coordinar y brindar el apoyo que requieran las unidades administrativas y órganos desconcentrados de la Institución, en la organización de eventos que requieran el apoyo de relaciones públicas;
+
+XI. Mantener un archivo actualizado de las informaciones emitidas, así como de las recopilaciones de notas periodísticas, radiofónicas, televisivas, carteles, materiales audiovisuales y otras publicaciones oficiales de la Procuraduría para su consulta por las áreas interesadas;
 
 XII. Realizar estudios y encuestas de opinión pública que permitan estructurar o modificar los programas de comunicación social de la Procuraduría para tener elementos de juicio y conocer su impacto en la sociedad;
 

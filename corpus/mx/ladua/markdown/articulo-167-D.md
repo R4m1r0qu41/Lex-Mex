@@ -43,7 +43,9 @@ V. Contar con solvencia económica, capacidad técnica y administrativa para pre
 
 VI. Encontrarse al corriente en el cumplimiento de sus obligaciones fiscales.
 
-VII. Contar con los medios de cómputo y transmisión de datos enlazados con el sistema electrónico aduanero del Servicio de Administración Tributaria, así como llevar un registro simultáneo de las operaciones de comercio exterior. VIII. Cumplir los demás requisitos y condiciones que el Servicio de Administración Tributaria establezca mediante reglas.
+VII. Contar con los medios de cómputo y transmisión de datos enlazados con el sistema electrónico aduanero del Servicio de Administración Tributaria, así como llevar un registro simultáneo de las operaciones de comercio exterior.
+
+VIII. Cumplir los demás requisitos y condiciones que el Servicio de Administración Tributaria establezca mediante reglas.
 
 Los socios de la persona moral deberán cumplir con los siguientes requisitos:
 

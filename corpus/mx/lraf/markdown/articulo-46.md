@@ -23,7 +23,7 @@ I. Solicitar información de la Sociedad Controladora y entidades financieras o 
 
 Al efecto, el consejo de administración podrá establecer, con la previa opinión del comité que desempeñe las funciones en materia de auditoría, lineamientos que establezcan la forma en que se harán dichas solicitudes y, en su caso, el alcance de las propias solicitudes de información por parte de los consejeros.
 
-II. Requerir la presencia de Directivos Relevantes y demás personas, incluyendo auditores externos, de la Sociedad Controladora y entidades financieras integrantes del Grupo Financiero que puedan contribuir o aportar elementos para la toma de decisiones en las sesiones del consejo.
+II. Requerir la presencia de [Directivos Relevantes](articulo-5o.md) y demás personas, incluyendo auditores externos, de la Sociedad Controladora y entidades financieras integrantes del Grupo Financiero que puedan contribuir o aportar elementos para la toma de decisiones en las sesiones del consejo.
 
 III. Aplazar las sesiones del consejo de administración, cuando un consejero no haya sido convocado o ello no hubiere sido en tiempo o, en su caso, por no habérsele proporcionado la información entregada a los demás consejeros. Dicho aplazamiento será hasta por tres días, pudiendo sesionar el consejo sin necesidad de nueva convocatoria, siempre que se haya subsanado la deficiencia.
 

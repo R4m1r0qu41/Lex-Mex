@@ -17,7 +17,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 84
 
-A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el Artículo [83](articulo-83.md), se impondrán las siguientes sanciones: I. De $2,220.00 a $22,110.00, a la comprendida en la fracción I. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el Artículo [83](articulo-83.md), se impondrán las siguientes sanciones:
+
+I. De $2,220.00 a $22,110.00, a la comprendida en la fracción I. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 II. De $490.00 a $11,050.00, a las establecidas en las fracciones II y III. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 

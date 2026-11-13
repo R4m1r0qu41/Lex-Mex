@@ -15,7 +15,9 @@ source_sha256: c8a4080aaf0b6f80cf9c50f8085d899e2ba68bbac8568ab12743dddf65cfa742
 
 # Artículo 6o
 
-La determinación de la contribución de mejoras que establece esta Ley, se realizará de conformidad con el siguiente procedimiento: I.- Tratándose de obras hidroagrícolas, se determinarán los montos de contribución a pagar por el conjunto de contribuyentes, dividiendo el valor recuperable de la obra, entre el número de años que comprende el plazo máximo legal, o en su caso, el plazo otorgado a los usuarios.
+La determinación de la contribución de mejoras que establece esta Ley, se realizará de conformidad con el siguiente procedimiento:
+
+I.- Tratándose de obras hidroagrícolas, se determinarán los montos de contribución a pagar por el conjunto de contribuyentes, dividiendo el valor recuperable de la obra, entre el número de años que comprende el plazo máximo legal, o en su caso, el plazo otorgado a los usuarios.
 
 II.- Tratándose de otro tipo de obras hidráulicas, se determinarán los montos de contribución a pagar por el conjunto de contribuyentes, dividiendo el valor recuperable de la obra entre el número de semestres que comprende el plazo máximo legal, o en su caso, el plazo otorgado a los usuarios.
 

@@ -61,7 +61,9 @@ XX. Establecer y conservar actualizados los procedimientos y sistemas de informa
 
 XXI. Establecer los instrumentos y procedimientos que permitan que los procesos de trabajo se realicen de manera articulada, congruente y eficaz;
 
-XXII. Establecer los sistemas de registro, control y evaluación necesarios para alcanzar los resultados, metas y objetivos propuestos para el corto y mediano plazos; XXIII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de servicios que brinde el Comité Nacional;
+XXII. Establecer los sistemas de registro, control y evaluación necesarios para alcanzar los resultados, metas y objetivos propuestos para el corto y mediano plazos;
+
+XXIII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de servicios que brinde el Comité Nacional;
 
 XXIV. Establecer un sistema de indicadores que permita evaluar la gestión de la entidad;
 

@@ -39,6 +39,8 @@ IV.- La renuncia de los derechos que confiere la fracción II del artículo [4](
 
 V.- Las transmisiones y gravámenes que, en su caso, se realicen de los derechos a que se refiere la fracción II del artículo [4](articulo-4o.md)o. de esta ley;
 
-VI.- La expedición de licencias de emergencia a que se refiere esta ley; VII.- El fin de la vigencia de la constancia de presentación o del título de obtentor, ya sea por caducidad o por vencimiento del plazo respectivo, así como la inscripción preventiva de los procedimientos de nulidad y revocación de un título de obtentor y su resolución definitiva, y
+VI.- La expedición de licencias de emergencia a que se refiere esta ley;
+
+VII.- El fin de la vigencia de la constancia de presentación o del título de obtentor, ya sea por caducidad o por vencimiento del plazo respectivo, así como la inscripción preventiva de los procedimientos de nulidad y revocación de un título de obtentor y su resolución definitiva, y
 
 VIII.- La declaratoria en la que se establezca que las variedades vegetales han pasado al dominio público.

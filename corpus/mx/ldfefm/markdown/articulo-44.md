@@ -21,7 +21,9 @@ La medición del [Sistema de Alertas](articulo-2.md) se realizará con base en l
 
 I. Indicador de [Deuda Pública](articulo-2.md) y [Obligaciones](articulo-2.md) sobre [Ingresos de libre disposición](articulo-2.md), vinculado con la sostenibilidad de la deuda de un [Ente Público](articulo-2.md). Entre mayor nivel de apalancamiento menor sostenibilidad financiera.
 
-Para el caso de los proyectos contratados bajo esquemas de Asociación Público-Privada, sólo se contabilizará la parte correspondiente a la inversión por infraestructura; II. Indicador de Servicio de la Deuda y de Obligaciones sobre Ingresos de libre disposición, el cual está vinculado con la capacidad de pago. Para su cálculo se incluirán las amortizaciones, intereses, anualidades y costos financieros atados a cada [Financiamiento](articulo-2.md) y pago por servicios derivados de esquemas de Asociación Público-Privada destinados al pago de la inversión, y
+Para el caso de los proyectos contratados bajo esquemas de [Asociación Público-Privada](articulo-2.md), sólo se contabilizará la parte correspondiente a la inversión por infraestructura;
+
+II. Indicador de Servicio de la Deuda y de Obligaciones sobre Ingresos de libre disposición, el cual está vinculado con la capacidad de pago. Para su cálculo se incluirán las amortizaciones, intereses, anualidades y costos financieros atados a cada [Financiamiento](articulo-2.md) y pago por servicios derivados de esquemas de Asociación Público-Privada destinados al pago de la inversión, y
 
 III. Indicador de Obligaciones a Corto Plazo y Proveedores y Contratistas, menos los montos de efectivo, bancos e inversiones temporales, sobre [Ingresos totales](articulo-2.md), el cual muestra la disponibilidad financiera del Ente Público para hacer frente a sus obligaciones contratadas a plazos menores de 12 meses en relación con los ingresos totales. Fracción reformada DOF 30-01-2018
 

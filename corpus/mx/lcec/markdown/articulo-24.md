@@ -17,9 +17,11 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 24
 
-El Consejo Directivo será encabezado por un Presidente, los Vicepresidentes que se requieran según los Estatutos y el objeto de la Cámara o [Confederación](articulo-2.md), un Tesorero y un Secretario, de acuerdo a los siguientes requisitos:
+El Consejo Directivo será encabezado por un Presidente, los Vicepresidentes que se requieran según los Estatutos y el objeto de la [Cámara](articulo-2.md) o [Confederación](articulo-2.md), un Tesorero y un Secretario, de acuerdo a los siguientes requisitos:
 
-I. El Presidente será electo en la primera sesión ordinaria del Consejo Directivo, la que deberá realizarse en la misma fecha en que se reúna la Asamblea General en sesión ordinaria; II. A propuesta del Presidente, el Consejo Directivo aprobará la designación de los Vicepresidentes, Tesorero y Secretario;
+I. El Presidente será electo en la primera sesión ordinaria del Consejo Directivo, la que deberá realizarse en la misma fecha en que se reúna la Asamblea General en sesión ordinaria;
+
+II. A propuesta del Presidente, el Consejo Directivo aprobará la designación de los Vicepresidentes, Tesorero y Secretario;
 
 III. El Presidente, Vicepresidentes, Tesorero y Secretario desempeñarán las funciones que determinen los Estatutos respectivos, respondiendo al objeto de la Cámara o Confederación, según corresponda;
 

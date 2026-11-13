@@ -19,7 +19,9 @@ source_sha256: 71dca147c2bed643f28921065bc240abcd15879a1504a55a9c153d6b202bbc5f
 
 La cuota energética se otorgará previo dictamen de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y se utilizará exclusivamente en:
 
-I. Motores para bombeo y rebombeo agrícola y ganadero, tractores y maquinaria agrícola y motores fuera de borda, que se utilicen directamente en las actividades objeto de esta Ley, según lo establecido en el artículo [3](articulo-3o.md)o. fracción I de la misma; II. Maquinaria pesada utilizada en las mejoras de terrenos agrícolas, de agostadero, acuícola y silvícola, y
+I. Motores para bombeo y rebombeo agrícola y ganadero, tractores y maquinaria agrícola y motores fuera de borda, que se utilicen directamente en las actividades objeto de esta Ley, según lo establecido en el artículo [3](articulo-3o.md)o. fracción I de la misma;
+
+II. Maquinaria pesada utilizada en las mejoras de terrenos agrícolas, de agostadero, acuícola y silvícola, y
 
 III. Las demás actividades que establezca la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, a través del Reglamento.
 

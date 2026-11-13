@@ -25,7 +25,7 @@ II. Habiendo perdido su nacionalidad, la recobra voluntariamente;
 
 III. Ha adquirido una nueva nacionalidad y disfruta de la protección del país de su nueva nacionalidad;
 
-IV. Se ha establecido voluntariamente en el país que había abandonado o fuera del cual había permanecido de conformidad con el artículo [13](articulo-13.md) de la presente Ley;
+IV. Se ha establecido voluntariamente en el país que había abandonado o fuera del cual había permanecido de conformidad con el artículo [13](articulo-13.md) de la presente [Ley](articulo-2.md);
 
 V. Han desaparecido las circunstancias por las cuales fue reconocido como refugiado y no puede continuar negándose a acogerse a la protección del país de su nacionalidad, o
 

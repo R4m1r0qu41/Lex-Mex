@@ -45,7 +45,9 @@ III. De contar con el apoyo mayoritario de los trabajadores al contenido del acu
 
 a) Para contratos colectivos de trabajo inicial, el sindicato procederá a realizar la solicitud de registro ante la [Autoridad Registral](articulo-3o.-Ter.md) conforme a lo previsto en el artículo [390](articulo-390.md) de la presente Ley, y
 
-b) Para convenios de revisión o modificaciones del contrato colectivo de trabajo, se estará a lo dispuesto en el artículo [399 Ter](articulo-399-Ter.md); IV. En caso de que el contrato colectivo de trabajo inicial o el convenio de revisión no cuente con el apoyo mayoritario de los trabajadores cubiertos por el mismo, el sindicato podrá:
+b) Para convenios de revisión o modificaciones del contrato colectivo de trabajo, se estará a lo dispuesto en el artículo [399 Ter](articulo-399-Ter.md);
+
+IV. En caso de que el contrato colectivo de trabajo inicial o el convenio de revisión no cuente con el apoyo mayoritario de los trabajadores cubiertos por el mismo, el sindicato podrá:
 
 a) Ejercer su derecho a huelga, en caso de haber promovido el emplazamiento correspondiente, y
 

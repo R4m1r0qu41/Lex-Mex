@@ -17,4 +17,4 @@ source_sha256: b52444aaf66a5f36e252e598494c117526e5d9737de08de41061168ea46addd9
 
 # Artículo 5
 
-La Unidad de Enlace, la [Contraloría Interna](articulo-2.md) o cualquiera otra unidad administrativa del [INFONAVIT](articulo-2.md) que reciba comunicaciones oficiales del [IFAI](articulo-2.md), les dará la debida atención y trámite.
+La [Unidad de Enlace](articulo-2.md), la [Contraloría Interna](articulo-2.md) o cualquiera otra unidad administrativa del [INFONAVIT](articulo-2.md) que reciba comunicaciones oficiales del [IFAI](articulo-2.md), les dará la debida atención y trámite.

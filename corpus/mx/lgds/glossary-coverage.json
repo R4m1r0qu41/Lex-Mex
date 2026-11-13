@@ -8,7 +8,7 @@
   "glossaries": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lgds:article:5",
-      "provision_text_sha256": "b1a2b8c942a823a0123809311a4410c8f8a3f438e3746cdbbc98529fa79da0e9",
+      "provision_text_sha256": "eedf784338d36d2f823e34120a85f00e54cb7f7d4331952b862ecd5f1b4dd3a8",
       "method": "wider_pass",
       "fractions": [
         "I",

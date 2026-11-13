@@ -31,4 +31,6 @@ V.- Los canales de comercialización en México y, en su caso, en el extranjero;
 
 VI.- Los medios de difusión de la marca en México y, en su caso, en el extranjero;
 
-VII.- Las licencias o franquicias que se hayan otorgado en relación con la marca, y VIII.- El porcentaje de la participación de la marca en el sector o segmento correspondiente del mercado.
+VII.- Las licencias o franquicias que se hayan otorgado en relación con la marca, y
+
+VIII.- El porcentaje de la participación de la marca en el sector o segmento correspondiente del mercado.

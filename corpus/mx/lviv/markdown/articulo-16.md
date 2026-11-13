@@ -17,7 +17,9 @@ source_sha256: f6af373e0f5b95596b4e54f4ccd2e0270fcc85bd4f05fb43da775de2f53c9ff7
 
 # Artículo 16
 
-Corresponde al Gobierno Federal, por conducto de la [Secretaría](articulo-4.md): I. Formular, ejecutar, conducir, coordinar, evaluar y dar seguimiento a la [Política Nacional de Vivienda](articulo-4.md) y el programa nacional en la materia, así como proponer, en su caso, las adecuaciones correspondientes, de conformidad con los objetivos y prioridades que marque el Plan Nacional de Desarrollo;
+Corresponde al Gobierno Federal, por conducto de la [Secretaría](articulo-4.md):
+
+I. Formular, ejecutar, conducir, coordinar, evaluar y dar seguimiento a la [Política Nacional de Vivienda](articulo-4.md) y el programa nacional en la materia, así como proponer, en su caso, las adecuaciones correspondientes, de conformidad con los objetivos y prioridades que marque el Plan Nacional de Desarrollo;
 
 II. Realizar las acciones necesarias para que la política y programas de vivienda observen las disposiciones aplicables en materia de desarrollo urbano, el ordenamiento territorial y el desarrollo sustentable;
 

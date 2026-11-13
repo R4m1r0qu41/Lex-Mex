@@ -136,21 +136,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18:term-usage:1293-1296",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18:term-usage:1294-1297",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
     "span": "Ley",
-    "start_char": 1293,
-    "end_char": 1296
+    "start_char": 1294,
+    "end_char": 1297
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18:term-usage:1574-1577",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18:term-usage:1575-1578",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:18",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
     "span": "Ley",
-    "start_char": 1574,
-    "end_char": 1577
+    "start_char": 1575,
+    "end_char": 1578
   },
   {
     "schema_version": "0.1.0",
@@ -460,12 +460,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:84:term-usage:1239-1242",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:84:term-usage:1240-1243",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:84",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:ley",
     "span": "Ley",
-    "start_char": 1239,
-    "end_char": 1242
+    "start_char": 1240,
+    "end_char": 1243
   },
   {
     "schema_version": "0.1.0",
@@ -505,12 +505,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:104:term-usage:1245-1267",
+    "id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:104:term-usage:1246-1268",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfpccs:article:104",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfpccs:term:sistema-de-informacion",
     "span": "Sistema de Información",
-    "start_char": 1245,
-    "end_char": 1267
+    "start_char": 1246,
+    "end_char": 1268
   },
   {
     "schema_version": "0.1.0",

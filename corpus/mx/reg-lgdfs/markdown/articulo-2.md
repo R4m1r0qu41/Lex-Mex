@@ -19,7 +19,9 @@ source_sha256: a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530
 
 Para efectos del presente Reglamento, además de las definiciones previstas en el artículo [7](../../lgdfs/markdown/articulo-7.md) de la [Ley](articulo-2.md), se entenderá por:
 
-I. Acahual, asociaciones vegetales que se localizan en áreas originalmente ocupadas por Selvas que han sido sometidas al establecimiento de praderas artificiales y cultivos anuales o perennes mediante un sistema de producción tradicional, en subsecuentes años de cultivo que al estar en periodos de descanso recuperan la vegetación de Selva a través de un proceso de sucesión ecológica y que presentan diferencias de estructura, composición, tamaño o densidad con respecto a las Selvas maduras; II. Actividades del Sector Hidrocarburos, las actividades definidas como tales en el artículo [3](../../lansi/markdown/articulo-3o.md), fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
+I. Acahual, asociaciones vegetales que se localizan en áreas originalmente ocupadas por Selvas que han sido sometidas al establecimiento de praderas artificiales y cultivos anuales o perennes mediante un sistema de producción tradicional, en subsecuentes años de cultivo que al estar en periodos de descanso recuperan la vegetación de Selva a través de un proceso de sucesión ecológica y que presentan diferencias de estructura, composición, tamaño o densidad con respecto a las Selvas maduras;
+
+II. Actividades del Sector Hidrocarburos, las actividades definidas como tales en el artículo [3](../../lansi/markdown/articulo-3o.md), fracción XI de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos;
 
 III. Aprovechamiento restringido, extracción autorizada con limitaciones y medidas especiales de precaución sobre volúmenes, especies y productos forestales para evitar poner en riesgo la biodiversidad y los Servicios ambientales en la zona del Aprovechamiento;
 
@@ -47,7 +49,9 @@ XIV. Madera aserrada o con escuadría, Materia prima en cortes angulares proveni
 
 XV. Madera en rollo, troncos de árboles derribados o seccionados con diámetro mayor a 10 centímetros en cualquiera de sus extremos, sin incluir la corteza y sin importar su longitud;
 
-XVI. Madera labrada, Materia prima con cortes angulares proveniente de Vegetación forestal maderable, en cuya elaboración se utilizan equipos manuales o motosierras; XVII. Manejo integral de cuencas hidrográficas, planeación y ejecución de actividades dentro del ámbito de las cuencas que incluyen todos los componentes ambientales, sociales y productivos relativos a las mismas;
+XVI. Madera labrada, Materia prima con cortes angulares proveniente de Vegetación forestal maderable, en cuya elaboración se utilizan equipos manuales o motosierras;
+
+XVII. Manejo integral de cuencas hidrográficas, planeación y ejecución de actividades dentro del ámbito de las cuencas que incluyen todos los componentes ambientales, sociales y productivos relativos a las mismas;
 
 XVIII. Medida fitosanitaria, las disposiciones que tengan el propósito de detectar, combatir y controlar Plagas y Enfermedades forestales, así como aquellas que se establezcan para prevenir su introducción y diseminación, en los certificados fitosanitarios de exportación y en las hojas de requisitos fitosanitarios que se expidan de conformidad con la Ley y la Ley Federal de Sanidad Vegetal;
 

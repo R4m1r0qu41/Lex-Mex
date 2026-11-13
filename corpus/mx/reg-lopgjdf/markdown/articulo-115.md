@@ -21,4 +21,6 @@ Para participar en el concurso de promoción en el Servicio Profesional de Carre
 
 I. Para ser promovido al cargo de Jefe de Grupo, cuatro años como agente en la Policía de Investigación del Distrito Federal;
 
-II. Para ser promovido al cargo de Comandante, cinco años en la corporación, de los cuales dos deberán ser en el cargo de Jefe de Grupo, y III. Para ser promovido al cargo de Comandante en Jefe, seis años en la corporación de los cuales dos deberán ser como Comandante.
+II. Para ser promovido al cargo de Comandante, cinco años en la corporación, de los cuales dos deberán ser en el cargo de Jefe de Grupo, y
+
+III. Para ser promovido al cargo de Comandante en Jefe, seis años en la corporación de los cuales dos deberán ser como Comandante.

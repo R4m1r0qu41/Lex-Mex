@@ -56,11 +56,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:124:reference:980-983:117:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:124:reference:981-984:117:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:124",
     "source_span": "117",
-    "start_char": 980,
-    "end_char": 983,
+    "start_char": 981,
+    "end_char": 984,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:117",
     "qualifiers": [],
@@ -347,11 +347,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:175:reference:763-766:173:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:175:reference:764-767:173:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:175",
     "source_span": "173",
-    "start_char": 763,
-    "end_char": 766,
+    "start_char": 764,
+    "end_char": 767,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:173",
     "qualifiers": [],
@@ -363,11 +363,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:175:reference:769-772:174:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:175:reference:770-773:174:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:175",
     "source_span": "174",
-    "start_char": 769,
-    "end_char": 772,
+    "start_char": 770,
+    "end_char": 773,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:174",
     "qualifiers": [],
@@ -443,19 +443,19 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177:reference:2653-2656:170:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177:reference:2654-2657:170:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:177",
     "source_span": "170",
-    "start_char": 2653,
-    "end_char": 2656,
+    "start_char": 2654,
+    "end_char": 2657,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:170",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
         "text": "fracciones I, II y III",
-        "start_char": 2617,
-        "end_char": 2639
+        "start_char": 2618,
+        "end_char": 2640
       }
     ],
     "basis": "express_cross_reference",
@@ -855,11 +855,11 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:220:reference:421-422:5:direct",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:220:reference:422-423:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:220",
     "source_span": "5",
-    "start_char": 421,
-    "end_char": 422,
+    "start_char": 422,
+    "end_char": 423,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-insumos:article:5",
     "qualifiers": [],
@@ -2207,24 +2207,6 @@
         "text": "inciso r",
         "start_char": 45,
         "end_char": 53
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones I",
-        "start_char": 68,
-        "end_char": 80
-      },
-      {
-        "qualifier_type": "subsection",
-        "text": "incisos c",
-        "start_char": 82,
-        "end_char": 91
-      },
-      {
-        "qualifier_type": "fraction",
-        "text": "fracciones IV, V, VI y X",
-        "start_char": 130,
-        "end_char": 154
       }
     ],
     "basis": "express_cross_reference",

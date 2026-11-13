@@ -19,7 +19,9 @@ source_sha256: 77ea253060400b44a671ceaa2f797ab7566be72239d6d4f3f63958b43319cd2a
 
 El [Instituto](articulo-2o.md), como autoridad administrativa en materia de derechos de autor, tendrá las siguientes facultades:
 
-I. Proteger el derecho de autor y los derechos conexos en los términos de la legislación nacional y de los convenios y tratados internacionales suscritos y ratificados por México; II. Promover la creación de obras del ingenio mediante la realización de concursos, certámenes o exposiciones y el otorgamiento de premios y reconocimientos que estimulen la actividad creadora de los autores;
+I. Proteger el derecho de autor y los derechos conexos en los términos de la legislación nacional y de los convenios y tratados internacionales suscritos y ratificados por México;
+
+II. Promover la creación de obras del ingenio mediante la realización de concursos, certámenes o exposiciones y el otorgamiento de premios y reconocimientos que estimulen la actividad creadora de los autores;
 
 III. Promover la cooperación internacional, mediante el intercambio de experiencias administrativas y jurídicas con instituciones encargadas del registro y protección legal de los derechos de autor y de los derechos conexos;
 
@@ -55,6 +57,8 @@ XVIII. Autorizar y revocar, cuando proceda, la operación de sociedades;
 
 XIX. Colaborar y apoyar las negociaciones sobre los aspectos sustantivos del derecho de autor y los derechos conexos en los tratados y convenios internacionales que contengan disposiciones sobre la materia;
 
-XX. Participar, en coordinación con las áreas competentes de la [Secretaría](articulo-2o.md), en las negociaciones administrativas que correspondan al ámbito de sus atribuciones, y XXI. Las demás que le otorguen la Ley y este Reglamento.
+XX. Participar, en coordinación con las áreas competentes de la [Secretaría](articulo-2o.md), en las negociaciones administrativas que correspondan al ámbito de sus atribuciones, y
+
+XXI. Las demás que le otorguen la Ley y este Reglamento.
 
 El Instituto podrá expedir aclaraciones e interpretaciones a solicitud de autoridad competente y brindar orientación a los particulares cuando se trate de consultas sobre la aplicación administrativa de la Ley y este Reglamento; sin embargo, si la contestación a las consultas planteadas implica la resolución del fondo de un posible conflicto entre particulares, la interpretación de las disposiciones de la Ley y este Reglamento será competencia de los tribunales federales.

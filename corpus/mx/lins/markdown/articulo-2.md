@@ -23,7 +23,9 @@ I. Ciencia médica, a la disciplina que, conforme a métodos científicamente ac
 
 II. Enseñanza en salud, a la transmisión sistemática de conocimientos de la Ciencia Médica, habilidades, destrezas y actitudes con propósitos de aprendizaje, para la formación de recursos humanos para la salud;
 
-III. Institutos Nacionales de Salud, a los organismos descentralizados de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupados en el Sector Salud, que tienen como objeto principal la investigación científica en el campo de la salud, la formación y capacitación de recursos humanos calificados y la prestación de servicios de atención médica de alta especialidad, y cuyo ámbito de acción comprende todo el territorio nacional; IV. Investigación en salud, al estudio y análisis original de temas de la Medicina, sujetos al método científico, con el propósito de generar conocimientos sobre la salud o la enfermedad, para su aplicación en la atención médica;
+III. Institutos Nacionales de Salud, a los organismos descentralizados de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, agrupados en el Sector Salud, que tienen como objeto principal la investigación científica en el campo de la salud, la formación y capacitación de recursos humanos calificados y la prestación de servicios de atención médica de alta especialidad, y cuyo ámbito de acción comprende todo el territorio nacional;
+
+IV. Investigación en salud, al estudio y análisis original de temas de la Medicina, sujetos al método científico, con el propósito de generar conocimientos sobre la salud o la enfermedad, para su aplicación en la atención médica;
 
 V. Investigación aplicada en salud, a aquella que se orienta a la comprensión, prevención, diagnóstico y tratamiento de problemas de salud determinados;
 

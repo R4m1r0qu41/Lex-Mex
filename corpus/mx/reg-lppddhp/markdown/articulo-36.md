@@ -19,6 +19,8 @@ source_sha256: 43b274e9565f7bfe9e8d404998a6baf17ac415d624a70cbcde9f1f3b639d56a7
 
 La Coordinación Ejecutiva Nacional se compondrá por los representantes de las siguientes unidades auxiliares:
 
-I. La Unidad de Recepción de Casos y Reacción Rápida; II. La Unidad de Evaluación de Riesgos, y
+I. La Unidad de Recepción de Casos y Reacción Rápida;
+
+II. La Unidad de Evaluación de Riesgos, y
 
 III. La Unidad de Prevención, Seguimiento y Análisis.

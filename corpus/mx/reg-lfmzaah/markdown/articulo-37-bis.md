@@ -7,8 +7,8 @@ provision_type: article
 number: "37 bis"
 aliases: ["REG-LFMZAAH — Artículo 37 bis"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMZAAH_031220.pdf
 source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 ---
@@ -19,7 +19,9 @@ source_sha256: 2fcb89f7d62bcd28ba179647dee39dd5c28437ebc8bcdb13ce6924b36b20b9e6
 
 Queda prohibida la exportación definitiva de monumentos arqueológicos, salvo canjes o donativos a gobiernos o institutos científicos extranjeros, por acuerdo expreso del Presidente de la República.
 
-La exportación temporal de monumentos arqueológicos sólo podrá llevarse a cabo para su exhibición en el extranjero, siempre y cuando la integridad de éstos no pueda ser afectada por su transportación, y de conformidad con lo siguiente: I.- Se requerirá permiso previo del titular del Instituto Nacional de Antropología e Historia quien, para otorgarlo, tomará en consideración la opinión de la Secretaría de Relaciones Exteriores y de las áreas técnicas competentes del propio Instituto; Fracción reformada DOF 08-07-2015
+La exportación temporal de monumentos arqueológicos sólo podrá llevarse a cabo para su exhibición en el extranjero, siempre y cuando la integridad de éstos no pueda ser afectada por su transportación, y de conformidad con lo siguiente:
+
+I.- Se requerirá permiso previo del titular del Instituto Nacional de Antropología e Historia quien, para otorgarlo, tomará en consideración la opinión de la Secretaría de Relaciones Exteriores y de las áreas técnicas competentes del propio Instituto; Fracción reformada DOF 08-07-2015
 
 II.- La Secretaría de Relaciones Exteriores adoptará las medidas necesarias para que los monumentos arqueológicos sean trasladados e instalados en los lugares de las exhibiciones y, al concluir éstas, se retornen a nuestro país, así como aquéllas para su debida protección, y
 

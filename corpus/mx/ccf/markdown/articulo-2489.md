@@ -17,7 +17,9 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 2489
 
-El arrendador puede exigir la rescisión del contrato: I. Por falta de pago de la renta en los términos previstos en la fracción I del artículo [2425](articulo-2425.md); Fracción reformada DOF 21-07-1993
+El arrendador puede exigir la rescisión del contrato:
+
+I. Por falta de pago de la renta en los términos previstos en la fracción I del artículo [2425](articulo-2425.md); Fracción reformada DOF 21-07-1993
 
 II. Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo [2425](articulo-2425.md);
 

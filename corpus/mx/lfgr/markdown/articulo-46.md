@@ -27,7 +27,9 @@ III. Vigilar que en los mecanismos alternativos no se afecten derechos de tercer
 
 IV. Abstenerse de fungir con la calidad de personas testigos, asesores, representantes, patronos, licenciados en derecho, o abogados, de los asuntos relativos a los mecanismos alternativos en los que participen;
 
-V. Excusarse de intervenir en asuntos en los que se vea afectada su imparcialidad; VI. Solicitar a las personas intervinientes la información necesaria para el cumplimiento eficaz de la función encomendada;
+V. Excusarse de intervenir en asuntos en los que se vea afectada su imparcialidad;
+
+VI. Solicitar a las personas intervinientes la información necesaria para el cumplimiento eficaz de la función encomendada;
 
 VII. Cerciorarse de que las personas intervinientes comprenden el alcance del acuerdo, así como los derechos y obligaciones que de éste se deriven;
 

@@ -31,7 +31,7 @@ III. Análisis de los conceptos de percepción por grupos o categorías de traba
 
 IV. Conciliación del total de percepciones de trabajadores en registros contables contra la base de salarios manifestados para el Instituto; así como contra lo declarado para efectos del Impuesto Sobre la Renta.
 
-Al anexo deberá adjuntarse, invariablemente, copia de la declaración anual del impuesto sobre la renta, declaración anual de pagos y retenciones, balanza de comprobación analítica de subcuentas de costos y gastos, cuentas de balance que tengan relación con sueldos y salarios, así como el análisis del importe total de excedentes de salarios tope de acuerdo a los máximos señalados en la [Ley](../../lss/markdown/articulo-5-A.md), correspondientes al ejercicio dictaminado, importe total de percepciones REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN variables del sexto bimestre inmediato anterior al ejercicio dictaminado y del sexto bimestre del ejercicio dictaminado, y
+Al anexo deberá adjuntarse, invariablemente, copia de la declaración anual del impuesto sobre la renta, declaración anual de pagos y retenciones, balanza de comprobación analítica de subcuentas de costos y gastos, cuentas de balance que tengan relación con sueldos y salarios, así como el análisis del importe total de excedentes de salarios tope de acuerdo a los máximos señalados en la [Ley](../../lss/markdown/articulo-5-A.md), correspondientes al ejercicio dictaminado, importe total de percepciones variables del sexto bimestre inmediato anterior al ejercicio dictaminado y del sexto bimestre del ejercicio dictaminado, y
 
 V. Reporte de la actividad o actividades, clasificación y grado de riesgo de la empresa dictaminada.
 

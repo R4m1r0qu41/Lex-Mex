@@ -37,7 +37,9 @@ VIII. La información pertinente de la publicación de información aeronáutica
 
 IX. Las cartas adecuadas y actualizadas que abarquen la ruta que ha de seguir el vuelo proyectado, así como cualquier otra ruta por la que, posiblemente, pudiera desviarse el vuelo;
 
-X. El plan de vuelo; XI. La póliza de seguro vigente o la copia fotostática en la que conste su inscripción en el Registro Aeronáutico Mexicano;
+X. El plan de vuelo;
+
+XI. La póliza de seguro vigente o la copia fotostática en la que conste su inscripción en el Registro Aeronáutico Mexicano;
 
 XII. La lista de comprobación a que se refiere la fracción VII del artículo [109](articulo-109.md) de este Reglamento;
 

@@ -89,7 +89,9 @@ XXVII.- Promover y propiciar la participación del sector industrial, académico
 
 XXVIII.- Promover la cooperación internacional mediante el intercambio de experiencias administrativas y jurídicas y de mecanismos y mejores prácticas, con instituciones encargadas del registro y protección legal de la propiedad industrial en otros países, incluyendo entre otras: la capacitación y el entrenamiento profesional de personal, la transferencia de metodologías de trabajo y organización, fomento de acuerdos de cooperación con los cuales se propicie la rapidez, calidad y eficiencia en los procedimientos, el intercambio de publicaciones y la actualización de acervos documentales y bases de datos; Fracción reformada DOF 03-04-2026
 
-XXIX.- Participar, en coordinación con las unidades competentes de la Secretaría de Economía, en las negociaciones que correspondan al ámbito de sus atribuciones; XXX.- Realizar estudios sobre la situación de la propiedad industrial en el ámbito internacional y participar en las reuniones o foros internacionales relacionados;
+XXIX.- Participar, en coordinación con las unidades competentes de la Secretaría de Economía, en las negociaciones que correspondan al ámbito de sus atribuciones;
+
+XXX.- Realizar estudios sobre la situación de la propiedad industrial en el ámbito internacional y participar en las reuniones o foros internacionales relacionados;
 
 XXXI.- Actuar como órgano de consulta conforme a la competencia de las leyes cuya aplicación le corresponde de las distintas dependencias y entidades de la Administración Pública Federal, así como asesorar a instituciones sociales y privadas;
 

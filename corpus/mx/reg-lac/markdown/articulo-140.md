@@ -19,7 +19,9 @@ source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
 
 La solicitud de permiso para establecer un taller aeronáutico debe estar acompañada de:
 
-I. El acta de nacimiento e identificación oficial vigente, si se trata de persona física, o la copia certificada del instrumento público o escritura constitutiva y sus modificaciones, en el caso de persona moral; II. En su caso, copia certificada del poder otorgado al representante legal;
+I. El acta de nacimiento e identificación oficial vigente, si se trata de persona física, o la copia certificada del instrumento público o escritura constitutiva y sus modificaciones, en el caso de persona moral;
+
+II. En su caso, copia certificada del poder otorgado al representante legal;
 
 III. El domicilio de la persona solicitante y, en su caso, del representante legal; Fracción reformada DOF 31-05-2023
 

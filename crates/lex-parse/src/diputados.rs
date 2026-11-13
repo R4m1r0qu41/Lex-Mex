@@ -437,6 +437,45 @@ fn is_dot_redacted_decree_article(block: &str, ordinals: &[String]) -> bool {
             .all(|c| c == '.' || c == '…' || c.is_whitespace())
 }
 
+/// An elided run of enactment-decree articles: a heading that names one or
+/// more ordinal decree articles and whose body is only redaction dots or
+/// ellipsis characters — `Artículo Segundo a Artículo Cuarto.- ……..`
+/// (laassp), `Artículo Segundo y Artículo Tercero.- ………` (lgec),
+/// `ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO.- ………` (lbio), `Artículos Tercero a
+/// Vigésimo. ..........` (ladua). The consolidated PDF prints it between the
+/// statute's last article (or last own transitory) and the decree's
+/// `Transitorios`. It is decree apparatus, not statute text. Every word before
+/// the dots must be an article prefix, an ordinal word or the connector `a`/`y`,
+/// and the dots must be a real redaction (three or more, or an ellipsis), so a
+/// genuine ordinal-numbered article with a body never matches.
+fn is_elided_decree_article_run(block: &str, ordinals: &[String]) -> bool {
+    let trimmed = block.trim();
+    let head_len = trimmed
+        .trim_end_matches(|c: char| matches!(c, '.' | '…' | '-' | ':') || c.is_whitespace())
+        .len();
+    let (head, tail) = trimmed.split_at(head_len);
+    let dots = tail.chars().filter(|c| *c == '.').count();
+    if !tail.contains('…') && dots < 3 {
+        return false;
+    }
+    let ordinal_words: std::collections::HashSet<&str> = ordinals
+        .iter()
+        .flat_map(|ordinal| ordinal.split_whitespace())
+        .collect();
+    let words: Vec<String> = head.split_whitespace().map(str::to_uppercase).collect();
+    let is_prefix = |w: &str| matches!(w, "ARTÍCULO" | "ARTÍCULOS" | "ARTICULO" | "ARTICULOS");
+    let Some((first, rest)) = words.split_first() else {
+        return false;
+    };
+    is_prefix(first)
+        && rest
+            .first()
+            .is_some_and(|w| ordinal_words.contains(w.as_str()))
+        && rest.iter().all(|w| {
+            is_prefix(w) || matches!(w.as_str(), "A" | "Y") || ordinal_words.contains(w.as_str())
+        })
+}
+
 /// The body after `ARTÍCULO <ordinal>:`, for the dot-redaction test only.
 fn colon_ordinal_article_body<'a>(block: &'a str, ordinals: &[String]) -> Option<&'a str> {
     let after_prefix = ["Artículo ", "ARTÍCULO ", "Articulo ", "ARTICULO "]
@@ -456,6 +495,7 @@ fn colon_ordinal_article_body<'a>(block: &'a str, ordinals: &[String]) -> Option
 fn is_dropped_decree_block(block: &str, ordinals: &[String], headers: &[String]) -> bool {
     is_decree_article_wrapper(block, ordinals, headers)
         || is_dot_redacted_decree_article(block, ordinals)
+        || is_elided_decree_article_run(block, ordinals)
 }
 
 /// The leading base number of an article label (`70-A` → 70, `1o` → 1),
@@ -1018,6 +1058,20 @@ fn normalized_blocks(
             flush_block(&mut current, &mut blocks);
             crossed_page_furniture = false;
         }
+        // A fraction that opens the next page is a new paragraph, not the
+        // continuation of the one the page break interrupted (lritf art. 22:
+        // `…de este artículo;` + page furniture + `III. Realizar…`). The
+        // blank line that would have separated them is lost among the
+        // furniture, so the enumeration itself is the evidence: the open
+        // block is a fraction or ends a clause, and the line starts with a
+        // Roman fraction marker.
+        if crossed_page_furniture
+            && is_fraction_start(line)
+            && (is_fraction_start(&current) || ends_enumeration_clause(&current))
+        {
+            flush_block(&mut current, &mut blocks);
+            crossed_page_furniture = false;
+        }
         if pending_blank && !crossed_page_furniture {
             flush_block(&mut current, &mut blocks);
         }
@@ -1072,6 +1126,56 @@ fn normalized_blocks(
     }
     flush_block(&mut current, &mut blocks);
     blocks
+}
+
+/// A paragraph opening with a Roman fraction marker: `III. `, `IV.- `,
+/// `II Bis. `. Lone `C`, `L`, `D` and `M` are excluded: at the start of a
+/// line they are initials and abbreviations (`C. Presidente`), not numerals.
+fn is_fraction_start(block: &str) -> bool {
+    let block = block.trim_start();
+    let numeral = block
+        .bytes()
+        .take_while(|byte| matches!(byte, b'I' | b'V' | b'X' | b'L' | b'C'))
+        .count();
+    if numeral == 0 || matches!(&block[..numeral], "C" | "L") {
+        return false;
+    }
+    let mut rest = &block[numeral..];
+    for suffix in [
+        " Bis",
+        " Ter",
+        " Quáter",
+        " Quater",
+        " Quinquies",
+        " Sexies",
+    ] {
+        if let Some(after) = rest.strip_prefix(suffix) {
+            rest = after;
+            break;
+        }
+    }
+    let Some(rest) = rest.strip_prefix('.') else {
+        return false;
+    };
+    let rest = rest
+        .strip_prefix('-')
+        .or_else(|| rest.strip_prefix('–'))
+        .unwrap_or(rest);
+    rest.starts_with(char::is_whitespace)
+}
+
+/// The open block closes a clause of an enumeration: it ends with `;`, `:`
+/// or `.`, optionally followed by the conjunction that introduces the last
+/// item (`; y`, `, o`).
+fn ends_enumeration_clause(block: &str) -> bool {
+    let block = block.trim_end();
+    if block.ends_with([';', ':', '.']) {
+        return true;
+    }
+    [" y", " o", " e", " u"]
+        .iter()
+        .filter_map(|conjunction| block.strip_suffix(conjunction))
+        .any(|before| before.ends_with([';', ',']))
 }
 
 fn flush_block(current: &mut String, blocks: &mut Vec<String>) {
@@ -1851,6 +1955,13 @@ pub fn parse_diputados_publication(
                 current = Some(ProvisionBuilder::transitory(&number, body));
                 continue;
             }
+            // An elided run of decree articles after the statute's own
+            // transitories (lbio `ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO.- ………`,
+            // ladua `Artículos Tercero a Vigésimo. ..........`) is decree
+            // apparatus: never appended to the last transitory's text.
+            if is_elided_decree_article_run(&block, &ordinals) {
+                continue;
+            }
         } else {
             if is_dropped_decree_block(&block, &ordinals, &options.header_lines) {
                 if let Some(builder) = current.take() {
@@ -2378,8 +2489,9 @@ mod tests {
     use lex_core::ProvisionType;
 
     use super::{
-        DiputadosOptions, is_dot_redacted_decree_article, is_omnibus_enactment_title,
-        parse_diputados, parse_ordinal_article_start, transitory_ordinals,
+        DiputadosOptions, is_dot_redacted_decree_article, is_elided_decree_article_run,
+        is_omnibus_enactment_title, parse_diputados, parse_ordinal_article_start,
+        transitory_ordinals,
     };
 
     const CODIGO_FIXTURE: &str = include_str!("../../../fixtures/diputados/codigo-sample.txt");
@@ -2410,6 +2522,11 @@ mod tests {
         include_str!("../../../fixtures/diputados/dot-redacted-decree-article-sample.txt");
     const COLON_DOT_REDACTED_DECREE_ARTICLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/colon-dot-redacted-decree-article-sample.txt");
+    const ELIDED_DECREE_ARTICLE_RANGE_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/elided-decree-article-range-sample.txt");
+    const ELIDED_DECREE_ARTICLES_AFTER_TRANSITORIES_FIXTURE: &str = include_str!(
+        "../../../fixtures/diputados/elided-decree-articles-after-transitories-sample.txt"
+    );
     const WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/wrapped-running-header-regulation-sample.txt");
     const SUBSTANTIVE_APPENDIX_FIXTURE: &str =
@@ -2425,6 +2542,8 @@ mod tests {
     const REFORM_LEY_HEADING_ACROSS_PAGE_FURNITURE_FIXTURE: &str = include_str!(
         "../../../fixtures/diputados/reform-ley-heading-across-page-furniture-sample.txt"
     );
+    const FRACTION_AFTER_PAGE_BREAK_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/fraction-after-page-break-sample.txt");
     const REFORM_DECRETO_DE_REFORMAS_HEADING_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-decreto-de-reformas-heading-sample.txt");
     const REFORM_BARE_LEY_TITLE_FIXTURE: &str =
@@ -3066,6 +3185,95 @@ mod tests {
     }
 
     #[test]
+    fn elided_decree_article_range_is_not_appended_to_the_last_article() {
+        // Regression for laassp art. 120 (also lgec 49, lgpdppso 137,
+        // lgpisdme 43, lgtaip 216): "Artículo Segundo a Artículo Cuarto.- ……"
+        // between the last article and the decree's Transitorios.
+        let document = parse_diputados(
+            ELIDED_DECREE_ARTICLE_RANGE_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(2025, 4, 16).expect("valid date"),
+        )
+        .expect("elided decree article range fixture parses");
+        let articles: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == ProvisionType::Article)
+            .collect();
+        assert_eq!(articles.len(), 2);
+        assert!(
+            articles[1]
+                .text
+                .ends_with("la forma en que podrán resolver sus controversias."),
+            "{}",
+            articles[1].text
+        );
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 2);
+        assert!(
+            !document
+                .provisions
+                .iter()
+                .any(|p| p.text.contains("Artículo Segundo a Artículo Cuarto"))
+        );
+    }
+
+    #[test]
+    fn elided_decree_articles_after_own_transitories_are_not_appended() {
+        // Regression for ladua transitory noveno (also lsat, lbio, lcne,
+        // lepecfe, lepepm, lgeo, lpte, lse, lsh): an elided run of decree
+        // articles after the law's own transitories, before the decree's.
+        let document = parse_diputados(
+            ELIDED_DECREE_ARTICLES_AFTER_TRANSITORIES_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(1995, 12, 15).expect("valid date"),
+        )
+        .expect("elided decree articles after transitories fixture parses");
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|p| p.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 2);
+        assert!(
+            transitories[1]
+                .text
+                .ends_with("en un plazo que no excederá del 31 de marzo de 1997."),
+            "{}",
+            transitories[1].text
+        );
+    }
+
+    #[test]
+    fn elided_decree_article_run_requires_only_ordinals_and_redaction() {
+        let ordinals = transitory_ordinals();
+        for elided in [
+            "Artículo Segundo a Artículo Cuarto.- ……..",
+            "Artículo Segundo y Artículo Tercero.- ………",
+            "ARTÍCULO SÉPTIMO A ARTÍCULO DÉCIMO.- ………",
+            "Artículos Tercero a Vigésimo. ..........",
+            "ARTICULOS SEGUNDO A VIGESIMO NOVENO.- ..........",
+            "ARTÍCULO SEGUNDO.- .........",
+        ] {
+            assert!(is_elided_decree_article_run(elided, &ordinals), "{elided}");
+        }
+        for kept in [
+            "Artículo Primero.- Esta Ley es de orden público.",
+            "Artículo Primero.",
+            "Artículo Segundo a Artículo Cuarto.- Se derogan.",
+            "Artículo Segundo..",
+            "Artículo 120.- ……",
+            "Artículos de la presente Ley. ……",
+        ] {
+            assert!(!is_elided_decree_article_run(kept, &ordinals), "{kept}");
+        }
+    }
+
+    #[test]
     fn colon_is_not_a_general_ordinal_article_separator() {
         let ordinals = transitory_ordinals();
         assert!(is_dot_redacted_decree_article(
@@ -3266,6 +3474,61 @@ mod tests {
                 .text
                 .contains("publicación en el Diario Oficial de la Federación")
         );
+    }
+
+    #[test]
+    fn a_fraction_opening_a_page_starts_its_own_paragraph() {
+        // lritf art. 22: fraction III opens a page and was joined to II.
+        let document = parse_diputados(
+            FRACTION_AFTER_PAGE_BREAK_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(2018, 3, 9).expect("valid date"),
+        )
+        .expect("fraction page-break fixture parses");
+        let first = &document.provisions[0].text;
+        let paragraphs: Vec<&str> = first.split("\n\n").collect();
+        assert_eq!(paragraphs.len(), 5, "{first}");
+        assert!(paragraphs[2].starts_with("II. Realizar transferencias de fondos"));
+        assert!(paragraphs[2].ends_with("de este artículo;"));
+        assert!(paragraphs[3].starts_with("III. Realizar transferencias de determinadas"));
+        // A sentence the page break interrupts is still one paragraph.
+        assert!(
+            paragraphs[4].ends_with(
+                "en términos de la fracción anterior y de las disposiciones aplicables."
+            )
+        );
+        // A numeral that continues an unfinished sentence is not a fraction.
+        assert_eq!(
+            document.provisions[1].text,
+            "Las operaciones del artículo anterior se sujetarán a lo previsto en la fracción II. del artículo 1 de esta Ley."
+        );
+        assert!(
+            !document
+                .provisions
+                .iter()
+                .any(|p| p.text.contains("DIPUTADOS"))
+        );
+    }
+
+    #[test]
+    fn fraction_markers_are_recognized_narrowly() {
+        for marker in ["I. Uno", "IV.- Cuatro", "II Bis. Dos", "XXXVIII. Treinta"] {
+            assert!(super::is_fraction_start(marker), "{marker}");
+        }
+        for other in [
+            "C. Presidente",
+            "L. Texto",
+            "IV del artículo",
+            "Inciso",
+            "II.Texto",
+            "",
+        ] {
+            assert!(!super::is_fraction_start(other), "{other}");
+        }
+        assert!(super::ends_enumeration_clause("de este artículo;"));
+        assert!(super::ends_enumeration_clause("en moneda nacional, y"));
+        assert!(!super::ends_enumeration_clause("previsto en la fracción"));
+        assert!(!super::ends_enumeration_clause("la autoridad y"));
     }
 
     #[test]

@@ -41,7 +41,9 @@ X. Aprobar de conformidad con las leyes aplicables, las políticas, bases y prog
 
 XI. Aprobar anualmente, previo dictamen de los auditores externos, los estados financieros de la Comisión Nacional y autorizar su publicación;
 
-XII. Aprobar las disposiciones relativas a la organización de la Comisión Nacional, con las atribuciones que correspondan a sus respectivas unidades administrativas; XIII. Aprobar las Condiciones Generales de Trabajo que deban observarse entre la Comisión Nacional y sus trabajadores;
+XII. Aprobar las disposiciones relativas a la organización de la Comisión Nacional, con las atribuciones que correspondan a sus respectivas unidades administrativas;
+
+XIII. Aprobar las Condiciones Generales de Trabajo que deban observarse entre la Comisión Nacional y sus trabajadores;
 
 XIV. Aprobar el nombramiento y remoción de los funcionarios del nivel inmediato inferior al del Presidente, a propuesta de éste;
 

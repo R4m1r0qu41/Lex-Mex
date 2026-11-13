@@ -21,6 +21,8 @@ En materia de prevención y control de enfermedades y accidentes, y sin perjuici
 
 I. Dictar las normas oficiales mexicanas para la prevención y el control de enfermedades y accidentes; Fracción reformada DOF 07-05-1997
 
-II. Establecer y operar el Sistema Nacional de Vigilancia Epidemiológica, de conformidad con esta Ley y las disposiciones que al efecto se expidan; III. Realizar los programas y actividades que estime necesario para la prevención y control de enfermedades y accidentes, y
+II. Establecer y operar el Sistema Nacional de Vigilancia Epidemiológica, de conformidad con esta Ley y las disposiciones que al efecto se expidan;
+
+III. Realizar los programas y actividades que estime necesario para la prevención y control de enfermedades y accidentes, y
 
 IV. Promover la colaboración de las instituciones de los sectores público, social y privado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III.

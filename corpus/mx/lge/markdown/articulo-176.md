@@ -25,7 +25,9 @@ II. Nombre, denominación o razón social;
 
 III. Los datos de identificación de la resolución que ordenó la clausura;
 
-IV. Identificación de los servidores públicos comisionados para participar en la diligencia, y V. Nombre, cargo y firma del propietario, responsable, encargado u ocupante del establecimiento ante el cual se practique la diligencia, así como de los testigos.
+IV. Identificación de los servidores públicos comisionados para participar en la diligencia, y
+
+V. Nombre, cargo y firma del propietario, responsable, encargado u ocupante del establecimiento ante el cual se practique la diligencia, así como de los testigos.
 
 El acta hará prueba de la existencia de los actos, hechos u omisiones que en ella se consignen y deberá ser firmada en dos ejemplares autógrafos, quedando uno en poder de la persona que atendió la diligencia y, el otro, en poder del servidor público encargado de realizarla.
 

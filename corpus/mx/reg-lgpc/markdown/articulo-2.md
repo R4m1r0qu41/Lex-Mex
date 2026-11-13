@@ -27,7 +27,9 @@ III. Autoprotección: Las acciones que se realizan para contribuir a la protecci
 
 IV. Autoridades Locales: Las autoridades de las entidades federativas, los municipios y las Delegaciones;
 
-V. Centro de Acopio: El sitio, lugar o establecimiento temporal destinado al almacenamiento y clasificación de víveres, artículos o productos requeridos para ayudar a la población que se encuentra en situación de Desastre; VI. Centro de Comando: El conjunto de instalaciones, equipamiento, personal, procedimientos y comunicaciones, que se constituye en centro de operaciones, responsable de administrar la respuesta gubernamental y de la sociedad civil ante un Siniestro, Emergencia o Desastre;
+V. Centro de Acopio: El sitio, lugar o establecimiento temporal destinado al almacenamiento y clasificación de víveres, artículos o productos requeridos para ayudar a la población que se encuentra en situación de Desastre;
+
+VI. Centro de Comando: El conjunto de instalaciones, equipamiento, personal, procedimientos y comunicaciones, que se constituye en centro de operaciones, responsable de administrar la respuesta gubernamental y de la sociedad civil ante un Siniestro, Emergencia o Desastre;
 
 VII. Cuerpos de Auxilio: Los organismos oficiales y, los Grupos Voluntarios que están debidamente registrados y capacitados, que prestan Auxilio;
 

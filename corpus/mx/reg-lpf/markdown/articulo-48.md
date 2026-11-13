@@ -21,7 +21,9 @@ Corresponde a la Dirección General del Centro de Alertas y Atención de Riesgos
 
 I. Implementar acciones estratégicas para identificar el tráfico aéreo ilícito y potenciales objetivos aéreos que puedan ser generadores de delitos;
 
-II. Establecer, planear y coordinar tareas de monitoreo del espacio aéreo nacional mediante equipo satelital para captar información en tiempo real de vuelos dentro del territorio nacional; III. Coordinar acciones operativas, en el ámbito de su competencia, con diferentes autoridades nacionales para identificar e interceptar objetivos aéreos, terrestres y/o marítimos;
+II. Establecer, planear y coordinar tareas de monitoreo del espacio aéreo nacional mediante equipo satelital para captar información en tiempo real de vuelos dentro del territorio nacional;
+
+III. Coordinar acciones operativas, en el ámbito de su competencia, con diferentes autoridades nacionales para identificar e interceptar objetivos aéreos, terrestres y/o marítimos;
 
 IV. Establecer la coordinación de acciones, en el ámbito de su competencia, con corporaciones policiales a nivel internacional para identificar e interceptar objetivos aéreos y/o marítimos dentro del territorio nacional;
 

@@ -21,7 +21,9 @@ El programa nacional de ordenamiento territorial y desarrollo urbano, se sujetar
 
 I. El diagnóstico de la situación del Ordenamiento Territorial y los [Asentamientos Humanos](articulo-3.md) en el país, que incluya, entre otros elementos, el patrón de distribución de la población y de las actividades económicas en el territorio nacional;
 
-II. Las políticas, objetivos, prioridades y lineamientos estratégicos para el [Desarrollo Urbano](articulo-3.md) y [Desarrollo Metropolitano](articulo-3.md) del país; III. La estructura de sistemas urbanos rurales en el país y la caracterización de los [Centros de Población](articulo-3.md) que conforman el [Sistema Nacional Territorial](articulo-3.md);
+II. Las políticas, objetivos, prioridades y lineamientos estratégicos para el [Desarrollo Urbano](articulo-3.md) y [Desarrollo Metropolitano](articulo-3.md) del país;
+
+III. La estructura de sistemas urbanos rurales en el país y la caracterización de los [Centros de Población](articulo-3.md) que conforman el [Sistema Nacional Territorial](articulo-3.md);
 
 IV. Las políticas y estrategias para el ordenamiento territorial de los [Sistemas Urbano Rurales](articulo-3.md), Asentamientos Humanos y al Desarrollo Urbano de los Centros de Población;
 

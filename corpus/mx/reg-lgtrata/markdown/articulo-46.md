@@ -35,7 +35,7 @@ b) Áreas especiales para la atención de los niños y las niñas;
 
 c) Agua potable y luz eléctrica;
 
-d) Área de comedor y de dormitorios; REGLAMENTO DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS e) Área de aseo, y
+d) Área de comedor y de dormitorios; e) Área de aseo, y
 
 f) Seguridad en el acceso a las instalaciones;
 

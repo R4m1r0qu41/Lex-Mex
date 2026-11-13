@@ -45,7 +45,9 @@ b) Los productos financieros de los ingresos a que se refiere el inciso a) de es
 
 c) Otros ingresos que pueda obtener en términos de las disposiciones aplicables o cualquier otra aportación voluntaria.
 
-Los cargos especiales a que se refiere el inciso a) de esta fracción no computarán en ningún momento para efectos de la cobertura de la [Base de Inversión](articulo-2.md) de las Instituciones de Seguros y Sociedades Mutualistas, ni podrán formar parte de los [Fondos Propios Admisibles](articulo-2.md) que respalden el requerimiento de capital de solvencia de las Instituciones de Seguros; VI. El manejo de los recursos afectos a los fideicomisos, su disposición y sus gastos administrativos, se realizarán en la forma y términos que la Comisión determine en las disposiciones de carácter general previstas en la fracción IV de este artículo, de acuerdo a las bases siguientes:
+Los cargos especiales a que se refiere el inciso a) de esta fracción no computarán en ningún momento para efectos de la cobertura de la [Base de Inversión](articulo-2.md) de las Instituciones de Seguros y Sociedades Mutualistas, ni podrán formar parte de los [Fondos Propios Admisibles](articulo-2.md) que respalden el requerimiento de capital de solvencia de las Instituciones de Seguros;
+
+VI. El manejo de los recursos afectos a los fideicomisos, su disposición y sus gastos administrativos, se realizarán en la forma y términos que la Comisión determine en las disposiciones de carácter general previstas en la fracción IV de este artículo, de acuerdo a las bases siguientes:
 
 a) Los criterios para determinar el tipo de indemnizaciones que cubrirá con cargo al patrimonio del fideicomiso por los siniestros resultantes de los riesgos amparados, atenderán a la naturaleza y objetivos del seguro de que se trate, buscando garantizar que estos fideicomisos complementen adecuadamente la operación de dichos seguros;
 

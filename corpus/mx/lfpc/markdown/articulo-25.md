@@ -21,7 +21,9 @@ La [Procuraduría](articulo-2.md), para el desempeño de las funciones que le at
 
 I. Multa de $380.44 a $38,044.47; Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 
-II. El auxilio de la fuerza pública; III. Ordenar arresto administrativo hasta por 36 horas, y
+II. El auxilio de la fuerza pública;
+
+III. Ordenar arresto administrativo hasta por 36 horas, y
 
 IV. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $15,217.79, por un período no mayor a 180 días. Multa de la fracción actualizada DOF 28-12-2018, 26-12-2019, 24-12-2020, 23-12-2021, 21-12-2022, 21-12-2023, 26-12-2024, 23-12-2025
 

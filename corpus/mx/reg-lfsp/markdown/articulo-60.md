@@ -19,7 +19,9 @@ source_sha256: 98a4cff5f080b348fb8a7ffd463e1391a4be04ef3485649f3b571f20bec81232
 
 Los Prestadores de Servicios que infrinjan las disposiciones de la [Ley](articulo-2.md) y el presente Reglamento, serán sancionados en los términos a que se refiere el artículo [42](../../lfsp/markdown/articulo-42.md) de la Ley, de la siguiente forma:
 
-I. Con amonestación, cuando se trate de la infracción a alguna de las obligaciones previstas en los artículos [13](../../lfsp/markdown/articulo-13.md), [28](../../lfsp/markdown/articulo-28.md), fracción III, y [32](../../lfsp/markdown/articulo-32.md), fracciones XII, XV, XVII, XX, XXI y XXXI bis de la Ley; o 23, fracciones I, II, IV, VI, VII, VIII, IX, X, XII, XIII y XIV, 31, 48 y 53, fracción IV, del presente Reglamento; II. Con multa de un mil hasta tres mil veces el salario mínimo general vigente en la entidad federativa en que se localice la oficina matriz del Prestador de Servicios, cuando se trate de la infracción a alguna de las obligaciones previstas en los artículos 27, fracción II, 28, fracciones II, IV y V de la Ley; o 23, fracciones III, V y XI, 24, 25 y 26 del presente Reglamento;
+I. Con amonestación, cuando se trate de la infracción a alguna de las obligaciones previstas en los artículos [13](../../lfsp/markdown/articulo-13.md), [28](../../lfsp/markdown/articulo-28.md), fracción III, y [32](../../lfsp/markdown/articulo-32.md), fracciones XII, XV, XVII, XX, XXI y XXXI bis de la Ley; o 23, fracciones I, II, IV, VI, VII, VIII, IX, X, XII, XIII y XIV, 31, 48 y 53, fracción IV, del presente Reglamento;
+
+II. Con multa de un mil hasta tres mil veces el salario mínimo general vigente en la entidad federativa en que se localice la oficina matriz del Prestador de Servicios, cuando se trate de la infracción a alguna de las obligaciones previstas en los artículos 27, fracción II, 28, fracciones II, IV y V de la Ley; o 23, fracciones III, V y XI, 24, 25 y 26 del presente Reglamento;
 
 III. Con multa de tres mil hasta cinco mil veces el salario mínimo general vigente en la entidad federativa en que se localice la oficina matriz del Prestador de Servicios:
 

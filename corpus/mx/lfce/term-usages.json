@@ -235,165 +235,165 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:2957-2967",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:2958-2968",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:secretaria",
     "span": "Secretaría",
-    "start_char": 2957,
-    "end_char": 2967
+    "start_char": 2958,
+    "end_char": 2968
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:3124-3144",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:3125-3145",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-publica",
     "span": "Autoridades Públicas",
-    "start_char": 3124,
-    "end_char": 3144
+    "start_char": 3125,
+    "end_char": 3145
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:3721-3747",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:3722-3748",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:disposiciones-regulatorias",
     "span": "Disposiciones Regulatorias",
-    "start_char": 3721,
-    "end_char": 3747
+    "start_char": 3722,
+    "end_char": 3748
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:3937-3963",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:3938-3964",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:disposiciones-regulatorias",
     "span": "Disposiciones Regulatorias",
-    "start_char": 3937,
-    "end_char": 3963
+    "start_char": 3938,
+    "end_char": 3964
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:3968-3976",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:3969-3977",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 3968,
-    "end_char": 3976
+    "start_char": 3969,
+    "end_char": 3977
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:4253-4263",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:4254-4264",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:secretaria",
     "span": "Secretaría",
-    "start_char": 4253,
-    "end_char": 4263
+    "start_char": 4254,
+    "end_char": 4264
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:4816-4836",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:4817-4837",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-publica",
     "span": "Autoridades Públicas",
-    "start_char": 4816,
-    "end_char": 4836
+    "start_char": 4817,
+    "end_char": 4837
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:4967-4987",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:4968-4988",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-publica",
     "span": "Autoridades Públicas",
-    "start_char": 4967,
-    "end_char": 4987
+    "start_char": 4968,
+    "end_char": 4988
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:5752-5772",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:5753-5773",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-publica",
     "span": "Autoridades Públicas",
-    "start_char": 5752,
-    "end_char": 5772
+    "start_char": 5753,
+    "end_char": 5773
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:5833-5838",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:5834-5839",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:pleno",
     "span": "Pleno",
-    "start_char": 5833,
-    "end_char": 5838
+    "start_char": 5834,
+    "end_char": 5839
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:6191-6211",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:6192-6212",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-publica",
     "span": "Autoridades Públicas",
-    "start_char": 6191,
-    "end_char": 6211
+    "start_char": 6192,
+    "end_char": 6212
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:6633-6641",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:6634-6642",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 6633,
-    "end_char": 6641
+    "start_char": 6634,
+    "end_char": 6642
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:7654-7672",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:7655-7673",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 7654,
-    "end_char": 7672
+    "start_char": 7655,
+    "end_char": 7673
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8129-8147",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8130-8148",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 8129,
-    "end_char": 8147
+    "start_char": 8130,
+    "end_char": 8148
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8370-8386",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8371-8387",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 8370,
-    "end_char": 8386
+    "start_char": 8371,
+    "end_char": 8387
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8552-8555",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8553-8556",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:crt",
     "span": "CRT",
-    "start_char": 8552,
-    "end_char": 8555
+    "start_char": 8553,
+    "end_char": 8556
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8578-8585",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8579-8586",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agencia",
     "span": "Agencia",
-    "start_char": 8578,
-    "end_char": 8585
+    "start_char": 8579,
+    "end_char": 8586
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8733-8751",
+    "id": "urn:lex-mx:federal:statute:lfce:article:12:term-usage:8734-8752",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:12",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 8733,
-    "end_char": 8751
+    "start_char": 8734,
+    "end_char": 8752
   },
   {
     "schema_version": "0.1.0",
@@ -541,30 +541,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:13-bis:term-usage:1771-1781",
+    "id": "urn:lex-mx:federal:statute:lfce:article:13-bis:term-usage:1772-1782",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:13-bis",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:secretaria",
     "span": "Secretaría",
-    "start_char": 1771,
-    "end_char": 1781
+    "start_char": 1772,
+    "end_char": 1782
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:13-bis:term-usage:2737-2756",
+    "id": "urn:lex-mx:federal:statute:lfce:article:13-bis:term-usage:2738-2757",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:13-bis",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:persona-comisionada",
     "span": "Persona Comisionada",
-    "start_char": 2737,
-    "end_char": 2756
+    "start_char": 2738,
+    "end_char": 2757
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:13-bis:term-usage:3038-3057",
+    "id": "urn:lex-mx:federal:statute:lfce:article:13-bis:term-usage:3039-3058",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:13-bis",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:persona-comisionada",
     "span": "Persona Comisionada",
-    "start_char": 3038,
-    "end_char": 3057
+    "start_char": 3039,
+    "end_char": 3058
   },
   {
     "schema_version": "0.1.0",
@@ -1963,93 +1963,93 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1335-1353",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1336-1354",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 1335,
-    "end_char": 1353
+    "start_char": 1336,
+    "end_char": 1354
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1412-1428",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1413-1429",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 1412,
-    "end_char": 1428
+    "start_char": 1413,
+    "end_char": 1429
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1508-1524",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1509-1525",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 1508,
-    "end_char": 1524
+    "start_char": 1509,
+    "end_char": 1525
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1853-1869",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1854-1870",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 1853,
-    "end_char": 1869
+    "start_char": 1854,
+    "end_char": 1870
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1957-1983",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:1958-1984",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:disposiciones-regulatorias",
     "span": "Disposiciones Regulatorias",
-    "start_char": 1957,
-    "end_char": 1983
+    "start_char": 1958,
+    "end_char": 1984
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:2469-2485",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:2470-2486",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 2469,
-    "end_char": 2485
+    "start_char": 2470,
+    "end_char": 2486
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:2852-2870",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:2853-2871",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 2852,
-    "end_char": 2870
+    "start_char": 2853,
+    "end_char": 2871
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:3026-3044",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:3027-3045",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 3026,
-    "end_char": 3044
+    "start_char": 3027,
+    "end_char": 3045
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:3188-3206",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:3189-3207",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 3188,
-    "end_char": 3206
+    "start_char": 3189,
+    "end_char": 3207
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:3657-3665",
+    "id": "urn:lex-mx:federal:statute:lfce:article:56:term-usage:3658-3666",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:56",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 3657,
-    "end_char": 3665
+    "start_char": 3658,
+    "end_char": 3666
   },
   {
     "schema_version": "0.1.0",
@@ -2098,21 +2098,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:59:term-usage:1175-1193",
+    "id": "urn:lex-mx:federal:statute:lfce:article:59:term-usage:1176-1194",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:59",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 1175,
-    "end_char": 1193
+    "start_char": 1176,
+    "end_char": 1194
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:59:term-usage:1276-1294",
+    "id": "urn:lex-mx:federal:statute:lfce:article:59:term-usage:1277-1295",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:59",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 1276,
-    "end_char": 1294
+    "start_char": 1277,
+    "end_char": 1295
   },
   {
     "schema_version": "0.1.0",
@@ -2629,111 +2629,111 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:1645-1663",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:1646-1664",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 1645,
-    "end_char": 1663
+    "start_char": 1646,
+    "end_char": 1664
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:1791-1814",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:1792-1815",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-investigadora",
     "span": "Autoridad Investigadora",
-    "start_char": 1791,
-    "end_char": 1814
+    "start_char": 1792,
+    "end_char": 1815
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:2503-2519",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:2504-2520",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 2503,
-    "end_char": 2519
+    "start_char": 2504,
+    "end_char": 2520
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:2712-2728",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:2713-2729",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 2712,
-    "end_char": 2728
+    "start_char": 2713,
+    "end_char": 2729
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:2926-2934",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:2927-2935",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 2926,
-    "end_char": 2934
+    "start_char": 2927,
+    "end_char": 2935
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:3091-3114",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:3092-3115",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-investigadora",
     "span": "Autoridad Investigadora",
-    "start_char": 3091,
-    "end_char": 3114
+    "start_char": 3092,
+    "end_char": 3115
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:3377-3400",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:3378-3401",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-investigadora",
     "span": "Autoridad Investigadora",
-    "start_char": 3377,
-    "end_char": 3400
+    "start_char": 3378,
+    "end_char": 3401
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:3893-3916",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:3894-3917",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-investigadora",
     "span": "Autoridad Investigadora",
-    "start_char": 3893,
-    "end_char": 3916
+    "start_char": 3894,
+    "end_char": 3917
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:4042-4058",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:4043-4059",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 4042,
-    "end_char": 4058
+    "start_char": 4043,
+    "end_char": 4059
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:4449-4465",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:4450-4466",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 4449,
-    "end_char": 4465
+    "start_char": 4450,
+    "end_char": 4466
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:4779-4795",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:4780-4796",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 4779,
-    "end_char": 4795
+    "start_char": 4780,
+    "end_char": 4796
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:8331-8354",
+    "id": "urn:lex-mx:federal:statute:lfce:article:75:term-usage:8332-8355",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:75",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-investigadora",
     "span": "Autoridad Investigadora",
-    "start_char": 8331,
-    "end_char": 8354
+    "start_char": 8332,
+    "end_char": 8355
   },
   {
     "schema_version": "0.1.0",
@@ -3376,228 +3376,228 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:195-203",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:196-204",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 195,
-    "end_char": 203
+    "start_char": 196,
+    "end_char": 204
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:594-602",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:595-603",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 594,
-    "end_char": 602
+    "start_char": 595,
+    "end_char": 603
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:789-797",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:790-798",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 789,
-    "end_char": 797
+    "start_char": 790,
+    "end_char": 798
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1093-1101",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1094-1102",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 1093,
-    "end_char": 1101
+    "start_char": 1094,
+    "end_char": 1102
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1351-1359",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1352-1360",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 1351,
-    "end_char": 1359
+    "start_char": 1352,
+    "end_char": 1360
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1485-1493",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1486-1494",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 1485,
-    "end_char": 1493
+    "start_char": 1486,
+    "end_char": 1494
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1553-1571",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1554-1572",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 1553,
-    "end_char": 1571
+    "start_char": 1554,
+    "end_char": 1572
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1677-1694",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:1678-1695",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:autoridad-publica",
     "span": "Autoridad Pública",
-    "start_char": 1677,
-    "end_char": 1694
+    "start_char": 1678,
+    "end_char": 1695
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:2338-2346",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:2339-2347",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 2338,
-    "end_char": 2346
+    "start_char": 2339,
+    "end_char": 2347
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:2497-2505",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:2498-2506",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 2497,
-    "end_char": 2505
+    "start_char": 2498,
+    "end_char": 2506
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:2716-2724",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:2717-2725",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 2716,
-    "end_char": 2724
+    "start_char": 2717,
+    "end_char": 2725
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:2842-2850",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:2843-2851",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 2842,
-    "end_char": 2850
+    "start_char": 2843,
+    "end_char": 2851
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:3172-3180",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:3173-3181",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 3172,
-    "end_char": 3180
+    "start_char": 3173,
+    "end_char": 3181
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:3486-3494",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:3487-3495",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 3486,
-    "end_char": 3494
+    "start_char": 3487,
+    "end_char": 3495
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:3921-3929",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:3922-3930",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 3921,
-    "end_char": 3929
+    "start_char": 3922,
+    "end_char": 3930
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:4255-4263",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:4256-4264",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 4255,
-    "end_char": 4263
+    "start_char": 4256,
+    "end_char": 4264
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:4650-4658",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:4651-4659",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 4650,
-    "end_char": 4658
+    "start_char": 4651,
+    "end_char": 4659
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:4857-4865",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:4858-4866",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 4857,
-    "end_char": 4865
+    "start_char": 4858,
+    "end_char": 4866
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:5073-5081",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:5074-5082",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 5073,
-    "end_char": 5081
+    "start_char": 5074,
+    "end_char": 5082
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:5343-5361",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:5344-5362",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 5343,
-    "end_char": 5361
+    "start_char": 5344,
+    "end_char": 5362
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:5407-5415",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:5408-5416",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 5407,
-    "end_char": 5415
+    "start_char": 5408,
+    "end_char": 5416
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:5644-5649",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:5645-5650",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:pleno",
     "span": "Pleno",
-    "start_char": 5644,
-    "end_char": 5649
+    "start_char": 5645,
+    "end_char": 5650
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:6253-6258",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:6254-6259",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:pleno",
     "span": "Pleno",
-    "start_char": 6253,
-    "end_char": 6258
+    "start_char": 6254,
+    "end_char": 6259
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:6298-6316",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:6299-6317",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 6298,
-    "end_char": 6316
+    "start_char": 6299,
+    "end_char": 6317
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:6667-6675",
+    "id": "urn:lex-mx:federal:statute:lfce:article:90:term-usage:6668-6676",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:90",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 6667,
-    "end_char": 6675
+    "start_char": 6668,
+    "end_char": 6676
   },
   {
     "schema_version": "0.1.0",
@@ -4537,39 +4537,39 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:99:term-usage:313-321",
+    "id": "urn:lex-mx:federal:statute:lfce:article:99:term-usage:314-322",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:99",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 313,
-    "end_char": 321
+    "start_char": 314,
+    "end_char": 322
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:99:term-usage:722-730",
+    "id": "urn:lex-mx:federal:statute:lfce:article:99:term-usage:723-731",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:99",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 722,
-    "end_char": 730
+    "start_char": 723,
+    "end_char": 731
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:99:term-usage:903-911",
+    "id": "urn:lex-mx:federal:statute:lfce:article:99:term-usage:904-912",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:99",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 903,
-    "end_char": 911
+    "start_char": 904,
+    "end_char": 912
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:99:term-usage:1040-1048",
+    "id": "urn:lex-mx:federal:statute:lfce:article:99:term-usage:1041-1049",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:99",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 1040,
-    "end_char": 1048
+    "start_char": 1041,
+    "end_char": 1049
   },
   {
     "schema_version": "0.1.0",
@@ -5077,21 +5077,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:105:term-usage:979-1003",
+    "id": "urn:lex-mx:federal:statute:lfce:article:105:term-usage:980-1004",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:105",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:informacion-confidencial",
     "span": "Información Confidencial",
-    "start_char": 979,
-    "end_char": 1003
+    "start_char": 980,
+    "end_char": 1004
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:105:term-usage:1132-1140",
+    "id": "urn:lex-mx:federal:statute:lfce:article:105:term-usage:1133-1141",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:105",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 1132,
-    "end_char": 1140
+    "start_char": 1133,
+    "end_char": 1141
   },
   {
     "schema_version": "0.1.0",
@@ -6598,192 +6598,192 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:1717-1725",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:1718-1726",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 1717,
-    "end_char": 1725
+    "start_char": 1718,
+    "end_char": 1726
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:2115-2131",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:2116-2132",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 2115,
-    "end_char": 2131
+    "start_char": 2116,
+    "end_char": 2132
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:2637-2653",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:2638-2654",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 2637,
-    "end_char": 2653
+    "start_char": 2638,
+    "end_char": 2654
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:2914-2930",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:2915-2931",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 2914,
-    "end_char": 2930
+    "start_char": 2915,
+    "end_char": 2931
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3149-3157",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3150-3158",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 3149,
-    "end_char": 3157
+    "start_char": 3150,
+    "end_char": 3158
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3266-3282",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3267-3283",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 3266,
-    "end_char": 3282
+    "start_char": 3267,
+    "end_char": 3283
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3430-3438",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3431-3439",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 3430,
-    "end_char": 3438
+    "start_char": 3431,
+    "end_char": 3439
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3455-3458",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3456-3459",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:crt",
     "span": "CRT",
-    "start_char": 3455,
-    "end_char": 3458
+    "start_char": 3456,
+    "end_char": 3459
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3533-3541",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3534-3542",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 3533,
-    "end_char": 3541
+    "start_char": 3534,
+    "end_char": 3542
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3547-3550",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3548-3551",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:crt",
     "span": "CRT",
-    "start_char": 3547,
-    "end_char": 3550
+    "start_char": 3548,
+    "end_char": 3551
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3657-3660",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3658-3661",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:crt",
     "span": "CRT",
-    "start_char": 3657,
-    "end_char": 3660
+    "start_char": 3658,
+    "end_char": 3661
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3710-3718",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3711-3719",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 3710,
-    "end_char": 3718
+    "start_char": 3711,
+    "end_char": 3719
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3788-3804",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:3789-3805",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 3788,
-    "end_char": 3804
+    "start_char": 3789,
+    "end_char": 3805
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4192-4200",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4193-4201",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 4192,
-    "end_char": 4200
+    "start_char": 4193,
+    "end_char": 4201
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4451-4456",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4452-4457",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:pleno",
     "span": "Pleno",
-    "start_char": 4451,
-    "end_char": 4456
+    "start_char": 4452,
+    "end_char": 4457
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4510-4515",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4511-4516",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:pleno",
     "span": "Pleno",
-    "start_char": 4510,
-    "end_char": 4515
+    "start_char": 4511,
+    "end_char": 4516
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4657-4673",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4658-4674",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 4657,
-    "end_char": 4673
+    "start_char": 4658,
+    "end_char": 4674
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4780-4788",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4781-4789",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:comision",
     "span": "Comisión",
-    "start_char": 4780,
-    "end_char": 4788
+    "start_char": 4781,
+    "end_char": 4789
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4839-4842",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4840-4843",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:crt",
     "span": "CRT",
-    "start_char": 4839,
-    "end_char": 4842
+    "start_char": 4840,
+    "end_char": 4843
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4891-4894",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4892-4895",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:crt",
     "span": "CRT",
-    "start_char": 4891,
-    "end_char": 4894
+    "start_char": 4892,
+    "end_char": 4895
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4913-4920",
+    "id": "urn:lex-mx:federal:statute:lfce:article:141:term-usage:4914-4921",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:141",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agencia",
     "span": "Agencia",
-    "start_char": 4913,
-    "end_char": 4920
+    "start_char": 4914,
+    "end_char": 4921
   },
   {
     "schema_version": "0.1.0",
@@ -6841,30 +6841,30 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:144:term-usage:418-436",
+    "id": "urn:lex-mx:federal:statute:lfce:article:144:term-usage:419-437",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:144",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 418,
-    "end_char": 436
+    "start_char": 419,
+    "end_char": 437
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:144:term-usage:600-618",
+    "id": "urn:lex-mx:federal:statute:lfce:article:144:term-usage:601-619",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:144",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agentes Económicos",
-    "start_char": 600,
-    "end_char": 618
+    "start_char": 601,
+    "end_char": 619
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lfce:article:144:term-usage:727-743",
+    "id": "urn:lex-mx:federal:statute:lfce:article:144:term-usage:728-744",
     "provision_id": "urn:lex-mx:federal:statute:lfce:article:144",
     "term_id": "urn:lex-mx:federal:statute:lfce:term:agente-economico",
     "span": "Agente Económico",
-    "start_char": 727,
-    "end_char": 743
+    "start_char": 728,
+    "end_char": 744
   },
   {
     "schema_version": "0.1.0",

@@ -21,7 +21,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Asistencia social: Conjunto de acciones tendentes a modificar y mejorar las circunstancias de carácter social que impiden el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva;
 
-II. Barreras socioculturales: Actitudes de rechazo e indiferencia por razones de origen étnico, género, edad, discapacidad, condición social, entre otras, debido a la falta de información, prejuicios y estigmas por parte de los integrantes de la sociedad que impiden su incorporación y participación plena en la vida social; III. [Certificado de habilitación: Documento expedido por autoridad médica especializada, reconocida por esta Ley, donde conste que las personas con la condición del espectro autista se encuentran aptas para el desempeño de actividades laborales, productivas u otras que a sus intereses legítimos convengan;] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 27-05-2016
+II. Barreras socioculturales: Actitudes de rechazo e indiferencia por razones de origen étnico, género, edad, discapacidad, condición social, entre otras, debido a la falta de información, prejuicios y estigmas por parte de los integrantes de la sociedad que impiden su incorporación y participación plena en la vida social;
+
+III. [Certificado de habilitación: Documento expedido por autoridad médica especializada, reconocida por esta Ley, donde conste que las personas con la condición del espectro autista se encuentran aptas para el desempeño de actividades laborales, productivas u otras que a sus intereses legítimos convengan;] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 27-05-2016
 
 IV. Comisión: Comisión Intersecretarial para la Atención y Protección a Personas con la Condición del Espectro Autista;
 
@@ -45,7 +47,9 @@ XIII. Secretaría: Secretaría de Salud;
 
 XIV. Sector social: Conjunto de individuos y organizaciones que no dependen del sector público y que son ajenas al sector privado;
 
-XV. Sector privado: Personas físicas y morales dedicadas a las actividades preponderantemente lucrativas y aquellas otras de carácter civil distintas a los sectores público y social; XVI. Seguridad jurídica: Garantía dada al individuo por el Estado de que su persona, sus bienes y sus derechos no serán objeto de ataques violentos; o que, si estos llegaran a producirse, le serán asegurados por la sociedad, la protección y reparación de los mismos;
+XV. Sector privado: Personas físicas y morales dedicadas a las actividades preponderantemente lucrativas y aquellas otras de carácter civil distintas a los sectores público y social;
+
+XVI. Seguridad jurídica: Garantía dada al individuo por el Estado de que su persona, sus bienes y sus derechos no serán objeto de ataques violentos; o que, si estos llegaran a producirse, le serán asegurados por la sociedad, la protección y reparación de los mismos;
 
 XVII. Seguridad social: Conjunto de medidas para la protección de los ciudadanos ante riesgos, con carácter individual, que se presentan en uno u otro momento de sus vidas, en el nacimiento, por un accidente o en la enfermedad;
 

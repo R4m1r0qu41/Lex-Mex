@@ -41,7 +41,9 @@ X. Supervisar y orientar las actividades administrativas de cada una de las unid
 
 XI. Someter a la consideración del Secretario General los programas de racionalización del gasto, la optimización de los recursos, así como los procesos administrativos de la Institución, supervisar su establecimiento y evaluar su cumplimiento, en coordinación con las instancias competentes;
 
-XII. Proponer al Secretario General los contratos y convenios vinculados con el desarrollo de las atribuciones de la Institución o relacionados con la administración de los recursos humanos, materiales y financieros que ésta tenga asignados, así como los demás actos de administración que requieran ser documentados, conforme a la normatividad vigente y signar aquellos que le faculten; XIII. Establecer las normas y procedimientos para el trámite de pago de la documentación comprobatoria de operaciones, así como supervisar su aplicación y llevar a cabo el resguardo de dicha documentación;
+XII. Proponer al Secretario General los contratos y convenios vinculados con el desarrollo de las atribuciones de la Institución o relacionados con la administración de los recursos humanos, materiales y financieros que ésta tenga asignados, así como los demás actos de administración que requieran ser documentados, conforme a la normatividad vigente y signar aquellos que le faculten;
+
+XIII. Establecer las normas y procedimientos para el trámite de pago de la documentación comprobatoria de operaciones, así como supervisar su aplicación y llevar a cabo el resguardo de dicha documentación;
 
 XIV. Llevar el registro contable del ejercicio del presupuesto de la Institución, conforme a la [Ley](articulo-2.md) Federal de Presupuesto y Responsabilidad Hacendaría, el [Reglamento](articulo-2.md) de ésta última y las normas que expida la Secretaría de Hacienda y Crédito Público;
 

@@ -23,4 +23,6 @@ I.- Que sean altos funcionarios de la Federación de acuerdo con lo dispuesto en
 
 II.- Que pertenezcan a las Policías de la Federación, de los Estados o Municipios, a las Guardias Forestales o a los Resguardos Fronterizos y Marítimos;
 
-III.- Que ejerzan el culto religioso como ministros cuando estén legalmente autorizados para tal profesión; IV.- Que sean candidatos a puesto de elección popular de la Federación, Estados o Municipios, desde el momento en que se registre su candidatura hasta que se haga la declaratoria correspondiente.
+III.- Que ejerzan el culto religioso como ministros cuando estén legalmente autorizados para tal profesión;
+
+IV.- Que sean candidatos a puesto de elección popular de la Federación, Estados o Municipios, desde el momento en que se registre su candidatura hasta que se haga la declaratoria correspondiente.

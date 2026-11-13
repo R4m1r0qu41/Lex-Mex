@@ -28,138 +28,138 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:954-962",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:955-963",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 954,
-    "end_char": 962
+    "start_char": 955,
+    "end_char": 963
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:1362-1370",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:1363-1371",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 1362,
-    "end_char": 1370
+    "start_char": 1363,
+    "end_char": 1371
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:1684-1692",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:1685-1693",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 1684,
-    "end_char": 1692
+    "start_char": 1685,
+    "end_char": 1693
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:2792-2800",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:2793-2801",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 2792,
-    "end_char": 2800
+    "start_char": 2793,
+    "end_char": 2801
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:3098-3116",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:3099-3117",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:mercancia-regulada",
     "span": "Mercancía Regulada",
-    "start_char": 3098,
-    "end_char": 3116
+    "start_char": 3099,
+    "end_char": 3117
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:3140-3145",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:3141-3146",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:lote",
     "span": "Lotes",
-    "start_char": 3140,
-    "end_char": 3145
+    "start_char": 3141,
+    "end_char": 3146
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:3362-3380",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:3363-3381",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:mercancia-regulada",
     "span": "Mercancía Regulada",
-    "start_char": 3362,
-    "end_char": 3380
+    "start_char": 3363,
+    "end_char": 3381
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:5279-5287",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:5281-5289",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 5279,
-    "end_char": 5287
+    "start_char": 5281,
+    "end_char": 5289
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:5500-5508",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:5502-5510",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarque",
-    "start_char": 5500,
-    "end_char": 5508
+    "start_char": 5502,
+    "end_char": 5510
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:5576-5579",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:5578-5581",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
     "span": "Ley",
-    "start_char": 5576,
-    "end_char": 5579
+    "start_char": 5578,
+    "end_char": 5581
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:5831-5839",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:5833-5841",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 5831,
-    "end_char": 5839
+    "start_char": 5833,
+    "end_char": 5841
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:6560-6580",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:6562-6582",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:mercancia-regulada",
     "span": "Mercancías Reguladas",
-    "start_char": 6560,
-    "end_char": 6580
+    "start_char": 6562,
+    "end_char": 6582
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:7365-7373",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:7368-7376",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarque",
-    "start_char": 7365,
-    "end_char": 7373
+    "start_char": 7368,
+    "end_char": 7376
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:7437-7445",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:7440-7448",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 7437,
-    "end_char": 7445
+    "start_char": 7440,
+    "end_char": 7448
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:7510-7530",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2:term-usage:7513-7533",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:2",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 7510,
-    "end_char": 7530
+    "start_char": 7513,
+    "end_char": 7533
   },
   {
     "schema_version": "0.1.0",
@@ -208,12 +208,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:5:term-usage:1178-1181",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:5:term-usage:1179-1182",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:5",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
     "span": "Ley",
-    "start_char": 1178,
-    "end_char": 1181
+    "start_char": 1179,
+    "end_char": 1182
   },
   {
     "schema_version": "0.1.0",
@@ -730,57 +730,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:206-226",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:207-227",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 206,
-    "end_char": 226
+    "start_char": 207,
+    "end_char": 227
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:352-372",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:353-373",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 352,
-    "end_char": 372
+    "start_char": 353,
+    "end_char": 373
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:539-559",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:540-560",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 539,
-    "end_char": 559
+    "start_char": 540,
+    "end_char": 560
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:1274-1288",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:1275-1289",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:rastreabilidad",
     "span": "Rastreabilidad",
-    "start_char": 1274,
-    "end_char": 1288
+    "start_char": 1275,
+    "end_char": 1289
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:1403-1426",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:1404-1427",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:analisis-epidemiologico",
     "span": "Análisis Epidemiológico",
-    "start_char": 1403,
-    "end_char": 1426
+    "start_char": 1404,
+    "end_char": 1427
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:1462-1482",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36:term-usage:1463-1483",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:36",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 1462,
-    "end_char": 1482
+    "start_char": 1463,
+    "end_char": 1483
   },
   {
     "schema_version": "0.1.0",
@@ -1144,21 +1144,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:49:term-usage:998-1014",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:49:term-usage:999-1015",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:49",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:establecimientos",
     "span": "Establecimientos",
-    "start_char": 998,
-    "end_char": 1014
+    "start_char": 999,
+    "end_char": 1015
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:49:term-usage:1236-1250",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:49:term-usage:1237-1251",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:49",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:rastreabilidad",
     "span": "Rastreabilidad",
-    "start_char": 1236,
-    "end_char": 1250
+    "start_char": 1237,
+    "end_char": 1251
   },
   {
     "schema_version": "0.1.0",
@@ -1351,408 +1351,408 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:2859-2868",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:2860-2869",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:retencion",
     "span": "Retención",
-    "start_char": 2859,
-    "end_char": 2868
+    "start_char": 2860,
+    "end_char": 2869
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4225-4233",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4226-4234",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:residuos",
     "span": "Residuos",
-    "start_char": 4225,
-    "end_char": 4233
+    "start_char": 4226,
+    "end_char": 4234
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4453-4462",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4454-4463",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 4453,
-    "end_char": 4462
+    "start_char": 4454,
+    "end_char": 4463
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4523-4532",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4524-4533",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 4523,
-    "end_char": 4532
+    "start_char": 4524,
+    "end_char": 4533
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4605-4614",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4606-4615",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 4605,
-    "end_char": 4614
+    "start_char": 4606,
+    "end_char": 4615
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4700-4708",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4701-4709",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 4700,
-    "end_char": 4708
+    "start_char": 4701,
+    "end_char": 4709
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4806-4814",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4807-4815",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 4806,
-    "end_char": 4814
+    "start_char": 4807,
+    "end_char": 4815
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4905-4913",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:4906-4914",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarque",
-    "start_char": 4905,
-    "end_char": 4913
+    "start_char": 4906,
+    "end_char": 4914
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5024-5044",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5025-5045",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 5024,
-    "end_char": 5044
+    "start_char": 5025,
+    "end_char": 5045
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5166-5186",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5167-5187",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 5166,
-    "end_char": 5186
+    "start_char": 5167,
+    "end_char": 5187
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5188-5194",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5189-5195",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:brote",
     "span": "Brotes",
-    "start_char": 5188,
-    "end_char": 5194
+    "start_char": 5189,
+    "end_char": 5195
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5239-5247",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5240-5248",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarque",
-    "start_char": 5239,
-    "end_char": 5247
+    "start_char": 5240,
+    "end_char": 5248
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5503-5512",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5505-5514",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 5503,
-    "end_char": 5512
+    "start_char": 5505,
+    "end_char": 5514
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5644-5689",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5646-5691",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:certificado-fitosanitario-para-la-importacion",
     "span": "Certificado Fitosanitario para la Importación",
-    "start_char": 5644,
-    "end_char": 5689
+    "start_char": 5646,
+    "end_char": 5691
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5702-5711",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5704-5713",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 5702,
-    "end_char": 5711
+    "start_char": 5704,
+    "end_char": 5713
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5890-5898",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:5892-5900",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 5890,
-    "end_char": 5898
+    "start_char": 5892,
+    "end_char": 5900
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6039-6048",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6041-6050",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 6039,
-    "end_char": 6048
+    "start_char": 6041,
+    "end_char": 6050
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6146-6191",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6148-6193",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:certificado-fitosanitario-para-la-importacion",
     "span": "Certificado Fitosanitario para la Importación",
-    "start_char": 6146,
-    "end_char": 6191
+    "start_char": 6148,
+    "end_char": 6193
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6363-6371",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6365-6373",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarque",
-    "start_char": 6363,
-    "end_char": 6371
+    "start_char": 6365,
+    "end_char": 6373
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6498-6506",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6500-6508",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarque",
-    "start_char": 6498,
-    "end_char": 6506
+    "start_char": 6500,
+    "end_char": 6508
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6620-6628",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6622-6630",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarque",
-    "start_char": 6620,
-    "end_char": 6628
+    "start_char": 6622,
+    "end_char": 6630
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6840-6866",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6842-6868",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plan-de-trabajo-binacional",
     "span": "Plan de Trabajo Binacional",
-    "start_char": 6840,
-    "end_char": 6866
+    "start_char": 6842,
+    "end_char": 6868
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6910-6930",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6912-6932",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 6910,
-    "end_char": 6930
+    "start_char": 6912,
+    "end_char": 6932
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6940-6949",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6942-6951",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 6940,
-    "end_char": 6949
+    "start_char": 6942,
+    "end_char": 6951
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6984-7004",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:6986-7006",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 6984,
-    "end_char": 7004
+    "start_char": 6986,
+    "end_char": 7006
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7038-7046",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7040-7048",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 7038,
-    "end_char": 7046
+    "start_char": 7040,
+    "end_char": 7048
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7122-7130",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7124-7132",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 7122,
-    "end_char": 7130
+    "start_char": 7124,
+    "end_char": 7132
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7327-7335",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7329-7337",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 7327,
-    "end_char": 7335
+    "start_char": 7329,
+    "end_char": 7337
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7469-7495",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7471-7497",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plan-de-trabajo-binacional",
     "span": "Plan de Trabajo Binacional",
-    "start_char": 7469,
-    "end_char": 7495
+    "start_char": 7471,
+    "end_char": 7497
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7522-7530",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7524-7532",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 7522,
-    "end_char": 7530
+    "start_char": 7524,
+    "end_char": 7532
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7796-7804",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:7798-7806",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 7796,
-    "end_char": 7804
+    "start_char": 7798,
+    "end_char": 7806
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:8146-8154",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:8148-8156",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 8146,
-    "end_char": 8154
+    "start_char": 8148,
+    "end_char": 8156
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:8611-8620",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:8613-8622",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 8611,
-    "end_char": 8620
+    "start_char": 8613,
+    "end_char": 8622
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:8659-8667",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:8661-8669",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 8659,
-    "end_char": 8667
+    "start_char": 8661,
+    "end_char": 8669
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:8804-8849",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:8806-8851",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:certificado-fitosanitario-para-la-importacion",
     "span": "Certificado Fitosanitario para la Importación",
-    "start_char": 8804,
-    "end_char": 8849
+    "start_char": 8806,
+    "end_char": 8851
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9012-9030",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9014-9032",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:mercancia-regulada",
     "span": "Mercancía Regulada",
-    "start_char": 9012,
-    "end_char": 9030
+    "start_char": 9014,
+    "end_char": 9032
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9131-9139",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9133-9141",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:residuos",
     "span": "Residuos",
-    "start_char": 9131,
-    "end_char": 9139
+    "start_char": 9133,
+    "end_char": 9141
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9191-9199",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9193-9201",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:residuos",
     "span": "Residuos",
-    "start_char": 9191,
-    "end_char": 9199
+    "start_char": 9193,
+    "end_char": 9201
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9256-9264",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9258-9266",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 9256,
-    "end_char": 9264
+    "start_char": 9258,
+    "end_char": 9266
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9707-9728",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9709-9730",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:estatus-fitosanitario",
     "span": "Estatus Fitosanitario",
-    "start_char": 9707,
-    "end_char": 9728
+    "start_char": 9709,
+    "end_char": 9730
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9867-9887",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:9869-9889",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plaga-reglamentada",
     "span": "Plagas Reglamentadas",
-    "start_char": 9867,
-    "end_char": 9887
+    "start_char": 9869,
+    "end_char": 9889
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:10158-10166",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:10160-10168",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:residuos",
     "span": "Residuos",
-    "start_char": 10158,
-    "end_char": 10166
+    "start_char": 10160,
+    "end_char": 10168
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:10366-10374",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:10368-10376",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 10366,
-    "end_char": 10374
+    "start_char": 10368,
+    "end_char": 10376
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:10751-10759",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:10753-10761",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 10751,
-    "end_char": 10759
+    "start_char": 10753,
+    "end_char": 10761
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:11318-11339",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55:term-usage:11320-11341",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:55",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:estatus-fitosanitario",
     "span": "Estatus Fitosanitario",
-    "start_char": 11318,
-    "end_char": 11339
+    "start_char": 11320,
+    "end_char": 11341
   },
   {
     "schema_version": "0.1.0",
@@ -3592,48 +3592,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:2557-2565",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:2558-2566",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 2557,
-    "end_char": 2565
+    "start_char": 2558,
+    "end_char": 2566
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:2750-2758",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:2751-2759",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 2750,
-    "end_char": 2758
+    "start_char": 2751,
+    "end_char": 2759
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:2800-2808",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:2801-2809",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 2800,
-    "end_char": 2808
+    "start_char": 2801,
+    "end_char": 2809
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:3301-3323",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:3302-3324",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:organos-de-coadyuvancia",
     "span": "Órgano de Coadyuvancia",
-    "start_char": 3301,
-    "end_char": 3323
+    "start_char": 3302,
+    "end_char": 3324
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:3460-3468",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138:term-usage:3461-3469",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:138",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 3460,
-    "end_char": 3468
+    "start_char": 3461,
+    "end_char": 3469
   },
   {
     "schema_version": "0.1.0",
@@ -3664,21 +3664,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:147:term-usage:2816-2832",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:147:term-usage:2817-2833",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:147",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:establecimientos",
     "span": "Establecimientos",
-    "start_char": 2816,
-    "end_char": 2832
+    "start_char": 2817,
+    "end_char": 2833
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:150:term-usage:2728-2743",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:150:term-usage:2729-2744",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:150",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:establecimientos",
     "span": "Establecimiento",
-    "start_char": 2728,
-    "end_char": 2743
+    "start_char": 2729,
+    "end_char": 2744
   },
   {
     "schema_version": "0.1.0",
@@ -3808,21 +3808,21 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:168:term-usage:1462-1470",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:168:term-usage:1463-1471",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:168",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:senasica",
     "span": "SENASICA",
-    "start_char": 1462,
-    "end_char": 1470
+    "start_char": 1463,
+    "end_char": 1471
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:168:term-usage:2862-2865",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:article:168:term-usage:2863-2866",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:article:168",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:ley",
     "span": "Ley",
-    "start_char": 2862,
-    "end_char": 2865
+    "start_char": 2863,
+    "end_char": 2866
   },
   {
     "schema_version": "0.1.0",
@@ -4141,56 +4141,56 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:1565-1574",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:1566-1575",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 1565,
-    "end_char": 1574
+    "start_char": 1566,
+    "end_char": 1575
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:1660-1669",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:1661-1670",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 1660,
-    "end_char": 1669
+    "start_char": 1661,
+    "end_char": 1670
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:1741-1750",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:1742-1751",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 1741,
-    "end_char": 1750
+    "start_char": 1742,
+    "end_char": 1751
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:2090-2099",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:2091-2100",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 2090,
-    "end_char": 2099
+    "start_char": 2091,
+    "end_char": 2100
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:3652-3661",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:3653-3662",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:embarque",
     "span": "Embarques",
-    "start_char": 3652,
-    "end_char": 3661
+    "start_char": 3653,
+    "end_char": 3662
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:3968-3994",
+    "id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno:term-usage:3969-3995",
     "provision_id": "urn:lex-mx:federal:regulation:reg-lfsv:transitory:noveno",
     "term_id": "urn:lex-mx:federal:regulation:reg-lfsv:term:plan-de-trabajo-binacional",
     "span": "Plan de Trabajo Binacional",
-    "start_char": 3968,
-    "end_char": 3994
+    "start_char": 3969,
+    "end_char": 3995
   }
 ]

@@ -21,7 +21,9 @@ El [Tribunal](articulo-2.md) tendrá los servidores públicos siguientes:
 
 I. Magistrados de Sala Superior;
 
-II. Magistrados de Sala Regional; III. Magistrados de Sala Especializada en materia de Responsabilidades Administrativas;
+II. Magistrados de Sala Regional;
+
+III. Magistrados de Sala Especializada en materia de Responsabilidades Administrativas;
 
 IV. Magistrados Supernumerarios de Sala Regional;
 

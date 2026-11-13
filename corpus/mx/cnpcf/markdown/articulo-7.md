@@ -29,7 +29,9 @@ IV. Continuidad. Las audiencias deberán ser ininterrumpidas, permitiendo excepc
 
 V. Contradicción. Las partes tienen derecho a debatir los hechos, argumentos jurídicos y pruebas de su contraparte, en los términos establecidos en este Código Nacional;
 
-VI. Dirección Procesal. La rectoría del proceso está confiada únicamente a las autoridades jurisdiccionales en primera o en segunda instancia, según sea el caso; VII. Igualdad Procesal. Desde el escrito inicial de demanda y hasta la ejecución de la sentencia, las personas recibirán el mismo trato, oportunidades, derechos y cargas procesales sin discriminación alguna. Con las excepciones que se establezcan expresamente en este Código Nacional, cuando en la controversia se involucren derechos de niñas, niños, adolescentes y personas en grupos sociales en situación de vulnerabilidad;
+VI. Dirección Procesal. La rectoría del proceso está confiada únicamente a las autoridades jurisdiccionales en primera o en segunda instancia, según sea el caso;
+
+VII. Igualdad Procesal. Desde el escrito inicial de demanda y hasta la ejecución de la sentencia, las personas recibirán el mismo trato, oportunidades, derechos y cargas procesales sin discriminación alguna. Con las excepciones que se establezcan expresamente en este Código Nacional, cuando en la controversia se involucren derechos de niñas, niños, adolescentes y personas en grupos sociales en situación de vulnerabilidad;
 
 VIII. Inmediación. El contacto directo, personal e indelegable de la autoridad jurisdiccional con las partes y las pruebas, salvo las excepciones previstas en este Código Nacional;
 

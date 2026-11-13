@@ -27,7 +27,9 @@ III. Contar con un Reglamento Interno;
 
 IV. Contar con manuales técnico-administrativos, de operación, y de seguridad;
 
-V. Contar con manual para las madres, padres o quienes tengan la tutela, custodia o la responsabilidad de crianza y cuidado de la niña o niño; VI. Contar con un Programa de Trabajo que contenga las actividades que se desarrollarán en los Centros de Atención;
+V. Contar con manual para las madres, padres o quienes tengan la tutela, custodia o la responsabilidad de crianza y cuidado de la niña o niño;
+
+VI. Contar con un Programa de Trabajo que contenga las actividades que se desarrollarán en los Centros de Atención;
 
 VII. Contar con la infraestructura, instalaciones y equipamiento que garanticen la prestación del servicio en condiciones de seguridad para niñas, niños y el personal;
 

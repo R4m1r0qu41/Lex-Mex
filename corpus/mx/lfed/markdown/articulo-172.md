@@ -17,6 +17,8 @@ source_sha256: e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68
 
 # Artículo 172
 
-El procedimiento constará de dos etapas: I. Una preparatoria, que estará a cargo del [Ministerio Público](articulo-2.md) para la investigación y acreditación de los elementos de la acción de conformidad a las atribuciones asignadas en la presente [Ley](articulo-2.md), y
+El procedimiento constará de dos etapas:
+
+I. Una preparatoria, que estará a cargo del [Ministerio Público](articulo-2.md) para la investigación y acreditación de los elementos de la acción de conformidad a las atribuciones asignadas en la presente [Ley](articulo-2.md), y
 
 II. Una Judicial, que comprende las fases de admisión, notificación, contestación de la demanda, audiencia inicial, audiencia principal, recursos y ejecución de la sentencia.

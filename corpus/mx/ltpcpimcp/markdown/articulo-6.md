@@ -15,7 +15,9 @@ source_sha256: 55fcd61a87cfde80f0699f50bb45d3ee0a79c461dcb0fc374b9a846125cb491d
 
 # Artículo 6
 
-El Medio deberá enviar la factura por concepto de la venta de los [Espacios Publicitarios](articulo-3.md) directamente al [Anunciante](articulo-3.md), aun cuando la Agencia realice el pago en su nombre, conforme a la normatividad en materia fiscal aplicable. Además de la factura, el Medio deberá entregar directamente al Anunciante la información siguiente: LEY PARA LA TRANSPARENCIA, PREVENCIÓN Y COMBATE DE PRÁCTICAS INDEBIDAS EN MATERIA DE CONTRATACIÓN DE PUBLICIDAD I. Las fechas y los lugares de difusión;
+El Medio deberá enviar la factura por concepto de la venta de los [Espacios Publicitarios](articulo-3.md) directamente al [Anunciante](articulo-3.md), aun cuando la Agencia realice el pago en su nombre, conforme a la normatividad en materia fiscal aplicable. Además de la factura, el Medio deberá entregar directamente al Anunciante la información siguiente:
+
+I. Las fechas y los lugares de difusión;
 
 II. Los Espacios Publicitarios difundidos y los formatos utilizados, y
 

@@ -25,4 +25,6 @@ I. Las aportaciones que haya realizado para la mejora continua en la educación,
 
 II. Las publicaciones académicas o de investigación;
 
-III. La formación académica o de posgrado, o IV. El desempeño en el plantel o subsistema en el que realice su labor.
+III. La formación académica o de posgrado, o
+
+IV. El desempeño en el plantel o subsistema en el que realice su labor.

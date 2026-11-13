@@ -73,12 +73,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:4:term-usage:1121-1143",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:4:term-usage:1122-1144",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:4",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 1121,
-    "end_char": 1143
+    "start_char": 1122,
+    "end_char": 1144
   },
   {
     "schema_version": "0.1.0",
@@ -154,12 +154,12 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:13:term-usage:1715-1718",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:13:term-usage:1716-1719",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:13",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:ley",
     "span": "Ley",
-    "start_char": 1715,
-    "end_char": 1718
+    "start_char": 1716,
+    "end_char": 1719
   },
   {
     "schema_version": "0.1.0",
@@ -226,75 +226,75 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:213-230",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:214-231",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:programa-nacional",
     "span": "Programa Nacional",
-    "start_char": 213,
-    "end_char": 230
+    "start_char": 214,
+    "end_char": 231
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:258-267",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:259-268",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:violencia",
     "span": "Violencia",
-    "start_char": 258,
-    "end_char": 267
+    "start_char": 259,
+    "end_char": 268
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:362-382",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:363-383",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:secretario-ejecutivo",
     "span": "Secretario Ejecutivo",
-    "start_char": 362,
-    "end_char": 382
+    "start_char": 363,
+    "end_char": 383
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:992-1012",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:993-1013",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:secretario-ejecutivo",
     "span": "Secretario Ejecutivo",
-    "start_char": 992,
-    "end_char": 1012
+    "start_char": 993,
+    "end_char": 1013
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:1239-1254",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:1240-1255",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:centro-nacional",
     "span": "Centro Nacional",
-    "start_char": 1239,
-    "end_char": 1254
+    "start_char": 1240,
+    "end_char": 1255
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:2653-2669",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:2654-2670",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:consejo-nacional",
     "span": "Consejo Nacional",
-    "start_char": 2653,
-    "end_char": 2669
+    "start_char": 2654,
+    "end_char": 2670
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:3473-3495",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:3474-3496",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:secretariado-ejecutivo",
     "span": "Secretariado Ejecutivo",
-    "start_char": 3473,
-    "end_char": 3495
+    "start_char": 3474,
+    "end_char": 3496
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:4160-4170",
+    "id": "urn:lex-mx:federal:statute:lgpsvd:article:15:term-usage:4161-4171",
     "provision_id": "urn:lex-mx:federal:statute:lgpsvd:article:15",
     "term_id": "urn:lex-mx:federal:statute:lgpsvd:term:reglamento",
     "span": "Reglamento",
-    "start_char": 4160,
-    "end_char": 4170
+    "start_char": 4161,
+    "end_char": 4171
   },
   {
     "schema_version": "0.1.0",

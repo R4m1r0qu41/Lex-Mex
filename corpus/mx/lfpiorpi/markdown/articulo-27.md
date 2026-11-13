@@ -21,7 +21,9 @@ La [Entidad Colegiada](articulo-3.md) deberá cumplir con lo siguiente:
 
 I. Conformarse por quienes realicen tareas similares relacionadas con [Actividades Vulnerables](articulo-3.md), conforme a la legislación aplicable de acuerdo al objeto de las personas morales que integran la entidad;
 
-II. Mantener actualizado el padrón de sus integrantes, que presenten por su conducto [Avisos](articulo-3.md) ante la [Secretaría](articulo-3.md); III. Tener dentro de su objeto la presentación de los Avisos de sus integrantes;
+II. Mantener actualizado el padrón de sus integrantes, que presenten por su conducto [Avisos](articulo-3.md) ante la [Secretaría](articulo-3.md);
+
+III. Tener dentro de su objeto la presentación de los Avisos de sus integrantes;
 
 IV. Designar ante la Secretaría al órgano o, en su caso, representante encargado de la presentación de los Avisos y mantener vigente dicha designación.
 

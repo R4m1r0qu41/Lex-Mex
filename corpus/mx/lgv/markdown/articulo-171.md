@@ -7,8 +7,8 @@ provision_type: article
 number: "171"
 aliases: ["LGV — Artículo 171"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf
 source_sha256: a80f78c0af4f819fec217034a53d1a9d432227f801456803a042d41dd4cbe1c8
 ---
@@ -21,7 +21,9 @@ Para ingresar y permanecer como [Asesor Jurídico](articulo-6.md) se requiere:
 
 I. Ser mexicano o extranjero con calidad migratoria de inmigrado en ejercicio de sus derechos políticos y civiles;
 
-II. Ser licenciado en derecho, con cédula profesional expedida por la autoridad competente; III. Aprobar los exámenes de ingreso y oposición correspondientes, y
+II. Ser licenciado en derecho, con cédula profesional expedida por la autoridad competente;
+
+III. Aprobar los exámenes de ingreso y oposición correspondientes, y
 
 IV. No haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 

@@ -29,7 +29,9 @@ c) Domicilio para oír y recibir notificaciones y personas autorizadas para tale
 
 d) Los elementos y las razones que justifiquen la necesidad de la declaratoria, y
 
-e) Los elementos que permitan determinar en términos de los artículos 12 y 13 de la Ley el mercado relevante y el poder sustancial de mercado o las condiciones de competencia. Estos elementos deberán ser proporcionados en los términos del cuestionario que la Comisión emitirá y publicará en su sitio de Internet y en el Diario Oficial de la Federación. II. En el caso de prevención, el plazo para el desahogo de la misma se puede prorrogar a petición del solicitante por causa debidamente justificada hasta por quince días por una sola ocasión y la solicitud deberá presentarse con tres días antes del vencimiento de dicho plazo.
+e) Los elementos que permitan determinar en términos de los artículos 12 y 13 de la Ley el mercado relevante y el poder sustancial de mercado o las condiciones de competencia. Estos elementos deberán ser proporcionados en los términos del cuestionario que la Comisión emitirá y publicará en su sitio de Internet y en el Diario Oficial de la Federación.
+
+II. En el caso de prevención, el plazo para el desahogo de la misma se puede prorrogar a petición del solicitante por causa debidamente justificada hasta por quince días por una sola ocasión y la solicitud deberá presentarse con tres días antes del vencimiento de dicho plazo.
 
 Dentro de los cinco días siguientes al término del periodo de investigación, la Comisión debe dictar el acuerdo que tenga por concluida dicha investigación;
 

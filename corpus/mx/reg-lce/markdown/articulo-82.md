@@ -35,7 +35,9 @@ F. En su caso, el precio de exportación no lesivo a la producción nacional y u
 
 G. El monto de la cuota compensatoria provisional que habrá de pagarse, y
 
-H. La mención de que se notificará a la Secretaría de Hacienda y Crédito Público para el cobro oportuno de las cuotas compensatorias; II. En caso de que no hayan variado las razones que motivaron el inicio de la investigación sobre prácticas desleales de comercio internacional, la mención de que continúa la investigación administrativa sin imponer cuotas compensatorias, o
+H. La mención de que se notificará a la Secretaría de Hacienda y Crédito Público para el cobro oportuno de las cuotas compensatorias;
+
+II. En caso de que no hayan variado las razones que motivaron el inicio de la investigación sobre prácticas desleales de comercio internacional, la mención de que continúa la investigación administrativa sin imponer cuotas compensatorias, o
 
 III. En caso de que se determine la inexistencia de prácticas desleales de comercio internacional, la mención de que concluye la investigación administrativa sin imponer cuotas compensatorias, así como la fecha en que se sometió el proyecto de resolución a opinión de la [Comisión](articulo-1o.md) y el sentido en que ésta opinó.
 

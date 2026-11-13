@@ -21,7 +21,9 @@ La [Secretaría](articulo-2.md) y las demás dependencias administradoras de inm
 
 I.- Poseer, vigilar, conservar, administrar y controlar por sí mismas o con el apoyo de las instituciones destinatarias que correspondan, los inmuebles federales;
 
-II.- Dictar las reglas a que deberá sujetarse la vigilancia y aprovechamiento de los inmuebles federales; III.- Controlar y verificar el uso y aprovechamiento de los inmuebles federales;
+II.- Dictar las reglas a que deberá sujetarse la vigilancia y aprovechamiento de los inmuebles federales;
+
+III.- Controlar y verificar el uso y aprovechamiento de los inmuebles federales;
 
 IV.- Expedir la declaratoria por la que se determine que un inmueble forma parte del patrimonio de la [Federación](articulo-2.md);
 

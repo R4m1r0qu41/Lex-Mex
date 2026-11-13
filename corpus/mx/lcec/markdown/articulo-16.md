@@ -17,7 +17,7 @@ source_sha256: e3a4540968fe2bad876658320c71458f4092d3578519e7c73f51d4ff954b537b
 
 # Artículo 16
 
-Los Estatutos de las Cámaras y [Confederaciones](articulo-2.md) deberán contener por lo menos lo siguiente:
+Los Estatutos de las [Cámaras](articulo-2.md) y [Confederaciones](articulo-2.md) deberán contener por lo menos lo siguiente:
 
 I. Denominación que deberá hacer referencia al giro y circunscripción autorizados;
 

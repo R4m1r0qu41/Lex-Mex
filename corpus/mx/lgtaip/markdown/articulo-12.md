@@ -17,4 +17,6 @@ source_sha256: e81e23876bd08da81cb8392af7054f6187ad043ca8f965777b455f9d12554e8b
 
 # Artículo 12
 
-Los sujetos obligados en la generación, publicación y entrega de información, deberán: I. Garantizar que esta sea accesible, confiable, completa, verificable, veraz y oportuna, atendiendo las necesidades del derecho de acceso a la información de toda persona, sin embargo, estará sujeta a un régimen de excepciones claramente definido, y II. Procurar que se utilice un lenguaje inclusivo, claro y comprensible para cualquier persona, y en la medida de lo posible, su accesibilidad y traducción a lenguas indígenas.
+Los sujetos obligados en la generación, publicación y entrega de información, deberán: I. Garantizar que esta sea accesible, confiable, completa, verificable, veraz y oportuna, atendiendo las necesidades del derecho de acceso a la información de toda persona, sin embargo, estará sujeta a un régimen de excepciones claramente definido, y
+
+II. Procurar que se utilice un lenguaje inclusivo, claro y comprensible para cualquier persona, y en la medida de lo posible, su accesibilidad y traducción a lenguas indígenas.

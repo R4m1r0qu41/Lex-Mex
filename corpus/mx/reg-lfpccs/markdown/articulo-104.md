@@ -19,7 +19,9 @@ source_sha256: 8a999465afe704f31d0f615aa1afb605c395600298a2433e09778463db25da47
 
 El Comité Consultivo Regional o Estatal de Semillas, para atender las funciones que se establecen en la [Ley](articulo-2.md), realizará las siguientes actividades:
 
-I. Expedir las Reglas de Operación del propio Comité Consultivo; II. Analizar la situación del sector semillero estatal o regional para promover acciones que atiendan los requerimientos de producción de semillas calificadas;
+I. Expedir las Reglas de Operación del propio Comité Consultivo;
+
+II. Analizar la situación del sector semillero estatal o regional para promover acciones que atiendan los requerimientos de producción de semillas calificadas;
 
 III. Emitir las opiniones que en materia de semillas le sean solicitadas;
 

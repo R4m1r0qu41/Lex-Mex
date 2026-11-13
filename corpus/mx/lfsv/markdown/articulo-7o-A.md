@@ -7,8 +7,8 @@ provision_type: article
 number: "7o-A"
 aliases: ["LFSV — Artículo 7o-A"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf
 source_sha256: ca472228c60fb0c4f46b3f473ad478b2fbe2909d7b21da7bf9ba483aa2a5edd6
 ---
@@ -41,7 +41,9 @@ La Secretaría expedirá los documentos técnicos, que sirvan de base para la ap
 
 IX. Organizar y operar la certificación, inspección y vigilancia de los procesos de producción primaria de los vegetales, donde se apliquen las BPA´s;
 
-X. Reconocer a profesionales como terceros autorizados para que coadyuven con la Secretaría en la aplicación y vigilancia del cumplimiento de las BPA´s, que se realicen en las unidades de producción primaria; XI. Proporcionar a la autoridad competente encargada de otorgar el registro, la información sobre los niveles de residuos obtenidos en los estudios de campo que contribuyen al establecimiento de los límites máximos de residuos de plaguicidas por esta última;
+X. Reconocer a profesionales como terceros autorizados para que coadyuven con la Secretaría en la aplicación y vigilancia del cumplimiento de las BPA´s, que se realicen en las unidades de producción primaria;
+
+XI. Proporcionar a la autoridad competente encargada de otorgar el registro, la información sobre los niveles de residuos obtenidos en los estudios de campo que contribuyen al establecimiento de los límites máximos de residuos de plaguicidas por esta última;
 
 XII. Expedir las disposiciones legales aplicables para regular los sistemas de minimización de riesgos de contaminación en la producción primaria de los vegetales; y
 
