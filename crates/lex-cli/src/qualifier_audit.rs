@@ -411,7 +411,7 @@ mod qualifier_audit_tests {
 
         let after = snapshot(root);
         let added: Vec<_> = after.difference(&before).collect();
-        assert!(!added.is_empty());
+        assert_ne!(added.len(), 0);
         assert!(
             added.iter().all(|path| path.starts_with(".work")),
             "unexpected writes: {added:?}"

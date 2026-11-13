@@ -309,10 +309,10 @@ mod qualifier_audit_tests {
 
     #[test]
     fn qualifier_labels_ignore_ocr_and_words() {
-        assert!(labels("fracción ll").is_empty());
-        assert!(labels("fracciones l y ll").is_empty());
-        assert!(labels("fracción").is_empty());
-        assert!(labels("Bis").is_empty());
+        assert_eq!(labels("fracción ll"), Vec::<String>::new());
+        assert_eq!(labels("fracciones l y ll"), Vec::<String>::new());
+        assert_eq!(labels("fracción"), Vec::<String>::new());
+        assert_eq!(labels("Bis"), Vec::<String>::new());
         assert_eq!(labels("fracciones IIII y V"), ["V"]);
     }
 

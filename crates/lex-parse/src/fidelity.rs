@@ -730,7 +730,7 @@ mod tests {
             tokenize("A\u{c}b\u{a0}c  D,e\n\tF."),
             vec!["A", "b", "c", "D,e", "F."]
         );
-        assert!(tokenize(" \u{c}\n").is_empty());
+        assert_eq!(tokenize(" \u{c}\n"), Vec::<&str>::new());
         // No case folding and no normalisation.
         assert_ne!(tokenize("Ley"), tokenize("ley"));
     }

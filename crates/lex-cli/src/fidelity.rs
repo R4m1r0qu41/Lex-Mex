@@ -608,7 +608,7 @@ mod tests {
         let root = fixture_root(&extraction, Some(&"f".repeat(64)));
         let report = check_instrument(root.path(), "fix").unwrap();
         assert_eq!(report.input_status, InputStatus::ExtractionHashMismatch);
-        assert!(report.provisions.is_empty());
+        assert_eq!(report.provisions.len(), 0);
         assert!(!report.all_provisions_pass);
         validate_against_schema(&report);
     }

@@ -1446,7 +1446,7 @@ mod tests {
         let html = b"<table><tr><td>No.</td><td><b>Ley</b></td></tr>\
             <tr><td>1</td><td><b>LEY X</b></td><td>-</td>\
             <td><a href=\"pdf_mov/X.pdf\">m</a></td></tr></table>";
-        assert!(parse_index(html, IndexKind::Laws, LAWS_INDEX_URL).is_empty());
+        assert_eq!(parse_index(html, IndexKind::Laws, LAWS_INDEX_URL).len(), 0);
     }
 
     fn committed(pairs: &[(&str, &str)]) -> BTreeMap<String, String> {
