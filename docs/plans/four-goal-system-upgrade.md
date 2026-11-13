@@ -617,6 +617,19 @@ whitespace-only, but the reparse also re-segments its reform-decree evidence
 (for example the yearly `Acto DOF 2014-12-22` … `2025-12-22` unico entries) and 2 have their
 text rewritten. That is outside the whitespace re-confirmation and needs its own review.
 
+**`lic` adoption note.** The parse guard refuses to replace a persisted stale-reference
+decision whose text hash changed, even after the adapter carries the re-confirmed hash. For
+the adoption, `corpus/mx/lic/references.json` was removed before the parse and regenerated.
+The regenerated file was then compared with the old one: art. 187's approval is identical and
+art. 194's differs only in the five refreshed fields (`source_text_sha256`, reviewer,
+`captured_at`, `decision_source`, its sha). A guard path for re-confirmed hashes is still owed.
+
+**465 baseline after `ea9558b36`.** Every slug reparsed, derived, validated and exported in a
+scratch copy. Only the expected instruments differ: `lieps` (held; parse refuses on the stale
+glossary profile), `cue-dcg-2003` (47 files), `scap-dcg-2012` (5; validate fails) and `lftr`
+(59; validate fails, accepted gap). `lgmime` and the adopted `lic`, `lfpccs`, `lfvv` reproduce
+the corpus exactly.
+
 ### Added milestone
 
 - **P2. Reform-decree omission lines** ("Artículo(s) Segundo a … .- ……" / "……….." between the
