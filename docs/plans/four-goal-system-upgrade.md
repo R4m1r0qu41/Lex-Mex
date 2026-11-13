@@ -637,3 +637,31 @@ the corpus exactly.
   `laassp`; reparse `laassp` and the six instruments above; accept only that deletion, then
   adopt `laassp`.
 
+
+## JRH decisions 2026-11-12 (second round)
+
+- **`lgmime` provision end dates: deferred.** JRH: the law is no longer in force, and its
+  repeal takes effect 23-06-2023, the date the SCJN set, which is also when the previous law
+  regained force. Recording that it is not in force (instrument `repealed`, invalidity note) is
+  enough for now. Provision `effective_to` is not applied and must not hold the project. The
+  notice effects-date field is parked, not owed.
+- **DCG parsers: parked** until the Diputados PDFs are settled. The marks (91) in
+  `socap-sofipo-dcg-2006` and (261) in `scap-dcg-2012` point to modifying decrees.
+- **LGPP / LGIPE:** they need an article-by-article review to establish which articles are
+  repealed. Each keeps its note as printed in the PDF, the same way as a last-reform note.
+- **Vault `Corpus/`:** read and write authorized. Writes go only through the repository's own
+  export, respecting the parser ingest.
+- **CPEUM:** go (see milestone C1).
+
+### Milestone H1: one hold must not hold the corpus
+
+JRH: a single failure or hold cannot block the full corpus. These all-or-nothing gates were
+found:
+1. `link --all` rejects an instrument's whole new graph when one edge targets a missing
+   article.
+2. The closure gate fails on any unaccepted gap.
+3. The persisted-decision guard in `parse` refuses the whole instrument, and a whitespace-only
+   change to the text is enough to trip it (`lic`, `lieps`).
+
+Target: per-instrument (and where possible per-edge) isolation, so the remainder lands and
+the holds are listed. No guard is changed yet. This is a design item for review.
