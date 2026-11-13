@@ -665,3 +665,19 @@ found:
 
 Target: per-instrument (and where possible per-edge) isolation, so the remainder lands and
 the holds are listed. No guard is changed yet. This is a design item for review.
+
+### Applied 2026-11-12 (second round)
+
+- **C1 CPEUM** (`a461a41c0`): re-fetched (SHA-256 `cefb525a…`, the hash the monitor saw). New
+  boundary `provision_notes` (schema, type, guards, export). Arts. 82, 116 and 122 carry JRH's
+  note. Only those three change words; 19 articles reflow paragraph breaks only. Temporal fields
+  unchanged. The prior retained PDF (`ca63a23a…`) was overwritten by `fetch` and is not kept locally;
+  its hash stays in git history. `pdftotext` moved from 26.06 to 26.11.
+- **LGPP/LGIPE table** (`fbf46774e`): `docs/lgpp-lgipe-invalidity-review-2026-11-12.md`, for JRH. No
+  status changed. LGIPE `unknown` is not analysis-related to the ruling: 561 of 567 never analyzed.
+- **Vault export**: all 468 instruments exported to `~/Vaults/Lex-Mex` through `export --format
+  obsidian`. The 40,572 read-only files were made writable for the run and set back to
+  read-only. The 32 NOM standards have no instrument adapter and were not exported by this path.
+  The vault's own git now shows 12,940 changed paths, not committed (operator's vault).
+- **Codex handoff**: `AI/60_Evaluations/provider-handoffs/pending/codex/2026-11-12-lex-mex-four-goal-upgrade-review.md`
+  (Agent Vault `157a575`).
