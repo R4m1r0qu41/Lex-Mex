@@ -1921,8 +1921,7 @@ fn run_batch(
             entry["status"].as_str().unwrap_or("?"),
             entry["error"]
                 .as_str()
-                .map(|error| format!(" — {error}"))
-                .unwrap_or_default()
+                .map_or_default(|error| format!(" — {error}"))
         );
     }
     if !failed.is_empty() {

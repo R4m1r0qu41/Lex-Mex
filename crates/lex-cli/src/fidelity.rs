@@ -296,19 +296,17 @@ fn check_instrument(root: &Path, slug: &str) -> Result<FidelityReport> {
 /// Annex extraction hashes by annex number, from `annex-source-manifests.json`
 /// (entry `n - 1` describes `annex-<n>`). Absent or unreadable means no hash.
 fn read_annex_hashes(path: &Path) -> Vec<Option<String>> {
-    read_json::<Vec<Value>>(path)
-        .map(|entries| {
-            entries
-                .iter()
-                .map(|entry| {
-                    entry
-                        .get("extracted_text_sha256")
-                        .and_then(Value::as_str)
-                        .map(str::to_owned)
-                })
-                .collect()
-        })
-        .unwrap_or_default()
+    read_json::<Vec<Value>>(path).map_or_default(|entries| {
+        entries
+            .iter()
+            .map(|entry| {
+                entry
+                    .get("extracted_text_sha256")
+                    .and_then(Value::as_str)
+                    .map(str::to_owned)
+            })
+            .collect()
+    })
 }
 
 fn load_inputs(
