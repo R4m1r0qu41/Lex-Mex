@@ -174,6 +174,63 @@ byte for byte or be its own commit with a fixture and a disposition of every cha
 Reviewed glossary profiles (`provision_text_sha256`, offsets) must not move without the
 existing re-confirmation path.
 
+### Result: six rules migrated, all byte-identical
+
+All six fracción rules in `terms.rs` now read the marker through `fraction_marker_where`, a
+sibling of `fraction_marker` in `lex-core`. Each rule's context (what may precede the numeral),
+separator policy and tail stay its own. `fraction_marker` itself returns exactly what it did,
+since it is now `fraction_marker_where` with every reading accepted.
+- **Why a sibling.** A rule that rejects the qualified reading must still get the bare one, as
+  its regex did by backtracking. Under a period-only rule, `XX. Bis.- Texto` reads `XX.`. A
+  plain filter on `fraction_marker` would lose that reading.
+- **Commits, in order:**
+
+  | Commit | Rule | Context before the numeral | Separator |
+  |---|---|---|---|
+  | 1 | `fraction_entries` | a paragraph start | `.` (one-line body) |
+  | 2 | mixed | `;`, line break, `(antes fracción N) ` | `.` |
+  | 3 | established | `;`, `:`, line break, a `DOF` date | `.` |
+  | 4 | wider | `;`, `:`, `.`, line break, `y`, a `DOF` date | `.` or `.-` |
+  | 5 | swallowed-fraction check | whitespace | `.` or `.-`, then a capital |
+  | 6 | `roman_colon` | `:` or `;` and whitespace | `.`, then the term and `: ` |
+
+  Rules 2 to 6 share `scan_fraction_markers`. It reproduces the regex scan: leftmost match
+  first, no overlap with the previous match, and the start of the text tried before the first
+  context match.
+- **Permanent parity tests.** Each old regex is kept under `cfg(test)` in
+  `terms::fraction_rule_parity`, and its rule's full output must match it.
+  - The output compared is byte offsets, match ends, labels and terms, plus the matched text for
+    the swallowed check.
+  - The grids: 84,000 paragraph shapes for `fraction_entries`; 504,000 context, marker and body
+    combinations for each scan rule; `roman_colon` gets both.
+  - They include `XX. Bis.- Texto`, numerals of seven and eight letters, `.-` and `.–` under
+    each rule, a body that runs onto a second line, an empty term, and consecutive fractions
+    split only by a line break.
+  - A deliberate break of each kind failed at least one of these tests: dropping `.-` from the
+    wider rule, skipping the start of the text, or raising the numeral limit to eight.
+- **Corpus oracle** (one-off, not committed). Old and new were run over every provision text in
+  `corpus/mx` (68,397 provisions): each text whole, each paragraph and line as is and trimmed,
+  1,442,394 inputs in all. There were 0 differences for every rule. The old rules found:
+  - `fraction_entries`: 330,608 entries;
+  - mixed: 448,435 markers;
+  - established: 456,260 markers;
+  - wider: 507,866 markers;
+  - swallowed: 385,092 matches;
+  - `roman_colon`: 29,419 entries.
+- **Replay sensitivity.** A deliberately broken `fraction_entries` changed `terms.json` for
+  `lritf` and `itf-dcg-2018` (the two `fractions`-style instruments) after `parse` alone. So the
+  replay does reach the glossary rules.
+- **Replay.** parse → derive-temporal → validate → Markdown export of the 465 instruments, once
+  with rule 1 alone and once with all six rules. Both `corpus/` trees are byte-identical to
+  slice (a)'s replay. They have the same two known validation holds (`lftr`, `scap-dcg-2012`)
+  and the same error output.
+- **Intermediate commits.** Each of the six commits was checked on its own in a scratch
+  worktree, with fmt, strict clippy and its parity tests. The full workspace tests and the
+  validators ran on the last commit.
+- **Out of scope, noted.** `lex-link`'s `fraction_labels` (`^([IVXLCDM]+)\.\s`) also
+  recognizes fraction paragraphs, for same-article references. Moving it would change link
+  data, so it needs its own impact review.
+
 ## G0 to G3
 
 The gates are V2's, with D1, D4, D5 and D6 applied.

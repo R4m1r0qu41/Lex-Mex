@@ -19,7 +19,10 @@ shared fracción recognizer in `lex-core`:
 
 No canonical or committed Markdown file changes. Codex accepted slice (a) at `e7d67b719`
 ([review](fintech-pilot-slice-a-codex-review-2026-11-14.md)), and accepts the G0/G1 reviewer role;
-neither gate is approved yet. Next: slice (b) (glossary rules, one at a time), then G0.
+neither gate is approved yet. Slice (b) moved the six glossary fracción rules in `terms.rs`
+onto the shared recognizer, one commit each. The output is unchanged: permanent parity tests
+pass, the corpus oracle found 0 differences, and the full replay is byte-identical. Next: Codex
+review of slice (b), then the G0 sample submission.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 
