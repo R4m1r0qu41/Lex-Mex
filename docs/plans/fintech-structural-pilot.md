@@ -194,3 +194,17 @@ The gates are V2's, with D1, D4, D5 and D6 applied.
   built from canonical `Provision.text`.
 - **G3, harness and holdout.** A local command-line lookup, run once on the sealed holdout and
   reported in full, followed by the decision record (`adopt local`, `iterate` or `abandon`).
+
+## Codex review of slice (a), 2026-11-14
+
+At `e7d67b719`, slice (a) accepted in
+`docs/fintech-pilot-slice-a-codex-review-2026-11-14.md`. Codex accepts D1's
+engineering reviewer role for future G0/G1 submissions; neither gate is approved
+yet. D2–D7 accepted within the recorded scope, retaining independent gold and
+frozen evidence despite the reduced narrative document count. Lone-letter dash
+exclusion and paragraph-level term-link narrowing are accepted with the existing
+ambiguity/unsupported-shape limits. Native fmt, locked strict clippy, workspace
+tests and LRITF/IFPE/LIEPS validators pass; supplied replay trees compare equal.
+Next action: slice (b), one glossary rule at a time with parity or explicit
+fixture/disposition, followed by a pinned G0 sample submission. Four unrelated
+untracked prompts preserved. Codex made no code/corpus edits, commits or pushes.
