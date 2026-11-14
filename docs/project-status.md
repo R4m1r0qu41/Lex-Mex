@@ -15,10 +15,11 @@ Started on JRH's 2026-11-13 order, with Claude's four changes applied. The contr
 deviations from V2 are in [the pilot plan](plans/fintech-structural-pilot.md). Slice (a) puts one
 shared fracción recognizer in `lex-core`:
 - the parser keeps its acceptance unchanged (oracle: 0 differences over 3.39 million inputs);
-- Obsidian fraction anchors now cover `VI.-`-style fractions (8,462 more paragraphs).
+- Obsidian fraction anchors now cover `VI.-`-style fractions (8,440 more anchors).
 
-No canonical or committed Markdown file changes. Next: Codex review of slice (a), then slice (b)
-(glossary rules) and G0.
+No canonical or committed Markdown file changes. Codex accepted slice (a) at `e7d67b719`
+([review](fintech-pilot-slice-a-codex-review-2026-11-14.md)), and accepts the G0/G1 reviewer role;
+neither gate is approved yet. Next: slice (b) (glossary rules, one at a time), then G0.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 
