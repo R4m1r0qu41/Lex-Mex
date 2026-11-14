@@ -1346,6 +1346,19 @@ pub struct FractionMarker<'a> {
 /// `XXIX-A.`, `I).`) is not a marker.
 #[must_use]
 pub fn fraction_marker(text: &str) -> Option<FractionMarker<'_>> {
+    fraction_marker_where(text, |_| true)
+}
+
+/// [`fraction_marker`] restricted to the readings `accept` admits. Readings
+/// are offered in the order a regex reads them: the qualified label first,
+/// then the bare numeral. So a caller whose context rejects the qualified
+/// reading still gets the bare one, as its regex did (`XX. Bis.- Texto`
+/// under a period-only rule reads `XX.`).
+#[must_use]
+pub fn fraction_marker_where<'a>(
+    text: &'a str,
+    mut accept: impl FnMut(&FractionMarker<'a>) -> bool,
+) -> Option<FractionMarker<'a>> {
     let numeral_len = text
         .bytes()
         .take_while(|byte| matches!(byte, b'I' | b'V' | b'X' | b'L' | b'C' | b'D' | b'M'))
@@ -1364,14 +1377,17 @@ pub fn fraction_marker(text: &str) -> Option<FractionMarker<'_>> {
         let word = &word_start[..word_len];
         if fraction_qualifier_rank(word).is_some() {
             let label_end = text.len() - word_start.len() + word_len;
-            if let Some(marker) = marker_ending_at(text, numeral_len, label_end, Some(word)) {
+            if let Some(marker) = marker_ending_at(text, numeral_len, label_end, Some(word))
+                .filter(|marker| accept(marker))
+            {
                 return Some(marker);
             }
         }
     }
-    // No qualified reading completes (`XX. Bis de la ley`): the bare numeral
-    // may still be the label, as both earlier recognizers read it.
-    marker_ending_at(text, numeral_len, numeral_len, None)
+    // No qualified reading completes (`XX. Bis de la ley`) or is accepted:
+    // the bare numeral may still be the label, as both earlier recognizers
+    // read it.
+    marker_ending_at(text, numeral_len, numeral_len, None).filter(|marker| accept(marker))
 }
 
 /// The marker whose label ends at byte `label_end`, if a separator and the
@@ -2241,7 +2257,7 @@ pub struct ValidationReport {
 
 #[cfg(test)]
 mod fraction_marker_tests {
-    use super::{FractionMarker, fraction_marker};
+    use super::{FractionMarker, fraction_marker, fraction_marker_where};
 
     fn label(text: &str) -> Option<(&str, &str, usize)> {
         fraction_marker(text).map(|marker| (marker.label, marker.separator, marker.end_char))
@@ -2287,6 +2303,18 @@ mod fraction_marker_tests {
         assert_eq!(label("XX. Bis de la ley"), Some(("XX", ".", 3)));
         assert_eq!(label("XX. Bis.Texto"), Some(("XX", ".", 3)));
         assert_eq!(label("XX.- Bis de la ley"), Some(("XX", ".-", 4)));
+    }
+
+    #[test]
+    fn a_rejected_qualified_reading_falls_back_to_the_bare_numeral() {
+        let period_only = |text| {
+            fraction_marker_where(text, |marker| marker.separator == ".")
+                .map(|marker| (marker.label, marker.separator))
+        };
+        assert_eq!(period_only("XX. Bis.- Texto"), Some(("XX", ".")));
+        assert_eq!(period_only("XX Bis.- Texto"), None);
+        assert_eq!(period_only("XX Bis. Texto"), Some(("XX Bis", ".")));
+        assert_eq!(fraction_marker_where("VI. Texto", |_| false), None);
     }
 
     #[test]
