@@ -25,9 +25,11 @@ pass, the corpus oracle found 0 differences, and the full replay is byte-identic
 slice (b) ([review](fintech-pilot-slice-b-codex-review-2026-11-14.md)), then prepared the G0
 sample ([submission](fintech-pilot-g0-submission-2026-11-14.md)): 24 pinned provisions, 16 for
 development and 8 in a holdout whose answers are sealed. A fresh QA agent and a builder-side
-check both found it acceptable. Codex curated the package and also approves G0, so the
-disposition goes to a Codex session that did not build it. Next: Codex's G0 disposition, then
-the G1 contract.
+check both found it acceptable. A Codex session that did not build the package approved G0
+with conditions ([disposition](fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 now reads
+"answer-sealed, publicly identified holdout". The G1 contract draft is in the pilot plan, with 68
+hand-derived expectations in `fixtures/fintech-structural-g1-2026-11-14/`. Next: Codex review of
+G1. Before G2, the holdout answers need an evaluator-held encrypted backup.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 

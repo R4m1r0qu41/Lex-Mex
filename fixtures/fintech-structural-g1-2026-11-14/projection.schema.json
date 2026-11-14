@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "lex-mex:fintech-structural-pilot:projection:pilot-v1",
+  "title": "Fintech structural pilot projection and lookup response (pilot-v1, G1 draft)",
+  "description": "Pilot-only derived artifact. Not a trusted boundary and not under schemas/. Semantics are in docs/plans/fintech-structural-pilot.md, section G1 contract. Spans are half-open Unicode scalar offsets into the exact canonical Provision.text.",
+  "oneOf": [
+    {"$ref": "#/$defs/projection"},
+    {"$ref": "#/$defs/lookup_response"}
+  ],
+  "$defs": {
+    "span": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start_char", "end_char"],
+      "properties": {
+        "start_char": {"type": "integer", "minimum": 0},
+        "end_char": {"type": "integer", "minimum": 0}
+      }
+    },
+    "sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "binding": {
+      "type": "object",
+      "required": ["projection_version", "source_release_id", "provision_id", "canonical_text_sha256"],
+      "properties": {
+        "projection_version": {"const": "pilot-v1"},
+        "source_release_id": {"type": "string", "pattern": "^local-[0-9a-f]{40}$"},
+        "provision_id": {"type": "string", "minLength": 1},
+        "canonical_text_sha256": {"$ref": "#/$defs/sha256"}
+      }
+    },
+    "kind": {"enum": ["article_root", "fraction", "inciso"]},
+    "scan_status": {"enum": ["complete", "partial", "ambiguous", "unsupported"]},
+    "segment_reason": {"enum": ["trailing_attachment", "post_child_attachment", "unsupported_marker", "same_line_marker"]},
+    "node": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["node_id", "kind", "path", "parent_node_id", "candidate_parent_node_ids", "parenthood_status", "ordinal_in_parent", "label_span", "printed_label", "normalised_label", "intro_span", "intro_status", "complete_span", "complete_status", "scope"],
+      "properties": {
+        "node_id": {"type": "string", "pattern": "^.+#pilot-v1:[0-9a-f]{12}:(root|tail/i\\.[a-zñ]\\.[1-9][0-9]*|f\\.[IVXLC]+(_[A-Z][a-zá]+)?\\.[1-9][0-9]*(/i\\.[a-zñ]\\.[1-9][0-9]*)?)$"},
+        "kind": {"$ref": "#/$defs/kind"},
+        "path": {"type": "string"},
+        "parent_node_id": {"type": ["string", "null"]},
+        "candidate_parent_node_ids": {"type": "array", "items": {"type": "string"}},
+        "parenthood_status": {"enum": ["root", "resolved", "ambiguous"]},
+        "ordinal_in_parent": {"type": ["integer", "null"], "minimum": 1},
+        "label_span": {"oneOf": [{"$ref": "#/$defs/span"}, {"type": "null"}]},
+        "printed_label": {"type": ["string", "null"]},
+        "normalised_label": {"type": ["string", "null"]},
+        "intro_span": {"$ref": "#/$defs/span"},
+        "intro_status": {"enum": ["resolved", "ambiguous"]},
+        "complete_span": {"$ref": "#/$defs/span"},
+        "complete_status": {"enum": ["resolved", "ambiguous"]},
+        "scope": {"const": "statute_body"}
+      }
+    },
+    "unresolved_segment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["start_char", "end_char", "reason", "candidate_owner_node_ids"],
+      "properties": {
+        "start_char": {"type": "integer", "minimum": 0},
+        "end_char": {"type": "integer", "minimum": 0},
+        "reason": {"$ref": "#/$defs/segment_reason"},
+        "candidate_owner_node_ids": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+        "marker_label_span": {"$ref": "#/$defs/span"},
+        "marker_kind": {"enum": ["fraction", "inciso", "unknown"]}
+      }
+    },
+    "scan": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["parent_node_id", "child_kind", "status", "reasons"],
+      "properties": {
+        "parent_node_id": {"type": "string"},
+        "child_kind": {"enum": ["fraction", "inciso"]},
+        "status": {"$ref": "#/$defs/scan_status"},
+        "reasons": {"type": "array", "items": {"enum": ["unsupported_marker", "same_line_marker", "sequence_break"]}}
+      }
+    },
+    "projection": {
+      "allOf": [{"$ref": "#/$defs/binding"}],
+      "type": "object",
+      "required": ["artifact", "provision_status", "nodes", "unresolved_segments", "scans"],
+      "properties": {
+        "artifact": {"const": "structural-projection"},
+        "provision_status": {"enum": ["structured", "not_structured"]},
+        "not_structured_reason": {"enum": ["unsupported_scope", "unexpected_layout"]},
+        "nodes": {"type": "array", "items": {"$ref": "#/$defs/node"}},
+        "unresolved_segments": {"type": "array", "items": {"$ref": "#/$defs/unresolved_segment"}},
+        "scans": {"type": "array", "items": {"$ref": "#/$defs/scan"}}
+      }
+    },
+    "candidate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["node_id", "path", "label_span"],
+      "properties": {
+        "node_id": {"type": ["string", "null"]},
+        "path": {"type": "string"},
+        "label_span": {"$ref": "#/$defs/span"}
+      }
+    },
+    "lookup_response": {
+      "type": "object",
+      "required": ["artifact", "outcome", "mode", "provision_id", "locator"],
+      "properties": {
+        "artifact": {"const": "structural-lookup-response"},
+        "outcome": {"enum": ["resolved", "ambiguous", "not_structured", "not_found", "stale_projection", "invalid_locator"]},
+        "reason": {"enum": ["unsupported_scope", "unexpected_layout", "partial_scan", "sequence_break", "sequence_gap", "incomplete_path", "same_line_marker", "ambiguous_parent", "unresolved_boundary", "malformed_locator", "unknown_provision", "hash_mismatch", "version_mismatch", "release_mismatch"]},
+        "mode": {"enum": ["label", "intro", "complete"]},
+        "provision_id": {"type": "string"},
+        "locator": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "fraction": {"type": "string"},
+            "inciso": {"type": "string"}
+          }
+        },
+        "projection_version": {"const": "pilot-v1"},
+        "source_release_id": {"type": "string"},
+        "canonical_text_sha256": {"$ref": "#/$defs/sha256"},
+        "normalised_path": {"type": ["string", "null"]},
+        "scan_status": {"$ref": "#/$defs/scan_status"},
+        "node_id": {"type": "string"},
+        "span": {"$ref": "#/$defs/span"},
+        "text": {"type": "string"},
+        "certain_span": {"$ref": "#/$defs/span"},
+        "unresolved_segments": {"type": "array", "items": {"$ref": "#/$defs/unresolved_segment"}},
+        "candidates": {"type": "array", "items": {"$ref": "#/$defs/candidate"}}
+      },
+      "allOf": [
+        {
+          "if": {"properties": {"outcome": {"const": "resolved"}}},
+          "then": {"required": ["node_id", "span", "text", "canonical_text_sha256", "projection_version", "source_release_id", "normalised_path", "scan_status"]},
+          "else": {"not": {"anyOf": [{"required": ["text"]}, {"required": ["span"]}]}}
+        },
+        {
+          "if": {"properties": {"outcome": {"const": "ambiguous"}}},
+          "then": {"anyOf": [{"required": ["candidates"]}, {"required": ["unresolved_segments"]}]}
+        }
+      ]
+    }
+  }
+}
