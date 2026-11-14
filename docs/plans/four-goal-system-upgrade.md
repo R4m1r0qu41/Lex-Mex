@@ -886,3 +886,14 @@ counts, and `lftr` from a control binary at `7b68c3554` is byte-identical to the
 The three slugs not replayed have retained inputs that do not match their manifests:
 `socap-sofipo-dcg-2006` and `cub-dcg-2005` (CNBV), and `lfiiedb`, whose text has no title-case
 decree line. No corpus change follows from this repair.
+
+### Codex title-boundary re-review closed 2026-11-13
+
+At `4fa0bcb79`, the P2 title-boundary repair is accepted. Both the exact
+comma-ended reproducer and original LIEPS citation regression pass; the RGIC
+clarification guard matches retained source. Native gate: fmt, locked strict
+clippy, 526 workspace tests and LRITF/IFPE/LIEPS/RGIC validators pass (zero
+issues). Report: `docs/lieps-title-boundary-codex-re-review-2026-11-13.md`.
+The eight-line/before-blank layout limit remains disclosed. No corpus changed.
+Next action: operator-directed PR #3 update/integration; merge requires JRH's
+instruction. Four unrelated prompts preserved; no commit/push/merge by Codex.
