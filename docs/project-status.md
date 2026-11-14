@@ -21,8 +21,13 @@ No canonical or committed Markdown file changes. Codex accepted slice (a) at `e7
 ([review](fintech-pilot-slice-a-codex-review-2026-11-14.md)), and accepts the G0/G1 reviewer role;
 neither gate is approved yet. Slice (b) moved the six glossary fracción rules in `terms.rs`
 onto the shared recognizer, one commit each. The output is unchanged: permanent parity tests
-pass, the corpus oracle found 0 differences, and the full replay is byte-identical. Next: Codex
-review of slice (b), then the G0 sample submission.
+pass, the corpus oracle found 0 differences, and the full replay is byte-identical. Codex accepted
+slice (b) ([review](fintech-pilot-slice-b-codex-review-2026-11-14.md)), then prepared the G0
+sample ([submission](fintech-pilot-g0-submission-2026-11-14.md)): 24 pinned provisions, 16 for
+development and 8 in a holdout whose answers are sealed. A fresh QA agent and a builder-side
+check both found it acceptable. Codex curated the package and also approves G0, so the
+disposition goes to a Codex session that did not build it. Next: Codex's G0 disposition, then
+the G1 contract.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 

@@ -1,8 +1,8 @@
 # Fintech structural pilot: contract and deviations from V2
 
 **Status:** active, started 2026-11-14 on branch `pilot/fintech-structural` from `main`
-`2d3c77a81`. Codex accepted slices (a) and (b). G0 sampling is prepared at
-`c337dae1a`; G0 and G1 gate approval remain pending.
+`2d3c77a81`. Codex accepted slices (a) and (b). The G0 sample is committed (`0ecc40523`) and
+checked from the builder side; G0 awaits Codex's disposition, and G1 has not started.
 **Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
 pilot, "with your recommendations applied".
 **Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
@@ -324,3 +324,45 @@ submission with no required artifact revision, missing stratum or gold-binding
 failure. Report: `docs/fintech-pilot-g0-independent-review-2026-11-14.md`.
 The review keeps private answers undisclosed. G0/G1 approval remains pending;
 next action is the G0 engineering gate disposition, followed by G1 semantics.
+
+## Builder-side check of the G0 sample (Claude), 2026-11-14
+
+Claude committed Codex's slice (b) verdict and G0 package unchanged as `0ecc40523`. This
+section is the builder's check of the public artifacts only. It is not a G0 disposition.
+
+- **Who did what.** Codex curated the development gold and assembled the package, and under
+  D1 Codex also approves G0. The holdout was selected and annotated by one fresh agent and
+  checked by another, so the overlap is limited to the development set and the package as a
+  whole. This check adds a reviewer from a different model family for the development set.
+  Decision (non-legal, recorded here): G0 disposition stays with Codex under D1, in a Codex
+  session that did not curate the package. JRH may override.
+- **Development gold.** All 19 resolved labels sit at a line start. Each one falls under the
+  locator's parent: the fraction heading before an inciso is the fraction named in the locator,
+  including the two `b)` labels in `lritf` 98 under III and IV. `lic` 11 has no fraction heading
+  at all, so the `not_found` query is consistent with its text. The `lmv` 2 `Control` witness
+  runs from fraction III to the start of IV. The two DCG controls follow G0's scope rule, and
+  the outcome names come from G1's list. `verify.py` passes before and after the commit.
+- **What the seal covers.** The eight holdout articles and their strata are public, and their
+  text is in `canonical-snapshot.json` and in the corpus. Only the queries and answers are
+  sealed. So D6's "the builder does not see it" holds for the answers, not the articles. The
+  builder will not use those eight provisions as development or test input before code freeze.
+  Their sealed answers were not opened: only their SHA-256 was checked, and it matches the
+  manifest.
+- **Strata only in the holdout.** The `.-` label form and a label placed after prose on the same
+  line appear in the holdout but not in the development gold. That is acceptable for a test of
+  generalisation. G1 must still settle these cases in writing before code freeze:
+  - whether a label after prose on the same line counts as structural;
+  - how labels are normalised, for example the source's `XXVI bis.` against the locator's
+    `XXVI Bis`;
+  - which paragraph a trailing unlabelled paragraph belongs to;
+  - when `not_found` may be returned instead of an abstention.
+- **Custody.** The holdout answers exist in one unencrypted copy in the Git-ignored `.work`
+  folder, which has been cleaned before. It should be backed up before any cleanup.
+- **Gate with the fixtures present** (via `mech`):
+  - fmt and strict clippy, exit 0;
+  - `cargo test`, exit 0 with 545 passed and 0 failed;
+  - `validate` for `lritf`, `ifpe-dcg-2021` and `lieps`, 0 issues;
+  - `verify.py` and `git diff --check`, exit 0.
+
+**Next action:** Codex's G0 disposition, then the G1 contract written into this document
+before any projection code.
