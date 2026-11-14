@@ -3647,6 +3647,96 @@ mod tests {
         );
     }
 
+    /// The parser's fraction recognizer as it was before the shared
+    /// [`lex_core::fraction_marker`] (commit `2d3c77a81`), kept as the oracle
+    /// for the acceptance-parity test below.
+    fn legacy_is_fraction_start(block: &str) -> bool {
+        let block = block.trim_start();
+        let numeral = block
+            .bytes()
+            .take_while(|byte| matches!(byte, b'I' | b'V' | b'X' | b'L' | b'C'))
+            .count();
+        if numeral == 0 || matches!(&block[..numeral], "C" | "L") {
+            return false;
+        }
+        let mut rest = &block[numeral..];
+        for suffix in [
+            " Bis",
+            " Ter",
+            " Quáter",
+            " Quater",
+            " Quinquies",
+            " Sexies",
+        ] {
+            if let Some(after) = rest.strip_prefix(suffix) {
+                rest = after;
+                break;
+            }
+        }
+        let Some(rest) = rest.strip_prefix('.') else {
+            return false;
+        };
+        let rest = rest
+            .strip_prefix('-')
+            .or_else(|| rest.strip_prefix('–'))
+            .unwrap_or(rest);
+        rest.starts_with(char::is_whitespace)
+    }
+
+    #[test]
+    fn fraction_start_acceptance_matches_the_legacy_recognizer() {
+        // The page-break flush depends on this predicate, and any drift
+        // changes `Provision.text`. A one-off run over every retained source
+        // line (and adjacent joined lines) found no difference, 2026-11-14;
+        // this grid keeps the shapes that distinguish the two implementations.
+        let numerals = ["I", "V", "X", "XX", "C", "L", "D", "M", "XL", "CD", "IM"];
+        let middles = ["", ".", ". ", "  ", " ", "\t", ".-", ".–", ". -"];
+        let qualifiers = [
+            "",
+            "Bis",
+            "bis",
+            "BIS",
+            "Ter",
+            "Quáter",
+            "Quater",
+            "Quinquies",
+            "Sexies",
+            "Septies",
+            "Bisiesto",
+            "Bis 1",
+        ];
+        let tails = [
+            ". T",
+            ".- T",
+            ".– T",
+            ".T",
+            " T",
+            ". ",
+            "",
+            " de la ley",
+            ".-T",
+        ];
+        let mut checked = 0;
+        for numeral in numerals {
+            for middle in middles {
+                for qualifier in qualifiers {
+                    for tail in tails {
+                        for lead in ["", "  "] {
+                            let input = format!("{lead}{numeral}{middle}{qualifier}{tail}");
+                            assert_eq!(
+                                super::is_fraction_start(&input),
+                                legacy_is_fraction_start(&input),
+                                "{input:?}"
+                            );
+                            checked += 1;
+                        }
+                    }
+                }
+            }
+        }
+        assert_eq!(checked, 21_384);
+    }
+
     #[test]
     fn fraction_markers_are_recognized_narrowly() {
         for marker in ["I. Uno", "IV.- Cuatro", "II Bis. Dos", "XXXVIII. Treinta"] {

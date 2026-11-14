@@ -1,7 +1,7 @@
 # Fintech structural pilot: contract and deviations from V2
 
 **Status:** active, started 2026-11-14 on branch `pilot/fintech-structural` from `main`
-`2d3c77a81`. Slice (a) is in progress. G0 has not started.
+`2d3c77a81`. Slice (a) is committed and awaits Codex review. G0 has not started.
 **Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
 pilot, "with your recommendations applied".
 **Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
@@ -74,6 +74,12 @@ subsection lookups and correct fraction links.
 - **Effect on output:** fraction block anchors (`^f-…`) and the fraction-anchored links built
   on them are Obsidian output only. Committed `corpus/*/markdown` carries no block anchors, so
   no committed file changes.
+  - **Consumers checked.** The only consumers are `with_block_anchors` and the `obsidian` branch
+    of `linked_string` (`crates/lex-export/src/lib.rs`). That covers both the export command
+    and the `link --all` closure, which uses the same `link_targets`/`term_targets`. Markdown
+    mode writes `[text](note.md)` with no fragment.
+  - **No independent rule elsewhere.** The JavaScript reader (`reader/`) and `lex-db` have no
+    fraction-anchor rule of their own.
 
 ### Proof
 
@@ -99,6 +105,10 @@ subsection lookups and correct fraction links.
     Bis. It is now `f-i-bis`, and `I.-` is `f-i`.
   - **The synthetic grid** changes keys only in that same shape: `N. QUALIFIER.- `, read as `N`
     before and as `N`+qualifier now.
+  - **Reconciliation with the Obsidian figure.** 22 of the 8,462 newly matched paragraphs
+    repeat another fraction label in the same provision, so neither copy is anchored. That
+    leaves 8,440, the anchor gain measured below. No newly matched paragraph gives way to a
+    term anchor.
 - **Tests:**
   - six `lex-core` unit tests for `fraction_marker`, including the bare-numeral fallback;
   - four `lex-export` tests from verbatim canonical text:
@@ -107,11 +117,16 @@ subsection lookups and correct fraction links.
     - `reg-lfmzaah` 20 (a repeated `VII.-` gets no anchor);
     - `lfd` 187 (dash lettered apartados get no fraction anchor);
   - the parser's `fraction_markers_are_recognized_narrowly`, extended with the bare-numeral
-    fallback cases.
+    fallback cases;
+  - a permanent parser parity test, `fraction_start_acceptance_matches_the_legacy_recognizer`.
+    It checks a 21,384-input grid against the pre-slice function, which is kept under
+    `cfg(test)`, so slice (b) cannot drift the parser unnoticed.
 
 ### Measured Obsidian effect
 
-The full Obsidian export of all 468 instruments was written twice, into scratch vaults only,
+The full Obsidian export of all 468 instruments was written twice, into scratch vaults only
+(evidence kept in the session scratchpad: `anchors-vault-before`, `anchors-vault-after`, and the
+classifier `anchorcount.py`, re-runnable as `python3 -I anchorcount.py BEFORE AFTER`),
 with `LEX_MEX_OBSIDIAN_VAULT` unset: once with `main` `2d3c77a81` and once with this slice.
 Both vaults hold 68,867 notes. Each differing line was reduced to plain text (anchors and link
 syntax removed). No line differs in anything but fraction anchors and link targets.
@@ -132,9 +147,10 @@ syntax removed). No line differs in anything but fraction anchors and link targe
   predecessor (`XLIX` before `L.`) and are real fractions. The rest are lettered apartados or
   list items. A context rule ("the preceding fraction is this numeral's predecessor") is
   proposed as a separate change.
-- **Letter `I`.** In a lettered list, `I.` or `I.-` is lexically identical to fracción I
-  (`oga` 639 `I.- Libro de instrucciones…`), so it now anchors as `f-i` when dashed. Only the
-  pilot's per-parent scan, which sees the sibling sequence, can tell the two apart.
+- **Letters `I`, `V` and `X`.** In a lettered list, `I.`, `V.` or `X.` (and their dashed forms)
+  are lexically identical to fracciones I, V and X (`oga` 639 `I.- Libro de instrucciones…`),
+  so the dashed forms now anchor too. Only the pilot's per-parent scan, which sees the
+  sibling sequence, can tell them apart.
 
 ### Shapes still not recognized
 
