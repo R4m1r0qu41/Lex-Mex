@@ -1,8 +1,8 @@
 # Fintech structural pilot: contract and deviations from V2
 
 **Status:** active, started 2026-11-14 on branch `pilot/fintech-structural` from `main`
-`2d3c77a81`. Codex accepted slice (a); slice (b) is committed and awaits Codex review. G0 has
-not started.
+`2d3c77a81`. Codex accepted slices (a) and (b). G0 sampling is prepared at
+`c337dae1a`; G0 and G1 gate approval remain pending.
 **Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
 pilot, "with your recommendations applied".
 **Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
@@ -272,3 +272,55 @@ tests and LRITF/IFPE/LIEPS validators pass; supplied replay trees compare equal.
 Next action: slice (b), one glossary rule at a time with parity or explicit
 fixture/disposition, followed by a pinned G0 sample submission. Four unrelated
 untracked prompts preserved. Codex made no code/corpus edits, commits or pushes.
+
+## Codex review of slice (b), 2026-11-14
+
+At `c337dae1a`, slice (b) accepted for the committed corpus and specified policy
+shapes in `docs/fintech-pilot-slice-b-codex-review-2026-11-14.md`. This is not
+universal Unicode equivalence: simple case-folding versus lowercase lookup is
+a disclosed limit, with no observed corpus occurrence. lex-link fraction_labels
+stays outside this slice and requires its own impact review.
+Native fmt, locked strict clippy, 545 tests/doc-tests and LRITF/IFPE/LIEPS
+validators pass. Supplied root1/root6 replay trees compare equal to slice a;
+68,397-provision oracle input independently matches the current corpus. The
+one-off oracle was not rerun; replay trees remain author-generated artifacts.
+Next action: G0 submission with pinned local sample/provenance and fresh-agent
+sealed holdout design; G0/G1 remain unapproved until separately reviewed.
+Four unrelated prompts preserved; no code/corpus edits, commit or push by Codex.
+
+
+## G0 sample submission prepared, 2026-11-14
+
+Submission: `docs/fintech-pilot-g0-submission-2026-11-14.md`. Frozen fixtures:
+`fixtures/fintech-structural-g0-2026-11-14/`. Pin: full HEAD
+`c337dae1af9474d0aef246b3de196c49e2527722`, local committed corpus only.
+24 provisions: 16 development (23 candidate label queries) and 8 disjoint
+independent holdout provisions (15 private label queries). LRITF/LIC/LMV plus
+two DCG scope-abstention controls. Repeated child labels, nested incisos,
+trailing uncertainty, qualified Bis, dot-dash, absent labels, definition witness
+and citation-not-marker observations are represented.
+
+A fresh agent selected and annotated holdout from canonical text alone. Answers
+remain ignored at `.work/fintech-g0-holdout-2026-11-14/holdout-gold.json`, bound
+by the public manifest digest. Builder must not inspect until G1/code freeze.
+No complete-span gold or structural projection is asserted before G1; this is
+a G0 candidate evidence set. Independent QA report:
+`docs/fintech-pilot-g0-independent-review-2026-11-14.md`.
+
+Mechanical verification: both fixture verify.py commands pass, including sealed
+commitment; 24 exact records, disjoint split, development spans and source/seed/
+definition/artifact hashes verified. Diff whitespace check passes; scoped
+corpus/adapters/crates/schemas diff against HEAD is empty. No Cargo gate repeated
+for this sampling-only step. Prior slice-b report/plan work and four untracked
+prompts preserved; no staging/commit/push, source fetch or corpus/code change.
+
+**Current next action:** independent G0 gate review of this submission, then G1
+contract freeze before projection implementation. The rolling writer remains
+disabled for lex-mex; repository plan, existing capsule and project-day receipt
+retain continuity. Do not start a new capsule.
+
+Independent G0 sample QA completed: the fresh reviewer found this an acceptable
+submission with no required artifact revision, missing stratum or gold-binding
+failure. Report: `docs/fintech-pilot-g0-independent-review-2026-11-14.md`.
+The review keeps private answers undisclosed. G0/G1 approval remains pending;
+next action is the G0 engineering gate disposition, followed by G1 semantics.
