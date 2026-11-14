@@ -28,10 +28,9 @@ use std::sync::LazyLock;
 
 use anyhow::{Context, Result, bail};
 use lex_core::{
-    Basis, DefinedTerm, FRACTION_QUALIFIER_PATTERN, GLOSSARY_STRATEGY_VERSION,
-    GlossaryEntryDisposition, GlossaryHoldCode, GlossaryProfile, GlossarySpan, Provision,
-    ProvisionType, SCHEMA_VERSION, evidence_sha256, fraction_qualifier_rank,
-    normalize_fraction_label,
+    Basis, DefinedTerm, GLOSSARY_STRATEGY_VERSION, GlossaryEntryDisposition, GlossaryHoldCode,
+    GlossaryProfile, GlossarySpan, Provision, ProvisionType, SCHEMA_VERSION, evidence_sha256,
+    fraction_qualifier_rank, normalize_fraction_label,
 };
 use lex_grammar::is_connector;
 pub use lex_link::usages::{
@@ -88,7 +87,7 @@ pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<
     let entries = match style {
         GlossaryStyle::Fractions => fraction_entries(provision),
         GlossaryStyle::ColonEntries => colon_entries(provision),
-        GlossaryStyle::RomanColon => roman_colon_entries(provision)?,
+        GlossaryStyle::RomanColon => roman_colon_entries(provision),
         GlossaryStyle::MixedFractions => mixed_fraction_entries(provision)?,
         GlossaryStyle::QuotedRespectively => quoted_respectively_entries(provision)?,
         GlossaryStyle::AutoEstablished => {
@@ -1506,6 +1505,8 @@ struct ScannedMarker<'a> {
     context_start: usize,
     /// Byte offset of the numeral.
     start: usize,
+    /// Byte offset just after the separator.
+    separator_end: usize,
     /// Byte offset where the rule's match ends (for most rules, the body's
     /// start after the whitespace that follows the separator).
     end: usize,
@@ -1544,6 +1545,7 @@ fn scan_fraction_markers<'a>(
         Some(ScannedMarker {
             context_start,
             start,
+            separator_end: start + marker.label.len() + marker.separator.len(),
             end,
             label: marker.label,
         })
@@ -1637,26 +1639,50 @@ fn colon_entries(provision: &Provision) -> Vec<GlossaryEntry> {
     entries
 }
 
+/// Each `roman_colon` entry: its numeral's byte offset, its printed label and
+/// its term. An entry starts the text or follows `:` or `;` and any
+/// whitespace; its separator is a bare period, and its term is the text, at
+/// most 90 characters without `:` or `;`, up to a colon and whitespace.
+fn roman_colon_starts(text: &str) -> Vec<(usize, String, String)> {
+    static CONTEXT: LazyLock<Regex> =
+        LazyLock::new(|| Regex::new(r"[:;]").expect("roman colon context regex must compile"));
+    static TERM: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"\A\s+([^:;]{1,90}?):\s").expect("roman colon term regex must compile")
+    });
+    scan_fraction_markers(
+        text,
+        &CONTEXT,
+        char::is_whitespace,
+        |marker, separator_end| {
+            if marker.separator != "." {
+                return None;
+            }
+            TERM.find(&text[separator_end..])
+                .map(|term| separator_end + term.end())
+        },
+    )
+    .into_iter()
+    .map(|marker| {
+        let term = TERM
+            .captures(&text[marker.separator_end..])
+            .expect("an accepted entry has a term");
+        (
+            marker.start,
+            marker.label.to_owned(),
+            term[1].trim().to_owned(),
+        )
+    })
+    .collect()
+}
+
 /// `I. Término: definición; II. …` entries scanned inline. Each entry
 /// begins at a Roman-numeral fraction that follows the intro colon or a
 /// prior entry's `;`, and the term is the text up to that entry's first
 /// colon (bounded, so a definition's own colon is not mistaken for the
 /// term boundary). The span runs from the fraction to the next entry.
-fn roman_colon_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
-    let entry_re = Regex::new(&format!(
-        r"(?:^|[:;])\s*([IVXLCDM]+(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+([^:;]{{1,90}}?):\s"
-    ))?;
+fn roman_colon_entries(provision: &Provision) -> Vec<GlossaryEntry> {
     let text = &provision.text;
-    let mut starts: Vec<(usize, String, String)> = Vec::new();
-    for captures in entry_re.captures_iter(text) {
-        let fraction = captures.get(1).expect("fraction capture");
-        let term = captures.get(2).expect("term capture");
-        starts.push((
-            fraction.start(),
-            captures[1].to_owned(),
-            term.as_str().trim().to_owned(),
-        ));
-    }
+    let starts = roman_colon_starts(text);
     let mut entries = Vec::with_capacity(starts.len());
     for (index, (byte_start, fraction, term)) in starts.iter().enumerate() {
         let byte_end = starts
@@ -1670,7 +1696,7 @@ fn roman_colon_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
             end_char: text[..byte_end].chars().count(),
         });
     }
-    Ok(entries)
+    entries
 }
 
 /// Quoted vocables paired with their referents by `respectivamente`. The
@@ -3938,6 +3964,23 @@ mod fraction_rule_parity {
         LEGACY_SWALLOWED.find(body).map(|found| found.as_str())
     }
 
+    static LEGACY_ROMAN_COLON: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?:^|[:;])\s*([IVXLCDM]+(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+([^:;]{{1,90}}?):\s"
+        ))
+        .expect("legacy roman colon regex must compile")
+    });
+
+    fn legacy_roman_colon(text: &str) -> Vec<(usize, String, String)> {
+        LEGACY_ROMAN_COLON
+            .captures_iter(text)
+            .map(|c| {
+                let n = c.get(1).expect("fraction");
+                (n.start(), c[1].to_owned(), c[2].trim().to_owned())
+            })
+            .collect()
+    }
+
     #[test]
     fn established_fractions_match_the_legacy_rule() {
         for input in &scan_grid() {
@@ -3958,6 +4001,17 @@ mod fraction_rule_parity {
             assert_eq!(
                 super::swallowed_fraction(input),
                 legacy_swallowed(input),
+                "{input:?}"
+            );
+        }
+    }
+
+    #[test]
+    fn roman_colon_entries_match_the_legacy_rule() {
+        for input in scan_grid().iter().chain(&grid()) {
+            assert_eq!(
+                super::roman_colon_starts(input),
+                legacy_roman_colon(input),
                 "{input:?}"
             );
         }
