@@ -1112,13 +1112,33 @@ fn check_fraction_sequence(
     Ok(())
 }
 
-/// A fraction heading inside an entry: furniture hid a fraction.
-static SWALLOWED_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(&format!(
-        r"(?:^|\s)[IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?\.-?\s+[A-ZÁÉÍÓÚÑ]"
-    ))
-    .expect("swallowed fraction regex must compile")
-});
+/// A fraction heading inside an entry, meaning furniture hid a fraction: the
+/// first fraction marker that starts the text or follows whitespace, with a
+/// period or `.-` separator and a capital letter after it. Returns the text
+/// from that whitespace through the capital.
+fn swallowed_fraction(body: &str) -> Option<&str> {
+    static CONTEXT: LazyLock<Regex> =
+        LazyLock::new(|| Regex::new(r"\s").expect("whitespace regex must compile"));
+    let marker = scan_fraction_markers(
+        body,
+        &CONTEXT,
+        |_| false,
+        |marker, separator_end| {
+            if marker.numeral.len() > 7 || !matches!(marker.separator, "." | ".-") {
+                return None;
+            }
+            let heading = whitespace_end(body, separator_end);
+            body[heading..]
+                .chars()
+                .next()
+                .filter(|c| c.is_ascii_uppercase() || "ÁÉÍÓÚÑ".contains(*c))
+                .map(|c| heading + c.len_utf8())
+        },
+    )
+    .into_iter()
+    .next()?;
+    Some(&body[marker.context_start..marker.end])
+}
 
 fn no_term_delimiter() -> Incomplete {
     (
@@ -1244,12 +1264,12 @@ fn complete_entries(
 /// A fraction heading inside any entry, a placeholder included, means
 /// furniture hid a fraction (`II. Derogada. ENCABEZADO III. …`).
 fn check_not_swallowing(numeral: &str, body: &str) -> std::result::Result<(), Incomplete> {
-    match SWALLOWED_FRACTION.find(body) {
+    match swallowed_fraction(body) {
         Some(found) => Err((
             GlossaryHoldCode::SwallowedFraction,
             format!(
                 "fraction {numeral} contains another fraction heading {:?}",
-                found.as_str().trim()
+                found.trim()
             ),
         )),
         None => Ok(()),
@@ -3907,6 +3927,17 @@ mod fraction_rule_parity {
             .collect()
     }
 
+    static LEGACY_SWALLOWED: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?:^|\s)[IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?\.-?\s+[A-ZÁÉÍÓÚÑ]"
+        ))
+        .expect("legacy swallowed fraction regex must compile")
+    });
+
+    fn legacy_swallowed(body: &str) -> Option<&str> {
+        LEGACY_SWALLOWED.find(body).map(|found| found.as_str())
+    }
+
     #[test]
     fn established_fractions_match_the_legacy_rule() {
         for input in &scan_grid() {
@@ -3918,6 +3949,17 @@ mod fraction_rule_parity {
     fn wider_fractions_match_the_legacy_rule() {
         for input in &scan_grid() {
             assert_eq!(wider(input), legacy_wider(input), "{input:?}");
+        }
+    }
+
+    #[test]
+    fn swallowed_fractions_match_the_legacy_rule() {
+        for input in &scan_grid() {
+            assert_eq!(
+                super::swallowed_fraction(input),
+                legacy_swallowed(input),
+                "{input:?}"
+            );
         }
     }
 
