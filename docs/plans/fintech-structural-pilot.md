@@ -1,7 +1,8 @@
 # Fintech structural pilot: contract and deviations from V2
 
 **Status:** active, started 2026-11-14 on branch `pilot/fintech-structural` from `main`
-`2d3c77a81`. Slice (a) is committed and awaits Codex review. G0 has not started.
+`2d3c77a81`. Codex accepted slice (a); slice (b) is committed and awaits Codex review. G0 has
+not started.
 **Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
 pilot, "with your recommendations applied".
 **Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
@@ -204,8 +205,14 @@ since it is now `fraction_marker_where` with every reading accepted.
   - The grids: 84,000 paragraph shapes for `fraction_entries`; 504,000 context, marker and body
     combinations for each scan rule; `roman_colon` gets both.
   - They include `XX. Bis.- Texto`, numerals of seven and eight letters, `.-` and `.–` under
-    each rule, a body that runs onto a second line, an empty term, and consecutive fractions
-    split only by a line break.
+    each rule, a body that runs onto a second line, an empty `fractions` body, and consecutive
+    fractions split only by a line break.
+  - The grids miss two shapes, so `edge_shapes_match_the_legacy_rules` lists them explicitly:
+    - a `roman_colon` colon right after the marker's whitespace (`XX. Bis. : x`, where only
+      the bare reading has a term; `I.  : x`, where the term is whitespace);
+    - swallowed headings that open with an accented capital, `Ñ` or a lowercase letter.
+  - Without that test, two breaks would pass: reading the `roman_colon` term after the scan
+    instead of inside `accept`, or dropping `ÁÉÍÓÚÑ` from the swallowed rule's capitals.
   - A deliberate break of each kind failed at least one of these tests: dropping `.-` from the
     wider rule, skipping the start of the text, or raising the numeral limit to eight.
 - **Corpus oracle** (one-off, not committed). Old and new were run over every provision text in

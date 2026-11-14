@@ -4017,6 +4017,41 @@ mod fraction_rule_parity {
         }
     }
 
+    /// Shapes the grids miss: a `roman_colon` colon right after the
+    /// marker's whitespace, where only the bare reading has a term (or the
+    /// term is whitespace), and swallowed headings opening with an accented
+    /// capital, `Ñ` or a lowercase letter.
+    #[test]
+    fn edge_shapes_match_the_legacy_rules() {
+        for input in [
+            "XX. Bis. : x",
+            "I.  : x",
+            "I. : x",
+            ": I.  : x; II. B: y",
+            "XX Bis.  : x; XXI. C: z",
+        ] {
+            assert_eq!(
+                super::roman_colon_starts(input),
+                legacy_roman_colon(input),
+                "{input:?}"
+            );
+        }
+        for input in [
+            "texto II. Ámbito",
+            "texto II. Ñandú",
+            "texto II. ámbito",
+            "texto II.- Órgano",
+            "texto III Bis. Única",
+            "a\u{a0}III. Ébano",
+        ] {
+            assert_eq!(
+                super::swallowed_fraction(input),
+                legacy_swallowed(input),
+                "{input:?}"
+            );
+        }
+    }
+
     #[test]
     fn fraction_entries_match_the_legacy_rule() {
         let inputs = grid();
