@@ -1011,7 +1011,7 @@ fn normalized_blocks(
 
     let lines: Vec<_> = raw.lines().collect();
     let publisher_title_lines = publisher_title_lines(&lines);
-    for (index, source_line) in lines.into_iter().enumerate() {
+    for (index, source_line) in lines.iter().enumerate() {
         let line = source_line.trim();
         // These source-backed nested profiles quote each numeric article.
         // Strip only a structural opening quote immediately before its heading;
@@ -1107,7 +1107,7 @@ fn normalized_blocks(
             && !current.trim_end().ends_with(['.', ';', ':'])
             && headings.matches_only_with_separator(line);
         if !continues_sentence
-            && !cites_decree_mid_sentence(line, &current)
+            && !cites_decree_mid_sentence(line, &current, &lines[index + 1..])
             && is_immediate_structural(line, options, headings)
         {
             flush_block(&mut current, &mut blocks);
@@ -1147,13 +1147,65 @@ fn opens_erratum_after_sentence(line: &str, current: &str) -> bool {
 /// citation when the open block stops mid-sentence (lieps, Ley de Ingresos 2017
 /// transitory Cuarto: `…a que se refiere el` / `Decreto por el que se reforman y
 /// adicionan … Constitución…`). The uppercase `DECRETO ` appendix title is
-/// unaffected.
-fn cites_decree_mid_sentence(line: &str, current: &str) -> bool {
+/// unaffected, and so is a heading followed, before the next blank line, by its
+/// own publication line: that is a new act whatever punctuation closed the
+/// previous block (Codex review 2026-11-13). The publication line is the open
+/// block's instead when that block is itself an appendix title still awaiting
+/// it (rgic: `ACLARACION al Decreto … así como al` / `Decreto que reforma los
+/// artículos 73, 89 y 117 …` / … / `Publicada en el Diario Oficial …`).
+fn cites_decree_mid_sentence(line: &str, current: &str, following: &[&str]) -> bool {
     is_decree_heading(line)
         && !line.starts_with("DECRETO ")
         && current
             .trim_end()
             .ends_with(|c: char| c.is_lowercase() || c == ',')
+        && (!heading_has_own_publication_line(following) || awaits_its_publication_line(current))
+}
+
+/// Whether the open block is an appendix title not yet followed by its
+/// publication line: an amending-act or erratum title, or the appendix's
+/// uppercase-name/lowercase-connector title style (`ACLARACION al …`,
+/// `FE de erratas …`).
+fn awaits_its_publication_line(current: &str) -> bool {
+    let open = current.trim_start();
+    let mut words = open.split_whitespace();
+    let caps_title = matches!(
+        (words.next(), words.next()),
+        (Some(name), Some(connector))
+            if name.chars().count() >= 4
+                && name.chars().all(char::is_uppercase)
+                && connector.starts_with(char::is_lowercase)
+    );
+    (caps_title || reform_act_heading_kind(open).is_some() || is_erratum_title_line(open))
+        && !open.contains("Publicad")
+}
+
+/// Whether one of the next few lines, before a blank line, is a stand-alone
+/// publication line (`Publicado en el Diario Oficial de la Federación el …`),
+/// as the appendix gives every decree title. A citation names its publication
+/// mid-line in lower case (`…Energía, publicado en el Diario Oficial…`).
+fn heading_has_own_publication_line(following: &[&str]) -> bool {
+    following
+        .iter()
+        .map(|line| line.trim())
+        .take_while(|line| !line.is_empty())
+        .take(8)
+        .any(|line| {
+            [
+                "Publicado en ",
+                "Publicada en ",
+                "Publicados en ",
+                "Publicadas en ",
+            ]
+            .iter()
+            .any(|prefix| {
+                line.strip_prefix(prefix).is_some_and(|rest| {
+                    ["el Diario Oficial de la Federación", "el DOF"]
+                        .iter()
+                        .any(|outlet| rest.starts_with(outlet))
+                })
+            })
+        })
 }
 
 /// A paragraph opening with a Roman fraction marker: `III. `, `IV.- `,
@@ -3964,6 +4016,87 @@ TRANSITORIO\n\n\
                 "urn:lex-mx:federal:statute:sample:amendment:2011-04-04:transitory:unico",
             ]
         );
+    }
+
+    #[test]
+    fn a_title_case_decree_heading_with_its_own_publication_line_opens_an_act_after_a_comma() {
+        // Codex review 2026-11-13 (P2): a comma-ended transitory followed by a
+        // title-case decree heading that carries its own publication line is a
+        // new act, not a citation; the 2010 transitory must survive.
+        let source = "ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA\n\n\
+Decreto por el que se reforma la Ley de Muestra.\n\
+Publicado en el Diario Oficial de la Federación el 3 de marzo de 2010\n\n\
+TRANSITORIO\n\n\
+Único. El presente Decreto entrará en vigor al día siguiente,\n\
+Decreto por el que se adiciona la Ley de Muestra.\n\
+Publicado en el Diario Oficial de la Federación el 4 de abril de 2011\n\n\
+TRANSITORIO\n\n\
+Único. El presente Decreto entrará en vigor el 1 de mayo de 2011.\n";
+        let evidence = super::extract_reform_evidence(
+            source,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+        )
+        .expect("title-case decree headings parse");
+        let ids: Vec<&str> = evidence
+            .iter()
+            .map(|item| item.provision_id.as_str())
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "urn:lex-mx:federal:statute:sample:amendment:2010-03-03:transitory:unico",
+                "urn:lex-mx:federal:statute:sample:amendment:2011-04-04:transitory:unico",
+            ]
+        );
+    }
+
+    #[test]
+    fn a_decree_cited_inside_an_open_clarification_title_stays_a_citation() {
+        // Verbatim rgic reform appendix (.work/rgic/rgic.txt lines 1994-1999):
+        // the publication line belongs to the ACLARACION, not to the decree it
+        // cites mid-title.
+        let current = "ACLARACION al Decreto que reforma los artículos 85, 94, 176 y 179 del Reglamento para \
+el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, así como al";
+        let line = "Decreto que reforma los artículos 73, 89 y 117 de la Constitución General de la República,";
+        let following = [
+            "y el que reforma y adiciona los artículos 79, 88, 89 y 135 de la citada Constitución General",
+            "de la República, publicados el día 21 de octubre de 1966.",
+            "                                  Publicada en el Diario Oficial de la Federación el 22 de octubre de 1966",
+        ];
+        assert!(super::cites_decree_mid_sentence(line, current, &following));
+        // The same heading after a transitory body is a new act.
+        assert!(!super::cites_decree_mid_sentence(
+            line,
+            "Único. El presente Decreto entrará en vigor al día siguiente,",
+            &following
+        ));
+        assert!(!super::awaits_its_publication_line(
+            "ARTICULO UNICO.- La presente Ley entrará en vigor el día"
+        ));
+        assert!(!super::awaits_its_publication_line(
+            "ACLARACION al Decreto. Publicada en el Diario Oficial de la Federación el 22 de octubre de 1966, y"
+        ));
+    }
+
+    #[test]
+    fn a_publication_line_is_recognized_only_as_its_own_line() {
+        assert!(super::heading_has_own_publication_line(&[
+            "Publicado en el Diario Oficial de la Federación el 4 de abril de 2011",
+        ]));
+        assert!(super::heading_has_own_publication_line(&[
+            "y otras leyes.",
+            "Publicado en el DOF el 6 de junio de 2025",
+        ]));
+        // The real lieps citation: the publication is named mid-line.
+        assert!(!super::heading_has_own_publication_line(&[
+            "Estados Unidos Mexicanos en Materia de Energía, publicado en el Diario Oficial de la Federación el 20 de",
+            "diciembre de 2013, así como de las leyes secundarias que derivan de dicho Decreto, publicadas en el",
+        ]));
+        // A blank line ends the heading's reach.
+        assert!(!super::heading_has_own_publication_line(&[
+            "",
+            "Publicado en el Diario Oficial de la Federación el 4 de abril de 2011",
+        ]));
     }
 
     #[test]

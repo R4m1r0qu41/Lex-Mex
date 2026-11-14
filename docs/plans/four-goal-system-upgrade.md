@@ -785,7 +785,9 @@ three mechanisms, all in `crates/lex-parse/src/diputados.rs`, plus one consequen
    `Decreto por el que …` after a mid-sentence break (`…a que se refiere el`) was split off as a
    decree heading, and the date it cites replaced the real one. That is the source of the
    `2013-12-20` group. A title-case decree name now counts as a citation when the open block
-   ends in a lowercase letter or a comma; uppercase `DECRETO ` is unchanged.
+   ends in a lowercase letter or a comma; uppercase `DECRETO ` is unchanged. Narrowed after the
+   Codex review (see "Title-boundary repair" below): a heading with its own publication line
+   opens an act, unless the open block is itself a title still awaiting that line.
 4. *Wrapping decree article* (consequence of 2, found in `lfd` and `lfpca`). A law-named section
    can open with the decree article that introduces a nested series (`ARTÍCULO SEXTO.- En relación
    con las modificaciones … se estará a lo siguiente:` then `Primero.` … `Sexto.`). An `Artículo`
@@ -863,3 +865,24 @@ whitespace-only and 55 LIEPS adapter starts independently align. Report:
 `docs/lieps-transitory-grouping-codex-review-2026-11-13.md`.
 Next review action: narrow title suppression, add boundary regression and re-review.
 Four unrelated untracked prompt files preserved; no merge/commit/push this session.
+
+**Title-boundary repair (2026-11-13, answering the Codex P2).** `cites_decree_mid_sentence`
+now leaves a title-case decree heading as a new act when, before the next blank line, one of its
+next eight lines is a stand-alone `Publicado/Publicada en el Diario Oficial de la Federación`
+or `… en el DOF` line. A citation names its publication mid-line in lower case. A
+first draft of this rule broke `rgic`: in its reform appendix, `ACLARACION al Decreto … así como
+al` / `Decreto que reforma los artículos 73, 89 y 117 …` is followed three lines later by the
+ACLARACION's own `Publicada en …` line. Suppression therefore still applies when the open
+block is an appendix title (an amending-act, erratum or `UPPERCASE lowercase` title such as
+`ACLARACION al`) with no publication text yet. Tests: Codex's reproducer (both 2010 and 2011
+acts kept), the verbatim `rgic` lines, and publication-line recognition (own line versus
+mid-line, blank-line limit). A scan of every retained `.work/*/*.txt` finds 40 title-case decree
+lines after a lowercase or comma ending. All are citations, and 39 stay suppressed by the
+original rule. `rgic` 1998, the only one with a stand-alone publication line, stays suppressed
+by the open-title guard. Full replay (parse → derive-temporal → validate → export) of 465 instruments: the
+corpus differs from the committed one only in `cue-dcg-2003`, `scap-dcg-2012` (CNBV parser,
+untouched) and `lftr` (held). The pre-fix baseline replay shows the same three with the same file
+counts, and `lftr` from a control binary at `7b68c3554` is byte-identical to the fixed output.
+The three slugs not replayed have retained inputs that do not match their manifests:
+`socap-sofipo-dcg-2006` and `cub-dcg-2005` (CNBV), and `lfiiedb`, whose text has no title-case
+decree line. No corpus change follows from this repair.

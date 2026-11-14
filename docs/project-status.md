@@ -15,7 +15,8 @@
 - an erratum title after a page break;
 - law-named transitory headings (`Disposiciones Transitorias de la Ley …`, `Transitorios de la
   Ley …`);
-- a cited `Decreto por el que …` at a mid-sentence line break, no longer a new decree;
+- a cited `Decreto por el que …` at a mid-sentence line break, no longer a new decree (unless it
+  has its own publication line and is not inside an open title, per the Codex review);
 - a wrapping decree article ahead of its nested series.
 
 Every decree on the Diputados list now has its transitories under its own date. Reform evidence
@@ -23,8 +24,10 @@ goes from 107 to 142 entries, and JRH's 2026-11-12 re-confirmation covers the wh
 provision and glossary refresh. The same repair corrects reform evidence in 34 other instruments
 (217 entries added) and rejoins falsely split sentences in 10. No temporal field or validation
 result changes. Evidence: [four-goal plan](plans/four-goal-system-upgrade.md), section "`lieps`
-grouping repair". Next after Codex review: the Fintech structural pilot, as JRH ordered on
-2026-11-13.
+grouping repair". Codex (2026-11-13) accepted the lint commit and requested a title-boundary
+fix to the parser commit. The fix is committed with no corpus change and awaits Codex re-review;
+PR #3 must not merge before that. Next after Codex review: the Fintech structural pilot, as JRH
+ordered on 2026-11-13.
 
 ## 2026-11-12 four-goal upgrade checkpoint (branch `upgrade/four-goal-2026-11-12`, merged to `main` as PR #2, `181f1f62c`)
 
