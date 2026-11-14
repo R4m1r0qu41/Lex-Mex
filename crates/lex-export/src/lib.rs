@@ -617,11 +617,6 @@ fn with_block_anchors(corpus: &Corpus, provision: &Provision, body: &str) -> Str
 /// apartados) is not emitted at all, because a link to it could not identify
 /// one target. Links consult this registry and fall back to the whole note.
 fn paragraph_anchors(corpus: &Corpus, provision: &Provision) -> Vec<Option<String>> {
-    let fraction_re = regex::Regex::new(&format!(
-        r"^([IVXLCDM]+(?:\.?\s+{})?)\.\s",
-        lex_core::FRACTION_QUALIFIER_PATTERN
-    ))
-    .expect("static regex");
     let mut anchors_by_offset: HashMap<usize, String> = HashMap::new();
     for term in &corpus.terms {
         if term.defining_provision_id == provision.id
@@ -634,10 +629,18 @@ fn paragraph_anchors(corpus: &Corpus, provision: &Provision) -> Vec<Option<Strin
     let mut offset = 0;
     let mut anchors = Vec::new();
     for paragraph in provision.text.split("\n\n") {
+        // The fraction marker shared with the parser: `VI. `, `VI.- `,
+        // `XI Bis.- ` and `XX. BIS. ` all anchor (`f-vi`, `f-xi-bis`). A lone
+        // `C`, `D`, `L` or `M` before a dash is a lettered apartado or list
+        // item (lfd 187 `D.- Por la expedición…`, oga 639 `C.- Libro…`), so
+        // the dash separator does not anchor it; the period form keeps its
+        // earlier treatment.
         let anchor = anchors_by_offset.get(&offset).cloned().or_else(|| {
-            fraction_re
-                .captures(paragraph)
-                .map(|captures| format!("f-{}", fraction_key(&captures[1])))
+            lex_core::fraction_marker(paragraph)
+                .filter(|marker| {
+                    marker.separator == "." || !matches!(marker.label, "C" | "D" | "L" | "M")
+                })
+                .map(|marker| format!("f-{}", fraction_key(marker.label)))
         });
         anchors.push(anchor);
         offset += paragraph.chars().count() + 2;
@@ -1619,6 +1622,86 @@ mod tests {
             terms[&corpus.terms[0].id].anchor.as_deref(),
             Some("f-xx-bis")
         );
+    }
+
+    fn fraction_anchors_of(text: &str) -> Vec<Option<String>> {
+        let mut article = sample_article("1");
+        article.text = text.to_owned();
+        let corpus = corpus_of(sample_instrument(), vec![article.clone()], Vec::new());
+        super::paragraph_anchors(&corpus, &article)
+    }
+
+    #[test]
+    fn dash_separated_fractions_carry_block_anchors() {
+        // Verbatim lgtoc article 176 (corpus/mx/lgtoc/provisions.json).
+        let anchors = fraction_anchors_of(
+            "El cheque debe contener:\n\nI.- La mención de ser cheque, inserta en el texto del \
+             documento;\n\nII.- El lugar y la fecha en que se expide;\n\nIII.- La orden \
+             incondicional de pagar una suma determinada de dinero;\n\nIV.- El nombre del \
+             librado;\n\nV.- El lugar del pago; y\n\nVI.- La firma del librador.",
+        );
+        let expected = [
+            None,
+            Some("f-i"),
+            Some("f-ii"),
+            Some("f-iii"),
+            Some("f-iv"),
+            Some("f-v"),
+            Some("f-vi"),
+        ];
+        assert_eq!(anchors, expected.map(|anchor| anchor.map(str::to_owned)));
+    }
+
+    #[test]
+    fn a_dash_separated_qualified_fraction_keeps_its_qualifier() {
+        // Verbatim paragraphs of cpf article 217 (corpus/mx/cpf/provisions.json;
+        // its incisos omitted): the old period-only rule skipped `I.-` and
+        // read `I. bis.-` as `f-i`.
+        let anchors = fraction_anchors_of(
+            "Comete el delito de uso ilícito de atribuciones y facultades: Párrafo reformado DOF \
+             18-07-2016\n\nI.- El servidor público que ilícitamente: Párrafo reformado DOF \
+             18-07-2016\n\nI. bis.- El servidor público que a sabiendas de la ilicitud del acto, \
+             y en perjuicio del patrimonio o del servicio público o de otra persona:\n\nII.- Toda \
+             persona que solicite o promueva la realización, el otorgamiento o la contratación \
+             indebidos de las operaciones a que hacen referencia la fracción anterior o sea \
+             parte en las mismas, y",
+        );
+        assert_eq!(anchors[1].as_deref(), Some("f-i"));
+        assert_eq!(anchors[2].as_deref(), Some("f-i-bis"));
+        assert_eq!(anchors[3].as_deref(), Some("f-ii"));
+        // Verbatim lcndh article 23, fraction III Bis.
+        let anchors = fraction_anchors_of(
+            "Los Visitadores Generales de la Comisión Nacional deberán reunir para su \
+             designación, los siguientes requisitos:\n\nIII Bis.- Contar con experiencia mínima \
+             de tres años en materia de derechos humanos, y Fracción adicionada DOF 25-06-2018",
+        );
+        assert_eq!(anchors[1].as_deref(), Some("f-iii-bis"));
+    }
+
+    #[test]
+    fn a_dash_separated_lone_letter_apartado_carries_no_fraction_anchor() {
+        // Verbatim lfd article 187 apartado heads (corpus/mx/lfd/provisions.json).
+        let anchors = fraction_anchors_of(
+            "B.- Por la expedición de los siguientes certificados y títulos de \
+             propiedad:\n\nD.- Por la expedición de otros documentos:",
+        );
+        assert_eq!(anchors, [None, None]);
+    }
+
+    #[test]
+    fn a_repeated_dash_separated_numeral_carries_no_anchor() {
+        // Verbatim paragraphs of reg-lfmzaah article 20 (fractions I–V
+        // omitted): the source prints `VII.-` twice, so neither paragraph can
+        // be a unique link target.
+        let anchors = fraction_anchors_of(
+            "En las inscripciones que de los comerciantes en monumentos y en bienes artísticos o \
+             históricos se hagan en los Registros Públicos de los Institutos competentes, se \
+             anotarán:\n\nVI.- Las plazas en las que opere;\n\nVII.- El cambio de denominación o \
+             razón social; y\n\nVII.- El traspaso, clausura o baja.",
+        );
+        assert_eq!(anchors[1].as_deref(), Some("f-vi"));
+        assert_eq!(anchors[2], None);
+        assert_eq!(anchors[3], None);
     }
 
     #[test]

@@ -1211,37 +1211,46 @@ fn heading_has_own_publication_line(following: &[&str]) -> bool {
 /// A paragraph opening with a Roman fraction marker: `III. `, `IV.- `,
 /// `II Bis. `. Lone `C`, `L`, `D` and `M` are excluded: at the start of a
 /// line they are initials and abbreviations (`C. Presidente`), not numerals.
+///
+/// The lexical shape is [`lex_core::fraction_marker`], shared with the
+/// export's block anchors. This parser keeps its narrower, PDF-line policy
+/// unchanged: numerals of `I V X L C` only, and a qualifier only in one of
+/// the printed forms below, after exactly one space. A label whose qualifier
+/// the policy does not admit still opens a fraction when its bare numeral is
+/// followed by the separator (`XX. Bis. ` reads as `XX.`), as before.
 fn is_fraction_start(block: &str) -> bool {
+    const QUALIFIERS: [&str; 6] = ["Bis", "Ter", "Quáter", "Quater", "Quinquies", "Sexies"];
     let block = block.trim_start();
-    let numeral = block
-        .bytes()
-        .take_while(|byte| matches!(byte, b'I' | b'V' | b'X' | b'L' | b'C'))
-        .count();
-    if numeral == 0 || matches!(&block[..numeral], "C" | "L") {
-        return false;
-    }
-    let mut rest = &block[numeral..];
-    for suffix in [
-        " Bis",
-        " Ter",
-        " Quáter",
-        " Quater",
-        " Quinquies",
-        " Sexies",
-    ] {
-        if let Some(after) = rest.strip_prefix(suffix) {
-            rest = after;
-            break;
-        }
-    }
-    let Some(rest) = rest.strip_prefix('.') else {
+    let Some(marker) = lex_core::fraction_marker(block) else {
         return false;
     };
-    let rest = rest
-        .strip_prefix('-')
-        .or_else(|| rest.strip_prefix('–'))
-        .unwrap_or(rest);
-    rest.starts_with(char::is_whitespace)
+    if !marker
+        .numeral
+        .bytes()
+        .all(|byte| matches!(byte, b'I' | b'V' | b'X' | b'L' | b'C'))
+        || matches!(marker.numeral, "C" | "L")
+    {
+        return false;
+    }
+    match marker.qualifier {
+        None => true,
+        Some(qualifier)
+            if QUALIFIERS.contains(&qualifier)
+                && marker.label.len() == marker.numeral.len() + 1 + qualifier.len()
+                && marker.label[marker.numeral.len()..].starts_with(' ') =>
+        {
+            true
+        }
+        Some(_) => {
+            let rest = &block[marker.numeral.len()..];
+            rest.strip_prefix('.').is_some_and(|rest| {
+                rest.strip_prefix('-')
+                    .or_else(|| rest.strip_prefix('–'))
+                    .unwrap_or(rest)
+                    .starts_with(char::is_whitespace)
+            })
+        }
+    }
 }
 
 /// The open block closes a clause of an enumeration: it ends with `;`, `:`
@@ -3652,6 +3661,11 @@ mod tests {
             "",
         ] {
             assert!(!super::is_fraction_start(other), "{other}");
+        }
+        // The bare-numeral reading still applies when a qualifier reading
+        // does not complete, as before the shared recognizer.
+        for bare in ["XX. Bis de la ley", "XX. Bis.Texto", "XX. Bis. Texto"] {
+            assert!(super::is_fraction_start(bare), "{bare}");
         }
         assert!(super::ends_enumeration_clause("de este artículo;"));
         assert!(super::ends_enumeration_clause("en moneda nacional, y"));

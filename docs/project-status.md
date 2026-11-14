@@ -9,7 +9,18 @@
 - **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 
-## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, local)
+## 2026-11-14 Fintech structural pilot (branch `pilot/fintech-structural`, local)
+
+Started on JRH's 2026-11-13 order, with Claude's four changes applied. The contract and its
+deviations from V2 are in [the pilot plan](plans/fintech-structural-pilot.md). Slice (a) puts one
+shared fracción recognizer in `lex-core`:
+- the parser keeps its acceptance unchanged (oracle: 0 differences over 3.39 million inputs);
+- Obsidian fraction anchors now cover `VI.-`-style fractions (8,462 more paragraphs).
+
+No canonical or committed Markdown file changes. Next: Codex review of slice (a), then slice (b)
+(glossary rules) and G0.
+
+## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 
 `lieps` is adopted. The reform appendix parser now handles four more shapes:
 - an erratum title after a page break;
@@ -25,9 +36,9 @@ provision and glossary refresh. The same repair corrects reform evidence in 34 o
 (217 entries added) and rejoins falsely split sentences in 10. No temporal field or validation
 result changes. Evidence: [four-goal plan](plans/four-goal-system-upgrade.md), section "`lieps`
 grouping repair". Codex (2026-11-13) accepted the lint commit and requested a title-boundary
-fix to the parser commit. The fix is committed with no corpus change and awaits Codex re-review;
-PR #3 must not merge before that. Next after Codex review: the Fintech structural pilot, as JRH
-ordered on 2026-11-13.
+fix to the parser commit. The fix (`4fa0bcb79`, no corpus change) was accepted on re-review
+(`docs/lieps-title-boundary-codex-re-review-2026-11-13.md`), and PR #3 was merged with a merge
+commit.
 
 ## 2026-11-12 four-goal upgrade checkpoint (branch `upgrade/four-goal-2026-11-12`, merged to `main` as PR #2, `181f1f62c`)
 

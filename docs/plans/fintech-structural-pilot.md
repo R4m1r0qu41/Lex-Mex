@@ -1,0 +1,180 @@
+# Fintech structural pilot: contract and deviations from V2
+
+**Status:** active, started 2026-11-14 on branch `pilot/fintech-structural` from `main`
+`2d3c77a81`. Slice (a) is in progress. G0 has not started.
+**Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
+pilot, "with your recommendations applied".
+**Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
+source manifests and release artifacts stay unchanged. The pilot output is derived and local.
+No public route, MCP tool, database migration or deployment is authorized.
+
+## Basis
+
+- **Plan:** `prompts/V2_LEX_MEX_FINTECH_STRUCTURAL_PILOT_CONTRACT_FIRST_2026-11-13.md` (V2). It
+  stays untracked and unedited. This document is the binding contract, and every departure
+  from V2 is listed below.
+- **Earlier draft V2 revises:** `prompts/LEX_MEX_FINTECH_STRUCTURAL_PILOT_AGENT_BUILD_PLAN_2026-11-13.md`.
+- **Technical audit:** `prompts/LEX_MEX_PARSER_SYSTEM_INDEPENDENT_AUDIT_2026-11-13_CODEX.md`. Its
+  reviewer is Codex. V2 attributes the separate plan comments to Astra.
+- **Claude's recommendations:** four changes plus the advisor's additions. JRH approved them
+  on 2026-11-13.
+
+## Deviations from V2
+
+| # | V2 says | This pilot does | Reason |
+|---|---|---|---|
+| D1 | The operator approves G0 (sample) and G1 (definitions) | Codex approves G0 and G1 through the provider-handoff queue. JRH hears only of a case that forces a decision about what a provision legally covers | These are engineering calls. Under the decision-routing rule in `AGENTS.md`, only strict legal questions go to JRH. Uncertain attachments return `ambiguous` by design |
+| D2 | `VI.-` export parity is backlog after G1 (§9) | The first slice is one shared fracción recognizer plus the `VI.-` export fix, before G0 | About seven fracción recognizers disagree on the dash. The pilot must build on one rule, not add an eighth. Codex's audit recommends the same next step |
+| D3 | The shared rule lives in `lex-grammar` (Claude's recommendation) | It lives in `lex-core`, as `fraction_marker`, beside `FRACTION_QUALIFIER_PATTERN`, `fraction_qualifier_rank` and `normalize_fraction_label` | `lex-grammar` depends on no project crate by recorded design (`docs/parser-rule-inventory.md` §6). The qualifier list lives in `lex-core`, and `lex-export` depends only on `lex-core`. No new crate edge |
+| D4 | Hand-written locators | Queries come from real fraction-qualified citations that the linker has already recorded (`references.json` qualifiers of type `fraction`). Results are reported as resolved-correct, resolved-wrong (must be 0) and abstained, alongside V2 §7's coverage figures | Success then means real citations landing on exact text |
+| D5 | Six roles and six documents (§10–§11) | Three documents: this contract (absorbing `00-baseline`, `01-span-parenthood-contract` and `lookup-contract`), one results document, and one decision record. Codex review files serve as `04-independent-review` | Proportionate to 20–30 provisions |
+| D6 | The holdout agent selects and annotates | Kept, and treated as the step with real value. A fresh agent selects and annotates the sealed holdout from canonical text alone, and the builder does not see it until code freeze. Codex reviews both gold sets. The holdout must include repeated labels, nested incisos, trailing paragraphs, `Bis`, and `.-` | Independence of the gold set is what makes the result meaningful |
+| D7 | Verify the live published inventory first | The sample is the local committed corpus, labelled local. The public `llms.txt` and manifest may be read for the record, but membership is not inferred from them | No website edit or deployment is in scope. Local canonical data is what the projection reads |
+
+## Not fixed by this pilot
+
+- LGIPE's 20 folded articles.
+- `353-Ñ` missing from the public lookup (Unicode routing).
+- CNBV orphan amendment markers.
+- Extractor-to-canonical completeness.
+
+These affect correctness and stay separate work. The pilot adds precision: exact, checkable
+subsection lookups and correct fraction links.
+
+## Slice (a): shared fracción recognizer and `VI.-` export anchors
+
+### Design
+
+- **Shared core:** `lex_core::fraction_marker(text)` reads a marker at the start of `text`:
+  - a Roman numeral from `I V X L C D M`;
+  - optionally, a qualifier word that `fraction_qualifier_rank` knows, after whitespace or after
+    `.` plus whitespace;
+  - then `.`, optionally followed by `-` or `–`;
+  - then the whitespace that must follow.
+
+  It returns the numeral, the qualifier, the printed label, the separator, and `end_char`
+  (Unicode scalar values through the separator). When a qualified reading does not complete,
+  it falls back to the bare numeral (`XX. Bis de la ley` reads as `XX.`), as both earlier
+  recognizers did. It applies no context policy.
+- **Parser policy (`lex-parse` `is_fraction_start`):** acceptance is unchanged:
+  - numerals of `I V X L C` only;
+  - no lone `C` or `L`;
+  - qualifiers only as ` Bis`, ` Ter`, ` Quáter`, ` Quater`, ` Quinquies` or ` Sexies`, after
+    exactly one space;
+  - the bare-numeral fallback (`XX. Bis. ` reads as `XX.`).
+
+  This recognizer drives the page-break flush, and a changed flush would change
+  `Provision.text`.
+- **Export policy (`lex-export` `paragraph_anchors`):** it accepts everything the old regex
+  `^([IVXLCDM]+(?:\.?\s+QUALIFIER)?)\.\s` accepted, plus the `.-` and `.–` separators.
+  The dash does not anchor a lone `C`, `D`, `L` or `M`. In the corpus, all six such
+  paragraphs are lettered apartados or list items: `lfd` 187 `D.- Por la expedición…`, and
+  `oga` 639 and 661 `C.- Libro…`. The period form keeps its earlier treatment (see "Known
+  limits").
+- **Effect on output:** fraction block anchors (`^f-…`) and the fraction-anchored links built
+  on them are Obsidian output only. Committed `corpus/*/markdown` carries no block anchors, so
+  no committed file changes.
+
+### Proof
+
+- **Parser oracle (one-off, not committed).** The old `is_fraction_start` and the new wrapper
+  were compared on 3,392,862 inputs:
+  - every trimmed line of every retained `.work/*/*.txt`;
+  - every pair of adjacent lines joined as an open block would be;
+  - a synthetic grid: 11 numerals × 9 separators × 12 qualifier forms × 9 tails.
+
+  They differ on 0 inputs.
+- **Corpus replay.** A full replay of 465 instruments (parse → derive-temporal → validate →
+  Markdown export, in a scratch root) is byte-identical across the whole `corpus/` tree to
+  the same replay with the `4fa0bcb79` parser. Against the committed corpus, both replays show
+  only the standing `cue-dcg-2003`, `scap-dcg-2012` and held `lftr` differences. The three
+  slugs not replayed are as in the LIEPS repair: their retained inputs do not match their
+  manifests.
+- **Export oracle (one-off, not committed).** The old regex and the new policy were run on
+  every canonical paragraph: 251,798 paragraphs. The old regex matched 82,652 and the new
+  policy matches 91,114. Every old match keeps its key except one. The 8,462 gained matches
+  all use the `.-` separator.
+  - **The exception** is `cpf` article 217's `I. bis.- …`. The old regex read it as `f-i`
+    while skipping the real `I.- …` paragraph, so a link to fracción I previewed fracción I
+    Bis. It is now `f-i-bis`, and `I.-` is `f-i`.
+  - **The synthetic grid** changes keys only in that same shape: `N. QUALIFIER.- `, read as `N`
+    before and as `N`+qualifier now.
+- **Tests:**
+  - six `lex-core` unit tests for `fraction_marker`, including the bare-numeral fallback;
+  - four `lex-export` tests from verbatim canonical text:
+    - `lgtoc` 176 (`I.-`…`VI.-`);
+    - `cpf` 217 and `lcndh` 23 (qualified dash fractions);
+    - `reg-lfmzaah` 20 (a repeated `VII.-` gets no anchor);
+    - `lfd` 187 (dash lettered apartados get no fraction anchor);
+  - the parser's `fraction_markers_are_recognized_narrowly`, extended with the bare-numeral
+    fallback cases.
+
+### Measured Obsidian effect
+
+The full Obsidian export of all 468 instruments was written twice, into scratch vaults only,
+with `LEX_MEX_OBSIDIAN_VAULT` unset: once with `main` `2d3c77a81` and once with this slice.
+Both vaults hold 68,867 notes. Each differing line was reduced to plain text (anchors and link
+syntax removed). No line differs in anything but fraction anchors and link targets.
+
+| Change | Count |
+|---|---|
+| Fraction block anchors gained | 8,440 (80,689 → 89,127 net) |
+| Anchors lost to a newly visible duplicate | 2: `lfd` 187 `f-ii` and `f-iii`. Their twins under another apartado are printed `II.-` and `III.-`. No link pointed to either |
+| Anchors re-keyed | 1: `cpf` 217, `f-i` → `f-i-bis` |
+| Cited numerals newly linked to their fraction (`CCom` 1154 "fracciones II y III del artículo 1151") | 693 |
+| Term links narrowed from the whole defining article to its fraction (`lfaebsp` "Instituto" → `articulo-2o#^f-vi`) | 1,545 |
+| Links removed, or moved to another note | 0 |
+
+### Known limits (recorded, not fixed in slice (a))
+
+- **Lone letters with a period.** 217 paragraphs (`C.` 117, `D.` 70, `L.` 26, `M.` 4) still
+  anchor as `f-c`, `f-d`, `f-l` and `f-m`, as before slice (a). About 24 follow their Roman
+  predecessor (`XLIX` before `L.`) and are real fractions. The rest are lettered apartados or
+  list items. A context rule ("the preceding fraction is this numeral's predecessor") is
+  proposed as a separate change.
+- **Letter `I`.** In a lettered list, `I.` or `I.-` is lexically identical to fracción I
+  (`oga` 639 `I.- Libro de instrucciones…`), so it now anchors as `f-i` when dashed. Only the
+  pilot's per-parent scan, which sees the sibling sequence, can tell the two apart.
+
+### Shapes still not recognized
+
+Counts are canonical paragraphs the new recognizer rejects, as of 2026-11-14. They are
+recorded for the pilot's unsupported-shape report, not fixed here.
+
+| Shape | Example | Paragraphs |
+|---|---|---|
+| Dash, then text with no space | `I.-Aeronave` (`reg-lgs-msi` 5) | 88 |
+| Period, then text with no space | `XXVII.Información` (`fi-dcg-2014` 14 Bis) | 19 |
+| Numeral, space, capitalised word, no separator | `III Asesores…` (`servinv-dcg-2013` 1) | 115 |
+| Letter-suffixed fraction | `XXIX-A.` (`cpeum` 73) | 26 |
+| Numeral or letter followed by `)` (includes letter incisos `C)`, `D)`) | `I). Por…` (`lfd` 40) | 102 |
+| Editorial `(sic …)` after the numeral | `VI (sic DOF 02-08-2006).` (`lgimh` 38) | 12 |
+
+## Slice (b): glossary rules
+
+Each rule in `crates/lex-parse/src/terms.rs` that recognizes a fracción marker is migrated to
+`fraction_marker` one at a time. Each migration must either reproduce the committed glossary
+byte for byte or be its own commit with a fixture and a disposition of every changed term.
+Reviewed glossary profiles (`provision_text_sha256`, offsets) must not move without the
+existing re-confirmation path.
+
+## G0 to G3
+
+The gates are V2's, with D1, D4, D5 and D6 applied.
+
+- **G0, sample (Codex approves).**
+  - Local snapshot at a pinned commit.
+  - The main set comes from Diputados laws: `lritf` plus one or two financial laws.
+  - `itf-dcg-2018` and `ifpe-dcg-2021` act as the "different format, expected to abstain" case
+    while the DCG parsers are on hold.
+  - Development cases are drawn from fraction-qualified reference edges into those provisions.
+  - The sealed holdout comes from the fresh agent (D6).
+- **G1, contract (Codex approves).** V2 §4 semantics: `label`, `intro` and `complete` spans;
+  `unresolved_segments`; one synthetic article root; human locator versus derived `node_id`;
+  coverage per parent and per child kind; and typed outcomes (`resolved`, `ambiguous`,
+  `not_structured`, `not_found`, `stale_projection`, `invalid_locator`). They are written into
+  this document before any projection code.
+- **G2, projection.** A derived, hash-bound JSON projection in scratch or test paths only,
+  built from canonical `Provision.text`.
+- **G3, harness and holdout.** A local command-line lookup, run once on the sealed holdout and
+  reported in full, followed by the decision record (`adopt local`, `iterate` or `abandon`).
