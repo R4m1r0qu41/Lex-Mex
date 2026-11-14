@@ -724,17 +724,23 @@ static WIDER_SCOPED: LazyLock<Regex> = LazyLock::new(|| {
     .expect("wider scoped regex must compile")
 });
 
+/// Each fraction of a wider-pass glossary.
 // A fraction starts the text or follows `;`, `:`, `.`, a line break, the
 // conjunction `y` (the last entry of an inline glossary: `…de Economía, y
 // X.- Servicio: …`) or an amendment note (`…Fracción recorrida DOF
 // 28-01-2011 XX.- Impacto ambiental: …`). A spurious start breaks the
 // numbering and holds the glossary rather than splitting it wrongly.
-static WIDER_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(&format!(
-        r"(?:^|[;:.\n]|\by|DOF\s+\d{{2}}-\d{{2}}-\d{{4}})[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.-?\s+",
-    ))
-    .expect("wider fraction regex must compile")
-});
+// Its separator is a period, optionally with a hyphen (`X.-`).
+fn wider_fraction_markers(text: &str) -> Vec<ScannedMarker<'_>> {
+    static CONTEXT: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"[;:.\n]|\by|DOF\s+\d{2}-\d{2}-\d{4}")
+            .expect("wider fraction context regex must compile")
+    });
+    scan_fraction_markers(text, &CONTEXT, is_space_or_tab, |marker, separator_end| {
+        (marker.numeral.len() <= 7 && matches!(marker.separator, "." | ".-"))
+            .then(|| whitespace_end(text, separator_end))
+    })
+}
 
 /// The wider pass over one provision: `None` when it opens no glossary that
 /// governs the whole instrument, otherwise every entry or the reason the
@@ -768,14 +774,13 @@ fn wider_fraction_starts(provision: &Provision) -> Option<Vec<(usize, usize, Str
         return None;
     }
     let body_start = intro.end();
-    let starts: Vec<(usize, usize, String)> = WIDER_FRACTION
-        .captures_iter(&text[body_start..])
-        .map(|captures| {
-            let numeral = captures.get(1).expect("numeral");
+    let starts: Vec<(usize, usize, String)> = wider_fraction_markers(&text[body_start..])
+        .into_iter()
+        .map(|marker| {
             (
-                body_start + numeral.start(),
-                body_start + captures.get(0).expect("fraction").end(),
-                normalize_fraction_label(numeral.as_str()),
+                body_start + marker.start,
+                body_start + marker.end,
+                normalize_fraction_label(marker.label),
             )
         })
         .collect();
@@ -3873,10 +3878,46 @@ mod fraction_rule_parity {
             .collect()
     }
 
+    static LEGACY_WIDER: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?:^|[;:.\n]|\by|DOF\s+\d{{2}}-\d{{2}}-\d{{4}})[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.-?\s+",
+        ))
+        .expect("legacy wider fraction regex must compile")
+    });
+
+    /// Numeral start, whole-match end and label.
+    fn legacy_wider(text: &str) -> Vec<(usize, usize, String)> {
+        LEGACY_WIDER
+            .captures_iter(text)
+            .map(|c| {
+                let n = c.get(1).expect("numeral");
+                (
+                    n.start(),
+                    c.get(0).expect("whole").end(),
+                    n.as_str().to_owned(),
+                )
+            })
+            .collect()
+    }
+
+    fn wider(text: &str) -> Vec<(usize, usize, String)> {
+        super::wider_fraction_markers(text)
+            .into_iter()
+            .map(|m| (m.start, m.end, m.label.to_owned()))
+            .collect()
+    }
+
     #[test]
     fn established_fractions_match_the_legacy_rule() {
         for input in &scan_grid() {
             assert_eq!(established(input), legacy_established(input), "{input:?}");
+        }
+    }
+
+    #[test]
+    fn wider_fractions_match_the_legacy_rule() {
+        for input in &scan_grid() {
+            assert_eq!(wider(input), legacy_wider(input), "{input:?}");
         }
     }
 
