@@ -11,9 +11,9 @@ No public route, MCP tool, database migration or deployment is authorized.
 
 ## Basis
 
-- **Plan:** `prompts/V2_LEX_MEX_FINTECH_STRUCTURAL_PILOT_CONTRACT_FIRST_2026-11-13.md` (V2). It
-  stays untracked and unedited. This document is the binding contract, and every departure
-  from V2 is listed below.
+- **Plan input:** `prompts/V2_LEX_MEX_FINTECH_STRUCTURAL_PILOT_CONTRACT_FIRST_2026-11-13.md` (V2),
+  preserved unchanged and tracked on JRH's 2026-11-14 instruction to commit pending work.
+  This task-named document is the binding contract; departures from V2 are listed below.
 - **Earlier draft V2 revises:** `prompts/LEX_MEX_FINTECH_STRUCTURAL_PILOT_AGENT_BUILD_PLAN_2026-11-13.md`.
 - **Technical audit:** `prompts/LEX_MEX_PARSER_SYSTEM_INDEPENDENT_AUDIT_2026-11-13_CODEX.md`. Its
   reviewer is Codex. V2 attributes the separate plan comments to Astra.
@@ -366,3 +366,20 @@ section is the builder's check of the public artifacts only. It is not a G0 disp
 
 **Next action:** Codex's G0 disposition, then the G1 contract written into this document
 before any projection code.
+
+
+## Historical prompt inputs committed, 2026-11-14
+
+JRH authorized committing all pending work in stages. The slice-b/G0 review and
+sample were already committed as `0ecc40523` and the builder-side check as
+`3ba9dbbf2` before this instruction. The remaining parser audit request/report
+were preserved unchanged in `61bde01eb`; the original and V2 pilot briefs are
+tracked unchanged with this plan correction. These are historical inputs, not
+authorization to execute their superseded instructions. Current D1–D7 and gate
+dispositions remain authoritative. G0 still awaits a non-curating Codex review;
+G1 has not started. The ignored holdout answers remain private and untracked.
+
+Checks for these documentation-only commits: UTF-8/NUL and credential-pattern
+scan of all four inputs, exact staged-content comparison, and staged whitespace
+checks. No Cargo gate repeated; no code, corpus or trusted schema changed.
+No push or merge authorized or performed.
