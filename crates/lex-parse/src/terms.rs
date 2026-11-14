@@ -349,12 +349,19 @@ static ESTABLISHED_INTRO: LazyLock<Regex> = LazyLock::new(|| {
         .expect("established intro regex must compile")
 });
 
-static ESTABLISHED_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(&format!(
-        r"(?:^|[;:\n]|DOF\s+\d{{2}}-\d{{2}}-\d{{4}}[.,]?)[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+"
-    ))
-    .expect("established fraction regex must compile")
-});
+/// Each fraction of an established-pass glossary. It starts the text or
+/// follows `;`, `:`, a line break or an amendment note's date (`DOF
+/// 28-01-2011`), and its separator is a bare period.
+fn established_fraction_markers(text: &str) -> Vec<ScannedMarker<'_>> {
+    static CONTEXT: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"[;:\n]|DOF\s+\d{2}-\d{2}-\d{4}[.,]?")
+            .expect("established fraction context regex must compile")
+    });
+    scan_fraction_markers(text, &CONTEXT, is_space_or_tab, |marker, separator_end| {
+        (marker.numeral.len() <= 7 && marker.separator == ".")
+            .then(|| whitespace_end(text, separator_end))
+    })
+}
 
 /// The established pass over one provision; empty when it finds no glossary.
 fn established_glossary_terms(provision: &Provision) -> Result<Vec<DefinedTerm>> {
@@ -380,13 +387,10 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
     // Scan entries starting after the introduction.
     let body_start = intro_match.end();
     let text = &provision.text;
-    let starts: Vec<(usize, String)> = ESTABLISHED_FRACTION
-        .captures_iter(text)
-        .filter_map(|captures| {
-            let whole = captures.get(0)?;
-            let numeral = captures.get(1)?;
-            (whole.start() >= body_start).then(|| (numeral.start(), numeral.as_str().to_owned()))
-        })
+    let starts: Vec<(usize, String)> = established_fraction_markers(text)
+        .into_iter()
+        .filter(|marker| marker.context_start >= body_start)
+        .map(|marker| (marker.start, marker.label.to_owned()))
         .collect();
     if starts.len() < 2 {
         return Ok(none());
@@ -1472,6 +1476,9 @@ fn fraction_entry_paragraph(paragraph: &str) -> Option<(&str, &str)> {
 
 /// A fraction marker a glossary rule's scan found.
 struct ScannedMarker<'a> {
+    /// Byte offset where the context that introduced it starts (`0` at the
+    /// start of the text).
+    context_start: usize,
     /// Byte offset of the numeral.
     start: usize,
     /// Byte offset where the rule's match ends (for most rules, the body's
@@ -1499,7 +1506,7 @@ fn scan_fraction_markers<'a>(
     gap: impl Fn(char) -> bool,
     mut accept: impl FnMut(&lex_core::FractionMarker<'a>, usize) -> Option<usize>,
 ) -> Vec<ScannedMarker<'a>> {
-    let mut marker_after = |context_end: usize| {
+    let mut marker_after = |context_start: usize, context_end: usize| {
         let gapped = &text[context_end..];
         let start = context_end + gapped.len() - gapped.trim_start_matches(&gap).len();
         let mut end = 0;
@@ -1510,6 +1517,7 @@ fn scan_fraction_markers<'a>(
                 .is_some()
         })?;
         Some(ScannedMarker {
+            context_start,
             start,
             end,
             label: marker.label,
@@ -1517,12 +1525,12 @@ fn scan_fraction_markers<'a>(
     };
     let mut markers = Vec::new();
     let mut position = 0;
-    if let Some(marker) = marker_after(0) {
+    if let Some(marker) = marker_after(0, 0) {
         position = marker.end;
         markers.push(marker);
     }
     while let Some(found) = context.find_at(text, position) {
-        if let Some(marker) = marker_after(found.end()) {
+        if let Some(marker) = marker_after(found.start(), found.end()) {
             position = marker.end;
             markers.push(marker);
         } else {
@@ -3836,6 +3844,39 @@ mod fraction_rule_parity {
                 legacy_mixed_starts(input),
                 "{input:?}"
             );
+        }
+    }
+
+    static LEGACY_ESTABLISHED: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?:^|[;:\n]|DOF\s+\d{{2}}-\d{{2}}-\d{{4}}[.,]?)[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+"
+        ))
+        .expect("legacy established fraction regex must compile")
+    });
+
+    /// Whole-match start, numeral start, whole-match end and label.
+    fn legacy_established(text: &str) -> Vec<(usize, usize, usize, String)> {
+        LEGACY_ESTABLISHED
+            .captures_iter(text)
+            .map(|c| {
+                let whole = c.get(0).expect("whole");
+                let n = c.get(1).expect("numeral");
+                (whole.start(), n.start(), whole.end(), n.as_str().to_owned())
+            })
+            .collect()
+    }
+
+    fn established(text: &str) -> Vec<(usize, usize, usize, String)> {
+        super::established_fraction_markers(text)
+            .into_iter()
+            .map(|m| (m.context_start, m.start, m.end, m.label.to_owned()))
+            .collect()
+    }
+
+    #[test]
+    fn established_fractions_match_the_legacy_rule() {
+        for input in &scan_grid() {
+            assert_eq!(established(input), legacy_established(input), "{input:?}");
         }
     }
 
