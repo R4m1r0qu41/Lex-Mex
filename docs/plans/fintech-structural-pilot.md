@@ -2,7 +2,8 @@
 
 **Status:** active, started 2026-11-14 on branch `pilot/fintech-structural` from `main`
 `2d3c77a81`. Codex accepted slices (a) and (b). The G0 sample is committed (`0ecc40523`) and
-checked from the builder side; G0 awaits Codex's disposition, and G1 has not started.
+checked from the builder side; Codex approved G0 with conditions on 2026-11-14
+([disposition](../fintech-pilot-g0-codex-disposition-2026-11-14.md)). G1 remains unapproved.
 **Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
 pilot, "with your recommendations applied".
 **Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
@@ -367,6 +368,19 @@ section is the builder's check of the public artifacts only. It is not a G0 disp
 **Next action:** Codex's G0 disposition, then the G1 contract written into this document
 before any projection code.
 
+## G0 gate disposition, 2026-11-14
+
+Codex approved the pinned G0 sample with conditions in
+`docs/fintech-pilot-g0-codex-disposition-2026-11-14.md`. The disposition came
+from a fresh non-curating receiving session. The answer commitment and snapshot
+verifier passed; no private answers were inspected or disclosed. D6 must explicitly
+record answer-sealed/public-membership isolation before G1 approval. Original
+gold stays immutable; contract conflicts require independently reviewed
+versioning. A recoverable evaluator-controlled backup is required before G2.
+
+**Current next action:** builder records the D6 amendment and submits the G1
+semantics for separate Codex approval. No projection work is approved here.
+
 
 ## Historical prompt inputs committed, 2026-11-14
 
@@ -376,8 +390,10 @@ sample were already committed as `0ecc40523` and the builder-side check as
 were preserved unchanged in `61bde01eb`; the original and V2 pilot briefs are
 tracked unchanged with this plan correction. These are historical inputs, not
 authorization to execute their superseded instructions. Current D1–D7 and gate
-dispositions remain authoritative. G0 still awaits a non-curating Codex review;
-G1 has not started. The ignored holdout answers remain private and untracked.
+dispositions remain authoritative. G0 was still awaiting its non-curating review
+at the prompt-archival checkpoint; the later gate disposition above records the
+current conditional approval. G1 remains unapproved. The ignored holdout answers
+remain private and untracked.
 
 Checks for these documentation-only commits: UTF-8/NUL and credential-pattern
 scan of all four inputs, exact staged-content comparison, and staged whitespace
