@@ -67,7 +67,27 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lplan:amendment:2015-05-06:transitory:tercero",
     "label": "Transitorio Tercero — Decreto DOF 2015-05-06",
-    "text": "El Comité Nacional de Productividad seguirá funcionando conforme a lo dispuesto en el"
+    "text": "El Comité Nacional de Productividad seguirá funcionando conforme a lo dispuesto en el Decreto por el que se establece el Comité Nacional de Productividad, publicado en el Diario Oficial de la Federación el 17 de mayo de 2013, en tanto no se reforme el mismo, salvo en lo que dicho instrumento se oponga a la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.\n\nLas designaciones de los integrantes del Comité Nacional de Productividad que se hayan realizado de conformidad con el Decreto antes señalado, se mantendrán en sus términos."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lplan:amendment:2015-05-06:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2015-05-06",
+    "text": "Dentro de un plazo de sesenta días naturales contado a partir de la entrada en vigor del presente Decreto, el Comité Nacional de Productividad deberá, en su caso, hacer las adecuaciones correspondientes a sus lineamientos de operación, a efecto de dar cumplimiento a las disposiciones establecidas en la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lplan:amendment:2015-05-06:transitory:quinto",
+    "label": "Transitorio Quinto — Decreto DOF 2015-05-06",
+    "text": "La Secretaría enviará al Congreso de la Unión el primero de los informes semestrales a los que hace referencia el artículo 19, párrafo segundo, de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, a más tardar 60 días naturales después de haber concluido el primer semestre posterior a la entrada en vigor del presente Decreto.\n\nLa Secretaría contará con un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, para cumplir con lo establecido en el artículo 18, párrafo primero de la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lplan:amendment:2015-05-06:transitory:sexto",
+    "label": "Transitorio Sexto — Decreto DOF 2015-05-06",
+    "text": "Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a las dependencias y entidades de la Administración Pública Federal en el Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lplan:amendment:2015-05-06:transitory:septimo",
+    "label": "Transitorio Séptimo — Decreto DOF 2015-05-06",
+    "text": "Se derogan todas las disposiciones jurídicas que se opongan a lo establecido en este Decreto."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lplan:amendment:2016-11-28:transitory:primero",

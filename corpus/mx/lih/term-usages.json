@@ -4024,84 +4024,84 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3079-3088",
+    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3077-3086",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:64",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contratos",
-    "start_char": 3079,
-    "end_char": 3088
+    "start_char": 3077,
+    "end_char": 3086
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3367-3376",
+    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3365-3374",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:64",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contratos",
-    "start_char": 3367,
-    "end_char": 3376
+    "start_char": 3365,
+    "end_char": 3374
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3494-3502",
+    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3492-3500",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:64",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 3494,
-    "end_char": 3502
+    "start_char": 3492,
+    "end_char": 3500
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3645-3653",
+    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3643-3651",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:64",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contrato",
-    "start_char": 3645,
-    "end_char": 3653
+    "start_char": 3643,
+    "end_char": 3651
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3879-3906",
+    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:3877-3904",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:64",
     "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 3879,
-    "end_char": 3906
+    "start_char": 3877,
+    "end_char": 3904
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:7255-7264",
+    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:7253-7262",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:64",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contratos",
-    "start_char": 7255,
-    "end_char": 7264
+    "start_char": 7253,
+    "end_char": 7262
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:7457-7484",
+    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:7455-7482",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:64",
     "term_id": "urn:lex-mx:federal:statute:lih:term:fondo-mexicano-del-petroleo",
     "span": "Fondo Mexicano del Petróleo",
-    "start_char": 7457,
-    "end_char": 7484
+    "start_char": 7455,
+    "end_char": 7482
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:7492-7502",
+    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:7490-7500",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:64",
     "term_id": "urn:lex-mx:federal:statute:lih:term:secretaria",
     "span": "Secretaría",
-    "start_char": 7492,
-    "end_char": 7502
+    "start_char": 7490,
+    "end_char": 7500
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:7752-7761",
+    "id": "urn:lex-mx:federal:statute:lih:article:64:term-usage:7750-7759",
     "provision_id": "urn:lex-mx:federal:statute:lih:article:64",
     "term_id": "urn:lex-mx:federal:statute:lih:term:contrato",
     "span": "Contratos",
-    "start_char": 7752,
-    "end_char": 7761
+    "start_char": 7750,
+    "end_char": 7759
   },
   {
     "schema_version": "0.1.0",

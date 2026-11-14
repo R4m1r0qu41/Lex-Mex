@@ -9,7 +9,27 @@
 - **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
 
-## 2026-11-12 four-goal upgrade checkpoint (branch `upgrade/four-goal-2026-11-12`, local, unpushed)
+## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, local)
+
+`lieps` is adopted. The reform appendix parser now handles four more shapes:
+- an erratum title after a page break;
+- law-named transitory headings (`Disposiciones Transitorias de la Ley …`, `Transitorios de la
+  Ley …`);
+- a cited `Decreto por el que …` at a mid-sentence line break, no longer a new decree (unless it
+  has its own publication line and is not inside an open title, per the Codex review);
+- a wrapping decree article ahead of its nested series.
+
+Every decree on the Diputados list now has its transitories under its own date. Reform evidence
+goes from 107 to 142 entries, and JRH's 2026-11-12 re-confirmation covers the whitespace-only
+provision and glossary refresh. The same repair corrects reform evidence in 34 other instruments
+(217 entries added) and rejoins falsely split sentences in 10. No temporal field or validation
+result changes. Evidence: [four-goal plan](plans/four-goal-system-upgrade.md), section "`lieps`
+grouping repair". Codex (2026-11-13) accepted the lint commit and requested a title-boundary
+fix to the parser commit. The fix is committed with no corpus change and awaits Codex re-review;
+PR #3 must not merge before that. Next after Codex review: the Fintech structural pilot, as JRH
+ordered on 2026-11-13.
+
+## 2026-11-12 four-goal upgrade checkpoint (branch `upgrade/four-goal-2026-11-12`, merged to `main` as PR #2, `181f1f62c`)
 
 Corpus-wide reparse with the page-break fraction rule: of the 353 instruments with retained,
 hash-matching text, 320 adopted (`92e1e1365`, `a2bd4353b`, `09e4a457f`; `laassp` with the P2
@@ -38,7 +58,8 @@ only in the 4 still held: `lieps`, `cue-dcg-2003`, `scap-dcg-2012`, `lftr`. Code
 branch on 2026-11-12 (`docs/four-goal-upgrade-codex-review-2026-11-12.md`); its two change
 requests (audited re-confirmation, lost qualifier shapes) were addressed on 2026-11-13 and await
 re-review. Decision routing (JRH, `AGENTS.md`): only strict legal questions go to JRH; the open
-one is the LGPP/LGIPE status table. Branch pushed at `ee4f730c3`; later commits local. No deploy. Live state and next actions:
+one is the LGPP/LGIPE status table. Codex accepted items 3 and 5 on 2026-11-13; the branch was
+merged to `main` with a merge commit (PR #2, `181f1f62c`). No deploy. Live state and next actions:
 [four-goal plan](plans/four-goal-system-upgrade.md).
 
 ## 2026-10-16 reverse-linking checkpoint

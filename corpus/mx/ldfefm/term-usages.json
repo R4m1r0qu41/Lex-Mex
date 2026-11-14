@@ -6553,48 +6553,48 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1467-1476",
+    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1465-1474",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:municipios",
     "span": "Municipio",
-    "start_char": 1467,
-    "end_char": 1476
+    "start_char": 1465,
+    "end_char": 1474
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1499-1524",
+    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1497-1522",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:deuda-estatal-garantizada",
     "span": "Deuda Estatal Garantizada",
-    "start_char": 1499,
-    "end_char": 1524
+    "start_char": 1497,
+    "end_char": 1522
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1597-1615",
+    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1595-1613",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:sistema-de-alertas",
     "span": "Sistema de Alertas",
-    "start_char": 1597,
-    "end_char": 1615
+    "start_char": 1595,
+    "end_char": 1613
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1722-1747",
+    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1720-1745",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:deuda-estatal-garantizada",
     "span": "Deuda Estatal Garantizada",
-    "start_char": 1722,
-    "end_char": 1747
+    "start_char": 1720,
+    "end_char": 1745
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1880-1898",
+    "id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto:term-usage:1878-1896",
     "provision_id": "urn:lex-mx:federal:statute:ldfefm:transitory:decimo-cuarto",
     "term_id": "urn:lex-mx:federal:statute:ldfefm:term:sistema-de-alertas",
     "span": "Sistema de Alertas",
-    "start_char": 1880,
-    "end_char": 1898
+    "start_char": 1878,
+    "end_char": 1896
   },
   {
     "schema_version": "0.1.0",

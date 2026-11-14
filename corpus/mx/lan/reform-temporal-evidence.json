@@ -217,16 +217,56 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:transitory:primero",
     "label": "Transitorio Primero — Decreto DOF 2025-12-11",
-    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+    "text": "En un plazo que no exceda de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, se deben expedir o reformar las disposiciones reglamentarias respectivas."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:transitory:segundo",
     "label": "Transitorio Segundo — Decreto DOF 2025-12-11",
-    "text": "Se derogan las disposiciones jurídicas que se opongan al presente Decreto."
+    "text": "En tanto no se emita la normatividad señalada en el artículo transitorio anterior, se seguirán aplicando las disposiciones vigentes antes de la entrada en vigor del presente Decreto, con excepción de las transmisiones y cambios de uso.\n\nLas adiciones correspondientes a los artículos 37 BIS 1 y 37 BIS 2, que establecen el mecanismo de reasignación de los derechos contenidos en los títulos de concesión y asignación, serán aplicables a los ciento ochenta días naturales siguientes a la publicación de este Decreto. La Comisión Nacional del Agua contará con un plazo de seis meses siguientes a la referida publicación para hacer las adecuaciones reglamentarias que, en su caso, sean necesarias, así como diseñar y poner a disposición de las personas usuarias el trámite conforme al que se desahogarán y resolverán las solicitudes atinentes.\n\nEn lo relativo a las normas correspondientes a la cuota de garantía, se seguirán aplicando las disposiciones anteriores a la entrada en vigor del presente Decreto, hasta en tanto se expida un nuevo Reglamento para la determinación y pago de la cuota de garantía de no caducidad de derechos de aguas nacionales.\n\nEn un plazo que no exceda de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, “la Autoridad del Agua” deberá realizar las acciones tendientes a garantizar el derecho humano al agua, la soberanía alimentaria y el desarrollo nacional, derivadas de la aplicación de este Decreto."
   },
   {
     "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:transitory:tercero",
     "label": "Transitorio Tercero — Decreto DOF 2025-12-11",
+    "text": "Los trámites que se encuentren pendientes de resolución por parte de la Comisión Nacional del Agua al momento de la publicación del presente Decreto, se resolverán en términos de la normatividad vigente al momento de su presentación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2025-12-11",
+    "text": "La Comisión Nacional del Agua deberá promover la expedición de una Norma Oficial Mexicana para la actualización de los sistemas de medición de volúmenes de aguas nacionales mediante el uso de las tecnologías disponibles."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:transitory:quinto",
+    "label": "Transitorio Quinto — Decreto DOF 2025-12-11",
+    "text": "La Comisión Nacional del Agua presentará un programa de regularización respecto de las obras en zonas de libre alumbramiento asentadas en el actual Registro Público de Derechos de Agua, para lo cual emitirá los lineamientos correspondientes en un plazo que no exceda de ciento ochenta días naturales, contados a partir del inicio de la vigencia de este Decreto. En la emisión de los lineamientos se deberá observar que no se incurra en prácticas de acaparamiento del agua."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:transitory:sexto",
+    "label": "Transitorio Sexto — Decreto DOF 2025-12-11",
+    "text": "La Comisión Nacional del Agua implementará programas de regularización de títulos de concesión y asignación, mediante procedimientos simplificados que incluyan acciones para reducir trámites, requisitos y tiempos de resolución, conforme a las disposiciones previstas en la Ley Nacional para Eliminar Trámites Burocráticos.\n\nPara el diseño de estos programas “la Comisión” tomará en consideración el índice de marginación de los núcleos de población, con especial énfasis en aquellas de mayor vulnerabilidad."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:transitory:septimo",
+    "label": "Transitorio Séptimo — Decreto DOF 2025-12-11",
+    "text": "Respecto al concepto de Responsabilidad Hídrica al que se refiere la fracción XLV BIS del\n\nArtículo 3 de la Ley de Aguas Nacionales, la autoridad del agua deberá reglamentar las fuentes, criterios y procedimientos mediante los cuales se identificará qué constituye una “gestión hídrica responsable” y qué significan las “buenas prácticas” por parte de concesionarios y asignatarios."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:transitory:octavo",
+    "label": "Transitorio Octavo — Decreto DOF 2025-12-11",
+    "text": "La Comisión Nacional del Agua llevará a cabo las acciones que correspondan para realizar los análisis, las evaluaciones y la detección de necesidades respectivas, con motivo de la implementación del presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:section-2:transitory:primero",
+    "label": "Transitorio Primero — Sección transitoria 2, Decreto DOF 2025-12-11",
+    "text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:section-2:transitory:segundo",
+    "label": "Transitorio Segundo — Sección transitoria 2, Decreto DOF 2025-12-11",
+    "text": "Se derogan las disposiciones jurídicas que se opongan al presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lan:amendment:2025-12-11:section-2:transitory:tercero",
+    "label": "Transitorio Tercero — Sección transitoria 2, Decreto DOF 2025-12-11",
     "text": "Las erogaciones que se generen con motivo de la expedición del presente Decreto, se realizarán con cargo a los recursos aprobados por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los ejecutores, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos en el ejercicio fiscal correspondiente."
   }
 ]

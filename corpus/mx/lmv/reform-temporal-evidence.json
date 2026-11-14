@@ -72,6 +72,11 @@
   {
     "provision_id": "urn:lex-mx:federal:statute:lmv:amendment:2023-12-28:transitory:unico",
     "label": "Transitorio Único — Decreto DOF 2023-12-28",
+    "text": "La Comisión Nacional Bancaria y de Valores deberá emitir las Disposiciones de carácter general a que se refiere el presente Decreto en un plazo no mayor a 365 días naturales contados a partir del día siguiente de su entrada en vigor.\n\n…….."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lmv:amendment:2023-12-28:section-2:transitory:unico",
+    "label": "Transitorio Único — Sección transitoria 2, Decreto DOF 2023-12-28",
     "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
   },
   {

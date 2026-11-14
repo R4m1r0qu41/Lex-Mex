@@ -769,6 +769,60 @@ decree groups in `reform-temporal-evidence.json` (date plus `decree-N` for same-
 - A decree-list comparison script exists only in scratch; making it a read-only command
   (`check-decrees <slug>`) is the next step if more instruments are piloted.
 
+**`lieps` grouping repair (2026-11-13, branch `fix/lieps-transitory-grouping`).** JRH set the
+order: LIEPS first, then the structural pilot. Tracing the appendix against the retained text found
+three mechanisms, all in `crates/lex-parse/src/diputados.rs`, plus one consequence:
+1. *Erratum title after a page break* (1984-12-31, 1988-12-31; a regression from the
+   title-with-note rule). `FE de erratas a la Ley…` merged into the preceding `ARTICULO UNICO`, and
+   the block was then read as a new act, which dropped the transitory. Now an erratum title opening
+   a page after a finished sentence starts its own block. A margin mark that carries its DOF date
+   (`Fe de erratas al artículo DOF 21-12-1928`) is not a title.
+2. *Law-named transitory headings* (2002-01-01 #26, 2002-12-30 #27). `Disposiciones Transitorias de
+   la Ley …` and `Transitorios de la Ley …` were not section headers. They are now accepted in the
+   reform appendix, as a short line with no closing punctuation. The ordinal `1º` was not the
+   cause.
+3. *Cited decree read as a title* (2013-12-11 #41, 2016-11-15 #43). A wrapped line beginning
+   `Decreto por el que …` after a mid-sentence break (`…a que se refiere el`) was split off as a
+   decree heading, and the date it cites replaced the real one. That is the source of the
+   `2013-12-20` group. A title-case decree name now counts as a citation when the open block
+   ends in a lowercase letter or a comma; uppercase `DECRETO ` is unchanged. Narrowed after the
+   Codex review (see "Title-boundary repair" below): a heading with its own publication line
+   opens an act, unless the open block is itself a title still awaiting that line.
+4. *Wrapping decree article* (consequence of 2, found in `lfd` and `lfpca`). A law-named section
+   can open with the decree article that introduces a nested series (`ARTÍCULO SEXTO.- En relación
+   con las modificaciones … se estará a lo siguiente:` then `Primero.` … `Sexto.`). An `Artículo`
+   start followed at once by a bare `Primero` opens a new section, so the ordinals cannot collide.
+
+Fixture `fixtures/diputados/lieps-reform-appendix-grouping-sample.txt` (provenance alongside) and
+four tests. **Result for `lieps`:** all 46 page decrees have a group under their own date, and the
+13 quota acuerdos each sit under their own date, all of which the page lists. No group falls on a
+date the page lacks, so the adoption criterion is met. Reform evidence goes from 107 to 142 entries
+(32 ids removed, 67 added, 5 texts changed). The committed 2015-11-18 and 2019-12-09 section-2
+entries had held the following acuerdo's text, and the 1984/1988 transitories no longer carry the
+erratum text. Provisions: the same 4 whitespace-only changes, as re-confirmed by JRH on 2026-11-12
+(decision 3). The glossary profile hash, its 47 term offsets and the 8 usage-exclusion offsets in
+art. 3 were refreshed by non-whitespace alignment, with the prior text bound to the reviewed hash.
+The output keeps the same 58 terms and the same 315 usages by term, provision and text.
+
+**Corpus-wide effect** (baseline and fixed parse of all 468 slugs in a scratch root; the same 3
+failures as the baseline: `lfiiedb`, `socap-sofipo-dcg-2006`, and `lieps` before the refresh). 43
+other instruments change:
+- *Reform evidence, 34:* 217 entries added, 49 renamed (an omnibus decree's overall transitories
+  become `section-N` once its law-named section is read), 4 removed, 27 texts changed. Examples:
+  - `lfda` 2014-07-14 regains transitories Décimo Primero to Cuadragésimo Quinto, which had been
+    cut at a cited decree;
+  - `lagra`/`lota` 1993-07-09 and `cpf`/`lfpsdmh` 2018-06-01 transitories had stopped mid-sentence
+    at `…del` and now run to their end;
+  - new groups `ccf` 1985-02-07 and `lgeepa` 2018-06-05 come from their printed headers.
+- *Provisions, 10 (`ldfefm`, `ldsca`, `lepepm`, `lih`, `liispcen`, `lmigra`, `locg`, `lpab`,
+  `reg-lce`; `reg-lmigra` enactment evidence):* whitespace only. A false paragraph break before a
+  cited `Decreto por el que` is rejoined. References and term usages shift offsets accordingly.
+- After `derive-temporal`, `validate` and `export`, no temporal field and no validation report
+  changes in any of the 44 instruments. No evidence id is referenced outside its own file.
+
+The parse prints 142 transitories for `lieps` and these entries are inputs to temporal analysis.
+No temporal model was run.
+
 **Codex items 4 and 6 (accepted with follow-ups).** Item 4: the SCJN header predicate checks
 neither header location nor instrument identity and accepts trailing text; reviewer approval stays
 the authority, and the limit is recorded here (no change). Item 6: integration tests for removing a
@@ -799,3 +853,47 @@ text and unchanged acquisition. Next action after review closure: resume the
 existing LIEPS grouping work queue; legal decisions and other holds are unchanged.
 
 **Parser overview for independent review (2026-11-13):** `docs/parser-overview-for-independent-review-2026-11-13.md`.
+
+### Codex LIEPS review 2026-11-13
+
+Reviewed `64afb12eb` and `191f8299d` at HEAD `191f8299d` for main. Lint commit
+accepted; parser commit change-requested: title-case decree suppression can lose
+a prior transitory when a true new act follows a comma-ended block, despite its
+independent publication line. Synthetic Cargo probe reproduced the loss. Native
+gate passes (523 tests and LRITF/IFPE/LIEPS validators); 13 provision changes are
+whitespace-only and 55 LIEPS adapter starts independently align. Report:
+`docs/lieps-transitory-grouping-codex-review-2026-11-13.md`.
+Next review action: narrow title suppression, add boundary regression and re-review.
+Four unrelated untracked prompt files preserved; no merge/commit/push this session.
+
+**Title-boundary repair (2026-11-13, answering the Codex P2).** `cites_decree_mid_sentence`
+now leaves a title-case decree heading as a new act when, before the next blank line, one of its
+next eight lines is a stand-alone `Publicado/Publicada en el Diario Oficial de la Federación`
+or `… en el DOF` line. A citation names its publication mid-line in lower case. A
+first draft of this rule broke `rgic`: in its reform appendix, `ACLARACION al Decreto … así como
+al` / `Decreto que reforma los artículos 73, 89 y 117 …` is followed three lines later by the
+ACLARACION's own `Publicada en …` line. Suppression therefore still applies when the open
+block is an appendix title (an amending-act, erratum or `UPPERCASE lowercase` title such as
+`ACLARACION al`) with no publication text yet. Tests: Codex's reproducer (both 2010 and 2011
+acts kept), the verbatim `rgic` lines, and publication-line recognition (own line versus
+mid-line, blank-line limit). A scan of every retained `.work/*/*.txt` finds 40 title-case decree
+lines after a lowercase or comma ending. All are citations, and 39 stay suppressed by the
+original rule. `rgic` 1998, the only one with a stand-alone publication line, stays suppressed
+by the open-title guard. Full replay (parse → derive-temporal → validate → export) of 465 instruments: the
+corpus differs from the committed one only in `cue-dcg-2003`, `scap-dcg-2012` (CNBV parser,
+untouched) and `lftr` (held). The pre-fix baseline replay shows the same three with the same file
+counts, and `lftr` from a control binary at `7b68c3554` is byte-identical to the fixed output.
+The three slugs not replayed have retained inputs that do not match their manifests:
+`socap-sofipo-dcg-2006` and `cub-dcg-2005` (CNBV), and `lfiiedb`, whose text has no title-case
+decree line. No corpus change follows from this repair.
+
+### Codex title-boundary re-review closed 2026-11-13
+
+At `4fa0bcb79`, the P2 title-boundary repair is accepted. Both the exact
+comma-ended reproducer and original LIEPS citation regression pass; the RGIC
+clarification guard matches retained source. Native gate: fmt, locked strict
+clippy, 526 workspace tests and LRITF/IFPE/LIEPS/RGIC validators pass (zero
+issues). Report: `docs/lieps-title-boundary-codex-re-review-2026-11-13.md`.
+The eight-line/before-blank layout limit remains disclosed. No corpus changed.
+Next action: operator-directed PR #3 update/integration; merge requires JRH's
+instruction. Four unrelated prompts preserved; no commit/push/merge by Codex.
