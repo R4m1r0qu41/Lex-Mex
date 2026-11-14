@@ -1191,7 +1191,7 @@
     "complete": {
      "certain_span": [
       8932,
-      9195
+      9034
      ],
      "outcome": "ambiguous",
      "reason": "unresolved_boundary",
@@ -1208,7 +1208,10 @@
      ]
     },
     "intro": {
-     "certain_span": null,
+     "certain_span": [
+      8935,
+      9034
+     ],
      "outcome": "ambiguous",
      "reason": "unresolved_boundary",
      "unresolved_segments": [
@@ -1660,16 +1663,49 @@
    "case_id": "g1-syn-04-unsupported-marker-q1",
    "expected": {
     "complete": {
-     "outcome": "not_structured",
-     "reason": "partial_scan"
+     "candidates": [
+      {
+       "exact_quote": "II",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
     },
     "intro": {
-     "outcome": "not_structured",
-     "reason": "partial_scan"
+     "candidates": [
+      {
+       "exact_quote": "II",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
     },
     "label": {
-     "outcome": "not_structured",
-     "reason": "partial_scan"
+     "candidates": [
+      {
+       "exact_quote": "II",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
     }
    },
    "locator": {
@@ -2240,16 +2276,49 @@
    "case_id": "g1-syn-09-lone-l-q1",
    "expected": {
     "complete": {
-     "outcome": "not_structured",
-     "reason": "partial_scan"
+     "candidates": [
+      {
+       "exact_quote": "L",
+       "label_span": [
+        8,
+        9
+       ],
+       "node_id": null,
+       "path": "(unsupported L)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
     },
     "intro": {
-     "outcome": "not_structured",
-     "reason": "partial_scan"
+     "candidates": [
+      {
+       "exact_quote": "L",
+       "label_span": [
+        8,
+        9
+       ],
+       "node_id": null,
+       "path": "(unsupported L)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
     },
     "label": {
-     "outcome": "not_structured",
-     "reason": "partial_scan"
+     "candidates": [
+      {
+       "exact_quote": "L",
+       "label_span": [
+        8,
+        9
+       ],
+       "node_id": null,
+       "path": "(unsupported L)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
     }
    },
    "locator": {
@@ -2414,6 +2483,204 @@
    "source": "synthetic",
    "synthetic_text": "Texto:\n\nI. Uno.",
    "synthetic_text_sha256": "46a88ac55b92df88dab79e07470540e1435f7bbbff9c179e1074b275fa35f9ff"
+  },
+  {
+   "case_id": "g1-syn-12-post-child-attachment-q1",
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      8,
+      59
+     ],
+     "substring_sha256": "a1aba2919cc3e3803a96fc70da66e58596b13e2dedd6792223948c20ee8cbbb7"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "492feff762ea4cc600502bd3059fb7a2a4a0b932e4ba8146dafe92f8ceac9a1e"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta.\n\nCierre de la fracción.\n\nII. Dos.",
+   "synthetic_text_sha256": "fb133c510d10ecdd865681b8f8d1d181d907faf2b412773538a292f92fb3e6aa"
+  },
+  {
+   "case_id": "g1-syn-12-post-child-attachment-q2",
+   "expected": {
+    "complete": {
+     "certain_span": [
+      27,
+      35
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1"
+       ],
+       "end_char": 59,
+       "reason": "post_child_attachment",
+       "start_char": 37
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      30,
+      35
+     ],
+     "substring_sha256": "3c87364e773a3c4fbd38a706db3dc6bed9d298a0283371fde13d9828be5584c0"
+    },
+    "label": {
+     "exact_quote": "b)",
+     "outcome": "resolved",
+     "span": [
+      27,
+      29
+     ],
+     "substring_sha256": "301d35f1042e1eac9fdef8839fd13a4e28c835ee233a085d1b55bbea353eb5b9"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta.\n\nCierre de la fracción.\n\nII. Dos.",
+   "synthetic_text_sha256": "fb133c510d10ecdd865681b8f8d1d181d907faf2b412773538a292f92fb3e6aa"
+  },
+  {
+   "case_id": "g1-syn-12-post-child-attachment-q3",
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      61,
+      69
+     ],
+     "substring_sha256": "b6d861120e9a415a22d160a4da075061bf4f96261a4024fcbf6e05e958e3a588"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      65,
+      69
+     ],
+     "substring_sha256": "1d8355504c7f7c979d20969618b7881451aaa95352021d2268770704f3dfe6cf"
+    },
+    "label": {
+     "exact_quote": "II.",
+     "outcome": "resolved",
+     "span": [
+      61,
+      64
+     ],
+     "substring_sha256": "c7e15ed5d6855b3d9c4d1d9c8df86084dd7b9012db5a79f92d626c17e0c445fc"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta.\n\nCierre de la fracción.\n\nII. Dos.",
+   "synthetic_text_sha256": "fb133c510d10ecdd865681b8f8d1d181d907faf2b412773538a292f92fb3e6aa"
+  },
+  {
+   "case_id": "g1-syn-13-content-before-first-inciso-q1",
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      8,
+      37
+     ],
+     "substring_sha256": "79929e2bb419faf3d223817de2319fe91005b9e74c9db73b3e5f705d1e0ef95d"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara ello:\n\na) Alfa.\n\nII. Dos.",
+   "synthetic_text_sha256": "8825e2f927b0dc6370944a8ce0aeb0f078538f11374ad72e1b8292a05ed35e82"
+  },
+  {
+   "case_id": "g1-syn-13-content-before-first-inciso-q2",
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      29,
+      37
+     ],
+     "substring_sha256": "a8c219ac44980df10221f9c45196d180895548823cc77128643dc59860498a4b"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      32,
+      37
+     ],
+     "substring_sha256": "a78307b773cc884d1707ab46999f3e469bb933c43e89e0af73fd1073ccf573da"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      29,
+      31
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara ello:\n\na) Alfa.\n\nII. Dos.",
+   "synthetic_text_sha256": "8825e2f927b0dc6370944a8ce0aeb0f078538f11374ad72e1b8292a05ed35e82"
   }
  ],
  "contract": "pilot-v1 G1 draft, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",

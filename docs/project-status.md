@@ -27,7 +27,7 @@ sample ([submission](fintech-pilot-g0-submission-2026-11-14.md)): 24 pinned prov
 development and 8 in a holdout whose answers are sealed. A fresh QA agent and a builder-side
 check both found it acceptable. A Codex session that did not build the package approved G0
 with conditions ([disposition](fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 now reads
-"answer-sealed, publicly identified holdout". The G1 contract draft is in the pilot plan, with 68
+"answer-sealed, publicly identified holdout". The G1 contract draft is in the pilot plan, with 73
 hand-derived expectations in `fixtures/fintech-structural-g1-2026-11-14/`. Next: Codex review of
 G1. Before G2, the holdout answers need an evaluator-held encrypted backup.
 

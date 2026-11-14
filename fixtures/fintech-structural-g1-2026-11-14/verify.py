@@ -78,8 +78,16 @@ def main():
                 require(result['span'][0] == label['span'][0], 'complete start ' + cid)
             certain = result.get('certain_span')
             if certain:
-                require(certain[0] == label['span'][0] and paragraph_end(text, certain[1]),
-                        'certain span ' + cid)
+                if mode == 'complete':
+                    require(certain[0] == label['span'][0], 'certain start ' + cid)
+                else:
+                    label_end = label['span'][1]
+                    require(text[label_end:certain[0]].isspace(), 'certain intro start ' + cid)
+                before_same_line = any(
+                    s['reason'] == 'same_line_marker' and text[certain[1] - 1] in ':;.'
+                    and text[certain[1]:s['start_char']].isspace()
+                    for s in result.get('unresolved_segments', []))
+                require(paragraph_end(text, certain[1]) or before_same_line, 'certain end ' + cid)
             for segment in result.get('unresolved_segments', []):
                 start, end = segment['start_char'], segment['end_char']
                 require(0 <= start < end <= len(text) and paragraph_end(text, end),
@@ -97,9 +105,22 @@ def main():
                for c in doc['cases']}
     require(queries <= covered, 'G0 development queries not covered: '
             + str(sorted(queries - covered)))
-    require(counts == {'development': 40, 'synthetic': 28}, 'case counts ' + str(counts))
-    print('PASS: ' + str(len(ids)) + ' cases (40 development queries, 28 synthetic query rows); '
-          'all 23 G0 development queries covered; hashes, quotes and span boundaries verified.')
+    gold_spans = {}
+    for c in gold['cases']:
+        for a in c['annotations']:
+            if a['expected_outcome'] == 'resolved':
+                key = (c['provision_id'], json.dumps({k: v for k, v in a['locator'].items()
+                                                      if k != 'article'}, sort_keys=True))
+                gold_spans[key] = [a['label_span']['start_char'], a['label_span']['end_char']]
+    for c in doc['cases']:
+        key = (c.get('provision_id'), json.dumps(c['locator'], sort_keys=True))
+        if c['source'] == 'development' and key in gold_spans:
+            require(c['expected']['label']['span'] == gold_spans[key], 'G0 label span ' + c['case_id'])
+    require(len(gold_spans) == 20, 'G0 resolved label count')
+    require(counts == {'development': 40, 'synthetic': 33}, 'case counts ' + str(counts))
+    print('PASS: ' + str(len(ids)) + ' rows (40 development queries, 33 synthetic rows); '
+          'all 23 G0 development queries covered and all 20 G0 label spans equal; hashes, '
+          'quotes and span boundaries verified.')
 
 
 if __name__ == '__main__':

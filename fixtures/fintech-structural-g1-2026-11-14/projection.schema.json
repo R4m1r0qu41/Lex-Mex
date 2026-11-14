@@ -106,7 +106,7 @@
       "properties": {
         "artifact": {"const": "structural-lookup-response"},
         "outcome": {"enum": ["resolved", "ambiguous", "not_structured", "not_found", "stale_projection", "invalid_locator"]},
-        "reason": {"enum": ["unsupported_scope", "unexpected_layout", "partial_scan", "sequence_break", "sequence_gap", "incomplete_path", "same_line_marker", "ambiguous_parent", "unresolved_boundary", "malformed_locator", "unknown_provision", "hash_mismatch", "version_mismatch", "release_mismatch"]},
+        "reason": {"enum": ["unsupported_scope", "unexpected_layout", "partial_scan", "sequence_break", "sequence_gap", "incomplete_path", "same_line_marker", "unsupported_marker", "ambiguous_parent", "unresolved_boundary", "malformed_locator", "unknown_provision", "hash_mismatch", "version_mismatch", "release_mismatch"]},
         "mode": {"enum": ["label", "intro", "complete"]},
         "provision_id": {"type": "string"},
         "locator": {
