@@ -27,9 +27,24 @@ sample ([submission](fintech-pilot-g0-submission-2026-11-14.md)): 24 pinned prov
 development and 8 in a holdout whose answers are sealed. A fresh QA agent and a builder-side
 check both found it acceptable. A Codex session that did not build the package approved G0
 with conditions ([disposition](fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 now reads
-"answer-sealed, publicly identified holdout". The G1 contract draft is in the pilot plan, with 73
-hand-derived expectations in `fixtures/fintech-structural-g1-2026-11-14/`. Next: Codex review of
-G1. Before G2, the holdout answers need an evaluator-held encrypted backup.
+"answer-sealed, publicly identified holdout".
+
+Codex reviewed G1 draft 1 and returned **revise**
+([review](fintech-pilot-g1-codex-review-2026-11-14.md)). It found five gaps (R1–R5) and a private
+conflict with a sealed answer (R6). Draft 2 in the pilot plan fixes R1–R5. It adds:
+- a strict lookup branch table and scan-status precedence;
+- rules for interior notes and span cuts;
+- a fully specified request and response, with an explicit root locator, and deferral of
+  `node_id` requests.
+
+`fixtures/fintech-structural-g1-2026-11-14/` now holds:
+- 110 hand-derived rows, with the 73 draft-1 rows unchanged apart from two representation fixes;
+- full and must-fail responses;
+- a schema checker that runs offline;
+- the committed measurement probe.
+
+R6 waits for an independent evaluator after G1 is frozen. Next: a new Codex review of G1 draft
+2. Before G2, the holdout answers need an evaluator-held encrypted backup.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 

@@ -4,6 +4,10 @@
   {
    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
    "case_id": "g0-dev-01-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -40,6 +44,10 @@
   {
    "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
    "case_id": "g0-dev-02-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -76,6 +84,10 @@
   {
    "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
    "case_id": "g0-dev-02-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -113,6 +125,10 @@
   {
    "canonical_text_sha256": "c17fb34f9d833f58a4c3f1c3bfc313fd0382c69b69bebd257990a9aea7878eb5",
    "case_id": "g0-dev-03-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -149,6 +165,10 @@
   {
    "canonical_text_sha256": "a657d7b327d85f68f31f6bdf8721c43deaa101f4dd208c1538a1888a42c80003",
    "case_id": "g0-dev-04-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -185,6 +205,10 @@
   {
    "canonical_text_sha256": "717f2a088debcd2ed85c01e014e07ffb53e8e4501f3df3dac7c5a078afe22630",
    "case_id": "g0-dev-05-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -221,8 +245,13 @@
   {
    "canonical_text_sha256": "3be1e4ad6d6f4e44720e3f47cab7f4235c49bef18da9aaa14084b6ef97956cc9",
    "case_id": "g0-dev-06-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       629,
       778
@@ -268,6 +297,10 @@
   {
    "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
    "case_id": "g0-dev-07-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -304,6 +337,10 @@
   {
    "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
    "case_id": "g0-dev-07-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -341,6 +378,10 @@
   {
    "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
    "case_id": "g0-dev-07-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -378,15 +419,22 @@
   {
    "canonical_text_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36",
    "case_id": "g0-dev-08-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
    "expected": {
     "complete": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     },
     "intro": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     },
     "label": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     }
    },
    "locator": {
@@ -398,6 +446,10 @@
   {
    "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
    "case_id": "g0-dev-09-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -434,6 +486,10 @@
   {
    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
    "case_id": "g0-dev-10-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -470,6 +526,10 @@
   {
    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
    "case_id": "g0-dev-10-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -507,6 +567,10 @@
   {
    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
    "case_id": "g0-dev-10-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -543,6 +607,10 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g0-dev-11-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -579,6 +647,10 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g0-dev-11-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -615,6 +687,10 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g0-dev-11-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -652,6 +728,10 @@
   {
    "canonical_text_sha256": "88b7a365dfaf710f030ba3139c144ad67dadad106fbc8b2b46ede056d9d24328",
    "case_id": "g0-dev-12-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -688,6 +768,10 @@
   {
    "canonical_text_sha256": "c59c93c8f7e70c94948ccba6bde6a7f1a4fbb722e33982bd6225ba79e4be176b",
    "case_id": "g0-dev-13-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -724,6 +808,10 @@
   {
    "canonical_text_sha256": "31b8dd9d8e6aeee9bd5e271a9748eed4546c7f93bc033555ee5bd0528be23072",
    "case_id": "g0-dev-14-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -760,6 +848,10 @@
   {
    "canonical_text_sha256": "3534b05921c297e96d560be5ad5bd5aba5cf4bf546e81f6ac18e3b6c9cf1e6aa",
    "case_id": "g0-dev-15-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -783,6 +875,10 @@
   {
    "canonical_text_sha256": "f74ee76bd9127fa6c04d4276006fc7d74ea7a977cf9dac3511b809883f2138c7",
    "case_id": "g0-dev-16-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -806,8 +902,13 @@
   {
    "canonical_text_sha256": "1a5b981dfee00c70a74c45c5b77db10ba77dcd0378f7187de19b9a0b531a00b2",
    "case_id": "g1-dev-tail-lic24-iv",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       828,
       908
@@ -853,8 +954,13 @@
   {
    "canonical_text_sha256": "c59c93c8f7e70c94948ccba6bde6a7f1a4fbb722e33982bd6225ba79e4be176b",
    "case_id": "g1-dev-tail-lmv71-iii",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       282,
       406
@@ -900,8 +1006,13 @@
   {
    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
    "case_id": "g1-dev-tail-lic46-xxviii",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       4306,
       4555
@@ -947,8 +1058,13 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g1-dev-tail-lmv2-xxiv",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       10893,
       11451
@@ -994,8 +1110,13 @@
   {
    "canonical_text_sha256": "3b078bf1dab596ce7313300331c63f18138424ac9ad2b577176f1c47a1d3f9cf",
    "case_id": "g1-dev-tail-lritf98-iv-h",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       2776,
       2894
@@ -1043,6 +1164,10 @@
   {
    "canonical_text_sha256": "a657d7b327d85f68f31f6bdf8721c43deaa101f4dd208c1538a1888a42c80003",
    "case_id": "g1-dev-between-lritf61-iii",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -1079,6 +1204,10 @@
   {
    "canonical_text_sha256": "29e0ed0bd1ed9ff3f109488154f2685e56d778033bf1869e69a3d1ace005a7d0",
    "case_id": "g1-dev-between-lic46-xv",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -1115,6 +1244,10 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g1-dev-between-lmv2-xviii",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -1151,6 +1284,10 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g1-dev-sameline-lmv2-xix",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -1187,8 +1324,13 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g1-dev-sameline-lmv2-xix-d",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       8932,
       9034
@@ -1208,6 +1350,7 @@
      ]
     },
     "intro": {
+     "ambiguity": "span",
      "certain_span": [
       8935,
       9034
@@ -1246,8 +1389,15 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g1-dev-sameline-lmv2-xix-e",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "e)",
@@ -1263,6 +1413,7 @@
      "reason": "same_line_marker"
     },
     "intro": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "e)",
@@ -1278,6 +1429,7 @@
      "reason": "same_line_marker"
     },
     "label": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "e)",
@@ -1303,6 +1455,10 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g1-dev-partial-lmv2-xix-f",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -1327,15 +1483,22 @@
   {
    "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
    "case_id": "g1-dev-notfound-lritf23-i-c",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
    "expected": {
     "complete": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     },
     "intro": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     },
     "label": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     }
    },
    "locator": {
@@ -1348,6 +1511,10 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g1-dev-gap-lmv2-v-ter",
+   "decision": {
+    "also_applies": [],
+    "branch": "L6"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -1371,15 +1538,22 @@
   {
    "canonical_text_sha256": "d26b7aac75402bfd9085553c5bb6d17a73d37263c921a90714ba929245191480",
    "case_id": "g1-dev-notfound-lmv2-xxiv-bis",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
    "expected": {
     "complete": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     },
     "intro": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     },
     "label": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     }
    },
    "locator": {
@@ -1391,8 +1565,13 @@
   {
    "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
    "case_id": "g1-dev-incomplete-lritf23-a",
+   "decision": {
+    "also_applies": [],
+    "branch": "L0"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "a)",
@@ -1408,6 +1587,7 @@
      "reason": "incomplete_path"
     },
     "intro": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "a)",
@@ -1423,6 +1603,7 @@
      "reason": "incomplete_path"
     },
     "label": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "a)",
@@ -1447,6 +1628,10 @@
   {
    "canonical_text_sha256": "b6a95ab4f8808063d9c8b19ebfe5b5011706e38ef3524563fa84ff2d487f75f4",
    "case_id": "g1-dev-incomplete-lritf23-z",
+   "decision": {
+    "also_applies": [],
+    "branch": "L0"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -1468,7 +1653,73 @@
    "source": "development"
   },
   {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-dev-root-lritf22",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      2120
+     ],
+     "substring_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      527
+     ],
+     "substring_sha256": "a8b4933cf3c2e087af4873f850edb319a988f8560a12e8f049f684685d39fd38"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "development"
+  },
+  {
+   "canonical_text_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36",
+   "case_id": "g1-dev-root-lic11",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      600
+     ],
+     "substring_sha256": "73de02911f2b965847a941f31085e48b255f3627a7024b22e585ac72ad1a0b36"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      541
+     ],
+     "substring_sha256": "261dc67ff1e0d7ec4bd596eb0cb5dca5a6872a1ef35eb7fa12fec8435fa54335"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lic:article:11",
+   "source": "development"
+  },
+  {
    "case_id": "g1-syn-01-dot-dash-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -1501,11 +1752,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-01-dot-dash",
    "synthetic_text": "Texto inicial:\n\nI.- Primera.\n\nII.- Segunda.",
    "synthetic_text_sha256": "a6953b200eb5e94388b1db7b76c63fa84536d2cdb319fb1f5a2f09e92c311207"
   },
   {
    "case_id": "g1-syn-02-same-line-fraction-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -1538,13 +1794,21 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-02-same-line-fraction",
    "synthetic_text": "Se entiende por: I. Uno; II. Dos.\n\nIII. Tres.",
    "synthetic_text_sha256": "bc09ba7aa982edd3c885b14838696955a054d9e91fe39a2f14c46d6308752dad"
   },
   {
    "case_id": "g1-syn-02-same-line-fraction-q2",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "I.",
@@ -1560,6 +1824,7 @@
      "reason": "same_line_marker"
     },
     "intro": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "I.",
@@ -1575,6 +1840,7 @@
      "reason": "same_line_marker"
     },
     "label": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "I.",
@@ -1595,11 +1861,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-02-same-line-fraction",
    "synthetic_text": "Se entiende por: I. Uno; II. Dos.\n\nIII. Tres.",
    "synthetic_text_sha256": "bc09ba7aa982edd3c885b14838696955a054d9e91fe39a2f14c46d6308752dad"
   },
   {
    "case_id": "g1-syn-02-same-line-fraction-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -1619,11 +1890,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-02-same-line-fraction",
    "synthetic_text": "Se entiende por: I. Uno; II. Dos.\n\nIII. Tres.",
    "synthetic_text_sha256": "bc09ba7aa982edd3c885b14838696955a054d9e91fe39a2f14c46d6308752dad"
   },
   {
    "case_id": "g1-syn-03-quater-accent-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -1656,13 +1932,21 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-03-quater-accent",
    "synthetic_text": "Texto:\n\nX Quater. Uno.\n\nXI. Dos.",
    "synthetic_text_sha256": "2d9ac4f570eb1058ef5cbb76f30e8f23fe335af48a1e1db579289121d5213535"
   },
   {
    "case_id": "g1-syn-04-unsupported-marker-q1",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "II",
@@ -1678,6 +1962,7 @@
      "reason": "unsupported_marker"
     },
     "intro": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "II",
@@ -1693,6 +1978,7 @@
      "reason": "unsupported_marker"
     },
     "label": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "II",
@@ -1713,13 +1999,19 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-04-unsupported-marker",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nII En caso dos.\n\nIII. Tres.",
    "synthetic_text_sha256": "a0ecdef1e43db7fe3cfdefadc08873f1b01d9ae1ac9803efc4da8f5823c42723"
   },
   {
    "case_id": "g1-syn-04-unsupported-marker-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       8,
       15
@@ -1761,11 +2053,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-04-unsupported-marker",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nII En caso dos.\n\nIII. Tres.",
    "synthetic_text_sha256": "a0ecdef1e43db7fe3cfdefadc08873f1b01d9ae1ac9803efc4da8f5823c42723"
   },
   {
    "case_id": "g1-syn-04-unsupported-marker-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -1798,11 +2095,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-04-unsupported-marker",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nII En caso dos.\n\nIII. Tres.",
    "synthetic_text_sha256": "a0ecdef1e43db7fe3cfdefadc08873f1b01d9ae1ac9803efc4da8f5823c42723"
   },
   {
    "case_id": "g1-syn-04-unsupported-marker-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -1822,11 +2124,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-04-unsupported-marker",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nII En caso dos.\n\nIII. Tres.",
    "synthetic_text_sha256": "a0ecdef1e43db7fe3cfdefadc08873f1b01d9ae1ac9803efc4da8f5823c42723"
   },
   {
    "case_id": "g1-syn-05-gap-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L6"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -1846,20 +2153,28 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-05-gap",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nIII. Tres.",
    "synthetic_text_sha256": "c8c4eee6df150307663a6715405684b4e27b57fc410133f0cd4951f079c83b5d"
   },
   {
    "case_id": "g1-syn-05-gap-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
    "expected": {
     "complete": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     },
     "intro": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     },
     "label": {
-     "outcome": "not_found"
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
     }
    },
    "locator": {
@@ -1867,11 +2182,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-05-gap",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nIII. Tres.",
    "synthetic_text_sha256": "c8c4eee6df150307663a6715405684b4e27b57fc410133f0cd4951f079c83b5d"
   },
   {
    "case_id": "g1-syn-05-gap-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -1904,13 +2224,19 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-05-gap",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nIII. Tres.",
    "synthetic_text_sha256": "c8c4eee6df150307663a6715405684b4e27b57fc410133f0cd4951f079c83b5d"
   },
   {
    "case_id": "g1-syn-06-sequence-break-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L3"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "I.",
@@ -1935,6 +2261,7 @@
      "reason": "sequence_break"
     },
     "intro": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "I.",
@@ -1959,6 +2286,7 @@
      "reason": "sequence_break"
     },
     "label": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "I.",
@@ -1988,13 +2316,21 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-06-sequence-break",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nI. Otra.",
    "synthetic_text_sha256": "7a26cc6bd9bc3d9adda675f03f89549fd9a62a9d134865c522e310c2fd70aa6e"
   },
   {
    "case_id": "g1-syn-06-sequence-break-q2",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L3"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "II.",
@@ -2010,6 +2346,7 @@
      "reason": "sequence_break"
     },
     "intro": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "II.",
@@ -2025,6 +2362,7 @@
      "reason": "sequence_break"
     },
     "label": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "II.",
@@ -2045,11 +2383,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-06-sequence-break",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nI. Otra.",
    "synthetic_text_sha256": "7a26cc6bd9bc3d9adda675f03f89549fd9a62a9d134865c522e310c2fd70aa6e"
   },
   {
    "case_id": "g1-syn-06-sequence-break-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -2069,11 +2412,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-06-sequence-break",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nI. Otra.",
    "synthetic_text_sha256": "7a26cc6bd9bc3d9adda675f03f89549fd9a62a9d134865c522e310c2fd70aa6e"
   },
   {
    "case_id": "g1-syn-07-closing-article-note-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -2106,13 +2454,19 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-07-closing-article-note",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nArtículo reformado DOF 01-01-2020",
    "synthetic_text_sha256": "5d4b200775cf470f7a7532ac374f8524e166d5417ff5282bfee36c5a5fc7450b"
   },
   {
    "case_id": "g1-syn-08-tail-incisos-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       8,
       15
@@ -2154,13 +2508,21 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos:\n\na) Alfa.\n\nb) Beta.",
    "synthetic_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856"
   },
   {
    "case_id": "g1-syn-08-tail-incisos-q2",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L1"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "a)",
@@ -2176,6 +2538,7 @@
      "reason": "ambiguous_parent"
     },
     "intro": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "a)",
@@ -2191,6 +2554,7 @@
      "reason": "ambiguous_parent"
     },
     "label": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "a)",
@@ -2212,13 +2576,19 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos:\n\na) Alfa.\n\nb) Beta.",
    "synthetic_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856"
   },
   {
    "case_id": "g1-syn-08-tail-incisos-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L0"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "a)",
@@ -2234,6 +2604,7 @@
      "reason": "incomplete_path"
     },
     "intro": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "a)",
@@ -2249,6 +2620,7 @@
      "reason": "incomplete_path"
     },
     "label": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "a)",
@@ -2269,13 +2641,51 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos:\n\na) Alfa.\n\nb) Beta.",
+   "synthetic_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856"
+  },
+  {
+   "case_id": "g1-syn-08-tail-incisos-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "c"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-08-tail-incisos",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos:\n\na) Alfa.\n\nb) Beta.",
    "synthetic_text_sha256": "302045d762ba64417c75aa272de1d14c77f572adb9888f3104ca31ac37207856"
   },
   {
    "case_id": "g1-syn-09-lone-l-q1",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "L",
@@ -2291,6 +2701,7 @@
      "reason": "unsupported_marker"
     },
     "intro": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "L",
@@ -2306,6 +2717,7 @@
      "reason": "unsupported_marker"
     },
     "label": {
+     "ambiguity": "path",
      "candidates": [
       {
        "exact_quote": "L",
@@ -2326,11 +2738,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-09-lone-l",
    "synthetic_text": "Texto:\n\nL. Algo.",
    "synthetic_text_sha256": "f9d6d453a1373db94ce8071c9d36a438cfb7c9c8f44c4bf19131bba199037684"
   },
   {
    "case_id": "g1-syn-09-lone-l-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
    "expected": {
     "complete": {
      "outcome": "not_structured",
@@ -2350,21 +2767,29 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-09-lone-l",
    "synthetic_text": "Texto:\n\nL. Algo.",
    "synthetic_text_sha256": "f9d6d453a1373db94ce8071c9d36a438cfb7c9c8f44c4bf19131bba199037684"
   },
   {
    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
    "case_id": "g1-syn-10-invalid-locators-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
    "expected": {
     "complete": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
     },
     "intro": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
     },
     "label": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
     }
    },
    "locator": {
@@ -2376,15 +2801,22 @@
   {
    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
    "case_id": "g1-syn-10-invalid-locators-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
    "expected": {
     "complete": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
     },
     "intro": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
     },
     "label": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
     }
    },
    "locator": {
@@ -2396,15 +2828,22 @@
   {
    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
    "case_id": "g1-syn-10-invalid-locators-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
    "expected": {
     "complete": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
     },
     "intro": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
     },
     "label": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
     }
    },
    "locator": {
@@ -2417,15 +2856,22 @@
   {
    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
    "case_id": "g1-syn-10-invalid-locators-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
    "expected": {
     "complete": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "unknown_key"
     },
     "intro": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "unknown_key"
     },
     "label": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "unknown_key"
     }
    },
    "locator": {
@@ -2438,9 +2884,22 @@
   {
    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
    "case_id": "g1-syn-10-invalid-locators-q5",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
    "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "empty_locator"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "empty_locator"
+    },
     "label": {
-     "outcome": "invalid_locator"
+     "outcome": "invalid_locator",
+     "reason": "empty_locator"
     }
    },
    "locator": {},
@@ -2450,30 +2909,323 @@
   {
    "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
    "case_id": "g1-syn-10-invalid-locators-q6",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
    "expected": {
-    "body": {
-     "outcome": "invalid_locator"
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "unknown_mode"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "locator": {
+     "fraction": "I"
+    },
+    "mode": "body",
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q7",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "unsupported_request_form"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "mode": "label",
+    "node_id": "urn:lex-mx:federal:statute:lritf:article:22#pilot-v1:0c9946bfcf55:f.I.1"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q8",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
     }
    },
    "locator": {
+    "fraction": "iv"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q9",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_inciso_label"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "A"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q10",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    }
+   },
+   "locator": {
+    "fraction": "XV Bis 1"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q11",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "malformed_request"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "locator": {
+     "fraction": 5
+    },
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q12",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "malformed_request"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q13",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "unknown_provision"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "locator": {
+     "fraction": "I"
+    },
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:9999"
+   },
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q14",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "conflicting_locator"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "conflicting_locator"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "conflicting_locator"
+    }
+   },
+   "locator": {
+    "article_root": true,
     "fraction": "I"
    },
-   "mode": "body",
    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q15",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "label_mode_on_root"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q16",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "intro": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    },
+    "label": {
+     "outcome": "invalid_locator",
+     "reason": "invalid_fraction_label"
+    }
+   },
+   "locator": {
+    "fraction": "V  Bis"
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q17",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "malformed_request"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": [],
+   "source": "synthetic"
+  },
+  {
+   "canonical_text_sha256": "0c9946bfcf55aa97c7f0e7d52440b6e77dde2d0e5d15a3e2567ec06c4954c697",
+   "case_id": "g1-syn-10-invalid-locators-q18",
+   "decision": {
+    "also_applies": [],
+    "branch": "V"
+   },
+   "expected": {
+    "request": {
+     "outcome": "invalid_locator",
+     "reason": "malformed_request"
+    }
+   },
+   "provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
+   "request": {
+    "locator": {
+     "article_root": false
+    },
+    "provision_id": "urn:lex-mx:federal:statute:lritf:article:22"
+   },
    "source": "synthetic"
   },
   {
    "case_id": "g1-syn-11-stale-q1",
    "current_text": "Texto:\n\nI. Una.",
+   "decision": {
+    "also_applies": [],
+    "branch": "S"
+   },
    "expected": {
     "complete": {
-     "outcome": "stale_projection"
+     "outcome": "stale_projection",
+     "reason": "hash_mismatch"
     },
     "intro": {
-     "outcome": "stale_projection"
+     "outcome": "stale_projection",
+     "reason": "hash_mismatch"
     },
     "label": {
-     "outcome": "stale_projection"
+     "outcome": "stale_projection",
+     "reason": "hash_mismatch"
     }
    },
    "locator": {
@@ -2481,11 +3233,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-11-stale",
    "synthetic_text": "Texto:\n\nI. Uno.",
    "synthetic_text_sha256": "46a88ac55b92df88dab79e07470540e1435f7bbbff9c179e1074b275fa35f9ff"
   },
   {
    "case_id": "g1-syn-12-post-child-attachment-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -2518,13 +3275,19 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-12-post-child-attachment",
    "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta.\n\nCierre de la fracción.\n\nII. Dos.",
    "synthetic_text_sha256": "fb133c510d10ecdd865681b8f8d1d181d907faf2b412773538a292f92fb3e6aa"
   },
   {
    "case_id": "g1-syn-12-post-child-attachment-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
+     "ambiguity": "span",
      "certain_span": [
       27,
       35
@@ -2567,11 +3330,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-12-post-child-attachment",
    "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta.\n\nCierre de la fracción.\n\nII. Dos.",
    "synthetic_text_sha256": "fb133c510d10ecdd865681b8f8d1d181d907faf2b412773538a292f92fb3e6aa"
   },
   {
    "case_id": "g1-syn-12-post-child-attachment-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -2604,11 +3372,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-12-post-child-attachment",
    "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta.\n\nCierre de la fracción.\n\nII. Dos.",
    "synthetic_text_sha256": "fb133c510d10ecdd865681b8f8d1d181d907faf2b412773538a292f92fb3e6aa"
   },
   {
    "case_id": "g1-syn-13-content-before-first-inciso-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -2641,11 +3414,16 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-13-content-before-first-inciso",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nPara ello:\n\na) Alfa.\n\nII. Dos.",
    "synthetic_text_sha256": "8825e2f927b0dc6370944a8ce0aeb0f078538f11374ad72e1b8292a05ed35e82"
   },
   {
    "case_id": "g1-syn-13-content-before-first-inciso-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
    "expected": {
     "complete": {
      "outcome": "resolved",
@@ -2679,19 +3457,1181 @@
    },
    "scope": "statute_body (synthetic eligible article)",
    "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-13-content-before-first-inciso",
    "synthetic_text": "Texto:\n\nI. Uno.\n\nPara ello:\n\na) Alfa.\n\nII. Dos.",
    "synthetic_text_sha256": "8825e2f927b0dc6370944a8ce0aeb0f078538f11374ad72e1b8292a05ed35e82"
+  },
+  {
+   "case_id": "g1-syn-14-interior-note-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      7
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 57,
+       "reason": "note_interruption",
+       "start_char": 44
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      3,
+      7
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      0,
+      2
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-14-interior-note",
+   "synthetic_text": "I. Uno.\n\nArtículo reformado DOF 01-01-2020\n\nContinuación.\n\nII. Dos.",
+   "synthetic_text_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d"
+  },
+  {
+   "case_id": "g1-syn-14-interior-note-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      59,
+      67
+     ],
+     "substring_sha256": "b6d861120e9a415a22d160a4da075061bf4f96261a4024fcbf6e05e958e3a588"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      63,
+      67
+     ],
+     "substring_sha256": "1d8355504c7f7c979d20969618b7881451aaa95352021d2268770704f3dfe6cf"
+    },
+    "label": {
+     "exact_quote": "II.",
+     "outcome": "resolved",
+     "span": [
+      59,
+      62
+     ],
+     "substring_sha256": "c7e15ed5d6855b3d9c4d1d9c8df86084dd7b9012db5a79f92d626c17e0c445fc"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-14-interior-note",
+   "synthetic_text": "I. Uno.\n\nArtículo reformado DOF 01-01-2020\n\nContinuación.\n\nII. Dos.",
+   "synthetic_text_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d"
+  },
+  {
+   "case_id": "g1-syn-14-interior-note-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      67
+     ],
+     "substring_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-14-interior-note",
+   "synthetic_text": "I. Uno.\n\nArtículo reformado DOF 01-01-2020\n\nContinuación.\n\nII. Dos.",
+   "synthetic_text_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d"
+  },
+  {
+   "case_id": "g1-syn-15-scan-precedence-q1",
+   "decision": {
+    "also_applies": [
+     "L3"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        17,
+        20
+       ],
+       "node_id": "path:f.II.1",
+       "path": "f.II.1"
+      },
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": "path:f.II.2",
+       "path": "f.II.2"
+      },
+      {
+       "exact_quote": "II",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        17,
+        20
+       ],
+       "node_id": "path:f.II.1",
+       "path": "f.II.1"
+      },
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": "path:f.II.2",
+       "path": "f.II.2"
+      },
+      {
+       "exact_quote": "II",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        17,
+        20
+       ],
+       "node_id": "path:f.II.1",
+       "path": "f.II.1"
+      },
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": "path:f.II.2",
+       "path": "f.II.2"
+      },
+      {
+       "exact_quote": "II",
+       "label_span": [
+        38,
+        40
+       ],
+       "node_id": null,
+       "path": "(unsupported II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "unsupported_marker"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-15-scan-precedence",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nII. Otra.\n\nII En caso.\n\nIII. Tres.",
+   "synthetic_text_sha256": "292e4eb2e2e35dd2d3b1e545bfac1eb188d502c1d3cedcace7e2934f210c229b"
+  },
+  {
+   "case_id": "g1-syn-15-scan-precedence-q2",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L3"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "III.",
+       "label_span": [
+        51,
+        55
+       ],
+       "node_id": "path:f.III.1",
+       "path": "f.III.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "III.",
+       "label_span": [
+        51,
+        55
+       ],
+       "node_id": "path:f.III.1",
+       "path": "f.III.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "III.",
+       "label_span": [
+        51,
+        55
+       ],
+       "node_id": "path:f.III.1",
+       "path": "f.III.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "sequence_break"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-15-scan-precedence",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nII. Otra.\n\nII En caso.\n\nIII. Tres.",
+   "synthetic_text_sha256": "292e4eb2e2e35dd2d3b1e545bfac1eb188d502c1d3cedcace7e2934f210c229b"
+  },
+  {
+   "case_id": "g1-syn-15-scan-precedence-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "sequence_break"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "sequence_break"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "sequence_break"
+    }
+   },
+   "locator": {
+    "fraction": "IV"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-15-scan-precedence",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nII. Dos.\n\nII. Otra.\n\nII En caso.\n\nIII. Tres.",
+   "synthetic_text_sha256": "292e4eb2e2e35dd2d3b1e545bfac1eb188d502c1d3cedcace7e2934f210c229b"
+  },
+  {
+   "case_id": "g1-syn-16-same-line-and-node-q1",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(same-line I)"
+      },
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        26,
+        28
+       ],
+       "node_id": "path:f.I.1",
+       "path": "f.I.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(same-line I)"
+      },
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        26,
+        28
+       ],
+       "node_id": "path:f.I.1",
+       "path": "f.I.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        17,
+        19
+       ],
+       "node_id": null,
+       "path": "(same-line I)"
+      },
+      {
+       "exact_quote": "I.",
+       "label_span": [
+        26,
+        28
+       ],
+       "node_id": "path:f.I.1",
+       "path": "f.I.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-16-same-line-and-node",
+   "synthetic_text": "Se entiende por: I. Uno.\n\nI. Primera.\n\nII. Segunda.",
+   "synthetic_text_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+  },
+  {
+   "case_id": "g1-syn-16-same-line-and-node-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      39,
+      51
+     ],
+     "substring_sha256": "c3209363fa386a40bf65bf85250e68caab63fd2ee0bf47afbda8f9063af84e5c"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      43,
+      51
+     ],
+     "substring_sha256": "28f337c91773e1a11f131863ba2577f027c1a2a2ee2316cfda759401137ef96b"
+    },
+    "label": {
+     "exact_quote": "II.",
+     "outcome": "resolved",
+     "span": [
+      39,
+      42
+     ],
+     "substring_sha256": "c7e15ed5d6855b3d9c4d1d9c8df86084dd7b9012db5a79f92d626c17e0c445fc"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-16-same-line-and-node",
+   "synthetic_text": "Se entiende por: I. Uno.\n\nI. Primera.\n\nII. Segunda.",
+   "synthetic_text_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+  },
+  {
+   "case_id": "g1-syn-16-same-line-and-node-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-16-same-line-and-node",
+   "synthetic_text": "Se entiende por: I. Uno.\n\nI. Primera.\n\nII. Segunda.",
+   "synthetic_text_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+  },
+  {
+   "case_id": "g1-syn-16-same-line-and-node-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      51
+     ],
+     "substring_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+    },
+    "intro": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      16
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "root"
+       ],
+       "end_char": 24,
+       "reason": "same_line_marker",
+       "start_char": 17
+      }
+     ]
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-16-same-line-and-node",
+   "synthetic_text": "Se entiende por: I. Uno.\n\nI. Primera.\n\nII. Segunda.",
+   "synthetic_text_sha256": "cefd047929f64a56076ba3d91870829008f27c13f4f204117e6e2d03a0ce4ec8"
+  },
+  {
+   "case_id": "g1-syn-17-same-line-in-tail-q1",
+   "decision": {
+    "also_applies": [
+     "L2",
+     "L4"
+    ],
+    "branch": "L1"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        37,
+        39
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line a)"
+      },
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        47,
+        49
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        37,
+        39
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line a)"
+      },
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        47,
+        49
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        37,
+        39
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line a)"
+      },
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        47,
+        49
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-17-same-line-in-tail",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos: a) alfa.\n\na) Alfa.",
+   "synthetic_text_sha256": "ae6087c40f4d05f937992996e847b100d0f0d4ce9719f679624e2c499b43dc9a"
+  },
+  {
+   "case_id": "g1-syn-17-same-line-in-tail-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-17-same-line-in-tail",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos: a) alfa.\n\na) Alfa.",
+   "synthetic_text_sha256": "ae6087c40f4d05f937992996e847b100d0f0d4ce9719f679624e2c499b43dc9a"
+  },
+  {
+   "case_id": "g1-syn-17-same-line-in-tail-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      8,
+      15
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 55,
+       "reason": "trailing_attachment",
+       "start_char": 17
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-17-same-line-in-tail",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nPara estos efectos: a) alfa.\n\na) Alfa.",
+   "synthetic_text_sha256": "ae6087c40f4d05f937992996e847b100d0f0d4ce9719f679624e2c499b43dc9a"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      27,
+      35
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1"
+       ],
+       "end_char": 44,
+       "reason": "same_line_marker",
+       "start_char": 36
+      },
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 53,
+       "reason": "trailing_attachment",
+       "start_char": 46
+      }
+     ]
+    },
+    "intro": {
+     "ambiguity": "span",
+     "certain_span": [
+      30,
+      35
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1"
+       ],
+       "end_char": 44,
+       "reason": "same_line_marker",
+       "start_char": 36
+      }
+     ]
+    },
+    "label": {
+     "exact_quote": "b)",
+     "outcome": "resolved",
+     "span": [
+      27,
+      29
+     ],
+     "substring_sha256": "301d35f1042e1eac9fdef8839fd13a4e28c835ee233a085d1b55bbea353eb5b9"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      8,
+      44
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1/i.b.1",
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 53,
+       "reason": "trailing_attachment",
+       "start_char": 46
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      15
+     ],
+     "substring_sha256": "492feff762ea4cc600502bd3059fb7a2a4a0b932e4ba8146dafe92f8ceac9a1e"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q3",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "c)",
+       "label_span": [
+        36,
+        38
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line c)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "c)",
+       "label_span": [
+        36,
+        38
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line c)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "c)",
+       "label_span": [
+        36,
+        38
+       ],
+       "node_id": null,
+       "path": "f.I.1/(same-line c)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "c"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "d"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-18-two-cuts-q5",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      17,
+      25
+     ],
+     "substring_sha256": "a8c219ac44980df10221f9c45196d180895548823cc77128643dc59860498a4b"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      20,
+      25
+     ],
+     "substring_sha256": "a78307b773cc884d1707ab46999f3e469bb933c43e89e0af73fd1073ccf573da"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      17,
+      19
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-18-two-cuts",
+   "synthetic_text": "Texto:\n\nI. Uno:\n\na) Alfa.\n\nb) Beta; c) gama.\n\nCierre.",
+   "synthetic_text_sha256": "09d4a415f226a5be4d91f16cd93ad586d4a192458b51e3fe1305588581d208bc"
+  },
+  {
+   "case_id": "g1-syn-19-no-fraction-incisos-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      8,
+      16
+     ],
+     "substring_sha256": "a8c219ac44980df10221f9c45196d180895548823cc77128643dc59860498a4b"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      11,
+      16
+     ],
+     "substring_sha256": "a78307b773cc884d1707ab46999f3e469bb933c43e89e0af73fd1073ccf573da"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      8,
+      10
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nb) Beta.\n\nCierre.",
+   "synthetic_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+  },
+  {
+   "case_id": "g1-syn-19-no-fraction-incisos-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      18,
+      26
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "i.b.1",
+        "root"
+       ],
+       "end_char": 35,
+       "reason": "trailing_attachment",
+       "start_char": 28
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      21,
+      26
+     ],
+     "substring_sha256": "3c87364e773a3c4fbd38a706db3dc6bed9d298a0283371fde13d9828be5584c0"
+    },
+    "label": {
+     "exact_quote": "b)",
+     "outcome": "resolved",
+     "span": [
+      18,
+      20
+     ],
+     "substring_sha256": "301d35f1042e1eac9fdef8839fd13a4e28c835ee233a085d1b55bbea353eb5b9"
+    }
+   },
+   "locator": {
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nb) Beta.\n\nCierre.",
+   "synthetic_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+  },
+  {
+   "case_id": "g1-syn-19-no-fraction-incisos-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "intro": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "label": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    }
+   },
+   "locator": {
+    "inciso": "c"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nb) Beta.\n\nCierre.",
+   "synthetic_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+  },
+  {
+   "case_id": "g1-syn-19-no-fraction-incisos-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      35
+     ],
+     "substring_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      6
+     ],
+     "substring_sha256": "daf67d8ad00df2d9cef0ea6efde15dd7ceb8ac54ae21d067dc184b16609db87b"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nb) Beta.\n\nCierre.",
+   "synthetic_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
   }
  ],
- "contract": "pilot-v1 G1 draft, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",
+ "contract": "pilot-v1 G1 draft 2, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",
  "conventions": {
   "candidate_owner_paths": "paths relative to the provision root; node_id = <provision_id>#pilot-v1:<sha12>:<path>",
-  "certain_span null": "intro ambiguous: no certain intro is claimed",
-  "modes": "label, intro, complete; complete is the default",
+  "certain_span null": "no certain part is claimed",
+  "decision": "branch: the stage or branch that decides the row (V invalid_locator, S stale_projection, N scope or layout, R root locator, L0-L7 the G1.7 path-walk table, for the last step). also_applies: other branches whose conditions also hold for that step and lose by order.",
+  "locator": "the request is {provision_id, locator, mode}; a row with \"request\" gives the raw request instead",
+  "modes": "label, intro, complete; complete is the default. The key \"request\" means the raw request given in the row, whatever its mode.",
   "node_id path: prefix": "stands for the full node_id built from the path",
-  "span": "half-open Unicode scalar offsets [start, end) into the exact text"
+  "span": "half-open Unicode scalar offsets [start, end) into the exact text",
+  "synthetic_provision_id": "provision ID used for a synthetic text in responses.json and projection-example.json"
  },
  "g0_snapshot": "fixtures/fintech-structural-g0-2026-11-14/canonical-snapshot.json",
- "holdout": "No holdout provision or answer was read. Compatibility with the sealed answers is for a reviewer to check privately.",
- "method": "Spans typed by hand from a paragraph table (start, length, opening characters) of each development provision and of each synthetic text. A script added substring hashes and checked the hand-typed label quotes; no scanner, recognizer or probe produced any expectation."
+ "holdout": "No holdout provision or answer was read. Compatibility with the sealed answers is for an independent evaluator to check privately after the contract is frozen.",
+ "method": "Spans typed by hand from a paragraph table (start, end, text or opening characters) of each development provision and of each synthetic text. A script added substring hashes, quotes, node-ID prefixes and the JSON layout, and checked the hand-typed label quotes; no scanner, recognizer or probe produced any expectation."
 }

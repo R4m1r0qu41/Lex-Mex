@@ -3,8 +3,10 @@
 **Status:** active, started 2026-11-14 on branch `pilot/fintech-structural` from `main`
 `2d3c77a81`. Codex accepted slices (a) and (b). The G0 sample is committed (`0ecc40523`) and
 checked from the builder side; Codex approved G0 with conditions on 2026-11-14
-([disposition](../fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 is amended accordingly. The
-G1 contract below is a draft awaiting Codex review; G2 also needs the holdout backup evidence.
+([disposition](../fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 is amended accordingly.
+Codex returned **revise** on G1 draft 1
+([review](../fintech-pilot-g1-codex-review-2026-11-14.md)). The G1 contract below is draft 2,
+awaiting a new Codex review. G2 also needs the holdout backup evidence.
 **Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
 pilot, "with your recommendations applied".
 **Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
@@ -416,7 +418,7 @@ blocks G2 separately.
 **Current next action:** builder revises the public G1 contract/schema/examples
 against the review and submits a new commit-bound G1 review. No G2 work yet.
 
-## G1 contract, pilot-v1 (draft for Codex review, 2026-11-14)
+## G1 contract, pilot-v1 (draft 2 for Codex review, 2026-11-14)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
 `01-span-parenthood-contract` and `lookup-contract`. It was written from V2 §4, from the
@@ -424,6 +426,11 @@ development provisions, from synthetic examples, and from measurements on non-ho
 No holdout provision and no holdout answer was read; the eight holdout provisions were
 excluded from every measurement. Nothing here is code. The machine-checkable parts and the
 expected behaviour are in `fixtures/fintech-structural-g1-2026-11-14/`.
+
+Draft 2 answers the [Codex G1 review](../fintech-pilot-g1-codex-review-2026-11-14.md) (verdict:
+revise). Each change is tied to one of R1–R5 and to a public witness, and G1.10 lists the
+changes. No change was made for R6, and none uses the sealed answers: R6 belongs to an
+independent evaluator after this contract is frozen.
 
 ### G1.1 Scope
 
@@ -443,9 +450,10 @@ expected behaviour are in `fixtures/fintech-structural-g1-2026-11-14/`.
   - `projection_version` `pilot-v1`;
   - `source_release_id` `local-<40-hex commit>`.
 - **Paragraphs.** A paragraph is a maximal run of text between `\n\n` separators.
-- **Fail closed on any other layout.** If an eligible text contains a lone `\n`, three or more
-  consecutive `\n`, or leading or trailing whitespace, the provision returns `not_structured`
-  (`unexpected_layout`). None of the 1,092 non-holdout eligible articles has any of these.
+- **Fail closed on any other layout.** The provision returns `not_structured`
+  (`unexpected_layout`) if its text contains a lone `\n`, three or more consecutive `\n`, or
+  leading or trailing whitespace. It also does so for the two marker layouts in G1.4 that the
+  pilot does not model. None of the 1,092 non-holdout eligible articles shows any of these.
 
 ### G1.3 Paragraph classes
 
@@ -460,15 +468,19 @@ Each paragraph gets exactly one class, decided by its start and tested in this o
    - a lone `D` or `M` never counts.
 
    A start that fails the policy is `unsupported_marker`. The label is the pair (value,
-   qualifier rank). Its printed form is `normalize_fraction_label`. `label_span` runs from the
-   paragraph start through the separator (`marker.end_char`), so `XXVI bis.` is 9 characters.
+   qualifier rank), with rank 0 for no qualifier. Its printed form is `normalize_fraction_label`.
+   `label_span` runs from the paragraph start through the separator (`marker.end_char`), so
+   `XXVI bis.` is 9 characters.
 2. **`inciso_marker`.** The paragraph starts with a single lowercase letter, then `)`, then
    whitespace. The letter order is a … n, ñ, o … z, and `label_span` is the 2 characters.
 3. **`article_note`.** The paragraph starts with `Artículo adicionado`, `Artículo reformado` or
    `Artículo derogado`, contains `DOF dd-dd-dddd`, and is at most 400 characters. It belongs to
-   the root and never makes an attachment ambiguous.
+   the root, certainly.
+   - A note is **closing** if every paragraph after it is also a note, and **interior**
+     otherwise. A closing note never makes an attachment uncertain. An interior note does,
+     for the paragraphs after it (G1.4, ownership rule 3).
    - Measured on non-holdout articles: 508 such paragraphs, including multi-clause and
-     `Fe de erratas` forms.
+     `Fe de erratas` forms. One is interior (`lic` 108 Bis), and it lies inside a tail.
    - Notes printed inside a paragraph (`…; Fracción adicionada DOF …`) are ordinary text and
      stay inside that paragraph's spans.
 4. **`unsupported_marker`.** Any other marker-like start. That means one of:
@@ -480,7 +492,7 @@ Each paragraph gets exactly one class, decided by its start and tested in this o
    - a lowercase letter, a period and a space;
    - a dash or bullet followed by a space.
 
-   The pilot does not structure these. They make the scan partial (G1.6) instead of being read
+   The pilot does not structure these. They make scans partial (G1.6) instead of being read
    silently as continuation text. Measured: 37 such paragraphs in non-holdout articles.
 5. **`content`.** Everything else.
 
@@ -497,175 +509,298 @@ them but never turns them into nodes.
 
 ### G1.4 Tree and ownership
 
-- **Root.** Every eligible provision has one synthetic `article_root`. Its `complete_span` is the
-  whole text, it inherits the provision ID and it creates no canonical provision.
+- **Root.** Every eligible provision has one synthetic `article_root`. It inherits the
+  provision ID and creates no canonical provision.
 - **Fractions.** Fractions are children of the root.
 - **Incisos.**
-  - Incisos inside a fraction's region are that fraction's children. A fraction's region runs
-    from its marker paragraph to the paragraph before the next fraction marker, or to the end of
-    the text.
-  - In an article with no fraction, incisos are children of the root.
-  - An inciso before the first fraction of an article that has fractions makes the provision
-    `not_structured` (`unexpected_layout`).
-- **The last run and the tail.** Let T be the last fraction, or the root in an article with no
-  fraction.
-  - **T's run.** For a fraction, the run is its marker paragraph followed by incisos in strictly
-    increasing letter order, starting with the very next paragraph. For the root, the run starts
-    at its first inciso. Only `content` paragraphs may sit between two incisos of the run; an
-    `unsupported_marker`, an article note or a letter that does not increase ends the run.
-  - **The tail.** It runs from the first paragraph after T's run to the end of the text, leaving
-    out a closing run of article notes. An article with no marker has no tail.
-  - The tail is one unresolved segment (`trailing_attachment`). Its candidates are the last
+  - In an article with fractions, incisos inside a fraction's region are that fraction's
+    children. A fraction's region runs from its marker paragraph to the paragraph before the
+    next fraction marker, or to the end of the text.
+  - In an article with no fraction, every inciso is a child of the root, and its parenthood is
+    resolved.
+  - **Unmodelled layouts (fail closed, G1.2).** An inciso before the first fraction of an
+    article that has fractions makes the provision `not_structured` (`unexpected_layout`). So
+    does an inciso that follows an interior note with no fraction marker between them, except
+    inside the tail. Measured: neither occurs in non-holdout articles.
+- **The last run and the tail, in an article with fractions.** Let T be the last fraction.
+  - **T's run** is T's marker paragraph followed by incisos in strictly increasing letter order,
+    starting with the very next paragraph. Only `content` paragraphs may sit between two incisos
+    of the run; an `unsupported_marker`, an article note or a letter that does not increase ends
+    the run.
+  - **The tail** runs from the first paragraph after T's run to the end of the text, leaving
+    out a run of closing notes. If nothing remains, there is no tail.
+  - The tail is one unresolved segment (`trailing_attachment`). Its candidate owners are the last
     marker node before it and each of that node's ancestors up to the root.
-  - Incisos inside the tail have `parenthood_status` `ambiguous`, with T and the root as
-    candidate parents.
+  - An inciso inside the tail has `parenthood_status` `ambiguous`, with candidate parents T and
+    the root. G1.6 says how tail incisos affect scans, and G1.7 how they match.
+  - Article notes inside the tail stay root-owned. The tail segment's range encloses them, but
+    claims nothing about them.
   - Measured on non-holdout articles: of 357 with fractions, 245 have a tail, 71 end on a
-    marker and 41 end on article notes.
+    marker and 41 end on closing notes. 4 of the 245 tails contain an inciso.
+- **The tail, in an article with no fraction.** Here T would be the root, so a tail inciso's
+  candidate parents [T, root] collapse to one, and no inciso has an uncertain parent. The root
+  has no run.
+  - The tail is the unlabelled paragraphs after the last inciso, leaving out a run of closing
+    notes.
+  - Its segment's candidate owners are the last inciso and the root.
+  - An article with no marker at all has no tail.
 - **Unlabelled paragraphs.** These are `content` and `unsupported_marker` paragraphs. For each
   one, let m be the nearest marker paragraph before it. The first rule that applies wins:
-  1. **No m:** the root owns it. This is the root's intro.
+  1. **No m:** the root owns it.
   2. **Inside the tail:** it is part of the tail segment.
-  3. **m is a fraction F:** F owns it, certainly. This covers continuation paragraphs after F's
+  3. **An interior note lies between m and the paragraph:** the paragraph is part of a
+     `note_interruption` segment.
+     - The segment runs from the first unlabelled paragraph after the note to the end of the
+       last unlabelled paragraph before the next marker paragraph, the next note or the end of
+       the text.
+     - The note itself is not in the segment; it stays root-owned.
+     - The candidate owners are m and each of m's ancestors up to the root.
+  4. **m is a fraction F:** F owns it, certainly. This covers continuation paragraphs after F's
      marker paragraph, including one before F's first inciso.
-  4. **m is an inciso and the next marker is an inciso:** m owns it, certainly. The next marker
+  5. **m is an inciso and the next marker is an inciso:** m owns it, certainly. The next marker
      can only be m's sibling, because a fraction in between would be the next marker.
-  5. **m is an inciso of fraction F and the next marker is a fraction:** F owns it certainly.
+  6. **m is an inciso of fraction F and the next marker is a fraction:** F owns it certainly.
      Whether m does is uncertain, so it is a `post_child_attachment` segment with candidates
      [m, F].
-- **Sequences.** Within each parent, sibling labels of a kind must strictly increase:
+
+  The list is exhaustive. If m is an inciso and there is no next marker, the paragraph is
+  either inside the tail (rule 2) or after an interior note (rule 3).
+- **Sequences.** Within each parent, the labels of the children whose parenthood is resolved
+  must strictly increase:
   - fractions by (value, rank), so `V` < `V Bis` < `VI`;
   - incisos by letter.
 
-  A label that does not increase makes that parent's scan for that kind `ambiguous`. Measured
-  on non-holdout articles: 0 fraction sequence breaks, and 2 articles with an inciso sequence
-  break. Gaps are allowed; one non-holdout article has a fraction gap, next to an
-  `unsupported_marker`.
+  Tail incisos take part in no sequence. A label that does not increase gives that parent's scan
+  for that kind the reason `sequence_break` (G1.6). Measured on non-holdout articles: 0 fraction
+  sequence breaks, and 2 articles with an inciso sequence break. Gaps are allowed; one
+  non-holdout article has a fraction gap, next to an `unsupported_marker`.
 
 ### G1.5 Spans and node identity
 
 - **`label_span`.** The marker as printed, separator included, trailing whitespace excluded.
   The root has none.
-- **`intro_span`.**
-  - For a non-root node, it runs from the first non-whitespace character after the label to the
-    end of the marker paragraph. Continuation paragraphs are not intro, even one that comes
-    before the node's first child (ownership rule 3); they are reachable only in `complete`
-    mode. This departs from V2 §4.2, which defines intro as the text before the first child
-    (D8). The intro is therefore certain unless a same-line candidate lies inside it.
-  - For the root, it runs from 0 to the end of the last paragraph before the first child marker,
-    and is empty (`[0,0)`) if the text starts with a marker.
-- **`complete_span`.** It runs from the label start to the end of the last paragraph that the
-  node or one of its descendants certainly owns. It never includes the `\n\n` after it.
-  - It is `resolved` only when no unresolved segment can extend it: no segment whose candidates
-    include this node (or a descendant) and also a node outside it.
-  - It must also contain no candidate (G1.6) that could start a sibling or an ancestor-level
-    node.
-  - Otherwise `complete` returns `ambiguous`. The response gives the certain span and the
-    unresolved segments, never a longer span as certain.
-  - **Where the certain span ends:**
-    - before a tail or `post_child_attachment` segment, at the end of the last certainly owned
-      paragraph;
-    - before an `unsupported_marker` paragraph, at the end of the paragraph before it;
-    - before a same-line candidate inside the node, right after the `[:;.]` that precedes the
-      candidate.
+- **`intro_span` of a non-root node.** It runs from the first non-whitespace character after the
+  label to the end of the marker paragraph. Continuation paragraphs are not intro, even one that
+  comes before the node's first child (ownership rule 4); they are reachable only in `complete`
+  mode, and there they follow that mode's ambiguity rules (D8). The intro is ambiguous only when
+  a same-line candidate lies inside it.
+- **`intro_span` of the root.** It runs from 0 to the end of the last paragraph that comes before
+  the first child marker and is not an article note. With no child marker the limit is the end
+  of the text, so the intro of an article with no marker is all of its text except its closing
+  notes. The intro is `[0,0)` when no such paragraph exists. It is ambiguous when a same-line
+  candidate or an `unsupported_marker` paragraph lies inside it.
+- **`complete_span` of the root.** The whole text, always resolved.
+- **`complete_span` of a non-root node.** It runs from the label start to the end of the last
+  paragraph that the node or one of its descendants certainly owns. It never includes the
+  `\n\n` after it, and it never includes a root-owned note: G1.4 makes every layout that would
+  put a note inside it either a `note_interruption` or `unexpected_layout`.
+- **Which uncertainties cut which span.** Each source below either cuts a node's span or does
+  not; nothing else does.
 
-    An ambiguous intro reports its certain span the same way.
+  | Source | Cuts the `complete` span of | Certain part ends |
+  |---|---|---|
+  | Tail segment | each candidate owner except the root | at the end of the last paragraph before the segment |
+  | `note_interruption` segment | each candidate owner except the root | at the end of the last paragraph before the note |
+  | `post_child_attachment` segment [m, F] | m only; F certainly owns the paragraphs | at the end of m's last certainly owned paragraph |
+  | `unsupported_marker` paragraph U, owned by N (in a tail, N is the tail's first candidate) | N and each ancestor of N except the root | at the end of the paragraph before U |
+  | Same-line candidate C, held by P (G1.6) | each node strictly below P whose region contains C | right after the `[:;.]` before C |
+
+  - The same table governs intros. A non-root intro is cut only by a same-line candidate. The
+    root's intro is cut by a same-line candidate or an `unsupported_marker` inside it.
+  - When several sources cut one span, the certain part ends at the earliest of their ends. The
+    response lists every applicable segment, in order of `start_char`.
+  - A cut span is `ambiguous`. The response gives the certain part and the segments, never a
+    longer span as certain. `certain_span` is `null` when the certain part would be empty.
 - **`direct_content_spans`.** Not provided in pilot-v1.
-- **`unresolved_segments`.** A same-line or unsupported marker's segment runs from that marker
-  to the end of its paragraph. A tail or post-child segment runs over the uncertain paragraphs.
-  Each records `start_char`, `end_char`, a reason
-  (`trailing_attachment`, `post_child_attachment`, `unsupported_marker`, `same_line_marker`) and
-  the candidate owners' node IDs.
+- **`unresolved_segments`.**
+  - A same-line candidate's segment runs from the candidate to the end of its paragraph, and
+    the segments of two candidates in one paragraph may overlap. An `unsupported_marker`'s
+    segment runs from that marker to the end of its paragraph.
+  - Their candidate owners are, for a same-line candidate, the nodes it cuts followed by P; for
+    an unsupported marker, N and each of its ancestors up to the root.
+  - A tail, `note_interruption` or post-child segment runs over the uncertain paragraphs.
+  - Each records `start_char`, `end_char`, a reason (`trailing_attachment`,
+    `note_interruption`, `post_child_attachment`, `unsupported_marker`, `same_line_marker`)
+    and the candidate owners' node IDs.
 - **`node_id`.** `<provision_id>#pilot-v1:<first 12 hex of canonical_text_sha256>:<path>`.
   - The root's path is `root`.
-  - Other paths join segments with `/`: `f.<printed normalised label, space→_>.<occurrence>` and
-    `i.<letter>.<occurrence>`.
+  - Other paths join segments with `/`: `f.<numeral>[_<Qualifier>].<occurrence>` and
+    `i.<letter>.<occurrence>`. `<Qualifier>` is the canonical name of the rank: `Bis`, `Ter`,
+    `Quater`, `Quinquies`, `Sexies`, `Septies`, `Octies`, `Nonies` or `Decies`, whatever the
+    printed spelling.
+  - An inciso of an article with no fraction has the path `i.<letter>.<occurrence>`, with no
+    fraction segment.
   - The occurrence is the 1-based count of same-label siblings so far, so it is always 1 unless
     a sequence breaks.
-  - An inciso with an ambiguous parent uses `tail/i.<letter>.<occurrence>`.
+  - A tail inciso uses `tail/i.<letter>.<occurrence>`, counted among tail incisos.
   - IDs bind the text hash and version. No stability is promised across amendments.
-- **Human locator.** `{fraction?, inciso?}` under the provision. It is not the `node_id`.
+- **Parent fields.** A node's `parent_node_id` is its parent, or `null` for the root and for a
+  node with ambiguous parenthood. `candidate_parent_node_ids` is filled only when parenthood is
+  ambiguous, and is empty otherwise. In a projection, an ambiguous `intro_span` or
+  `complete_span` holds the certain part (`null` when empty), marked by its status.
 
 ### G1.6 Scan status per parent and kind
 
-| Status | Meaning |
-|---|---|
-| `complete` | No `unsupported_marker` and no same-line candidate of that kind in the parent's region, and the kind's sequence strictly increases |
-| `partial` | A candidate exists that could be a missed node of that kind under this parent |
-| `ambiguous` | The kind's sequence breaks under this parent |
-| `unsupported` | Out of scope (G1.1) |
-
-**Candidates.** A same-line candidate of kind k, found in the region of node N, could be a node
-of kind k under P. P is N or N's nearest ancestor that can hold kind k: the root for fractions,
-and the fraction (or the root, when there are no fractions) for incisos. Then:
-- (P, k) is `partial`;
-- every node strictly below P whose region contains the candidate gets an `ambiguous` complete
-  span;
-- that node's intro is also ambiguous if the candidate lies inside its intro.
-
-**Unsupported markers.** An `unsupported_marker` owned by node N could be any kind under any
-ancestor. N and each of its ancestors, root included, are therefore `partial` for every kind.
-Each of them except the root gets an `ambiguous` complete span.
+- **Which scans exist.**
+  - The root has a fraction scan. In an article with no fraction it also has an inciso scan.
+  - Each fraction has an inciso scan.
+  - Incisos have no scans in pilot-v1.
+  - An out-of-scope provision has no scans; its status is `unsupported`.
+- **Reasons.** A scan (P, k) collects every reason that applies, and the projection and the
+  response keep them all, always in the order listed here:
+  - `sequence_break`: the labels of P's resolved children of kind k do not strictly increase
+    (G1.4).
+  - `same_line_marker`: a same-line candidate of kind k is held by P.
+  - `unsupported_marker`: an `unsupported_marker` is owned by P or by a descendant of P.
+  - `tail_inciso`: P is T, k is inciso, and the tail contains an inciso.
+- **Reduction.** The status follows from the reasons, independent of the order they were found:
+  - `ambiguous` if `sequence_break` is among them, since a broken sequence outranks partial
+    evidence;
+  - otherwise `partial` if any reason is present;
+  - otherwise `complete`.
+- **Who holds a candidate.** A same-line candidate of kind k, found in the region of node N, is
+  held by P: N itself or N's nearest ancestor that can hold kind k. That is the root for
+  fractions, and the fraction (or the root, in an article with no fraction) for incisos. An
+  `unsupported_marker` owned by N is held by N and by each of N's ancestors.
+- **What a candidate carries.**
+  - A same-line candidate carries the label that `fraction_marker` or its letter gives it.
+  - An `unsupported_marker` that starts with Roman capitals carries that numeral's value. It
+    matches a requested fraction of the same value, whatever the qualifier, so `XV Bis 1.`
+    matches `XV`, `XV Bis` and `XV Ter`.
+  - Any other `unsupported_marker` carries no label.
+- **Tail incisos and scans.** A tail inciso is a possible child of T that is not certainly T's,
+  which is why it adds `tail_inciso` to (T, inciso). So no lookup under T returns `not_found`
+  while T's tail holds an inciso (G1.7, branch L7).
 
 ### G1.7 Lookup
 
-**Request.** It carries:
-- `provision_id` and `locator`; a `node_id` may stand in for both;
-- `mode`, one of `label`, `intro` or `complete`, with `complete` as the default;
-- the projection to read.
+**Request.** A request is one JSON object. The lookup runs against one loaded projection set and
+the current canonical corpus at a stated release; neither is a request field.
 
-Locator labels are matched on (value, rank) for fractions and on the letter for incisos, never
-on the printed string. So `X Quáter`, `X quater` and `X QUATER` all match a printed `X Quater.`.
+| Key | Required | Value |
+|---|---|---|
+| `provision_id` | yes | string |
+| `locator` | yes | object, one of the two forms below |
+| `mode` | no | string: `label`, `intro` or `complete`; `complete` when absent |
 
-**Evaluation order.**
-1. **`invalid_locator`** if any of these holds:
-   - the request has an unknown key, an unknown mode or an unknown `provision_id`;
-   - a fraction is not a canonical Roman numeral of value 1 to 100 with an optional known
-     qualifier;
-   - an inciso is not one letter (an optional `)` is stripped);
-   - mode `label` is requested for the root.
-2. **`stale_projection`** if the provision's current text hash, the projection version or the
-   source release ID differs from the projection.
-3. **`not_structured` (`unsupported_scope` or `unexpected_layout`)** under G1.1 or G1.2.
-4. **The path is walked from the root.** For a requested label L of kind k under parent P,
-   these tests apply in order. A node whose parent is ambiguous counts as a match under each of
-   its candidate parents. Candidates carry labels as follows:
-   - a same-line candidate carries the label that `fraction_marker` or its letter gives it;
-   - an `unsupported_marker` that starts with Roman capitals carries that numeral's value. It
-     matches a requested fraction of the same value, whatever the qualifier, so `XV Bis 1.`
-     matches `XV`, `XV Bis` and `XV Ter`;
-   - any other `unsupported_marker` carries no label.
-   - **An inciso requested with no fraction, in an article that has fractions:** `ambiguous`
-     (`incomplete_path`) with every inciso of that letter as a candidate if one exists, and
-     otherwise `not_structured` (`incomplete_path`). This case never returns `not_found`.
-   - **Exactly one match, no same-line or unsupported candidate under P carries L, and
-     (P, k) is not `ambiguous`:** continue from the match.
-   - **Two or more matches, a candidate under P carrying L, a match with an ambiguous parent, or
-     (P, k) `ambiguous` with a match:** `ambiguous`, with every candidate's path and label span.
-     Each candidate also carries its `node_id`; a same-line candidate is not a node, so its
-     `node_id` is `null`.
-   - **No match, and (P, k) is `complete`:**
-     - L is greater than every present label, or no label of kind k exists: `not_found`;
-     - L lies below the first present label or strictly between two of them: `not_structured`
-       (`sequence_gap`), since a gap is where lost text would show.
-   - **No match, and (P, k) is `partial` or `ambiguous`:** `not_structured` (`partial_scan`
-     or `sequence_break`).
-5. **Mode applied to the resolved node:**
-   - `label` returns `label_span`;
-   - `intro` returns `intro_span`, or `ambiguous` if a candidate lies inside it;
-   - `complete` returns `complete_span`, or `ambiguous` under G1.5.
+- **Subsection locator.** `{"fraction": …}`, `{"fraction": …, "inciso": …}`, or, in an article
+  with no fraction, `{"inciso": …}`. Each value is a string.
+- **Root locator.** `{"article_root": true}`, alone. The root is returned only for this explicit
+  request. It is a separate operation, not a fallback; a subsection request never returns the
+  root.
+- **`node_id` requests are deferred in pilot-v1.** V2's lookup takes a typed structural locator
+  only. A request carrying `node_id` returns `invalid_locator` (`unsupported_request_form`).
+
+**Locator syntax (frozen).**
+- **`fraction`.**
+  - A canonical uppercase Roman numeral of value 1 to 100, optionally followed by exactly one
+    space (U+0020) and one qualifier word.
+  - The qualifier is any word `fraction_qualifier_rank` accepts: any letter case, `Quáter` with
+    or without its accent.
+  - Nothing else is allowed. That excludes leading, trailing or doubled whitespace, a period
+    or dash, digits (`XV Bis 1`), a lowercase numeral (`iv`) and a non-canonical numeral
+    (`IIII`).
+- **`inciso`.** One letter from `a`–`z` or `ñ` (U+00F1), optionally followed by `)`. Uppercase
+  letters and whitespace are invalid.
+- **Matching.** Labels match on (value, rank) for fractions and on the letter for incisos, never
+  on the printed string. So `X Quáter`, `X quater` and `X QUATER` all match a printed `X Quater.`.
+- **Normalised path.** The validated locator, written `f.<numeral>[_<Qualifier>]`,
+  `f.…/i.<letter>`, `i.<letter>` or `root`, with the canonical qualifier names of G1.5. It
+  names the request, not a node, and has no occurrence number.
+
+**Evaluation order.** The first stage that applies decides the outcome.
+1. **`invalid_locator`.** Its checks apply in this order, and the first failure gives the reason:
+   1. `malformed_request`: the request is not a JSON object.
+   2. `unsupported_request_form`: the request has a `node_id` key.
+   3. `unknown_key`: the request or its locator has any other key not listed above, such as
+      `apartado`.
+   4. `malformed_request`:
+      - `provision_id` or `locator` is missing;
+      - `provision_id` is not a string, or `locator` is not an object;
+      - a locator value has the wrong JSON type, or `article_root` is not `true`.
+   5. `unknown_mode`: `mode` is present and is not `label`, `intro` or `complete`, including
+      when it is not a string.
+   6. `empty_locator`: the locator is `{}`.
+   7. `conflicting_locator`: `article_root` appears with `fraction` or `inciso`.
+   8. `invalid_fraction_label` and `invalid_inciso_label`: the label fails the syntax above.
+   9. `label_mode_on_root`: mode `label` on the root locator.
+   10. `unknown_provision`: the provision ID is not in the current corpus.
+2. **`stale_projection`.** This applies when the projection's binding differs from the current
+   one. The reason is the first difference, checked in this order:
+   - `hash_mismatch`: the provision's current text hash;
+   - `version_mismatch`: the projection version;
+   - `release_mismatch`: the source release ID.
+
+   The response reports both bindings, the projection's and the current one, in full.
+3. **`not_structured` (`unsupported_scope` or `unexpected_layout`)** under G1.1, G1.2 or G1.4.
+4. **The root locator** returns the root in mode `intro` or `complete` (G1.5). It walks no path.
+5. **Path walk.**
+   - A `fraction` is looked up under the root.
+   - An `inciso` is then looked up under the fraction found.
+   - In an article with no fraction, an `inciso` alone is looked up under the root.
+
+   Each lookup is one step (P, k, L), meaning label L of kind k under parent P, decided by the
+   table below. The first branch that applies wins. Two terms are used:
+   - **M**, the matches: nodes of kind k labelled L whose parent is P, or whose candidate parents
+     include P.
+   - **C**, the candidates held by P (G1.6) that carry L.
+
+   | Branch | Applies when | Outcome and reason |
+   |---|---|---|
+   | L0 | an inciso is requested without a fraction in an article that has fractions | `ambiguous` (`incomplete_path`), listing every inciso of that letter anywhere, tail included; or `not_structured` (`incomplete_path`) if there is none. Never `not_found` |
+   | L1 | some node in M has ambiguous parenthood | `ambiguous` (`ambiguous_parent`) |
+   | L2 | C is not empty | `ambiguous` (`same_line_marker` if C holds a same-line candidate, otherwise `unsupported_marker`) |
+   | L3 | M is not empty, and (P, k) is `ambiguous` | `ambiguous` (`sequence_break`) |
+   | L4 | M has exactly one node | continue from it; the step resolves |
+   | L5 | M is empty, (P, k) is `complete`, and L is above every label of P's children of kind k, or P has none | `not_found` (`absent_in_complete_scan`) |
+   | L6 | M is empty, (P, k) is `complete`, otherwise (L below the first label or in a gap) | `not_structured` (`sequence_gap`) |
+   | L7 | M is empty, and (P, k) is `partial` or `ambiguous` | `not_structured` (`partial_scan` or `sequence_break`, by the reduced status) |
+
+   - M has two or more nodes only when parenthood is ambiguous (L1), or when two resolved
+     children share a label, which is a sequence break (L3). So L4 always meets exactly one
+     node with resolved parenthood.
+   - Every `ambiguous` branch is a path ambiguity. Its response lists M and C together, in
+     document order. Each candidate gives:
+     - its `node_id`, or `null` for a same-line or unsupported candidate, which is not a node;
+     - its path: a node's path, or for a candidate that is not a node, the parent's path
+       followed by `/(same-line <label>)` or `/(unsupported <numeral>)`, with no prefix when the
+       parent is the root;
+     - its `label_span`.
+6. **Mode applied to the resolved node.**
+   - `label` returns `label_span`.
+   - `intro` returns `intro_span`.
+   - `complete` returns `complete_span`.
+   - When the span is cut (G1.5), the outcome is `ambiguous` (`unresolved_boundary`): a span
+     ambiguity.
 
 A label lookup can therefore succeed while `complete` abstains for the same node.
 
-**Response.** Every response carries:
-- the outcome, the mode and a reason code;
-- `provision_id`, `canonical_text_sha256`, `projection_version` and `source_release_id`;
-- the normalised path;
-- the scan status of the last (parent, kind) step;
-- candidates, when the outcome is `ambiguous`.
+**Response.** Every response echoes the raw `request` exactly as received. Every outcome except
+`resolved` carries a `reason`. `mode` is the request's mode when that is `label`, `intro` or
+`complete`, `complete` when the request is an object without a `mode` key, and `null` otherwise;
+it does not depend on which check failed. The schema enforces the presence rules in this table:
 
-Only a `resolved` outcome carries `node_id`, the span and the exact substring. No other outcome
-returns text as an exact match, and no lookup ever returns the whole article in place of a
-subsection.
+| Field | `resolved` | `ambiguous`, path | `ambiguous`, span | `not_found` | `not_structured`, scope or layout | `not_structured`, path | `stale_projection` | `invalid_locator` |
+|---|---|---|---|---|---|---|---|---|
+| `reason` | absent | path reason | `unresolved_boundary` | `absent_in_complete_scan` | yes | yes | yes | yes |
+| binding: `provision_id`, `canonical_text_sha256`, `projection_version`, `source_release_id` | yes | yes | yes | yes | yes | yes | absent; `projection_binding` and `current_binding` instead | absent |
+| `normalised_path` | yes | yes | yes | yes | yes | yes | yes | absent |
+| `scan_status`, `scan_reasons` | yes | yes | yes | yes, `complete` | absent | yes | absent | absent |
+| `ambiguity` | absent | `path` | `span` | absent | absent | absent | absent | absent |
+| `node_id` | yes | absent | yes | absent | absent | absent | absent | absent |
+| `span`, `text` | yes | absent | absent | absent | absent | absent | absent | absent |
+| `certain_span`, `unresolved_segments` | absent | absent | yes | absent | absent | absent | absent | absent |
+| `candidates` | absent | yes, at least one | absent | absent | absent | absent | absent | absent |
+
+- **Scan fields.** `scan_status` and `scan_reasons` describe the last step's (P, k), with the
+  reasons in G1.6's order. They are `null` and `[]` when no step ran: the root locator, and
+  branch L0.
+- **Text.** `text` is the exact substring of the current canonical text at `span`.
+- **What no other outcome does.** No outcome other than `resolved` returns text as an exact
+  match.
+- **What the schema cannot check.** JSON Schema cannot check the semantic links: `text` against
+  `span`, the hash against the text, the `node_id` prefix against the binding. The fixture
+  verifier checks those separately.
 
 ### G1.8 Glossary comparison, determinism and reporting
 
@@ -675,35 +810,110 @@ subsection.
   before the separator, at `[273,1011)`.
 - **Determinism.** Output is UTF-8 JSON with sorted keys, nodes in document order and no floats.
   Two runs on the same input must be byte-identical.
-- **Reporting.** Results are reported under D4 and V2 §7.
+- **Reporting.** Results are reported under D4 and V2 §7: resolved-correct, resolved-wrong and
+  abstained, by mode.
 - **Expected coverage.** The tail rule makes `complete` abstain for the last fraction in about
   69% of fraction articles (245 of 357). That is a coverage result to report, not to hide.
+- **Where the counts come from.** Every count in this contract comes from the committed probe
+  `measure.py` in the fixture folder (G1.9). Its draft-2 run read the three corpus files at
+  input commit `c1f3cbf06`; those files are byte-identical to the G0 pin `c337dae1a`. The SHA-256
+  values were:
+  - `lritf`: `ecc7bec2…ef65d`;
+  - `lic`: `c422fafb…b1118`;
+  - `lmv`: `b2cc66b6…0fb70`.
+
+  G3 can re-run the probe and bind the counts to its own input.
 
 ### G1.9 Expected behaviour and how it was derived
 
-`fixtures/fintech-structural-g1-2026-11-14/expected-behaviour.json` holds 73 rows:
-- **40 development queries.** These are the 23 G0 development queries in all three modes, plus
-  17 more on development provisions: tails, continuation between siblings, the `lmv` 2 same-line
-  `e)`, gaps, values above the highest label and incomplete paths. Each G0 query's label span
-  equals the G0 gold span; `verify.py` checks this.
-- **33 rows from 13 synthetic texts.** They cover `.-`, a same-line fraction, `Quáter`
-  matching, an `unsupported_marker`, a gap, a sequence break, a closing article note, incisos
-  with an ambiguous parent, a lone `L`, invalid locators, a stale projection, a
-  `post_child_attachment`, and a continuation paragraph before a first inciso.
+The fixture folder `fixtures/fintech-structural-g1-2026-11-14/` holds:
+- **`expected-behaviour.json`.** One row per query, giving each mode's outcome, reason,
+  ambiguity kind and spans. Each row also names the deciding stage or branch (`V`, `S`, `N`, `R`
+  or L0–L7) and lists the other branches whose conditions also hold. Row counts are in that
+  file and in the verifier's output.
+  - **Development rows.** These are the 23 G0 development queries in all three modes, plus rows
+    on development provisions: tails, continuation between siblings, the `lmv` 2 same-line `e)`,
+    gaps, values above the highest label, incomplete paths, and two root lookups. Each G0
+    query's label span equals the G0 gold span.
+  - **Synthetic rows.** They cover:
+    - `.-`, a same-line fraction, `Quáter` matching, an `unsupported_marker`, a gap, a sequence
+      break and a closing note;
+    - incisos with an ambiguous parent, a lone `L`, invalid requests of every reason, and a
+      stale projection;
+    - a `post_child_attachment` and a continuation before a first inciso;
+    - Codex's interrupted-note witness;
+    - scan precedence, with a repeated label and an unsupported marker together;
+    - a same-line candidate inside a tail;
+    - a node cut by both a same-line candidate and a tail;
+    - an article with no fraction, with root-child incisos and a root lookup.
+- **`responses.json`.** Full response instances for every outcome and both ambiguity kinds.
+  Among them are an invalid mode, an unknown key, a `node_id` request, a malformed value, a
+  successful root lookup, a root-child inciso and a stale binding. Each is tied to a row and a
+  mode.
+- **`responses-must-fail.json`.** Responses that break one presence or type rule each, which
+  the schema must reject.
+- **`projection-example.json`.** One full projection, for the synthetic article with no
+  fraction.
+- **`projection.schema.json`.** The pilot-only schema for projections, requests and responses.
+  It is not under `schemas/`.
+- **`schema-check/`.** A standalone Rust checker, outside the workspace and built offline from
+  the workspace's pinned `jsonschema` 0.33. It checks:
+  - the schema against its declared draft 2020-12 meta-schema;
+  - every `responses.json` instance and the projection example against the schema;
+  - every must-fail instance, which must be rejected;
+  - each response's echoed `request`, which must match the request definition exactly when the
+    outcome is not `invalid_locator`, and must not match it otherwise.
+
+  Run it with
+  `cargo run --offline --locked --manifest-path fixtures/fintech-structural-g1-2026-11-14/schema-check/Cargo.toml`.
+- **`verify.py`.** It implements no G1 rule. It checks:
+  - text hashes, exact quotes, and agreement with the G0 gold label spans;
+  - span boundaries;
+  - coverage of every branch, and of the branch pairs that show an earlier branch winning: L1
+    over L2, L1 over L4, L2 over L3, L2 over L4, and L3 over L4;
+  - the outcome and reason that each branch allows;
+  - each full response against its row, and the semantic links that the schema cannot check.
+- **`measure.py`.** The probe behind the quoted counts. It reads only
+  `corpus/mx/{lritf,lic,lmv}/provisions.json` and drops the eight holdout IDs before reading any
+  text. It prints the input commit and file hashes with the counts. It is evidence for G1.3,
+  G1.4 and G1.8, not the projection.
 
 **Derivation.** Every span was read by hand from a paragraph table and entered by hand. The
-table lists each paragraph's start, length and opening characters. A probe of the G1.3 patterns
-and G1.4 tail rule over non-holdout articles supplied the counts quoted above. It also surfaced
-the `lmv` 2 same-line `e)`, whose spans were then read and entered by hand. The probe is
-session-scoped author evidence and is not committed. `verify.py` in that folder checks the
-following, and implements no G1 rule:
-- text hashes;
-- exact label quotes, and agreement with the G0 gold label spans;
-- that each span ends at a paragraph boundary or, for a certain span before a same-line
-  candidate, just before that candidate's whitespace;
-- that each intro starts after the label's whitespace.
+table lists each paragraph's start, end and text or opening characters. A script added
+substring hashes, quotes, the node-ID hash prefix and the JSON layout; no scanner, recognizer
+or probe produced any expectation.
 
 **Compatibility with the sealed holdout.** This contract was frozen without the holdout answers.
-A reviewer may compare it with them privately. If a rule contradicts a sealed answer, G0 v1 is
-kept and the change is versioned under the disposition's condition 3; the conflicting case is
-not disclosed to the builder.
+Codex's review found at least one sealed G0 answer incompatible with draft 1 (R6), without
+naming it. Draft 2 was not adjusted toward it. After freeze, an independent evaluator compares
+the frozen contract with the sealed answers privately. Any versioned gold or compatibility
+record follows G0 condition 3: G0 v1 is kept unchanged, and no case is disclosed to the builder.
+
+### G1.10 Changes in draft 2
+
+| Review item | Change | Public witness |
+|---|---|---|
+| R1 | The lookup is a strict branch table (L0–L7). Ambiguous parenthood (L1) comes before unique resolution (L4). Tail incisos match under each candidate parent, take part in no sequence, and add `tail_inciso` to T's inciso scan, so they block `not_found` | `g1-syn-08-tail-incisos-q2`, new `-q4`, `g1-syn-17-*` |
+| R2 | Scans keep every reason and reduce deterministically: `sequence_break` makes a scan `ambiguous`, any other reason makes it `partial`. Candidates that carry the label (L2) come before a sequence break (L3) | `g1-syn-15-*`, `g1-syn-16-*` |
+| R3 | Closing and interior notes are defined. An interior note starts a `note_interruption` segment for the unlabelled paragraphs after it. An inciso after an interior note, outside the tail, fails closed. A table says which source cuts which span, and the earliest cut wins. A post-child segment cuts only the inciso. The intro and complete spans of the root, including in an article with no marker, are explicit. In an article with no fraction, incisos have resolved root parenthood | `g1-syn-14-*` (Codex's text), `g1-syn-18-*`, `g1-syn-19-*`, `g1-syn-12-*` unchanged, `g1-dev-root-*` |
+| R4 | The request and the response are fully specified: a raw request echo, a nullable mode, a reason on every outcome except `resolved`, fields per outcome, `path` versus `span` ambiguity, and both bindings on a stale response. The node-ID pattern now accepts `i.a.1`. There are full and must-fail instances and a re-runnable meta-schema check | `responses.json`, `responses-must-fail.json`, `projection-example.json`, `schema-check/` |
+| R5 | `node_id` requests are deferred, matching V2. The root has its own locator, `{"article_root": true}`, so `{}` is invalid. The locator syntax is frozen | `g1-syn-10-*` |
+| R6 | No change. Left to the independent evaluator after freeze | none |
+
+**Changed expectations from draft 1:**
+- **Representation only, for all rows.** Each row now names its deciding branch, and each
+  ambiguous result names its ambiguity kind. `not_found` rows gain the reason
+  `absent_in_complete_scan`, and `invalid_locator` rows gain their reasons.
+- **`g1-syn-10-invalid-locators-q5`.** The locator `{}` was invalid only in `label` mode,
+  standing for the root. It is now `invalid_locator` (`empty_locator`) in every mode. The root
+  is requested with `{"article_root": true}`.
+- **`g1-syn-10-invalid-locators-q6`.** The invalid mode `body` is now given as a raw request,
+  under the key `request`, with the reason `unknown_mode`.
+- **Node paths.** Qualifier spelling in a path is now canonical (`Quater`). No draft-1 row
+  showed a `Quáter` path.
+- **No span or outcome of a draft-1 row changed.** The truncation table was checked against
+  every draft-1 row. In particular, `g1-syn-12-post-child-attachment-q1` stays resolved, because
+  the post-child segment cuts only the inciso `b)`.
+- **No-fraction tails.** No draft-1 row covered an article with no fraction that has incisos
+  (measured: 4 such articles outside the holdout, none with paragraphs after the last inciso),
+  so the new rule changes no earlier row.
