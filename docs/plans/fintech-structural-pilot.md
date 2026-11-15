@@ -403,6 +403,19 @@ scan of all four inputs, exact staged-content comparison, and staged whitespace
 checks. No Cargo gate repeated; no code, corpus or trusted schema changed.
 No push or merge authorized or performed.
 
+## G1 review checkpoint, 2026-11-14
+
+Codex reviewed the draft at `c35bb1f91` and returned **revise** in
+`docs/fintech-pilot-g1-codex-review-2026-11-14.md`. G1 remains unapproved.
+The review accepts D8 and conservative tail abstention, but requires ordered
+lookup, scan precedence, ownership/span, response-schema and node-ID contract
+repairs. A private sealed-answer compatibility conflict requires independent
+versioning after contract freeze; G0 v1 stays unchanged. Backup custody still
+blocks G2 separately.
+
+**Current next action:** builder revises the public G1 contract/schema/examples
+against the review and submits a new commit-bound G1 review. No G2 work yet.
+
 ## G1 contract, pilot-v1 (draft for Codex review, 2026-11-14)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
