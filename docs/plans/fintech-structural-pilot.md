@@ -512,16 +512,27 @@ them but never turns them into nodes.
 - **Root.** Every eligible provision has one synthetic `article_root`. It inherits the
   provision ID and creates no canonical provision.
 - **Fractions.** Fractions are children of the root.
+- **Regions.** A position is in the region of node N when N is the innermost node whose region
+  contains it.
+  - The root's region is the whole text.
+  - A fraction's region runs from its marker paragraph to the paragraph before the next
+    fraction marker, or to the end of the text.
+  - An inciso's region runs from its marker paragraph to the paragraph before the next marker
+    paragraph of any kind, or to the end of its parent's region. It never extends past the
+    start of the tail (below), so the tail lies in T's region and not in the region of an inciso
+    of T's run.
+  - A tail inciso's region runs from its marker paragraph to the paragraph before the next
+    marker paragraph, or to the end of the text.
 - **Incisos.**
   - In an article with fractions, incisos inside a fraction's region are that fraction's
-    children. A fraction's region runs from its marker paragraph to the paragraph before the
-    next fraction marker, or to the end of the text.
+    children.
   - In an article with no fraction, every inciso is a child of the root, and its parenthood is
     resolved.
   - **Unmodelled layouts (fail closed, G1.2).** An inciso before the first fraction of an
     article that has fractions makes the provision `not_structured` (`unexpected_layout`). So
     does an inciso that follows an interior note with no fraction marker between them, except
-    inside the tail. Measured: neither occurs in non-holdout articles.
+    inside the tail. Measured: neither occurs in non-holdout articles (probe counters
+    `inciso_before_first_fraction` and `inciso_after_interior_note_outside_tail`, both 0).
 - **The last run and the tail, in an article with fractions.** Let T be the last fraction.
   - **T's run** is T's marker paragraph followed by incisos in strictly increasing letter order,
     starting with the very next paragraph. Only `content` paragraphs may sit between two incisos
@@ -587,8 +598,9 @@ them but never turns them into nodes.
 - **`intro_span` of the root.** It runs from 0 to the end of the last paragraph that comes before
   the first child marker and is not an article note. With no child marker the limit is the end
   of the text, so the intro of an article with no marker is all of its text except its closing
-  notes. The intro is `[0,0)` when no such paragraph exists. It is ambiguous when a same-line
-  candidate or an `unsupported_marker` paragraph lies inside it.
+  notes. The intro is `[0,0)` when no such paragraph exists, as when the text opens with a
+  marker; an `intro` lookup then resolves to that empty span, with empty text. It is ambiguous
+  when a same-line candidate or an `unsupported_marker` paragraph lies inside it.
 - **`complete_span` of the root.** The whole text, always resolved.
 - **`complete_span` of a non-root node.** It runs from the label start to the end of the last
   paragraph that the node or one of its descendants certainly owns. It never includes the
@@ -658,10 +670,20 @@ them but never turns them into nodes.
     evidence;
   - otherwise `partial` if any reason is present;
   - otherwise `complete`.
-- **Who holds a candidate.** A same-line candidate of kind k, found in the region of node N, is
-  held by P: N itself or N's nearest ancestor that can hold kind k. That is the root for
-  fractions, and the fraction (or the root, in an article with no fraction) for incisos. An
-  `unsupported_marker` owned by N is held by N and by each of N's ancestors.
+- **Who holds a candidate.**
+  - A same-line candidate of kind k, found in the region of node N (G1.4), is held by P: N
+    itself or N's nearest ancestor that can hold kind k. That is the root for fractions, and the
+    fraction (or the root, in an article with no fraction) for incisos. For a candidate in a
+    tail inciso's region, P is T.
+  - **No holder.** A same-line inciso candidate in the root's own region of an article with
+    fractions (its chapeau) has no holder. It adds no scan reason and takes part in no lookup.
+    It still cuts the root's intro (G1.5), and its segment's only candidate owner is the root.
+  - **Measured.** Of the 26 same-line inciso candidates in non-holdout articles:
+    - 20 sit in an inciso's region;
+    - 3 sit in a fraction's region outside any inciso;
+    - 3 sit in a tail;
+    - none sits in a chapeau or in an article with no fraction.
+  - An `unsupported_marker` owned by N is held by N and by each of N's ancestors.
 - **What a candidate carries.**
   - A same-line candidate carries the label that `fraction_marker` or its letter gives it.
   - An `unsupported_marker` that starts with Roman capitals carries that numeral's value. It
@@ -815,14 +837,10 @@ it does not depend on which check failed. The schema enforces the presence rules
 - **Expected coverage.** The tail rule makes `complete` abstain for the last fraction in about
   69% of fraction articles (245 of 357). That is a coverage result to report, not to hide.
 - **Where the counts come from.** Every count in this contract comes from the committed probe
-  `measure.py` in the fixture folder (G1.9). Its draft-2 run read the three corpus files at
-  input commit `c1f3cbf06`; those files are byte-identical to the G0 pin `c337dae1a`. The SHA-256
-  values were:
-  - `lritf`: `ecc7bec2…ef65d`;
-  - `lic`: `c422fafb…b1118`;
-  - `lmv`: `b2cc66b6…0fb70`.
-
-  G3 can re-run the probe and bind the counts to its own input.
+  `measure.py` in the fixture folder (G1.9). Its full output, with the input commit and the full
+  SHA-256 of each corpus file it read, is committed beside it as `measure-output.txt`. The input
+  files are byte-identical to the G0 pin `c337dae1a`. G3 can re-run the probe and bind the
+  counts to its own input.
 
 ### G1.9 Expected behaviour and how it was derived
 
@@ -845,11 +863,17 @@ The fixture folder `fixtures/fintech-structural-g1-2026-11-14/` holds:
     - scan precedence, with a repeated label and an unsupported marker together;
     - a same-line candidate inside a tail;
     - a node cut by both a same-line candidate and a tail;
-    - an article with no fraction, with root-child incisos and a root lookup.
+    - an article with no fraction, with root-child incisos and a root lookup;
+    - layouts that fail closed: a lone `\n`, an inciso before the first fraction, and an inciso
+      after an interior note;
+    - a same-line inciso in a fraction article's chapeau.
 - **`responses.json`.** Full response instances for every outcome and both ambiguity kinds.
-  Among them are an invalid mode, an unknown key, a `node_id` request, a malformed value, a
-  successful root lookup, a root-child inciso and a stale binding. Each is tied to a row and a
-  mode.
+  Among them are:
+  - an invalid mode, an unknown key, a `node_id` request and a malformed value;
+  - a successful root lookup, an empty root intro and a root-child inciso;
+  - a stale binding and an `unexpected_layout`.
+
+  Each is tied to a row and a mode.
 - **`responses-must-fail.json`.** Responses that break one presence or type rule each, which
   the schema must reject.
 - **`projection-example.json`.** One full projection, for the synthetic article with no
@@ -875,8 +899,9 @@ The fixture folder `fixtures/fintech-structural-g1-2026-11-14/` holds:
   - each full response against its row, and the semantic links that the schema cannot check.
 - **`measure.py`.** The probe behind the quoted counts. It reads only
   `corpus/mx/{lritf,lic,lmv}/provisions.json` and drops the eight holdout IDs before reading any
-  text. It prints the input commit and file hashes with the counts. It is evidence for G1.3,
-  G1.4 and G1.8, not the projection.
+  text. It prints the input commit, the file hashes and every named counter, zeros included;
+  `measure-output.txt` is its committed output. It is evidence for G1.3, G1.4, G1.6 and G1.8,
+  not the projection.
 
 **Derivation.** Every span was read by hand from a paragraph table and entered by hand. The
 table lists each paragraph's start, end and text or opening characters. A script added
@@ -898,6 +923,9 @@ record follows G0 condition 3: G0 v1 is kept unchanged, and no case is disclosed
 | R3 | Closing and interior notes are defined. An interior note starts a `note_interruption` segment for the unlabelled paragraphs after it. An inciso after an interior note, outside the tail, fails closed. A table says which source cuts which span, and the earliest cut wins. A post-child segment cuts only the inciso. The intro and complete spans of the root, including in an article with no marker, are explicit. In an article with no fraction, incisos have resolved root parenthood | `g1-syn-14-*` (Codex's text), `g1-syn-18-*`, `g1-syn-19-*`, `g1-syn-12-*` unchanged, `g1-dev-root-*` |
 | R4 | The request and the response are fully specified: a raw request echo, a nullable mode, a reason on every outcome except `resolved`, fields per outcome, `path` versus `span` ambiguity, and both bindings on a stale response. The node-ID pattern now accepts `i.a.1`. There are full and must-fail instances and a re-runnable meta-schema check | `responses.json`, `responses-must-fail.json`, `projection-example.json`, `schema-check/` |
 | R5 | `node_id` requests are deferred, matching V2. The root has its own locator, `{"article_root": true}`, so `{}` is invalid. The locator syntax is frozen | `g1-syn-10-*` |
+| R3 | Regions are defined for every node kind, so the same-line cut rule has a defined input. A same-line inciso in a fraction article's chapeau has no holder. Inciso layouts the pilot does not model fail closed | `g1-syn-20-*` to `g1-syn-23-*`, `g1-dev-sameline-lmv2-xix-d` unchanged |
+| R3 | The root intro leaves out article notes, and an empty root intro resolves to `[0,0)`. This answers "define root-without-markers intro/complete explicitly" | `g1-dev-root-lic11`, `g1-syn-14-interior-note-q3` |
+| R4 | Node paths and normalised paths use the canonical qualifier name (`Quater`), so one spelling serves the response's `normalised_path` and every print variant | `g0-dev-10-q3` response (`f.XXVI_Bis.1`) |
 | R6 | No change. Left to the independent evaluator after freeze | none |
 
 **Changed expectations from draft 1:**

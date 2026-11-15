@@ -38,7 +38,7 @@ conflict with a sealed answer (R6). Draft 2 in the pilot plan fixes R1–R5. It 
   `node_id` requests.
 
 `fixtures/fintech-structural-g1-2026-11-14/` now holds:
-- 110 hand-derived rows, with the 73 draft-1 rows unchanged apart from two representation fixes;
+- 116 hand-derived rows, with the 73 draft-1 rows unchanged apart from two representation fixes;
 - full and must-fail responses;
 - a schema checker that runs offline;
 - the committed measurement probe.

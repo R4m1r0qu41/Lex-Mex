@@ -3571,6 +3571,14 @@
       67
      ],
      "substring_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      0
+     ],
+     "substring_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
    },
    "locator": {
@@ -4618,6 +4626,208 @@
    "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-19-no-fraction-incisos",
    "synthetic_text": "Texto:\n\na) Alfa.\n\nb) Beta.\n\nCierre.",
    "synthetic_text_sha256": "e1e3ec52d478cbf0dbfdf688b338d556d4b758301c4590c33d27160904a3f898"
+  },
+  {
+   "case_id": "g1-syn-20-inciso-before-first-fraction-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-20-inciso-before-first-fraction",
+   "synthetic_text": "Texto:\n\na) Alfa.\n\nI. Uno.",
+   "synthetic_text_sha256": "185a2d53414757afb34295e8b24ea76743b1fa77129ec68dac24b9c332ce98d2"
+  },
+  {
+   "case_id": "g1-syn-21-inciso-after-interior-note-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-21-inciso-after-interior-note",
+   "synthetic_text": "Texto:\n\nI. Uno.\n\nArtículo reformado DOF 01-01-2020\n\na) Alfa.\n\nII. Dos.",
+   "synthetic_text_sha256": "61e577a2a3c01b93da8bb2cd475a3a79f4d6944815298a1caa6489d2613e34a3"
+  },
+  {
+   "case_id": "g1-syn-22-lone-newline-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "N"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "unexpected_layout"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-22-lone-newline",
+   "synthetic_text": "Texto:\nI. Uno.",
+   "synthetic_text_sha256": "4d112ac77aa45da8d3c3b04a4ab753c38a789ac029517c38db058a0903ba60a9"
+  },
+  {
+   "case_id": "g1-syn-23-same-line-inciso-in-chapeau-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      24
+     ],
+     "substring_sha256": "e55cc7b805184e0dd914da72c590bc8c2a77448ef417e0354fd03c7ae5755a09"
+    },
+    "intro": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      6
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "root"
+       ],
+       "end_char": 15,
+       "reason": "same_line_marker",
+       "start_char": 7
+      }
+     ]
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-23-same-line-inciso-in-chapeau",
+   "synthetic_text": "Texto: a) alfa.\n\nI. Uno.",
+   "synthetic_text_sha256": "e55cc7b805184e0dd914da72c590bc8c2a77448ef417e0354fd03c7ae5755a09"
+  },
+  {
+   "case_id": "g1-syn-23-same-line-inciso-in-chapeau-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      17,
+      24
+     ],
+     "substring_sha256": "706034fc0b2e0b08bdf6eacff2a0d80806c309160090f3ca883254d342f5e02a"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      20,
+      24
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      17,
+      19
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-23-same-line-inciso-in-chapeau",
+   "synthetic_text": "Texto: a) alfa.\n\nI. Uno.",
+   "synthetic_text_sha256": "e55cc7b805184e0dd914da72c590bc8c2a77448ef417e0354fd03c7ae5755a09"
+  },
+  {
+   "case_id": "g1-syn-23-same-line-inciso-in-chapeau-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "L0"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "incomplete_path"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "incomplete_path"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "incomplete_path"
+    }
+   },
+   "locator": {
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-23-same-line-inciso-in-chapeau",
+   "synthetic_text": "Texto: a) alfa.\n\nI. Uno.",
+   "synthetic_text_sha256": "e55cc7b805184e0dd914da72c590bc8c2a77448ef417e0354fd03c7ae5755a09"
   }
  ],
  "contract": "pilot-v1 G1 draft 2, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",

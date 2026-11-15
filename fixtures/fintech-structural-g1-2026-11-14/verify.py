@@ -75,13 +75,17 @@ def allowed(branch, mode, result):
 def check_span_result(text, cid, mode, result, label, is_root):
     if result['outcome'] == 'resolved':
         start, end = result['span']
-        require(0 <= start < end <= len(text), 'range ' + cid + ' ' + mode)
+        empty_root_intro = is_root and mode == 'intro' and start == end == 0
+        require(0 <= start < end <= len(text) or empty_root_intro, 'range ' + cid + ' ' + mode)
         require(sha(text[start:end]) == result['substring_sha256'], 'substring ' + cid)
         if mode == 'label':
             require(text[start:end] == result['exact_quote'], 'label quote ' + cid)
             require(paragraph_start(text, start), 'label not at paragraph start ' + cid)
-        else:
+        elif not empty_root_intro:
             require(paragraph_end(text, end), mode + ' end not at paragraph end ' + cid)
+        if empty_root_intro:
+            require(text.startswith(('I', 'V', 'X', 'L', 'C')) or text[:2].endswith(')'),
+                    'empty root intro needs a text that opens with a marker ' + cid)
         if is_root:
             require(start == 0, 'root span start ' + cid)
             if mode == 'complete':
@@ -241,14 +245,17 @@ def main():
                   ('invalid_locator', 'not_structured') else None))
         if resp['outcome'] == 'resolved':
             seen.add(('resolved-path', resp['node_id'][len(prefix):].split('.')[0]))
+            if resp['span']['start_char'] == resp['span']['end_char']:
+                seen.add(('resolved-empty-root-intro',))
     for needed in [('resolved', None, None), ('ambiguous', 'path', None), ('ambiguous', 'span', None),
                    ('not_found', None, None), ('not_structured', None, 'unsupported_scope'),
+                   ('not_structured', None, 'unexpected_layout'),
                    ('not_structured', None, 'partial_scan'), ('not_structured', None, 'sequence_gap'),
                    ('not_structured', None, 'sequence_break'), ('stale_projection', None, None),
                    ('invalid_locator', None, 'unknown_mode'), ('invalid_locator', None, 'unknown_key'),
                    ('invalid_locator', None, 'unsupported_request_form'),
                    ('invalid_locator', None, 'malformed_request'), ('resolved-path', 'root'),
-                   ('resolved-path', 'i')]:
+                   ('resolved-path', 'i'), ('resolved-empty-root-intro',)]:
         require(needed in seen, 'responses do not cover ' + str(needed))
 
     must_fail = json.loads((ROOT / 'responses-must-fail.json').read_text(encoding='utf-8'))['cases']

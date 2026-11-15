@@ -608,6 +608,56 @@
      "provision_id": "urn:lex-mx:federal:statute:lritf:article:9999"
     }
    }
+  },
+  {
+   "case_id": "g1-syn-20-inciso-before-first-fraction-q1",
+   "mode_key": "complete",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "185a2d53414757afb34295e8b24ea76743b1fa77129ec68dac24b9c332ce98d2",
+    "mode": "complete",
+    "normalised_path": "f.I",
+    "outcome": "not_structured",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:synthetic:g1-syn-20-inciso-before-first-fraction",
+    "reason": "unexpected_layout",
+    "request": {
+     "locator": {
+      "fraction": "I"
+     },
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-20-inciso-before-first-fraction"
+    },
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722"
+   }
+  },
+  {
+   "case_id": "g1-syn-14-interior-note-q3",
+   "mode_key": "intro",
+   "response": {
+    "artifact": "structural-lookup-response",
+    "canonical_text_sha256": "9bea98a53092f785618598201eff9a2359cc1cb5b6a3a002ccc7173d2c36582d",
+    "mode": "intro",
+    "node_id": "urn:lex-mx:synthetic:g1-syn-14-interior-note#pilot-v1:9bea98a53092:root",
+    "normalised_path": "root",
+    "outcome": "resolved",
+    "projection_version": "pilot-v1",
+    "provision_id": "urn:lex-mx:synthetic:g1-syn-14-interior-note",
+    "request": {
+     "locator": {
+      "article_root": true
+     },
+     "mode": "intro",
+     "provision_id": "urn:lex-mx:synthetic:g1-syn-14-interior-note"
+    },
+    "scan_reasons": [],
+    "scan_status": null,
+    "source_release_id": "local-c337dae1af9474d0aef246b3de196c49e2527722",
+    "span": {
+     "end_char": 0,
+     "start_char": 0
+    },
+    "text": ""
+   }
   }
  ]
 }

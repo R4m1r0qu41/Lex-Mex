@@ -103,6 +103,74 @@ def same_line(paragraph):
     return fractions, len(SAME_LINE_INCISO.findall(paragraph))
 
 
+NAMED_COUNTS = [
+    'eligible_articles', 'unexpected_layout', 'class_F', 'class_I', 'class_N', 'class_U', 'class_C',
+    'same_line_fraction', 'same_line_inciso', 'same_line_inciso_in_fraction_article_chapeau',
+    'same_line_inciso_in_fraction_region', 'same_line_inciso_in_inciso_region', 'same_line_inciso_in_tail',
+    'same_line_inciso_in_no_fraction_article', 'fraction_sequence_breaks', 'inciso_sequence_breaks',
+    'articles_with_fraction_gap', 'fraction_articles', 'tail', 'tails_with_incisos', 'ends_on_marker',
+    'ends_on_notes', 'interior_notes', 'interior_notes_inside_tails', 'no_fraction_inciso_articles',
+    'no_fraction_inciso_articles_with_tail', 'inciso_before_first_fraction',
+    'inciso_after_interior_note_outside_tail',
+]
+
+
+def tail_start(kinds):
+    """Index of the first tail paragraph under G1.4, or None when there is no tail."""
+    marks = [i for i, (kind, _) in enumerate(kinds) if kind in 'FI']
+    if not marks:
+        return None
+    if any(kind == 'F' for kind, _ in kinds):
+        last = max(i for i, (kind, _) in enumerate(kinds) if kind == 'F')
+        j, letters = last + 1, []
+        for index in range(last + 1, len(kinds)):
+            kind, label = kinds[index]
+            if kind == 'I' and (not letters or label > letters[-1]) and (letters or index == last + 1):
+                letters.append(label)
+                j = index + 1
+            elif kind == 'C' and letters:
+                continue
+            else:
+                break
+    else:
+        j = max(i for i, (kind, _) in enumerate(kinds) if kind == 'I') + 1
+    remainder = [kind for kind, _ in kinds[j:]]
+    return j if any(kind != 'N' for kind in remainder) else None
+
+
+def layout_facts(kinds, same_line_incisos, counts):
+    """Counts for the two fail-closed layouts and where same-line inciso candidates sit."""
+    has_fraction = any(kind == 'F' for kind, _ in kinds)
+    first_fraction = next((i for i, (kind, _) in enumerate(kinds) if kind == 'F'), None)
+    start = tail_start(kinds)
+    if has_fraction and any(kind == 'I' for kind, _ in kinds[:first_fraction]):
+        counts['inciso_before_first_fraction'] += 1
+    for index, (kind, _) in enumerate(kinds):
+        if kind != 'N' or not any(k != 'N' for k, _ in kinds[index + 1:]):
+            continue
+        if start is not None and index >= start:
+            continue
+        for later, _ in kinds[index + 1:]:
+            if later == 'F':
+                break
+            if later == 'I':
+                counts['inciso_after_interior_note_outside_tail'] += 1
+                break
+    for index, n in enumerate(same_line_incisos):
+        if not n:
+            continue
+        if not has_fraction:
+            where = 'no_fraction_article'
+        elif index < first_fraction:
+            where = 'fraction_article_chapeau'
+        elif start is not None and index >= start:
+            where = 'tail'
+        else:
+            nearest = next(kind for kind, _ in reversed(kinds[:index + 1]) if kind in 'FI')
+            where = 'inciso_region' if nearest == 'I' else 'fraction_region'
+        counts['same_line_inciso_in_' + where] += n
+
+
 def main():
     commit = subprocess.run(['git', 'rev-parse', 'HEAD'], capture_output=True, text=True, check=True).stdout.strip()
     dirty = subprocess.run(['git', 'status', '--porcelain', '--', 'corpus/mx/lritf/provisions.json',
@@ -124,7 +192,7 @@ def main():
             counts['eligible_articles'] += 1
             if re.search(r'(?<!\n)\n(?!\n)', text) or '\n\n\n' in text or text != text.strip():
                 counts['unexpected_layout'] += 1
-            kinds, base = [], None
+            kinds, base, same_line_incisos = [], None, []
             for paragraph in text.split('\n\n'):
                 kind, label = classify(paragraph, base)
                 if kind == 'F':
@@ -134,8 +202,10 @@ def main():
                 f, i = same_line(paragraph)
                 counts['same_line_fraction'] += f
                 counts['same_line_inciso'] += i
+                same_line_incisos.append(i)
                 if (f or i) and provision['id'] in development:
                     dev_hits.append(provision['id'])
+            layout_facts(kinds, same_line_incisos, counts)
             for index, (kind, _) in enumerate(kinds):
                 if kind == 'N' and any(k != 'N' for k, _ in kinds[index + 1:]):
                     counts['interior_notes'] += 1
@@ -187,7 +257,9 @@ def main():
                 counts['ends_on_notes'] += 1
             else:
                 counts['ends_on_marker'] += 1
-    for key in sorted(counts):
+    unnamed = sorted(set(counts) - set(NAMED_COUNTS))
+    assert not unnamed, unnamed
+    for key in NAMED_COUNTS:
         print(f'{key}: {counts[key]}')
     print('development provisions with same-line candidates:', sorted(set(dev_hits)))
 
