@@ -83,6 +83,24 @@ created by JRH from `main` at `47a3ffc59`.
   it in one answer sheet, and Claude then records each resolution citing that confirmation. JRH
   chose this over letting a newer rule replace an accepted status.
 
+### Narrowed later the same day (JRH, 2026-11-16)
+
+JRH: "most should be reviewable without my input … I can take whatever is unclear after that".
+This narrows the path above. JRH no longer confirms clear cases one by one. Instead:
+- **Clear cases go by rule.** A case is clear when:
+  - its note parses whole (head, unit, ordinal and kind);
+  - its ruling is on the Cámara list, with effects from notification;
+  - the unit can be addressed.
+
+  These are applied by a deterministic rule with basis `deterministic_rule`, never
+  `lawyer_verified`. The rule may replace an earlier `deterministic_rule` result. It never
+  replaces a model or lawyer result, or a provision with a review item. Measured: all 133
+  accepted provisions that carry notes are `deterministic_rule` (132 `effective`, 1 `repealed`).
+- **Unclear cases go to JRH.** They appear on JRH's sheet, each with a recommended default and the
+  decision it rests on, so JRH answers by exception. Only those go through `review resolve`.
+- **The list becomes an audit report** for Codex and JRH, emitted by the Rust classifier with the
+  Python inventory as a second oracle.
+
 ## Order
 
 1. **LGPP end to end:** 106 provisions, with both note kinds, the 2014 and 2022 rulings and the
