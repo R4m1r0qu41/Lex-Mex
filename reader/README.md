@@ -52,6 +52,32 @@ Below 1100px the index and source panes become sheets over the reading column (f
 
 ## Verification
 
+For a bounded public-agent retrieval baseline, run:
+
+```sh
+node reader/retrieval-check.mjs --base-url https://www.leg4ll4bs.com/lex-mex/ > /tmp/lex-mex-retrieval.json
+```
+
+The checker follows `llms.txt` to its pinned release, the LRITF index and exact
+article labels 35 and 39 (`--articles 39,46` selects the IFPE pair). It records GET
+and HEAD separately, timing, bytes, SHA-256, selected response headers and
+redirects. Failed HEAD requests remain failures but do not stop successful GET
+traversal. It verifies the manifest's content ID and the retrieved index,
+Markdown and exact-text companion hashes; it does not independently validate
+legal meaning or canonical article identity. Bodies and cookies are omitted.
+
+Discovery and integrity verification have separate budgets. Defaults are 10 seconds
+per request, 2 MB per body, 24 discovery exchanges/8 MB, and 2,000 verification
+exchanges/128 MB. `--timeout-ms`, `--max-bytes`, `--max-requests`,
+`--max-total-bytes`, `--verification-max-requests` and
+`--verification-max-bytes` override those bounds. `--verify-manifest` explicitly
+opts into fetching all remaining manifest assets and may require larger limits
+for PDFs; it is not needed for the baseline. `--user-agent` permits controlled
+client-header comparisons. Exit 1 means a reported failure, not necessarily an
+origin outage. Run from independent networks and actual agent clients before
+claiming cross-client compatibility; changing a user agent is not a second
+independent client. Token usage and legal-answer quality are not measured.
+
 ```sh
 node --test reader/
 node reader/browser-check.mjs --publication .work/public-reader --out .work/browser-check.json
