@@ -64,6 +64,19 @@ The LGPP and LGIPE texts use a colour code:
 The retained text extraction keeps the brackets and parentheses but not the colours, and the
 printed notes name the invalid "porción normativa" where only part of a unit fell.
 
+## Follow-up answers (JRH, 2026-11-16)
+
+11. **Dates come from each ruling.** JRH: "the date should be taken from the rulling which is
+    available in this list https://www.diputados.gob.mx/LeyesBiblio/compila/declara.htm". The
+    printed note identifies the ruling. Its effective date is read from the ruling, reached
+    through the Cámara list of SCJN declarations, and is not taken from the note's text. This
+    refines decision 9, as the LGMIME decision required. The retained copy of each ruling is
+    hashed and its effects paragraph quoted, as for LGMIME.
+12. **No revival unless stated.** JRH: "in case it is invalidate 'plainly' no text comes back
+    in-force unless explicitly stated". A unit declared invalid with no statement that earlier
+    text "recupera su vigencia" has no text in force. The unit is `repealed`, or the article is
+    `partially_repealed` when only part fell.
+
 ## Corrections to earlier records
 
 - The [2026-11-13 table](lgpp-lgipe-invalidity-review-2026-11-12.md) covered only AI 71/2023.
@@ -90,8 +103,8 @@ Measured 2026-11-16 on `8949c8420`:
   Some hits may be the statute's own wording (`lrfiyii-art105` is likely one, not yet checked).
   The implementation must first list the actual note shapes, anchored on the Cámara note grammar.
   AI 71/2023 accounts for 291 matched provisions, in LGPP and LGIPE.
-- Not every note prints a notification date. Where one is missing, the date comes from the
-  ruling itself, as the LGMIME decision requires. Such cases go to JRH.
+- Not every note prints a notification date. Under decision 11 the date always comes from the
+  ruling, through the Cámara list of declarations, so a missing date in the note does not block.
 - Where a note invalidates a reformed article without saying that the earlier text "recupera su
   vigencia" (for example, `lgcs` arts. 1–3, "Artículo reformado DOF 27-12-2022 Artículo declarado
-  inválido"), whether the earlier text revives is a legal question for JRH, not for the rule.
+  inválido"), decision 12 applies: no earlier text revives.
