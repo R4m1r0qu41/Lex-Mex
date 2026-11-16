@@ -548,6 +548,23 @@ hierarchy. No G3 run, gold access, commit or push occurred in this review.
 `g1-draft3-compatibility-v1` disposition, then runs G3 against frozen `991b5dc85`.
 Original gold and the disclosed pre-freeze smoke deviation remain preserved.
 
+## G3 evaluator checkpoint, 2026-11-16
+
+Codex privately versioned and independently reviewed the sealed gold disposition,
+then ran one frozen-tool process at `991b5dc85` on exactly eight holdout provisions.
+See `docs/fintech-pilot-g3-holdout-results-2026-11-16.md`. Immutable prelocked score:
+39/42; 33 correct resolved results, 9 abstentions, zero wrong resolved/text/binding
+errors. Original positive-marker discovery: 12/14; one prose observation excluded
+before execution. All three modes were tested. No `not_found` result was exercised.
+Post-run QA attributes three unexpected abstentions to one prelocked gold/manual
+inventory error across modes; code follows G1. Neither score nor gold was repaired.
+Private answers remain evaluator-only; canonical data and frozen code are unchanged.
+
+**Current next action:** iterate evaluation with a fresh independently prepared,
+reviewed and frozen set before claiming clean G3 acceptance. Do not rerun this
+experiment, tune the implementation on private cases, or change its 39/42 score.
+No second evaluation, commit, push or public release was performed by this turn.
+
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's

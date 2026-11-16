@@ -64,9 +64,14 @@ the same day, in a leaner form: code and tests first, then one Codex review at t
 G2 is built in `1075a6ce7`: a read-only projection and lookup in `lex-core`, which passes every
 G1 fixture row and full response, with no parser or corpus change. Codex returned **revise**:
 some marker forms the contract lists were missed. `991b5dc85` fixes them. Codex accepted it on re-review
-([review](fintech-pilot-g2-rereview-codex-2026-11-16.md)), so it is the frozen pilot-v1 code. Next,
-an evaluator action: version the private gold, then run G3. The single-letter `A)` apartado form
-is deferred to pilot-v2.
+([review](fintech-pilot-g2-rereview-codex-2026-11-16.md)), so it is the frozen pilot-v1 code.
+Codex then privately versioned/reviewed the gold and ran G3 once: **39/42** prelocked
+matches, 33 correct resolved results and 9 abstentions, with zero wrong exact results.
+Post-run QA identifies a prelocked expectation error behind the three unexpected
+abstentions; the score remains unchanged. Recommendation: **iterate evaluation**
+with a fresh independently reviewed set, keeping code frozen. No second run or
+retrospective score repair. See [G3 results](fintech-pilot-g3-holdout-results-2026-11-16.md).
+The single-letter `A)` apartado form is deferred to pilot-v2.
 
 JRH also answered the LGPP/LGIPE questions on 2026-11-16 and widened them into a corpus-wide
 in-force rule ([decision](jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md)). No
