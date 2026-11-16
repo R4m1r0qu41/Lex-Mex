@@ -24,6 +24,9 @@ const HOLDOUT: [&str; 8] = [
 
 const G1: &str = "fixtures/fintech-structural-g1-2026-11-14";
 
+/// A release ID of the schema's `local-<40-hex commit>` shape for corpus sweeps.
+const SWEEP_RELEASE: &str = "local-0000000000000000000000000000000000000000";
+
 fn repo() -> PathBuf {
     PathBuf::from(env!("CARGO_MANIFEST_DIR")).join("../..")
 }
@@ -367,7 +370,7 @@ fn corpus_counts_match_the_probe() {
 /// it may never resolve to other text, and nothing may panic.
 #[test]
 fn corpus_sweep_label_lookups_are_never_wrong() {
-    let mut context = LookupContext::new("local-sweep");
+    let mut context = LookupContext::new(SWEEP_RELEASE);
     let mut ids = Vec::new();
     for slug in ["lritf", "lic", "lmv"] {
         let provisions = load(&format!("corpus/mx/{slug}/provisions.json"));
@@ -427,4 +430,216 @@ fn corpus_sweep_label_lookups_are_never_wrong() {
             .all(|o| ["resolved", "ambiguous", "not_structured"].contains(&o.as_str())),
         "{outcomes:?}"
     );
+}
+
+fn non_holdout_articles() -> Vec<(String, String)> {
+    let mut out = Vec::new();
+    for slug in ["lritf", "lic", "lmv"] {
+        let provisions = load(&format!("corpus/mx/{slug}/provisions.json"));
+        for provision in provisions.as_array().expect("provisions") {
+            let id = provision["id"].as_str().expect("id");
+            if HOLDOUT.contains(&id) || provision["provision_type"] != "article" {
+                continue;
+            }
+            out.push((
+                id.to_owned(),
+                provision["text"].as_str().expect("text").to_owned(),
+            ));
+        }
+    }
+    out
+}
+
+/// Second oracle, structural counters (G1.9): tails with incisos, sequence
+/// breaks, no-fraction articles, and where same-line candidates sit, derived
+/// from the projection JSON and compared with the committed probe. These
+/// tests read the current corpus files, so they must be re-baselined with the
+/// probe whenever `lritf`, `lic` or `lmv` text changes. Aggregates only.
+#[test]
+fn corpus_structure_counters_match_the_probe() {
+    let output = std::fs::read_to_string(repo().join(format!("{G1}/measure-output.txt")))
+        .expect("probe output");
+    let probe: BTreeMap<&str, usize> = output
+        .lines()
+        .filter_map(|line| {
+            let (key, value) = line.split_once(": ")?;
+            Some((key, value.parse().ok()?))
+        })
+        .collect();
+    let mut got: BTreeMap<&str, usize> = BTreeMap::new();
+    for key in [
+        "fraction_articles",
+        "tails_with_incisos",
+        "fraction_sequence_breaks",
+        "inciso_sequence_breaks",
+        "no_fraction_inciso_articles",
+        "no_fraction_inciso_articles_with_tail",
+        "same_line_inciso_in_fraction_article_chapeau",
+        "same_line_inciso_in_fraction_region",
+        "same_line_inciso_in_inciso_region",
+        "same_line_inciso_in_tail",
+        "same_line_inciso_in_no_fraction_article",
+    ] {
+        got.insert(key, 0);
+    }
+    let mut bump = |key: &'static str| *got.get_mut(key).expect(key) += 1;
+    for (id, text) in non_holdout_articles() {
+        let projection = Projection::build(&id, &text, true, "local-test").to_json();
+        let nodes = projection["nodes"].as_array().cloned().unwrap_or_default();
+        let has_fraction = nodes.iter().any(|n| n["kind"] == "fraction");
+        let has_inciso = nodes.iter().any(|n| n["kind"] == "inciso");
+        let segments = projection["unresolved_segments"]
+            .as_array()
+            .cloned()
+            .unwrap_or_default();
+        let tail = segments
+            .iter()
+            .find(|s| s["reason"] == "trailing_attachment")
+            .map(|s| (s["start_char"].as_u64(), s["end_char"].as_u64()));
+        if has_fraction {
+            bump("fraction_articles");
+        }
+        if nodes
+            .iter()
+            .any(|n| n["path"].as_str().is_some_and(|p| p.starts_with("tail/")))
+        {
+            bump("tails_with_incisos");
+        }
+        let scans = projection["scans"].as_array().cloned().unwrap_or_default();
+        let broken = |kind: &str| {
+            scans.iter().any(|s| {
+                s["child_kind"] == kind
+                    && s["reasons"]
+                        .as_array()
+                        .is_some_and(|r| r.contains(&json!("sequence_break")))
+            })
+        };
+        if broken("fraction") {
+            bump("fraction_sequence_breaks");
+        }
+        if broken("inciso") {
+            bump("inciso_sequence_breaks");
+        }
+        if !has_fraction && has_inciso {
+            bump("no_fraction_inciso_articles");
+            if tail.is_some() {
+                bump("no_fraction_inciso_articles_with_tail");
+            }
+        }
+        for segment in segments
+            .iter()
+            .filter(|s| s["reason"] == "same_line_marker")
+        {
+            let start = segment["start_char"].as_u64();
+            let owners: Vec<&str> = segment["candidate_owner_node_ids"]
+                .as_array()
+                .map_or_else(Vec::new, |o| {
+                    o.iter().filter_map(Value::as_str).map(path_of).collect()
+                });
+            let place = if !has_fraction {
+                "same_line_inciso_in_no_fraction_article"
+            } else if tail.is_some_and(|(s, e)| s <= start && start < e) {
+                "same_line_inciso_in_tail"
+            } else if owners == ["root"] {
+                "same_line_inciso_in_fraction_article_chapeau"
+            } else if owners.first().is_some_and(|o| o.contains("i.")) {
+                "same_line_inciso_in_inciso_region"
+            } else {
+                "same_line_inciso_in_fraction_region"
+            };
+            bump(place);
+        }
+    }
+    let mismatches: Vec<String> = got
+        .iter()
+        .filter(|(key, value)| probe.get(*key) != Some(value))
+        .map(|(key, value)| format!("{key}: probe {:?}, projection {value}", probe.get(key)))
+        .collect();
+    assert!(mismatches.is_empty(), "{}", mismatches.join("\n"));
+}
+
+/// Sweep every node of every eligible non-holdout article in all three modes
+/// (aggregates only): every response and projection validates against the
+/// pilot schema; a resolved `complete` span starts at the node's label; a
+/// resolved `intro` lies inside the marker paragraph's label end onward.
+#[test]
+fn corpus_sweep_all_modes_validate() {
+    let schema = load(&format!("{G1}/projection.schema.json"));
+    let validator = jsonschema::validator_for(&schema).expect("schema");
+    let mut context = LookupContext::new(SWEEP_RELEASE);
+    let articles = non_holdout_articles();
+    for (id, text) in &articles {
+        context.insert(id, text, true);
+    }
+    let mut invalid = 0;
+    let mut wrong = 0;
+    let mut requests = 0;
+    for (id, _) in &articles {
+        let projection = context.projection(id).expect("projection").to_json();
+        if let Err(error) = validator.validate(&projection) {
+            if invalid < 3 {
+                eprintln!("INVALID projection {id}: {error}");
+            }
+            invalid += 1;
+        }
+        let mut root = json!({"provision_id": id, "locator": {"article_root": true}});
+        for mode in ["intro", "complete"] {
+            root["mode"] = json!(mode);
+            requests += 1;
+            if let Err(error) = validator.validate(&context.lookup(&root)) {
+                if invalid < 3 {
+                    eprintln!("INVALID root {mode} {id}: {error}");
+                }
+                invalid += 1;
+            }
+        }
+        for node in projection["nodes"].as_array().expect("nodes") {
+            let path = node["path"].as_str().expect("path");
+            if path == "root" || path.starts_with("tail/") {
+                continue;
+            }
+            let mut locator = serde_json::Map::new();
+            for segment in path.split('/') {
+                let mut parts = segment.split('.');
+                let kind = parts.next().expect("kind");
+                let value = parts.next().expect("value").replace('_', " ");
+                let key = if kind == "f" { "fraction" } else { "inciso" };
+                locator.insert(key.into(), json!(value));
+            }
+            for mode in ["label", "intro", "complete"] {
+                requests += 1;
+                let response = context.lookup(&json!({
+                    "provision_id": id,
+                    "locator": locator,
+                    "mode": mode,
+                }));
+                if let Err(error) = validator.validate(&response) {
+                    if invalid < 3 {
+                        eprintln!(
+                            "INVALID {mode} {path} {}: {error} :: {}",
+                            response["outcome"], response["reason"]
+                        );
+                    }
+                    invalid += 1;
+                }
+                if response["outcome"] == "resolved" {
+                    let start = response["span"]["start_char"].as_u64();
+                    let label_start = node["label_span"]["start_char"].as_u64();
+                    let label_end = node["label_span"]["end_char"].as_u64();
+                    let ok = response["node_id"] == node["node_id"]
+                        && match mode {
+                            "label" => response["text"] == node["printed_label"],
+                            "complete" => start == label_start,
+                            _ => start >= label_end,
+                        };
+                    if !ok {
+                        wrong += 1;
+                    }
+                }
+            }
+        }
+    }
+    assert_eq!(invalid, 0, "schema-invalid outputs");
+    assert_eq!(wrong, 0, "resolved to the wrong node or span start");
+    assert!(requests > 6000, "{requests} requests");
 }
