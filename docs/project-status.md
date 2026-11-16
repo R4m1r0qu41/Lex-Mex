@@ -51,8 +51,15 @@ Draft 3 fixes both interactions:
   inciso's certain span ends before it.
 
 It adds Codex's two texts as 7 rows and 4 full responses; every draft-2 row and response is
-unchanged. R6 waits for an independent evaluator after G1 is frozen. Next: a Codex review of G1
-draft 3. Before G2, the holdout answers need an evaluator-held encrypted backup.
+unchanged.
+
+Codex **approved G1** at `a6d94025f` on 2026-11-15
+([review](fintech-pilot-g1-draft3-codex-review-2026-11-15.md)). The approval does not authorize
+G2 or G3 work. The review's compatibility record binds the frozen contract section by digest
+and finds a sealed G0 answer still incompatible with it, without naming the case. G0 v1 stays
+unchanged; before G3, an independent evaluator versions any private gold or evaluation
+disposition. Next, an evaluator action: before G2, the holdout answers need an evaluator-held
+encrypted backup and a successful restore and hash check.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 
