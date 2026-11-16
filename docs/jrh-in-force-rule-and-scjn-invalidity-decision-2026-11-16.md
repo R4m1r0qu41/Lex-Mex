@@ -81,9 +81,17 @@ Measured 2026-11-16 on `8949c8420`:
   `repealed`, 2 `partially_repealed`;
 - a loose search ("declarad… inválid…") flags about 480 provisions in 42 instruments. This is
   not an inventory. The notification-date pattern matched only about 20 of those instruments.
-  Others, for example `lgcs` (34) and `lgappcea` (4), print their notes in another shape, and some
-  hits may be the statute's own wording (`lrfiyii-art105` is likely one). The implementation must
-  first list the actual note shapes, anchored on the Cámara note grammar. AI 71/2023 accounts for
-  291 matched provisions, in LGPP and LGIPE.
-- Not every note will print a notification date. Where one is missing, the date comes from the
+  Checked samples show other shapes:
+  - `lgcs` prints "Artículo declarado inválido por Resolutivos de la SCJN a Acción de
+    Inconstitucionalidad notificados para efectos legales el 08-05-2023";
+  - `lgappcea` prints only a DOF date ("… Acción de Inconstitucionalidad DOF 27-05-2016"), with no
+    notification date.
+
+  Some hits may be the statute's own wording (`lrfiyii-art105` is likely one, not yet checked).
+  The implementation must first list the actual note shapes, anchored on the Cámara note grammar.
+  AI 71/2023 accounts for 291 matched provisions, in LGPP and LGIPE.
+- Not every note prints a notification date. Where one is missing, the date comes from the
   ruling itself, as the LGMIME decision requires. Such cases go to JRH.
+- Where a note invalidates a reformed article without saying that the earlier text "recupera su
+  vigencia" (for example, `lgcs` arts. 1–3, "Artículo reformado DOF 27-12-2022 Artículo declarado
+  inválido"), whether the earlier text revives is a legal question for JRH, not for the rule.
