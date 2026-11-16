@@ -73,7 +73,7 @@ fn fixtures() -> Fixtures {
                 .is_some_and(|s| s.starts_with("statute_body"));
             context.insert(id, text, eligible);
             if let Some(current) = row["current_text"].as_str() {
-                context.set_current_text(id, current);
+                assert!(context.set_current_text(id, current), "stale row: {id}");
             }
         }
     }
@@ -642,4 +642,249 @@ fn corpus_sweep_all_modes_validate() {
     assert_eq!(invalid, 0, "schema-invalid outputs");
     assert_eq!(wrong, 0, "resolved to the wrong node or span start");
     assert!(requests > 6000, "{requests} requests");
+}
+
+// ---------------------------------------------------------------------------
+// Regressions and pinned interpretations from the Codex G2 review
+// (docs/fintech-pilot-g2-codex-review-2026-11-16.md). Public synthetic texts
+// only; the frozen G1 fixtures are unchanged.
+// ---------------------------------------------------------------------------
+
+fn synthetic(texts: &[(&str, &str)]) -> LookupContext {
+    let mut context = LookupContext::new(SWEEP_RELEASE);
+    for (id, text) in texts {
+        context.insert(id, text, true);
+    }
+    context
+}
+
+fn ask(context: &LookupContext, id: &str, locator: &Value, mode: &str) -> Value {
+    let mut request = json!({"provision_id": id, "locator": locator});
+    if mode != "complete" {
+        request["mode"] = json!(mode);
+    }
+    let response = context.lookup(&request);
+    let schema = load(&format!("{G1}/projection.schema.json"));
+    let validator = jsonschema::validator_for(&schema).expect("schema");
+    assert!(validator.validate(&response).is_ok(), "schema: {response}");
+    response
+}
+
+fn segments_of(response: &Value) -> Vec<Value> {
+    response["unresolved_segments"]
+        .as_array()
+        .cloned()
+        .unwrap_or_default()
+        .iter()
+        .map(|s| {
+            let owners: Vec<&str> = s["candidate_owner_node_ids"]
+                .as_array()
+                .map_or_else(Vec::new, |o| {
+                    o.iter().filter_map(Value::as_str).map(path_of).collect()
+                });
+            json!([s["start_char"], s["end_char"], s["reason"], owners])
+        })
+        .collect()
+}
+
+/// P2: `AA)`, `Ab)` and `Á.` starts are `unsupported_marker` (G1.3), so the
+/// root's fraction scan is partial and no fraction request returns `not_found`.
+#[test]
+fn letter_marker_forms_make_the_scan_partial() {
+    let cases = [
+        (
+            "urn:lex-mx:synthetic:g2-rev-upper-pair",
+            "Texto:\n\nAA) Apartado.",
+            21,
+        ),
+        (
+            "urn:lex-mx:synthetic:g2-rev-mixed-pair",
+            "Texto:\n\nAb) Apartado.",
+            21,
+        ),
+        (
+            "urn:lex-mx:synthetic:g2-rev-accented-capital",
+            "Texto:\n\nÁ. Apartado.",
+            20,
+        ),
+        (
+            "urn:lex-mx:synthetic:g2-rev-accented-lower",
+            "Texto:\n\ná. Apartado.",
+            20,
+        ),
+        (
+            "urn:lex-mx:synthetic:g2-rev-em-dash",
+            "Texto:\n\n— Guion.",
+            16,
+        ),
+    ];
+    let context = synthetic(&cases.map(|(id, text, _)| (id, text)));
+    for (id, _, end) in cases {
+        for mode in ["label", "intro", "complete"] {
+            let response = ask(&context, id, &json!({"fraction": "I"}), mode);
+            assert_eq!(response["outcome"], "not_structured", "{id} {mode}");
+            assert_eq!(response["reason"], "partial_scan", "{id} {mode}");
+            assert_eq!(response["scan_status"], "partial", "{id} {mode}");
+            assert_eq!(response["scan_reasons"], json!(["unsupported_marker"]));
+        }
+        let root = ask(&context, id, &json!({"article_root": true}), "intro");
+        assert_eq!(root["outcome"], "ambiguous", "{id}");
+        assert_eq!(
+            root["certain_span"],
+            json!({"start_char": 0, "end_char": 6})
+        );
+        assert_eq!(
+            segments_of(&root),
+            vec![json!([8, end, "unsupported_marker", ["root"]])]
+        );
+    }
+    // Control: letters without the marker punctuation stay content.
+    let id = "urn:lex-mx:synthetic:g2-rev-plain-words";
+    let context = synthetic(&[(id, "Texto:\n\nAb Apartado.")]);
+    let response = ask(&context, id, &json!({"fraction": "I"}), "complete");
+    assert_eq!(response["outcome"], "not_found");
+    assert_eq!(response["scan_status"], "complete");
+}
+
+/// Choice 1 (accepted): in a `note_interruption` segment the owner N of an
+/// `unsupported_marker` is m, so m's inciso scan is partial.
+#[test]
+fn unsupported_owner_after_interior_note_is_m() {
+    let id = "urn:lex-mx:synthetic:g2-rev-owner-interruption";
+    let text = "I. Uno.\n\nArtículo reformado DOF 01-01-2020\n\n- Guion.\n\nII. Dos.";
+    let context = synthetic(&[(id, text)]);
+    let inciso = ask(
+        &context,
+        id,
+        &json!({"fraction": "I", "inciso": "a"}),
+        "complete",
+    );
+    assert_eq!(inciso["outcome"], "not_structured");
+    assert_eq!(inciso["reason"], "partial_scan");
+    assert_eq!(inciso["scan_reasons"], json!(["unsupported_marker"]));
+    let fraction = ask(&context, id, &json!({"fraction": "I"}), "complete");
+    assert_eq!(fraction["outcome"], "ambiguous");
+    assert_eq!(
+        fraction["certain_span"],
+        json!({"start_char": 0, "end_char": 7})
+    );
+    assert_eq!(
+        segments_of(&fraction),
+        vec![
+            json!([44, 52, "note_interruption", ["f.I.1", "root"]]),
+            json!([44, 52, "unsupported_marker", ["f.I.1", "root"]]),
+        ]
+    );
+    let other = ask(
+        &context,
+        id,
+        &json!({"fraction": "II", "inciso": "a"}),
+        "complete",
+    );
+    assert_eq!(other["outcome"], "not_found");
+}
+
+/// Choice 1 (accepted): in a `post_child_attachment` segment the owner N is
+/// F, the paragraph's certain owner; the inciso is cut only by the post-child
+/// segment.
+#[test]
+fn unsupported_owner_in_post_child_attachment_is_the_fraction() {
+    let id = "urn:lex-mx:synthetic:g2-rev-owner-post-child";
+    let context = synthetic(&[(id, "I. Uno.\n\na) Alfa.\n\n- Guion.\n\nII. Dos.")]);
+    let inciso = ask(
+        &context,
+        id,
+        &json!({"fraction": "I", "inciso": "a"}),
+        "complete",
+    );
+    assert_eq!(inciso["outcome"], "ambiguous");
+    assert_eq!(
+        inciso["certain_span"],
+        json!({"start_char": 9, "end_char": 17})
+    );
+    assert_eq!(
+        segments_of(&inciso),
+        vec![json!([
+            19,
+            27,
+            "post_child_attachment",
+            ["f.I.1/i.a.1", "f.I.1"]
+        ])]
+    );
+    assert_eq!(inciso["scan_reasons"], json!(["unsupported_marker"]));
+    let fraction = ask(&context, id, &json!({"fraction": "I"}), "complete");
+    assert_eq!(
+        fraction["certain_span"],
+        json!({"start_char": 0, "end_char": 17})
+    );
+    assert_eq!(
+        segments_of(&fraction),
+        vec![json!([19, 27, "unsupported_marker", ["f.I.1", "root"]])]
+    );
+}
+
+/// Choice 2 (accepted by name): an inciso candidate in its holder fraction's
+/// marker paragraph leaves that fraction's intro resolved; the inciso lookup
+/// is a candidate ambiguity and the scan partial.
+#[test]
+fn holder_intro_is_not_cut_by_its_own_inciso_candidate() {
+    let id = "urn:lex-mx:synthetic:g2-rev-intro-holder";
+    let context = synthetic(&[(id, "I. Uno: a) Alfa.\n\nII. Dos.")]);
+    let intro = ask(&context, id, &json!({"fraction": "I"}), "intro");
+    assert_eq!(intro["outcome"], "resolved");
+    assert_eq!(intro["span"], json!({"start_char": 3, "end_char": 16}));
+    let complete = ask(&context, id, &json!({"fraction": "I"}), "complete");
+    assert_eq!(complete["outcome"], "resolved");
+    assert_eq!(complete["span"], json!({"start_char": 0, "end_char": 16}));
+    let inciso = ask(
+        &context,
+        id,
+        &json!({"fraction": "I", "inciso": "a"}),
+        "label",
+    );
+    assert_eq!(inciso["outcome"], "ambiguous");
+    assert_eq!(inciso["reason"], "same_line_marker");
+    assert_eq!(inciso["scan_status"], "partial");
+    assert_eq!(
+        inciso["candidates"],
+        json!([{"node_id": null, "path": "f.I.1/(same-line a)", "label_span": {"start_char": 8, "end_char": 10}}])
+    );
+}
+
+/// Choice 5 (accepted): a same-line fraction candidate with a non-canonical
+/// numeral is unmatchable but still makes the root's fraction scan partial,
+/// so it never enables `not_found`.
+#[test]
+fn unmatchable_same_line_numeral_never_enables_not_found() {
+    let id = "urn:lex-mx:synthetic:g2-rev-noncanonical";
+    let context = synthetic(&[(id, "Texto: IIII. Cuatro.")]);
+    for fraction in ["IV", "I", "C"] {
+        let response = ask(&context, id, &json!({"fraction": fraction}), "complete");
+        assert_eq!(response["outcome"], "not_structured", "{fraction}");
+        assert_eq!(response["reason"], "partial_scan", "{fraction}");
+        assert_eq!(response["scan_reasons"], json!(["same_line_marker"]));
+    }
+    let root = ask(&context, id, &json!({"article_root": true}), "intro");
+    assert_eq!(
+        root["certain_span"],
+        json!({"start_char": 0, "end_char": 6})
+    );
+    assert_eq!(
+        segments_of(&root),
+        vec![json!([7, 20, "same_line_marker", ["root"]])]
+    );
+}
+
+/// Choice 6 (accepted for the loaded-set scope): `unknown_provision` means
+/// not loaded in this context, and `set_current_text` cannot add a provision.
+#[test]
+fn unknown_provision_is_limited_to_the_loaded_set() {
+    let id = "urn:lex-mx:synthetic:g2-rev-loaded";
+    let absent = "urn:lex-mx:synthetic:g2-rev-not-loaded";
+    let mut context = synthetic(&[(id, "I. Uno.")]);
+    assert!(!context.set_current_text(absent, "I. Uno."));
+    let response = ask(&context, absent, &json!({"fraction": "I"}), "complete");
+    assert_eq!(response["outcome"], "invalid_locator");
+    assert_eq!(response["reason"], "unknown_provision");
+    assert!(context.projection(absent).is_none());
 }

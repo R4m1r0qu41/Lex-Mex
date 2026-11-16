@@ -32,6 +32,12 @@ const QUALIFIER_NAMES: [&str; 9] = [
     "Decies",
 ];
 
+/// Dash and bullet characters that open an `unsupported_marker` (G1.3): the
+/// hyphen and Unicode dashes, the minus sign, and common bullets.
+const DASHES_AND_BULLETS: [char; 19] = [
+    '-', '‐', '‑', '‒', '–', '—', '―', '−', '•', '◦', '▪', '‣', '·', '●', '○', '■', '□', '➢', '►',
+];
+
 const LETTERS: [char; 27] = [
     'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'p', 'q', 'r',
     's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
@@ -767,18 +773,13 @@ fn is_note(paragraph: &str) -> bool {
 fn is_unsupported(paragraph: &str) -> bool {
     let chars: Vec<char> = paragraph.chars().collect();
     let lower_roman = |c: char| matches!(c, 'i' | 'v' | 'x' | 'l' | 'c' | 'd' | 'm');
-    let lower = |c: char| letter_index(c).is_some();
     // Roman capitals not followed by a letter.
     let run = chars.iter().take_while(|c| is_roman_capital(**c)).count();
     if run > 0 && !chars.get(run).is_some_and(|c| c.is_alphabetic()) {
         return true;
     }
-    // A capital letter, a period and whitespace.
-    if chars.len() >= 3
-        && chars[0].is_ascii_uppercase()
-        && chars[1] == '.'
-        && chars[2].is_whitespace()
-    {
+    // A capital letter (any script, accented included), a period and whitespace.
+    if chars.len() >= 3 && chars[0].is_uppercase() && chars[1] == '.' && chars[2].is_whitespace() {
         return true;
     }
     // Digits followed by `.`, `)`, `°`, `º` or `o`.
@@ -795,17 +796,17 @@ fn is_unsupported(paragraph: &str) -> bool {
     if run > 0 && chars.get(run).is_some_and(|c| matches!(c, '.' | ')')) {
         return true;
     }
-    // Two or more letters followed by `)`.
-    let run = chars.iter().take_while(|c| lower(**c)).count();
+    // Two or more letters, in any case, followed by `)`.
+    let run = chars.iter().take_while(|c| c.is_alphabetic()).count();
     if run >= 2 && chars.get(run) == Some(&')') {
         return true;
     }
-    // A lowercase letter, a period and whitespace.
-    if chars.len() >= 3 && lower(chars[0]) && chars[1] == '.' && chars[2].is_whitespace() {
+    // A lowercase letter (any script, accented included), a period and whitespace.
+    if chars.len() >= 3 && chars[0].is_lowercase() && chars[1] == '.' && chars[2].is_whitespace() {
         return true;
     }
     // A dash or bullet followed by whitespace.
-    chars.len() >= 2 && matches!(chars[0], '-' | '–' | '•') && chars[1].is_whitespace()
+    chars.len() >= 2 && DASHES_AND_BULLETS.contains(&chars[0]) && chars[1].is_whitespace()
 }
 
 fn classify_paragraphs(chars: &[char]) -> Vec<Paragraph> {
@@ -1519,6 +1520,12 @@ pub type Branch = &'static str;
 
 /// One loaded projection set and the current canonical corpus at a stated
 /// release (G1.7).
+///
+/// The context knows only the provisions inserted into it. `unknown_provision`
+/// therefore means "not loaded in this lookup context". It is never evidence that a
+/// provision is absent from the repository or from the law. Callers must load
+/// every provision they intend to query, text and projection together, with
+/// [`LookupContext::insert`].
 #[derive(Debug, Default)]
 pub struct LookupContext {
     release_id: String,
@@ -1546,11 +1553,19 @@ impl LookupContext {
         );
     }
 
-    /// Replace a provision's current canonical text and keep its loaded
-    /// projection, which may then be stale.
-    pub fn set_current_text(&mut self, provision_id: &str, text: &str) {
-        self.current
-            .insert(provision_id.to_owned(), text.to_owned());
+    /// Replace the current canonical text of a provision already inserted,
+    /// keeping its loaded projection, which may then be stale. It never adds
+    /// a provision: for an ID not inserted it changes nothing and returns
+    /// `false`.
+    #[must_use]
+    pub fn set_current_text(&mut self, provision_id: &str, text: &str) -> bool {
+        match self.current.get_mut(provision_id) {
+            Some(current) => {
+                text.clone_into(current);
+                true
+            }
+            None => false,
+        }
     }
 
     /// The loaded projection of a provision.
