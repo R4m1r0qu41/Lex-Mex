@@ -53,7 +53,7 @@ the answer never reached the repository. Please answer again here.
 Proposed: **LGPP and LGIPE stay `in_force`.** The ruling invalidated the amending decree, not the
 laws.
 
-**Answer:**
+**Answer:** Yes they are in force as instruments (specific article might be invalidated as noted in the law itself and the SCJN rulling)
 
 ### Q2. Articles where every note says "recupera su vigencia"
 
@@ -61,7 +61,7 @@ Proposed: **`effective`**, because the 2 March 2023 text is back in force. That 
 203 LGIPE articles. For LGPP this confirms the current status. For LGIPE it would replace
 `unknown`, which is there only because those articles were never analysed in time (see Q5).
 
-**Answer:**
+**Answer:** Correct all notes "se recupera su vigencia" are in force
 
 ### Q3. Articles where a sub-unit added in 2023 was "suprimido"
 
@@ -70,7 +70,7 @@ párrafo added in 2023 no longer exists. That is 11 LGPP and 35 LGIPE articles, 
 Some of these articles also have "recupera" notes; the proposal is still `partially_repealed`,
 because one part is gone.
 
-**Answer:**
+**Answer:** correct if the grayed out text is gone or the full fraction of paragraph that states invalidado or suprimido 'partially_repealed' is correct.
 
 ### Q4. The 20 whole LGIPE articles that were added in 2023 and suppressed
 
@@ -82,7 +82,7 @@ the article before them (for example, 80 Bis to 80 Quinquies sit inside article 
 will split them into their own records first, without changing any wording, and then apply your
 answer. The host articles (80, 125, 272 and so on) are themselves in force.
 
-**Answer:**
+**Answer:** Yes
 
 ### Q5. LGIPE articles currently `unknown`
 
@@ -96,7 +96,7 @@ shows `unknown`. Two ways to proceed:
 Proposed: **(a)**. The ruling's effect on these articles is printed and unambiguous; other
 amendments since 2023 would be handled by the later analysis.
 
-**Answer:**
+**Answer:** Go with a. But don't leve them as unknown. This can be generalized further, if a text is shown in an instrument they are generally in force, otherwise they show derogado. Exceptions are portions invalidated or supressed by the SCJN. and in this particular case because some re gained validity, but if they are shown in the text they are in all in force. Except the ones invalidated as detailed here and in the text of the article, fraction, paraghraph or even part of the text. So there are should be only a few temporary states. In-force, derogated, repealed and not in force yet. Derogated and repealed have an equivalent legal effect (not in force now, not in the future) Not in force yet is reserved for legal dispositions that come into force in the future at a determined or in-determined time. Abrogated is another category but that applies to the full law or instrument but those would not normally be in the corpus because it only has in-force instruments (vigentes)
 
 ### Q6. Dates
 
@@ -108,7 +108,7 @@ the same rule:
 - per-provision end dates for the suppressed sub-units and articles are **deferred**, as for
   LGMIME, so they don't block the status change.
 
-**Answer:**
+**Answer:** The full decree in this case was repealed at 23-06-2023 that is the official date for the repeal (same legal consequence as abrogated, formally repealed by the SCJN. The difference is abrogation comes from the legislative repealment form the judiciary)
 
 ### Q7. Wording of the note
 
@@ -116,11 +116,13 @@ Proposed, as for LGMIME: each changed status carries a note saying the unit was 
 inválido por la SCJN (AI 71/2023, notificada 23-06-2023, DOF 24-11-2023), no derogado", plus
 "recupera su vigencia con el texto al 2 de marzo de 2023" where that applies.
 
-**Answer:**
+**Answer:** It should say "declarado inválido por la SCJN (AI 71/2023, notificada 23-06-2023, DOF 24-11-2023)", plus
+"recupera su vigencia con el texto al 2 de marzo de 2023". I'm taking out the no derogado part because it is confusing and unnecessary, the text of repealmente is enough.
 
 ## Anything else
 
 If any article in the table should be treated differently, name it here. One line each is
 enough.
 
-**Answer:**
+**Answer:** The LGPP and LGIP have a "color code" red parentheses means whatever is inside them is invalid, light blue means the text re gained validity and what is shown in between the squared brackets is the old text now in force, it can get tricky because there are red parentheses inside blue brackets. But in general text grayed out in between red parentheses is invalidated. e.g Art. 23 d) paragraph fourth only this text (El reintegro de recursos correspondientes a
+financiamiento para actividades ordinarias permanentes de los partidos políticos también será aplicable tratándose de remanentes del ejercicio respecto de este tipo de financiamiento.), Art. 72 b) and f) of LGPP

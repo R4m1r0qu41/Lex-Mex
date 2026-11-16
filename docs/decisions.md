@@ -4232,3 +4232,27 @@ Open points Claude raised and did not resolve: the corpus records two instrument
 marker ("(Se deroga)") inside an in-force instrument. No temporal or review state was changed
 on the strength of this entry; a rule implementing point 2 needs the usual schema, validator
 and fixture change and the reviewer's confirmation of those two cases.
+
+## 2026-11-16 — Corpus-wide in-force rule and SCJN invalidity
+
+Decision (JRH, answer sheet and session, 2026-11-16; recorded by Claude): text shown in an
+in-force instrument is in force unless it is derogated (`repealed`), invalidated or suppressed by
+the SCJN in whole (`repealed`) or in part (`partially_repealed`), or not yet in force
+(`future_effective` / `conditional_pending`). Applied corpus-wide. Every SCJN invalidity ruling
+is treated alike. The end date is the ruling's notification date (23-06-2023 for AI 71/2023),
+recorded now. A single `repealed` status covers derogation and invalidation, with the cause in
+the note. Details, note wording and the reading guide to the colour code are in
+`docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. No state changed by this
+entry.
+
+## 2026-11-16 — Corpus-wide in-force rule and SCJN invalidity
+
+Decision (JRH, answer sheet and session, 2026-11-16; recorded by Claude): text shown in an
+in-force instrument is in force unless it is derogated (`repealed`), invalidated or suppressed by
+the SCJN in whole (`repealed`) or in part (`partially_repealed`), or not yet in force
+(`future_effective` / `conditional_pending`). Applied corpus-wide. Every SCJN invalidity ruling
+is treated alike. The end date is the ruling's notification date (23-06-2023 for AI 71/2023),
+recorded now. A single `repealed` status covers derogation and invalidation, with the cause in
+the note. Details, note wording and the reading guide to the colour code are in
+`docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. No state changed by this
+entry.
