@@ -105,6 +105,10 @@ Measured 2026-11-16 on `8949c8420`:
   AI 71/2023 accounts for 291 matched provisions, in LGPP and LGIPE.
 - Not every note prints a notification date. Under decision 11 the date always comes from the
   ruling, through the Cámara list of declarations, so a missing date in the note does not block.
-- Where a note invalidates a reformed article without saying that the earlier text "recupera su
-  vigencia" (for example, `lgcs` arts. 1–3, "Artículo reformado DOF 27-12-2022 Artículo declarado
-  inválido"), decision 12 applies: no earlier text revives.
+- **Correction (same day): `lgcs` arts. 1–3 do revive.** Earlier wording here said that no
+  earlier text revives for them. That was wrong; the earlier record was written before the whole
+  note had been read. The note continues: "Artículo que 'recupera su vigencia con el texto que
+  tenía al 27 de diciembre de 2022' por Engrose de sentencia de la SCJN … notificado el
+  31-05-2023 y publicado DOF 24-11-2023". That is an explicit statement of revival, so decision 12
+  does not apply and the articles are in force with that text. Classification must read every
+  note sentence of a unit, not only the first.
