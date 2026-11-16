@@ -8,8 +8,10 @@ Codex returned **revise** on G1 draft 1
 ([review](../fintech-pilot-g1-codex-review-2026-11-14.md)) and on draft 2
 ([review](../fintech-pilot-g1-draft2-codex-review-2026-11-14.md)), the second limited to two rule
 interactions. Codex approved the G1 draft-3 contract at `a6d94025f` on 2026-11-15
-([review](../fintech-pilot-g1-draft3-codex-review-2026-11-15.md)). G2 still needs
-the holdout backup evidence; private evaluation versioning remains required before G3.
+([review](../fintech-pilot-g1-draft3-codex-review-2026-11-15.md)). Local encrypted
+backup and restore verification passed on 2026-11-16
+([receipt](../fintech-pilot-holdout-custody-2026-11-16.md)); private evaluation
+versioning remains required before G3.
 **Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
 pilot, "with your recommendations applied".
 **Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
@@ -447,6 +449,21 @@ requires independent private evaluation versioning before G3.
 **Current next action:** evaluator supplies encrypted holdout backup and a
 successful restore/hash check before G2. G1 acceptance does not clear custody
 or authorize G2/G3 execution. The frozen contract text below is unchanged.
+
+## Holdout local recovery checkpoint, 2026-11-16
+
+JRH authorized the encrypted backup and accepted local recovery. Codex created
+an AES-256-GCM second copy outside the checkout/scratch directories, with the
+key in the operator's macOS Keychain. Creation and a separate verification
+invocation both passed authenticated in-memory restore and the original
+SHA-256 check. See `docs/fintech-pilot-holdout-custody-2026-11-16.md`.
+The original sealed gold and approved contract section remain unchanged.
+The backup custody prerequisite is satisfied; no G2 execution occurred here.
+
+**Current next action:** G2 local derived projection under approved G1.
+Independent private evaluation versioning remains required before G3; the
+builder continues to exclude sealed answers and holdout provisions before
+code freeze under D6.
 
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
