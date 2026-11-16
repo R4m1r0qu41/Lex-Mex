@@ -31,7 +31,29 @@ this way, all 714 provisions fall into two groups:
     the paragraph in `lgs` 235 and 247.
 - **The law's own wording: 254 provisions.** None contains the note form anywhere, so none is an
   invalidation. This includes the 55 "SCJN-looking" items listed below.
-- **Ambiguous: none.**
+- **Ambiguous: none, on this one pattern.** The second, independent test is the Cámara lists
+  of rulings, below.
+
+**Reverse search against the Cámara lists** (retrieved 2026-11-16: Acciones de
+Inconstitucionalidad `inconst_1.htm` and `inconst.htm`, Controversias Constitucionales
+`controv.htm`, Declaratorias Generales `declara.htm`). Of 1,013 note occurrences:
+- **911** match a list entry by printed DOF date and ruling kind;
+- **92** print only a notification date, such as "Resolutivos … notificados … el 08-05-2023" in
+  LGRA and LGCS. They are matched through the ruling;
+- **5** match a list date under another kind;
+- **5** were not found on the lists: LDSCA (DOF 07-12-2007, 3) and LOPDC (DOF 16-05-2008, 2).
+  The row parse is not yet exact, so this is not confirmed.
+
+**Limits of this check:**
+- A date-and-kind match shows consistency, not identity, because some dates carry several
+  rulings.
+- Only about 43 of roughly 1,600 rulings link the law they affect. So the list-to-corpus
+  direction ("a law absent from the lists has no invalidation") can be run only for those.
+
+**Known error in the kind counts.** A revival stated in a later sentence of the same note was
+counted as `plain`. For example, LGCS: "Artículo declarado inválido … Artículo que 'recupera su
+vigencia con el texto que tenía al 27 de diciembre de 2022' …". So `plain` is overcounted.
+The final classifier reads every note sentence of a unit.
 
 JRH, 2026-11-16: "lopjf talks about how the invalidty rules work on many places same as amparo,
 they are clearly not invalid".
