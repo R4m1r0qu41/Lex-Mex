@@ -72,6 +72,17 @@ created by JRH from `main` at `47a3ffc59`.
      `conditional_pending` is Claude's engineering reading, labelled as such.
    - **Basis:** `deterministic_rule`, citing this decision; never `lawyer_verified`.
 
+## Two paths, by review state (JRH, 2026-11-16)
+
+- **Not yet analysed** (`unknown`, `not_analyzed`; LGIPE's noted articles are this kind): the
+  deterministic rules set the status, with basis `deterministic_rule`.
+- **Already accepted** (`effective`, `machine_accepted`; LGPP's noted articles, and others): the
+  dating rule never overwrites these. They change only through the audited reviewer path,
+  `review open` then `review resolve`, which records them as lawyer-verified. Claude builds the
+  complete per-article list from the notes: status, unit removed, ruling and date. JRH confirms
+  it in one answer sheet, and Claude then records each resolution citing that confirmation. JRH
+  chose this over letting a newer rule replace an accepted status.
+
 ## Order
 
 1. **LGPP end to end:** 106 provisions, with both note kinds, the 2014 and 2022 rulings and the
