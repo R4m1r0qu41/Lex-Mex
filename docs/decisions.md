@@ -4247,3 +4247,11 @@ entry.
 Follow-up (JRH, same day): each ruling's effective date is read from the ruling, through
 <https://www.diputados.gob.mx/LeyesBiblio/compila/declara.htm>, not from the note. A plain
 invalidation revives no earlier text unless that is stated explicitly.
+
+### 2026-11-16 — SCJN effect dates: rule from the ruling, date from the note (JRH)
+
+The SCJN rulings state that invalidity runs "a partir de la notificación de los puntos
+resolutivos", but they do not print the notification date. JRH: take the rule from the ruling's
+effects sentence and the date from the notification date the Cámara note prints, recording both
+sources. Decision 13 in `docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. No
+state changed by this entry.

@@ -76,6 +76,16 @@ printed notes name the invalid "porción normativa" where only part of a unit fe
     in-force unless explicitly stated". A unit declared invalid with no statement that earlier
     text "recupera su vigencia" has no text in force. The unit is `repealed`, or the article is
     `partially_repealed` when only part fell.
+13. **Effect rule from the ruling, effect date from the note's notification date.** Reading the
+    rulings showed they state "surtirá sus efectos a partir de la notificación de los puntos
+    resolutivos al Congreso…" but never print that notification date. Notification happens after
+    the ruling is signed: DGI 1/2024 and AI 71/2023 were read in full. Recommended default: take the
+    rule from the ruling's effects sentence and the date from the notification date the Cámara
+    note prints, recording both sources. JRH: "take the rule from the ruling's effects sentence,
+    and the date from the notification date the Cámara note prints. yes this is the correct
+    instanse". This refines decision 11 for notification-based effects. Where no note prints a
+    notification date, the effect date stays empty and only the DOF publication date is kept.
+    Any ruling whose effects do not run from notification still goes to JRH (plan, design 3).
 
 ## Corrections to earlier records
 

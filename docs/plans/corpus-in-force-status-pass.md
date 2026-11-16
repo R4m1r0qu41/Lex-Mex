@@ -135,3 +135,52 @@ This pass changes `lic`, `lmv` and probably `lritf` provision files. Those are t
 fintech pilot's G0 sample pins, so `fixtures/fintech-structural-g0-2026-11-14/verify.py` will
 report drift if the pilot branch is ever merged after this. The pilot is adopted for local use
 at `991b5dc85`; re-pinning is a separate, later task.
+
+## Checkpoint, 2026-11-16 (resume here)
+
+**Ruling sweep, done in scratch.** Inputs and results are in the git-ignored
+`.work/scjn-rulings-2026-11-16/`, with `SHA256SUMS`. The downloaded rulings were not kept (1.3 GB);
+`fetch_all.py` re-fetches them, resumable.
+- `parse_lists.py`: an exact row parse of the four Cámara lists, 1,651 rows (21 DGI, 1,146 AI, 484
+  CC). Printed numbers run 1..N with none missing or repeated, and every row links to the Cámara's
+  Word copy of the ruling. Two rows share one copy.
+- `fetch_all.py`: all 1,650 copies fetched, 0 errors. Four came as zip archives; they were
+  unpacked and converted (DOF 2004, 2007, 2008, 2009).
+- `extract.py`: finds the resolutive run as the last qualifying `PRIMERO` before the first
+  "Notifíquese" / "Así lo resolvió", which excludes the votes. It then keeps only the clauses that
+  declare invalidity and matches them against the corpus titles, token by token and longest first.
+  Excluded from the match:
+  - quoted porciones normativas (quoted instrument titles are kept);
+  - a title followed by a state marker;
+  - a title inside a Reglamento's own title;
+  - unconstitutional-omission clauses;
+  - `cpeum`.
+- **Result (`ext.json`):** 66 `corpus`, 1,517 `noncorpus`, 68 `none`, 0 `unparsed`.
+- **Read and settled by hand:**
+  - false matches on state laws: Zacatecas ISSSTE law, state procurement law, Tabasco public
+    works, Tlaxcala AI 79/2023;
+  - the DGI 15/2025 Reglamento;
+  - the 15 Ley General de Aguas omission CCs.
+- **Federal laws struck that are not in the corpus:** Ley Federal de Cinematografía (DGI 2/2024),
+  COFIPE (AI 61/2008), LFT and LFRTV (AI 26/2006), the LIF 2003/2004 and PEF 2004/2005/2022, the
+  Normas Mínimas law (AI 24/2012), and several reglamentos and acuerdos.
+- **Renamed law:** AI 137/2022 names "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea
+  Mexicanos", which is `larefam` under its former title. It must be mapped by hand.
+- **AI 95/2021** strikes the décimo tercero transitorio of the 2021 decree that issued the LOPJF.
+  The match lists every law in that decree title, so the target unit must be read.
+
+**Decision 13 (JRH):** the effect rule comes from the ruling's effects sentence, and the effect
+date from the notification date the Cámara note prints.
+
+**Next, in order:**
+1. Review the 66 `corpus` rulings by hand, at instrument level. Some are cited, not struck: for
+   example `lfprh` in AI 52/2022 and AI 139/2019, `cpf` in AI 105/2018, `lgipe`/`lfrm` in the
+   AI 46/2022 interpretive decree, and CC 35/2006 `lopsrm`. Add the former-name alias for
+   `larefam`.
+2. Build a structured note list from the corpus: slug, provision, the ruling's DOF date and the
+   printed notification date. Diff both ways, ruling × instrument against note × ruling. A ruling
+   unit with no note is a finding for JRH's sheet, with a recommended default.
+3. Write the ruling registry (extracted fields only, plus link and hash). Committing it is a
+   trusted boundary, so it needs a schema, a Rust type and a validator together. Check with the
+   advisor before and after the data-format change.
+4. Then the Rust classifier, LGPP end to end, and the rest of the order above.
