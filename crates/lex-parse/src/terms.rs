@@ -28,10 +28,9 @@ use std::sync::LazyLock;
 
 use anyhow::{Context, Result, bail};
 use lex_core::{
-    Basis, DefinedTerm, FRACTION_QUALIFIER_PATTERN, GLOSSARY_STRATEGY_VERSION,
-    GlossaryEntryDisposition, GlossaryHoldCode, GlossaryProfile, GlossarySpan, Provision,
-    ProvisionType, SCHEMA_VERSION, evidence_sha256, fraction_qualifier_rank,
-    normalize_fraction_label,
+    Basis, DefinedTerm, GLOSSARY_STRATEGY_VERSION, GlossaryEntryDisposition, GlossaryHoldCode,
+    GlossaryProfile, GlossarySpan, Provision, ProvisionType, SCHEMA_VERSION, evidence_sha256,
+    fraction_qualifier_rank, normalize_fraction_label,
 };
 use lex_grammar::is_connector;
 pub use lex_link::usages::{
@@ -86,9 +85,9 @@ const COLON_TERM_MAX_CHARS: usize = 90;
 /// Extract the defined terms of one glossary provision.
 pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<DefinedTerm>> {
     let entries = match style {
-        GlossaryStyle::Fractions => fraction_entries(provision)?,
+        GlossaryStyle::Fractions => fraction_entries(provision),
         GlossaryStyle::ColonEntries => colon_entries(provision),
-        GlossaryStyle::RomanColon => roman_colon_entries(provision)?,
+        GlossaryStyle::RomanColon => roman_colon_entries(provision),
         GlossaryStyle::MixedFractions => mixed_fraction_entries(provision)?,
         GlossaryStyle::QuotedRespectively => quoted_respectively_entries(provision)?,
         GlossaryStyle::AutoEstablished => {
@@ -349,12 +348,19 @@ static ESTABLISHED_INTRO: LazyLock<Regex> = LazyLock::new(|| {
         .expect("established intro regex must compile")
 });
 
-static ESTABLISHED_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(&format!(
-        r"(?:^|[;:\n]|DOF\s+\d{{2}}-\d{{2}}-\d{{4}}[.,]?)[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+"
-    ))
-    .expect("established fraction regex must compile")
-});
+/// Each fraction of an established-pass glossary. It starts the text or
+/// follows `;`, `:`, a line break or an amendment note's date (`DOF
+/// 28-01-2011`), and its separator is a bare period.
+fn established_fraction_markers(text: &str) -> Vec<ScannedMarker<'_>> {
+    static CONTEXT: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"[;:\n]|DOF\s+\d{2}-\d{2}-\d{4}[.,]?")
+            .expect("established fraction context regex must compile")
+    });
+    scan_fraction_markers(text, &CONTEXT, is_space_or_tab, |marker, separator_end| {
+        (marker.numeral.len() <= 7 && marker.separator == ".")
+            .then(|| whitespace_end(text, separator_end))
+    })
+}
 
 /// The established pass over one provision; empty when it finds no glossary.
 fn established_glossary_terms(provision: &Provision) -> Result<Vec<DefinedTerm>> {
@@ -380,13 +386,10 @@ fn established_glossary(provision: &Provision) -> Result<EstablishedGlossary> {
     // Scan entries starting after the introduction.
     let body_start = intro_match.end();
     let text = &provision.text;
-    let starts: Vec<(usize, String)> = ESTABLISHED_FRACTION
-        .captures_iter(text)
-        .filter_map(|captures| {
-            let whole = captures.get(0)?;
-            let numeral = captures.get(1)?;
-            (whole.start() >= body_start).then(|| (numeral.start(), numeral.as_str().to_owned()))
-        })
+    let starts: Vec<(usize, String)> = established_fraction_markers(text)
+        .into_iter()
+        .filter(|marker| marker.context_start >= body_start)
+        .map(|marker| (marker.start, marker.label.to_owned()))
         .collect();
     if starts.len() < 2 {
         return Ok(none());
@@ -720,17 +723,23 @@ static WIDER_SCOPED: LazyLock<Regex> = LazyLock::new(|| {
     .expect("wider scoped regex must compile")
 });
 
+/// Each fraction of a wider-pass glossary.
 // A fraction starts the text or follows `;`, `:`, `.`, a line break, the
 // conjunction `y` (the last entry of an inline glossary: `…de Economía, y
 // X.- Servicio: …`) or an amendment note (`…Fracción recorrida DOF
 // 28-01-2011 XX.- Impacto ambiental: …`). A spurious start breaks the
 // numbering and holds the glossary rather than splitting it wrongly.
-static WIDER_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(&format!(
-        r"(?:^|[;:.\n]|\by|DOF\s+\d{{2}}-\d{{2}}-\d{{4}})[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.-?\s+",
-    ))
-    .expect("wider fraction regex must compile")
-});
+// Its separator is a period, optionally with a hyphen (`X.-`).
+fn wider_fraction_markers(text: &str) -> Vec<ScannedMarker<'_>> {
+    static CONTEXT: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"[;:.\n]|\by|DOF\s+\d{2}-\d{2}-\d{4}")
+            .expect("wider fraction context regex must compile")
+    });
+    scan_fraction_markers(text, &CONTEXT, is_space_or_tab, |marker, separator_end| {
+        (marker.numeral.len() <= 7 && matches!(marker.separator, "." | ".-"))
+            .then(|| whitespace_end(text, separator_end))
+    })
+}
 
 /// The wider pass over one provision: `None` when it opens no glossary that
 /// governs the whole instrument, otherwise every entry or the reason the
@@ -764,14 +773,13 @@ fn wider_fraction_starts(provision: &Provision) -> Option<Vec<(usize, usize, Str
         return None;
     }
     let body_start = intro.end();
-    let starts: Vec<(usize, usize, String)> = WIDER_FRACTION
-        .captures_iter(&text[body_start..])
-        .map(|captures| {
-            let numeral = captures.get(1).expect("numeral");
+    let starts: Vec<(usize, usize, String)> = wider_fraction_markers(&text[body_start..])
+        .into_iter()
+        .map(|marker| {
             (
-                body_start + numeral.start(),
-                body_start + captures.get(0).expect("fraction").end(),
-                normalize_fraction_label(numeral.as_str()),
+                body_start + marker.start,
+                body_start + marker.end,
+                normalize_fraction_label(marker.label),
             )
         })
         .collect();
@@ -1103,13 +1111,33 @@ fn check_fraction_sequence(
     Ok(())
 }
 
-/// A fraction heading inside an entry: furniture hid a fraction.
-static SWALLOWED_FRACTION: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(&format!(
-        r"(?:^|\s)[IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?\.-?\s+[A-ZÁÉÍÓÚÑ]"
-    ))
-    .expect("swallowed fraction regex must compile")
-});
+/// A fraction heading inside an entry, meaning furniture hid a fraction: the
+/// first fraction marker that starts the text or follows whitespace, with a
+/// period or `.-` separator and a capital letter after it. Returns the text
+/// from that whitespace through the capital.
+fn swallowed_fraction(body: &str) -> Option<&str> {
+    static CONTEXT: LazyLock<Regex> =
+        LazyLock::new(|| Regex::new(r"\s").expect("whitespace regex must compile"));
+    let marker = scan_fraction_markers(
+        body,
+        &CONTEXT,
+        |_| false,
+        |marker, separator_end| {
+            if marker.numeral.len() > 7 || !matches!(marker.separator, "." | ".-") {
+                return None;
+            }
+            let heading = whitespace_end(body, separator_end);
+            body[heading..]
+                .chars()
+                .next()
+                .filter(|c| c.is_ascii_uppercase() || "ÁÉÍÓÚÑ".contains(*c))
+                .map(|c| heading + c.len_utf8())
+        },
+    )
+    .into_iter()
+    .next()?;
+    Some(&body[marker.context_start..marker.end])
+}
 
 fn no_term_delimiter() -> Incomplete {
     (
@@ -1235,12 +1263,12 @@ fn complete_entries(
 /// A fraction heading inside any entry, a placeholder included, means
 /// furniture hid a fraction (`II. Derogada. ENCABEZADO III. …`).
 fn check_not_swallowing(numeral: &str, body: &str) -> std::result::Result<(), Incomplete> {
-    match SWALLOWED_FRACTION.find(body) {
+    match swallowed_fraction(body) {
         Some(found) => Err((
             GlossaryHoldCode::SwallowedFraction,
             format!(
                 "fraction {numeral} contains another fraction heading {:?}",
-                found.as_str().trim()
+                found.trim()
             ),
         )),
         None => Ok(()),
@@ -1397,19 +1425,34 @@ struct GlossaryEntry {
     end_char: usize,
 }
 
+/// Each entry of a mixed glossary: its numeral's byte offset, its body's
+/// byte offset and its printed label. An entry starts the text or follows
+/// `;`, a line break or an exact `(antes fracción ROMAN) ` note, and its
+/// separator is a bare period.
+fn mixed_fraction_starts(text: &str) -> Vec<(usize, usize, String)> {
+    static ENTRY_CONTEXT: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"[;\n]|\(antes fracción [IVXLCDM]+\) ")
+            .expect("mixed entry context regex must compile")
+    });
+    scan_fraction_markers(
+        text,
+        &ENTRY_CONTEXT,
+        is_space_or_tab,
+        |marker, separator_end| {
+            (marker.numeral.len() <= 7 && marker.separator == ".")
+                .then(|| whitespace_end(text, separator_end))
+        },
+    )
+    .into_iter()
+    .map(|marker| (marker.start, marker.end, marker.label.to_owned()))
+    .collect()
+}
+
 /// Explicit adapter style for reviewed mixed comma/colon definitions. The
 /// page-joined entry prefix is admitted only after an exact editorial
 /// `(antes fracción ROMAN)` note, never an arbitrary roman prose citation.
 fn mixed_fraction_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
-    let entry_re = Regex::new(&format!(
-        r"(?:^|[;\n]|\(antes fracción [IVXLCDM]+\) )[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+"
-    ))?;
-    let mut starts = Vec::new();
-    for c in entry_re.captures_iter(&provision.text) {
-        let n = c.get(1).expect("fraction");
-        let end = c.get(0).expect("entry").end();
-        starts.push((n.start(), end, n.as_str().to_owned()));
-    }
+    let starts = mixed_fraction_starts(&provision.text);
     let mut result = Vec::new();
     for (index, (start, body_start, fraction)) in starts.iter().enumerate() {
         let end = starts.get(index + 1).map_or(provision.text.len(), |x| x.0);
@@ -1441,19 +1484,107 @@ fn mixed_fraction_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
     Ok(result)
 }
 
-fn fraction_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
-    let fraction_re = Regex::new(&format!(
-        r"^([IVXLCDM]+(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+(.*)$"
-    ))?;
+/// A `fractions`-style entry paragraph: its printed fraction label and its
+/// body. The paragraph opens with a fraction marker whose separator is a
+/// bare period, and the body after the whitespace that follows it is one
+/// line; any other paragraph continues the previous entry.
+fn fraction_entry_paragraph(paragraph: &str) -> Option<(&str, &str)> {
+    let mut body = "";
+    let marker = lex_core::fraction_marker_where(paragraph, |marker| {
+        let rest = &paragraph[marker.label.len() + marker.separator.len()..];
+        body = rest.trim_start_matches(char::is_whitespace);
+        marker.separator == "." && !body.contains('\n')
+    })?;
+    Some((marker.label, body))
+}
+
+/// A fraction marker a glossary rule's scan found.
+struct ScannedMarker<'a> {
+    /// Byte offset where the context that introduced it starts (`0` at the
+    /// start of the text).
+    context_start: usize,
+    /// Byte offset of the numeral.
+    start: usize,
+    /// Byte offset just after the separator.
+    separator_end: usize,
+    /// Byte offset where the rule's match ends (for most rules, the body's
+    /// start after the whitespace that follows the separator).
+    end: usize,
+    /// The printed label (`XI Bis`).
+    label: &'a str,
+}
+
+/// The byte offset after the whitespace run that starts at byte `from`.
+fn whitespace_end(text: &str, from: usize) -> usize {
+    let rest = &text[from..];
+    from + rest.len() - rest.trim_start_matches(char::is_whitespace).len()
+}
+
+/// Every fraction marker in `text` that starts the text or follows a match
+/// of `context`, then a run of `gap` characters. It scans as the regex
+/// `(?:^|CONTEXT)GAP*MARKER…` it replaces did: leftmost first, a match never
+/// overlapping the previous one, and only the readings `accept` admits.
+/// `accept` is given each reading with its separator's end, and returns
+/// where the rule's match ends, or `None` to reject the reading.
+fn scan_fraction_markers<'a>(
+    text: &'a str,
+    context: &Regex,
+    gap: impl Fn(char) -> bool,
+    mut accept: impl FnMut(&lex_core::FractionMarker<'a>, usize) -> Option<usize>,
+) -> Vec<ScannedMarker<'a>> {
+    let mut marker_after = |context_start: usize, context_end: usize| {
+        let gapped = &text[context_end..];
+        let start = context_end + gapped.len() - gapped.trim_start_matches(&gap).len();
+        let mut end = 0;
+        let marker = lex_core::fraction_marker_where(&text[start..], |marker| {
+            let separator_end = start + marker.label.len() + marker.separator.len();
+            accept(marker, separator_end)
+                .inspect(|found| end = *found)
+                .is_some()
+        })?;
+        Some(ScannedMarker {
+            context_start,
+            start,
+            separator_end: start + marker.label.len() + marker.separator.len(),
+            end,
+            label: marker.label,
+        })
+    };
+    let mut markers = Vec::new();
+    let mut position = 0;
+    if let Some(marker) = marker_after(0, 0) {
+        position = marker.end;
+        markers.push(marker);
+    }
+    while let Some(found) = context.find_at(text, position) {
+        if let Some(marker) = marker_after(found.start(), found.end()) {
+            position = marker.end;
+            markers.push(marker);
+        } else {
+            position = found.start()
+                + text[found.start()..]
+                    .chars()
+                    .next()
+                    .map_or(1, char::len_utf8);
+        }
+    }
+    markers
+}
+
+/// A space or a tab, the gap most rules allow before a fraction numeral.
+fn is_space_or_tab(c: char) -> bool {
+    matches!(c, ' ' | '\t')
+}
+
+fn fraction_entries(provision: &Provision) -> Vec<GlossaryEntry> {
     let mut entries: Vec<GlossaryEntry> = Vec::new();
     for (start_char, paragraph) in paragraphs_with_offsets(&provision.text) {
         let end_char = start_char + paragraph.chars().count();
-        if let Some(captures) = fraction_re.captures(paragraph) {
-            let body = captures.get(2).expect("body capture").as_str();
+        if let Some((label, body)) = fraction_entry_paragraph(paragraph) {
             let term = body.split(',').next().unwrap_or("").trim().to_owned();
             entries.push(GlossaryEntry {
                 term,
-                fraction: Some(normalize_fraction_label(&captures[1])),
+                fraction: Some(normalize_fraction_label(label)),
                 inciso: None,
                 start_char,
                 end_char,
@@ -1464,7 +1595,7 @@ fn fraction_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
             entry.end_char = end_char;
         }
     }
-    Ok(entries)
+    entries
 }
 
 fn colon_entries(provision: &Provision) -> Vec<GlossaryEntry> {
@@ -1508,26 +1639,50 @@ fn colon_entries(provision: &Provision) -> Vec<GlossaryEntry> {
     entries
 }
 
+/// Each `roman_colon` entry: its numeral's byte offset, its printed label and
+/// its term. An entry starts the text or follows `:` or `;` and any
+/// whitespace; its separator is a bare period, and its term is the text, at
+/// most 90 characters without `:` or `;`, up to a colon and whitespace.
+fn roman_colon_starts(text: &str) -> Vec<(usize, String, String)> {
+    static CONTEXT: LazyLock<Regex> =
+        LazyLock::new(|| Regex::new(r"[:;]").expect("roman colon context regex must compile"));
+    static TERM: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"\A\s+([^:;]{1,90}?):\s").expect("roman colon term regex must compile")
+    });
+    scan_fraction_markers(
+        text,
+        &CONTEXT,
+        char::is_whitespace,
+        |marker, separator_end| {
+            if marker.separator != "." {
+                return None;
+            }
+            TERM.find(&text[separator_end..])
+                .map(|term| separator_end + term.end())
+        },
+    )
+    .into_iter()
+    .map(|marker| {
+        let term = TERM
+            .captures(&text[marker.separator_end..])
+            .expect("an accepted entry has a term");
+        (
+            marker.start,
+            marker.label.to_owned(),
+            term[1].trim().to_owned(),
+        )
+    })
+    .collect()
+}
+
 /// `I. Término: definición; II. …` entries scanned inline. Each entry
 /// begins at a Roman-numeral fraction that follows the intro colon or a
 /// prior entry's `;`, and the term is the text up to that entry's first
 /// colon (bounded, so a definition's own colon is not mistaken for the
 /// term boundary). The span runs from the fraction to the next entry.
-fn roman_colon_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
-    let entry_re = Regex::new(&format!(
-        r"(?:^|[:;])\s*([IVXLCDM]+(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+([^:;]{{1,90}}?):\s"
-    ))?;
+fn roman_colon_entries(provision: &Provision) -> Vec<GlossaryEntry> {
     let text = &provision.text;
-    let mut starts: Vec<(usize, String, String)> = Vec::new();
-    for captures in entry_re.captures_iter(text) {
-        let fraction = captures.get(1).expect("fraction capture");
-        let term = captures.get(2).expect("term capture");
-        starts.push((
-            fraction.start(),
-            captures[1].to_owned(),
-            term.as_str().trim().to_owned(),
-        ));
-    }
+    let starts = roman_colon_starts(text);
     let mut entries = Vec::with_capacity(starts.len());
     for (index, (byte_start, fraction, term)) in starts.iter().enumerate() {
         let byte_end = starts
@@ -1541,7 +1696,7 @@ fn roman_colon_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
             end_char: text[..byte_end].chars().count(),
         });
     }
-    Ok(entries)
+    entries
 }
 
 /// Quoted vocables paired with their referents by `respectivamente`. The
@@ -3597,5 +3752,318 @@ mod tests {
         );
         // Nothing invalidated is reported as absent, not empty.
         assert_eq!(wider("Para los efectos de esta Ley se entenderá por:\n\nI. Agencia: La agencia;\n\nII. Grupo: El grupo.").invalidated_fractions, None);
+    }
+}
+
+/// The glossary fracción rules as they were before they moved to
+/// [`lex_core::fraction_marker_where`] (fintech pilot slice (b)), kept so
+/// the migrated rules are checked against them on every test run.
+#[cfg(test)]
+mod fraction_rule_parity {
+    use std::sync::LazyLock;
+
+    use lex_core::FRACTION_QUALIFIER_PATTERN;
+    use regex::Regex;
+
+    const NUMERALS: [&str; 10] = [
+        "I", "V", "XX", "XIV", "C", "D", "M", "CD", "IIIIIII", "IIIIIIII",
+    ];
+    const MIDDLES: [&str; 7] = ["", ".", ". ", "  ", " ", "\n", ".\n"];
+    const QUALIFIERS: [&str; 10] = [
+        "", "Bis", "bis", "BIS", "Quáter", "QUÁTER", "Quater", "Decies", "Bisiesto", "Bis 1",
+    ];
+    const SEPARATORS: [&str; 10] = [". ", ".- ", ".– ", ".", ".\n", ".  ", ". \n", ".-", "", " "];
+    const TAILS: [&str; 6] = [
+        "Término, definición",
+        "",
+        "a\nb",
+        "Bis. Texto",
+        "\n",
+        " Texto",
+    ];
+    const LEADS: [&str; 2] = ["", " "];
+
+    /// Every grid input: lead, numeral, middle, qualifier, separator, tail.
+    fn grid() -> Vec<String> {
+        let mut inputs = Vec::new();
+        for lead in LEADS {
+            for numeral in NUMERALS {
+                for middle in MIDDLES {
+                    for qualifier in QUALIFIERS {
+                        for separator in SEPARATORS {
+                            for tail in TAILS {
+                                inputs.push(format!(
+                                    "{lead}{numeral}{middle}{qualifier}{separator}{tail}"
+                                ));
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        inputs
+    }
+
+    static LEGACY_FRACTION_ENTRY: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"^([IVXLCDM]+(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+(.*)$"
+        ))
+        .expect("legacy fraction entry regex must compile")
+    });
+
+    fn legacy_fraction_entry_paragraph(paragraph: &str) -> Option<(String, String)> {
+        LEGACY_FRACTION_ENTRY
+            .captures(paragraph)
+            .map(|captures| (captures[1].to_owned(), captures[2].to_owned()))
+    }
+
+    /// Each single fraction marker shape of the grid: numeral, middle,
+    /// qualifier and separator.
+    fn marker_shapes() -> Vec<String> {
+        let mut shapes = Vec::new();
+        for numeral in NUMERALS {
+            for middle in MIDDLES {
+                for qualifier in QUALIFIERS {
+                    for separator in SEPARATORS {
+                        shapes.push(format!("{numeral}{middle}{qualifier}{separator}"));
+                    }
+                }
+            }
+        }
+        shapes
+    }
+
+    const CONTEXTS: [&str; 12] = [
+        "",
+        ";",
+        "\n",
+        "; ",
+        ":\t",
+        ".",
+        "(antes fracción IV) ",
+        "DOF 01-02-2020",
+        "DOF 01-02-2020. ",
+        " y ",
+        "y",
+        "x ",
+    ];
+    const BODIES: [&str; 3] = ["Término: definición", "", "\nII. Otro: x;III Bis. Más, y"];
+
+    /// Scan-rule grid inputs: a context and a marker shape, opening the text
+    /// or after a first entry, then a body.
+    fn scan_grid() -> Vec<String> {
+        let mut inputs = Vec::new();
+        for shape in marker_shapes() {
+            for context in CONTEXTS {
+                for body in BODIES {
+                    inputs.push(format!("{context}{shape}{body}"));
+                    inputs.push(format!("I. Primero: a{context}{shape}{body}"));
+                }
+            }
+        }
+        inputs
+    }
+
+    static LEGACY_MIXED_ENTRY: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?:^|[;\n]|\(antes fracción [IVXLCDM]+\) )[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+"
+        ))
+        .expect("legacy mixed entry regex must compile")
+    });
+
+    fn legacy_mixed_starts(text: &str) -> Vec<(usize, usize, String)> {
+        LEGACY_MIXED_ENTRY
+            .captures_iter(text)
+            .map(|c| {
+                let n = c.get(1).expect("fraction");
+                (
+                    n.start(),
+                    c.get(0).expect("entry").end(),
+                    n.as_str().to_owned(),
+                )
+            })
+            .collect()
+    }
+
+    #[test]
+    fn mixed_entries_match_the_legacy_rule() {
+        let inputs = scan_grid();
+        assert_eq!(inputs.len(), 504_000);
+        for input in &inputs {
+            assert_eq!(
+                super::mixed_fraction_starts(input),
+                legacy_mixed_starts(input),
+                "{input:?}"
+            );
+        }
+    }
+
+    static LEGACY_ESTABLISHED: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?:^|[;:\n]|DOF\s+\d{{2}}-\d{{2}}-\d{{4}}[.,]?)[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+"
+        ))
+        .expect("legacy established fraction regex must compile")
+    });
+
+    /// Whole-match start, numeral start, whole-match end and label.
+    fn legacy_established(text: &str) -> Vec<(usize, usize, usize, String)> {
+        LEGACY_ESTABLISHED
+            .captures_iter(text)
+            .map(|c| {
+                let whole = c.get(0).expect("whole");
+                let n = c.get(1).expect("numeral");
+                (whole.start(), n.start(), whole.end(), n.as_str().to_owned())
+            })
+            .collect()
+    }
+
+    fn established(text: &str) -> Vec<(usize, usize, usize, String)> {
+        super::established_fraction_markers(text)
+            .into_iter()
+            .map(|m| (m.context_start, m.start, m.end, m.label.to_owned()))
+            .collect()
+    }
+
+    static LEGACY_WIDER: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?:^|[;:.\n]|\by|DOF\s+\d{{2}}-\d{{2}}-\d{{4}})[ \t]*([IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.-?\s+",
+        ))
+        .expect("legacy wider fraction regex must compile")
+    });
+
+    /// Numeral start, whole-match end and label.
+    fn legacy_wider(text: &str) -> Vec<(usize, usize, String)> {
+        LEGACY_WIDER
+            .captures_iter(text)
+            .map(|c| {
+                let n = c.get(1).expect("numeral");
+                (
+                    n.start(),
+                    c.get(0).expect("whole").end(),
+                    n.as_str().to_owned(),
+                )
+            })
+            .collect()
+    }
+
+    fn wider(text: &str) -> Vec<(usize, usize, String)> {
+        super::wider_fraction_markers(text)
+            .into_iter()
+            .map(|m| (m.start, m.end, m.label.to_owned()))
+            .collect()
+    }
+
+    static LEGACY_SWALLOWED: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?:^|\s)[IVXLCDM]{{1,7}}(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?\.-?\s+[A-ZÁÉÍÓÚÑ]"
+        ))
+        .expect("legacy swallowed fraction regex must compile")
+    });
+
+    fn legacy_swallowed(body: &str) -> Option<&str> {
+        LEGACY_SWALLOWED.find(body).map(|found| found.as_str())
+    }
+
+    static LEGACY_ROMAN_COLON: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?:^|[:;])\s*([IVXLCDM]+(?:\.?\s+{FRACTION_QUALIFIER_PATTERN})?)\.\s+([^:;]{{1,90}}?):\s"
+        ))
+        .expect("legacy roman colon regex must compile")
+    });
+
+    fn legacy_roman_colon(text: &str) -> Vec<(usize, String, String)> {
+        LEGACY_ROMAN_COLON
+            .captures_iter(text)
+            .map(|c| {
+                let n = c.get(1).expect("fraction");
+                (n.start(), c[1].to_owned(), c[2].trim().to_owned())
+            })
+            .collect()
+    }
+
+    #[test]
+    fn established_fractions_match_the_legacy_rule() {
+        for input in &scan_grid() {
+            assert_eq!(established(input), legacy_established(input), "{input:?}");
+        }
+    }
+
+    #[test]
+    fn wider_fractions_match_the_legacy_rule() {
+        for input in &scan_grid() {
+            assert_eq!(wider(input), legacy_wider(input), "{input:?}");
+        }
+    }
+
+    #[test]
+    fn swallowed_fractions_match_the_legacy_rule() {
+        for input in &scan_grid() {
+            assert_eq!(
+                super::swallowed_fraction(input),
+                legacy_swallowed(input),
+                "{input:?}"
+            );
+        }
+    }
+
+    #[test]
+    fn roman_colon_entries_match_the_legacy_rule() {
+        for input in scan_grid().iter().chain(&grid()) {
+            assert_eq!(
+                super::roman_colon_starts(input),
+                legacy_roman_colon(input),
+                "{input:?}"
+            );
+        }
+    }
+
+    /// Shapes the grids miss: a `roman_colon` colon right after the
+    /// marker's whitespace, where only the bare reading has a term (or the
+    /// term is whitespace), and swallowed headings opening with an accented
+    /// capital, `Ñ` or a lowercase letter.
+    #[test]
+    fn edge_shapes_match_the_legacy_rules() {
+        for input in [
+            "XX. Bis. : x",
+            "I.  : x",
+            "I. : x",
+            ": I.  : x; II. B: y",
+            "XX Bis.  : x; XXI. C: z",
+        ] {
+            assert_eq!(
+                super::roman_colon_starts(input),
+                legacy_roman_colon(input),
+                "{input:?}"
+            );
+        }
+        for input in [
+            "texto II. Ámbito",
+            "texto II. Ñandú",
+            "texto II. ámbito",
+            "texto II.- Órgano",
+            "texto III Bis. Única",
+            "a\u{a0}III. Ébano",
+        ] {
+            assert_eq!(
+                super::swallowed_fraction(input),
+                legacy_swallowed(input),
+                "{input:?}"
+            );
+        }
+    }
+
+    #[test]
+    fn fraction_entries_match_the_legacy_rule() {
+        let inputs = grid();
+        assert_eq!(inputs.len(), 84_000);
+        for input in &inputs {
+            let migrated = super::fraction_entry_paragraph(input)
+                .map(|(label, body)| (label.to_owned(), body.to_owned()));
+            assert_eq!(
+                migrated,
+                legacy_fraction_entry_paragraph(input),
+                "{input:?}"
+            );
+        }
     }
 }

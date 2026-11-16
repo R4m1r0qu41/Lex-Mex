@@ -1318,6 +1318,101 @@ pub fn fraction_qualifier_rank(qualifier: &str) -> Option<u32> {
     .and_then(|index| u32::try_from(index + 1).ok())
 }
 
+/// The Roman fraction marker that opens a paragraph or source line, as printed:
+/// `VI. `, `VI.- `, `VI.– `, `XI Bis.- `, `XX. BIS. `. Parsed lexically and with
+/// no context policy: lone `C`, `L`, `D` and `M` are returned, and each caller
+/// decides whether its context admits them (see [`fraction_marker`]).
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+pub struct FractionMarker<'a> {
+    /// The Roman numeral (`XI`).
+    pub numeral: &'a str,
+    /// The qualifier word, if any, as printed (`Bis`, `BIS`, `Quáter`).
+    pub qualifier: Option<&'a str>,
+    /// The printed label from the numeral through the qualifier (`XI Bis`,
+    /// `XX. BIS`), the input of [`normalize_fraction_label`].
+    pub label: &'a str,
+    /// The separator after the label: `.`, `.-` or `.–`.
+    pub separator: &'a str,
+    /// Unicode scalar values from the start of the text through the
+    /// separator, excluding the whitespace that must follow it.
+    pub end_char: usize,
+}
+
+/// Read a fraction marker at the very start of `text`: a Roman numeral
+/// (`I V X L C D M`), optionally a qualifier word that
+/// [`fraction_qualifier_rank`] recognizes (preceded by whitespace, or by a
+/// period and whitespace), then `.`, optionally `-` or `–`, then whitespace.
+/// Text with any other shape (`II.Texto`, `I.-Texto`, `III Texto`,
+/// `XXIX-A.`, `I).`) is not a marker.
+#[must_use]
+pub fn fraction_marker(text: &str) -> Option<FractionMarker<'_>> {
+    fraction_marker_where(text, |_| true)
+}
+
+/// [`fraction_marker`] restricted to the readings `accept` admits. Readings
+/// are offered in the order a regex reads them: the qualified label first,
+/// then the bare numeral. So a caller whose context rejects the qualified
+/// reading still gets the bare one, as its regex did (`XX. Bis.- Texto`
+/// under a period-only rule reads `XX.`).
+#[must_use]
+pub fn fraction_marker_where<'a>(
+    text: &'a str,
+    mut accept: impl FnMut(&FractionMarker<'a>) -> bool,
+) -> Option<FractionMarker<'a>> {
+    let numeral_len = text
+        .bytes()
+        .take_while(|byte| matches!(byte, b'I' | b'V' | b'X' | b'L' | b'C' | b'D' | b'M'))
+        .count();
+    if numeral_len == 0 {
+        return None;
+    }
+    let after_numeral = &text[numeral_len..];
+    let spaced = after_numeral.strip_prefix('.').unwrap_or(after_numeral);
+    let word_start = spaced.trim_start_matches(char::is_whitespace);
+    if word_start.len() < spaced.len() {
+        let word_len = word_start
+            .char_indices()
+            .find(|(_, c)| !c.is_alphabetic())
+            .map_or(word_start.len(), |(index, _)| index);
+        let word = &word_start[..word_len];
+        if fraction_qualifier_rank(word).is_some() {
+            let label_end = text.len() - word_start.len() + word_len;
+            if let Some(marker) = marker_ending_at(text, numeral_len, label_end, Some(word))
+                .filter(|marker| accept(marker))
+            {
+                return Some(marker);
+            }
+        }
+    }
+    // No qualified reading completes (`XX. Bis de la ley`) or is accepted:
+    // the bare numeral may still be the label, as both earlier recognizers
+    // read it.
+    marker_ending_at(text, numeral_len, numeral_len, None).filter(|marker| accept(marker))
+}
+
+/// The marker whose label ends at byte `label_end`, if a separator and the
+/// required whitespace follow it there.
+fn marker_ending_at<'a>(
+    text: &'a str,
+    numeral_len: usize,
+    label_end: usize,
+    qualifier: Option<&'a str>,
+) -> Option<FractionMarker<'a>> {
+    let rest = text[label_end..].strip_prefix('.')?;
+    let dash = ['-', '–'].into_iter().find(|dash| rest.starts_with(*dash));
+    let separator_end = label_end + 1 + dash.map_or(0, char::len_utf8);
+    if !text[separator_end..].starts_with(char::is_whitespace) {
+        return None;
+    }
+    Some(FractionMarker {
+        numeral: &text[..numeral_len],
+        qualifier,
+        label: &text[..label_end],
+        separator: &text[label_end..separator_end],
+        end_char: text[..separator_end].chars().count(),
+    })
+}
+
 /// A printed fraction label with its qualifier in title case and one space
 /// before it: `XX BIS`, `XX  bis` and `XX. Bis` all read `XX Bis`. The
 /// spelling is otherwise kept (`Quater` stays unaccented).
@@ -2158,6 +2253,93 @@ pub struct ValidationReport {
     #[serde(default)]
     pub reference_count: usize,
     pub issues: Vec<ValidationIssue>,
+}
+
+#[cfg(test)]
+mod fraction_marker_tests {
+    use super::{FractionMarker, fraction_marker, fraction_marker_where};
+
+    fn label(text: &str) -> Option<(&str, &str, usize)> {
+        fraction_marker(text).map(|marker| (marker.label, marker.separator, marker.end_char))
+    }
+
+    #[test]
+    fn reads_the_period_and_dash_separators() {
+        assert_eq!(label("VI. La firma."), Some(("VI", ".", 3)));
+        assert_eq!(label("VI.- La firma."), Some(("VI", ".-", 4)));
+        assert_eq!(label("VI.– La firma."), Some(("VI", ".–", 4)));
+    }
+
+    #[test]
+    fn reads_a_qualifier_in_any_printed_form_and_counts_characters() {
+        // lcndh 23 `III Bis.-`; cpf 217 `I. bis.-`; lritf `XX BIS.`.
+        assert_eq!(label("III Bis.- Contar"), Some(("III Bis", ".-", 9)));
+        assert_eq!(label("I. bis.- El servidor"), Some(("I. bis", ".-", 8)));
+        assert_eq!(label("XX BIS. Luz"), Some(("XX BIS", ".", 7)));
+        // `Quáter` is one character longer in bytes than in scalars.
+        assert_eq!(label("X Quáter.- Texto"), Some(("X Quáter", ".-", 10)));
+        assert_eq!(
+            fraction_marker("XI Bis. T"),
+            Some(FractionMarker {
+                numeral: "XI",
+                qualifier: Some("Bis"),
+                label: "XI Bis",
+                separator: ".",
+                end_char: 7,
+            })
+        );
+    }
+
+    #[test]
+    fn a_word_that_is_not_a_qualifier_leaves_the_bare_numeral() {
+        assert_eq!(label("XX. Bisiesto"), Some(("XX", ".", 3)));
+        assert_eq!(label("XX Bisiesto. T"), None);
+        assert_eq!(label("XXX Bis 1. Residuos"), None);
+    }
+
+    #[test]
+    fn a_qualifier_reading_that_does_not_complete_falls_back_to_the_bare_numeral() {
+        // Both earlier recognizers read these as a bare `XX.`.
+        assert_eq!(label("XX. Bis de la ley"), Some(("XX", ".", 3)));
+        assert_eq!(label("XX. Bis.Texto"), Some(("XX", ".", 3)));
+        assert_eq!(label("XX.- Bis de la ley"), Some(("XX", ".-", 4)));
+    }
+
+    #[test]
+    fn a_rejected_qualified_reading_falls_back_to_the_bare_numeral() {
+        let period_only = |text| {
+            fraction_marker_where(text, |marker| marker.separator == ".")
+                .map(|marker| (marker.label, marker.separator))
+        };
+        assert_eq!(period_only("XX. Bis.- Texto"), Some(("XX", ".")));
+        assert_eq!(period_only("XX Bis.- Texto"), None);
+        assert_eq!(period_only("XX Bis. Texto"), Some(("XX Bis", ".")));
+        assert_eq!(fraction_marker_where("VI. Texto", |_| false), None);
+    }
+
+    #[test]
+    fn other_shapes_are_not_markers() {
+        for other in [
+            "II.Texto",
+            "I.-Aeronave",
+            "III Asesores",
+            "XXIX-A. Para",
+            "I). Por",
+            "IV del artículo",
+            "Inciso",
+            "I.",
+            "I.-",
+            "",
+        ] {
+            assert_eq!(fraction_marker(other), None, "{other}");
+        }
+    }
+
+    #[test]
+    fn lone_letters_are_returned_for_the_caller_to_judge() {
+        assert_eq!(label("C. Presidente"), Some(("C", ".", 2)));
+        assert_eq!(label("L. Texto"), Some(("L", ".", 2)));
+    }
 }
 
 #[cfg(test)]
