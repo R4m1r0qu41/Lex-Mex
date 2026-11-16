@@ -38,13 +38,21 @@ conflict with a sealed answer (R6). Draft 2 in the pilot plan fixes R1–R5. It 
   `node_id` requests.
 
 `fixtures/fintech-structural-g1-2026-11-14/` now holds:
-- 116 hand-derived rows, with the 73 draft-1 rows unchanged apart from two representation fixes;
+- 123 hand-derived rows, with the 73 draft-1 rows unchanged apart from two representation fixes;
 - full and must-fail responses;
 - a schema checker that runs offline;
 - the committed measurement probe.
 
-R6 waits for an independent evaluator after G1 is frozen. Next: a new Codex review of G1 draft
-2. Before G2, the holdout answers need an evaluator-held encrypted backup.
+Codex then reviewed draft 2 and returned **revise**, limited to two rule interactions
+([review](fintech-pilot-g1-draft2-codex-review-2026-11-14.md)). R1, R2, R4 and R5 are closed.
+Draft 3 fixes both interactions:
+- a same-line fraction candidate is held by the root even inside a tail inciso;
+- the tail of an article with no fraction can begin with an interior note, and the last
+  inciso's certain span ends before it.
+
+It adds Codex's two texts as 7 rows and 4 full responses; every draft-2 row and response is
+unchanged. R6 waits for an independent evaluator after G1 is frozen. Next: a Codex review of G1
+draft 3. Before G2, the holdout answers need an evaluator-held encrypted backup.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 

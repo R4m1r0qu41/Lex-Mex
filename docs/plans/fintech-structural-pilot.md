@@ -5,8 +5,10 @@
 checked from the builder side; Codex approved G0 with conditions on 2026-11-14
 ([disposition](../fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 is amended accordingly.
 Codex returned **revise** on G1 draft 1
-([review](../fintech-pilot-g1-codex-review-2026-11-14.md)). The G1 contract below is draft 2,
-awaiting a new Codex review. G2 also needs the holdout backup evidence.
+([review](../fintech-pilot-g1-codex-review-2026-11-14.md)) and on draft 2
+([review](../fintech-pilot-g1-draft2-codex-review-2026-11-14.md)), the second limited to two rule
+interactions. The G1 contract below is draft 3, awaiting a new Codex review. G2 also needs the
+holdout backup evidence.
 **Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
 pilot, "with your recommendations applied".
 **Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
@@ -432,7 +434,7 @@ and backup custody independently blocks G2.
 **Current next action:** builder makes the two bounded public rule/fixture
 revisions and submits a new commit-bound G1 review.
 
-## G1 contract, pilot-v1 (draft 2 for Codex review, 2026-11-14)
+## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
 `01-span-parenthood-contract` and `lookup-contract`. It was written from V2 §4, from the
@@ -445,6 +447,11 @@ Draft 2 answers the [Codex G1 review](../fintech-pilot-g1-codex-review-2026-11-1
 revise). Each change is tied to one of R1–R5 and to a public witness, and G1.10 lists the
 changes. No change was made for R6, and none uses the sealed answers: R6 belongs to an
 independent evaluator after this contract is frozen.
+
+Draft 3 answers the [Codex draft-2 review](../fintech-pilot-g1-draft2-codex-review-2026-11-14.md)
+(verdict: revise, limited to items A and B). It changes three rules and adds the review's two
+public witnesses; G1.11 lists the changes. Nothing else from draft 2 was redesigned, and again
+nothing was changed toward the sealed answers.
 
 ### G1.1 Scope
 
@@ -527,7 +534,9 @@ them but never turns them into nodes.
   provision ID and creates no canonical provision.
 - **Fractions.** Fractions are children of the root.
 - **Regions.** A position is in the region of node N when N is the innermost node whose region
-  contains it.
+  contains it. Region ranges nest: a fraction's range contains the ranges of its incisos and, for
+  T, of the tail incisos. Where G1.5 says a node's region *contains* a position, it means this
+  range, so the innermost node and every node enclosing it all qualify.
   - The root's region is the whole text.
   - A fraction's region runs from its marker paragraph to the paragraph before the next
     fraction marker, or to the end of the text.
@@ -565,8 +574,15 @@ them but never turns them into nodes.
 - **The tail, in an article with no fraction.** Here T would be the root, so a tail inciso's
   candidate parents [T, root] collapse to one, and no inciso has an uncertain parent. The root
   has no run.
-  - The tail is the unlabelled paragraphs after the last inciso, leaving out a run of closing
-    notes.
+  - The tail runs from the first paragraph after the last inciso's marker paragraph to the end
+    of the text, leaving out a run of closing notes. If nothing remains, there is no tail. This
+    is the same shape as in an article with fractions, so the tail can begin with an interior
+    note.
+  - Article notes inside the tail stay root-owned, certainly. The tail segment's range encloses
+    them but claims nothing about them. Ownership rule 2 comes before rule 3, so an unlabelled
+    paragraph after such a note belongs to the tail segment, not to a `note_interruption`
+    segment. The last inciso's certain span therefore ends at the end of its marker paragraph,
+    before any note.
   - Its segment's candidate owners are the last inciso and the root.
   - An article with no marker at all has no tail.
 - **Unlabelled paragraphs.** These are `content` and `unsupported_marker` paragraphs. For each
@@ -619,7 +635,8 @@ them but never turns them into nodes.
 - **`complete_span` of a non-root node.** It runs from the label start to the end of the last
   paragraph that the node or one of its descendants certainly owns. It never includes the
   `\n\n` after it, and it never includes a root-owned note: G1.4 makes every layout that would
-  put a note inside it either a `note_interruption` or `unexpected_layout`.
+  put a note inside it a tail, a `note_interruption` or `unexpected_layout`, and each of the
+  first two cuts the span before the note.
 - **Which uncertainties cut which span.** Each source below either cuts a node's span or does
   not; nothing else does.
 
@@ -629,7 +646,7 @@ them but never turns them into nodes.
   | `note_interruption` segment | each candidate owner except the root | at the end of the last paragraph before the note |
   | `post_child_attachment` segment [m, F] | m only; F certainly owns the paragraphs | at the end of m's last certainly owned paragraph |
   | `unsupported_marker` paragraph U, owned by N (in a tail, N is the tail's first candidate) | N and each ancestor of N except the root | at the end of the paragraph before U |
-  | Same-line candidate C, held by P (G1.6) | each node strictly below P whose region contains C | right after the `[:;.]` before C |
+  | Same-line candidate C, held by P (G1.6) | each node strictly below P whose region range contains C (G1.4): the innermost node and every node enclosing it | right after the `[:;.]` before C |
 
   - The same table governs intros. A non-root intro is cut only by a same-line candidate. The
     root's intro is cut by a same-line candidate or an `unsupported_marker` inside it.
@@ -642,8 +659,8 @@ them but never turns them into nodes.
   - A same-line candidate's segment runs from the candidate to the end of its paragraph, and
     the segments of two candidates in one paragraph may overlap. An `unsupported_marker`'s
     segment runs from that marker to the end of its paragraph.
-  - Their candidate owners are, for a same-line candidate, the nodes it cuts followed by P; for
-    an unsupported marker, N and each of its ancestors up to the root.
+  - Their candidate owners are, for a same-line candidate, the nodes it cuts, innermost first,
+    followed by P; for an unsupported marker, N and each of its ancestors up to the root.
   - A tail, `note_interruption` or post-child segment runs over the uncertain paragraphs.
   - Each records `start_char`, `end_char`, a reason (`trailing_attachment`,
     `note_interruption`, `post_child_attachment`, `unsupported_marker`, `same_line_marker`)
@@ -686,9 +703,13 @@ them but never turns them into nodes.
   - otherwise `complete`.
 - **Who holds a candidate.**
   - A same-line candidate of kind k, found in the region of node N (G1.4), is held by P: N
-    itself or N's nearest ancestor that can hold kind k. That is the root for fractions, and the
-    fraction (or the root, in an article with no fraction) for incisos. For a candidate in a
-    tail inciso's region, P is T.
+    itself or N's nearest ancestor that can hold kind k.
+    - **A fraction candidate** is held by the root, wherever it sits, including inside a tail
+      inciso's region. The root's fraction scan then gains `same_line_marker`, so a request for
+      that fraction follows L2, and no fraction request returns `not_found`.
+    - **An inciso candidate** is held by the fraction whose region it is in, or by the root in an
+      article with no fraction. Inside a tail inciso's region, whose parent is uncertain, it is
+      held by T.
   - **No holder.** A same-line inciso candidate in the root's own region of an article with
     fractions (its chapeau) has no holder. It adds no scan reason and takes part in no lookup.
     It still cuts the root's intro (G1.5), and its segment's only candidate owner is the root.
@@ -880,12 +901,16 @@ The fixture folder `fixtures/fintech-structural-g1-2026-11-14/` holds:
     - an article with no fraction, with root-child incisos and a root lookup;
     - layouts that fail closed: a lone `\n`, an inciso before the first fraction, and an inciso
       after an interior note;
-    - a same-line inciso in a fraction article's chapeau.
+    - a same-line inciso in a fraction article's chapeau;
+    - a same-line fraction candidate inside a tail inciso (draft-2 review, item A);
+    - a no-fraction tail that begins with an interior note (draft-2 review, item B).
 - **`responses.json`.** Full response instances for every outcome and both ambiguity kinds.
   Among them are:
   - an invalid mode, an unknown key, a `node_id` request and a malformed value;
   - a successful root lookup, an empty root intro and a root-child inciso;
-  - a stale binding and an `unexpected_layout`.
+  - a stale binding and an `unexpected_layout`;
+  - a root-held same-line fraction candidate, with the root's fraction scan `partial`, and a
+    no-fraction tail segment that encloses a note.
 
   Each is tied to a row and a mode.
 - **`responses-must-fail.json`.** Responses that break one presence or type rule each, which
@@ -959,3 +984,21 @@ record follows G0 condition 3: G0 v1 is kept unchanged, and no case is disclosed
 - **No-fraction tails.** No draft-1 row covered an article with no fraction that has incisos
   (measured: 4 such articles outside the holdout, none with paragraphs after the last inciso),
   so the new rule changes no earlier row.
+
+### G1.11 Changes in draft 3
+
+| Review item | Change | Public witness |
+|---|---|---|
+| A | The holder rule is qualified by kind. A fraction candidate is held by the root everywhere, including inside a tail inciso's region; only an inciso candidate there is held by T. The root's fraction scan becomes `partial`, the matching fraction request follows L2, and no fraction request returns `not_found` | `g1-syn-24-*`, Codex's text; full responses for q1, q2 and q4 |
+| A, consequence | The cut rule needed a defined input once a candidate's holder can sit two levels above it. Region ranges nest, and a same-line candidate cuts every node strictly below its holder whose range contains it, innermost first. In the witness this cuts T as well as the tail inciso; T's certain part still ends where the tail cuts it | `g1-syn-24-*-q4` (two segments) |
+| B | The tail of an article with no fraction runs from the first paragraph after the last inciso's marker paragraph, as in an article with fractions. It encloses interior notes, which stay root-owned, and rule 2 keeps the paragraphs after them in the tail segment. The last inciso's certain span ends before the note. Root parenthood and the root's `complete` span stay resolved | `g1-syn-25-*`, Codex's text; full response for q1 |
+| R6 | No change. Left to the independent evaluator after freeze | none |
+
+**Changed expectations from draft 2.** None. All 116 draft-2 rows and all 24 full responses are
+unchanged, compared case by case; only the fixtures' `contract` label now says draft 3. No
+draft-2 row had a same-line fraction candidate outside a chapeau. The one draft-2 no-fraction
+tail, in `g1-syn-19`, holds no note, so both tail definitions give it the same span. The probe
+already starts a no-fraction tail at the first paragraph after the last inciso, so `measure.py`
+and `measure-output.txt` are unchanged. Measured on non-holdout articles, neither layout occurs:
+the probe counts 0 same-line fraction candidates (`same_line_fraction`) and 0 tails in the 4
+articles with incisos and no fraction (`no_fraction_inciso_articles_with_tail`).

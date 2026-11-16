@@ -4828,9 +4828,353 @@
    "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-23-same-line-inciso-in-chapeau",
    "synthetic_text": "Texto: a) alfa.\n\nI. Uno.",
    "synthetic_text_sha256": "e55cc7b805184e0dd914da72c590bc8c2a77448ef417e0354fd03c7ae5755a09"
+  },
+  {
+   "case_id": "g1-syn-24-fraction-candidate-in-tail-inciso-q1",
+   "decision": {
+    "also_applies": [
+     "L7"
+    ],
+    "branch": "L2"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": null,
+       "path": "(same-line II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": null,
+       "path": "(same-line II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "II.",
+       "label_span": [
+        27,
+        30
+       ],
+       "node_id": null,
+       "path": "(same-line II)"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "same_line_marker"
+    }
+   },
+   "locator": {
+    "fraction": "II"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-24-fraction-candidate-in-tail-inciso",
+   "synthetic_text": "I. Uno.\n\nCierre.\n\na) Alfa; II. Dos.",
+   "synthetic_text_sha256": "9c97603b49bd67d9e52d7a3f111778af68cef3a6ece4ae7bc565ba45ecf042a3"
+  },
+  {
+   "case_id": "g1-syn-24-fraction-candidate-in-tail-inciso-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L7"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "intro": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    },
+    "label": {
+     "outcome": "not_structured",
+     "reason": "partial_scan"
+    }
+   },
+   "locator": {
+    "fraction": "III"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-24-fraction-candidate-in-tail-inciso",
+   "synthetic_text": "I. Uno.\n\nCierre.\n\na) Alfa; II. Dos.",
+   "synthetic_text_sha256": "9c97603b49bd67d9e52d7a3f111778af68cef3a6ece4ae7bc565ba45ecf042a3"
+  },
+  {
+   "case_id": "g1-syn-24-fraction-candidate-in-tail-inciso-q3",
+   "decision": {
+    "also_applies": [
+     "L4"
+    ],
+    "branch": "L1"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        18,
+        20
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "intro": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        18,
+        20
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    },
+    "label": {
+     "ambiguity": "path",
+     "candidates": [
+      {
+       "exact_quote": "a)",
+       "label_span": [
+        18,
+        20
+       ],
+       "node_id": "path:tail/i.a.1",
+       "path": "tail/i.a.1"
+      }
+     ],
+     "outcome": "ambiguous",
+     "reason": "ambiguous_parent"
+    }
+   },
+   "locator": {
+    "fraction": "I",
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-24-fraction-candidate-in-tail-inciso",
+   "synthetic_text": "I. Uno.\n\nCierre.\n\na) Alfa; II. Dos.",
+   "synthetic_text_sha256": "9c97603b49bd67d9e52d7a3f111778af68cef3a6ece4ae7bc565ba45ecf042a3"
+  },
+  {
+   "case_id": "g1-syn-24-fraction-candidate-in-tail-inciso-q4",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      7
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 35,
+       "reason": "trailing_attachment",
+       "start_char": 9
+      },
+      {
+       "candidate_owner_paths": [
+        "tail/i.a.1",
+        "f.I.1",
+        "root"
+       ],
+       "end_char": 35,
+       "reason": "same_line_marker",
+       "start_char": 27
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      3,
+      7
+     ],
+     "substring_sha256": "0673a9e3bcbed5088a603a0d942ec78617bacb99658f6323dd5f811466ed9ba1"
+    },
+    "label": {
+     "exact_quote": "I.",
+     "outcome": "resolved",
+     "span": [
+      0,
+      2
+     ],
+     "substring_sha256": "6177fd2664d785bf3c9f9b89a952d6510465c507c1b37b3b4d93295eb409896b"
+    }
+   },
+   "locator": {
+    "fraction": "I"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-24-fraction-candidate-in-tail-inciso",
+   "synthetic_text": "I. Uno.\n\nCierre.\n\na) Alfa; II. Dos.",
+   "synthetic_text_sha256": "9c97603b49bd67d9e52d7a3f111778af68cef3a6ece4ae7bc565ba45ecf042a3"
+  },
+  {
+   "case_id": "g1-syn-25-no-fraction-tail-across-note-q1",
+   "decision": {
+    "also_applies": [],
+    "branch": "L4"
+   },
+   "expected": {
+    "complete": {
+     "ambiguity": "span",
+     "certain_span": [
+      0,
+      8
+     ],
+     "outcome": "ambiguous",
+     "reason": "unresolved_boundary",
+     "unresolved_segments": [
+      {
+       "candidate_owner_paths": [
+        "i.a.1",
+        "root"
+       ],
+       "end_char": 52,
+       "reason": "trailing_attachment",
+       "start_char": 10
+      }
+     ]
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      3,
+      8
+     ],
+     "substring_sha256": "a78307b773cc884d1707ab46999f3e469bb933c43e89e0af73fd1073ccf573da"
+    },
+    "label": {
+     "exact_quote": "a)",
+     "outcome": "resolved",
+     "span": [
+      0,
+      2
+     ],
+     "substring_sha256": "15dce557bffbc9fe7d3b9df1014380a6ea308da2ee400ed1e882b6a4c6f7eaf0"
+    }
+   },
+   "locator": {
+    "inciso": "a"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-25-no-fraction-tail-across-note",
+   "synthetic_text": "a) Alfa.\n\nArtículo reformado DOF 01-01-2020\n\nCierre.",
+   "synthetic_text_sha256": "1d4965542ab2fda745ce090dd59acfb9dd9d33d49592829f0ae4e54d56ff4934"
+  },
+  {
+   "case_id": "g1-syn-25-no-fraction-tail-across-note-q2",
+   "decision": {
+    "also_applies": [],
+    "branch": "L5"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "intro": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    },
+    "label": {
+     "outcome": "not_found",
+     "reason": "absent_in_complete_scan"
+    }
+   },
+   "locator": {
+    "inciso": "b"
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-25-no-fraction-tail-across-note",
+   "synthetic_text": "a) Alfa.\n\nArtículo reformado DOF 01-01-2020\n\nCierre.",
+   "synthetic_text_sha256": "1d4965542ab2fda745ce090dd59acfb9dd9d33d49592829f0ae4e54d56ff4934"
+  },
+  {
+   "case_id": "g1-syn-25-no-fraction-tail-across-note-q3",
+   "decision": {
+    "also_applies": [],
+    "branch": "R"
+   },
+   "expected": {
+    "complete": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      52
+     ],
+     "substring_sha256": "1d4965542ab2fda745ce090dd59acfb9dd9d33d49592829f0ae4e54d56ff4934"
+    },
+    "intro": {
+     "outcome": "resolved",
+     "span": [
+      0,
+      0
+     ],
+     "substring_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+   },
+   "locator": {
+    "article_root": true
+   },
+   "scope": "statute_body (synthetic eligible article)",
+   "source": "synthetic",
+   "synthetic_provision_id": "urn:lex-mx:synthetic:g1-syn-25-no-fraction-tail-across-note",
+   "synthetic_text": "a) Alfa.\n\nArtículo reformado DOF 01-01-2020\n\nCierre.",
+   "synthetic_text_sha256": "1d4965542ab2fda745ce090dd59acfb9dd9d33d49592829f0ae4e54d56ff4934"
   }
  ],
- "contract": "pilot-v1 G1 draft 2, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",
+ "contract": "pilot-v1 G1 draft 3, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",
  "conventions": {
   "candidate_owner_paths": "paths relative to the provision root; node_id = <provision_id>#pilot-v1:<sha12>:<path>",
   "certain_span null": "no certain part is claimed",

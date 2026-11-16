@@ -936,6 +936,6 @@
    "why": "resolved root echoing a label-mode root request"
   }
  ],
- "contract": "pilot-v1 G1 draft 2, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",
+ "contract": "pilot-v1 G1 draft 3, docs/plans/fintech-structural-pilot.md section \"G1 contract\"",
  "note": "Each response breaks one presence, type or pattern rule of projection.schema.json and must be rejected."
 }
