@@ -7,8 +7,9 @@ checked from the builder side; Codex approved G0 with conditions on 2026-11-14
 Codex returned **revise** on G1 draft 1
 ([review](../fintech-pilot-g1-codex-review-2026-11-14.md)) and on draft 2
 ([review](../fintech-pilot-g1-draft2-codex-review-2026-11-14.md)), the second limited to two rule
-interactions. The G1 contract below is draft 3, awaiting a new Codex review. G2 also needs the
-holdout backup evidence.
+interactions. Codex approved the G1 draft-3 contract at `a6d94025f` on 2026-11-15
+([review](../fintech-pilot-g1-draft3-codex-review-2026-11-15.md)). G2 still needs
+the holdout backup evidence; private evaluation versioning remains required before G3.
 **Order:** JRH, 2026-11-13: fix the LIEPS transitory grouping first (merged as PR #3), then this
 pilot, "with your recommendations applied".
 **Authority:** canonical `Provision.text`, canonical IDs, reviewer decisions, temporal decisions,
@@ -433,6 +434,19 @@ and backup custody independently blocks G2.
 
 **Current next action:** builder makes the two bounded public rule/fixture
 revisions and submits a new commit-bound G1 review.
+
+## G1 draft-3 approval checkpoint, 2026-11-15
+
+Codex approved G1 at `a6d94025f`; both remaining draft-2 interactions are
+closed. See `docs/fintech-pilot-g1-draft3-codex-review-2026-11-15.md`, including
+the contract-bound compatibility record. All supplied fixture/schema checks
+pass, prior expectations are preserved and measurement hashes/counters
+reproduce. Original G0 gold remains unchanged; its known incompatibility
+requires independent private evaluation versioning before G3.
+
+**Current next action:** evaluator supplies encrypted holdout backup and a
+successful restore/hash check before G2. G1 acceptance does not clear custody
+or authorize G2/G3 execution. The frozen contract text below is unchanged.
 
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
