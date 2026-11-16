@@ -15,6 +15,27 @@ Read-only measurement on branch `status/in-force-scjn` (base `47a3ffc59`), for t
 - **Residue that looks like an SCJN note but is not recognised: 55 provisions**, listed below. None is classified automatically.
 - **Residue that is the law's own wording** ("pensión de invalidez", "invalida el contrato"), with no mention of the SCJN, an acción or a declaratoria: 202 provisions. The most frequent are `lss` 56, `lissste` 40, `reg-pmimss` 14, `lamp` 8, `reg-lss-macerf` 6, `lft` 5, `lisr` 4, `lrfiyii-art105` 4.
 
+## Classification from context (supersedes the residue counts above)
+
+A Cámara note has a fixed structure: "<unit> declarado [parcialmente] inválido / inconstitucional
+… por sentencia / resolutivos / Declaratoria … de la SCJN". The law's own wording about
+invalidity never has that "declarado … por sentencia" form. LOPJF, the Amparo law and CPEUM
+art. 105 describe how invalidity works; LSS and LISSSTE speak of "pensión de invalidez". Read
+this way, all 714 provisions fall into two groups:
+
+- **Real notes: 460 provisions.**
+  - 457 have the full form.
+  - 3 are short continuations of the note before them: "Declarado parcialmente inválido por
+    sentencia …" in `lfsv` 77, and "Declarado inválido por sentencia … (En la porción normativa
+    …)" in `lgs` 235 and 247. They take the unit of that earlier note: the article in `lfsv` 77,
+    the paragraph in `lgs` 235 and 247.
+- **The law's own wording: 254 provisions.** None contains the note form anywhere, so none is an
+  invalidation. This includes the 55 "SCJN-looking" items listed below.
+- **Ambiguous: none.**
+
+JRH, 2026-11-16: "lopjf talks about how the invalidty rules work on many places same as amparo,
+they are clearly not invalid".
+
 ## By instrument
 
 "Rulings as printed" counts the date each note prints. A note with "notified" shows its notification date; "DOF … only" means the note prints only the publication date. Under decision 11 the effect date comes from the ruling itself either way.
