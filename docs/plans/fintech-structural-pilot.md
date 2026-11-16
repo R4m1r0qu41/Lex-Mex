@@ -534,6 +534,20 @@ freeze acceptance. Frozen G1 text and gold remain unchanged.
   `lic` 45-R) are not a G1.3 form. They stay content; Codex is asked to rule.
 - **Next:** Codex re-review for code freeze.
 
+## G2 re-review acceptance checkpoint, 2026-11-16
+
+Codex accepts `991b5dc85` for pilot-v1 code freeze. P2 is closed; the requested
+choice pins and loaded-context documentation are accepted. See
+`docs/fintech-pilot-g2-rereview-codex-2026-11-16.md`. Native gates, both required
+validators, G0/G1 verifiers and G1 schema check pass. The frozen contract digest
+is unchanged. Single-capital `A)` and accented-lowercase `á)` coverage is deferred
+to a versioned pilot-v2 contract; current output does not establish apartado
+hierarchy. No G3 run, gold access, commit or push occurred in this review.
+
+**Current next action:** independent evaluator versions the private
+`g1-draft3-compatibility-v1` disposition, then runs G3 against frozen `991b5dc85`.
+Original gold and the disclosed pre-freeze smoke deviation remain preserved.
+
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
