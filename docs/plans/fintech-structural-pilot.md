@@ -496,9 +496,10 @@ G2 is built in `1075a6ce7`, with no other change:
 
 The tests pass against the committed fixtures:
 - 123 rows, 346 requests, deciding branches included;
-- 28 full responses, byte for byte;
+- 28 full responses, by exact JSON equality;
 - the projection example, schema validity and determinism;
-- the probe's corpus counters, and a corpus label-lookup sweep.
+- the probe's classification and structural counters;
+- a corpus sweep of all three modes, schema-validated. A later test-only commit widened these two.
 
 The code met no row it had to disagree with. The workspace suite (556 tests), strict clippy,
 both validators and the G0/G1 checks pass. Four deliberate rule breaks each failed the suite.
