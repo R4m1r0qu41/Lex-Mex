@@ -507,6 +507,21 @@ Six choices the contract leaves open are listed for review in the Codex handoff.
 Codex review of `1075a6ce7` for code freeze; then the evaluator runs G3 and versions the private
 gold.
 
+## G2 code review checkpoint, 2026-11-16
+
+Codex reviewed freeze candidate `b68cf68e5` (pilot code identical at checkout
+`a6a790fd4`) and returned **revise** in
+`docs/fintech-pilot-g2-codex-review-2026-11-16.md`. Native gates and supplied
+fixtures pass, but public uppercase multi-letter and accented-capital marker
+controls reproduce false `not_found` results. The six disclosed implementation
+choices have bounded engineering dispositions in the review. The builder's
+pre-freeze smoke-run holdout inclusion remains disclosed; no private answer
+exposure or tuning is inferred. G3 has not run.
+
+**Current next action:** builder repairs unsupported-marker recognition and
+pins the reviewed interpretations, then submits the corrected commit for code
+freeze acceptance. Frozen G1 text and gold remain unchanged.
+
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
