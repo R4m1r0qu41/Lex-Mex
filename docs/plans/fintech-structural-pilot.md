@@ -465,6 +465,28 @@ Independent private evaluation versioning remains required before G3; the
 builder continues to exclude sealed answers and holdout provisions before
 code freeze under D6.
 
+## G2 authorization and working method, 2026-11-16
+
+JRH, 2026-11-16: "Yes switch to the leaner approach for G2". G2 runs as follows:
+- **Code and tests first.** The lookup is a new read-only module on the shared fracción
+  recogniser. The parser, canonical data and projection output stay untouched; output goes to
+  scratch or test paths only.
+- **Fixtures drive the tests.** The tests read the committed G1 fixtures (123 rows, 28 full
+  responses, 32 must-fail responses) directly, never copies of them.
+- **Disagreements are findings.** If the code and a row disagree and the code is wrong, the code
+  is fixed. If a row or the prose is wrong or ambiguous, the fixtures, `verify.py` and the frozen
+  contract stay unchanged. The disagreement is logged for the review.
+- **Holdout excluded.** Development uses only the 16 development provisions and the synthetic
+  rows. A wider corpus sweep skips the 8 holdout provisions and reports aggregates only. The
+  measurement probe serves as a second oracle on non-holdout text.
+- **One Codex review.** The code is frozen at a named commit, and one Codex handoff follows at the
+  end of G2, with short records. The evaluator, not the builder, runs G3.
+
+Before handoff, an advisor reviewed the full validation battery on 2026-11-16 (session tier, not
+independent): fmt, strict clippy, 545 tests, `validate` for all 468 instruments, fidelity and
+qualifier audits equal to the recorded baseline, the G0/G1 verifiers, the schema check, the probe,
+and the contract digest.
+
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's

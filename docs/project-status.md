@@ -58,8 +58,14 @@ Codex **approved G1** at `a6d94025f` on 2026-11-15
 G2 or G3 work. The review's compatibility record binds the frozen contract section by digest
 and finds a sealed G0 answer still incompatible with it, without naming the case. G0 v1 stays
 unchanged; before G3, an independent evaluator versions any private gold or evaluation
-disposition. Next, an evaluator action: before G2, the holdout answers need an evaluator-held
-encrypted backup and a successful restore and hash check.
+disposition. Codex, as evaluator, made the encrypted holdout backup and passed a restore and hash
+check on 2026-11-16 ([receipt](fintech-pilot-holdout-custody-2026-11-16.md)). JRH authorized G2
+the same day, in a leaner form: code and tests first, then one Codex review at the end.
+
+JRH also answered the LGPP/LGIPE questions on 2026-11-16 and widened them into a corpus-wide
+in-force rule ([decision](jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md)). No
+status has changed yet. The status pass must not run on the pilot branch before G3, because the
+G0 sample pins the `lritf`, `lic` and `lmv` provision files.
 
 ## 2026-11-13 LIEPS transitory grouping (branch `fix/lieps-transitory-grouping`, merged to `main` as PR #3, `2d3c77a81`)
 

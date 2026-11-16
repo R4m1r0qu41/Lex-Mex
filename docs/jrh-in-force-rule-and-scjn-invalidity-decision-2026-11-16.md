@@ -79,5 +79,11 @@ printed notes name the invalid "porción normativa" where only part of a unit fe
 Measured 2026-11-16 on `8949c8420`:
 - 68,397 provisions: 32,334 `effective`, 30,510 `unknown` (in 467 instruments), 5,551
   `repealed`, 2 `partially_repealed`;
-- about 480 provisions in 42 instruments carry SCJN invalidity notes, from about 18 rulings
-  identified by notification date. AI 71/2023 alone accounts for 291 of them, in LGPP and LGIPE.
+- a loose search ("declarad… inválid…") flags about 480 provisions in 42 instruments. This is
+  not an inventory. The notification-date pattern matched only about 20 of those instruments.
+  Others, for example `lgcs` (34) and `lgappcea` (4), print their notes in another shape, and some
+  hits may be the statute's own wording (`lrfiyii-art105` is likely one). The implementation must
+  first list the actual note shapes, anchored on the Cámara note grammar. AI 71/2023 accounts for
+  291 matched provisions, in LGPP and LGIPE.
+- Not every note will print a notification date. Where one is missing, the date comes from the
+  ruling itself, as the LGMIME decision requires. Such cases go to JRH.
