@@ -418,6 +418,20 @@ blocks G2 separately.
 **Current next action:** builder revises the public G1 contract/schema/examples
 against the review and submits a new commit-bound G1 review. No G2 work yet.
 
+## G1 draft-2 review checkpoint, 2026-11-15
+
+Codex reviewed `f7641a537` and returned **revise**, limited to candidate-kind
+holder selection inside tail incisos and note-aware cutoffs for no-fraction
+tails. See `docs/fintech-pilot-g1-draft2-codex-review-2026-11-14.md`.
+R1, R2, R4 and R5 are closed; R3 is substantially addressed with these remaining
+interactions. All supplied native fixture/schema checks pass and measurement
+hashes/counters reproduce. Private compatibility still requires evaluator
+versioning after contract freeze; G0 v1 stays unchanged. G1 remains unapproved
+and backup custody independently blocks G2.
+
+**Current next action:** builder makes the two bounded public rule/fixture
+revisions and submits a new commit-bound G1 review.
+
 ## G1 contract, pilot-v1 (draft 2 for Codex review, 2026-11-14)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
