@@ -72,6 +72,8 @@ abstentions; the score remains unchanged. Recommendation: **iterate evaluation**
 with a fresh independently reviewed set, keeping code frozen. No second run or
 retrospective score repair. See [G3 results](fintech-pilot-g3-holdout-results-2026-11-16.md).
 The single-letter `A)` apartado form is deferred to pilot-v2.
+JRH decided on 2026-11-16 to **adopt the pilot locally**, as an internal read-only lookup with no
+public or MCP use. A short evaluator-run test of `not_found` answers follows.
 
 JRH also answered the LGPP/LGIPE questions on 2026-11-16 and widened them into a corpus-wide
 in-force rule ([decision](jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md)). No

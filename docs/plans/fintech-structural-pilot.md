@@ -565,6 +565,26 @@ reviewed and frozen set before claiming clean G3 acceptance. Do not rerun this
 experiment, tune the implementation on private cases, or change its 39/42 score.
 No second evaluation, commit, push or public release was performed by this turn.
 
+## Pilot decision, 2026-11-16: adopt local, plus a short not-found evaluation
+
+JRH, 2026-11-16: "adopt the pilot plus a short eval for not found".
+- **Adopted for local use.** The frozen pilot-v1 code (`991b5dc85`) is adopted as an internal,
+  read-only lookup:
+  - **Scope:** cross-reference and glossary-span checks, and lookups by agents.
+  - **Not included:** no public interface, no MCP route and no canonical write. Its output stays
+    derived and hash-bound.
+  - **Known limits:** about 21% abstention, a tail rule that leaves `complete` undecided for the
+    last fraction in many articles, and the deferred single-letter `A)` apartado form.
+- **Short not-found evaluation.** G3 exercised no `not_found` result, so the absence promise has
+  no holdout evidence yet. An evaluator who did not build the tool (Codex) prepares a small set
+  independently and runs it once against `991b5dc85`:
+  - lookups whose correct answer is `not_found`, drawn from real citations outside every earlier
+    sample;
+  - a few positive controls.
+
+  The builder does not see the cases before the run. The G3 score stays 39/42.
+- **Not changed:** the frozen contract, the G0 gold and the code.
+
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
