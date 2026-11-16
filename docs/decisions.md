@@ -4256,3 +4256,6 @@ recorded now. A single `repealed` status covers derogation and invalidation, wit
 the note. Details, note wording and the reading guide to the colour code are in
 `docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. No state changed by this
 entry.
+Follow-up (JRH, same day): each ruling's effective date is read from the ruling, through
+<https://www.diputados.gob.mx/LeyesBiblio/compila/declara.htm>, not from the note. A plain
+invalidation revives no earlier text unless that is stated explicitly.
