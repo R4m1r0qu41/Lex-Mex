@@ -487,6 +487,25 @@ independent): fmt, strict clippy, 545 tests, `validate` for all 468 instruments,
 qualifier audits equal to the recorded baseline, the G0/G1 verifiers, the schema check, the probe,
 and the contract digest.
 
+## G2 checkpoint, 2026-11-16
+
+G2 is built in `1075a6ce7`, with no other change:
+- `lex_core::structure_pilot`, the projection and the lookup;
+- its fixture-driven tests;
+- `examples/structure_pilot_lookup.rs`, the local command-line lookup for G3.
+
+The tests pass against the committed fixtures:
+- 123 rows, 346 requests, deciding branches included;
+- 28 full responses, byte for byte;
+- the projection example, schema validity and determinism;
+- the probe's corpus counters, and a corpus label-lookup sweep.
+
+The code met no row it had to disagree with. The workspace suite (556 tests), strict clippy,
+both validators and the G0/G1 checks pass. Four deliberate rule breaks each failed the suite.
+Six choices the contract leaves open are listed for review in the Codex handoff. **Next:** one
+Codex review of `1075a6ce7` for code freeze; then the evaluator runs G3 and versions the private
+gold.
+
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
