@@ -585,6 +585,22 @@ JRH, 2026-11-16: "adopt the pilot plus a short eval for not found".
   The builder does not see the cases before the run. The G3 score stays 39/42.
 - **Not changed:** the frozen contract, the G0 gold and the code.
 
+## Short not-found evaluation checkpoint, 2026-11-16
+
+Codex prepared and independently reviewed 24 private requests over 12 fresh
+articles outside the earlier G0/G1/G3 samples, then ran frozen `991b5dc85` once.
+See `docs/fintech-pilot-not-found-eval-2026-11-16.md`: 16/16 correct `not_found`,
+zero false absences or unnecessary abstentions for expected absences, 4/4 exact
+positive controls and 4/4 correctly typed/reasoned abstentions. Strict full-field
+score remains 22/24: independent post-run QA identifies two prelocked owner-path
+representation errors; captured output follows G1. No gold or score repair,
+retry, code/contract/fixture/canonical change occurred. G3 stays 39/42.
+
+**Current next action:** continue the adopted local, internal, read-only pilot
+within its existing limits. The requested absence supplement is complete;
+future evaluations must validate occurrence-qualified owner paths before lock.
+No public/MCP rollout, merge, push or further evaluation was performed here.
+
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
