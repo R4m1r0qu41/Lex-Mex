@@ -62,8 +62,9 @@ disposition. Codex, as evaluator, made the encrypted holdout backup and passed a
 check on 2026-11-16 ([receipt](fintech-pilot-holdout-custody-2026-11-16.md)). JRH authorized G2
 the same day, in a leaner form: code and tests first, then one Codex review at the end.
 G2 is built in `1075a6ce7`: a read-only projection and lookup in `lex-core`, which passes every
-G1 fixture row and full response, with no parser or corpus change. It awaits that single Codex
-review.
+G1 fixture row and full response, with no parser or corpus change. Codex returned **revise**:
+some marker forms the contract lists were missed. `991b5dc85` fixes them, and the code awaits
+re-review for freeze.
 
 JRH also answered the LGPP/LGIPE questions on 2026-11-16 and widened them into a corpus-wide
 in-force rule ([decision](jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md)). No

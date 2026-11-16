@@ -522,6 +522,18 @@ exposure or tuning is inferred. G3 has not run.
 pins the reviewed interpretations, then submits the corrected commit for code
 freeze acceptance. Frozen G1 text and gold remain unchanged.
 
+## G2 revision checkpoint, 2026-11-16
+
+`991b5dc85` answers the G2 review:
+- **P2 fixed.** The G1.3 letter forms are read as written: capitals and lowercase letters of any
+  script before `. `, two or more letters of any case before `)`, and Unicode dashes and bullets.
+  No non-holdout corpus paragraph changes class.
+- **Choices pinned.** Choices 1, 2, 5 and 6 are pinned by public synthetic tests.
+  `set_current_text` now replaces only a loaded provision.
+- **Contract gap, unchanged.** Single-letter `A)` and `á)` starts (2 in the non-holdout corpus, in
+  `lic` 45-R) are not a G1.3 form. They stay content; Codex is asked to rule.
+- **Next:** Codex re-review for code freeze.
+
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
