@@ -607,6 +607,13 @@ within its existing limits. The requested absence supplement is complete;
 future evaluations must validate occurrence-qualified owner paths before lock.
 No public/MCP rollout, merge, push or further evaluation was performed here.
 
+**Scope note (Claude, 2026-11-17).** The request above asked for absences "drawn from real
+citations"; the evaluation states that its 24 requests are "structure-derived probes, not a random
+sample of citation errors" from 12 fresh articles. The 16/16 result therefore shows correct
+absences on structure-derived probes, not a measured rate on real citation errors. The "about
+21% abstention" figure in the adoption bullet is the G3 rate (9/42, 21.4%,
+`docs/fintech-pilot-g3-holdout-results-2026-11-16.md`). No evaluation was rerun for this note.
+
 ## G1 contract, pilot-v1 (draft 3 for Codex review, 2026-11-15)
 
 This section is the span, parenthood and lookup contract. D5 says this document absorbs V2's
