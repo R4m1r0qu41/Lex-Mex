@@ -13,11 +13,11 @@ temporal-change discipline, and the required checks below in more depth.
 short operational orientation; **if it ever conflicts with `AGENTS.md`,
 `AGENTS.md` wins.**
 
-Active-run (AgentOS capsule) discovery fires automatically via the
-`.claude/settings.json` SessionStart/PostCompact hooks; if no capsule report
-appeared this session, run `/capsule` manually. A discovered capsule is bounded
-navigation, not authority — verify current Git state before resuming it. The
-project ID for capsule start is `lex-mex`. Session-summary and rolling-context
+Lex-Mex no longer uses active-run capsules (all closed 2026-11-16); do not
+start one. The `.claude/settings.json` SessionStart hook shows an excerpt of the
+Vault rolling note (`AI/40_Project_Knowledge/lex-mex/ROLLING_CONTEXT.md`), which is
+bounded navigation, not authority — verify current Git state before acting on
+it. The Vault project ID is `lex-mex`. Session-summary and rolling-context
 obligations are canon-defined per `AGENTS.md`'s "Session start" section — this
 file does not restate the conclusion-file path or its required frontmatter to
 avoid drift; read `AGENTS.md` before a pause or handoff.
@@ -70,10 +70,10 @@ within a few turns. The discipline:
   whole only when that instrument is itself the work item.
 - **Backlink expansion is bounded.** Follow links only for the named task,
   never to "build context."
-- **Checkpoint, then clear.** Checkpoint the active-run capsule at each
-  milestone; between clusters prefer `/clear` (or compaction) over carrying a
-  finished cluster's context forward. Resume from the task-named plan, the
-  capsule, and `docs/project-status.md` — not from conversation history.
+- **Record, then clear.** At each milestone, update the task-named plan and
+  `docs/project-status.md`; between clusters prefer `/clear` (or compaction) over
+  carrying a finished cluster's context forward. Resume from the task-named plan
+  and `docs/project-status.md` — not from conversation history.
 - **Prepared prompt files and bulk corpora are script inputs**, not reading
   material for the orchestrating model.
 
