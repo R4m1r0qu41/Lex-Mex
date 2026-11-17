@@ -141,3 +141,20 @@ test('rejects within-release wrong-article redirect against requested manifest r
   assert.equal(report.errors[0].kind, 'verification');
   assert.match(report.errors[0].message, /integrity mismatch/);
 });
+// Codex audit 2026-11-17, R2: unrelated links on the release index used to
+// abort discovery because the strict pin threw inside the link filter.
+for (const [name, extra] of [['site home', '[Inicio](/)'], ['official DOF', '[DOF](https://www.dof.gob.mx/)'], ['anchor', '[Arriba](#top)'], ['query', '[Todo](?view=all)']]) {
+  test(`an unrelated ${name} link on the index does not abort discovery`, async t => {
+    const f = await fixture(t, r => { r[`${root}index.md`] = `${extra}\n[LRITF](mx/lritf/index.md)`; });
+    const report = await checkRetrieval(f);
+    assert.ok(!report.errors.some(e => /escapes allowed origin/.test(e.message)), JSON.stringify(report.errors));
+    assert.deepEqual(report.provisions.map(p => p.article), ['35', '39']);
+  });
+}
+test('an LRITF-looking link on another origin is still never followed', async t => {
+  const f = await fixture(t, r => { r[`${root}index.md`] = `[LRITF](http://example.invalid${root}mx/lritf/index.md)`; });
+  const report = await checkRetrieval(f);
+  assert.equal(report.ok, false);
+  assert.match(report.errors[0].message, /exactly one LRITF index link/);
+  assert.ok(!f.hits.some(h => h.url.includes('mx/lritf/index.md')));
+});

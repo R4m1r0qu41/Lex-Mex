@@ -407,9 +407,16 @@ fn db_manifest(database: &Path) -> DatabaseManifest {
 }
 
 fn fixture() -> Fixture {
+    fixture_with(|_| {})
+}
+
+/// As [`fixture`], with `edit` applied to the built database before the
+/// release is written and bound.
+fn fixture_with(edit: impl FnOnce(&Path)) -> Fixture {
     let dir = tempfile::tempdir().unwrap();
     let database = dir.path().join("corpus.sqlite");
     build_database(&database);
+    edit(&database);
     let release_dir = dir.path().join("release");
     let c = open_readonly(&database).unwrap();
     let manifest = write_release(&release_dir, &c, &release_doc(&c));
@@ -1094,4 +1101,119 @@ fn base64url_round_trips_and_is_canonical() {
         assert_eq!(unbase64url(&base64url(bytes)).unwrap(), bytes);
     }
     assert!(unbase64url("Zh").is_none(), "non-canonical trailing bits");
+}
+
+#[test]
+fn an_oversized_item_returns_a_skip_cursor_and_traversal_continues() {
+    // Codex audit 2026-11-17, R1: a row larger than the response limit used
+    // to end traversal with no way past it at any page size.
+    let f = fixture();
+    let r = reader(
+        &f,
+        Limits {
+            response_bytes: 1500,
+            ..Limits::default()
+        },
+    );
+    let request = json!({"operation":"search","query":"artículo","page_size":1});
+    let mut response = ask(&r, &request);
+    let (mut oversized, mut pages, mut cursors) = (0, 0, Vec::new());
+    loop {
+        pages += 1;
+        assert!(pages < 50, "traversal does not terminate");
+        let next = if code(&response) == "response_too_large" {
+            oversized += 1;
+            let skip = response["result"]["skip_cursor"].as_str();
+            assert!(skip.is_some(), "no way past the oversized item: {response}");
+            skip.map(str::to_owned)
+        } else {
+            assert_eq!(response["outcome"], "ok", "{response}");
+            response["result"]["next_cursor"]
+                .as_str()
+                .map(str::to_owned)
+        };
+        let Some(cursor) = next else { break };
+        assert!(!cursors.contains(&cursor), "a cursor repeated: no progress");
+        cursors.push(cursor.clone());
+        let mut page = request.clone();
+        page["cursor"] = json!(cursor);
+        response = ask(&r, &page);
+    }
+    assert!(oversized > 0, "the limit did not produce an oversized item");
+}
+
+#[test]
+fn work_after_sqlite_still_counts_against_the_deadline() {
+    // Codex audit 2026-11-17, R4: excerpts and serialization run outside the
+    // SQLite progress handler, so the whole request is checked at the end.
+    let f = fixture();
+    let r = reader(
+        &f,
+        Limits {
+            deadline: Duration::ZERO,
+            ..Limits::default()
+        },
+    );
+    for request in [
+        json!({"operation":"coverage"}),
+        json!({"operation":"get_provision","id":format!("{A}:article:1")}),
+        json!({"operation":"search","query":"autoridad"}),
+    ] {
+        let response = ask(&r, &request);
+        assert_eq!(
+            code(&response),
+            "deadline_exceeded",
+            "{request}: {response}"
+        );
+    }
+}
+
+#[test]
+fn a_live_sidecar_is_found_whatever_the_database_extension() {
+    // Codex audit 2026-11-17, R5: `lex.db-wal` was missed because the check
+    // replaced the extension instead of appending to the file name.
+    let f = fixture();
+    let renamed = f.database.with_file_name("lex.db");
+    fs::copy(&f.database, &renamed).unwrap();
+    assert!(PublicReader::open(&renamed, &f.binding_path, Limits::default()).is_ok());
+    fs::write(renamed.with_file_name("lex.db-wal"), b"").unwrap();
+    let error = PublicReader::open(&renamed, &f.binding_path, Limits::default())
+        .err()
+        .expect("a live WAL must be refused")
+        .to_string();
+    assert!(error.contains("sidecar"), "{error}");
+    assert_eq!(
+        crate::sqlite_sidecars(Path::new("/x/corpus.sqlite"))[2],
+        Path::new("/x/corpus.sqlite-journal")
+    );
+}
+
+#[test]
+fn a_bound_annex_opens_when_another_manifest_shares_its_content() {
+    // Codex audit 2026-11-17, R6: binding selects by configured URL, opening
+    // selected by digest alone, so shared content made a valid bind unopenable.
+    let f = fixture_with(|database| {
+        let c = Connection::open(database).unwrap();
+        let path = "corpus/mx/ley-a/annex-source-manifests.json";
+        let bytes = json!([
+            source(&"b".repeat(64), "https://example.invalid/ANEXO%201.pdf"),
+            source(&"b".repeat(64), "https://example.invalid/OTRO.pdf"),
+        ])
+        .to_string();
+        c.execute(
+            "UPDATE input_files SET bytes=?1, sha256=?2 WHERE path=?3",
+            params![bytes.as_bytes(), crate::digest(bytes.as_bytes()), path],
+        )
+        .unwrap();
+    });
+    let r = reader(&f, Limits::default());
+    let annex = ask(
+        &r,
+        &json!({"operation":"get_provision","id":format!("{A}:annex:1")}),
+    );
+    assert_eq!(annex["outcome"], "found", "{annex}");
+    assert_eq!(
+        annex["result"]["provision"]["source"]["official_url"],
+        "https://example.invalid/ANEXO%201.pdf"
+    );
 }

@@ -451,7 +451,8 @@
       "properties": {
         "kind": {"const": "error"},
         "code": {"enum": ["bad_request", "unknown_instrument", "invalid_locator", "invalid_query", "empty_query", "query_too_long", "invalid_cursor", "cursor_release_mismatch", "cursor_request_mismatch", "as_of_not_supported", "response_too_large", "deadline_exceeded", "internal_error", "contract_violation"]},
-        "message": {"$ref": "#/$defs/message"}
+        "message": {"$ref": "#/$defs/message"},
+        "skip_cursor": {"description": "Only with response_too_large on a list: a cursor after the one item that alone exceeds the limit.", "type": "string", "minLength": 1}
       }
     }
   }

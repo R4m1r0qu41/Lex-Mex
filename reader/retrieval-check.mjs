@@ -98,7 +98,14 @@ export async function checkRetrieval(options = {}) {
     report.releaseId = indexUrl.pathname.match(/\/releases\/([a-f0-9]{64})\/index\.md$/)[1];
     root = indexUrl.pathname.slice(0, -'index.md'.length);
     const index = (await pair(indexUrl)).toString('utf8');
-    const instruments = links(index).filter(l => safe(l.href, indexUrl).pathname === `${root}mx/lritf/index.md`);
+    // Classify without throwing: an unrelated link on the index (site home,
+    // an official DOF address, an anchor) is skipped, not fatal. The strict
+    // pin still applies to the one link selected (Codex audit 2026-11-17, R2).
+    const resolves = (href, parent) => { try { return new URL(href, parent); } catch { return null; } };
+    const instruments = links(index).filter(l => {
+      const target = resolves(l.href, indexUrl);
+      return target !== null && target.origin === base.origin && target.pathname === `${root}mx/lritf/index.md`;
+    });
     if (instruments.length !== 1) throw new Error('Expected exactly one LRITF index link');
     const instrumentUrl = safe(instruments[0].href, indexUrl);
     const instrument = (await pair(instrumentUrl)).toString('utf8');

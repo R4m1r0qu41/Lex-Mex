@@ -1,7 +1,7 @@
 //! Bounded public retrieval over an accepted release, restricted to a verified
 //! public selection. Responses are closed public projections, never raw rows.
 use crate::contract;
-use anyhow::{Context, Result, bail, ensure};
+use anyhow::{Context, Result, ensure};
 use lex_grammar::labels::{canonical_slug, strip_accents};
 use rusqlite::{Connection, OpenFlags, OptionalExtension, params};
 use serde::{Deserialize, Serialize};
@@ -147,11 +147,8 @@ fn file_sha256(path: &Path) -> Result<String> {
 }
 
 fn open_readonly(path: &Path) -> Result<Connection> {
-    for suffix in ["sqlite-wal", "sqlite-shm", "sqlite-journal"] {
-        ensure!(
-            !path.with_extension(suffix).exists(),
-            "SQLite sidecar present"
-        );
+    for sidecar in crate::sqlite_sidecars(path) {
+        ensure!(!sidecar.exists(), "SQLite sidecar present");
     }
     let c = Connection::open_with_flags(path, OpenFlags::SQLITE_OPEN_READ_ONLY)?;
     c.execute_batch("PRAGMA query_only=ON; PRAGMA foreign_keys=ON;")?;
@@ -672,19 +669,20 @@ fn load_scope(c: &Connection, bound: &InstrumentBinding) -> Result<Scope> {
     let main = input_json(c, &format!("corpus/mx/{}/source-manifest.json", bound.slug))?;
     let mut annex = BTreeMap::new();
     if !bound.annex_sources.is_empty() {
-        let all = input_json(
-            c,
-            &format!("corpus/mx/{}/annex-source-manifests.json", bound.slug),
-        )?;
+        // The same identity rule as the binder (annex number -> configured URL
+        // -> unique retained manifest), then the bound digest must agree.
+        // Selecting by digest alone failed when two annexes share content
+        // (Codex audit 2026-11-17, R6).
+        let by_number = annex_sources_by_number(c, &bound.slug, &bound.canonical_input_hashes)?;
         for (number, sha) in &bound.annex_sources {
-            let matches = all
-                .as_array()
-                .context("annex manifests")?
-                .iter()
-                .filter(|m| m["source_sha256"] == sha.as_str())
-                .collect::<Vec<_>>();
-            ensure!(matches.len() == 1, "annex {number} source is ambiguous");
-            annex.insert(number.clone(), public_source(matches[0]));
+            let source = by_number
+                .get(number)
+                .with_context(|| format!("annex {number} source is missing"))?;
+            ensure!(
+                source["source_sha256"] == sha.as_str(),
+                "annex {number} source differs from the binding"
+            );
+            annex.insert(number.clone(), source.clone());
         }
     }
     Ok(Scope {
@@ -768,6 +766,13 @@ impl Request {
 
 enum Failure {
     Client(&'static str, String),
+    /// One list item alone exceeds the response limit. The error carries a
+    /// cursor positioned after that item, so traversal can continue
+    /// explicitly instead of dead-ending (Codex audit 2026-11-17, R1).
+    Oversized {
+        message: String,
+        skip_cursor: String,
+    },
     Deadline,
     Service(anyhow::Error),
 }
@@ -911,6 +916,10 @@ impl PublicReader {
         })
     }
 
+    fn past_deadline(&self) -> bool {
+        millis(self.origin.elapsed()) >= self.deadline_ms.load(Ordering::Relaxed)
+    }
+
     #[must_use]
     pub fn binding(&self) -> &Binding {
         &self.binding
@@ -923,12 +932,26 @@ impl PublicReader {
             millis(self.origin.elapsed() + self.limits.deadline),
             Ordering::Relaxed,
         );
-        let (operation, outcome) = self.dispatch(line);
+        let (operation, mut outcome) = self.dispatch(line);
+        // Work outside SQLite (excerpts, serialization) is not interrupted by
+        // the progress handler, so the whole request is checked once more
+        // (Codex audit 2026-11-17, R4).
+        if outcome.is_ok() && self.past_deadline() {
+            outcome = Err(Failure::Deadline);
+        }
         self.deadline_ms.store(u64::MAX, Ordering::Relaxed);
         let response = match outcome {
             Ok((outcome, result)) => self.envelope(operation, outcome, &result),
             Err(Failure::Client(code, message)) => {
                 self.envelope(operation, "client_error", &error(code, &message))
+            }
+            Err(Failure::Oversized {
+                message,
+                skip_cursor,
+            }) => {
+                let mut body = error("response_too_large", &message);
+                body["skip_cursor"] = json!(skip_cursor);
+                self.envelope(operation, "client_error", &body)
             }
             Err(Failure::Deadline) => self.envelope(
                 operation,
@@ -1154,10 +1177,18 @@ impl PublicReader {
                 return Ok(("ok", result));
             }
             if rows.len() <= 1 {
-                return Err(client(
-                    "response_too_large",
-                    "a single item exceeds the response limit",
-                ));
+                let Some((key, _)) = rows.first() else {
+                    return Err(client(
+                        "response_too_large",
+                        "the empty page exceeds the response limit",
+                    ));
+                };
+                return Err(Failure::Oversized {
+                    message:
+                        "a single item exceeds the response limit; skip_cursor continues after it"
+                            .to_owned(),
+                    skip_cursor: self.encode_cursor(op, request, key.clone())?,
+                });
             }
             rows.pop();
             more = true;
@@ -1426,6 +1457,10 @@ impl PublicReader {
         let more = hits.len() > size as usize;
         let mut rows = Vec::new();
         for (id, score) in hits.into_iter().take(size as usize) {
+            // Excerpts are built in Rust, beyond the SQLite progress handler.
+            if self.past_deadline() {
+                return Err(Failure::Deadline);
+            }
             rows.push((
                 vec![score.to_bits().to_string(), id.clone()],
                 self.hit(&id, literal)?,
@@ -1668,12 +1703,24 @@ fn excerpt_window(text: &str, literal: &str, width: usize) -> (usize, usize, boo
 
 /// Write a new binding file; an existing binding is never overwritten.
 pub fn write_binding(binding: &Binding, output: &Path) -> Result<()> {
-    if output.exists() {
-        bail!("binding output already exists: {}", output.display());
-    }
+    use std::io::Write;
     let mut bytes = serde_json::to_vec_pretty(binding)?;
     bytes.push(b'\n');
-    fs::write(output, bytes)?;
+    // create_new makes the no-clobber check and the creation one step, so a
+    // file appearing between a check and the write is never overwritten.
+    let mut file = fs::OpenOptions::new()
+        .write(true)
+        .create_new(true)
+        .open(output)
+        .map_err(|error| {
+            if error.kind() == std::io::ErrorKind::AlreadyExists {
+                anyhow::anyhow!("binding output already exists: {}", output.display())
+            } else {
+                error.into()
+            }
+        })?;
+    file.write_all(&bytes)?;
+    file.sync_all()?;
     Ok(())
 }
 
