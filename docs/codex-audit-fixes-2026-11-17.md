@@ -71,13 +71,13 @@ when commencement does not resolve.
 - Port branch at `0c8c69dc0`, through `mech`:
   - `cargo fmt --all --check`: pass.
   - `cargo test --workspace --locked --offline`: 573 passed, 0 failed.
-  - `validate` passes for `lritf`, `ifpe-dcg-2021`, `lic`, `lmv`, `lfpa`, `reg-lfpc-art122` and `lvgc`. `lic` reports "valid … 2 issues"; the issues were not read, and this branch changes no validator or corpus file.
+  - `validate` passes for `lritf`, `ifpe-dcg-2021`, `lic`, `lmv`, `lfpa`, `reg-lfpc-art122` and `lvgc`. `lic` reports "valid … 2 issues": both are `historical_superseded_reference_outdated` warnings (reviewed stale citations kept without a live link, art. 187 → `lraf` 28 Bis and art. 194 → `lfce` 31 Bis), and `corpus/mx/lic` is identical to `origin/main`.
   - `cargo clippy --workspace --all-targets --locked --offline -- -D warnings`: clean (run directly).
 - Reader branch at `921e1bd6c`:
   - `cargo test -p lex-db`: 31 lib tests pass. The four new R1, R4, R5 and R6 tests fail against the previous `public.rs` (checked).
   - `node --test reader/retrieval-check.test.mjs`: 20 pass, 5 fail against the previous checker (checked).
   - Clippy is clean for `lex-db`. Two clippy errors in `lex-cli` (`main.rs:1905`, `db.rs:318`) are present without this commit and are not touched.
-  - The full reader workspace suite was not run.
+  - Full reader workspace, through `mech`: `cargo fmt --all --check` passes; `cargo test --workspace --locked --offline` exits 0 with 449 passed, 0 failed, 1 ignored doc-test.
 - Not run: national replay, DB rebuild, holdout access or the pilot lookup.
 
 ## Questions
