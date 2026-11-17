@@ -1,6 +1,12 @@
 # Fintech structural pilot: contract and deviations from V2
 
-**Status:** active, started 2026-11-14 on branch `pilot/fintech-structural` from `main`
+**Status (2026-11-17):** complete and adopted. G3 sealed evaluation 39/42 with no wrong resolved
+result; JRH adopted the pilot for local, internal, read-only use on 2026-11-16; the not-found
+supplement found 16/16 correct absences. Code frozen at `991b5dc85`. PR #5 is open and not
+merged. There is no further pilot action; the "next action" lines below are the history of each
+gate. Wider use needs a new JRH instruction.
+
+**History:** started 2026-11-14 on branch `pilot/fintech-structural` from `main`
 `2d3c77a81`. Codex accepted slices (a) and (b). The G0 sample is committed (`0ecc40523`) and
 checked from the builder side; Codex approved G0 with conditions on 2026-11-14
 ([disposition](../fintech-pilot-g0-codex-disposition-2026-11-14.md)). D6 is amended accordingly.
