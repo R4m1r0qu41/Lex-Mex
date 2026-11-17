@@ -4699,115 +4699,29 @@ fn run_derive_command(
     republish_exports(root, &context, vault)
 }
 
-fn calendar_items<'a>(value: &'a serde_json::Value, key: &str) -> &'a [serde_json::Value] {
-    value[key].as_array().map(Vec::as_slice).unwrap_or_default()
-}
-
-fn calendar_text(item: &serde_json::Value, key: &str) -> String {
-    item[key].as_str().unwrap_or_default().to_owned()
-}
-
-fn calendar_date(item: &serde_json::Value, key: &str) -> Result<NaiveDate> {
-    let text = item[key]
-        .as_str()
-        .with_context(|| format!("business-day calendar: {key} is missing"))?;
-    text.parse::<NaiveDate>()
-        .with_context(|| format!("business-day calendar: {key} is not a date: {text}"))
-}
-
-fn calendar_number(item: &serde_json::Value, key: &str) -> Result<u32> {
-    item[key]
-        .as_u64()
-        .and_then(|n| u32::try_from(n).ok())
-        .with_context(|| format!("business-day calendar: {key} is missing"))
-}
-
-fn calendar_ranges(
-    value: &serde_json::Value,
-    key: &str,
-) -> Result<Vec<lex_parse::business_days::DateRange>> {
-    calendar_items(value, key)
-        .iter()
-        .map(|item| {
-            Ok(lex_parse::business_days::DateRange {
-                from: calendar_date(item, "from")?,
-                to: calendar_date(item, "to")?,
-                source: calendar_text(item, "source"),
-            })
-        })
-        .collect()
-}
-
-fn calendar_version(item: &serde_json::Value) -> Result<lex_parse::business_days::StatuteVersion> {
-    use lex_parse::business_days::{FixedHoliday, SexennialHoliday, StatuteVersion};
-    let mut weekend_days = Vec::new();
-    for name in calendar_items(item, "weekend_days") {
-        let name = name.as_str().unwrap_or_default();
-        weekend_days.push(
-            name.parse::<chrono::Weekday>()
-                .map_err(|_| anyhow::anyhow!("business-day calendar: unknown weekday {name}"))?,
-        );
-    }
-    let mut fixed_holidays = Vec::new();
-    for holiday in calendar_items(item, "fixed_holidays") {
-        fixed_holidays.push(FixedHoliday {
-            month: calendar_number(holiday, "month")?,
-            day: calendar_number(holiday, "day")?,
-        });
-    }
-    let mut sexennial_holidays = Vec::new();
-    for holiday in calendar_items(item, "sexennial_holidays") {
-        sexennial_holidays.push(SexennialHoliday {
-            month: calendar_number(holiday, "month")?,
-            day: calendar_number(holiday, "day")?,
-            first_year: i32::try_from(calendar_number(holiday, "first_year")?)?,
-        });
-    }
-    Ok(StatuteVersion {
-        id: calendar_text(item, "id"),
-        source: calendar_text(item, "source"),
-        applies_from: calendar_date(item, "applies_from")?,
-        applies_to: if item["applies_to"].is_null() {
-            None
-        } else {
-            Some(calendar_date(item, "applies_to")?)
-        },
-        weekend_days,
-        fixed_holidays,
-        sexennial_holidays,
-    })
-}
-
-/// The evidenced inputs for business-day commencement counts. A missing file
-/// is an empty calendar, which resolves no business-day clause.
+/// The evidenced inputs for business-day commencement counts, validated by
+/// `lex_parse::business_days::parse_calendar` against
+/// `schemas/business-day-calendar-v1.schema.json`. A missing file is an empty
+/// calendar, which resolves no business-day clause; a present file must be
+/// complete, so a misspelled or missing key is an error, never an empty list.
 fn load_business_day_calendar(
     root: &Path,
 ) -> Result<lex_parse::business_days::BusinessDayCalendar> {
-    use lex_parse::business_days::BusinessDayCalendar;
     let path = root.join("adapters/shared/_business-day-calendar.json");
     if !path.exists() {
-        return Ok(BusinessDayCalendar::default());
+        return Ok(lex_parse::business_days::BusinessDayCalendar::default());
     }
-    let value: serde_json::Value = serde_json::from_slice(&fs::read(&path)?)
-        .with_context(|| format!("invalid JSON in {}", path.display()))?;
-    Ok(BusinessDayCalendar {
-        rule_id: value["rule_id"]
-            .as_str()
-            .unwrap_or("business-day-count")
-            .to_owned(),
-        versions: calendar_items(&value, "statute_versions")
-            .iter()
-            .map(calendar_version)
-            .collect::<Result<_>>()?,
-        suspensions: calendar_ranges(&value, "suspension_periods")?,
-        notice_coverage: calendar_ranges(&value, "notice_coverage")?,
-    })
+    lex_parse::business_days::parse_calendar(&fs::read(&path)?)
+        .map_err(|error| anyhow::anyhow!("business-day calendar {}: {error}", path.display()))
 }
 
 fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> Result<()> {
     let paths = &context.paths;
     let mut corpus = read_corpus(paths)?;
-    let cleared = repair_article_dates(&corpus.instrument, &mut corpus.provisions);
+    // One calendar for both the date repair and the derivation, so a repaired
+    // date and a derived one rest on the same evidenced inputs.
+    let calendar = load_business_day_calendar(&context.root)?;
+    let cleared = repair_article_dates(&corpus.instrument, &mut corpus.provisions, &calendar);
     if cleared > 0 {
         println!(
             "repaired {cleared} article dates (original commencement for unamended articles; amended articles left unset)"
@@ -4826,7 +4740,6 @@ fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> 
         return Ok(());
     }
     let today = Utc::now().date_naive();
-    let calendar = load_business_day_calendar(&context.root)?;
     let outcome = derive_article_temporal_determinations_with_calendar(
         &corpus.instrument,
         &corpus.provisions,
@@ -4870,7 +4783,9 @@ fn run_temporal_derive(context: &InstrumentContext, repair_dates_only: bool) -> 
             );
         }
     }
-    if outcome.determinations.is_empty() && cleared == 0 {
+    // Save whenever anything changed: new determinations, repaired dates or
+    // reclassified partial repeals (a split alone used to be printed and lost).
+    if outcome.determinations.is_empty() && cleared + split == 0 {
         return Ok(());
     }
     apply_temporal_determinations(&mut corpus.provisions, &outcome.determinations);

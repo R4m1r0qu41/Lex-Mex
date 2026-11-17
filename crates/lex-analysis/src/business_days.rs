@@ -33,11 +33,24 @@ pub struct FixedHoliday {
 
 /// A holiday that falls only every six years, such as 1 December on the
 /// transmission of the Federal Executive (1994, 2000, 2006, ...).
+///
+/// `last_year` is the last occurrence the entry is evidenced for. A later
+/// occurrence year (`first_year + 6k > last_year`) is not counted as an
+/// ordinary year: any window that touches it is insufficient, because which
+/// day is then excluded is not evidenced (from 2024 the Executive changes on
+/// 1 October). Choosing that day is a legal question, not a counting one.
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
 pub struct SexennialHoliday {
     pub month: u32,
     pub day: u32,
     pub first_year: i32,
+    pub last_year: i32,
+}
+
+impl SexennialHoliday {
+    fn occurs_in(&self, year: i32) -> bool {
+        year >= self.first_year && (year - self.first_year) % 6 == 0
+    }
 }
 
 /// A version of the statutory text that fixes which days are not business days.
@@ -121,9 +134,19 @@ fn statutory_non_business(version: &StatuteVersion, day: NaiveDate) -> bool {
         || version.sexennial_holidays.iter().any(|holiday| {
             holiday.month == day.month()
                 && holiday.day == day.day()
-                && day.year() >= holiday.first_year
-                && (day.year() - holiday.first_year) % 6 == 0
+                && holiday.occurs_in(day.year())
         })
+}
+
+/// A sexennial occurrence year after the entry's evidenced range, if `day`
+/// falls in one.
+fn unevidenced_sexennial_year(version: &StatuteVersion, day: NaiveDate) -> Option<i32> {
+    let year = day.year();
+    version
+        .sexennial_holidays
+        .iter()
+        .any(|holiday| holiday.occurs_in(year) && year > holiday.last_year)
+        .then_some(year)
 }
 
 /// Upper limit on the days scanned, so a pathological input cannot loop.
@@ -156,6 +179,14 @@ pub fn count_business_days_after(
             return CountOutcome::Insufficient {
                 earliest_possible: reached(&earliest),
                 reason: format!("no statutory text version applies on {day}"),
+            };
+        }
+        Walk::UnevidencedSexennial(year) => {
+            return CountOutcome::Insufficient {
+                earliest_possible: None,
+                reason: format!(
+                    "the counting window reaches {year}, a sexennial holiday year after the recorded entry's last evidenced year"
+                ),
             };
         }
         Walk::Exhausted => {
@@ -204,6 +235,7 @@ pub fn count_business_days_after(
 enum Walk {
     Reached(NaiveDate),
     NoVersion(NaiveDate),
+    UnevidencedSexennial(i32),
     Exhausted,
 }
 
@@ -230,6 +262,9 @@ fn walk(
         let Some(version) = calendar.version_on(day) else {
             return Walk::NoVersion(day);
         };
+        if let Some(year) = unevidenced_sexennial_year(version, day) {
+            return Walk::UnevidencedSexennial(year);
+        }
         let suspended = with_suspensions
             && calendar
                 .suspensions
@@ -244,6 +279,198 @@ fn walk(
         }
     }
     Walk::Exhausted
+}
+
+/// The closed shape of `adapters/shared/_business-day-calendar.json`.
+const CALENDAR_SCHEMA: &str = include_str!("../../../schemas/business-day-calendar-v1.schema.json");
+
+#[derive(serde::Deserialize)]
+#[serde(deny_unknown_fields)]
+struct CalendarFile {
+    #[serde(rename = "schema_version")]
+    _schema_version: String,
+    #[serde(rename = "description")]
+    _description: String,
+    rule_id: String,
+    #[serde(rename = "counting_rule")]
+    _counting_rule: serde_json::Value,
+    statute_versions: Vec<VersionFile>,
+    suspension_periods: Vec<RangeFile>,
+    notice_coverage: Vec<RangeFile>,
+}
+
+#[derive(serde::Deserialize)]
+#[serde(deny_unknown_fields)]
+struct VersionFile {
+    id: String,
+    source: String,
+    #[serde(rename = "evidence")]
+    _evidence: String,
+    applies_from: NaiveDate,
+    applies_to: Option<NaiveDate>,
+    weekend_days: Vec<String>,
+    fixed_holidays: Vec<FixedFile>,
+    sexennial_holidays: Vec<SexennialFile>,
+}
+
+#[derive(serde::Deserialize)]
+#[serde(deny_unknown_fields)]
+struct FixedFile {
+    month: u32,
+    day: u32,
+}
+
+#[derive(serde::Deserialize)]
+#[serde(deny_unknown_fields)]
+struct SexennialFile {
+    month: u32,
+    day: u32,
+    first_year: i32,
+    last_year: i32,
+    #[serde(rename = "reason")]
+    _reason: String,
+}
+
+#[derive(serde::Deserialize)]
+#[serde(deny_unknown_fields)]
+struct RangeFile {
+    from: NaiveDate,
+    to: NaiveDate,
+    source: String,
+}
+
+fn range(file: RangeFile, list: &str) -> Result<DateRange, String> {
+    if file.from > file.to {
+        return Err(format!(
+            "{list}: range {} to {} ends before it starts",
+            file.from, file.to
+        ));
+    }
+    Ok(DateRange {
+        from: file.from,
+        to: file.to,
+        source: file.source,
+    })
+}
+
+fn real_day(month: u32, day: u32) -> bool {
+    // 2000 is a leap year, so 29 February is accepted.
+    NaiveDate::from_ymd_opt(2000, month, day).is_some()
+}
+
+fn version(file: VersionFile) -> Result<StatuteVersion, String> {
+    if file.applies_to.is_some_and(|end| end < file.applies_from) {
+        return Err(format!(
+            "statute version {}: applies_to precedes applies_from",
+            file.id
+        ));
+    }
+    let weekend_days = file
+        .weekend_days
+        .iter()
+        .map(|name| {
+            name.parse::<Weekday>()
+                .map_err(|_| format!("statute version {}: unknown weekday {name}", file.id))
+        })
+        .collect::<Result<Vec<_>, _>>()?;
+    let mut fixed_holidays = Vec::new();
+    for holiday in file.fixed_holidays {
+        if !real_day(holiday.month, holiday.day) {
+            return Err(format!(
+                "statute version {}: {}-{} is not a calendar day",
+                file.id, holiday.month, holiday.day
+            ));
+        }
+        fixed_holidays.push(FixedHoliday {
+            month: holiday.month,
+            day: holiday.day,
+        });
+    }
+    let mut sexennial_holidays = Vec::new();
+    for holiday in file.sexennial_holidays {
+        if !real_day(holiday.month, holiday.day)
+            || holiday.last_year < holiday.first_year
+            || (holiday.last_year - holiday.first_year) % 6 != 0
+        {
+            return Err(format!(
+                "statute version {}: sexennial holiday {}-{} needs a real day and a last_year that is an occurrence year at or after first_year",
+                file.id, holiday.month, holiday.day
+            ));
+        }
+        sexennial_holidays.push(SexennialHoliday {
+            month: holiday.month,
+            day: holiday.day,
+            first_year: holiday.first_year,
+            last_year: holiday.last_year,
+        });
+    }
+    Ok(StatuteVersion {
+        id: file.id,
+        source: file.source,
+        applies_from: file.applies_from,
+        applies_to: file.applies_to,
+        weekend_days,
+        fixed_holidays,
+        sexennial_holidays,
+    })
+}
+
+/// Parse `adapters/shared/_business-day-calendar.json`.
+///
+/// The file must match `schemas/business-day-calendar-v1.schema.json`
+/// exactly: every key is required, unknown keys are rejected, and an
+/// intentionally empty list is written as `[]`. Ranges must be ordered, statute
+/// versions must not overlap, and holidays must be real days. Nothing is
+/// defaulted, so a typo can never silently drop evidence.
+///
+/// # Errors
+/// Returns a description of the first schema or semantic violation.
+pub fn parse_calendar(bytes: &[u8]) -> Result<BusinessDayCalendar, String> {
+    let value: serde_json::Value =
+        serde_json::from_slice(bytes).map_err(|error| format!("invalid JSON: {error}"))?;
+    let schema: serde_json::Value =
+        serde_json::from_str(CALENDAR_SCHEMA).map_err(|error| error.to_string())?;
+    jsonschema::validator_for(&schema)
+        .map_err(|error| error.to_string())?
+        .validate(&value)
+        .map_err(|error| {
+            format!(
+                "does not match business-day-calendar-v1 at {}: {error}",
+                error.instance_path
+            )
+        })?;
+    let file: CalendarFile = serde_json::from_value(value).map_err(|error| error.to_string())?;
+    let mut versions = file
+        .statute_versions
+        .into_iter()
+        .map(version)
+        .collect::<Result<Vec<_>, _>>()?;
+    versions.sort_by_key(|version| version.applies_from);
+    for pair in versions.windows(2) {
+        if pair[0]
+            .applies_to
+            .is_none_or(|end| end >= pair[1].applies_from)
+        {
+            return Err(format!(
+                "statute versions {} and {} overlap",
+                pair[0].id, pair[1].id
+            ));
+        }
+    }
+    Ok(BusinessDayCalendar {
+        rule_id: file.rule_id,
+        versions,
+        suspensions: file
+            .suspension_periods
+            .into_iter()
+            .map(|item| range(item, "suspension_periods"))
+            .collect::<Result<_, _>>()?,
+        notice_coverage: file
+            .notice_coverage
+            .into_iter()
+            .map(|item| range(item, "notice_coverage"))
+            .collect::<Result<_, _>>()?,
+    })
 }
 
 #[cfg(test)]
@@ -281,6 +508,7 @@ mod tests {
                 month: 12,
                 day: 1,
                 first_year: 1994,
+                last_year: 2018,
             }],
         }
     }
@@ -452,5 +680,188 @@ mod tests {
             }
             other @ CountOutcome::Insufficient { .. } => panic!("{other:?}"),
         }
+    }
+
+    const SHIPPED: &str = include_str!("../../../adapters/shared/_business-day-calendar.json");
+
+    /// The shipped calendar with one edit applied to its JSON value.
+    fn edited(edit: impl FnOnce(&mut serde_json::Value)) -> Vec<u8> {
+        let mut value: serde_json::Value = serde_json::from_str(SHIPPED).expect("shipped JSON");
+        edit(&mut value);
+        serde_json::to_vec(&value).expect("serialize")
+    }
+
+    #[test]
+    fn the_shipped_calendar_parses_and_resolves_nothing_without_coverage() {
+        let parsed = parse_calendar(SHIPPED.as_bytes()).expect("shipped calendar is valid");
+        assert_eq!(parsed.rule_id, "lfpa-art-28");
+        assert_eq!(parsed.versions.len(), 1);
+        assert_eq!(parsed.versions[0].sexennial_holidays[0].last_year, 2018);
+        assert!(parsed.notice_coverage.is_empty() && parsed.suspensions.is_empty());
+        assert!(date_of(&count_business_days_after(date(2005, 3, 1), 10, &parsed)).is_none());
+    }
+
+    #[test]
+    fn a_misspelled_missing_or_extra_calendar_key_is_an_error() {
+        // Codex audit 2026-11-17, C2: `suspension_period` used to be read as no
+        // suspensions, so the count ended two business days early.
+        let cases: Vec<(&str, Vec<u8>)> = vec![
+            (
+                "misspelled list",
+                edited(|v| {
+                    let periods = v
+                        .as_object_mut()
+                        .unwrap()
+                        .remove("suspension_periods")
+                        .unwrap();
+                    v["suspension_period"] = periods;
+                }),
+            ),
+            (
+                "missing list",
+                edited(|v| {
+                    v.as_object_mut().unwrap().remove("notice_coverage");
+                }),
+            ),
+            (
+                "missing nested list",
+                edited(|v| {
+                    v["statute_versions"][0]
+                        .as_object_mut()
+                        .unwrap()
+                        .remove("fixed_holidays");
+                }),
+            ),
+            (
+                "missing applies_to key",
+                edited(|v| {
+                    v["statute_versions"][0]
+                        .as_object_mut()
+                        .unwrap()
+                        .remove("applies_to");
+                }),
+            ),
+            (
+                "unknown nested key",
+                edited(|v| {
+                    v["statute_versions"][0]["weekend_day"] = serde_json::json!(["sunday"]);
+                }),
+            ),
+            (
+                "wrong schema version",
+                edited(|v| v["schema_version"] = serde_json::json!("2")),
+            ),
+            (
+                "empty provenance",
+                edited(|v| {
+                    v["statute_versions"][0]["source"] = serde_json::json!("");
+                }),
+            ),
+            (
+                "uncapped sexennial entry",
+                edited(|v| {
+                    v["statute_versions"][0]["sexennial_holidays"][0]
+                        .as_object_mut()
+                        .unwrap()
+                        .remove("last_year");
+                }),
+            ),
+        ];
+        for (name, bytes) in cases {
+            assert!(parse_calendar(&bytes).is_err(), "{name} was accepted");
+        }
+    }
+
+    #[test]
+    fn calendar_semantics_are_checked_after_the_schema() {
+        let range =
+            |from: &str, to: &str| serde_json::json!({"from": from, "to": to, "source": "test"});
+        let cases: Vec<(&str, Vec<u8>)> = vec![
+            (
+                "reversed coverage",
+                edited(|v| {
+                    v["notice_coverage"] = serde_json::json!([range("2020-12-31", "2020-01-01")]);
+                }),
+            ),
+            (
+                "reversed suspension",
+                edited(|v| {
+                    v["suspension_periods"] =
+                        serde_json::json!([range("2020-06-06", "2020-06-05")]);
+                }),
+            ),
+            (
+                "not a calendar day",
+                edited(|v| {
+                    v["statute_versions"][0]["fixed_holidays"][0] =
+                        serde_json::json!({"month": 2, "day": 30});
+                }),
+            ),
+            (
+                "not a real date",
+                edited(|v| {
+                    v["notice_coverage"] = serde_json::json!([range("2020-02-30", "2020-03-01")]);
+                }),
+            ),
+            (
+                "last_year off the cycle",
+                edited(|v| {
+                    v["statute_versions"][0]["sexennial_holidays"][0]["last_year"] =
+                        serde_json::json!(2019);
+                }),
+            ),
+            (
+                "overlapping statute versions",
+                edited(|v| {
+                    let mut second = v["statute_versions"][0].clone();
+                    second["id"] = serde_json::json!("second");
+                    second["applies_from"] = serde_json::json!("2000-01-01");
+                    v["statute_versions"].as_array_mut().unwrap().push(second);
+                }),
+            ),
+        ];
+        for (name, bytes) in cases {
+            assert!(parse_calendar(&bytes).is_err(), "{name} was accepted");
+        }
+        // two versions that meet without overlapping are accepted
+        let ordered = edited(|v| {
+            v["statute_versions"][0]["applies_to"] = serde_json::json!("1999-12-31");
+            let mut second = v["statute_versions"][0].clone();
+            second["id"] = serde_json::json!("second");
+            second["applies_from"] = serde_json::json!("2000-01-01");
+            second["applies_to"] = serde_json::Value::Null;
+            v["statute_versions"].as_array_mut().unwrap().push(second);
+        });
+        assert_eq!(
+            parse_calendar(&ordered)
+                .expect("ordered versions")
+                .versions
+                .len(),
+            2
+        );
+    }
+
+    #[test]
+    fn a_window_reaching_an_unevidenced_transmission_year_is_insufficient() {
+        // Codex review 2026-10-28, deferred limit 3: from 2024 the Executive
+        // changes on 1 October, so 2024 is not counted as an ordinary year.
+        let c = calendar(&[whole_year(2024)], &[]);
+        match count_business_days_after(date(2024, 3, 1), 5, &c) {
+            CountOutcome::Insufficient { reason, .. } => {
+                assert!(reason.contains("2024"), "{reason}");
+            }
+            other @ CountOutcome::Date { .. } => panic!("{other:?}"),
+        }
+        // a window ending in 2023 is unaffected; 2018 is still evidenced
+        let earlier = calendar(&[whole_year(2023)], &[]);
+        assert_eq!(
+            date_of(&count_business_days_after(date(2023, 6, 1), 5, &earlier)),
+            Some(date(2023, 6, 8))
+        );
+        let last = calendar(&[whole_year(2018)], &[]);
+        assert_eq!(
+            date_of(&count_business_days_after(date(2018, 11, 30), 1, &last)),
+            Some(date(2018, 12, 3))
+        );
     }
 }

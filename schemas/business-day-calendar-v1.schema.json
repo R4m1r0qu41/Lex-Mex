@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Evidenced inputs for business-day commencement counts (LFPA article 28)",
+  "description": "adapters/shared/_business-day-calendar.json. Every key is required, so an intentionally empty list is written as [] and a missing or misspelled key is rejected rather than read as empty. Semantic checks (ordered ranges, non-overlapping statute versions, real month/day pairs) are made by lex_analysis::business_days::parse_calendar.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "description",
+    "rule_id",
+    "counting_rule",
+    "statute_versions",
+    "suspension_periods",
+    "notice_coverage"
+  ],
+  "properties": {
+    "schema_version": { "const": "1" },
+    "description": { "type": "string", "minLength": 1 },
+    "rule_id": { "type": "string", "minLength": 1 },
+    "counting_rule": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["direction", "reading"],
+      "properties": {
+        "direction": { "type": "string", "minLength": 1 },
+        "reading": { "type": "string", "minLength": 1 }
+      }
+    },
+    "statute_versions": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/statute_version" }
+    },
+    "suspension_periods": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/date_range" }
+    },
+    "notice_coverage": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/date_range" }
+    }
+  },
+  "$defs": {
+    "date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "date_range": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["from", "to", "source"],
+      "properties": {
+        "from": { "$ref": "#/$defs/date" },
+        "to": { "$ref": "#/$defs/date" },
+        "source": { "type": "string", "minLength": 1 }
+      }
+    },
+    "statute_version": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "source",
+        "evidence",
+        "applies_from",
+        "applies_to",
+        "weekend_days",
+        "fixed_holidays",
+        "sexennial_holidays"
+      ],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "source": { "type": "string", "minLength": 1 },
+        "evidence": { "type": "string", "minLength": 1 },
+        "applies_from": { "$ref": "#/$defs/date" },
+        "applies_to": {
+          "oneOf": [{ "$ref": "#/$defs/date" }, { "type": "null" }]
+        },
+        "weekend_days": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "enum": ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
+          }
+        },
+        "fixed_holidays": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["month", "day"],
+            "properties": {
+              "month": { "type": "integer", "minimum": 1, "maximum": 12 },
+              "day": { "type": "integer", "minimum": 1, "maximum": 31 }
+            }
+          }
+        },
+        "sexennial_holidays": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["month", "day", "first_year", "last_year", "reason"],
+            "properties": {
+              "month": { "type": "integer", "minimum": 1, "maximum": 12 },
+              "day": { "type": "integer", "minimum": 1, "maximum": 31 },
+              "first_year": { "type": "integer" },
+              "last_year": {
+                "description": "The last occurrence year this entry is evidenced for. A counting window that touches a later occurrence year is insufficient, never counted as an ordinary year.",
+                "type": "integer"
+              },
+              "reason": { "type": "string", "minLength": 1 }
+            }
+          }
+        }
+      }
+    }
+  }
+}

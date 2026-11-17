@@ -527,11 +527,8 @@ pub fn verify(
         digest(&fs::read(database)?) == manifest.database_sha256,
         "database checksum differs from sidecar"
     );
-    for suffix in ["sqlite-wal", "sqlite-shm", "sqlite-journal"] {
-        ensure!(
-            !database.with_extension(suffix).exists(),
-            "SQLite sidecar present"
-        );
+    for sidecar in crate::sqlite_sidecars(database) {
+        ensure!(!sidecar.exists(), "SQLite sidecar present");
     }
     let git = GitInput::new(root, expected_commit)?;
     let builder = GitInput::new(root, &manifest.specification.builder_commit)?;

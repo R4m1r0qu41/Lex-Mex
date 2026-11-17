@@ -26,7 +26,7 @@
         { "month": 12, "day": 25 }
       ],
       "sexennial_holidays": [
-        { "month": 12, "day": 1, "first_year": 1994, "reason": "transmission of the Federal Executive, every six years" }
+        { "month": 12, "day": 1, "first_year": 1994, "last_year": 2018, "reason": "transmission of the Federal Executive, every six years. Evidenced through 2018 only: from 2024 the Executive changes on 1 October (constitutional reform, DOF 10-02-2014), and whether article 28 then excludes 1 October, 1 December or neither is not decided here, so any count reaching 2024, 2030, ... is insufficient (Codex review 2026-10-28, deferred limit 3)" }
       ]
     }
   ],
