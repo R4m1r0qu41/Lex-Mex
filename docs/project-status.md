@@ -1,13 +1,70 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-10-16
+- **Status date:** 2026-10-16 for the bullets below; the 2026-11-17 section supersedes them where they differ
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
 - **Committed instruments:** 468 (`corpus/mx/*/instrument.json`): 467 pushed, plus `reg-pmimss`, admitted locally on 2026-10-18 by operator request as a test case; local `main` is ahead of `origin/main` (`83e03a4e5`), unpushed. The 32 further `corpus/mx` directories are NOM standards, a separate boundary
 - **Federal structural first pass:** structurally complete. 452 of 453 current Cámara laws and regulations are in the corpus; the one gap is `egdf`, excluded by operator decision ([coverage audit](federal-coverage-audit-2026-10-16.md)). `reg-pmimss` (Reglamento de Prestaciones Médicas del IMSS) comes from the Cámara other-regulations index and is outside that count
 - **Deferred:** three DCGs (`consar-cuf-dcg-2018`, `cusf-dcg-2014`, `pld-lic115-dcg-2009`), outside the Cámara universe
 - **Closure gate:** `lex-mex link --all` exits 0 only when its rejections equal the recorded accepted gaps (`adapters/diputados/_closure-accepted-gaps.json`: `lftr` and `socap-sofipo-dcg-2006` after the 2026-10-25 repair, which resolved `cucb-dcg-2004`, `oaac-dcg-2009` and `cub-dcg-2005`; `cpf`, `lgs` and `lmv` resolved by the 2026-10-19 reparse); anything new, changed or resolved exits 1. An instrument rejected with exactly its accepted gap still takes a glossary-only refresh (terms, usages, coverage, Markdown; references untouched), and one whose persisted terms no longer reproduce fails the closure (2026-10-19). `link <slug>` refuses to change protected historical or approved edges unless `--migrate-protected` is passed for a recorded operator migration.
-- **Next checkpoint:** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
+- **Next checkpoint (2026-10-16, superseded; see the 2026-11-17 section):** corpus-wide relink and the parser/linker repair are landed locally (unpushed). Federal laws and regulations are in maintenance mode. Open: Codex technical review; JRH on `lgdnna` Article 157 and `lrsic`; EGDF recording (operator reviewing); 8 held instruments (`cpf`, `lgs`, `lmv` target-side suffix parser gaps; `lftr` embedded invalidated articles; four DCGs for a DCG pass); DCGs. The derived SQLite database plan is adopted ([plan](plans/sqlite-corpus-database.md)); its prerequisite, the per-edge `resolution_rule`, has landed. M1 contract implementation is validated in the dedicated DB worktree ([report](sqlite-m1-implementation-2026-10-20.md)); M2 full-corpus builder and M3 independent release verification remain. No full corpus database artifact exists yet. `lfiiedb` modeling remains open
 - **Legal and temporal review:** none run on the 2026-10-15 admissions; provisions are `not_analyzed`
+
+## 2026-11-17 current state (supersedes the header's next checkpoint)
+
+**Branches in flight, all local and unpushed unless noted:**
+- `pilot/fintech-structural`: pushed, PR #5 open, not merged. The pilot is adopted for local read-only use.
+- `status/in-force-scjn` (worktree `lex-mex-status-pass`): the corpus-wide in-force rule and SCJN invalidity statuses. JRH decisions 1–14 are recorded in [the decision record](jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md); the plan is [corpus-in-force-status-pass](plans/corpus-in-force-status-pass.md).
+- `fix/codex-audit-2026-11-17` (worktree `lex-mex-integration`, from `origin/main` `47a3ffc59`): the bounded-commencement code ported onto `main` with the fixes for the Codex audit of 2026-11-17. It is the intended base for the in-force rule. A Codex re-review is pending (`docs/codex-audit-fixes-2026-11-17.md` on that branch).
+- `feat/public-reader-r7` (worktree `lex-mex-reader`): the D3 adapter with the audit fixes. Codex recommends keeping it as reference and as a possible native backend, not merging it wholesale.
+- `rule/bounded-commencement-2026-10-27`: superseded by the port branch and kept for history.
+
+**Next actions, in order:**
+1. Codex re-review of the audit fixes; the operator starts it.
+2. JRH legal point: whether LFPA art. 28 excludes 1 October from 2024. Until then, any business-day count reaching 2024 stays unresolved.
+3. Status pass: hand review of the 66 corpus SCJN rulings; the two-way diff against the printed notes; then the registry schema, Rust type and validator together.
+4. Merge PR #5 and the port branch, on JRH's instruction.
+
+**Plans index** (last change date per file). Only the plans marked here have a state verified on 2026-11-17; the rest still need a reading before they are called done or superseded.
+
+| Last change | Plan | State |
+|---|---|---|
+| 2026-11-16 | [corpus-in-force-status-pass.md](plans/corpus-in-force-status-pass.md) | **live**: the corpus-wide in-force rule and SCJN invalidity statuses (branch `status/in-force-scjn`) |
+| 2026-11-14 | [fintech-structural-pilot.md](plans/fintech-structural-pilot.md) | **adopted, frozen**: JRH adopted the pilot locally (read-only) on 2026-11-16; PR #5 open, not merged |
+| 2026-11-13 | [four-goal-system-upgrade.md](plans/four-goal-system-upgrade.md) | **delivered**: merged through the 2026-11-12/13 upgrade reviews |
+| 2026-11-07 | [agent-first-delivery-and-change-tolerant-releases.md](plans/agent-first-delivery-and-change-tolerant-releases.md) | **live (delivery track)**: named by Codex on 2026-10-28 as the next runtime work |
+| 2026-11-03 | [parser-responsibility-split.md](plans/parser-responsibility-split.md) | not re-verified on 2026-11-17 |
+| 2026-11-03 | [parser-reader-integration.md](plans/parser-reader-integration.md) | not re-verified on 2026-11-17 |
+| 2026-11-03 | [duckdb-bounded-analytics-spike.md](plans/duckdb-bounded-analytics-spike.md) | not re-verified on 2026-11-17 |
+| 2026-10-25 | [post-split-corpus-and-query-repair.md](plans/post-split-corpus-and-query-repair.md) | not re-verified on 2026-11-17 |
+| 2026-10-24 | [reader-usability-and-medium-identity.md](plans/reader-usability-and-medium-identity.md) | not re-verified on 2026-11-17 |
+| 2026-10-24 | [reader-logo-exploration.md](plans/reader-logo-exploration.md) | not re-verified on 2026-11-17 |
+| 2026-10-24 | [reader-brand-alignment.md](plans/reader-brand-alignment.md) | not re-verified on 2026-11-17 |
+| 2026-10-24 | [four-instrument-reader-design-release.md](plans/four-instrument-reader-design-release.md) | not re-verified on 2026-11-17 |
+| 2026-10-21 | [workspace-db-parser-consolidation-audit.md](plans/workspace-db-parser-consolidation-audit.md) | not re-verified on 2026-11-17 |
+| 2026-10-21 | [heading-leak-parser-and-debt-repair.md](plans/heading-leak-parser-and-debt-repair.md) | not re-verified on 2026-11-17 |
+| 2026-10-20 | [sqlite-corpus-database.md](plans/sqlite-corpus-database.md) | not re-verified on 2026-11-17 |
+| 2026-10-20 | [scjn-invalidity-registry-integration.md](plans/scjn-invalidity-registry-integration.md) | **folded into the status pass**: the committed Court registry is a source for it |
+| 2026-10-20 | [glossary-detection.md](plans/glossary-detection.md) | not re-verified on 2026-11-17 |
+| 2026-10-18 | [merged-heading-split.md](plans/merged-heading-split.md) | not re-verified on 2026-11-17 |
+| 2026-10-17 | [claude-parent-link-review-2026-10-17.md](plans/claude-parent-link-review-2026-10-17.md) | not re-verified on 2026-11-17 |
+| 2026-10-16 | [reader-figma-intake-dots.md](plans/reader-figma-intake-dots.md) | not re-verified on 2026-11-17 |
+| 2026-10-16 | [parser-linker-audit-2026-10-16.md](plans/parser-linker-audit-2026-10-16.md) | not re-verified on 2026-11-17 |
+| 2026-10-16 | [linker-claude-audit-2026-10-16.md](plans/linker-claude-audit-2026-10-16.md) | not re-verified on 2026-11-17 |
+| 2026-10-16 | [federal-source-inspection-batch-01.md](plans/federal-source-inspection-batch-01.md) | not re-verified on 2026-11-17 |
+| 2026-10-16 | [corpus-wide-reverse-linking.md](plans/corpus-wide-reverse-linking.md) | not re-verified on 2026-11-17 |
+| 2026-10-16 | [cluster-2-federal-corpus-ingestion.md](plans/cluster-2-federal-corpus-ingestion.md) | not re-verified on 2026-11-17 |
+| 2026-10-15 | [federal-held-source-reprocessing.md](plans/federal-held-source-reprocessing.md) | not re-verified on 2026-11-17 |
+| 2026-10-15 | [federal-bulk-structural-admission.md](plans/federal-bulk-structural-admission.md) | not re-verified on 2026-11-17 |
+| 2026-10-07 | [partial-repeal-and-conditional-commencement.md](plans/partial-repeal-and-conditional-commencement.md) | not re-verified on 2026-11-17 |
+| 2026-10-07 | [nested-public-reader.md](plans/nested-public-reader.md) | not re-verified on 2026-11-17 |
+| 2026-10-06 | [temporal-boundary-repair-and-public-reader.md](plans/temporal-boundary-repair-and-public-reader.md) | not re-verified on 2026-11-17 |
+| 2026-08-01 | [standard-post-transitory-supplements.md](plans/standard-post-transitory-supplements.md) | not re-verified on 2026-11-17 |
+| 2026-08-01 | [nom-standards-batch-2.md](plans/nom-standards-batch-2.md) | not re-verified on 2026-11-17 |
+| 2026-08-01 | [maximasa-legal-integration.md](plans/maximasa-legal-integration.md) | not re-verified on 2026-11-17 |
+| 2026-07-31 | [standards-amendment-marks.md](plans/standards-amendment-marks.md) | not re-verified on 2026-11-17 |
+| 2026-07-31 | [sequential-canonical-fold.md](plans/sequential-canonical-fold.md) | not re-verified on 2026-11-17 |
+| 2026-07-31 | [cnbv-art115-lic-consolidation.md](plans/cnbv-art115-lic-consolidation.md) | not re-verified on 2026-11-17 |
+| 2026-07-25 | [external-cli-metadata-ingestion-automation.md](plans/external-cli-metadata-ingestion-automation.md) | not re-verified on 2026-11-17 |
 
 ## 2026-11-14 Fintech structural pilot (branch `pilot/fintech-structural`, local)
 
