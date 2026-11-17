@@ -4255,3 +4255,12 @@ resolutivos", but they do not print the notification date. JRH: take the rule fr
 effects sentence and the date from the notification date the Cámara note prints, recording both
 sources. Decision 13 in `docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. No
 state changed by this entry.
+
+### 2026-11-17 — LGCS revival notes: the printed text is in force (JRH)
+
+JRH: "On the LGCS they text shown is the one in force". Every unit of the Ley General de
+Comunicación Social whose note says it "recupera su vigencia con el texto que tenía al 27 de
+diciembre de 2022" is in force with the printed text, including the eight art. 4 glossary
+fractions recorded as invalidated in 2026-10. Decision 14 in
+`docs/jrh-in-force-rule-and-scjn-invalidity-decision-2026-11-16.md`. Not yet applied; no state
+changed by this entry.
