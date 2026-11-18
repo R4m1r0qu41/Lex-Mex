@@ -12,7 +12,10 @@ const positive = (value, name) => {
 /** Network evidence only; bodies remain internal and are never included in the report. */
 export async function checkRetrieval(options = {}) {
   const base = new URL(options.baseUrl);
-  if (!['http:', 'https:'].includes(base.protocol) || base.username || base.password || base.search || base.hash) throw new Error('Invalid base URL');
+  // `search` and `hash` are empty for both an absent component and a bare `?` or
+  // `#`, so the serialized href is checked too (Codex 2026-11-18 follow-up; the
+  // same rule `safe()` applies to every followed URL).
+  if (!['http:', 'https:'].includes(base.protocol) || base.username || base.password || base.search || base.hash || /[?#]/.test(base.href)) throw new Error('Invalid base URL');
   if (!base.pathname.endsWith('/')) base.pathname += '/';
   const articles = options.articles ?? ['35', '39'];
   if (!Array.isArray(articles) || !articles.length || articles.some(n => !/^\d+(?: Bis| Ter| Quáter)?$/.test(n)) || new Set(articles).size !== articles.length) throw new Error('Invalid article locators');

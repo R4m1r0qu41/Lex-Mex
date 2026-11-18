@@ -97,6 +97,24 @@ test('rejects malformed manifest for optional full verification', async t => {
   assert.match(report.errors[0].message, /manifest/);
   assert.equal(report.discovery.requests.length, 10);
 });
+// Codex 2026-11-18 follow-up: a bare `?` or `#` on the configured base URL has
+// an empty `search`/`hash`, so it was accepted at configuration time even though
+// every request URL resolved from it was component-free. The configuration is
+// now rejected like a nonempty component, before any request is made.
+for (const [name, suffix] of [['bare query', '?'], ['bare fragment', '#'], ['query', '?x=1'], ['fragment', '#top']]) {
+  test(`a base URL with a ${name} is rejected before any request`, async t => {
+    const f = await fixture(t);
+    await assert.rejects(checkRetrieval({baseUrl: `${f.baseUrl}${suffix}`}), /Invalid base URL/);
+    assert.equal(f.hits.length, 0, JSON.stringify(f.hits));
+  });
+}
+test('a plain base URL and one without a trailing slash are still accepted', async t => {
+  const f = await fixture(t);
+  for (const baseUrl of [f.baseUrl, f.baseUrl.replace(/\/$/, '')]) {
+    const report = await checkRetrieval({baseUrl});
+    assert.equal(report.discoveryCompleted, true, JSON.stringify(report.errors));
+  }
+});
 test('transport errors preserve status null', async () => {
   const server = createServer();
   await new Promise(r => server.listen(0, '127.0.0.1', r));
